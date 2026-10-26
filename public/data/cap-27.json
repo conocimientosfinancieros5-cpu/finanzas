@@ -1,0 +1,310 @@
+{
+  "capitulo": 27,
+  "titulo": "Administraci?n del riesgo",
+  "preguntas": [
+    {
+      "id": "c27-q001",
+      "tema": "Mercados perfectos",
+      "dificultad": "basica",
+      "pregunta": "En mercados de capitales perfectos, ?por qu? una cobertura financiera pactada a condiciones justas no aumenta por s? sola el valor de una empresa?",
+      "opciones": [
+        "Toda reducci?n de volatilidad aumenta autom?ticamente el valor.",
+        "Transfiere riesgo sin crear valor y los accionistas pueden ajustar su exposici?n por su cuenta.",
+        "La cobertura elimina el riesgo de la econom?a.",
+        "La contraparte acepta siempre un VPN negativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta confunde estabilidad con creaci?n de riqueza. En mercados perfectos, los inversores pueden modificar su propia exposici?n al riesgo. Para justificar un mayor valor hace falta un beneficio adicional, como evitar costos de dificultades financieras.",
+        "El riesgo pasa a otra contraparte y los pagos del contrato se compensan entre las partes. Adem?s, los accionistas pueden reproducir la reducci?n de riesgo con sus propias inversiones. Sin fricciones ni efectos sobre las decisiones reales, esa transferencia no genera un VPN positivo.",
+        "El contrato asigna el riesgo a otra parte, pero no lo hace desaparecer. Lo que gana una contraparte en el derivado lo pierde la otra. La eliminaci?n del riesgo agregado no es la explicaci?n de una cobertura.",
+        "Una contraparte que negocia en condiciones competitivas no regala valor sistem?ticamente. El precio inicial se fija para equilibrar el valor de los compromisos. Los pagos posteriores pueden ser positivos o negativos sin alterar ese VPN inicial."
+      ]
+    },
+    {
+      "id": "c27-q002",
+      "tema": "Informaci?n, diversificaci?n y apalancamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una minera informa que fij? con forwards casi todo su precio de venta. ?Qu? necesita comprender un accionista que buscaba exposici?n al precio del metal?",
+      "opciones": [
+        "Que conservar? necesariamente toda la ganancia de una suba del metal.",
+        "Que una adquisici?n en una industria ajena siempre agregar?a valor por diversificaci?n.",
+        "Que reducir la deuda siempre aumenta la riqueza de los accionistas.",
+        "Que su exposici?n efectiva cambi? y debe evaluar la posici?n conjunta de la minera y sus coberturas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta conclusi?n ignora la posici?n corta en forwards. La ganancia operativa por una suba puede compensarse con una p?rdida contractual. Hay que analizar ambos componentes para medir la exposici?n.",
+        "La diversificaci?n empresarial no crea valor autom?ticamente. Los accionistas pueden diversificar sus carteras directamente. En mercados perfectos, duplicar esa operaci?n dentro de la empresa resulta redundante.",
+        "Menos deuda puede reducir riesgo financiero, pero no garantiza mayor riqueza. En el marco de mercados perfectos, los inversores pueden ajustar su endeudamiento personal. Las ventajas reales de una pol?tica financiera requieren considerar las fricciones pertinentes.",
+        "El rendimiento de la acci?n depende del negocio y de los contratos financieros. Una venta forward reduce el beneficio de una suba del metal. La informaci?n sobre coberturas permite al inversor ajustar su cartera, igual que puede diversificar o cambiar su apalancamiento personal."
+      ]
+    },
+    {
+      "id": "c27-q003",
+      "tema": "Cobertura y financiamiento",
+      "dificultad": "basica",
+      "pregunta": "?Qu? beneficio puede justificar una cobertura en una empresa con proyectos de VPN positivo y acceso costoso al cr?dito?",
+      "opciones": [
+        "Evitar que un d?ficit de caja obligue a abandonar inversiones valiosas.",
+        "Garantizar que cada derivado genere una utilidad.",
+        "Reemplazar toda evaluaci?n de los proyectos.",
+        "Hacer complementarias, en todos los casos, la cobertura y una menor deuda."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un shock puede dejar sin fondos a una empresa aun cuando sus proyectos sean rentables. La cobertura puede aportar recursos precisamente cuando se necesitan. El valor proviene de preservar inversiones y evitar costos financieros, no de estabilizar resultados por s? mismo.",
+        "Una cobertura puede perder dinero mientras protege el negocio. Su objetivo es mejorar la situaci?n conjunta de caja e inversi?n. Exigir ganancias en cada contrato confunde cobertura con una apuesta ganadora.",
+        "La cobertura no determina si un proyecto crea valor. La empresa todav?a debe estimar flujos y descontarlos correctamente. Su funci?n es reducir el riesgo de no poder financiar proyectos que ya resultan convenientes.",
+        "La cobertura puede permitir sostener una mayor deuda con un riesgo tolerable. En ese sentido, puede sustituir parte del conservadurismo financiero. No existe una obligaci?n general de cubrirse y reducir simult?neamente el endeudamiento."
+      ]
+    },
+    {
+      "id": "c27-q004",
+      "tema": "Caja y oportunidades de inversi?n",
+      "dificultad": "intermedia",
+      "pregunta": "Una petrolera tiene m?s caja cuando sube el crudo, justamente cuando aparecen sus mejores proyectos de exploraci?n. ?Qu? deber?a evaluar antes de fijar todos sus ingresos?",
+      "opciones": [
+        "Solamente si el precio forward supera el precio spot actual.",
+        "Si puede eliminar por completo el riesgo geol?gico con futuros de crudo.",
+        "Si la cobertura rompe el acompa?amiento natural entre caja y oportunidades de inversi?n.",
+        "Si los accionistas prefieren ganancias contables id?nticas todos los a?os."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La diferencia entre spot y forward tambi?n refleja costos de tenencia. No basta para determinar si la cobertura conviene a la empresa. El an?lisis central es c?mo se relacionan los fondos disponibles con las oportunidades de inversi?n.",
+        "Los futuros de crudo cubren cambios del precio de referencia. No eliminan la incertidumbre sobre reservas o ?xito de una perforaci?n. Confundir estas fuentes de riesgo lleva a sobreestimar la protecci?n.",
+        "La caja sin cobertura ya aumenta en los estados en que conviene invertir m?s. Fijarla puede quitar recursos en esos estados y dejar excedentes cuando hay pocos proyectos. La pol?tica debe considerar las necesidades de inversi?n, adem?s de la volatilidad de ingresos.",
+        "La estabilidad contable no es el objetivo financiero final. Una empresa puede necesitar m?s recursos en ciertos estados que en otros. Corresponde evaluar el efecto de la cobertura sobre inversi?n y valor."
+      ]
+    },
+    {
+      "id": "c27-q005",
+      "tema": "Exposici?n cambiaria e inversi?n",
+      "dificultad": "intermedia",
+      "pregunta": "Una farmac?utica cobra gran parte de sus ventas en moneda extranjera, pero paga investigaci?n de largo plazo en moneda local. ?Qu? fundamento tiene cubrir parte de sus cobros?",
+      "opciones": [
+        "Asegurar que la moneda extranjera se aprecie.",
+        "Eliminar el riesgo de que fracase un medicamento.",
+        "Proteger la continuidad de la investigaci?n frente a una ca?da del valor local de las cobranzas.",
+        "Obtener necesariamente un rendimiento superior al de sus competidores."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un derivado no determina el movimiento del tipo de cambio. Permite redistribuir sus consecuencias financieras. La protecci?n surge de compensar una ca?da de las cobranzas con los pagos del contrato.",
+        "El riesgo cient?fico es distinto del riesgo cambiario. Una cobertura de moneda no modifica la eficacia de una mol?cula. La empresa conserva los riesgos propios de investigaci?n aunque estabilice sus fondos.",
+        "Los compromisos de investigaci?n no suelen poder suspenderse sin costo. Una depreciaci?n de la moneda cobrada puede reducir los fondos disponibles para sostenerlos. Cubrir parte de esa exposici?n puede evitar interrupciones y financiamiento de emergencia.",
+        "La cobertura no garantiza una ventaja de rentabilidad en todos los escenarios. Puede implicar renunciar a beneficios de un movimiento cambiario favorable. Su justificaci?n es sostener inversiones y reducir costos de estados desfavorables."
+      ]
+    },
+    {
+      "id": "c27-q006",
+      "tema": "Agencia y mercado interno",
+      "dificultad": "intermedia",
+      "pregunta": "Dos divisiones tienen exposiciones opuestas al mismo insumo y sus gerentes son evaluados por resultados. ?Qu? organizaci?n resulta razonable?",
+      "opciones": [
+        "Usar coberturas internas a precios de mercado y decidir centralmente sobre la exposici?n neta.",
+        "Exigir que cada divisi?n cubra externamente su exposici?n bruta completa.",
+        "Premiar toda mejora de utilidades como si reflejara habilidad gerencial.",
+        "Permitir apuestas de futuros para recuperar un bono anual perdido."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las coberturas internas ayudan a separar desempe?o operativo de shocks externos. La tesorer?a puede compensar exposiciones entre divisiones antes de contratar derivados reales. As? evita costos innecesarios y limita apuestas financieras de gerentes operativos.",
+        "Esta pol?tica ignora las compensaciones dentro del grupo. Puede generar dos contratos externos que se cancelan econ?micamente. Centralizar la exposici?n neta permite alcanzar el objetivo con menos operaciones.",
+        "Una mejora puede provenir de una ca?da fortuita del precio del insumo. Si se atribuye todo al gerente, se distorsionan los incentivos. La evaluaci?n debe distinguir riesgos controlables de shocks externos.",
+        "Esa pr?ctica incentiva asumir m?s riesgo cuando el desempe?o ya es malo. El gerente puede apostar recursos de la empresa para proteger su remuneraci?n. La supervisi?n y la centralizaci?n buscan evitar ese conflicto de agencia."
+      ]
+    },
+    {
+      "id": "c27-q007",
+      "tema": "Mapa de riesgos y flexibilidad",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l es un enfoque completo para decidir c?mo administrar un riesgo importante?",
+      "opciones": [
+        "Eliminar cualquier incertidumbre, aunque desaparezca una oportunidad rentable.",
+        "Elegir siempre el derivado m?s complejo disponible.",
+        "Mirar ?nicamente la volatilidad pasada de la acci?n.",
+        "Medir sus consecuencias, evaluar si tiene una compensaci?n y comparar flexibilidad operativa, financiamiento y coberturas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los administradores deben asumir ciertos riesgos para crear valor. Reducir toda incertidumbre puede destruir oportunidades. La decisi?n depende de la compensaci?n y de las consecuencias de cada exposici?n.",
+        "La complejidad del instrumento no mide su utilidad. A veces una modificaci?n operativa o financiera cubre mejor la exposici?n. La herramienta debe responder al riesgo identificado y a sus costos.",
+        "La volatilidad hist?rica puede aportar informaci?n, pero no identifica todas las consecuencias futuras. Hay que considerar flujos de caja, inversi?n y escenarios extremos. Una medida agregada de precios no reemplaza el an?lisis de las exposiciones.",
+        "Primero hay que identificar los riesgos que pueden comprometer a la empresa. Despu?s corresponde distinguir los que conviene asumir de los que no ofrecen una retribuci?n adecuada. Las opciones reales, como cambiar de insumo o abandonar con menor costo, tambi?n forman parte de las herramientas disponibles."
+      ]
+    },
+    {
+      "id": "c27-q008",
+      "tema": "Evidencia e incentivos gerenciales",
+      "dificultad": "avanzada",
+      "pregunta": "?Qu? interpretaci?n es consistente con que algunos estudios encuentren m?s cobertura cuando los gerentes tienen muchas acciones y menos cuando tienen muchas opciones?",
+      "opciones": [
+        "Que tener opciones vuelve irrelevante cualquier riesgo de quiebra.",
+        "La aversi?n al riesgo personal y los incentivos de las opciones pueden influir en la pol?tica de cobertura.",
+        "Que la cobertura siempre maximiza el valor cuando aumenta la riqueza personal del gerente.",
+        "Que las empresas endeudadas nunca tienen motivos para cubrirse."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las opciones no eliminan los compromisos de la empresa ni los costos de dificultades financieras. S?lo modifican una parte de los incentivos personales. La pol?tica debe seguir evaluando las consecuencias para toda la compa??a.",
+        "Una tenencia accionaria concentrada expone la riqueza personal del gerente a p?rdidas. En cambio, el valor de una opci?n suele aumentar con la volatilidad del subyacente. La asociaci?n observada es compatible con esos incentivos, pero no prueba por s? sola una relaci?n causal.",
+        "El inter?s personal del gerente puede diferir del de accionistas diversificados. Una preferencia por menor riesgo no demuestra creaci?n de valor corporativo. La decisi?n requiere identificar beneficios para la empresa y costos de la cobertura.",
+        "El endeudamiento puede intensificar los costos de un d?ficit de caja. Por eso puede aumentar el incentivo a cubrir exposiciones. La evidencia sobre acceso al cr?dito y dificultades financieras es consistente con ese motivo."
+      ]
+    },
+    {
+      "id": "c27-q009",
+      "tema": "Impuestos y volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Supongamos que las utilidades pagan impuestos hoy, pero las p?rdidas s?lo permiten deducciones futuras de valor presente menor. ?C?mo podr?a crear valor una cobertura?",
+      "opciones": [
+        "Al convertir toda prima de cobertura en una devoluci?n inmediata de impuestos.",
+        "Al reducir la asimetr?a fiscal efectiva que sufre una empresa con resultados muy vol?tiles.",
+        "Al garantizar una tasa de impuesto cero.",
+        "Al aumentar deliberadamente la frecuencia de p?rdidas sin cr?dito fiscal inmediato."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hay tal consecuencia general. El tratamiento fiscal depende del contrato y de las reglas supuestas. El argumento econ?mico relevante es la asimetr?a entre gravar ganancias y reconocer p?rdidas.",
+        "La empresa paga inmediatamente en los estados rentables, pero no obtiene un reintegro equivalente al perder. Esa asimetr?a puede hacer costosa la volatilidad. Una cobertura que suavice resultados puede reducir la carga fiscal esperada, aunque su importancia depende del r?gimen aplicable.",
+        "Reducir la variabilidad de resultados no elimina necesariamente la base imponible. La empresa puede seguir obteniendo utilidades gravadas. El beneficio posible es una menor carga esperada, no una exenci?n autom?tica.",
+        "Eso agrava la asimetr?a planteada. Las p?rdidas con deducciones demoradas tienen menor valor fiscal presente. La cobertura puede ayudar justamente evitando algunos estados extremos de p?rdida."
+      ]
+    },
+    {
+      "id": "c27-q010",
+      "tema": "Ventajas de las aseguradoras",
+      "dificultad": "basica",
+      "pregunta": "?Qu? ventaja econ?mica puede aportar una aseguradora a una empresa?",
+      "opciones": [
+        "Eliminar todo riesgo macroecon?mico por aumentar el n?mero de p?lizas.",
+        "Conocer con certeza la fecha y el importe de cada siniestro.",
+        "Garantizar que sus primas sean inferiores a las p?rdidas esperadas.",
+        "Experiencia para evaluar siniestros, asesoramiento preventivo y diversificaci?n de riesgos espec?ficos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La diversificaci?n funciona mejor con riesgos que no se mueven juntos. Un shock agregado puede afectar muchas p?lizas simult?neamente. Aumentar la cantidad no elimina esa exposici?n com?n.",
+        "La experiencia permite estimar probabilidades, no adivinar resultados individuales. Una p?liza particular sigue siendo incierta. La estabilidad surge del conjunto de exposiciones y de una adecuada gesti?n del riesgo.",
+        "Una prima persistentemente inferior a las p?rdidas esperadas no cubrir?a los costos. Adem?s de siniestros, la aseguradora soporta gastos de administraci?n y evaluaci?n. Sus ventajas no implican regalar cobertura.",
+        "Una aseguradora puede reunir informaci?n de numerosos riesgos semejantes. Tambi?n puede recomendar medidas que reduzcan p?rdidas y agrupar p?lizas con siniestros poco correlacionados. Esa diversificaci?n no elimina shocks macroecon?micos que afecten simult?neamente a muchas p?lizas."
+      ]
+    },
+    {
+      "id": "c27-q011",
+      "tema": "Prima actuarial y descuento",
+      "dificultad": "intermedia",
+      "pregunta": "Una instalaci?n puede sufrir una p?rdida de $5.000.000 al final del a?o con probabilidad del 2%. El riesgo es diversificable y la tasa anual es 5%. Sin gastos ni fricciones, ?qu? prima hoy da VPN cero?",
+      "opciones": [
+        "$95.238,10.",
+        "$100.000.",
+        "$105.000.",
+        "$4.761.904,76."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La p?rdida esperada al final del a?o es 0,02 ? 5.000.000 = $100.000. Como la prima se paga hoy, se descuenta: 100.000 / 1,05 = $95.238,10. Bajo los supuestos indicados, ese es el valor presente de la indemnizaci?n esperada.",
+        "Este importe es la indemnizaci?n esperada al final del a?o. Cobrarlo hoy ignora que la aseguradora puede invertir la prima durante el per?odo. Para obtener VPN cero hay que descontar ese flujo esperado al 5%.",
+        "Este c?lculo capitaliza la p?rdida esperada en vez de descontarla. La indemnizaci?n ocurre despu?s de cobrar la prima. Por eso el importe de hoy debe ser menor que $100.000 bajo una tasa positiva.",
+        "Este valor descuenta la p?rdida m?xima como si fuera segura. La probabilidad del siniestro es solamente 2%. Primero se calcula la p?rdida esperada y despu?s se descuenta."
+      ]
+    },
+    {
+      "id": "c27-q012",
+      "tema": "Selecci?n adversa",
+      "dificultad": "basica",
+      "pregunta": "Una aseguradora no distingue instalaciones seguras de otras con defectos ocultos. A una prima uniforme, las de mayor riesgo contratan m?s cobertura. ?Qu? problema aparece?",
+      "opciones": [
+        "Riesgo moral exclusivamente.",
+        "Arbitraje sin riesgo.",
+        "Selecci?n adversa.",
+        "Riesgo de la base de un futuro."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El riesgo moral se refiere a cambios de conducta asociados con estar asegurado. Aqu? el problema existe antes de contratar y surge de informaci?n privada. Por eso corresponde identificar selecci?n adversa.",
+        "No se describe una combinaci?n de operaciones que garantice una ganancia. Hay un problema de informaci?n entre asegurados y aseguradora. Esa informaci?n desigual altera qui?n decide comprar la p?liza.",
+        "Los solicitantes conocen mejor su riesgo antes de contratar. A un mismo precio, la cobertura resulta m?s atractiva para quienes esperan m?s p?rdidas. La composici?n de la cartera empeora y puede obligar a elevar primas.",
+        "No hay aqu? dos precios de mercado que evolucionen de manera diferente. La dificultad es distinguir calidades de riesgo entre clientes. El riesgo de la base pertenece a una falta de correspondencia entre exposici?n y cobertura."
+      ]
+    },
+    {
+      "id": "c27-q013",
+      "tema": "Riesgo moral y costos del seguro",
+      "dificultad": "basica",
+      "pregunta": "Despu?s de asegurar una planta, su due?o reduce el mantenimiento porque la aseguradora absorber? gran parte de los da?os. ?Qu? explica este comportamiento?",
+      "opciones": [
+        "Selecci?n adversa, porque cambi? la conducta despu?s del contrato.",
+        "Diversificaci?n, porque toda reducci?n del mantenimiento disminuye el riesgo agregado.",
+        "Riesgo moral, que puede requerir inspecciones y elevar el costo de asegurar.",
+        "Una oportunidad de arbitraje que abarata necesariamente las primas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La selecci?n adversa trata sobre informaci?n o tipos de riesgo previos a contratar. El dato decisivo aqu? es el cambio de mantenimiento tras obtener cobertura. Ese cambio corresponde al riesgo moral.",
+        "Menos mantenimiento puede aumentar la probabilidad o gravedad de da?os. Diversificar no consiste en empeorar la prevenci?n individual. Consiste en combinar exposiciones para reducir la variabilidad conjunta.",
+        "La cobertura modifica el incentivo para prevenir p?rdidas. La aseguradora puede necesitar controles para limitar esa conducta. Esos controles, junto con los gastos de gesti?n y de reclamaciones, ayudan a explicar primas superiores a la p?rdida esperada.",
+        "El ahorro privado en mantenimiento puede trasladar costos a la aseguradora. No crea una ganancia social segura ni obliga a bajar las primas. La respuesta probable incluye controles y mayor precio por el riesgo adicional."
+      ]
+    },
+    {
+      "id": "c27-q014",
+      "tema": "Bonos de cat?strofe",
+      "dificultad": "basica",
+      "pregunta": "?C?mo distribuye el riesgo un bono de cat?strofe?",
+      "opciones": [
+        "Sus inversores pueden perder pagos o capital si ocurre el evento definido, absorbiendo parte de la p?rdida asegurada.",
+        "Obliga al asegurador a aumentar los pagos cuando ocurre la cat?strofe.",
+        "Garantiza el capital del inversor frente a cualquier desastre.",
+        "Elimina la necesidad de definir un disparador contractual."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El contrato vincula los pagos del bono con una cat?strofe especificada. Si se activa la condici?n, el inversor recibe menos de lo prometido en ausencia del evento. As? parte del riesgo pasa del asegurador a los mercados de capitales.",
+        "Esto invertir?a el mecanismo de protecci?n del emisor. En un bono de cat?strofe, la activaci?n reduce o cancela pagos previstos. Esa reducci?n libera recursos para afrontar las p?rdidas aseguradas.",
+        "El inversor asume precisamente un riesgo de p?rdida ligado al evento. Si el capital estuviera garantizado en todos los casos, no se transferir?a ese riesgo de la misma manera. Hay que leer el disparador y las condiciones de pago.",
+        "La transferencia requiere precisar cu?ndo cambian los pagos. Sin una condici?n verificable surgir?an disputas sobre la obligaci?n. El disparador es esencial para determinar qui?n soporta la p?rdida."
+      ]
+    },
+    {
+      "id": "c27-q015",
+      "tema": "Disparadores de bonos Cat",
+      "dificultad": "avanzada",
+      "pregunta": "Un asegurador compara un bono Cat activado por sus propias reclamaciones con otro activado por p?rdidas de toda la industria. ?Qu? intercambio enfrenta?",
+      "opciones": [
+        "El disparador sectorial elimina toda diferencia entre p?rdidas propias y pagos del bono.",
+        "El disparador propio elimina todo incentivo de riesgo moral.",
+        "Ambos disparadores aseguran siempre la misma indemnizaci?n en cada escenario.",
+        "El disparador sectorial suele reducir el incentivo a inflar p?rdidas propias, pero puede aumentar el riesgo de la base."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las p?rdidas sectoriales pueden ser grandes en regiones donde el emisor tiene poca exposici?n. Tambi?n puede ocurrir lo contrario. Por eso el v?nculo sectorial puede dejar una cobertura imperfecta.",
+        "Vincular el alivio financiero a reclamaciones propias puede afectar incentivos. El emisor podr?a tener menor inter?s en contener p?rdidas o discutir reclamaciones. Se necesitan mecanismos contractuales y de control que limiten ese problema.",
+        "Cada disparador observa una variable diferente. S?lo coincidir?an necesariamente si las p?rdidas propias y sectoriales estuvieran ligadas de manera exacta. La elecci?n altera tanto incentivos como precisi?n de la cobertura.",
+        "Las p?rdidas de la industria no coinciden necesariamente con las del emisor. Por eso puede sufrir da?os sin recibir alivio contractual suficiente. Un disparador basado en sus propias reclamaciones ajusta mejor la cobertura, pero puede generar incentivos a influir en esas reclamaciones."
+      ]
+    },
+    {
+      "id": "c27-q016",
+      "tema": "Autoaseguro y estrategia de BP",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa muy grande eval?a retener p?rdidas excepcionales que puede absorber, pero asegurar riesgos rutinarios donde las aseguradoras tienen informaci?n y precios competitivos. ?Cu?l es la l?gica?",
+      "opciones": [
+        "Asegurar siempre lo grande y retener siempre lo peque?o, sin analizar costos.",
+        "Comparar la ventaja del asegurador y el costo de la prima con la capacidad propia de absorber cada p?rdida.",
+        "Retener riesgos elimina la probabilidad de siniestro.",
+        "Elegir s?lo seg?n la diferencia hist?rica entre primas y reclamaciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa regla es una orientaci?n frecuente, pero no una ley econ?mica. La escala financiera y la eficiencia relativa del asegurador pueden cambiar la decisi?n. Lo relevante es el efecto de cada p?liza sobre costos y dificultades financieras.",
+        "Una p?rdida grande en t?rminos absolutos puede ser peque?a respecto del capital de una empresa enorme. Si el seguro especializado resulta caro y aporta poca informaci?n adicional, retenerla puede ser razonable. Los riesgos rutinarios pueden asegurarse cuando el proveedor externo los eval?a y administra con mayor eficiencia.",
+        "Autoasegurarse significa asumir financieramente las p?rdidas. No modifica por s? mismo la probabilidad de un accidente. La prevenci?n y la capacidad de absorber da?os deben evaluarse por separado.",
+        "Un per?odo con pocas reclamaciones no demuestra que una p?liza fuera in?til. El seguro protege frente a escenarios que pueden no haber ocurrido en la muestra. Hay que analizar p?rdidas posibles, precios, informaci?n y capacidad financiera."
+      ]
+    }
+  ]
+}

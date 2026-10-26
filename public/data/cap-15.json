@@ -1,0 +1,1222 @@
+{
+  "capitulo": 15,
+  "titulo": "Un panorama de las finanzas corporativas",
+  "preguntas": [
+    {
+      "id": "c15-q001",
+      "tema": "Fondos internos",
+      "dificultad": "basica",
+      "pregunta": "La utilidad neta es $180, los dividendos son $60 y la depreciación es $40. Sin otros ajustes, ¿cuánto efectivo se genera internamente para reinvertir?",
+      "opciones": [
+        "$120",
+        "$220",
+        "$160",
+        "$100"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe incluye sólo las utilidades retenidas. Falta agregar el gasto no monetario de depreciación. Al sumar los $40 se obtiene el efectivo interno de $160.",
+        "Este cálculo suma depreciación a la utilidad completa. Omite los $60 distribuidos, que ya no quedan disponibles para invertir. Corresponde calcular $180 − $60 + $40.",
+        "Las utilidades retenidas son $180 − $60 = $120. Se agregan $40 de depreciación porque ese gasto redujo la utilidad sin consumir efectivo corriente. Los fondos internos simplificados suman $160.",
+        "Aquí se resta la depreciación de la utilidad retenida. La utilidad ya descontó ese gasto sin desembolso corriente. Para reconstruir efectivo hay que sumarlo, no deducirlo nuevamente."
+      ]
+    },
+    {
+      "id": "c15-q002",
+      "tema": "Déficit financiero",
+      "dificultad": "basica",
+      "pregunta": "Se requieren $300 para activos fijos y $50 para aumentar el capital de trabajo neto. Hay fondos internos por $230. ¿Cuál es el déficit financiero?",
+      "opciones": [
+        "$580",
+        "$70",
+        "$350",
+        "$120"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cifra suma necesidades y recursos. Los fondos internos reducen la brecha en lugar de aumentarla. Por eso deben restarse de los $350 requeridos.",
+        "Este resultado omite el aumento del capital de trabajo neto. Esa inversión también consume efectivo. Hay que sumar los $50 antes de descontar los recursos internos.",
+        "Los $350 son el requerimiento bruto de inversión. Una parte ya está cubierta por recursos internos. El déficit es la diferencia entre usos y fondos internos, no el uso completo.",
+        "Los usos de inversión suman $300 + $50 = $350. Los recursos internos cubren $230. La diferencia de $120 debe captarse externamente si se mantienen esos planes."
+      ]
+    },
+    {
+      "id": "c15-q003",
+      "tema": "Emisiones netas y recompras",
+      "dificultad": "intermedia",
+      "pregunta": "El déficit financiero es $90; se emiten acciones por $20 y se recompran por $50. Sin otros movimientos, ¿cuánto endeudamiento neto hace falta?",
+      "opciones": [
+        "$90",
+        "$60",
+        "$120",
+        "$160"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $90 cubren únicamente el déficit previo a los movimientos de capital. La empresa también devuelve $30 netos a accionistas. Omitirlos deja sin financiar parte de las salidas.",
+        "Este resultado trata la recompra neta como una entrada. En realidad salen $30 netos hacia accionistas. Esa salida aumenta la deuda necesaria, no la reduce.",
+        "La emisión neta de capital es $20 − $50 = −$30. Esa salida se suma al déficit de $90. Se necesitan $120 de deuda neta para equilibrar fuentes y usos.",
+        "Esta suma trata la emisión de $20 como otro uso. Emitir acciones aporta efectivo, mientras recomprarlas lo consume. El cálculo correcto es $90 + $50 − $20."
+      ]
+    },
+    {
+      "id": "c15-q004",
+      "tema": "Políticas financieras",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a la política de dividendos de la política de deuda?",
+      "opciones": [
+        "La primera selecciona plantas; la segunda determina ventas.",
+        "La primera decide cuánto distribuir o retener; la segunda, cuánto del déficit cubrir con deuda frente a capital nuevo.",
+        "La primera elige vencimientos; la segunda fija depreciaciones.",
+        "Ambas fijan directamente la cotización bursátil."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Seleccionar plantas es una decisión de inversión. Determinar ventas pertenece principalmente a la operación comercial. Las políticas indicadas resuelven cómo distribuir o conseguir recursos para esas actividades.",
+        "Distribuir utilidades entrega recursos a los accionistas y retenerlas los conserva en la empresa. Eso corresponde a la política de dividendos. La política de deuda define la mezcla de deuda y capital para financiar la brecha externa.",
+        "Los vencimientos son una característica del endeudamiento. La depreciación es una asignación contable del costo de activos. Ninguna combinación describe la distinción entre distribución de utilidades y mezcla de financiamiento.",
+        "La cotización surge de las valoraciones del mercado. Las políticas financieras pueden influir en ella mediante sus consecuencias. No permiten fijarla directamente por decisión administrativa."
+      ]
+    },
+    {
+      "id": "c15-q005",
+      "tema": "Retención y creación de valor",
+      "dificultad": "intermedia",
+      "pregunta": "Un director propone reinvertir toda la utilidad porque considera gratis los fondos internos. ¿Cómo evaluar su argumento?",
+      "opciones": [
+        "Toda reinversión aumenta el valor por evitar dividendos.",
+        "La retención requiere proyectos con VPN positivo; el dinero tiene costo de oportunidad para los accionistas.",
+        "Sin intereses contractuales, el costo de oportunidad es cero.",
+        "Sólo las inversiones financiadas con deuda necesitan VPN positivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Evitar un dividendo no mejora automáticamente la inversión. Un proyecto con VPN negativo reduce la riqueza accionaria. El origen interno de los fondos no cambia ese resultado.",
+        "Los accionistas podrían recibir el dinero e invertirlo en alternativas comparables. Ese rendimiento sacrificado es un costo de oportunidad aunque no haya intereses pactados. Retener para proyectos con VPN positivo puede crear valor.",
+        "La ausencia de intereses explícitos no elimina el rendimiento exigido por tiempo y riesgo. Los propietarios sacrifican otras inversiones al dejar sus recursos en la empresa. Ese sacrificio debe considerarse al evaluar proyectos.",
+        "El criterio de VPN se aplica cualquiera sea la fuente de fondos. También puede destruirse valor utilizando utilidades retenidas. La financiación no convierte una mala inversión en una buena."
+      ]
+    },
+    {
+      "id": "c15-q006",
+      "tema": "Fuentes y usos agregados",
+      "dificultad": "intermedia",
+      "pregunta": "Las inversiones suman $500, los fondos internos $350 y las emisiones netas de acciones −$50. ¿Qué porcentajes de la inversión representan fondos internos, capital neto y deuda neta?",
+      "opciones": [
+        "70%, −10% y 40%.",
+        "70%, 10% y 20%.",
+        "70%, −10% y 30%.",
+        "60%, −10% y 50%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los fondos internos son $350/$500 = 70% y el capital neto es −$50/$500 = −10%. La deuda necesaria es $500 − $350 + $50 = $200, equivalente a 40%. Las proporciones suman 100%.",
+        "Esta respuesta cambia el signo de las recompras netas. Los $50 salen de la empresa en vez de financiar la inversión. La deuda debe cubrir esa salida además del déficit restante.",
+        "El 30% cubre sólo la diferencia entre inversión y fondos internos. Falta financiar la salida de capital neto de 10%. Por eso la deuda aporta 40% del uso de inversión.",
+        "El porcentaje interno se calcula dividiendo $350 por $500. Eso da 70%, no 60%. Usar una base inconsistente también distorsiona la deuda residual."
+      ]
+    },
+    {
+      "id": "c15-q007",
+      "tema": "Disciplina del mercado",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora rechaza un proyecto valioso para evitar preguntas de inversores; otro director evalúa costos de emisión y señales de sobrevaluación antes de emitir. ¿Qué distingue los argumentos?",
+      "opciones": [
+        "El primero sugiere un problema de agencia; el segundo identifica costos económicos que deben evaluarse.",
+        "Ambos demuestran que nunca conviene emitir valores.",
+        "Evitar preguntas siempre maximiza el valor accionarial.",
+        "Emitir acciones prueba con certeza que habrá pérdidas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Proteger la comodidad de la gerencia puede perjudicar a los propietarios y constituye un conflicto de agencia. Los costos de colocación y la información asimétrica pueden afectar económicamente la financiación. Deben analizarse sin prohibir automáticamente toda emisión.",
+        "Los beneficios de un proyecto pueden superar los costos de financiación externa. Ninguno de esos argumentos demuestra una prohibición universal. Hay que comparar las consecuencias concretas para el valor.",
+        "El escrutinio puede disciplinar decisiones de los administradores. Evitarlo por comodidad puede hacer perder proyectos con VPN positivo. La conveniencia del directivo no equivale a la conveniencia del accionista.",
+        "Una emisión puede despertar sospechas de que los administradores consideran alto el precio. Eso es una inferencia bajo información imperfecta. No demuestra pérdidas futuras ni insolvencia con certeza."
+      ]
+    },
+    {
+      "id": "c15-q008",
+      "tema": "Razón de deuda contable",
+      "dificultad": "basica",
+      "pregunta": "La deuda financiera de largo plazo es $240 y el capital contable $560. Considerando sólo esas partidas, ¿cuánto es D/(D + E)?",
+      "opciones": [
+        "70%.",
+        "30%.",
+        "42,86%.",
+        "23,08%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 70% corresponde a la participación del capital propio. Surge de $560/$800. La deuda es la parte complementaria, 30%.",
+        "El total definido es $240 + $560 = $800. La deuda representa $240/$800 = 0,30. La razón pedida es 30%, usando deuda más capital como denominador.",
+        "El 42,86% surge de dividir $240 por $560. Eso calcula deuda a capital, D/E. La pregunta pide incluir también la deuda en el denominador.",
+        "Esta cifra utiliza un denominador incompatible con las dos partidas indicadas. No debe sumarse nuevamente la deuda al total de $800. La base definida es deuda más capital una sola vez."
+      ]
+    },
+    {
+      "id": "c15-q009",
+      "tema": "Valor contable y de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "La deuda vale $200 tanto en libros como a mercado. El capital vale $300 contablemente y $800 a mercado. ¿Cuáles son las razones D/(D + E) contable y de mercado?",
+      "opciones": [
+        "40% y 20%.",
+        "66,67% y 25%.",
+        "20% y 40%.",
+        "40% y 40%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En libros se calcula $200/($200 + $300) = 40%. A mercado se calcula $200/($200 + $800) = 20%. Una valoración mayor del capital reduce la proporción de deuda sin amortizarla.",
+        "Estas cifras usan sólo el capital como denominador. Por lo tanto calculan D/E y no D/(D + E). Las dos medidas describen apalancamiento, pero no son intercambiables.",
+        "Los valores están invertidos. La base de mercado tiene más capital y un denominador mayor. Con la misma deuda, debe producir una razón menor.",
+        "La igualdad del valor de la deuda no asegura razones iguales. El denominador cambia porque el capital se valora de forma distinta. Reutilizar el capital contable impide medir la razón de mercado."
+      ]
+    },
+    {
+      "id": "c15-q010",
+      "tema": "Comparaciones internacionales",
+      "dificultad": "avanzada",
+      "pregunta": "Un analista compara deuda financiera larga sobre deuda más capital de un país con pasivos totales sobre pasivos más capital de otro. ¿Qué debe hacer antes de ordenar su apalancamiento?",
+      "opciones": [
+        "Concluir que la menor razón elimina el riesgo financiero.",
+        "Ordenar directamente porque todas las razones de deuda son equivalentes.",
+        "Usar el nominal de las acciones como única valoración económica.",
+        "Homogeneizar partidas, normas contables y valoración; considerar además la composición sectorial."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una menor proporción no garantiza capacidad de pago. Importan flujos, vencimientos y riesgos operativos. La comparación relativa no demuestra ausencia de riesgo.",
+        "Los pasivos totales incluyen obligaciones que pueden faltar en la deuda financiera larga. Un porcentaje superior puede reflejar un numerador más amplio. Ordenarlos sin ajustes confunde definición con endeudamiento relativo.",
+        "El nominal tiene funciones contables y legales, pero no mide necesariamente valor económico. No resuelve diferencias de reconocimiento de obligaciones. La valoración debe ser apropiada y comparable entre muestras.",
+        "Las medidas incluyen obligaciones diferentes y pueden usar criterios contables distintos. También importan la base de valoración y las empresas representadas. Homogeneizar esos elementos permite una comparación más defendible."
+      ]
+    },
+    {
+      "id": "c15-q011",
+      "tema": "Apalancamiento óptimo",
+      "dificultad": "intermedia",
+      "pregunta": "Ante un aumento del apalancamiento empresarial, ¿qué conclusión resulta razonable?",
+      "opciones": [
+        "Si crece la deuda, siempre sube la razón de mercado.",
+        "La deuda óptima siempre es cero.",
+        "Existe un porcentaje óptimo universal e invariable.",
+        "Puede aumentar la vulnerabilidad a recesiones, pero la decisión exige ponderar beneficios, costos y capacidad de gestionar riesgos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El capital de mercado puede crecer más rápido que la deuda. En ese caso baja D/(D + E) aunque aumente D. La trayectoria del numerador no determina por sí sola la razón.",
+        "Eliminar deuda reduce una fuente de compromisos, pero puede sacrificar beneficios financieros. La mejor política no se obtiene minimizando un único riesgo. Deben ponderarse los efectos sobre el valor total.",
+        "Las empresas tienen distinta estabilidad, activos y oportunidades. Esas condiciones también cambian con el tiempo. Por eso no existe una proporción única adecuada para todos los casos.",
+        "Más pagos comprometidos pueden dificultar atravesar una caída de actividad. Sin embargo, la deuda también tiene ventajas y reducir riesgo no equivale automáticamente a maximizar valor. La combinación conveniente depende de condiciones y herramientas de gestión."
+      ]
+    },
+    {
+      "id": "c15-q012",
+      "tema": "Patrones históricos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción resume los patrones agregados históricos analizados para las empresas no financieras estadounidenses?",
+      "opciones": [
+        "El promedio agregado determina la política correcta de cada empresa.",
+        "Predominan fondos internos; puede haber capital neto negativo y períodos de emisión de acciones para reducir deuda.",
+        "La emisión neta de acciones es siempre positiva y la fuente principal.",
+        "Estados Unidos es inequívocamente el país menos endeudado bajo cualquier definición."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El agregado combina empresas y sectores heterogéneos. Una política adecuada depende de sus propias oportunidades y riesgos. El promedio describe el conjunto, no prescribe decisiones particulares.",
+        "La generación interna fue central, pero la mezcla cambió entre períodos. Las recompras pueden superar emisiones y en otros años puede emitirse capital para amortizar deuda. Estos patrones agregados no fijan una política individual universal.",
+        "Las recompras pueden hacer negativas las emisiones netas aunque existan colocaciones brutas. Además, la fuente predominante considerada fue la interna. Confundir cifras brutas y netas oculta devoluciones de fondos a accionistas.",
+        "Las comparaciones cambian según definiciones y criterios contables. La evidencia histórica no permite esa afirmación absoluta. Debe evitarse convertir una percepción general en una clasificación universal."
+      ]
+    },
+    {
+      "id": "c15-q013",
+      "tema": "Autorizadas, emitidas y en circulación",
+      "dificultad": "basica",
+      "pregunta": "Hay 1.000.000 de acciones autorizadas, 700.000 emitidas y 80.000 de tesorería. Sin cancelarlas ni revenderlas, ¿cuántas circulan y cuántas nuevas pueden emitirse dentro del límite?",
+      "opciones": [
+        "700.000 y 300.000.",
+        "620.000 y 300.000.",
+        "620.000 y 380.000.",
+        "920.000 y 80.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La primera cifra omite restar tesorería. Las 80.000 recompradas no permanecen en manos externas. El margen autorizado es correcto, pero la circulación es 620.000.",
+        "Las acciones propias están emitidas pero no circulan. La circulación es 700.000 − 80.000 = 620.000. El margen para acciones nuevas es 1.000.000 − 700.000 = 300.000, separado de una eventual reventa de tesorería.",
+        "El margen se calcula contra las emitidas, no contra las circulantes. La recompra sin cancelación no vuelve no emitidas a esas acciones. Restar circulación del límite confunde emisión nueva con reventa de tesorería.",
+        "Se ha restado tesorería del máximo autorizado para estimar circulación. El máximo incluye acciones nunca emitidas. La circulación debe partir de las 700.000 emitidas efectivamente."
+      ]
+    },
+    {
+      "id": "c15-q014",
+      "tema": "Prima de emisión",
+      "dificultad": "intermedia",
+      "pregunta": "Se colocan 20.000 acciones nuevas a $15 con nominal de $2, sin gastos. ¿Cuánto aumentan la cuenta nominal y el capital pagado adicional?",
+      "opciones": [
+        "$40.000 y $260.000.",
+        "$300.000 y $0.",
+        "$40.000 y $300.000.",
+        "$260.000 y $40.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cuenta nominal aumenta 20.000 × $2 = $40.000. La prima suma 20.000 × ($15 − $2) = $260.000. Ambos componentes totalizan el aporte recibido de $300.000.",
+        "El aporte no se registra íntegramente como nominal si existe prima. El nominal sólo recoge $2 por acción. El exceso de $13 por acción integra capital pagado adicional.",
+        "Los $300.000 ya incluyen el nominal. Asignarlos completos como capital adicional y sumar $40.000 duplica una parte del aporte. La prima debe ser $260.000.",
+        "Los componentes están intercambiados. La cuenta nominal depende del valor nominal de $2. La diferencia respecto del precio corresponde al capital pagado adicional."
+      ]
+    },
+    {
+      "id": "c15-q015",
+      "tema": "Capital común neto",
+      "dificultad": "basica",
+      "pregunta": "La cuenta nominal es $100.000, el capital adicional $400.000, las utilidades retenidas $300.000 y la tesorería al costo $120.000. ¿Cuál es el capital común neto contable?",
+      "opciones": [
+        "$920.000",
+        "$680.000",
+        "$800.000",
+        "$280.000"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este resultado agrega la tesorería como si fuera un aporte. La recompra devuelve fondos a vendedores y reduce el patrimonio. Corresponde restar su costo.",
+        "Los componentes positivos suman $100.000 + $400.000 + $300.000 = $800.000. La recompra registrada como tesorería reduce el patrimonio por $120.000. El saldo neto es $680.000.",
+        "Los $800.000 son el saldo antes de deducir acciones propias. Esas recompras ya consumieron recursos de la sociedad. El patrimonio neto debe reflejar la reducción de $120.000.",
+        "Esta cifra omite una parte importante del capital aportado. El nominal y el adicional integran ambos el patrimonio junto con las utilidades retenidas. Sólo después se deduce la tesorería."
+      ]
+    },
+    {
+      "id": "c15-q016",
+      "tema": "Valor por acción y capitalización",
+      "dificultad": "intermedia",
+      "pregunta": "El capital común neto contable es $900.000, hay 100.000 acciones emitidas y 10.000 propias. La cotización es $25. ¿Cuáles son el valor contable por acción circulante y la capitalización bursátil?",
+      "opciones": [
+        "$10 y $900.000.",
+        "$9 y $2.500.000.",
+        "$10 y $2.250.000.",
+        "$9 y $2.250.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor contable por acción está bien. Pero el patrimonio contable no equivale a capitalización bursátil. Esta última multiplica circulación por precio de mercado.",
+        "Ambas cifras usan las acciones emitidas sin excluir tesorería. Las propias no constituyen participaciones externas adicionales. La base correcta para estas dos medidas es 90.000 acciones.",
+        "Circulan 100.000 − 10.000 = 90.000 acciones. El valor contable unitario es $900.000/90.000 = $10. El valor bursátil es 90.000 × $25 = $2.250.000.",
+        "La capitalización utiliza correctamente la circulación, pero el valor unitario contable usa las emitidas. Eso mezcla denominadores distintos. También para repartir el patrimonio contable entre accionistas externos se usan 90.000."
+      ]
+    },
+    {
+      "id": "c15-q017",
+      "tema": "Precios históricos de acciones",
+      "dificultad": "intermedia",
+      "pregunta": "Se emitieron 50.000 acciones con cuenta nominal de $50.000 y capital adicional de $450.000. Se recompraron 10.000 por $140.000. ¿Cuáles fueron los precios medios de emisión y recompra?",
+      "opciones": [
+        "$9 y $14.",
+        "$1 y $14.",
+        "$10 y $2,80.",
+        "$10 y $14."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $9 incluyen solamente la prima. Falta agregar el nominal de $1 por acción. El precio medio de emisión recoge todo el dinero aportado.",
+        "Un dólar es el nominal unitario, no el precio histórico total. Cada accionista aportó además una prima promedio de $9. El precio de colocación suma ambos componentes.",
+        "El promedio de emisión es correcto. El costo de recompra debe dividirse por las 10.000 acciones adquiridas, no por todas las emitidas. Usar 50.000 subestima el precio medio pagado.",
+        "El aporte por emisión suma $50.000 + $450.000 = $500.000. Dividir por 50.000 da $10 por acción emitida. La recompra costó $140.000/10.000 = $14 por acción recomprada."
+      ]
+    },
+    {
+      "id": "c15-q018",
+      "tema": "Movimiento del patrimonio",
+      "dificultad": "intermedia",
+      "pregunta": "El patrimonio neto inicial es $600.000. Se obtienen utilidades de $100.000, se pagan dividendos de $30.000 y se recompran acciones por $50.000. Sin otros cambios, ¿cuál es el patrimonio final?",
+      "opciones": [
+        "$620.000",
+        "$670.000",
+        "$720.000",
+        "$570.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La utilidad retenida aumenta el patrimonio en $100.000 − $30.000 = $70.000. La recompra lo reduce en $50.000. El cierre es $600.000 + $70.000 − $50.000 = $620.000.",
+        "Este saldo contempla utilidad y dividendos, pero omite la recompra. El pago a quienes venden acciones retira recursos de la empresa. Deben deducirse los $50.000 adicionales.",
+        "Esta cifra suma la recompra en lugar de restarla. Comprar acciones propias no es recibir aportes externos. La operación reduce el patrimonio neto por su costo.",
+        "Este resultado no incorpora correctamente la utilidad del año. Los $100.000 aumentan patrimonio antes de distribuciones. Luego se restan dividendos y recompra, sin omitir la ganancia."
+      ]
+    },
+    {
+      "id": "c15-q019",
+      "tema": "Nominal y límite autorizado",
+      "dificultad": "basica",
+      "pregunta": "La administración quiere superar el máximo autorizado de acciones y afirma que el nominal fija su precio económico justo. ¿Qué corrección corresponde?",
+      "opciones": [
+        "Debe obtener aprobación accionaria para ampliar el límite; el nominal no determina el precio económico.",
+        "Puede superar el límite si vende exactamente al nominal.",
+        "El máximo autorizado es sólo una estimación de la circulación.",
+        "Nominal, valor contable y cotización siempre coinciden."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La autorización establece un techo de emisión bajo las condiciones societarias consideradas. Ampliarlo requiere aprobación de accionistas. El nominal cumple funciones contables o legales, con escaso significado económico por sí solo.",
+        "El precio no elimina el límite de cantidad. Vender al nominal tampoco demuestra una valoración conveniente. Son decisiones distintas: permiso para emitir y precio de colocación.",
+        "El máximo autorizado puede superar ampliamente la circulación actual. No estima acciones existentes sino que limita las que pueden emitirse. Confundirlos mezcla capacidad futura con emisiones realizadas.",
+        "El nominal es una cifra establecida para registrar capital. El valor contable incluye otras partidas y la cotización incorpora expectativas del mercado. No tienen por qué coincidir."
+      ]
+    },
+    {
+      "id": "c15-q020",
+      "tema": "Contratos incompletos y propiedad",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué los accionistas suelen conservar el control residual aunque la empresa tenga préstamos?",
+      "opciones": [
+        "Los contratos no pueden prever todas las decisiones y los accionistas reciben los beneficios residuales de decidir bien.",
+        "El banco renuncia al interés cuando exige restricciones.",
+        "Los propietarios pueden ignorar todos los contratos.",
+        "Cada préstamo otorga automáticamente mayoría electoral al acreedor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los contratos limitan ciertas decisiones, pero no anticipan todas las contingencias operativas. Las decisiones restantes corresponden al control residual. Asignarlo a quienes reciben el beneficio residual ayuda a alinear incentivos, dentro de las restricciones pactadas.",
+        "Las restricciones protegen el crédito y no sustituyen su remuneración. El banco conserva intereses y principal pactados. Los accionistas controlan las decisiones no asignadas ni limitadas por el contrato.",
+        "La propiedad no elimina obligaciones frente a acreedores. Su incumplimiento puede afectar seriamente el control y el cobro accionarial. El control residual se ejerce sujeto a compromisos válidos.",
+        "Prestar normalmente no equivale a adquirir votos accionarios. El acreedor recibe derechos contractuales y puede obtener influencia adicional ante incumplimiento. Prioridad de cobro y mayoría de votos son derechos diferentes."
+      ]
+    },
+    {
+      "id": "c15-q021",
+      "tema": "Voto mayoritario y acumulativo",
+      "dificultad": "basica",
+      "pregunta": "Se eligen seis directores y una accionista tiene 120 acciones con un voto cada una. ¿Cuántos votos como máximo puede asignar a su candidato favorito con votación mayoritaria por cargo y acumulativa?",
+      "opciones": [
+        "720 y 720.",
+        "120 y 720.",
+        "120 y 120.",
+        "20 y 120."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los votos de los seis cargos no se concentran bajo votación separada. Allí el máximo por candidato es la tenencia de 120 acciones. La concentración de 720 sólo corresponde al sistema acumulativo.",
+        "En votación separada puede usar sus 120 votos para ese cargo. En acumulativa dispone de 6 × 120 = 720 para la elección conjunta. Puede concentrarlos en un candidato, facilitando representación minoritaria.",
+        "El primer valor es correcto. El segundo omite multiplicar por los seis cargos. La votación acumulativa permite distribuir libremente ese total de 720.",
+        "No corresponde dividir acciones entre cargos. Cada acción participa en cada elección separada y genera un voto por cargo en el total acumulable. La base de 120 no se reduce a 20."
+      ]
+    },
+    {
+      "id": "c15-q022",
+      "tema": "Dispersión y delegación del control",
+      "dificultad": "intermedia",
+      "pregunta": "Miles de accionistas no votan porque cada uno cree que su participación es irrelevante. ¿Qué problema puede aparecer?",
+      "opciones": [
+        "No votar cancela acciones y reduce el máximo autorizado.",
+        "La gerencia puede ganar control efectivo sin suficiente seguimiento, aunque subsistan derechos formales de los accionistas.",
+        "Los bancos pasan a elegir directores sin cláusula ni incumplimiento.",
+        "La abstención extingue automáticamente dividendos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La falta de voto no constituye recompra ni cancelación. Tampoco modifica el máximo aprobado. Confunde participación en el gobierno con cambios en la estructura del capital.",
+        "Cada inversor puede esperar que otros paguen el costo de supervisar. Si todos razonan igual, se debilita el control colectivo. El voto personal o por apoderado permite ejercer derechos formales que de otro modo quedan poco utilizados.",
+        "La abstención no convierte deuda en capital con votos. Los bancos siguen sujetos a sus contratos y a las reglas aplicables. Puede fortalecerse la gerencia sin transferir automáticamente la elección al acreedor.",
+        "No votar no elimina por sí solo los derechos económicos de la acción. El problema es la supervisión de quienes administran. Los derechos patrimoniales subsisten mientras se conserve la participación."
+      ]
+    },
+    {
+      "id": "c15-q023",
+      "tema": "Clases de acciones y poder electoral",
+      "dificultad": "avanzada",
+      "pregunta": "Los fundadores tienen 100.000 acciones B con diez votos cada una; el público tiene 400.000 A con un voto cada una. Todas tienen igual derecho económico por acción. ¿Qué porcentaje económico y de votos poseen los fundadores?",
+      "opciones": [
+        "20% económico y aproximadamente 71,43% electoral.",
+        "20% económico y 20% electoral.",
+        "71,43% económico y 71,43% electoral.",
+        "80% económico y aproximadamente 28,57% electoral."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los fundadores tienen 100.000 de 500.000 acciones, equivalentes a 20% económico. Sus votos son 1.000.000 de un total de 1.400.000. Eso representa aproximadamente 71,43% del poder electoral.",
+        "La participación económica es correcta. Pero cada B genera diez votos y cada A sólo uno. El porcentaje de votos exige sumar votos efectivos, no contar acciones como si fueran iguales.",
+        "El porcentaje electoral no determina el económico con clases distintas. Los derechos a flujos son iguales por acción y los fundadores poseen sólo una quinta parte. Los votos adicionales no multiplican sus dividendos.",
+        "Estas proporciones corresponden al público. La pregunta consulta a los fundadores. Tener menos acciones no impide controlar más votos cuando cada título ofrece poder superior."
+      ]
+    },
+    {
+      "id": "c15-q024",
+      "tema": "Prima de voto y beneficios privados",
+      "dificultad": "avanzada",
+      "pregunta": "Dos clases tienen iguales derechos económicos, pero una cotiza con prima por sus votos superiores. ¿Qué explicación de gobierno corporativo es pertinente?",
+      "opciones": [
+        "Sólo la clase con votos gana cuando mejoran las operaciones.",
+        "Los votos pueden dar beneficios privados de control o poder adicional de negociación.",
+        "Más votos garantizan dividendos mayores por acción.",
+        "Los votos superiores eliminan el riesgo del negocio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una mejora de flujos beneficia por igual a acciones con los mismos derechos económicos. No queda reservada a los votantes privilegiados. La prima específica exige considerar ventajas adicionales.",
+        "Una mejora general beneficia a ambas clases con iguales derechos económicos. Por eso no basta para explicar una prima exclusiva. El control puede dar ventajas particulares, influencia o poder de negociación que sostengan esa diferencia de precio.",
+        "El supuesto establece derechos económicos iguales. No hay dividendos adicionales automáticos por tener más votos. Hay que buscar la diferencia de valor en las consecuencias del control.",
+        "Los votos no impiden recesiones ni pérdidas operativas. El propietario sigue expuesto al negocio. Una prima por control no equivale a seguro del capital."
+      ]
+    },
+    {
+      "id": "c15-q025",
+      "tema": "Unificación de clases",
+      "dificultad": "avanzada",
+      "pregunta": "Se anuncia la unificación de dos clases con iguales derechos económicos, eliminando los votos superiores de una. Sin cambios operativos, ¿qué reacción relativa es coherente con una prima previa por control?",
+      "opciones": [
+        "El valor total debe duplicarse por igualar derechos.",
+        "La prima anterior debe permanecer siempre intacta.",
+        "Puede reducirse la diferencia de cotizaciones al caer la prima de la clase que pierde privilegios.",
+        "La unificación cancela automáticamente a los minoritarios."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Igualar votos no duplica activos ni flujos. Puede alterar gobierno e incentivos, pero no hay una identidad que duplique el valor. Bajo el supuesto, las perspectivas operativas permanecen iguales.",
+        "Los precios incorporan derechos futuros y no sólo históricos. Si desaparece la fuente de una prima, no debe suponerse que seguirá intacta. Haría falta otra ventaja que la sostuviera.",
+        "La prima remuneraba un atributo que desaparecería. Es coherente que la clase privilegiada pierda valor relativo y se acerquen las cotizaciones. Eso no determina por sí solo una cantidad concreta de valor total creado.",
+        "Igualar clases no es sinónimo de eliminar participaciones. Los propietarios pueden conservar sus acciones con derechos uniformes. Hay que distinguir cambio de poder electoral de exclusión accionaria."
+      ]
+    },
+    {
+      "id": "c15-q026",
+      "tema": "Mayoría calificada y delegados",
+      "dificultad": "intermedia",
+      "pregunta": "La gerencia propone 75% de votos para aprobar fusiones y financia con recursos corporativos su campaña contra opositores. ¿Qué debe advertir un accionista?",
+      "opciones": [
+        "Puede dificultarse un cambio de control y favorecerse la permanencia de los administradores.",
+        "El umbral garantiza que toda fusión aprobada tendrá VPN positivo.",
+        "Pagar la campaña elimina conflictos entre gerentes y propietarios.",
+        "Sólo podrán votar los directores actuales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un umbral mayor dificulta aprobar fusiones que podrían desplazar a la gerencia. La financiación de su campaña también puede darle ventaja en una disputa de delegados. Debe evaluarse si protege valor o afianza intereses de quienes ya administran.",
+        "Una regla electoral no determina precio ni flujos de una adquisición. Una operación puede crear o destruir valor con cualquier umbral. El porcentaje influye en la aprobación, no garantiza conveniencia económica.",
+        "Usar fondos corporativos no prueba alineación de intereses. Puede favorecer a administradores que buscan conservar sus puestos. Los accionistas deben analizar quién paga y quién obtiene el beneficio.",
+        "Una disputa de delegados busca obtener apoyos o poderes de los accionistas. No reemplaza el electorado por el directorio. Precisamente se compite por la representación de votos existentes."
+      ]
+    },
+    {
+      "id": "c15-q027",
+      "tema": "Protección de minoritarios",
+      "dificultad": "avanzada",
+      "pregunta": "Un controlador propone un split inverso muy grande y pagar las fracciones minoritarias al nominal, muy inferior al valor económico. ¿Cuál es el riesgo central?",
+      "opciones": [
+        "Excluir minoritarios con compensación insuficiente y transferir su valor al controlador.",
+        "Todo split inverso destruye físicamente activos.",
+        "El mayor precio unitario crea riqueza aunque la exclusión sea injusta.",
+        "El nominal mide siempre una compensación económica justa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un canje proporcional no altera por sí mismo las participaciones relativas. El abuso aparece al eliminar fracciones con un pago inferior a su valor. Puede usarse como mecanismo de apropiación contra minoritarios si las protecciones no lo impiden.",
+        "Cambiar la unidad del capital no destruye fábricas ni efectivo. El problema descrito es de distribución y derechos. Debe distinguirse una consolidación proporcional de una exclusión injusta.",
+        "Un precio unitario mayor puede reflejar simplemente menos acciones. No crea automáticamente valor del negocio. Pagar insuficientemente a excluidos transfiere riqueza en vez de generarla.",
+        "El nominal no refleja necesariamente activos, rentabilidad o expectativas. Puede estar muy por debajo del valor económico. Por eso usarlo como compensación no asegura equidad."
+      ]
+    },
+    {
+      "id": "c15-q028",
+      "tema": "Split inverso proporcional",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversora posee 600 acciones a $4. Se canjea una nueva por cada tres antiguas, sin fracciones, costos ni cambios económicos. ¿Qué tenencia y precio teórico resultan?",
+      "opciones": [
+        "1.800 acciones a aproximadamente $1,33.",
+        "200 acciones a $4.",
+        "200 acciones a $12.",
+        "600 acciones a $12."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado describe un split directo de tres por una. La operación solicitada es inversa y reduce unidades. El precio teórico debe subir proporcionalmente, no bajar.",
+        "La cantidad es correcta, pero el precio no se ajustó. Cada acción nueva representa tres antiguas. Mantener $4 reduciría el valor sin una causa económica bajo los supuestos.",
+        "La cantidad se divide por tres: 600/3 = 200. El precio teórico se multiplica por tres: $4 × 3 = $12. Se conserva el valor de $2.400 y la misma participación relativa.",
+        "La cifra aumenta el precio sin reducir unidades. Eso triplicaría la riqueza sin cambiar activos ni flujos. El canje modifica cantidad y precio en sentidos opuestos."
+      ]
+    },
+    {
+      "id": "c15-q029",
+      "tema": "Sociedades y fideicomisos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué descripción de formas de capital distintas de acciones corporativas es correcta?",
+      "opciones": [
+        "Las participaciones en sociedades nunca cotizan públicamente.",
+        "Algunas sociedades tienen unidades negociables; un fideicomiso puede distribuir regalías; un FII se especializa en bienes raíces bajo condiciones fiscales.",
+        "Socios generales y limitados tienen necesariamente idéntica responsabilidad limitada.",
+        "Cualquier fábrica evita impuestos sólo por llamarse FII."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Existen sociedades con unidades negociadas en bolsas. La forma jurídica no prohíbe por sí sola esa negociación. Hay que distinguirlas de sociedades sin participaciones públicas.",
+        "Las unidades de ciertas sociedades pueden cotizar y compartir resultados. Un fideicomiso de regalías puede poseer pasivamente derechos a ingresos. Los FII canalizan inversión inmobiliaria y sus ventajas dependen de requisitos, no de una etiqueta.",
+        "El socio limitado arriesga su aporte en la estructura considerada. El socio general tiene responsabilidad ilimitada, aunque puede ser una corporación que proteja a sus propios dueños. No deben confundirse ambos niveles y tipos de responsabilidad.",
+        "El tratamiento fiscal exige cumplir restricciones de actividad y distribución. Cambiar el nombre de una industria no modifica su sustancia. Una fábrica común no obtiene automáticamente el régimen inmobiliario."
+      ]
+    },
+    {
+      "id": "c15-q030",
+      "tema": "Transparencia fiscal y continuidad",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué comparación refleja las estructuras de sociedad y corporación consideradas en el capítulo?",
+      "opciones": [
+        "Todo fideicomiso pasivo es indistinguible de una empresa operativa.",
+        "La sociedad puede trasladar fiscalmente resultados a socios; la corporación tiene personalidad separada y puede sobrevivir a sus fundadores.",
+        "La corporación termina cuando muere su primer accionista.",
+        "La sociedad siempre paga dos impuestos corporativos y nunca incorpora socios."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un fideicomiso pasivo puede limitarse a recibir regalías de un activo. Una empresa operativa desarrolla y administra actividades productivas. No son intercambiables sin atender funciones y restricciones.",
+        "En el esquema analizado, ganancias y pérdidas de la sociedad pasan a declaraciones de socios. Esa ventaja fiscal viene con restricciones estructurales. La personalidad jurídica independiente de la corporación permite continuidad más allá de sus propietarios originales.",
+        "La corporación es una persona jurídica separada. Sus acciones pueden cambiar de dueño sin extinguir automáticamente la organización. La continuidad más allá de los fundadores es una de sus características.",
+        "Esta afirmación invierte la transparencia fiscal descrita. Los resultados de la sociedad pasan a los socios en lugar de generar necesariamente dos capas corporativas. Las limitaciones no equivalen a una prohibición absoluta de nuevos participantes."
+      ]
+    },
+    {
+      "id": "c15-q031",
+      "tema": "Acciones preferentes",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a las preferentes de deuda y acciones comunes?",
+      "opciones": [
+        "Sus dividendos son intereses contractuales y omitirlos siempre equivale a incumplir un bono.",
+        "Suelen tener dividendos fijos prioritarios frente a comunes, pero el consejo puede suspender su pago.",
+        "Cobran después de comunes y antes de todos los acreedores.",
+        "Son necesariamente la principal fuente de toda empresa."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El dividendo preferente no tiene idéntica exigibilidad que un cupón ordinario. Suspenderlo puede activar derechos y señales negativas. No equivale automáticamente al incumplimiento de un bono.",
+        "La preferencia implica prioridad de dividendos respecto de comunes. Aunque el importe suele ser fijo, el pago puede suspenderse por decisión societaria. Por eso son capital con algunos rasgos de deuda, no una obligación ordinaria de intereses.",
+        "La prioridad está invertida. Las preferentes quedan detrás de acreedores y delante de comunes. Preferencia dentro del capital no significa superioridad frente a toda deuda.",
+        "El nombre no indica predominio cuantitativo. Esta fuente tiene un peso relativamente limitado y puede ser útil en fusiones o situaciones especiales. Su conveniencia depende de las condiciones."
+      ]
+    },
+    {
+      "id": "c15-q032",
+      "tema": "Preferentes acumulativas",
+      "dificultad": "intermedia",
+      "pregunta": "Hay 10.000 preferentes acumulativas con dividendo anual de $3. Se omitieron dos años. Antes de pagar comunes este año deben cubrirse atrasos y el dividendo corriente: ¿cuánto reciben las preferentes?",
+      "opciones": [
+        "$60.000",
+        "$30.000",
+        "$120.000",
+        "$90.000"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $60.000 cubren únicamente atrasos. El enunciado exige también el dividendo corriente. Deben incluirse tres años y no dos.",
+        "Esta cifra cubre sólo el período corriente. La acumulación conserva la prioridad de los dos dividendos omitidos. Falta sumar otros $60.000.",
+        "Este importe agrega un cuarto año inexistente. Hay dos años atrasados y uno actual. No corresponde anticipar otro dividendo futuro.",
+        "El dividendo anual es 10.000 × $3 = $30.000. Deben cubrirse dos años anteriores más el corriente. Tres pagos anuales suman $90.000 antes de distribuir a comunes."
+      ]
+    },
+    {
+      "id": "c15-q033",
+      "tema": "Omisión de dividendos preferentes",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa suspende dividendos preferentes para preservar caja y quiere distribuir igualmente a comunes. ¿Qué debe revisar su directora?",
+      "opciones": [
+        "Puede pagar comunes porque sus votos eliminan la prioridad preferente.",
+        "La suspensión cancela automáticamente las preferentes.",
+        "Suspender preferentes carece de consecuencias porque no son intereses.",
+        "La prioridad preferente impide saltarla; pueden existir atrasos acumulativos, derechos de voto activados y una señal negativa."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Poder electoral y prioridad económica son derechos distintos. Tener control no elimina compromisos de otra clase. La distribución debe respetar las condiciones de las preferentes.",
+        "Omitir un dividendo no extingue el título. En las acumulativas conserva importes pendientes. Cancelar participaciones es otra operación y exige respetar sus derechos.",
+        "La diferencia respecto de intereses no implica ausencia de consecuencias. La suspensión limita dividendos comunes y puede afectar control y reputación. Deben revisarse términos concretos de emisión.",
+        "Poder suspender un dividendo no permite ignorar la prioridad de esa clase. En las acumulativas deben atenderse los atrasos antes de distribuir a comunes. Además, pueden activarse votos y la omisión puede comunicar dificultades financieras."
+      ]
+    },
+    {
+      "id": "c15-q034",
+      "tema": "Escudo fiscal de intereses",
+      "dificultad": "intermedia",
+      "pregunta": "En un régimen hipotético con tasa corporativa de 30%, deducción íntegra de intereses y utilidad gravable suficiente, se pagan intereses de $40.000. ¿Cuál es el ahorro fiscal y el costo neto después de impuestos?",
+      "opciones": [
+        "$0 y $40.000.",
+        "$28.000 y $12.000.",
+        "$40.000 y $0.",
+        "$12.000 y $28.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los supuestos permiten utilizar la deducción. Por eso hay un ahorro de $12.000. Tratarlos como dividendos no deducibles elimina indebidamente ese efecto.",
+        "Los importes están intercambiados. La tasa del 30% se aplica para obtener el ahorro fiscal. El 70% restante representa el costo neto.",
+        "Una deducción reduce la base imponible y no devuelve todo el gasto. Con tasa de 30% sólo ahorra esa proporción. El pago de intereses sigue siendo íntegro.",
+        "El ahorro es $40.000 × 30% = $12.000. La empresa paga $40.000 al prestamista y reduce impuestos en $12.000. El costo neto es $40.000 − $12.000 = $28.000."
+      ]
+    },
+    {
+      "id": "c15-q035",
+      "tema": "Responsabilidad limitada e incumplimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una corporación sin garantías personales no puede pagar su deuda. ¿Qué distingue a accionistas y acreedores?",
+      "opciones": [
+        "La quiebra obliga a conservar para siempre el control accionarial.",
+        "Los accionistas siempre deben cubrir el faltante con todos sus bienes personales.",
+        "Los acreedores cobran después de comunes.",
+        "Los accionistas pueden perder inversión y control; los acreedores ejercen derechos sobre activos mediante el proceso correspondiente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El incumplimiento puede reducir o extinguir el control de propietarios. Una reorganización puede asignar derechos a acreedores o a nuevos aportantes. La propiedad anterior no garantiza conservar las decisiones.",
+        "Esta respuesta elimina la limitación de responsabilidad especificada. El accionista puede perder lo invertido sin deber aportar automáticamente bienes personales. No se han supuesto garantías que cambien ese límite.",
+        "Las comunes tienen derechos residuales. Cobran después de satisfacer obligaciones de mayor prioridad. En insolvencia puede no quedar ningún remanente para ellas.",
+        "La responsabilidad limitada separa el aporte societario del patrimonio personal bajo los supuestos. El incumplimiento puede llevar a reorganización o liquidación y extinguir derechos accionarios. Los acreedores tienen prioridad, aunque su recuperación depende de activos y procedimiento."
+      ]
+    },
+    {
+      "id": "c15-q036",
+      "tema": "Tasa fija y flotante",
+      "dificultad": "basica",
+      "pregunta": "Dos préstamos de $100.000 pagan anualmente: uno al 8% fijo y otro a referencia más dos puntos. La referencia pasa de 5% a 7% antes del nuevo período. ¿Cuánto interés corresponde en ese período?",
+      "opciones": [
+        "$8.000 fijo y $7.000 flotante.",
+        "$10.000 fijo y $9.000 flotante.",
+        "$8.000 fijo y $9.000 flotante.",
+        "$8.000 en ambos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $7.000 omiten el margen contractual. La referencia no es la tasa total del préstamo. Hay que sumar los dos puntos antes de multiplicar por el principal.",
+        "El aumento de la referencia no modifica la tasa pactada como fija. Sólo cambia el préstamo ajustable. El primero sigue pagando $8.000.",
+        "La tasa fija mantiene 8% y paga $8.000. La flotante se actualiza a 7% + 2% = 9%. Sobre $100.000, su interés resulta $9.000.",
+        "No corresponde igualar las tasas. El contrato flotante pasa a 9% según su regla. El fijo sigue a 8% aunque cambie el mercado."
+      ]
+    },
+    {
+      "id": "c15-q037",
+      "tema": "Cupón y devolución de principal",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de $200.000 paga cupón anual fijo del 6% y devuelve íntegro el principal al final del quinto año. Sin incumplimiento, ¿cuánto paga en esa última fecha?",
+      "opciones": [
+        "$200.000",
+        "$12.000",
+        "$260.000",
+        "$212.000"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe incluye sólo la devolución del principal. Falta el cupón del quinto año. Ambos se pagan en la fecha final indicada.",
+        "Los $12.000 representan únicamente el interés anual. El vencimiento también exige devolver el préstamo íntegro. Confundir cupón con desembolso total omite $200.000.",
+        "Esta cifra suma todos los cupones de la vida del bono. Los primeros cuatro ya se pagaron en sus fechas. Sólo el último cupón acompaña al principal en el quinto año.",
+        "El cupón anual es $200.000 × 6% = $12.000. En la última fecha también se devuelve el principal de $200.000. El pago de ese momento es $212.000."
+      ]
+    },
+    {
+      "id": "c15-q038",
+      "tema": "Plazo y refinanciación",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa necesita inventarios por tres meses y una refinería por veinte años. ¿Qué criterio inicial de financiamiento es razonable?",
+      "opciones": [
+        "Considerar deuda corta para inventarios y larga para la refinería, evaluando costo y riesgo de renovación.",
+        "Usar deuda corta para todo porque nunca vence antes que activos largos.",
+        "Usar deuda larga para todo porque siempre tiene menor tasa.",
+        "La deuda corta garantiza que la refinería será rentable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El inventario estacional libera fondos pronto y puede acompasarse con deuda corta. Una instalación duradera puede beneficiarse de financiamiento largo para evitar renovaciones continuas. Es un criterio inicial sujeto a costos, flexibilidad y riesgo.",
+        "La deuda corta vence antes que un activo de veinte años. Si no se renueva puede aparecer una crisis de liquidez. Precisamente por eso importa analizar la refinanciación.",
+        "La tasa larga no es siempre inferior. Las condiciones de mercado y el riesgo influyen en el costo. La elección exige comparar plazo y exposición, no suponer una ventaja universal.",
+        "El plazo de deuda no garantiza flujos operativos. En ciertos casos renovar deuda corta puede señalar confianza, pero introduce riesgo de liquidez. No prueba que la inversión tenga VPN positivo."
+      ]
+    },
+    {
+      "id": "c15-q039",
+      "tema": "Moneda y eurobonos",
+      "dificultad": "basica",
+      "pregunta": "Se emite un bono en dólares en el mercado internacional y otro en euros en un mercado local. ¿Qué distinción es correcta?",
+      "opciones": [
+        "Sólo el segundo puede ser eurobono por estar denominado en euros.",
+        "El primero puede ser eurobono aunque esté en dólares; la moneda euro no define por sí sola esa categoría.",
+        "Toda emisión exterior debe usar la moneda del prestatario.",
+        "Toda deuda extranjera elimina riesgo cambiario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El prefijo histórico no equivale a la moneda europea. Estar denominado en euros no basta para la clasificación. Hay que atender al mercado de emisión.",
+        "Eurobono identifica una categoría de emisión en mercados internacionales. No exige denominación en euros y puede usar dólares u otras monedas. El mercado y la moneda son dimensiones separadas.",
+        "Emitir fuera del país no impone una moneda única. Las empresas eligen según necesidades y oportunidades. Pueden obtener divisas diferentes de su moneda de origen.",
+        "El riesgo depende del descalce entre pagos y flujos disponibles. Elegir moneda extranjera puede reducirlo o aumentarlo. No hay eliminación automática de exposición cambiaria."
+      ]
+    },
+    {
+      "id": "c15-q040",
+      "tema": "Descalce de moneda",
+      "dificultad": "intermedia",
+      "pregunta": "Una filial generará flujos principalmente en euros durante varios años y evalúa deuda en dólares con tasa algo menor. ¿Qué debería comparar?",
+      "opciones": [
+        "Sólo el país de firma, que determina todos los pagos.",
+        "Sólo tasas, porque la moneda no afecta el servicio de deuda.",
+        "Costo total y riesgo cambiario; endeudarse en euros puede alinearse mejor con sus flujos.",
+        "La deuda en dólares siempre es la más segura."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El lugar de firma no reemplaza la denominación contractual. Puede pactarse una divisa diferente de la local. Hay que identificar las monedas efectivas de cobros y pagos.",
+        "Si los ingresos son euros y los pagos dólares, habrá que convertir moneda. Una variación adversa puede encarecer el servicio. La comparación de tasas por sí sola omite esa exposición.",
+        "Pagar en la moneda de los flujos puede reducir el descalce. Una tasa menor en dólares no demuestra menor costo ajustado por riesgo. Deben considerarse intereses, principal, cambio y posibles coberturas.",
+        "La seguridad depende de los flujos del deudor. El dólar no elimina el riesgo de una empresa que genera euros. Una regla universal ignora el descalce particular."
+      ]
+    },
+    {
+      "id": "c15-q041",
+      "tema": "Prioridad de cobro",
+      "dificultad": "avanzada",
+      "pregunta": "En una liquidación simplificada quedan $500. Hay deuda prioritaria por $350 y subordinada por $250, sin otras obligaciones, garantías ni costos. ¿Cuánto reciben prioritaria, subordinada y comunes?",
+      "opciones": [
+        "$300, $200 y $0.",
+        "$350, $150 y $0.",
+        "$250, $250 y $0.",
+        "$350, $0 y $150."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este reparto es proporcional como si los créditos tuvieran igual rango. El supuesto establece distinta prelación. Primero debe satisfacerse la deuda prioritaria.",
+        "La deuda prioritaria cobra primero sus $350. Quedan $150 para la subordinada, que no se recupera íntegramente. Las comunes no reciben nada porque sigue habiendo deuda impaga.",
+        "Pagar íntegra la subordinada y dejar incompleta la prioritaria invierte el orden. La subordinación obliga a cobrar después. Los $500 no alcanzan para los $600 de deuda total.",
+        "Subordinada no significa posterior al capital común. Esa deuda cobra después de la prioritaria pero antes de los accionistas. Los $150 deben ir al acreedor subordinado."
+      ]
+    },
+    {
+      "id": "c15-q042",
+      "tema": "Colateral y restricciones",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco presta contra inventarios y prohíbe deuda de mayor prioridad o garantías sobre esos activos a otros. ¿Qué busca?",
+      "opciones": [
+        "Dar prioridad de cobro a las comunes.",
+        "Proteger recuperación con colateral y evitar decisiones que deterioren su posición.",
+        "Eliminar todo riesgo porque el inventario nunca pierde valor.",
+        "Adquirir automáticamente todas las acciones del prestatario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las cláusulas protegen al acreedor. No transforman los derechos residuales comunes en cobros prioritarios. Los propietarios siguen detrás de obligaciones pendientes.",
+        "El inventario respalda específicamente el préstamo como colateral. Las restricciones evitan que nuevas obligaciones o garantías debiliten esa protección. Ambas medidas pueden reducir pérdidas, pero no aseguran recuperación total.",
+        "El inventario puede deteriorarse o perder precio. También puede haber costos de ejecución y faltantes de cobertura. El colateral reduce ciertos riesgos sin hacer infalible el crédito.",
+        "Una garantía sobre activos no equivale a comprar acciones. El banco obtiene derechos de cobro y ejecución conforme al contrato. La propiedad accionaria es una relación distinta."
+      ]
+    },
+    {
+      "id": "c15-q043",
+      "tema": "Convertibles y warrants",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia esencial hay entre un bono convertible y un warrant?",
+      "opciones": [
+        "Ambos obligan a comprar acciones cuando baja su cotización.",
+        "El convertible permite intercambiar el bono por acciones; el warrant permite comprarlas pagando un precio pactado antes de su vencimiento.",
+        "El warrant es un dividendo preferente atrasado.",
+        "Ambos otorgan votos accionarios inmediatos sin conversión ni ejercicio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Son opciones del tenedor en las modalidades consideradas. Si no conviene ejercer o convertir puede abstenerse. Presentarlos como obligaciones elimina su característica central.",
+        "Convertir sustituye el derecho del bono por una cantidad pactada de acciones. Ejercer un warrant requiere comprar según precio y plazo definidos. Pueden venderse bonos y warrants en un paquete, pero sus mecanismos son distintos.",
+        "Un atraso preferente es un derecho ligado a dividendos omitidos. El warrant da una facultad de adquirir acciones. No es un dividendo ni exige poseer preferentes previamente.",
+        "Tener una opción no equivale a poseer las acciones subyacentes. Los votos surgen de las acciones efectivamente adquiridas y sus condiciones. No deben anticiparse automáticamente."
+      ]
+    },
+    {
+      "id": "c15-q044",
+      "tema": "Conversión y ejercicio",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono puede convertirse en 40 acciones que cotizan a $30. Separadamente, un warrant permite comprar 10 acciones a $24. ¿Cuánto valen las acciones de conversión y la ventaja inmediata de ejercer el warrant, sin costos?",
+      "opciones": [
+        "$960 y $60.",
+        "$1.200 y $300.",
+        "$1.200 y $60.",
+        "$40 y $6."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $24 son el precio de ejercicio del warrant. No valoran las acciones recibidas al convertir el bono. Para ellas corresponde usar la cotización de $30.",
+        "El valor de conversión es correcto. Pero los $300 son el valor bruto de las acciones compradas con el warrant. Para medir ventaja hay que restar el desembolso de $240.",
+        "La conversión entrega acciones por 40 × $30 = $1.200. El warrant permite comprar por $240 acciones que valen $300. La ventaja de ejercicio es $60, sin calcular aquí un precio completo con valor temporal.",
+        "La primera cifra es una cantidad de acciones, no su valor monetario. La segunda es la ventaja por una sola acción del warrant. Deben multiplicarse cantidades por precios o diferencias unitarias correspondientes."
+      ]
+    },
+    {
+      "id": "c15-q045",
+      "tema": "No conversión y riesgo crediticio",
+      "dificultad": "intermedia",
+      "pregunta": "La acción cae y deja de convenir convertir un bono ordinario sin conversión obligatoria. ¿Qué puede hacer su tenedor?",
+      "opciones": [
+        "Debe convertirse inmediatamente aunque pierda valor.",
+        "Pasa automáticamente a ser acreedor con garantía específica.",
+        "Puede exigir recuperación íntegra garantizada incluso en quiebra.",
+        "Conservar el bono sin convertir, manteniendo el riesgo de incumplimiento del emisor."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El supuesto excluye conversión obligatoria. Una opción no debe ejercerse sólo porque empeoró su resultado. El tenedor puede mantener su posición de deuda.",
+        "La garantía requiere condiciones contractuales y activos afectados. Una caída bursátil no crea colateral nuevo. La opción de conversión y la protección crediticia son atributos diferentes.",
+        "No convertir evita aceptar voluntariamente acciones desfavorables. Pero no crea recursos en una empresa insolvente. El cobro depende de activos, prelación y cumplimiento.",
+        "La conversión es una facultad y puede no ejercerse. En ese caso conserva los derechos del bono conforme al contrato. Eso no elimina la posibilidad de incumplimiento ni asegura una recuperación total."
+      ]
+    },
+    {
+      "id": "c15-q046",
+      "tema": "Obligaciones con otro nombre",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa muestra poca deuda bancaria, pero tiene proveedores impagos, arrendamientos largos y prestaciones jubilatorias sin financiar. ¿Cómo evaluar su carga financiera?",
+      "opciones": [
+        "Calificar toda obligación no bancaria como fraude.",
+        "Ignorar todo salvo bonos y bancos.",
+        "Examinar esas obligaciones y las notas porque generan pagos aunque no se llamen préstamos.",
+        "Contar proveedores pero tratar los arrendamientos como gratuitos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Estas formas pueden ser legítimas y estar claramente informadas. El fraude exige ocultamiento o engaño, no una etiqueta distinta. El objetivo es medir compromisos, no presumir delito.",
+        "La obligación de pagar no depende del nombre del instrumento. Excluir arrendadores o beneficiarios subestima necesidades de caja. Hay que incorporar compromisos relevantes aunque no sean préstamos bancarios.",
+        "Los proveedores financian bienes ya entregados y los arrendamientos comprometen pagos. Las prestaciones prometidas pueden requerir aportes futuros importantes. La evaluación debe seguir la sustancia económica y revisar cuentas y notas.",
+        "Alquilar equipos no elimina el costo de uso. Un arrendamiento largo puede exigir pagos semejantes al servicio de una deuda. Debe analizarse junto con otras obligaciones."
+      ]
+    },
+    {
+      "id": "c15-q047",
+      "tema": "Prestaciones sin fondos y vehículos especiales",
+      "dificultad": "avanzada",
+      "pregunta": "Las prestaciones prometidas valen $240 millones y hay activos reservados por $90 millones. Un vehículo especial también tomó deuda para financiar la firma. ¿Cuál es el faltante y qué más debe revisarse?",
+      "opciones": [
+        "$330 millones; sumar activos reservados como otra deuda.",
+        "$240 millones; ignorar activos reservados y vehículos separados.",
+        "$90 millones; asumir que la separación jurídica elimina riesgo.",
+        "$150 millones; examinar vínculos, garantías y compromisos del vehículo para identificar exposición adicional."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los activos reservados respaldan obligaciones y no son otra deuda. Se restan para obtener la parte sin financiar. Sumarlos genera una magnitud que no representa el faltante.",
+        "Los activos destinados a prestaciones reducen el faltante. Ignorarlos lo sobrestima. Excluir automáticamente al vehículo puede, al mismo tiempo, subestimar otros compromisos.",
+        "Los $90 millones son fondos apartados, no la parte descubierta. Además, acuerdos de apoyo pueden vincular riesgos del vehículo a la empresa. Debe revisarse la sustancia de esos contratos.",
+        "El faltante es $240 − $90 = $150 millones. La deuda del vehículo requiere examinar destino, garantías y relaciones con la firma. La separación jurídica no prueba ausencia de exposición económica."
+      ]
+    },
+    {
+      "id": "c15-q048",
+      "tema": "Diseño de deuda y compromisos contingentes",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma combina deuda convertible, subordinada, flotante y extranjera; tiene además una línea no usada y un swap de tasas. ¿Cómo analizar el conjunto?",
+      "opciones": [
+        "Contar la línea no usada como efectivo recibido y omitir el swap.",
+        "Rechazarlo porque no pueden combinarse esas características.",
+        "Clasificar todo como común porque existe conversión.",
+        "Separar atributos, distinguir crédito disponible de dispuesto y considerar cómo el swap cambia pagos y exposición."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una capacidad de crédito no utilizada no es efectivo ya ingresado. Además, el swap puede transformar una exposición fija en flotante o viceversa. Ignorarlo distorsiona los flujos efectivos.",
+        "La variedad financiera surge precisamente de combinar atributos. Su mezcla no es inválida por sí misma. Deben evaluarse condiciones, riesgos y aceptación de inversores.",
+        "La opción no elimina la deuda mientras no se convierta. El tenedor conserva derechos contractuales del bono. Hay que considerar conjuntamente obligación y opción, sin tratarlas como acciones ya emitidas.",
+        "Moneda, tasa, prioridad y conversión pueden combinarse en un título. La línea disponible no implica que ya se haya tomado el préstamo. El swap puede modificar la exposición efectiva aunque el bono original conserve sus términos."
+      ]
+    },
+    {
+      "id": "c15-q049",
+      "tema": "Mercado primario y secundario",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue una emisión primaria de la venta entre inversores de acciones existentes?",
+      "opciones": [
+        "La secundaria siempre aumenta la caja del emisor por el precio pagado.",
+        "Cada operación secundaria crea acciones nuevas.",
+        "La primaria ocurre sólo entre accionistas antiguos sin emisor.",
+        "La primaria capta fondos para el emisor; la secundaria transfiere titularidad y dinero entre inversores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El precio de la acción existente lo cobra su vendedor. No ingresa automáticamente a la empresa. Debe identificarse el receptor efectivo del dinero en cada transacción.",
+        "La secundaria redistribuye valores sin crear otros. Una emisión nueva sí puede aumentar las acciones emitidas. Confundirlas infla ficticiamente el capital cada vez que se negocia.",
+        "Una negociación de títulos existentes entre accionistas es secundaria. La primaria implica colocación del emisor. No depende de que el comprador sea nuevo o antiguo.",
+        "En la emisión la compañía vende títulos y recibe fondos. En la secundaria un inversor paga a otro por valores ya existentes. Esa transferencia no aporta por sí misma caja ni activos nuevos a la compañía."
+      ]
+    },
+    {
+      "id": "c15-q050",
+      "tema": "Organización y liquidez de mercados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirmación sobre mercados secundarios es correcta?",
+      "opciones": [
+        "Mostrador significa necesariamente emisión primaria de acciones.",
+        "Sólo existen si todos los títulos cotizan diariamente en bolsa.",
+        "Pueden operar en bolsas o redes de intermediarios; la intensidad de negociación difiere entre activos.",
+        "Cada préstamo bancario tiene la liquidez de una acción muy negociada."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Mostrador describe cómo se organiza la negociación. Un bono existente vendido por esa vía sigue siendo secundario. No determina que se estén emitiendo acciones nuevas.",
+        "Ni la cotización diaria ni una bolsa son requisitos para toda transacción secundaria. También pueden transferirse valores mediante intermediarios. Frecuencia y organización describen dimensiones diferentes.",
+        "Las bolsas son ámbitos organizados y las redes de intermediarios permiten negociación de mostrador. Muchos bonos se negocian de esta segunda forma en el contexto analizado. Un préstamo bancario puede transferirse, pero no necesariamente tiene un mercado activo.",
+        "Un préstamo puede requerir información o acuerdos específicos para transferirse. Ser activo financiero no garantiza liquidez alta. No debe equipararse automáticamente a una acción negociada masivamente."
+      ]
+    },
+    {
+      "id": "c15-q051",
+      "tema": "Derivados y cobertura",
+      "dificultad": "intermedia",
+      "pregunta": "Una fábrica teme que suba su insumo y usa un derivado para fijar el precio futuro de compra. ¿Cuál es su objetivo inmediato?",
+      "opciones": [
+        "Gestionar riesgo de costo con un contrato ligado a un precio subyacente.",
+        "Emitir automáticamente capital común nuevo.",
+        "Garantizar ganancias operativas cualquiera sea la demanda.",
+        "Convertir el insumo en una acción con voto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El derivado vincula pagos o condiciones al precio de otro activo o mercancía. La cobertura reduce incertidumbre sobre el costo de compra. No garantiza el resultado completo del negocio.",
+        "Cubrir un insumo no es vender acciones. Puede producir flujos contractuales, pero su propósito es gestionar una exposición. Deben distinguirse cobertura y captación de capital.",
+        "Persisten riesgos de ventas, cantidades y otros costos. La empresa puede perder dinero aunque estabilice el precio del insumo. Cubrir una variable no asegura toda la rentabilidad.",
+        "El contrato no altera la naturaleza física del insumo. Su valor depende del subyacente y no otorga por eso derechos societarios. Los votos pertenecen a instrumentos de capital con esas condiciones."
+      ]
+    },
+    {
+      "id": "c15-q052",
+      "tema": "Intermediarios y activos reales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue principalmente a un intermediario financiero de una manufacturera?",
+      "opciones": [
+        "Recibe ahorro sin crear derechos para sus aportantes.",
+        "Invierte sólo en máquinas y nunca en préstamos.",
+        "Capta recursos con instrumentos como depósitos o pólizas y los coloca principalmente en activos financieros.",
+        "Opera sin costos ni necesidad de remunerar financiadores."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Depósitos y pólizas crean derechos de sus titulares. La intermediación transforma compromisos y activos, no recibe simplemente dinero gratuito. Esos derechos son parte esencial del servicio.",
+        "Los préstamos concedidos son activos importantes de un banco. La inversión principal en maquinaria describe mejor una actividad industrial. La diferencia es funcional, aunque ambos puedan tener edificios y equipos.",
+        "El intermediario reúne ahorro y lo coloca en préstamos o títulos. Ofrece a quienes aportan recursos derechos con características distintas, como depósitos y pólizas. La manufacturera concentra su inversión productiva en activos reales como planta y equipo.",
+        "Los intermediarios tienen gastos de operación y fuentes que remunerar. Los ingresos deben cubrir esos costos para sostener la actividad. La especialización puede mejorar eficiencia, pero no implica gratuidad."
+      ]
+    },
+    {
+      "id": "c15-q053",
+      "tema": "Seguro y riesgo compartido",
+      "dificultad": "intermedia",
+      "pregunta": "Una aseguradora cobra primas a miles de hogares y paga incendios cubiertos. ¿Qué función cumple?",
+      "opciones": [
+        "Paga interés fijo a cada asegurado aunque no haya siniestro.",
+        "Da a cada asegurado propiedad exclusiva de toda su cartera de bonos.",
+        "Elimina con certeza todo riesgo agregado por independencia perfecta.",
+        "Agrupa riesgos y ofrece un derecho contingente de indemnización respaldado por una cartera amplia."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El beneficio descrito es cobertura, no un cupón por tiempo transcurrido. Si no hay siniestro puede no existir indemnización. Confundir póliza y bono elimina el carácter contingente del seguro.",
+        "La póliza no transfiere dominio exclusivo sobre todos los bonos. Otorga derechos contractuales de cobertura. La aseguradora administra sus activos para respaldar obligaciones agregadas.",
+        "Un desastre puede afectar simultáneamente muchos hogares. La independencia perfecta no está garantizada. Agrupar riesgos reduce cierta incertidumbre, pero requiere evaluar correlaciones y riesgos comunes.",
+        "La póliza ofrece pagos si ocurre la contingencia cubierta. La aseguradora invierte primas y atiende pérdidas del conjunto. Agrupar numerosos riesgos puede hacer más predecibles ciertas obligaciones, sin eliminar eventos correlacionados."
+      ]
+    },
+    {
+      "id": "c15-q054",
+      "tema": "Tenencias institucionales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué describe el papel institucional en el financiamiento histórico presentado?",
+      "opciones": [
+        "Fondos mutuos, pensiones y aseguradoras poseen buena parte de los títulos; aseguradoras también financian a largo plazo con bonos y préstamos.",
+        "Casi todos los títulos están directamente en manos de individuos.",
+        "Sólo los bancos pueden comprar acciones y deuda corporativa.",
+        "Los fondos de pensiones nunca canalizan ahorro hacia empresas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las instituciones reúnen ahorro de muchas personas y adquieren activos corporativos. Las aseguradoras pueden comprar bonos y prestar directamente a largo plazo. Fondos mutuos y previsionales también conectan ahorro individual con capital y deuda empresarial.",
+        "Los individuos pueden ser beneficiarios últimos sin tener cada título directamente. Las carteras institucionales concentran una parte importante de las tenencias. Confundir beneficiario con titular directo altera la lectura.",
+        "Diversas instituciones e inversores pueden financiar empresas. Los bancos no monopolizan esas compras. Otras instituciones son especialmente relevantes en plazos largos bajo el contexto analizado.",
+        "Los fondos previsionales pueden adquirir acciones y bonos. Así canalizan ahorro hacia empresas mientras administran recursos para jubilaciones. No se limitan por definición a activos reales."
+      ]
+    },
+    {
+      "id": "c15-q055",
+      "tema": "Sistema de pagos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ejemplo representa principalmente la función de pagos de las instituciones financieras?",
+      "opciones": [
+        "Una empresa cambia su producto principal.",
+        "Una empresa compara proyectos por VPN.",
+        "Una empresa fija el nominal de sus acciones.",
+        "Una empresa transfiere los sueldos desde su cuenta bancaria."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Cambiar productos es una decisión operativa o estratégica. Puede alterar flujos futuros, pero no constituye por sí sola un servicio de pagos. Aquí se pregunta por la transferencia de dinero.",
+        "Comparar VPN corresponde a evaluar inversiones. Puede utilizar servicios financieros, pero no describe ejecutar un pago. La función consultada es transferir fondos entre partes.",
+        "El nominal pertenece al diseño contable y jurídico del capital. No es un mecanismo de liquidación de obligaciones. El sistema de pagos determina cómo se envían y reciben recursos.",
+        "La transferencia mueve recursos del pagador a los receptores. Reduce la necesidad de transportar efectivo y facilita rapidez y seguridad. Esa infraestructura integra el sistema de pagos."
+      ]
+    },
+    {
+      "id": "c15-q056",
+      "tema": "Canalización y monitoreo",
+      "dificultad": "intermedia",
+      "pregunta": "Una ahorrista puede prestar a una empresa desconocida o depositar en un banco que evalúa y monitorea deudores. ¿Qué razón económica favorece intermediar?",
+      "opciones": [
+        "Intermediar impide trasladar consumo entre períodos.",
+        "El banco impide con certeza todo incumplimiento.",
+        "La especialización y escala pueden reducir costos de búsqueda, evaluación y seguimiento.",
+        "El depósito vuelve irrelevante la solvencia del banco."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La intermediación permite que unos difieran consumo y otros obtengan recursos ahora. Ese traslado temporal es parte del beneficio financiero. No obliga a gastar exactamente cuando se recibe ingreso.",
+        "Evaluar y monitorear reduce ciertos riesgos, pero no los elimina. Pueden aparecer pérdidas por cambios económicos o información imperfecta. La ventaja del intermediario no equivale a infalibilidad.",
+        "Relacionar ahorristas y deudores exige información y vigilancia. El banco puede realizar esas tareas con especialización y repartir costos entre operaciones. Facilita así que el ahorro financie usos valiosos sin exigir búsqueda individual para cada préstamo.",
+        "La ahorrista pasa a tener una relación con el banco. Sus condiciones y solvencia siguen siendo relevantes. Reemplazar exposición directa por intermediación no elimina todo riesgo."
+      ]
+    },
+    {
+      "id": "c15-q057",
+      "tema": "Transformación de liquidez",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco ofrece depósitos de retiro inmediato y presta a cinco años. ¿Qué sostiene normalmente esa estructura y cuál es su límite?",
+      "opciones": [
+        "Los retiros no suelen coincidir todos; una salida masiva puede crear tensión de liquidez.",
+        "Todo préstamo se vuelve efectivo instantáneo cuando se solicita un retiro.",
+        "Tener ganancias contables garantiza caja para cualquier retiro simultáneo.",
+        "Los depósitos son capital permanente nunca exigible."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Muchos depositantes tienen necesidades de retiro en fechas diferentes. Eso permite atender flujos ordinarios mientras se mantienen préstamos largos. Si demasiados retiran a la vez, el descalce puede generar problemas de liquidez.",
+        "El vencimiento del préstamo no se adelanta automáticamente por retiros. Venderlo puede ser lento o costoso. Precisamente esa diferencia explica el riesgo de transformación de liquidez.",
+        "Ganancia y caja inmediata son magnitudes distintas. Un banco puede tener activos valiosos difíciles de convertir rápidamente en efectivo. La solvencia no garantiza liquidez ilimitada en cualquier fecha.",
+        "El supuesto establece retiro inmediato. Por lo tanto los depósitos no son aportes accionarios permanentes. Tratarlos así ignora el compromiso de atender exigencias de sus titulares."
+      ]
+    },
+    {
+      "id": "c15-q058",
+      "tema": "Diversificación con fondos",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona con poco ahorro compra un fondo ampliamente diversificado en lugar de una única acción. ¿Qué cambia principalmente?",
+      "opciones": [
+        "Reduce exposición a fracasos particulares, pero conserva riesgo de caídas generales.",
+        "Elimina todos los riesgos específicos y de mercado.",
+        "Obtiene garantía automática del valor inicial.",
+        "Concentra necesariamente más sus inversiones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una cartera amplia reparte la exposición entre emisores. Un fracaso particular pesa menos que en una única acción. Los factores comunes del mercado pueden seguir afectando simultáneamente al conjunto.",
+        "La diversificación no elimina factores compartidos por muchas inversiones. Una caída general puede perjudicar al fondo. Su efecto principal es reducir concentración y riesgo particular.",
+        "Participar en un fondo no equivale a contratar una garantía. Su valor depende de los activos de cartera. Compartir riesgos no asegura una suma fija de recuperación.",
+        "El supuesto habla de un fondo amplio. Permite acceder a numerosas posiciones incluso con poco dinero. Frente a una única acción, eso reduce y no aumenta la concentración por emisor."
+      ]
+    },
+    {
+      "id": "c15-q059",
+      "tema": "Funciones globales e instituciones",
+      "dificultad": "intermedia",
+      "pregunta": "Un país tiene bolsa pequeña y bancos con participaciones industriales importantes. ¿Qué interpretación es coherente con el enfoque funcional?",
+      "opciones": [
+        "El desarrollo económico nunca modifica la estructura institucional.",
+        "Sin predominio bursátil no existe ahorro ni inversión.",
+        "Todos los países tienen idénticas restricciones bancarias.",
+        "Las funciones básicas pueden ser similares aunque cambien instituciones y actividades permitidas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El crecimiento del ahorro puede impulsar fondos previsionales y mutuos. También cambian tecnologías y regulaciones. Las funciones persisten, pero sus formas institucionales no son inmutables.",
+        "Los bancos pueden financiar inversión aunque la bolsa sea pequeña. También existen otros canales de ahorro. Debe analizarse su organización y no equiparar poco mercado accionario con ausencia de finanzas.",
+        "Los alcances de la actividad bancaria difieren entre países y períodos. El contraste histórico ilustra precisamente esa diversidad. Una restricción de un país no debe presentarse como regla universal actual.",
+        "Pagos, canalización de ahorro y distribución de riesgos son necesidades generales. Los países pueden resolverlas con distintos pesos de bancos y mercados. Las actividades permitidas y la organización institucional varían sin eliminar esas funciones."
+      ]
+    },
+    {
+      "id": "c15-q060",
+      "tema": "Deuda, propiedad y restricciones",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora afirma: «Si emitimos deuda en vez de acciones, nadie más tendrá derechos sobre flujos ni límites sobre decisiones». ¿Qué responder?",
+      "opciones": [
+        "Es correcto con tasa fija porque no debe devolverse principal.",
+        "Es correcto porque sólo accionistas tienen derechos contractuales.",
+        "La deuda crea cobros prioritarios y posibles restricciones; incumplir puede modificar también el control.",
+        "Es falso porque cada dólar prestado otorga inmediatamente un voto accionarial."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una tasa fija sólo determina el cálculo del interés. La obligación de devolver principal permanece. Cupón estable no convierte deuda en recursos gratuitos.",
+        "Los acreedores reciben precisamente derechos contractuales de pago. Su posición es prioritaria frente al capital. No emitir acciones no significa obtener dinero sin compromisos.",
+        "No incorporar comunes nuevos evita repartir esa clase de propiedad, pero crea compromisos de intereses y principal. El contrato puede limitar dividendos, activos y deuda futura. Ante incumplimiento, esos derechos pueden afectar profundamente el control residual.",
+        "Los acreedores normalmente no reciben votos por cada unidad prestada. Su influencia surge del contrato y de mecanismos de incumplimiento. El argumento correcto distingue derechos de cobro de propiedad accionaria."
+      ]
+    },
+    {
+      "id": "c15-q061",
+      "tema": "Amortización y cancelación anticipada",
+      "dificultad": "intermedia",
+      "pregunta": "Un director compara un préstamo que devuelve principal gradualmente con otro que lo devuelve íntegro al vencimiento. Además, uno permite cancelación anticipada por el prestatario. ¿Qué debe distinguir?",
+      "opciones": [
+        "Pagar intereses regularmente significa siempre amortizar todo el principal en cuotas iguales.",
+        "Una opción a favor del prestatario concede necesariamente al prestamista el mismo derecho.",
+        "El calendario de devolución de principal y quién tiene la opción de terminar anticipadamente son características distintas que afectan los flujos.",
+        "La devolución íntegra al vencimiento elimina la necesidad de tener recursos en esa fecha."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Interés y amortización de principal son conceptos diferentes. Puede pagarse interés cada año y devolver todo el principal sólo al final. El calendario debe leerse en el contrato y no inferirse de la periodicidad del cupón.",
+        "Los derechos opcionales pueden ser asimétricos. Que el prestatario pueda cancelar no significa que el acreedor pueda exigir el pago cuando quiera. Hay que identificar al titular de cada facultad en vez de suponer reciprocidad.",
+        "La amortización gradual reduce el saldo mediante pagos sucesivos de principal. La devolución íntegra concentra ese desembolso al vencimiento. Una opción de terminación añade otra dimensión: importa quién puede ejercerla y bajo qué condiciones, porque modifica las fechas posibles de pago.",
+        "Concentrar el principal posterga su pago, pero no lo elimina. Al vencimiento habrá que generar efectivo o conseguir refinanciación. Esa concentración puede aumentar la necesidad de planificar liquidez."
+      ]
+    },
+    {
+      "id": "c15-q062",
+      "tema": "FII y distribución condicionada",
+      "dificultad": "intermedia",
+      "pregunta": "En un régimen hipotético de FII que exige distribuir al menos 95% de las utilidades para acceder al tratamiento fiscal especial, un fondo gana $2.000.000. Cumple los demás requisitos. ¿Cuál es la distribución mínima y cuánto puede retener como máximo?",
+      "opciones": [
+        "$1.900.000 y $100.000.",
+        "$100.000 y $1.900.000.",
+        "$2.000.000 y $0, porque cualquier retención viola el requisito.",
+        "$1.800.000 y $200.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La distribución mínima es $2.000.000 × 95% = $1.900.000. El complemento de 5% permite retener $100.000. Es una condición del régimen hipotético planteado y no una afirmación sobre legislación vigente; el tratamiento del fondo tampoco elimina los impuestos que correspondan a sus propietarios.",
+        "Se han intercambiado el porcentaje distribuible y el retenible. El 95% debe salir hacia propietarios, no quedar dentro del fondo. Sólo el complemento de 5% puede retenerse conservando el requisito indicado.",
+        "El requisito exige al menos 95%, no necesariamente 100%. Distribuir todo sería compatible, pero no es el mínimo pedido. La retención de hasta 5% está permitida bajo este supuesto.",
+        "Este importe distribuye sólo 90% de las utilidades. Queda por debajo del umbral de 95% establecido. Faltaría distribuir otros $100.000 para cumplirlo."
+      ]
+    },
+    {
+      "id": "c15-q063",
+      "tema": "Pagos mediante fondos de dinero",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo del mercado de dinero reúne aportes, compra valores seguros de corto plazo y ofrece a sus participantes un mecanismo para hacer pagos contra su inversión. ¿Qué ilustra el caso?",
+      "opciones": [
+        "Todo servicio de pago transforma jurídicamente la inversión en un depósito bancario idéntico.",
+        "Sólo un banco puede facilitar pagos, por lo que el mecanismo es imposible.",
+        "Una institución distinta de un banco puede combinar inversión colectiva con servicios de pago, según sus condiciones.",
+        "Ofrecer pagos obliga al fondo a invertir exclusivamente en acciones industriales de largo plazo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La semejanza funcional no vuelve idénticos los contratos. Una participación de un fondo y un depósito pueden tener riesgos, derechos y condiciones diferentes. Deben revisarse esos términos aunque ambos faciliten pagos.",
+        "La función de pagos no es conceptualmente exclusiva de los bancos. El ejemplo muestra otra institución que la integra a su servicio de inversión. La forma concreta depende de las condiciones operativas y regulatorias aplicables.",
+        "Los recursos de muchos participantes se agrupan y se invierten en una cartera. El mecanismo de pagos permite utilizar parte de esa inversión para transferir fondos. Ilustra que una misma función financiera puede realizarse mediante instituciones diferentes, sin hacer idénticos sus contratos.",
+        "El enunciado especifica valores de corto plazo y bajo riesgo. Ofrecer pagos no impone comprar acciones largas. El tipo de activos debe analizarse por la estrategia y necesidades de liquidez del fondo."
+      ]
+    },
+    {
+      "id": "c15-q064",
+      "tema": "Variedad de instrumentos de deuda",
+      "dificultad": "basica",
+      "pregunta": "Una tesorera encuentra préstamos bancarios, papel comercial, notas, obligaciones sin garantía, bonos flotantes, bonos cupón cero, notas de multiplicador de dinero y bonos de desarrollo industrial. ¿Qué conclusión debe extraer de esa variedad?",
+      "opciones": [
+        "Todos tienen necesariamente el mismo vencimiento, garantías y calendario de pagos.",
+        "La ausencia de garantía específica convierte automáticamente una obligación en una acción común.",
+        "No basta la etiqueta deuda: hay que revisar plazo, pagos, tasa, moneda, prioridad, garantías y posibles opciones.",
+        "Un bono cupón cero carece de cualquier obligación de pago porque no paga cupones periódicos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Compartir la categoría deuda no iguala sus condiciones. Los contratos pueden diferir en muchas dimensiones y servir necesidades distintas. La tesorera debe revisar términos concretos antes de comparar costos o riesgos.",
+        "Una obligación sin garantía específica sigue siendo un derecho de crédito. La falta de colateral no crea derechos residuales de propiedad. Garantía y naturaleza de deuda o capital son dimensiones distintas.",
+        "El nombre general no resume los compromisos económicos de cada contrato. Plazo y calendario determinan cuándo se paga, mientras tasa y moneda afectan cuánto se paga. Prioridad, colateral y opciones modifican riesgos y derechos, por lo que deben analizarse junto con el costo.",
+        "Cupón cero significa ausencia de intereses periódicos en forma de cupón. El título conserva el pago pactado al vencimiento y puede generar rendimiento por la diferencia con su precio de adquisición. No pagar cupones no equivale a no deber dinero."
+      ]
+    }
+  ]
+}

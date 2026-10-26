@@ -1,0 +1,1450 @@
+{
+  "capitulo": 16,
+  "titulo": "Cómo emiten valores las corporaciones",
+  "preguntas": [
+    {
+      "id": "c16-q001",
+      "tema": "Capital de riesgo y plan de negocios",
+      "dificultad": "basica",
+      "pregunta": "Una empresa joven tiene una tecnología prometedora, poca caja y escasas garantías bancarias. ¿Qué caracteriza al capital de riesgo?",
+      "opciones": [
+        "Es un préstamo bancario garantizado por las ventas futuras.",
+        "Es un subsidio sin derechos económicos ni de control.",
+        "Financia mediante participación en el negocio y suele aportar evaluación, supervisión y asesoramiento.",
+        "Exige que la empresa ya cotice en bolsa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las ventas futuras no están aseguradas y pueden no servir como garantía. El capital de riesgo participa del riesgo residual del negocio. No equivale a un préstamo bancario ordinario.",
+        "El inversor espera obtener un retorno sobre su aporte. Normalmente recibe participación y negocia mecanismos de supervisión. No entrega fondos sin contraprestación económica.",
+        "El inversor asume incertidumbre a cambio de participar del valor futuro. Para evaluar el proyecto necesita conocer producto, mercado, tecnología y recursos requeridos. Por eso el plan de negocios y el apoyo activo son partes importantes del proceso.",
+        "El financiamiento de riesgo puede llegar mucho antes de una oferta pública. Justamente ayuda a atravesar las etapas de desarrollo privado. La cotización puede ser una salida posterior, pero no es un requisito inicial."
+      ]
+    },
+    {
+      "id": "c16-q002",
+      "tema": "Etapa cero, intangibles y valor",
+      "dificultad": "basica",
+      "pregunta": "Los fundadores aportan $200.000 y gastan $30.000 en constituir la empresa. Conservan la caja restante y una idea tecnológica. ¿Qué afirmación es correcta?",
+      "opciones": [
+        "Quedan $170.000 de caja, pero el valor de mercado también depende de la idea y sus perspectivas.",
+        "La empresa necesariamente vale $170.000.",
+        "La empresa necesariamente vale $200.000.",
+        "Los gastos de constitución elevan automáticamente el valor a $230.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La caja se calcula como 200.000 menos 30.000. El valor económico no se limita al efectivo ni al costo histórico. Una oportunidad comercial viable puede justificar valor adicional aunque no figure de igual modo en la contabilidad.",
+        "Ese importe mide el efectivo remanente. No incorpora una evaluación de la tecnología ni de las oportunidades comerciales. El valor de mercado puede diferir de la caja.",
+        "El aporte inicial es una transacción histórica. No fija para siempre el valor del negocio. Los gastos realizados y las perspectivas futuras deben evaluarse por separado.",
+        "Gastar recursos no crea por sí mismo un activo del mismo valor. Los trámites pueden ser necesarios sin agregar una ganancia económica equivalente. El valor depende de los beneficios esperados y de su riesgo."
+      ]
+    },
+    {
+      "id": "c16-q003",
+      "tema": "Valuación previa y posterior al aporte",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo aporta $2 millones por 1 millón de acciones nuevas. Antes había 3 millones de acciones idénticas de los fundadores. Sin otros cambios, ¿qué valuaciones implica la ronda?",
+      "opciones": [
+        "$8 millones antes y $10 millones después.",
+        "$2 millones antes y $4 millones después.",
+        "$6 millones antes y $6 millones después.",
+        "$6 millones antes del aporte y $8 millones después."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $8 millones corresponden al capital posterior, que ya incluye el efectivo nuevo. Sumarlos nuevamente duplica el aporte. La valuación previa se obtiene restando $2 millones a los $8 millones posteriores.",
+        "El aporte no compra toda la empresa previa. Compra una cuarta parte del capital posterior. A $2 por acción, el capital previo vale $6 millones.",
+        "La primera cifra es correcta. La segunda omite los $2 millones de efectivo que ingresan. Sin costos ni otras noticias, ese aporte aumenta el valor total a $8 millones.",
+        "El fondo paga $2 por acción, resultado de dividir $2 millones por 1 millón de acciones. Las 3 millones de acciones previas valen entonces $6 millones. Después del aporte hay 4 millones de acciones que valen $8 millones en total."
+      ]
+    },
+    {
+      "id": "c16-q004",
+      "tema": "Dilución entre rondas",
+      "dificultad": "intermedia",
+      "pregunta": "Una fundadora posee 60% de una empresa valuada en $12 millones antes de una ronda. Un fondo aporta $4 millones a precio justo. Si ella no compra ni vende, ¿qué sucede inmediatamente después?",
+      "opciones": [
+        "Conserva 60% y su tenencia pasa a $9,6 millones.",
+        "Su participación baja a 45% y su tenencia sigue valiendo $7,2 millones.",
+        "Queda con 45% y pierde $1,8 millones.",
+        "Queda con 40% porque el aporte equivale a un tercio del valor previo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El fondo recibe acciones a cambio del efectivo aportado. Por eso aumenta el total de acciones y baja el porcentaje de la fundadora. Mantener 60% sin aportar le regalaría parte de la inversión ajena.",
+        "La empresa pasa a valer $16 millones. Las acciones anteriores representan 12/16 del total y la fundadora conserva 60% de ese bloque, equivalente a 45%. Su riqueza resulta 0,45 × 16 = $7,2 millones, igual que antes.",
+        "La reducción porcentual no equivale a una pérdida de riqueza. El valor de la empresa aumenta al ingresar efectivo. El 45% de $16 millones conserva los $7,2 millones originales.",
+        "La participación del nuevo fondo se calcula sobre el valor posterior. El fondo recibe 4/16, no 4/12 del capital final. La fundadora conserva 60% multiplicado por 12/16."
+      ]
+    },
+    {
+      "id": "c16-q005",
+      "tema": "Incentivos y señales de compromiso",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo exige inversión personal de los fundadores, salarios moderados y desembolsos sujetos a hitos. ¿Cuál es la principal lógica del paquete?",
+      "opciones": [
+        "Eliminar el riesgo económico de los fundadores.",
+        "Alinear el esfuerzo con la creación de valor y revisar resultados antes de aportar más.",
+        "Garantizar que el fondo nunca intervenga en la administración.",
+        "Permitir salarios altos independientes del desempeño."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Invertir patrimonio y cobrar salarios moderados aumenta su exposición al resultado. El paquete busca incentivos y no un seguro completo. La concentración de riesgo es una contrapartida del compromiso.",
+        "La inversión personal vuelve costoso para los fundadores un fracaso y da credibilidad a su compromiso. Los salarios moderados hacen que una parte importante de su recompensa dependa de las acciones. Los hitos añaden disciplina, aunque también concentran riesgo en los emprendedores.",
+        "La revisión de hitos permite detectar problemas y actuar. Puede llevar a modificar condiciones o sustituir directivos. El capital de riesgo suele incluir supervisión activa.",
+        "La propuesta indica salarios moderados y una recompensa ligada al valor accionario. Un gran salario asegurado podría debilitar esa conexión. El objetivo es reducir problemas de agencia, no elevar la remuneración fija."
+      ]
+    },
+    {
+      "id": "c16-q006",
+      "tema": "Preferentes convertibles",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo recibe preferentes con prioridad frente a las comunes en liquidación y conversión a comunes si se cumplen objetivos. ¿Qué combinación persigue?",
+      "opciones": [
+        "Recuperación garantizada y ausencia de riesgo accionario.",
+        "Prioridad de los fundadores sobre el fondo en todos los escenarios.",
+        "Una deuda que los fundadores pueden cancelar convirtiéndola cuando quieran.",
+        "Protección relativa ante el fracaso y participación en el éxito."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La prioridad no crea activos donde no los hay. El fondo puede sufrir pérdidas si el recupero es insuficiente. Además, la conversión lo expone al valor de las comunes.",
+        "En liquidación, las preferentes tienen la prioridad indicada sobre las comunes. Los fundadores cobran el residuo que corresponda después de los derechos superiores. Esa subordinación refuerza su exposición al fracaso.",
+        "Una preferente no es automáticamente una deuda ordinaria. La conversión depende de las condiciones pactadas. No puede suponerse una decisión unilateral que el contrato no otorga.",
+        "La preferencia mejora la posición del fondo respecto de las acciones comunes si se liquida el negocio. La conversión le permite participar del crecimiento como accionista común. No garantiza recuperar todo, porque puede haber pocos activos y acreedores prioritarios."
+      ]
+    },
+    {
+      "id": "c16-q007",
+      "tema": "Financiación por etapas y abandono",
+      "dificultad": "avanzada",
+      "pregunta": "Un prototipo fracasa y el análisis muestra que no hay una corrección rentable. El fondo ya invirtió mucho en investigación. ¿Qué decisión es coherente con la financiación por etapas?",
+      "opciones": [
+        "Detener nuevos aportes aunque se pierda lo invertido.",
+        "Aportar lo previsto para recuperar los costos hundidos.",
+        "Subir la valuación para eliminar la pérdida económica.",
+        "Buscar otro fondo suponiendo que el rechazo del original no comunica nada."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los aportes previos son costos hundidos para la decisión actual. La siguiente etapa sólo se justifica por sus beneficios futuros frente al nuevo desembolso. Poder abandonar evita agregar dinero a un proyecto sin perspectivas rentables.",
+        "Los gastos pasados no mejoran el rendimiento de los nuevos fondos. Si la continuación no es rentable, aportar más agrava la pérdida. El desembolso por etapas permite evitar esa escalada.",
+        "Una valuación declarada no corrige el prototipo ni genera caja. Los inversores evaluarán los flujos y riesgos reales. Puede corresponder una reducción de valor o el cierre.",
+        "El fondo original suele conocer mejor el negocio. Su negativa puede ser una señal adversa para un reemplazo menos informado. Ignorar esa diferencia subestima la dificultad de refinanciar."
+      ]
+    },
+    {
+      "id": "c16-q008",
+      "tema": "Control y derechos económicos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué caracteriza a muchos contratos de capital de riesgo respecto de los derechos económicos y de control?",
+      "opciones": [
+        "Cada punto de participación económica debe dar idéntico control en todos los casos.",
+        "Los fundadores no pueden ser reemplazados mientras tengan una acción.",
+        "Pueden negociarse por separado y cambiar con el desempeño.",
+        "El fondo siempre debe tener mayoría absoluta del directorio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No existe esa equivalencia obligatoria en los contratos analizados. Las facultades se negocian para proteger la inversión y sostener incentivos. Por eso el desempeño puede cambiar el control sin replicar la distribución de flujos.",
+        "Ser accionista no garantiza permanecer como ejecutivo. El directorio puede tener facultades para sustituir al equipo. Esa posibilidad forma parte de la disciplina del financiamiento.",
+        "La participación en flujos no determina necesariamente todos los votos. El fondo puede exigir directorio, vetos o mayor intervención ante resultados pobres. El cumplimiento de objetivos puede reducir algunos de esos derechos.",
+        "La composición depende de la negociación y de la madurez del negocio. Puede haber igual representación y directores que resuelvan empates. La supervisión activa no exige siempre mayoría absoluta."
+      ]
+    },
+    {
+      "id": "c16-q009",
+      "tema": "Ángeles, capital corporativo y mezanine",
+      "dificultad": "basica",
+      "pregunta": "¿Qué asociación de conceptos es correcta en el contexto del financiamiento de empresas jóvenes?",
+      "opciones": [
+        "Ángel: banco central; capital corporativo: subsidio; mezanine: etapa cero.",
+        "Ángel: colocador de OPI; capital corporativo: comprador minorista; mezanine: tercera ronda obligatoria.",
+        "Ángel: individuo adinerado; capital de riesgo corporativo: aporte de una empresa; mezanine: financiación de una etapa avanzada.",
+        "Ángel: fondo de pensión; capital corporativo: regulador; mezanine: sinónimo de OPI."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un ángel es un inversor particular y no una autoridad monetaria. El aporte corporativo busca una participación en el emprendimiento. El financiamiento mezanine llega después de las etapas iniciales.",
+        "El colocador presta un servicio distinto del aporte personal de un ángel. La categoría corporativa se refiere al origen empresarial del capital. Puede haber varias rondas antes de una financiación mezanine.",
+        "Los ángeles invierten patrimonio personal en emprendimientos. Una empresa establecida también puede aportar capital a negocios innovadores. Mezanine designa aquí una financiación tardía y no una tercera ronda obligatoria.",
+        "Un fondo de pensión puede aportar a un fondo de riesgo sin convertirse en un ángel individual. Un regulador tampoco define al inversor corporativo. El financiamiento privado tardío no equivale necesariamente a una oferta pública."
+      ]
+    },
+    {
+      "id": "c16-q010",
+      "tema": "Fondos y capital privado",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se organiza habitualmente un fondo de capital de riesgo y cómo se relaciona con el capital privado?",
+      "opciones": [
+        "Los socios limitados aportan fondos y el socio general administra; el capital de riesgo es una parte del capital privado.",
+        "Es necesariamente perpetuo y sólo compra acciones cotizadas.",
+        "Los aportantes gestionan cada emprendimiento y la administradora sólo entrega dinero.",
+        "Capital privado significa únicamente rescatar empresas insolventes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La administradora selecciona y supervisa inversiones y cobra por esa labor. El fondo suele tener una vida definida, por lo que necesita vías de salida. El capital privado también abarca compras de empresas maduras e inversiones en compañías en dificultades.",
+        "Los fondos de riesgo suelen tener un plazo definido. Su objeto central incluye empresas privadas jóvenes. Comprar exclusivamente acciones cotizadas no describe ese modelo.",
+        "El socio general suele encargarse de seleccionar y acompañar las inversiones. Los socios limitados aportan recursos sin administrar cada compañía. La distribución propuesta invierte las funciones habituales.",
+        "La inversión en dificultades es una de varias modalidades. También existen compras de empresas y financiación de emprendimientos. El capital de riesgo pertenece a ese universo más amplio."
+      ]
+    },
+    {
+      "id": "c16-q011",
+      "tema": "Remuneración del fondo",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo cobra 2% anual sobre $50 millones comprometidos y 20% de una utilidad de $15 millones. El contrato calcula ambos cargos por separado sobre esas bases, antes de deducir cargos. ¿Cuánto cobra la administradora ese año?",
+      "opciones": [
+        "$3 millones.",
+        "$11 millones.",
+        "$3,8 millones.",
+        "$4 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cifra incluye sólo la participación en utilidades. Falta el cargo fijo calculado sobre el capital comprometido. Sumando $1 millón adicional se llega a $4 millones.",
+        "Se aplicó también el 20% al capital comprometido. Ese porcentaje corresponde a la utilidad de $15 millones. Las bases contractuales son distintas y no deben confundirse.",
+        "Ese cálculo resta primero el cargo fijo a la utilidad. El contrato exige calcular ambos cargos sobre bases independientes. La participación variable se aplica a los $15 millones completos.",
+        "El cargo fijo es 0,02 × 50 = $1 millón. La participación en utilidades es 0,20 × 15 = $3 millones. Al sumar ambos componentes se obtienen $4 millones."
+      ]
+    },
+    {
+      "id": "c16-q012",
+      "tema": "Selección, apoyo y salida",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué política combina mejor las características económicas del capital de riesgo?",
+      "opciones": [
+        "Elegir proyectos de ganancia máxima pequeña y no intervenir.",
+        "Buscar éxitos potencialmente grandes, acompañar activamente y planificar una venta o una salida al mercado público.",
+        "Tratar las ganancias en papel como efectivo inmediatamente disponible.",
+        "Suponer que un rendimiento histórico mayor que el bursátil prueba superioridad ajustada por riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una ganancia máxima pequeña difícilmente compense una alta tasa de fracasos. La incertidumbre es parte central de esta actividad. La supervisión activa agrega algo más que dinero.",
+        "Pocos éxitos deben compensar numerosas inversiones que fracasan. El asesoramiento, los contactos y el reclutamiento pueden mejorar las perspectivas de una empresa joven. Una adquisición o un mercado accionario activo permite realizar valor, sujeto a restricciones de venta.",
+        "Una valuación privada no vuelve líquido el patrimonio por sí sola. Hace falta una venta u otro mecanismo de realización. La vida limitada del fondo vuelve relevante planificar la salida.",
+        "El rendimiento observado no mide por sí solo la compensación por riesgo. La iliquidez y la dificultad de valuar empresas privadas complican la comparación. También importa si la muestra representa las inversiones realizadas y sus fracasos."
+      ]
+    },
+    {
+      "id": "c16-q013",
+      "tema": "Oferta primaria y secundaria",
+      "dificultad": "basica",
+      "pregunta": "Una OPI vende 600.000 acciones nuevas y 400.000 acciones de socios existentes a $25 cada una. Sin costos, ¿cuánto recibe cada grupo?",
+      "opciones": [
+        "La empresa recibe $25 millones y los vendedores no reciben fondos.",
+        "La empresa recibe $15 millones y los vendedores $10 millones.",
+        "La empresa recibe $10 millones y los vendedores $15 millones.",
+        "Cada grupo recibe $12,5 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los $25 millones son el total pagado por el público. Sólo las acciones nuevas aportan dinero a la empresa. El precio de las acciones existentes corresponde a sus vendedores.",
+        "La oferta primaria genera 600.000 × $25 para la empresa. La secundaria genera 400.000 × $25 para los accionistas que venden. Ambas pueden integrar una misma OPI, aunque los destinatarios del efectivo sean distintos.",
+        "Se invirtieron las cantidades primaria y secundaria. Las 600.000 acciones nuevas son las que financian a la empresa. Las 400.000 restantes son tenencias transferidas por sus propietarios.",
+        "El total no se divide por cantidad de grupos. Se reparte según cuántas acciones vende cada uno. Multiplicar cada cantidad por $25 da $15 millones y $10 millones."
+      ]
+    },
+    {
+      "id": "c16-q014",
+      "tema": "Motivos para cotizar y volver a ser privada",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora evalúa cotizar aunque dispone de capital privado. ¿Qué beneficio y qué costo debería comparar?",
+      "opciones": [
+        "Cotizar elimina auditorías y obligaciones regulatorias.",
+        "La única razón válida para cotizar es haber agotado todo el financiamiento privado.",
+        "Toda empresa grande debe cotizar y no puede revertir esa decisión.",
+        "Acciones negociables para adquisiciones y una referencia pública de valor, frente a mayores obligaciones de información y cumplimiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una cotización suele agregar exigencias de revelación y control. Los costos pueden ser particularmente pesados para empresas pequeñas. No corresponde tratarlos como un beneficio que desaparece con la OPI.",
+        "Existen razones adicionales, como liquidez y ampliación de la propiedad. También puede buscarse una moneda accionaria para adquisiciones. La decisión no requiere agotar primero todas las fuentes privadas.",
+        "El tamaño no impone por sí solo una cotización pública. Existen grandes empresas privadas y operaciones que retiran acciones del mercado. La decisión puede cambiar si cambia el balance de costos y beneficios.",
+        "Cotizar puede ampliar la base inversora y facilitar adquisiciones e incentivos accionarios. También puede mejorar reputación y acceso a otras fuentes financieras. Esos beneficios deben compensar auditorías, informes y comunicación, cuyos costos pueden impulsar a algunas firmas a volver a ser privadas."
+      ]
+    },
+    {
+      "id": "c16-q015",
+      "tema": "Colocador y sindicato",
+      "dificultad": "basica",
+      "pregunta": "En una emisión con compromiso firme, ¿qué funciones cumple típicamente el colocador?",
+      "opciones": [
+        "Asesora, compra los valores y los revende al público, pudiendo compartir tareas y riesgo mediante un sindicato.",
+        "Garantiza que la autoridad reguladora asegura la rentabilidad.",
+        "Presta obligatoriamente a cada comprador y conserva todas las acciones.",
+        "Fija por ley una cotización que no podrá cambiar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La asesoría ayuda a estructurar y ejecutar la emisión. La compra expone al colocador al riesgo de distribución. El sindicato reúne capacidad financiera y comercial de varias entidades.",
+        "El registro no garantiza ganancias. El colocador debe realizar su trabajo con diligencia, pero el riesgo económico persiste. La autoridad exige información y no asegura el éxito comercial.",
+        "Financiar a cada comprador no define su función. El proceso típico consiste en adquirir valores del emisor para distribuirlos. Retener toda la emisión no cumple la finalidad de venta al público.",
+        "El precio de emisión se negocia con información de valuación y demanda. Después de comenzar la negociación, la cotización puede variar. El banco no tiene potestad legal para congelar el precio indefinidamente."
+      ]
+    },
+    {
+      "id": "c16-q016",
+      "tema": "Registro, prospecto y normas estatales",
+      "dificultad": "basica",
+      "pregunta": "Dentro del marco estadounidense tratado en el capítulo, ¿qué significa que una emisión esté registrada ante la SEC?",
+      "opciones": [
+        "La SEC comprobó que ningún comprador perderá dinero.",
+        "El prospecto preliminar fijó un precio final inmodificable.",
+        "Se cumplió un proceso de revelación; el prospecto informa, pero no garantiza calidad ni rendimiento.",
+        "Todas las jurisdicciones estatales aprobaron automáticamente la venta."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La autoridad no asegura resultados comerciales. Un valor registrado puede ser riesgoso y caer de precio. El inversor debe evaluar la información y los riesgos de la oferta.",
+        "El prospecto preliminar puede circular mientras se completa el proceso. Su rango de precio orienta la evaluación inicial de demanda. El precio definitivo puede ser diferente.",
+        "El registro presenta operaciones, antecedentes, planes y condiciones financieras. El prospecto comunica información relevante, incluidos riesgos. También deben atenderse las normas estatales aplicables, conocidas como blue sky laws, y los requisitos de negociación.",
+        "Las obligaciones federales y estatales tienen ámbitos distintos. La empresa debe verificar las reglas que correspondan a la distribución. Un registro federal no equivale por sí solo a una autorización universal."
+      ]
+    },
+    {
+      "id": "c16-q017",
+      "tema": "Comparables y flujos descontados",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma que prepara su OPI estima una utilidad anual sostenible de $3 por acción. Comparables pertinentes cotizan a 14 veces utilidades. Sin ajustes por riesgo o crecimiento, ¿qué referencia de precio obtiene?",
+      "opciones": [
+        "$4,67 por acción.",
+        "$0,21 por acción.",
+        "$42 por acción.",
+        "$17 por acción."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir 14 por 3 invierte la relación pertinente. El múltiplo se aplica a la utilidad por acción para estimar el precio. La operación correcta es 14 × 3.",
+        "Dividir la utilidad por el múltiplo no despeja correctamente el precio. La relación es precio dividido por utilidad igual a 14. Por lo tanto, precio es utilidad multiplicada por 14.",
+        "El múltiplo precio-utilidad indica cuántas unidades de precio corresponden a una de utilidad anual por acción. Multiplicar 14 por $3 da $42. Es una referencia que conviene contrastar con flujos descontados y demanda de la emisión.",
+        "Sumar utilidad y múltiplo mezcla magnitudes distintas. El múltiplo expresa una proporción, no un importe adicional. Debe multiplicarse por la utilidad anual por acción."
+      ]
+    },
+    {
+      "id": "c16-q018",
+      "tema": "Gira de presentación y bookbuilding",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué caracteriza a la gira de presentación y al libro de pedidos de una OPI?",
+      "opciones": [
+        "Permiten reunir indicaciones de demanda, generalmente no vinculantes, para orientar precio y asignaciones.",
+        "Cada indicación obliga a comprar y todos reciben igual porcentaje de su pedido.",
+        "El precio se calcula únicamente sumando valores contables.",
+        "Reemplazan el registro y toda revelación formal."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las reuniones revelan cantidades y precios de interés de los inversores. El colocador usa esa información junto con la valuación. Puede premiar información útil mediante asignaciones, aunque esa discrecionalidad también permite favoritismos.",
+        "Las manifestaciones de interés suelen no ser compromisos irrevocables. La asignación tampoco debe ser necesariamente proporcional. Esas características distinguen al libro de una regla automática de reparto.",
+        "La demanda revela disposición a pagar, que no equivale al valor contable. La valuación también puede usar comparables y flujos descontados. Los costos históricos no determinan por sí solos el precio de emisión.",
+        "Las presentaciones complementan la información formal. El prospecto y las obligaciones de registro siguen cumpliendo su función. Una reunión comercial no elimina los riesgos ni los deberes de revelación."
+      ]
+    },
+    {
+      "id": "c16-q019",
+      "tema": "Mejores esfuerzos y todo o nada",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia existe entre mejores esfuerzos y una oferta de todo o nada?",
+      "opciones": [
+        "Mejores esfuerzos obliga al banco a comprar el remanente y todo o nada admite cualquier monto.",
+        "Ambos garantizan a la empresa el ingreso íntegro de la emisión.",
+        "Todo o nada permite al banco fijar cualquier precio después de recibir el dinero.",
+        "Mejores esfuerzos no garantiza vender todo; todo o nada cancela la operación si no se coloca el total exigido."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La compra garantizada del remanente corresponde a un compromiso firme cuando así se pacta. Mejores esfuerzos no asegura la colocación íntegra. Todo o nada exige completar la oferta según sus condiciones.",
+        "La garantía no se deduce de estas modalidades. Puede haber venta parcial en mejores esfuerzos o cancelación en todo o nada. Hay que distinguir el esfuerzo comercial del riesgo financiero asumido.",
+        "La condición se refiere al cumplimiento de la colocación pactada. No habilita modificar arbitrariamente el precio. Las condiciones económicas siguen siendo parte del acuerdo con los compradores.",
+        "En mejores esfuerzos el intermediario se compromete a intentar distribuir los valores. La empresa conserva el riesgo de no reunir todos los fondos. La condición de todo o nada evita completar una financiación insuficiente para el objetivo pactado."
+      ]
+    },
+    {
+      "id": "c16-q020",
+      "tema": "Riesgo del compromiso firme",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco compra 200.000 acciones a $48 para ofrecerlas a $50. Una crisis hace que sólo pueda venderlas a $44. Sin otros costos ni coberturas, ¿cuál es su resultado?",
+      "opciones": [
+        "Ganancia de $400.000.",
+        "Pérdida de $800.000.",
+        "Pérdida de $1,2 millones.",
+        "Resultado cero porque el emisor absorbe automáticamente la caída."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese era el margen esperado si lograba vender a $50. La crisis cambió el precio efectivo de reventa. Hay que comparar $44 con el costo de $48.",
+        "El banco paga 200.000 × $48 = $9,6 millones. La venta genera 200.000 × $44 = $8,8 millones. La diferencia es una pérdida de $800.000, que refleja el riesgo del compromiso firme.",
+        "Esa cifra compara $44 con el precio público previsto de $50. El costo del banco es $48 y no $50. La pérdida efectiva es $4 por cada una de las 200.000 acciones.",
+        "Un compromiso firme expone al colocador al riesgo de reventa acordado. No puede suponerse una modificación automática del precio pagado al emisor. Sin cobertura, la caída genera una pérdida para el banco."
+      ]
+    },
+    {
+      "id": "c16-q021",
+      "tema": "Sobreasignación y greenshoe",
+      "dificultad": "intermedia",
+      "pregunta": "Una emisión base es de 800.000 acciones y admite sobreasignación de 15%. Si se usa por completo, ¿cuántas acciones adicionales se venden y cómo se cubren?",
+      "opciones": [
+        "920.000 adicionales; siempre comprándolas en el mercado.",
+        "120.000; mediante compras de mercado o la greenshoe, según precios y condiciones.",
+        "120.000; obligando al público a recomprarlas por la greenshoe.",
+        "80.000; la opción asegura un piso permanente para la cotización."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "920.000 es el total vendido, no la cantidad adicional. La greenshoe ofrece una vía alternativa de cobertura. Ignorar esa opción exagera la exposición de la posición corta ante una suba.",
+        "El 15% de 800.000 es 120.000. La venta adicional genera una posición que debe cubrirse. La opción permite adquirir acciones adicionales al precio pactado, mientras que comprar en el mercado si cae el precio puede contribuir a estabilizarlo.",
+        "La cantidad es correcta, pero la opción no obliga al público a comprar. Permite al colocador adquirir acciones adicionales en las condiciones pactadas. Esa adquisición cubre la sobreasignación.",
+        "80.000 es 10% de la base y no 15%. La opción ayuda a cubrir la distribución adicional. No garantiza un precio mínimo permanente a los compradores."
+      ]
+    },
+    {
+      "id": "c16-q022",
+      "tema": "Cobertura de una posición corta",
+      "dificultad": "avanzada",
+      "pregunta": "Un colocador vendió 100.000 acciones sobreasignadas a $40. Puede ejercer una greenshoe a $38 y el mercado cotiza a $46. Sin otros costos, ¿qué cobertura minimiza el costo y qué margen obtiene?",
+      "opciones": [
+        "Comprar en el mercado; gana $600.000.",
+        "Ejercer la greenshoe; gana $800.000.",
+        "No cubrir; los $4 millones cobrados son ganancia definitiva.",
+        "Ejercer la greenshoe; gana $200.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Recomprar a $46 algo vendido a $40 genera una pérdida. Son $6 por acción y no una ganancia. La opción a $38 resulta más barata.",
+        "Los $8 son la diferencia entre cotización y ejercicio. El colocador ya vendió a $40 y no está vendiendo ahora a $46. El margen realizado es $40 menos $38 por acción.",
+        "La venta corta deja una obligación de conseguir acciones. El efectivo recibido no es una ganancia libre de compromisos. Cubrir a $38 permite cerrar la posición y determinar el resultado.",
+        "La opción permite comprar 100.000 acciones por $3,8 millones. Las ventas ya generaron $4 millones. La diferencia es $200.000, mientras que comprar en el mercado produciría una pérdida de $600.000."
+      ]
+    },
+    {
+      "id": "c16-q023",
+      "tema": "Reputación, diligencia y spinning",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco asigna OPI muy demandadas a cuentas personales de ejecutivos para captar negocios y presiona a analistas para promocionar acciones que consideran caras. ¿Qué problema central aparece?",
+      "opciones": [
+        "Spinning y conflictos entre investigación, distribución y captación de negocios.",
+        "Una greenshoe que sólo procura estabilizar el mercado.",
+        "Una garantía de imparcialidad porque el banco participa en todas las etapas.",
+        "Una emisión de derechos proporcional que protege a todos los socios."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los beneficios personales pueden desviar decisiones que deberían servir a los accionistas de las empresas clientes. La presión comercial compromete la independencia del análisis. La reputación y la debida diligencia disciplinan al banco, pero no eliminan esos conflictos.",
+        "La greenshoe es una opción para cubrir acciones sobreasignadas. No define la asignación de ganancias personales a ejecutivos para conseguir contratos. Confundirlas oculta el problema de agencia.",
+        "La participación en varias actividades puede crear incentivos contrapuestos. El banco puede favorecer la captación comercial a costa de los compradores. La independencia de investigación y el manejo de conflictos siguen siendo necesarios.",
+        "Los derechos se distribuyen según la titularidad y condiciones de la oferta. Aquí se favorece a ejecutivos por su capacidad de contratar servicios. Ese criterio genera un conflicto en lugar de una protección proporcional."
+      ]
+    },
+    {
+      "id": "c16-q024",
+      "tema": "Diferencial y gastos administrativos",
+      "dificultad": "intermedia",
+      "pregunta": "Una OPI primaria vende 1 millón de acciones a $30, con diferencial de 6% sobre ingresos brutos y gastos administrativos de $400.000. ¿Cuánto recibe neto la empresa?",
+      "opciones": [
+        "$28,2 millones.",
+        "$29,6 millones.",
+        "$27,8 millones.",
+        "$31,4 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se descontó correctamente el diferencial. Faltan los $400.000 de gastos administrativos. Ambos conceptos reducen el efectivo recibido por la empresa.",
+        "Sólo se restaron los gastos administrativos. El colocador también recibe $1,8 millones mediante el diferencial. El ingreso neto debe descontar ambos costos.",
+        "Los ingresos brutos son $30 millones. El diferencial es 0,06 × 30 = $1,8 millones. Restando además $0,4 millones administrativos quedan $27,8 millones.",
+        "El diferencial y los gastos no son aportes al emisor. Son deducciones sobre la recaudación bruta. Hay que restar $2,2 millones a $30 millones."
+      ]
+    },
+    {
+      "id": "c16-q025",
+      "tema": "Distribución del diferencial",
+      "dificultad": "intermedia",
+      "pregunta": "Un sindicato coloca $40 millones y cobra un diferencial de 5%. Del diferencial, 20% remunera la organización, 25% el compromiso de compra y 55% la venta. ¿Cuánto corresponde a la fuerza de ventas?",
+      "opciones": [
+        "$22 millones.",
+        "$2 millones.",
+        "$1,1 millones.",
+        "$500.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra aplica 55% a toda la recaudación. El reparto indicado se realiza sobre la remuneración del sindicato. Primero debe calcularse el diferencial de $2 millones.",
+        "Ese importe es el diferencial completo. También remunera organización y compromiso de compra. La venta recibe sólo el 55% de esa suma.",
+        "El diferencial total es 5% de $40 millones, es decir $2 millones. La fuerza de ventas recibe 55% de ese diferencial. El cálculo 0,55 × 2 da $1,1 millones.",
+        "Ese monto corresponde a 25% del diferencial. Según el acuerdo, remunera el compromiso de compra. La fuerza de ventas recibe 55%, equivalente a $1,1 millones."
+      ]
+    },
+    {
+      "id": "c16-q026",
+      "tema": "Economías de escala y diferencias de costos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conclusión sobre los costos proporcionales de emisión es más razonable?",
+      "opciones": [
+        "Suelen bajar con el tamaño, pero también dependen del instrumento y de las características del emisor.",
+        "Todo emisor puede obtener un diferencial casi nulo si aumenta lo suficiente el monto.",
+        "Las acciones siempre tienen menores costos de colocación que los bonos ordinarios.",
+        "Si aparecen economías de escala, todos los diferenciales deben ser idénticos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los costos fijos se reparten sobre una base mayor en emisiones grandes. La deuda ordinaria suele tener un diferencial menor que las acciones, y una emisión posterior puede costar menos que una OPI. Eso no implica que una empresa pequeña pueda conseguir costos mínimos sólo emitiendo un monto enorme.",
+        "El tamaño no elimina el riesgo ni las dificultades de evaluación. Las emisiones grandes suelen corresponder también a empresas conocidas. Confundir ambos efectos lleva a prometer economías que no están aseguradas.",
+        "La evidencia presentada distingue justamente menores diferenciales habituales en deuda ordinaria. Valuar y distribuir acciones puede exigir mayor trabajo y riesgo. No debe invertirse esa comparación general.",
+        "Las economías de escala sugieren reducciones proporcionales al aumentar el monto. No justifican por sí solas un porcentaje uniforme. La concentración histórica en ciertos diferenciales es un fenómeno que admite explicaciones competitivas y críticas alternativas."
+      ]
+    },
+    {
+      "id": "c16-q027",
+      "tema": "Costo fijo y decisión de agrupar emisiones",
+      "dificultad": "intermedia",
+      "pregunta": "Cada emisión tiene un costo fijo de $300.000 y un diferencial de 2%. Sin costos de mantener caja ni cambios en tasas, ¿cuánto se ahorra al emitir $20 millones una vez en lugar de $10 millones dos veces?",
+      "opciones": [
+        "$400.000.",
+        "$600.000.",
+        "No se ahorra nada porque el porcentaje es el mismo.",
+        "$300.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $400.000 corresponden al diferencial total sobre $20 millones. Ese costo aparece en ambas estrategias. El ahorro proviene de evitar una de las dos erogaciones fijas.",
+        "Ése es el total de costos fijos de hacer dos emisiones. La emisión única también incurre en un costo fijo de $300.000. Sólo se evita uno de ellos.",
+        "El diferencial porcentual efectivamente es igual en ambas estrategias. Pero los costos fijos se pagan cada vez que se emite. Ignorarlos elimina la fuente de la economía de escala.",
+        "Una emisión cuesta 300.000 + 0,02 × 20.000.000 = $700.000. Dos emisiones cuestan 2 × (300.000 + 200.000) = $1 millón. El ahorro es un costo fijo, es decir $300.000."
+      ]
+    },
+    {
+      "id": "c16-q028",
+      "tema": "Subvaluación y rendimiento inicial",
+      "dificultad": "basica",
+      "pregunta": "Una OPI se coloca a $24 y cierra el primer día a $30. Sin dividendos, ¿cuál es el rendimiento de quien compró al precio de oferta?",
+      "opciones": [
+        "20%.",
+        "25%.",
+        "6%.",
+        "125%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Dividir $6 por el precio final de $30 da 20%. Esa base no es el capital invertido al comprar la emisión. El rendimiento se calcula sobre los $24 pagados.",
+        "La ganancia por acción es $30 menos $24, o $6. Se divide por el desembolso inicial de $24. El rendimiento es 6/24 = 25%.",
+        "Los $6 son una diferencia monetaria y no un porcentaje. Falta dividir por el precio de compra. Esa división produce 25%.",
+        "El cociente 30/24 expresa el valor final como proporción del inicial. Para obtener el rendimiento hay que restar uno. El resultado es 25%, no 125%."
+      ]
+    },
+    {
+      "id": "c16-q029",
+      "tema": "Dinero dejado sobre la mesa",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa emite 500.000 acciones nuevas a $20 y el precio de mercado al cierre inicial es $26. Tomando ese precio como referencia y sin otros costos, ¿cuál es el costo de subvaluación?",
+      "opciones": [
+        "$10 millones.",
+        "$3 millones.",
+        "$13 millones.",
+        "Cero porque los fundadores no vendieron sus acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cifra es la recaudación bruta de la emisión. El costo de subvaluación mide la diferencia respecto del precio de referencia. Esa diferencia es $6 por acción.",
+        "Cada acción se vendió $6 por debajo de la referencia de mercado. Multiplicar $6 por 500.000 da $3 millones. Es una transferencia económica a los compradores iniciales, no una factura administrativa.",
+        "Ése sería el valor de las acciones colocadas al precio de $26. Para medir el costo hay que restar los $10 millones efectivamente captados. La diferencia es $3 millones.",
+        "La subvaluación primaria también afecta a los accionistas anteriores. La empresa recibe menos efectivo por la participación que entrega. No hace falta una venta secundaria para que exista el costo."
+      ]
+    },
+    {
+      "id": "c16-q030",
+      "tema": "Costo total de una OPI",
+      "dificultad": "avanzada",
+      "pregunta": "Una emisión primaria vende 1 millón de acciones a $20, paga diferencial de 5% y gastos de $200.000. Al cierre inicial cotiza a $24. Usando ese cierre como referencia, ¿cuál es la suma de costos directos y subvaluación?",
+      "opciones": [
+        "$1,2 millones.",
+        "$4 millones.",
+        "$6 millones.",
+        "$5,2 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese importe incluye diferencial y gastos administrativos. Son costos directos, pero el ejercicio también pide la subvaluación. Faltan los $4 millones de diferencia con el precio de referencia.",
+        "Se calculó solamente la subvaluación. También hay $1 millón de diferencial y $200.000 de gastos. Los tres conceptos deben sumarse sin confundirlos.",
+        "Aplicar 5% al valor final de $24 millones usa una base incorrecta para el diferencial. Además, los gastos no pueden omitirse ni redondearse arbitrariamente. El diferencial contractual es 5% de los $20 millones de ingresos brutos.",
+        "El diferencial es $1 millón y los gastos suman $0,2 millones. La subvaluación es ($24 − $20) × 1 millón = $4 millones. La suma de ambos tipos de costos es $5,2 millones."
+      ]
+    },
+    {
+      "id": "c16-q031",
+      "tema": "Costo económico y efectivo disponible",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera dice: «La subvaluación no salió de nuestra cuenta bancaria, así que no perjudicó a los accionistas anteriores». ¿Cómo evaluar la afirmación?",
+      "opciones": [
+        "Es incorrecta: emitir por debajo del valor transfiere riqueza aunque no exista un pago separado.",
+        "Es correcta porque sólo los pagos registrados como gastos pueden reducir riqueza.",
+        "Es incorrecta porque la diferencia se paga obligatoriamente a la SEC.",
+        "Es correcta si los accionistas anteriores conservan alguna acción."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La empresa entrega una participación a cambio de menos recursos de los que podría captar a valor justo. Ese menor ingreso afecta el valor que queda para los accionistas anteriores. Por eso la subvaluación es un costo económico oculto y no un gasto facturado.",
+        "La riqueza depende de valores económicos y no sólo de gastos contables. Una venta a precio insuficiente puede causar una pérdida sin factura. El análisis debe comparar recursos captados con participación entregada.",
+        "La subvaluación no es una tasa regulatoria. Beneficia a quienes obtienen acciones al precio de oferta inferior a la referencia de mercado. El costo surge de la transferencia, no de un pago a la autoridad.",
+        "Conservar acciones no evita la transferencia provocada por una emisión barata. Su participación se diluye a cambio de recursos insuficientes. El problema puede existir aunque ningún fundador venda acciones propias."
+      ]
+    },
+    {
+      "id": "c16-q032",
+      "tema": "Maldición del ganador",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un inversor poco informado puede obtener malos resultados suscribiendo todas las OPI, aunque el rendimiento inicial promedio sea positivo?",
+      "opciones": [
+        "El promedio positivo asegura ganancias a cada suscriptor, así que es imposible.",
+        "Sólo puede ocurrir si el inversor paga precios mayores que los publicados.",
+        "Recibe más acciones de emisiones poco atractivas y menos de las muy demandadas.",
+        "Ocurre porque toda emisión atractiva tiene mayor cantidad de acciones disponible que pedidos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un promedio entre emisiones no describe necesariamente una cartera con asignaciones desiguales. El racionamiento cambia los pesos invertidos. Por eso un promedio favorable puede coexistir con pérdidas individuales.",
+        "La selección adversa puede operar aun comprando siempre al precio publicado. Lo que cambia es la cantidad recibida en cada oferta. No hace falta un sobreprecio oculto.",
+        "Los inversores informados concentran pedidos en las ofertas que consideran convenientes. Las ofertas atractivas se racionan, mientras que las malas dejan grandes asignaciones al poco informado. Su rendimiento efectivo depende de lo que le asignan y no del promedio simple de todas las emisiones.",
+        "Si sobra oferta en las emisiones atractivas, no aparece el racionamiento descrito. El problema surge cuando la demanda excede la cantidad disponible. El inversor recibe poca exposición a las ganancias y mucha a las pérdidas."
+      ]
+    },
+    {
+      "id": "c16-q033",
+      "tema": "Asignaciones y rendimiento efectivo",
+      "dificultad": "avanzada",
+      "pregunta": "Dos OPI tienen igual probabilidad. Ambas se ofrecen a $10: una termina en $14 y otra en $8. Pedís 100 acciones en cada caso, pero te asignan 25 en la buena y 100 en la mala. ¿Cuál es tu rendimiento esperado como ganancia esperada dividida por desembolso esperado?",
+      "opciones": [
+        "+10%.",
+        "−4%.",
+        "−8%.",
+        "+40%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Es el promedio simple de +40% y −20%. No contempla que se recibe cuatro veces más cantidad en la emisión mala. El criterio solicitado usa ganancias y desembolsos esperados según las asignaciones.",
+        "Esta cifra divide la ganancia esperada de −$50 por los $1.250 sumados sin ponderar. El denominador esperado también debe ponderarse por las probabilidades de 50%. Ese desembolso esperado es $625.",
+        "En la buena invertís $250 y ganás $100; en la mala invertís $1.000 y perdés $200. La ganancia esperada es −$50 y el desembolso esperado $625. El cociente −50/625 da −8%, aunque el promedio simple de rendimientos por emisión sea +10%.",
+        "Ese rendimiento corresponde únicamente a la emisión buena. Ignora la pérdida y el mayor desembolso en la emisión mala. La selección adversa obliga a considerar ambos estados."
+      ]
+    },
+    {
+      "id": "c16-q034",
+      "tema": "Subvaluación, información y mercado gris",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué relación hay entre la maldición del ganador, la subvaluación promedio y el mercado gris?",
+      "opciones": [
+        "La subvaluación puede atraer a inversores poco informados y la negociación previa puede reducir su incertidumbre sobre el valor.",
+        "La subvaluación elimina cualquier necesidad de evaluar las asignaciones.",
+        "El mercado gris es una garantía estatal de recompra al precio de oferta.",
+        "La maldición desaparece simplemente porque cada inversor conoce su propio pedido."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un participante poco informado teme recibir sobre todo emisiones caras. Un descuento promedio puede compensarlo por esa selección adversa. Observar precios de negociación antes de emitir aporta información, aunque no asegura por sí solo ausencia total de riesgo.",
+        "Un descuento promedio no implica que todas las ofertas sean baratas. Las asignaciones pueden seguir concentrándose en emisiones de menor calidad. El participante debe considerar su cartera efectiva.",
+        "Se trata de negociación previa a la emisión. Su utilidad informativa proviene de precios que revelan valoraciones del mercado. No constituye un seguro de recompra del Estado.",
+        "Conocer el pedido propio no revela cuánto vale el activo ni qué saben los demás. El problema depende de información y asignaciones relativas. Los precios previos pueden ayudar porque incorporan opiniones ajenas."
+      ]
+    },
+    {
+      "id": "c16-q035",
+      "tema": "Intereses del colocador y psicología del emisor",
+      "dificultad": "avanzada",
+      "pregunta": "El fundador acepta una OPI muy barata porque la suba posterior eleva mucho el valor de las acciones que conserva. ¿Qué evaluación es más sólida?",
+      "opciones": [
+        "La suba de las acciones retenidas demuestra que la empresa captó todo lo posible.",
+        "Cualquier descuento es necesariamente óptimo si el fundador se siente más rico.",
+        "La diferencia de precios pertenece al colocador como ingreso automático.",
+        "La ganancia percibida en la tenencia retenida puede opacar el costo de subvaluación, sin eliminarlo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor posterior de la tenencia no mide los fondos recibidos en la oferta. El precio inicial puede haber quedado por debajo de lo que el mercado habría pagado. Son dos efectos económicos distintos.",
+        "La satisfacción subjetiva no prueba que el mecanismo maximizó la riqueza de los socios. Deben compararse precio, demanda y costos del procedimiento. Un descuento excesivo puede beneficiar principalmente a compradores favorecidos.",
+        "La ganancia inicial corresponde a los compradores que obtuvieron acciones y luego pueden venderlas más caras. El colocador recibe su diferencial y otros pagos pactados. Su interés en asignaciones no equivale a cobrar toda la subvaluación.",
+        "La sorpresa favorable puede hacer menos visible el dinero dejado de captar. A la vez, el colocador puede preferir una venta fácil y favorecer a ciertos clientes. Estas explicaciones ayudan a entender la aceptación del descuento, pero no convierten la transferencia en gratuita."
+      ]
+    },
+    {
+      "id": "c16-q036",
+      "tema": "Oleadas de emisiones",
+      "dificultad": "intermedia",
+      "pregunta": "Durante un auge aumentan las OPI y sus rendimientos iniciales. ¿Qué interpretación distingue adecuadamente explicaciones racionales y conductuales?",
+      "opciones": [
+        "El aumento de OPI demuestra por sí solo que todos los proyectos tienen VAN negativo.",
+        "Puede haber optimismo excesivo, pero también mejores proyectos o menor costo de capital que vuelvan conveniente emitir.",
+        "Los rendimientos iniciales altos garantizan rendimientos extraordinarios a largo plazo.",
+        "Las oleadas sólo pueden deberse a cambios obligatorios en la legislación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cantidad de emisiones no determina el valor de cada proyecto. Un cambio favorable en oportunidades puede generar muchas inversiones rentables. Hace falta analizar flujos, precios y tasas.",
+        "El entusiasmo puede elevar valoraciones y animar a aprovechar una ventana de mercado. Alternativamente, una caída del costo de capital vuelve rentables más inversiones. La coincidencia de muchas emisiones no permite elegir por sí sola una única explicación.",
+        "El salto inicial y el desempeño posterior son mediciones distintas. El comprador posterior puede pagar ya un precio elevado. No corresponde extrapolar automáticamente la ganancia del primer día.",
+        "La regulación no es la única fuente de cambios en actividad emisora. Las expectativas y condiciones económicas también influyen. Una explicación exclusiva requiere evidencia adicional."
+      ]
+    },
+    {
+      "id": "c16-q037",
+      "tema": "Subastas frente al libro de pedidos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia esencial hay entre una subasta de valores y el método de libro de pedidos?",
+      "opciones": [
+        "Una subasta elimina toda incertidumbre sobre el valor de la empresa.",
+        "La subasta asigna según reglas de pujas; el libro usa indicaciones de demanda y permite mayor discrecionalidad del colocador.",
+        "El libro obliga a aceptar al mayor postor y la subasta permite ignorarlo libremente.",
+        "Las subastas sólo pueden utilizarse para objetos físicos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las reglas de asignación no revelan automáticamente todos los flujos futuros. Los postores pueden seguir teniendo información desigual. La maldición del ganador depende también de esa incertidumbre.",
+        "En una subasta se solicitan cantidades y precios y se aplica una regla de adjudicación. En el libro, las indicaciones ayudan a fijar precio y distribución sin funcionar necesariamente como ofertas vinculantes. Reducir discrecionalidad puede limitar favoritismos, pero no garantiza eliminar toda subvaluación.",
+        "La respuesta invierte las características centrales. La subasta aplica reglas de pujas y el libro admite discrecionalidad comercial. La distinción afecta cómo se recompensa información y cómo pueden aparecer favoritismos.",
+        "Los valores financieros también pueden venderse por subasta. Es un mecanismo habitual en deuda soberana y posible en acciones. La naturaleza financiera del activo no impide solicitar pujas."
+      ]
+    },
+    {
+      "id": "c16-q038",
+      "tema": "Subasta discriminatoria",
+      "dificultad": "intermedia",
+      "pregunta": "Se subastan 1.000 bonos. A pide 400 a $1.020, B pide 400 a $1.000 y C pide 400 a $980. Se adjudica primero a las pujas más altas y el precio es discriminatorio. ¿Cuánto recauda el emisor?",
+      "opciones": [
+        "$980.000.",
+        "$1.200.000.",
+        "$1.020.000.",
+        "$1.004.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese resultado aplica $980 a todos los bonos. Corresponde a la regla uniforme con este precio de corte. La subasta discriminatoria exige que cada adjudicatario pague su propia puja.",
+        "Se ofrecieron 1.000 bonos y no 1.200. Las solicitudes exceden la oferta y C sólo recibe 200. No puede contarse como vendido todo lo pedido.",
+        "Aplicar la puja máxima a todos los bonos no es la regla discriminatoria. B paga $1.000 y C $980 por sus respectivas asignaciones. Sólo A paga $1.020 por bono.",
+        "A recibe 400 y paga $408.000; B recibe 400 y paga $400.000. Quedan 200 para C, que paga $196.000. Como cada ganador paga su puja, la suma es $1.004.000."
+      ]
+    },
+    {
+      "id": "c16-q039",
+      "tema": "Subasta de precio uniforme",
+      "dificultad": "intermedia",
+      "pregunta": "Se ofrecen 1.000 bonos. A pide 400 a $1.020, B 400 a $1.000 y C 400 a $980. Si todos los ganadores pagan la menor puja aceptada, ¿qué recibe C y cuánto recauda el emisor?",
+      "opciones": [
+        "C recibe 200 bonos y la recaudación total es $980.000.",
+        "C recibe 400 bonos y se recaudan $1.176.000.",
+        "C no recibe bonos y se recaudan $808.000.",
+        "C recibe 200 bonos y se recaudan $1.004.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las órdenes de A y B absorben 800 bonos. C recibe los 200 restantes y su puja de $980 determina el precio de corte. Los 1.000 bonos se pagan a ese precio uniforme, por un total de $980.000.",
+        "Las solicitudes suman más que la oferta disponible. A y B reciben primero 800 bonos porque pujaron más. Para C sólo quedan 200 y no 400.",
+        "A y B no agotan la oferta: juntos piden 800. Todavía deben adjudicarse 200 a C. Su aceptación también determina el precio uniforme de $980.",
+        "La cantidad de C es correcta. Sin embargo, $1.004.000 surge de cobrar a cada ganador su propia puja. En la modalidad uniforme todos pagan $980."
+      ]
+    },
+    {
+      "id": "c16-q040",
+      "tema": "Incentivos de las reglas de subasta",
+      "dificultad": "avanzada",
+      "pregunta": "Con las mismas pujas, una subasta discriminatoria recauda más que una uniforme. ¿Puede concluirse que siempre es mejor para el emisor?",
+      "opciones": [
+        "Sí, porque las pujas nunca responden a la forma de pago.",
+        "No, porque la uniforme garantiza el valor verdadero de cada bono.",
+        "No, porque las reglas modifican las pujas que los participantes están dispuestos a presentar.",
+        "Sí, porque en una uniforme todos pagan la puja máxima."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los participantes consideran cuánto terminarán pagando si ganan. Cambiar la regla altera sus incentivos. Tratar las pujas como constantes ignora el componente estratégico de la subasta.",
+        "El precio uniforme no revela con certeza un valor verdadero. Sigue dependiendo de información y estrategias de los postores. Su ventaja potencial se relaciona con incentivos y exposición al sobrepago.",
+        "En una discriminatoria, pujar alto puede obligar a pagar ese precio y agravar la maldición del ganador. Una regla uniforme reduce parte de esa exposición y puede inducir pujas más agresivas. Comparar ingresos manteniendo pujas fijas no demuestra el resultado cuando los participantes ajustan su estrategia.",
+        "La regla considerada cobra la menor puja aceptada. Cobrar la puja máxima es una regla distinta. El argumento parte de una definición equivocada del mecanismo."
+      ]
+    },
+    {
+      "id": "c16-q041",
+      "tema": "Posturas no competitivas",
+      "dificultad": "intermedia",
+      "pregunta": "Un pequeño inversor quiere participar sin estimar una puja propia. La subasta admite posturas no competitivas dentro de ciertos límites. ¿Qué puede hacer?",
+      "opciones": [
+        "Elegir cualquier precio inferior al de corte y exigir adjudicación completa.",
+        "Recibir los bonos gratis porque no presenta precio.",
+        "Solicitar una cantidad y aceptar el precio que resulte de la subasta.",
+        "Comprar una opción de vender siempre al precio de emisión."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una postura con precio propio no es la modalidad no competitiva descrita. Además, una puja inferior al corte puede quedar excluida. La asignación no surge de exigir unilateralmente condiciones más favorables.",
+        "No cotizar precio no equivale a no pagar. El participante acepta el precio determinado por el procedimiento. El mecanismo simplifica su decisión de puja, pero mantiene la contraprestación.",
+        "La postura no competitiva no especifica un precio propio. Su aceptación y asignación dependen de las condiciones y límites del mecanismo. Puede facilitar la participación del menos informado sin obligarlo a competir en valoración.",
+        "La postura no competitiva es una solicitud de compra. No incorpora automáticamente una garantía de reventa. El inversor sigue expuesto al precio de mercado después de adquirir los bonos."
+      ]
+    },
+    {
+      "id": "c16-q042",
+      "tema": "Oferta general al contado y emisión posterior",
+      "dificultad": "basica",
+      "pregunta": "Una empresa ya cotizada necesita fondos adicionales. ¿Qué caracteriza a una oferta general al contado?",
+      "opciones": [
+        "Ofrece deuda o capital a los inversores en general y puede volver a usar registro, colocadores y evaluación de demanda.",
+        "Es necesariamente la primera venta pública de acciones de la empresa.",
+        "Sólo permite vender acciones existentes de los fundadores.",
+        "Obliga a cada accionista actual a aportar proporcionalmente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cotización previa no impide nuevas emisiones. El procedimiento puede parecerse al de una OPI en sus aspectos de registro y distribución. Se diferencia de los derechos porque no reserva la suscripción a los accionistas existentes.",
+        "La primera oferta es la OPI. Una empresa ya cotizada puede realizar emisiones posteriores. El término general al contado describe el acceso de los compradores, no el debut bursátil.",
+        "La empresa puede emitir nuevos valores para financiarse. La oferta no está limitada a transferir títulos anteriores. También puede incluir deuda, según las necesidades del emisor.",
+        "La oferta general está abierta a inversores en general. No impone una compra obligatoria a los socios. La prioridad proporcional corresponde a una estructura de derechos cuando se establece."
+      ]
+    },
+    {
+      "id": "c16-q043",
+      "tema": "Registro del estante",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ventaja brinda el registro del estante a una gran empresa elegible, en el marco descrito para la regla 415?",
+      "opciones": [
+        "Entrega automáticamente el efectivo de todo el programa al registrarlo.",
+        "Exige emitir inmediatamente todo el monto con un solo colocador.",
+        "Elimina todos los prospectos y obligaciones de información.",
+        "Permite registrar anticipadamente un programa y emitir por tramos cuando convenga, sin obligación de colocar todo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El registro habilita futuras emisiones. El dinero entra cuando efectivamente se venden los valores. Confundir autorización con recaudación exagera la liquidez disponible.",
+        "La flexibilidad temporal es precisamente una de sus ventajas. La empresa puede usar sólo parte del monto y cambiar intermediarios según las condiciones. No existe una obligación general de colocación íntegra inmediata.",
+        "La simplificación no significa ausencia de revelación. El emisor sigue sujeto a la información y actualizaciones aplicables. El objetivo es agilizar emisiones dentro de un marco registrado.",
+        "La empresa reduce el trabajo adicional necesario para acceder al mercado. Puede aprovechar ventanas de precio y seleccionar intermediarios para cada colocación. Registrar capacidad no equivale a recibir fondos ni a quedar obligada a endeudarse."
+      ]
+    },
+    {
+      "id": "c16-q044",
+      "tema": "Capacidad registrada y financiación efectiva",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa registra un programa de deuda de $150 millones y luego coloca tramos de $40 millones y $35 millones. Sin otros usos, ¿cuánto captó en bruto y cuánto queda disponible bajo el programa?",
+      "opciones": [
+        "Captó $150 millones y ya no queda capacidad.",
+        "Captó $75 millones y quedan $75 millones de capacidad.",
+        "Captó $75 millones y quedan $150 millones de capacidad.",
+        "Captó $35 millones y quedan $115 millones de capacidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El registro no implica colocar todos los títulos. Sólo se vendieron dos tramos por $75 millones. El resto continúa disponible si se cumplen las condiciones del programa.",
+        "Los tramos efectivamente emitidos suman 40 + 35 = $75 millones. El remanente autorizado es 150 − 75 = $75 millones. Ese remanente todavía no es caja ni una deuda colocada.",
+        "La recaudación es correcta, pero cada tramo consume parte del programa. La capacidad remanente se calcula restando lo emitido al límite. No se reinicia automáticamente después de cada venta.",
+        "Se omitió el primer tramo de $40 millones. Ambos forman parte del mismo programa. Hay que sumar las emisiones acumuladas antes de calcular el remanente."
+      ]
+    },
+    {
+      "id": "c16-q045",
+      "tema": "Elección del procedimiento de emisión",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa grande emite bonos ordinarios repetidamente; otra pequeña ofrece un convertible complejo y necesita explicar su riesgo. ¿Qué elección resulta más coherente?",
+      "opciones": [
+        "Ambas deben usar el estante porque siempre elimina el trabajo de evaluación.",
+        "La primera puede aprovechar el estante; la segunda puede valorar una relación estrecha y una colocación tradicional.",
+        "La empresa grande debe hacer una OPI cada vez que emite bonos.",
+        "La empresa pequeña no puede utilizar ningún intermediario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La evaluación sigue siendo necesaria. La conveniencia depende del emisor y de la complejidad del valor. La rapidez no sustituye la necesidad de explicar riesgos.",
+        "La deuda estandarizada de un emisor conocido se adapta a emisiones rápidas por tramos. Un instrumento complejo puede exigir más evaluación, asesoría y certificación del intermediario. La flexibilidad no elimina el valor de una preparación comercial intensa cuando la información es difícil.",
+        "Una OPI se refiere al debut público de acciones. Los bonos posteriores pueden colocarse por otros procedimientos. Repetir la denominación OPI confunde el tipo y la etapa de la emisión.",
+        "Un banco puede ayudar a estructurar y distribuir un valor complejo. Ese apoyo puede ser especialmente útil para un emisor menos conocido. El tamaño no elimina la función del intermediario."
+      ]
+    },
+    {
+      "id": "c16-q046",
+      "tema": "Bonos extranjeros, eurobonos y globales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué clasificación distingue correctamente tres formas de emisión internacional de deuda?",
+      "opciones": [
+        "Eurobono: cualquier bono expresado en euros, aunque se venda sólo localmente.",
+        "Bono extranjero: deuda emitida únicamente en el país de origen del deudor.",
+        "Bono global: título que debe venderse exclusivamente a un único banco.",
+        "Bono extranjero: mercado doméstico de otro país; eurobono: distribución internacional; bono global: combinación internacional y doméstica."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La denominación monetaria no define por sí sola un eurobono. Importan el mercado y la estructura de distribución. Puede haber eurobonos denominados en otras monedas.",
+        "El concepto se refiere a acudir al mercado doméstico de otro país. La emisión local del deudor no cumple esa característica. La jurisdicción de colocación importa para su regulación.",
+        "La emisión global combina distribución internacional y doméstica. No exige un solo comprador. Su lógica es ampliar el alcance de una emisión grande.",
+        "El bono extranjero queda sujeto al marco del mercado nacional donde se ofrece. El eurobono se distribuye mediante bancos a inversores de varios países y no se define por usar euros. Una emisión global combina canales internacionales y domésticos."
+      ]
+    },
+    {
+      "id": "c16-q047",
+      "tema": "Cotización internacional de acciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa elige cotizar en el exterior aunque sus acciones no se negocien en su país de origen. ¿Qué razonamiento puede justificarlo?",
+      "opciones": [
+        "Buscar mejor valuación o liquidez, comparando también regulación, litigios y costos de cumplimiento.",
+        "Cotizar afuera elimina todas las obligaciones regulatorias.",
+        "Es imposible cotizar sin haberlo hecho antes en el mercado de origen.",
+        "La moneda de cotización asegura que el precio nunca cambiará."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La plaza elegida puede reunir inversores familiarizados con su sector. Una negociación más activa puede mejorar su acceso al capital. La decisión requiere comparar esos beneficios con exigencias y costos del mercado anfitrión.",
+        "La empresa pasa a estar expuesta a las reglas pertinentes de la plaza elegida. Cotizar en el exterior no equivale a ausencia de regulación. Los costos y responsabilidades forman parte de la elección.",
+        "Una cotización extranjera no requiere universalmente un debut local previo. Puede buscarse directamente la plaza que mejor se adapte al negocio. La posibilidad concreta depende de los requisitos aplicables.",
+        "La cotización refleja expectativas, riesgo y oferta de títulos. La moneda sólo expresa el precio en una unidad de cuenta. No asegura estabilidad de valor ni elimina riesgos cambiarios para todos los inversores."
+      ]
+    },
+    {
+      "id": "c16-q048",
+      "tema": "Costos comparados de instrumentos",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede emitir $50 millones en bonos ordinarios con diferencial de 0,5% o en acciones con diferencial de 4%. Si sólo se comparan esos cargos, ¿cuánto mayor es el de las acciones?",
+      "opciones": [
+        "$3,5 millones.",
+        "$2 millones.",
+        "$1,75 millones.",
+        "$250.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La diferencia de tasas es 3,5 puntos porcentuales. Aplicarla a $50 millones da $1,75 millones, no $3,5 millones. Un punto porcentual sobre esa base equivale a $500.000.",
+        "Ese es el cargo completo de la emisión accionaria. Para medir la diferencia falta restar el cargo de los bonos. El ahorro relativo asciende a $1,75 millones.",
+        "El cargo de los bonos es 0,005 × 50 = $0,25 millones. El de las acciones es 0,04 × 50 = $2 millones. La diferencia es $1,75 millones, sin que eso determine por sí solo la estructura óptima de financiamiento.",
+        "Ese es el diferencial de los bonos. No representa la diferencia entre las alternativas. Hay que compararlo con los $2 millones de las acciones."
+      ]
+    },
+    {
+      "id": "c16-q049",
+      "tema": "Anuncio de emisión e información",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa anuncia una emisión voluntaria de acciones y su precio cae antes de que se vendan los títulos nuevos. ¿Qué explicación encaja mejor con la información asimétrica?",
+      "opciones": [
+        "El precio baja necesariamente porque ya se cobraron dividendos de las acciones nuevas.",
+        "La emisión demuestra con certeza que la empresa no tiene ningún proyecto rentable.",
+        "El mercado interpreta que es más probable que la administración quiera emitir cuando considera cara la acción.",
+        "Cualquier aumento de oferta debe causar una caída idéntica, sin importar información ni instrumento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El anuncio ocurre antes de la venta y no implica un dividendo. No hay un pago descrito que explique el ajuste. La hipótesis informativa se refiere a lo que revela la decisión de emitir.",
+        "Una empresa puede emitir para financiar proyectos valiosos. La señal afecta probabilidades sobre la valuación, no prueba ausencia total de oportunidades. La conclusión absoluta excede lo que permite el anuncio.",
+        "Los directivos pueden conocer mejor las perspectivas del negocio. Si prefieren vender capital cuando creen que el mercado paga demasiado, el anuncio contiene una señal adversa. La caída puede reflejar esa inferencia antes de que aumente la cantidad de acciones.",
+        "La evidencia no muestra una relación mecánica universal de ese tipo. Las reacciones difieren entre acciones, preferentes y deuda. Eso favorece examinar qué información comunica cada decisión."
+      ]
+    },
+    {
+      "id": "c16-q050",
+      "tema": "Acciones subvaluadas y costo de financiar proyectos",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora sabe que sus acciones están muy subvaluadas. Sólo puede financiar una expansión emitiendo capital y no consigue comunicar su información sin beneficiar a competidores. ¿Qué decisión podría ser racional?",
+      "opciones": [
+        "Reducir o postergar la expansión si el costo para los socios actuales de emitir barato supera el valor creado por el proyecto.",
+        "Emitir siempre, porque todo proyecto con VAN positivo beneficia a los socios actuales bajo cualquier precio de emisión.",
+        "Anunciar simplemente optimismo garantiza que el mercado pague el valor correcto.",
+        "Postergar siempre, aunque la subvaluación sea mínima y el proyecto cree mucho valor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un proyecto rentable no asegura que cualquier forma de financiarlo favorezca a los socios actuales. Vender una participación muy barata transfiere valor a los nuevos compradores. La pérdida por esa transferencia puede superar el VAN que aporta la expansión.",
+        "El VAN del proyecto y la distribución de valor por financiamiento son cuestiones distintas. Los socios actuales pueden ceder demasiado valor al vender acciones subvaluadas. Deben evaluarse ambos efectos en conjunto.",
+        "Una declaración general es fácil de imitar por directivos menos optimistas. Sin información verificable puede tener poca credibilidad. Comunicar detalles útiles puede ser costoso y revelar estrategias a competidores.",
+        "La decisión depende de magnitudes relativas. Un proyecto muy valioso puede justificar una emisión con un costo informativo pequeño. No existe una regla universal de rechazo a toda emisión con descuento."
+      ]
+    },
+    {
+      "id": "c16-q051",
+      "tema": "Emisiones obligatorias como contraste",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué comparar emisiones bancarias exigidas para cumplir capital regulatorio con emisiones voluntarias ayuda a estudiar la reacción bursátil?",
+      "opciones": [
+        "La emisión obligatoria impide que aumente el número de acciones.",
+        "Los reguladores garantizan el precio de las acciones nuevas.",
+        "Una caída menor demuestra que las emisiones voluntarias son siempre fraudulentas.",
+        "La menor discreción del administrador reduce el contenido informativo sobre su opinión de la valuación."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ambas clases pueden aumentar el capital accionario. Lo que difiere es el motivo y la discreción para emitir. Por eso la comparación permite separar parcialmente cantidad e información.",
+        "La obligación de capitalizar no equivale a un seguro de cotización. Los accionistas continúan expuestos al riesgo del banco. El contraste se basa en el contenido de la decisión, no en una garantía.",
+        "Una señal informativa no implica fraude. Los inversores pueden actualizar expectativas frente a decisiones legales y correctamente reveladas. La comparación no permite atribuir una conducta ilícita a cada emisor voluntario.",
+        "Si el banco emite por una exigencia, la decisión revela menos sobre si sus directivos consideran cara la acción. Una caída menor que en emisiones voluntarias es consistente con la hipótesis informativa. No exige que la reacción sea exactamente cero, porque todavía puede existir información sobre la situación del banco."
+      ]
+    },
+    {
+      "id": "c16-q052",
+      "tema": "Deuda, preferentes y señal de emisión",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué el anuncio de deuda ordinaria suele producir una reacción accionaria mucho menor que el de acciones comunes?",
+      "opciones": [
+        "Toda deuda es legalmente libre de riesgo y no necesita información.",
+        "El incentivo a aprovechar una sobrevaluación suele ser menor en títulos con pagos menos sensibles al valor residual del negocio.",
+        "Los fondos de la deuda nunca se usan para inversión.",
+        "La emisión de preferentes entrega automáticamente el control total a los acreedores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deuda corporativa puede incumplirse. Sus riesgos deben evaluarse aun si su sensibilidad es menor que la de las comunes. Una reacción pequeña no equivale a riesgo nulo.",
+        "Las acciones comunes capturan gran parte de las variaciones en expectativas del negocio. Colocarlas caras puede transferir más valor que emitir deuda relativamente segura. Por eso el mercado suele interpretar la emisión de capital como una señal más intensa, sin que toda deuda sea libre de riesgo.",
+        "La deuda puede financiar proyectos, capital de trabajo u otros destinos. El uso de fondos no explica por sí solo la diferencia señalada. La hipótesis se centra en información y sensibilidad de la valuación.",
+        "Los derechos de preferentes dependen del contrato y no equivalen a ese traslado automático. El argumento informativo no requiere tal cambio de control. Se refiere al incentivo a emitir distintos títulos cuando su precio está desalineado."
+      ]
+    },
+    {
+      "id": "c16-q053",
+      "tema": "Magnitud de la reacción del mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene 10 millones de acciones a $50 antes de anunciar una emisión. El anuncio reduce el precio 3% y la emisión prevista captará $45 millones brutos. ¿A cuánto equivale la pérdida de valor de las acciones existentes como fracción de esos fondos?",
+      "opciones": [
+        "A 3%.",
+        "A un tercio, aproximadamente 33,3%.",
+        "A 30%.",
+        "A 100%, porque toda emisión destruye lo que recauda."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 3% se aplica a los $500 millones de capitalización previa. La pregunta pide comparar la pérdida resultante con $45 millones de nuevos fondos. Son bases diferentes y el cociente es mucho mayor.",
+        "El valor previo es 10 millones × $50 = $500 millones. Una caída de 3% implica $15 millones de pérdida en las acciones existentes. Dividir 15 por los $45 millones previstos da un tercio.",
+        "Multiplicar mecánicamente el 3% por 10 millones de acciones no produce esa proporción. Primero se calcula la pérdida monetaria usando el precio de $50. Luego se divide $15 millones por $45 millones.",
+        "La pérdida calculada es $15 millones y no $45 millones. Una emisión no destruye necesariamente todos sus ingresos. El ejercicio mide la reacción informativa observada, no una regla universal."
+      ]
+    },
+    {
+      "id": "c16-q054",
+      "tema": "Rendimientos posteriores y eficiencia",
+      "dificultad": "avanzada",
+      "pregunta": "Se observa que, después de la colocación, empresas emisoras rinden menos que compañías comparables durante varios años. ¿Qué conclusión es prudente?",
+      "opciones": [
+        "Comprar cualquier OPI garantiza perder dinero en términos absolutos.",
+        "La evidencia demuestra que el mercado anticipó perfectamente toda la información.",
+        "La subrentabilidad posterior es idéntica al descuento del precio de oferta.",
+        "Es un enigma compatible con una incorporación incompleta de información, pero requiere evaluar riesgo y método de comparación."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Rendir menos que un comparable no implica necesariamente rendimiento negativo. Además, un resultado promedio no determina cada caso individual. Deben distinguirse rendimiento absoluto, relativo e inicial.",
+        "Una subrentabilidad persistente bien ajustada puede sugerir precisamente lo contrario. También puede deberse a medición imperfecta del riesgo. Por eso no corresponde afirmar anticipación perfecta sin evaluar alternativas.",
+        "La subvaluación compara oferta con cotización inicial. El desempeño posterior empieza desde otros precios y cubre otro horizonte. Un salto inicial positivo puede coexistir con una evolución posterior débil.",
+        "La comparación debe considerar qué empresas sirven de referencia y qué riesgos soportan. Si la diferencia persiste después de ajustes adecuados, puede cuestionar la eficiencia informativa. El resultado no convierte cada emisión en una pérdida segura ni prueba una estrategia sin riesgo."
+      ]
+    },
+    {
+      "id": "c16-q055",
+      "tema": "Suscripción privilegiada",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue una emisión de derechos de una oferta general al contado?",
+      "opciones": [
+        "Otorga prioridad de suscripción a los accionistas existentes en las condiciones de la oferta.",
+        "Obliga a todos los accionistas a comprar bajo pena de perder sus acciones anteriores.",
+        "Sólo puede hacerse antes de la primera emisión pública.",
+        "Vende siempre acciones existentes y nunca genera fondos para la empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los derechos permiten conservar participación aportando fondos proporcionales. Si son transferibles, también pueden venderse para compensar la dilución económica. Una oferta general al contado se dirige a los inversores en general sin esa prioridad proporcional.",
+        "Un derecho brinda una facultad y no impone necesariamente una compra. Quien no desea suscribir puede venderlo si es transferible. Conservar las acciones antiguas no requiere ejercerlo.",
+        "Los derechos son especialmente relevantes para compañías que ya tienen accionistas. Pueden utilizarse en ampliaciones posteriores de capital. No se limitan al período previo a la OPI.",
+        "Una emisión de derechos normalmente permite suscribir acciones nuevas. El precio de suscripción ingresa a la empresa. Es distinto de que un accionista venda una acción ya emitida."
+      ]
+    },
+    {
+      "id": "c16-q056",
+      "tema": "Cantidad y recaudación en derechos",
+      "dificultad": "basica",
+      "pregunta": "Hay 800.000 acciones en circulación. Se ofrece una nueva a $20 por cada cuatro antiguas. Si se suscribe toda la emisión, ¿cuántas acciones nuevas y cuánto efectivo recibe la empresa, sin costos?",
+      "opciones": [
+        "3,2 millones de acciones nuevas y $64 millones.",
+        "200.000 acciones nuevas y $16 millones.",
+        "200.000 acciones nuevas y $4 millones.",
+        "1 millón de acciones nuevas y $20 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se multiplicó por cuatro en lugar de dividir. La relación indica una nueva por cada cuatro anteriores. Las acciones nuevas deben ser la cuarta parte de las existentes.",
+        "La cantidad es correcta, pero se aplicó el precio a las 800.000 acciones antiguas. Sólo se cobra la suscripción de las nuevas. Por eso ingresan $4 millones.",
+        "La cantidad nueva es 800.000/4 = 200.000. Cada una requiere pagar $20 a la empresa. La recaudación es 200.000 × 20 = $4 millones.",
+        "Un millón sería el total posterior a la emisión. Las nuevas son sólo 200.000. Confundir total y ampliación sobrestima la recaudación."
+      ]
+    },
+    {
+      "id": "c16-q057",
+      "tema": "Precio teórico ex derechos",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía tiene 1 millón de acciones a $50. Emite una nueva a $30 por cada cuatro antiguas. Sin costos, noticias ni VAN adicional del uso de fondos, ¿cuál es el precio teórico ex derechos?",
+      "opciones": [
+        "$40.",
+        "$50.",
+        "$46.",
+        "$30."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Promediar $50 y $30 sin ponderar ignora la relación de emisión. Hay cuatro acciones antiguas por cada nueva. El precio debe ponderar cantidades, no sólo los dos precios.",
+        "El efectivo nuevo aumenta el valor total, pero también aumenta la cantidad de acciones. Como se emite a $30, el precio unitario teórico cae. Esa caída se compensa con el derecho de suscripción.",
+        "Cada bloque de cuatro acciones vale inicialmente $200. La suscripción agrega $30 y una acción, de modo que hay $230 distribuidos entre cinco acciones. El precio teórico es 230/5 = $46.",
+        "El precio de suscripción no determina por sí solo el valor de todas las acciones. Las acciones antiguas aportan valor previo de $200 por bloque. Sumando el efectivo nuevo, el promedio ponderado es $46."
+      ]
+    },
+    {
+      "id": "c16-q058",
+      "tema": "Valor del derecho y unidad de medición",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción vale $50 antes de una oferta de una nueva a $30 por cada cuatro antiguas. El precio teórico posterior es $46. Se entrega un derecho transferible por acción antigua y se necesitan cuatro derechos para comprar una nueva. ¿Cuánto vale cada derecho, ignorando valor temporal?",
+      "opciones": [
+        "$4 cada derecho; el conjunto de cuatro vale $16.",
+        "$16 cada derecho; el conjunto vale $64.",
+        "$20 cada derecho; el conjunto vale $80.",
+        "$0 porque los derechos se entregan sin cobrar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Comprar una acción de $46 pagando $30 genera un beneficio de $16 por el conjunto requerido. Ese conjunto contiene cuatro derechos. Cada derecho vale entonces $16/4 = $4, también igual a $50 menos $46.",
+        "Los $16 corresponden al privilegio completo de suscribir una acción nueva. Ese privilegio requiere cuatro derechos individuales. No debe atribuirse el valor del conjunto a cada unidad.",
+        "Restar el precio de suscripción al precio anterior ignora el ajuste ex derechos. La acción nueva tendrá el mismo valor posterior que las demás. La diferencia relevante para el conjunto es $46 menos $30.",
+        "Recibir un activo sin desembolso no significa que carezca de valor. El derecho permite acceder a una compra conveniente. Su valor compensa la caída teórica de la acción al separarse ese derecho."
+      ]
+    },
+    {
+      "id": "c16-q059",
+      "tema": "Conservación de riqueza al ejercer",
+      "dificultad": "intermedia",
+      "pregunta": "Poseés 400 acciones a $50 antes de una oferta de una nueva a $30 por cada cuatro antiguas. Ejercés todos los derechos y el precio posterior es $46. Sin costos ni otras noticias, ¿cuál es el valor de tu tenencia menos el nuevo aporte?",
+      "opciones": [
+        "$23.000, una ganancia neta de $3.000.",
+        "$18.400, una pérdida de $1.600.",
+        "$17.000, porque el aporte se resta del valor inicial.",
+        "$20.000, igual al valor inicial."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $23.000 son el valor final bruto de las acciones. Para medir el cambio de riqueza hay que considerar los $3.000 adicionales que aportaste. Sin ese ajuste se confunde inversión nueva con ganancia.",
+        "Ese cálculo valúa sólo las 400 acciones originales al precio posterior. Omite las 100 acciones nuevas que recibís al ejercer. La comparación debe incluir todos los activos y el aporte realizado.",
+        "El aporte sale de tu caja, pero a cambio recibís 100 acciones nuevas. No puede restarse sin incorporar el activo adquirido. El patrimonio neto considerado permanece en $20.000.",
+        "Podés suscribir 100 acciones y pagás $3.000. Después tenés 500 acciones a $46, que valen $23.000. Al restar el nuevo aporte quedan $20.000, igual a 400 × $50."
+      ]
+    },
+    {
+      "id": "c16-q060",
+      "tema": "Venta de derechos y protección del accionista",
+      "dificultad": "intermedia",
+      "pregunta": "Poseés 400 acciones a $50 antes de la misma oferta de una nueva a $30 por cada cuatro antiguas. El precio ex derechos es $46 y cada derecho individual vale $4. Si vendés los 400 derechos y no suscribís, ¿qué riqueza conservás?",
+      "opciones": [
+        "$18.400 porque vender derechos no genera compensación.",
+        "$20.000 entre acciones y efectivo.",
+        "$21.600 porque las acciones siguen valiendo $50 más los derechos.",
+        "$23.000 porque todos los socios reciben automáticamente 100 acciones nuevas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los derechos son transferibles y tienen precio. Su venta agrega $1.600 al valor de las acciones. Omitir ese efectivo hace parecer una pérdida que teóricamente está compensada.",
+        "Las 400 acciones pasan a valer $18.400. La venta de 400 derechos a $4 aporta $1.600 de efectivo. La suma conserva los $20.000 iniciales sin necesidad de aportar fondos nuevos.",
+        "El precio de $50 incluye el derecho antes de separarlo. Después de la separación la acción vale $46. Sumar el derecho sin ajustar la acción cuenta dos veces el mismo valor.",
+        "Los derechos no son acciones nuevas gratuitas. Para suscribir hay que pagar el precio acordado. Si los vendés, recibís efectivo y conservás tus 400 acciones originales."
+      ]
+    },
+    {
+      "id": "c16-q061",
+      "tema": "Vencimiento, opción y respaldo de derechos",
+      "dificultad": "intermedia",
+      "pregunta": "Una accionista no quiere aportar fondos y tiene derechos transferibles valiosos próximos a vencer. ¿Qué decisión protege mejor su riqueza y qué riesgo enfrenta la empresa?",
+      "opciones": [
+        "Debe dejarlos vencer porque no ejercer y vender son equivalentes.",
+        "Puede vender los derechos; la empresa enfrenta el riesgo de que una caída del precio vuelva poco atractiva la suscripción.",
+        "Debe suscribir aunque la acción pueda comprarse más barata en el mercado.",
+        "Puede exigir que la empresa mantenga para siempre el precio previo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No ejercer evita un aporte, pero no captura el valor del derecho. Vender un derecho valioso genera efectivo. La equivalencia sólo aparece si el derecho ya no tiene valor o no puede monetizarse en las condiciones consideradas.",
+        "Dejar vencer derechos valiosos renuncia a una compensación por la caída ex derechos. Venderlos permite monetizar esa compensación sin suscribir. Si la acción cae por debajo del precio de suscripción, puede no haber ejercicio, riesgo que un compromiso de compra del remanente puede cubrir según sus términos.",
+        "Un derecho concede una opción y no una obligación. Si el mercado permite comprar más barato, ejercer suele ser inconveniente. Esa posibilidad explica por qué existe riesgo de suscripción insuficiente.",
+        "El emisor no garantiza una cotización permanente. El precio se ajusta al efectivo recibido, las acciones nuevas y la información del mercado. La protección teórica proviene de ejercer o vender los derechos, no de impedir todo ajuste de precio."
+      ]
+    },
+    {
+      "id": "c16-q062",
+      "tema": "Términos alternativos de una emisión de derechos",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma tiene 100.000 acciones a $60 y quiere captar $1,2 millones. Puede emitir una nueva a $60 por cada cinco antiguas, o una nueva a $30 por cada 2,5 antiguas. Sin costos ni otras noticias y suscribiendo proporcionalmente, ¿qué pasa con un socio que tiene 500 acciones?",
+      "opciones": [
+        "La segunda duplica su riqueza porque compra el doble de acciones.",
+        "La primera le exige aportar el doble de dinero que la segunda.",
+        "En la segunda pierde $6.000 porque el precio unitario cae.",
+        "Aporta $6.000 en ambos casos y su tenencia final vale $36.000 en ambos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Comprar más unidades no implica duplicar el valor. La mayor cantidad emitida reduce el precio unitario teórico. Ambas alternativas captan los mismos fondos y preservan la participación proporcional del socio.",
+        "En la primera compra 100 acciones a $60 y en la segunda 200 a $30. Ambos productos dan $6.000. La relación de suscripción cambia junto con el precio.",
+        "La caída del precio se acompaña de una mayor cantidad de acciones en su poder. Valuar sólo las 500 anteriores omite las adquiridas al ejercer. La tenencia completa vale $36.000 en las dos alternativas.",
+        "La primera alternativa le permite comprar 100 acciones a $60 y terminar con 600 a $60. La segunda le permite comprar 200 a $30; el precio posterior es $7,2 millones/140.000, aproximadamente $51,4286. Sus 700 acciones también valen $36.000, por lo que ambas conservan los $30.000 iniciales después de restar el aporte."
+      ]
+    },
+    {
+      "id": "c16-q063",
+      "tema": "Oferta barata al público y transferencia de riqueza",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa vale $6 millones y tiene 100.000 acciones. Vende 40.000 acciones nuevas a inversores externos por $30 cada una, sin derechos, costos ni otras noticias. El efectivo queda en la empresa. ¿Qué ocurre con los accionistas anteriores?",
+      "opciones": [
+        "Su bloque vale aproximadamente $5.142.857 y pierde aproximadamente $857.143.",
+        "Su bloque conserva $6 millones porque la empresa recibió efectivo.",
+        "Pierden $1,2 millones, igual al efectivo captado.",
+        "Ganan $1,2 millones porque todo el aporte pertenece al bloque anterior."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor total posterior es $6 millones más $1,2 millones de efectivo. Dividir $7,2 millones por 140.000 da aproximadamente $51,4286 por acción. Las 100.000 acciones anteriores valen entonces $5.142.857, por debajo de sus $6 millones iniciales.",
+        "La empresa recibió recursos, pero entregó una participación a un precio inferior al valor previo. El precio posterior debe calcularse considerando también las acciones nuevas. El aumento del valor total no asegura que el bloque anterior conserve su riqueza.",
+        "El efectivo recibido no mide la transferencia a los nuevos compradores. La pérdida surge de comparar el valor anterior con el valor posterior del bloque antiguo. Ese cálculo da aproximadamente $857.143.",
+        "El nuevo efectivo pertenece a la empresa cuyos accionistas incluyen a los compradores nuevos. No puede atribuirse íntegramente a los antiguos. La distribución posterior depende de las 140.000 acciones totales."
+      ]
+    },
+    {
+      "id": "c16-q064",
+      "tema": "Valor en libros, UPA y valor económico",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa emite acciones a su valor de mercado, inferior al valor contable. Un asesor afirma que cualquier caída de utilidad por acción prueba destrucción de riqueza. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "El argumento es correcto porque el valor contable siempre supera el valor económico verdadero.",
+        "Basta mantener las UPA para garantizar que cualquier inversión es rentable.",
+        "El argumento es insuficiente: hay que evaluar el rendimiento exigido y el VAN de la inversión, no sólo medidas contables.",
+        "Emitir acciones siempre destruye riqueza, incluso a precio justo y con un proyecto de VAN positivo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor contable proviene de reglas de registro y no de una tasación universal. Puede estar por encima o por debajo del valor de mercado. La creación de valor depende de los flujos y del costo de oportunidad.",
+        "Mantener utilidades por acción no asegura cubrir el rendimiento requerido. Un proyecto puede aumentar ganancias y aun tener VAN negativo. Hace falta relacionar flujos, inversión y riesgo.",
+        "El valor contable no es el precio económico que necesariamente debería obtenerse. Las UPA pueden cambiar por la mezcla de activos y financiación sin medir todo el valor creado. Una emisión a precio justo y una inversión de VAN cero no destruyen riqueza por el mero hecho de reducir una razón contable.",
+        "Una emisión puede financiar oportunidades valiosas. El resultado para los accionistas depende del precio y del valor creado por los fondos. La afirmación convierte una posibilidad en una regla universal injustificada."
+      ]
+    },
+    {
+      "id": "c16-q065",
+      "tema": "Colocación privada y liquidez",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la principal comparación entre una colocación privada de deuda y una emisión pública?",
+      "opciones": [
+        "La privada garantiza negociación bursátil inmediata para cualquier comprador.",
+        "La pública nunca requiere costos administrativos.",
+        "La privada suele reducir costos de preparación, pero puede ofrecer menor facilidad de reventa.",
+        "La privada sólo puede negociarse sin intermediarios, cualquiera sea su tamaño."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los títulos privados pueden tener limitaciones de reventa. La ausencia de una oferta pública no crea automáticamente un mercado líquido. Precisamente esa menor liquidez es una desventaja posible.",
+        "Una oferta pública implica registro, documentos, asesoramiento y distribución. Esos gastos pueden ser importantes en relación con una emisión pequeña. Compararlos con la privada es parte central de la decisión.",
+        "Evitar el proceso de una oferta pública puede ser valioso para emisiones pequeñas. Instituciones que mantienen deuda a largo plazo pueden tolerar mejor esa iliquidez. El ahorro inicial debe compararse con condiciones financieras y restricciones del contrato.",
+        "Una negociación directa es posible, pero no obligatoria. Un banco puede preparar documentación e identificar compradores institucionales. Su participación puede ser útil cuando una institución sola no absorbe el monto."
+      ]
+    },
+    {
+      "id": "c16-q066",
+      "tema": "Regla 144A y compradores institucionales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué función cumple la regla 144A en el esquema de colocaciones privadas descrito?",
+      "opciones": [
+        "Facilita la negociación de valores no registrados entre compradores institucionales calificados.",
+        "Permite vender cualquier valor no registrado a todo el público sin restricciones.",
+        "Garantiza al emisor la misma tasa que la deuda del gobierno.",
+        "Prohíbe toda negociación secundaria de títulos privados."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La posibilidad de transar entre instituciones grandes puede mejorar liquidez y reducir costos de financiamiento. Es especialmente útil para ciertos emisores extranjeros que buscan acceso a fondos institucionales. No convierte esos valores en una oferta irrestricta para cualquier inversor minorista.",
+        "El mecanismo se vincula con compradores institucionales calificados. No elimina toda distinción entre mercado privado y oferta pública. Extenderlo automáticamente al minorista cambia su alcance.",
+        "La regla modifica condiciones de negociación, no el riesgo crediticio del emisor. Los inversores siguen evaluando capacidad de pago y condiciones. Una mejora de liquidez puede reducir costos sin igualarlos a los soberanos.",
+        "La finalidad descrita es justamente facilitar ciertas transacciones secundarias. Prohibirlas iría en sentido opuesto a mejorar liquidez. La autorización sigue limitada al ámbito institucional calificado."
+      ]
+    },
+    {
+      "id": "c16-q067",
+      "tema": "Elección entre deuda pública y privada",
+      "dificultad": "avanzada",
+      "pregunta": "Una deuda de $10 millones a 5 años se emite a la par y se amortiza íntegra al final. La pública paga 8% anual y cuesta $250.000 al inicio; la privada paga 8,5% y cuesta $50.000. Sin impuestos, descontando diferencias al 8%, ¿qué alternativa tiene menor costo presente?",
+      "opciones": [
+        "La pública, por $50.000, porque cinco intereses extra suman $250.000.",
+        "La privada, por $200.000, porque sólo importan los gastos iniciales.",
+        "La pública siempre, porque su tasa contractual es menor.",
+        "La privada, por aproximadamente $364."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sumar intereses sin descontar compara flujos de distintas fechas como si fueran simultáneos. Los pagos adicionales futuros valen menos hoy. Al descontarlos, su costo presente queda ligeramente por debajo del ahorro inicial.",
+        "El ahorro inicial es real, pero no es el único flujo diferente. La privada paga un cupón mayor durante cinco años. Ese costo futuro debe restarse en valor presente.",
+        "Una tasa menor no basta cuando los costos iniciales difieren. Deben compararse todos los flujos incrementales en fechas equivalentes. Aquí el ahorro inicial de la privada apenas supera el valor presente de sus intereses adicionales.",
+        "La privada ahorra $200.000 de costos iniciales y paga $50.000 adicionales al final de cada uno de los cinco años. El valor presente de esos intereses extra es 50.000 × [1 − (1,08)^−5]/0,08, aproximadamente $199.636. Como el principal es idéntico, la privada tiene una ventaja presente cercana a $364."
+      ]
+    },
+    {
+      "id": "c16-q068",
+      "tema": "Lectura de prospecto y riesgos",
+      "dificultad": "intermedia",
+      "pregunta": "Un prospecto destina fondos a planta y capital de trabajo, advierte que hará falta financiación adicional y aclara que un producto aún necesita autorización final. ¿Qué debería concluir quien evalúa la inversión?",
+      "opciones": [
+        "Los fondos captados garantizan que nunca será necesaria otra emisión.",
+        "Debe analizar el uso de fondos, la financiación futura y el riesgo de autorización; el registro no resuelve esos riesgos.",
+        "La recomendación preliminar elimina el riesgo de que el producto no sea autorizado.",
+        "La información sobre uso de fondos reemplaza la revisión de los estados financieros."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El propio documento advierte necesidades futuras. Recaudar una suma hoy no prueba suficiencia para todas las etapas. Deben revisarse calendario, gastos y fuentes adicionales.",
+        "El destino del efectivo permite evaluar qué actividades financiará la emisión. Necesitar nuevos aportes introduce riesgo de disponibilidad y condiciones futuras. Una recomendación técnica preliminar no equivale a aprobación definitiva del producto.",
+        "Una recomendación y una decisión final son eventos distintos. La aprobación puede demorarse o no obtenerse. El valor del negocio debe reflejar esa incertidumbre.",
+        "Conocer el destino no informa por sí solo rentabilidad, liquidez y obligaciones existentes. Los estados financieros y sus notas siguen siendo relevantes. El prospecto debe evaluarse como un conjunto y no por una sola sección."
+      ]
+    },
+    {
+      "id": "c16-q069",
+      "tema": "Candados, registro y política de dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "Un inversor privado conserva acciones tras la OPI y tiene derechos para pedir su registro. Aceptó un candado de 180 días y un préstamo restringe dividendos en efectivo. ¿Qué interpretación es correcta?",
+      "opciones": [
+        "La OPI convierte automáticamente todas sus acciones en efectivo el primer día.",
+        "Cotizar no elimina el candado ni las restricciones pactadas; los derechos de registro no equivalen a efectivo inmediato.",
+        "El derecho de registro garantiza un dividendo mensual.",
+        "El candado reduce a cero las acciones en circulación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sólo recibe efectivo si vende títulos o cobra una distribución. Conservar acciones mantiene exposición al negocio. Además, el candado puede impedir venderlas durante el plazo pactado.",
+        "El registro puede facilitar una venta futura, pero no anula por sí mismo una limitación contractual. El candado restringe la disposición durante el plazo acordado salvo autorización. La capacidad de pagar dividendos también depende de las condiciones del préstamo y de la política de la empresa.",
+        "El registro se relaciona con la posibilidad de ofrecer o negociar acciones. No es un derecho a un dividendo fijo mensual. Las distribuciones dependen de decisiones societarias y restricciones aplicables.",
+        "Un candado restringe la venta de ciertas tenencias. No cancela las acciones ni elimina sus derechos económicos. El número emitido puede permanecer igual aunque el capital negociable sea menor."
+      ]
+    },
+    {
+      "id": "c16-q070",
+      "tema": "Capital autorizado, circulación y ventas secundarias",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene 2 millones de acciones en circulación y 5 millones autorizadas. En la OPI emite 500.000 nuevas y socios venden 300.000 existentes. Sin greenshoe, ¿cuántas quedan en circulación y qué porcentaje conserva un fondo que no vende sus 600.000 acciones?",
+      "opciones": [
+        "2,8 millones en circulación; el fondo conserva aproximadamente 21,4%.",
+        "5 millones en circulación; el fondo conserva 12%.",
+        "2 millones en circulación; el fondo conserva 30%.",
+        "2,5 millones en circulación; el fondo conserva 24%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se sumaron erróneamente las 300.000 acciones secundarias. Esas acciones ya estaban dentro de los 2 millones originales. No deben contarse dos veces.",
+        "El capital autorizado es un límite o capacidad estatutaria, no la cantidad efectivamente emitida. Sólo había 2 millones y se agregan 500.000. El porcentaje debe calcularse sobre 2,5 millones.",
+        "Esa sería la situación antes de la emisión primaria. Las 500.000 nuevas acciones aumentan el denominador. Aunque el fondo no venda, su porcentaje baja a 24%.",
+        "Sólo las 500.000 acciones nuevas aumentan las que están en circulación. La venta secundaria cambia propietarios, pero no crea acciones. El fondo conserva 600.000/2.500.000 = 24%, y las autorizadas no emitidas no se incluyen en ese denominador."
+      ]
+    },
+    {
+      "id": "c16-q071",
+      "tema": "Ingresos netos y uso del efectivo en un prospecto",
+      "dificultad": "intermedia",
+      "pregunta": "Una oferta vende 400.000 acciones nuevas y 200.000 de socios a $50, con diferencial de 5% en ambos tramos. La empresa paga $300.000 de gastos y destina $12 millones a una planta. ¿Cuánto le queda para capital de trabajo, sin greenshoe?",
+      "opciones": [
+        "$6,7 millones.",
+        "$16,7 millones.",
+        "$8 millones.",
+        "$7 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La empresa capta en bruto 400.000 × $50 = $20 millones. Deduce $1 millón de diferencial y $0,3 millones de gastos, quedando $18,7 millones netos. Después de invertir $12 millones en planta conserva $6,7 millones; el tramo secundario no ingresa a su caja.",
+        "Se incorporó indebidamente el importe secundario como si fuera financiación de la empresa. Los socios vendedores reciben esos fondos según sus costos. El emisor sólo dispone del neto de sus 400.000 acciones nuevas.",
+        "Ese resultado resta la planta al ingreso primario bruto. Omite el diferencial y los gastos que paga la empresa. El efectivo disponible debe calcularse sobre ingresos netos.",
+        "Se descontó el diferencial y el uso para planta. Faltan los $300.000 de gastos administrativos a cargo de la empresa. Esos pagos también reducen el capital de trabajo disponible."
+      ]
+    },
+    {
+      "id": "c16-q072",
+      "tema": "Orden de una OPI y mercado posterior",
+      "dificultad": "basica",
+      "pregunta": "¿Qué secuencia describe mejor una OPI organizada mediante libro de pedidos?",
+      "opciones": [
+        "Asignar acciones definitivamente; valuar la empresa; elegir colocador; preparar por primera vez el prospecto.",
+        "Negociar públicamente las acciones de la OPI; decidir si existen riesgos; revelar sólo los resultados favorables.",
+        "Elegir colocadores y preparar documentación; presentar la oferta y reunir demanda; fijar precio y asignar; comenzar negociación y gestionar cobertura y liquidez.",
+        "Registrar la emisión; garantizar una cotización permanente; entregar sin límite cualquier cantidad demandada."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La asignación definitiva no debería anteceder a la preparación y fijación de condiciones. El trabajo de valuación e información orienta precio y distribución. Invertir ese orden elimina insumos necesarios para decidir.",
+        "La revelación de riesgos debe formar parte de la preparación de la oferta. No puede sustituirse por una selección posterior de buenas noticias. La negociación posterior no corrige una revelación inicial incompleta.",
+        "La documentación y las presentaciones preparan la información necesaria para fijar el precio. Una vez cumplidos los requisitos, se asignan y venden los valores. Después pueden cubrirse sobreasignaciones y brindarse liquidez e investigación, respetando las restricciones temporales aplicables a esa cobertura.",
+        "El registro no garantiza precio. La emisión tiene cantidades y condiciones definidas, incluida cualquier sobreasignación autorizada. El apoyo de mercado del colocador tampoco asegura una cotización permanente."
+      ]
+    },
+    {
+      "id": "c16-q073",
+      "tema": "Precio de futuras rondas y primer rechazo",
+      "dificultad": "avanzada",
+      "pregunta": "Un fondo propone poder comprar acciones futuras a precio fijo y tener prioridad para igualar cualquier oferta de un nuevo inversor. ¿Qué debería evaluar la fundadora?",
+      "opciones": [
+        "Ambas cláusulas aseguran que toda ronda se hará a su valor justo futuro.",
+        "El precio fijo beneficia únicamente a la fundadora si la empresa crece.",
+        "El precio fijo puede transferir al fondo parte de una futura mejora de valor; la prioridad protege su continuidad, pero puede desalentar a otros oferentes.",
+        "La prioridad obliga al fondo a financiar cualquier proyecto fracasado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un precio fijado hoy puede quedar por debajo o por encima del valor futuro. El derecho a igualar tampoco garantiza suficiente competencia. Las cláusulas redistribuyen riesgos y poder de negociación.",
+        "Si la valuación sube, el fondo puede comprar a un precio que quedó bajo. Esa ventaja puede implicar dilución económica de los demás socios. La conveniencia inicial depende de qué recibe la empresa a cambio de otorgar la opción.",
+        "Una opción a precio fijo gana atractivo para el fondo si el negocio mejora mucho. Negociar el precio en cada etapa permite incorporar la nueva información, aunque expone a renegociación. Un derecho a igualar ofertas reduce el riesgo de desplazar al inversor inicial, pero puede restar incentivos a terceros para evaluar y ofertar.",
+        "Un derecho a igualar no es necesariamente una obligación de aportar. Si no encuentra atractiva la nueva inversión, el fondo puede no ejercerlo según el contrato. No debe confundirse una facultad con un compromiso firme de financiación."
+      ]
+    },
+    {
+      "id": "c16-q074",
+      "tema": "Riesgo de cartera y ciclos del capital de riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Un fondo invierte $1 millón en cada una de diez empresas. Supone que ocho no devolverán nada y dos devolverán $8 millones cada una al final del mismo período. Sin gastos ni descuento, ¿qué resultado agregado espera bajo ese escenario y qué enseña?",
+      "opciones": [
+        "Recupera $16 millones y gana $6 millones; los pocos éxitos deben ser suficientemente grandes.",
+        "Gana $16 millones porque las inversiones fracasadas no tienen costo.",
+        "Pierde $8 millones porque ocho de diez empresas fracasan.",
+        "Obtiene 600% de retorno porque gana $6 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El aporte total es 10 × $1 millón = $10 millones. Los dos éxitos devuelven 2 × $8 millones = $16 millones, una ganancia de $6 millones. Es un escenario y no una garantía: los fracasos, la iliquidez y los ciclos de mercado pueden cambiar mucho el resultado.",
+        "Los $16 millones son recuperos brutos. Los diez aportes iniciales cuestan $10 millones, incluidos los que no se recuperan. La ganancia neta es $6 millones.",
+        "Contar fracasos sin medir el tamaño de los éxitos no determina el resultado de cartera. Los dos recuperos suman $16 millones. Ese monto supera el aporte total de $10 millones.",
+        "La ganancia debe dividirse por el total invertido. El cociente 6/10 da 60% para todo el período, sin anualizar. No puede confundirse una cantidad expresada en millones con un porcentaje ni inferirse una tasa anual sin duración."
+      ]
+    },
+    {
+      "id": "c16-q075",
+      "tema": "Riesgo de derechos ante una caída de valor",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene 100.000 acciones y ofrece una nueva a $20 por cada cuatro antiguas. Antes de suscribir, el valor de los activos existentes cae a $2 millones. Sin costos ni valor adicional del proyecto, ¿qué indica el precio teórico posterior si se suscribe todo?",
+      "opciones": [
+        "Sería $25 porque se suman $500.000 sin aumentar el número de acciones.",
+        "Sería $16 porque se divide el valor anterior entre todas las acciones sin agregar el aporte.",
+        "Sería necesariamente mayor que $20 porque un derecho obliga a comprar.",
+        "Sería $20; a ese nivel desaparece el beneficio intrínseco de suscribir y una caída adicional lo vuelve negativo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El aporte aumenta tanto el valor total como las acciones. Dividir sólo por las 100.000 antiguas omite las 25.000 nuevas. El precio correcto usa 125.000 como denominador.",
+        "El denominador de 125.000 es correcto, pero falta el efectivo de suscripción. Los activos posteriores sumarían $2,5 millones. Al incluir ese aporte el precio resulta $20.",
+        "Un derecho no obliga a ejercer. Si deja de ser atractivo, puede vencer sin suscripción. La financiación total no se asegura sólo por haber ofrecido derechos; puede requerirse respaldo de un colocador.",
+        "Se emitirían 25.000 acciones y entrarían $500.000. El valor posterior sería $2,5 millones dividido por 125.000 acciones, igual a $20. En ese umbral el precio teórico iguala el de suscripción, aunque antes del vencimiento un derecho todavía puede conservar valor temporal por su carácter opcional."
+      ]
+    },
+    {
+      "id": "c16-q076",
+      "tema": "Compensación no monetaria y evaluación integral",
+      "dificultad": "intermedia",
+      "pregunta": "Dos bancos proponen el mismo diferencial en efectivo para una emisión riesgosa. Uno además exige warrants para comprar acciones futuras a precio pactado. ¿Cómo debe compararlos la directora financiera?",
+      "opciones": [
+        "Son propuestas idénticas porque los warrants no implican un pago inmediato.",
+        "Debe considerar también el valor económico y la posible dilución de los warrants.",
+        "Los warrants son una garantía de que la acción subirá.",
+        "Los warrants reemplazan las acciones que ya poseen los socios sin afectar a nadie."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La ausencia de desembolso actual no implica costo económico nulo. El derecho de compra puede permitir acceder a acciones por debajo de su valor futuro. Ese beneficio forma parte de la remuneración total.",
+        "Un warrant otorga una opción de compra que puede resultar valiosa si sube la acción. Su entrega es parte de la remuneración aunque no salga efectivo hoy. Comparar sólo el diferencial omitiría una transferencia potencial de valor a favor del banco.",
+        "Un derecho a comprar no determina la trayectoria del mercado. Puede vencer sin valor si la cotización no supera el ejercicio. Su costo debe evaluarse como opción, no como pronóstico garantizado.",
+        "Su ejercicio puede generar acciones adicionales o una obligación de entrega según las condiciones. La distribución de valor puede cambiar. No corresponde tratarlos como un intercambio sin consecuencias económicas."
+      ]
+    }
+  ]
+}

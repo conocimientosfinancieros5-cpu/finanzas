@@ -1,0 +1,1336 @@
+{
+  "capitulo": 14,
+  "titulo": "Los mercados eficientes y las finanzas conductistas",
+  "preguntas": [
+    {
+      "id": "c14-q001",
+      "tema": "14.1 · Criterio de decisión",
+      "dificultad": "basica",
+      "pregunta": "¿Qué criterio comparten comprar una máquina y obtener un préstamo?",
+      "opciones": [
+        "Maximizar la utilidad contable inicial.",
+        "Maximizar el VPN de los flujos relevantes.",
+        "Minimizar solamente el desembolso de hoy.",
+        "Elegir siempre la operación menos riesgosa."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La utilidad contable no equivale al efectivo generado. Tampoco incorpora correctamente el momento de todos los pagos. Deben evaluarse los flujos completos mediante su VPN. El costo de oportunidad permite distinguir un beneficio económico de una mejora meramente contable.",
+        "Ambas operaciones intercambian flujos en distintos momentos. El VPN los compara usando un costo de oportunidad adecuado al riesgo. Crear valor exige que los beneficios presentes superen los costos presentes. El costo de oportunidad permite distinguir un beneficio económico de una mejora meramente contable.",
+        "Mirar únicamente el momento inicial omite obligaciones posteriores. Un préstamo puede parecer atractivo solo porque entrega efectivo hoy. Su VPN también debe incluir intereses y devolución del capital. El costo de oportunidad permite distinguir un beneficio económico de una mejora meramente contable.",
+        "Menor riesgo no garantiza mayor valor. Una operación segura puede tener un precio excesivo. El VPN evalúa sus flujos frente a alternativas de riesgo comparable. El costo de oportunidad permite distinguir un beneficio económico de una mejora meramente contable."
+      ]
+    },
+    {
+      "id": "c14-q002",
+      "tema": "14.1 · Separación de decisiones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede reemplazar deuda por acciones sin alterar sus activos ni oportunidades. ¿Qué enfoque resulta razonable?",
+      "opciones": [
+        "Asignar obligatoriamente una emisión exclusiva a cada proyecto.",
+        "Aceptar solo proyectos financiables con utilidades retenidas.",
+        "Suponer independencia entre inversión y financiamiento en cualquier circunstancia.",
+        "Elegir proyectos por su VPN y después definir su financiamiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El financiamiento puede administrarse para la empresa en conjunto. No hace falta vincular cada emisión a una inversión específica. Esa vinculación impone una restricción que el caso no exige. La posibilidad de modificar los títulos sin cambiar los activos es la condición que sostiene esa separación.",
+        "Las utilidades retenidas también tienen costo de oportunidad. Su disponibilidad no determina por sí sola el atractivo del proyecto. Existen otras fuentes que pueden financiar inversiones convenientes. La posibilidad de modificar los títulos sin cambiar los activos es la condición que sostiene esa separación.",
+        "La separación es un supuesto condicionado. Restricciones financieras pueden modificar qué inversiones son posibles. En esos casos corresponde estudiar ambas decisiones conjuntamente. La posibilidad de modificar los títulos sin cambiar los activos es la condición que sostiene esa separación.",
+        "Cuando cambiar títulos no modifica los activos, las decisiones pueden analizarse por separado. Primero se identifican inversiones que crean valor. Después se elige el financiamiento, atendiendo las interacciones que pudieran aparecer. La posibilidad de modificar los títulos sin cambiar los activos es la condición que sostiene esa separación."
+      ]
+    },
+    {
+      "id": "c14-q003",
+      "tema": "14.1 · VPN de un préstamo",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma recibe $1.100 hoy y debe pagar $1.155 dentro de un año. Una obligación comparable exige 10% anual en el mercado. Sin impuestos ni comisiones, ¿cuál es el VPN para la prestataria?",
+      "opciones": [
+        "$50.",
+        "$55.",
+        "−$50.",
+        "$105."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La obligación vale hoy 1.155 / 1,10 = $1.050. La empresa recibe $1.100 a cambio de ese pasivo. Su VPN es 1.100 − 1.050 = $50. El beneficio surge de recibir más dinero que el valor de mercado de los pagos comprometidos.",
+        "Los $55 son el interés contractual. No representan el beneficio económico del financiamiento. Debe descontarse el pago a la tasa de mercado y compararlo con el ingreso inicial. El beneficio surge de recibir más dinero que el valor de mercado de los pagos comprometidos.",
+        "Ese signo corresponde a invertir la perspectiva de la operación. Para la prestataria, el cobro inicial es positivo y el pago futuro es negativo. La diferencia presente resulta favorable por $50. El beneficio surge de recibir más dinero que el valor de mercado de los pagos comprometidos.",
+        "Los $105 comparan el pago nominal con su valor descontado. Falta usar el ingreso inicial efectivamente recibido. El VPN compara $1.100 con $1.050, y da $50. El beneficio surge de recibir más dinero que el valor de mercado de los pagos comprometidos."
+      ]
+    },
+    {
+      "id": "c14-q004",
+      "tema": "14.1 · Cupones y principal",
+      "dificultad": "avanzada",
+      "pregunta": "Un préstamo entrega $1.210 hoy, cobra $60,50 al final de cada uno de dos años y devuelve el principal al finalizar el segundo. La tasa de mercado es 10% anual para ese riesgo. Sin impuestos, ¿qué VPN tiene para la prestataria?",
+      "opciones": [
+        "−$105.",
+        "$121.",
+        "$105.",
+        "$210."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se invierten los signos de la prestataria. Ella recibe $1.210 y sus pagos tienen valor presente de $1.105. El beneficio neto es positivo por $105. La devolución del capital también es un flujo y debe ubicarse en su fecha efectiva de pago.",
+        "Los $121 suman los dos ahorros nominales de intereses de $60,50. Esa suma omite que se producen en fechas futuras. Descontados al 10%, valen $55 y $50, por lo que el beneficio presente es $105. La devolución del capital también es un flujo y debe ubicarse en su fecha efectiva de pago.",
+        "El primer pago vale 60,50 / 1,10 = $55. El segundo vale 1.270,50 / 1,21 = $1.050 e incluye interés y principal. El VPN es 1.210 − 55 − 1.050 = $105. La devolución del capital también es un flujo y debe ubicarse en su fecha efectiva de pago.",
+        "Los $210 comparan el ingreso inicial con el principal descontado. Se omitieron ambos cupones. Su valor presente conjunto es $105 y reduce el VPN a $105. La devolución del capital también es un flujo y debe ubicarse en su fecha efectiva de pago."
+      ]
+    },
+    {
+      "id": "c14-q005",
+      "tema": "14.1 · Deuda a precio justo",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma recibe $2.000 y paga $160 al final de cada año durante dos años, más $2.000 al final del segundo. El mercado exige 8% anual para ese riesgo. Sin otros costos, ¿cuál es el VPN?",
+      "opciones": [
+        "$320.",
+        "−$320.",
+        "$296,30.",
+        "$0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $320 suman intereses nominales. No representan una ganancia para quien toma prestado. La operación completa intercambia fondos por pagos de igual valor presente. Un VPN cero indica intercambio a condiciones justas, aunque exista interés por disponer anticipadamente del dinero.",
+        "Pagar intereses no genera automáticamente un VPN negativo. La prestataria también dispone de los fondos durante dos años. El descuento al rendimiento justo iguala el valor del pasivo al ingreso inicial. Un VPN cero indica intercambio a condiciones justas, aunque exista interés por disponer anticipadamente del dinero.",
+        "Ese importe se aproxima al valor presente de los intereses aislados. Omite tanto el principal como el cobro inicial. Al incorporar todos los flujos, el VPN es cero. Un VPN cero indica intercambio a condiciones justas, aunque exista interés por disponer anticipadamente del dinero.",
+        "El cupón coincide con el rendimiento de mercado sobre el principal. Los pagos valen 160 / 1,08 + 2.160 / 1,08² = $2.000. Al coincidir con lo recibido, el VPN es cero. Un VPN cero indica intercambio a condiciones justas, aunque exista interés por disponer anticipadamente del dinero."
+      ]
+    },
+    {
+      "id": "c14-q006",
+      "tema": "14.1 · Tasa de descuento",
+      "dificultad": "basica",
+      "pregunta": "¿Qué tasa corresponde para medir el beneficio de un préstamo subsidiado, comparando deudas de igual moneda, plazo y riesgo?",
+      "opciones": [
+        "La tasa subsidiada del contrato.",
+        "La exigida por el mercado a esa empresa por una obligación comparable.",
+        "La rentabilidad contable histórica del activo.",
+        "La tasa libre de riesgo aunque pueda haber incumplimiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa contractual determina los intereses pagados. No necesariamente coincide con el rendimiento exigido por los prestamistas de mercado. Descontar a ella puede ocultar el beneficio que se intenta medir. La tasa del contrato define los pagos y la tasa de mercado determina cuánto valen hoy.",
+        "Se busca el precio que tendría la obligación en condiciones competitivas. Una deuda comparable revela el costo de oportunidad pertinente. Descontar a esa tasa permite medir el valor del subsidio. La tasa del contrato define los pagos y la tasa de mercado determina cuánto valen hoy.",
+        "La rentabilidad contable depende de registros y activos distintos. No determina el precio de este pasivo. La referencia debe corresponder a obligaciones comparables. La tasa del contrato define los pagos y la tasa de mercado determina cuánto valen hoy.",
+        "El incumplimiento afecta el rendimiento exigido. Una tasa libre de riesgo puede sobrevaluar pagos riesgosos. Se requiere consistencia entre la tasa utilizada y las características de la obligación. La tasa del contrato define los pagos y la tasa de mercado determina cuánto valen hoy."
+      ]
+    },
+    {
+      "id": "c14-q007",
+      "tema": "14.1 · Competencia y reversibilidad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué suele costar más encontrar financiamiento con VPN positivo que inversiones reales con VPN positivo?",
+      "opciones": [
+        "Los fondos no pueden moverse entre sectores financieros.",
+        "Una patente elimina la competencia por financiamiento.",
+        "El capital compite ampliamente y se mueve rápido, mientras ciertos activos reales ofrecen ventajas exclusivas.",
+        "Emitir títulos suele ser más irreversible que construir una planta especializada."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La movilidad de los fondos es parte central de la competencia financiera. El dinero puede buscar alternativas entre sectores. Suponer aislamiento generalizado exagera las oportunidades de obtener financiamiento barato. Una ventaja exclusiva puede sostener rentas reales que la competencia entre instrumentos financieros tiende a erosionar.",
+        "Una patente puede proteger un producto o proceso. No excluye a otros emisores que buscan captar el dinero de los inversionistas. Su ventaja aparece principalmente en las oportunidades reales. Una ventaja exclusiva puede sostener rentas reales que la competencia entre instrumentos financieros tiende a erosionar.",
+        "Muchos emisores y prestamistas compiten por oportunidades financieras. Esa competencia reduce las ganancias extraordinarias evidentes. En inversiones reales pueden existir patentes, conocimientos o reputación difíciles de replicar. Una ventaja exclusiva puede sostener rentas reales que la competencia entre instrumentos financieros tiende a erosionar.",
+        "Generalmente es más fácil recomprar un título y emitir otro que deshacer una inversión física especializada. Por eso las decisiones financieras suelen ser más reversibles. Esa flexibilidad no garantiza obtener un VPN positivo. Una ventaja exclusiva puede sostener rentas reales que la competencia entre instrumentos financieros tiende a erosionar."
+      ]
+    },
+    {
+      "id": "c14-q008",
+      "tema": "14.1 · Comparación de contratos",
+      "dificultad": "intermedia",
+      "pregunta": "Un director propone deuda corta o en moneda extranjera porque exhibe menor interés nominal. ¿Qué debe evaluar antes de afirmar que encontró fondos baratos?",
+      "opciones": [
+        "Los riesgos de refinanciación y cambio, y el costo de alternativas comparables.",
+        "Solo la menor tasa escrita en el contrato.",
+        "La diferencia nominal como ganancia segura.",
+        "La deuda extranjera como idéntica en riesgo a la local."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los plazos y las monedas modifican la exposición económica. Refinanciar puede encarecerse y la moneda adeudada puede apreciarse. Deben compararse costos considerando esos riesgos y las coberturas pertinentes. La comparación económica debe mantener coherencia entre plazo, moneda, riesgo y necesidades de financiación.",
+        "El interés nominal no resume todos los pagos posibles. Un plazo corto obliga a conseguir nuevos fondos después. Una moneda distinta también puede alterar el costo en la moneda operativa. La comparación económica debe mantener coherencia entre plazo, moneda, riesgo y necesidades de financiación.",
+        "Una diferencia visible de tasas no constituye automáticamente arbitraje. Puede compensar riesgos que todavía no se materializaron. El ahorro inicial debe analizarse junto con los pagos contingentes. La comparación económica debe mantener coherencia entre plazo, moneda, riesgo y necesidades de financiación.",
+        "Una deuda extranjera puede aumentar de valor en moneda local. Eso sucede aunque su tasa contractual permanezca fija. Hay que incorporar el descalce cambiario antes de comparar riesgos. La comparación económica debe mantener coherencia entre plazo, moneda, riesgo y necesidades de financiación."
+      ]
+    },
+    {
+      "id": "c14-q009",
+      "tema": "14.2 · Ruta aleatoria",
+      "dificultad": "basica",
+      "pregunta": "¿Qué expresa una ruta aleatoria de los precios en el modelo sencillo del capítulo?",
+      "opciones": [
+        "Cada nivel de precio es independiente del anterior.",
+        "Los cambios sucesivos son independientes de la secuencia de cambios anteriores.",
+        "El rendimiento esperado debe ser cero.",
+        "Las subas y bajas se alternan exactamente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se confunden niveles y variaciones. Un precio puede ser el anterior más una innovación independiente. Los niveles quedan relacionados aunque los cambios no lo estén. Un nivel de precio puede depender del anterior sin que ese nivel permita anticipar la próxima innovación.",
+        "El precio anterior es la base sobre la que aparece una innovación. La independencia se refiere a los cambios sucesivos. Puede existir una deriva esperada positiva sin un patrón aprovechable en esos cambios. Un nivel de precio puede depender del anterior sin que ese nivel permita anticipar la próxima innovación.",
+        "Una ruta aleatoria puede tener deriva. El rendimiento esperado puede compensar el tiempo y el riesgo asumido. La imprevisibilidad de las novedades no obliga a una rentabilidad media nula. Un nivel de precio puede depender del anterior sin que ese nivel permita anticipar la próxima innovación.",
+        "Una alternancia exacta permitiría anticipar el próximo signo. Sería un patrón predecible. No corresponde a cambios independientes. Un nivel de precio puede depender del anterior sin que ese nivel permita anticipar la próxima innovación."
+      ]
+    },
+    {
+      "id": "c14-q010",
+      "tema": "14.2 · Deriva de una ruta aleatoria",
+      "dificultad": "intermedia",
+      "pregunta": "Cada semana una inversión gana 6% con probabilidad 50% o pierde 4% con probabilidad 50%, independientemente del pasado. ¿Cuál es el rendimiento esperado semanal?",
+      "opciones": [
+        "2%.",
+        "0%.",
+        "5%.",
+        "1%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 2% resta las magnitudes sin ponderarlas. Cada resultado tiene probabilidad de un medio. El promedio correcto entre +6% y −4% es +1%. La independencia describe la relación entre semanas y no exige que la distribución tenga media cero.",
+        "Probabilidades iguales no implican resultados simétricos. La ganancia posible supera la pérdida posible en magnitud. Por eso el rendimiento esperado es positivo. La independencia describe la relación entre semanas y no exige que la distribución tenga media cero.",
+        "El 5% promedia magnitudes sin conservar el signo de la pérdida. Perder debe incorporarse como −4%. Mantener ese signo lleva a un promedio de 1%. La independencia describe la relación entre semanas y no exige que la distribución tenga media cero.",
+        "Se pondera cada rendimiento por su probabilidad. El cálculo es 0,50 × 6% + 0,50 × (−4%) = 1%. La deriva positiva no permite conocer el resultado de una semana particular. La independencia describe la relación entre semanas y no exige que la distribución tenga media cero."
+      ]
+    },
+    {
+      "id": "c14-q011",
+      "tema": "14.2 · Capitalización",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $1.000 gana 10% una semana y pierde 10% la siguiente. ¿Qué saldo queda?",
+      "opciones": [
+        "$990.",
+        "$1.000.",
+        "$980.",
+        "$1.010."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La primera semana deja 1.000 × 1,10 = $1.100. Luego se calcula 1.100 × 0,90 = $990. Los porcentajes se aplican sobre bases diferentes y no se cancelan. Cada rendimiento se calcula sobre el saldo al inicio de su propio período, no siempre sobre el capital original.",
+        "Sumar +10% y −10% omite la capitalización. Se ganan $100 y después se pierden $110. El saldo queda $10 debajo del inicial. Cada rendimiento se calcula sobre el saldo al inicio de su propio período, no siempre sobre el capital original.",
+        "Esa respuesta supone una pérdida de 2% que no surge de los datos. Deben multiplicarse los factores 1,10 y 0,90. Su producto es 0,99, equivalente a perder 1%. Cada rendimiento se calcula sobre el saldo al inicio de su propio período, no siempre sobre el capital original.",
+        "Se interpreta el efecto de capitalización con el signo contrario. El producto de los factores es menor que uno. La secuencia produce una pérdida de $10. Cada rendimiento se calcula sobre el saldo al inicio de su propio período, no siempre sobre el capital original."
+      ]
+    },
+    {
+      "id": "c14-q012",
+      "tema": "14.2 · Autocorrelación",
+      "dificultad": "intermedia",
+      "pregunta": "Con igual media y desvío estándar en días sucesivos, una relación predictiva lineal tiene autocorrelación −0,20. Hoy el rendimiento supera su media en 5 puntos porcentuales. ¿Qué desvío de la media se pronostica para mañana?",
+      "opciones": [
+        "+1 punto porcentual.",
+        "−5 puntos porcentuales.",
+        "−1 punto porcentual.",
+        "−20 puntos porcentuales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se eliminó el signo negativo del coeficiente. La relación indica reversión parcial. El desvío pronosticado es negativo e igual a un punto. La media de mañana se ajusta por el producto de la pendiente y la desviación observada hoy.",
+        "Una reversión completa necesitaría pendiente −1. La pendiente informada es −0,20. Solo predice una quinta parte del desvío en sentido contrario. La media de mañana se ajusta por el producto de la pendiente y la desviación observada hoy.",
+        "Con desvíos estándar iguales, la pendiente coincide con la correlación. Se calcula −0,20 × 5 = −1 punto porcentual. Es un pronóstico condicional y no una garantía del resultado siguiente. La media de mañana se ajusta por el producto de la pendiente y la desviación observada hoy.",
+        "La correlación no es directamente un rendimiento. Es un coeficiente que debe multiplicarse por el desvío observado. Ese producto da −1 punto porcentual. La media de mañana se ajusta por el producto de la pendiente y la desviación observada hoy."
+      ]
+    },
+    {
+      "id": "c14-q013",
+      "tema": "14.2 · Competencia informativa",
+      "dificultad": "basica",
+      "pregunta": "Si todos reconocen una suba futura extraordinaria sin riesgo adicional, ¿qué tiende a eliminar la oportunidad?",
+      "opciones": [
+        "Todos esperan sin operar hasta la fecha prevista.",
+        "El precio queda fijo por un año.",
+        "Las compras reducen el precio actual.",
+        "Las compras aumentan el precio actual hasta normalizar el rendimiento esperado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esperar dejaría la oportunidad a otros compradores. La competencia premia actuar antes. Por eso el patrón conocido puede desaparecer mediante las operaciones que provoca. El ajuste competitivo ocurre en el precio de hoy y reduce la oportunidad disponible para quien llegue después.",
+        "Los precios negociados pueden responder a nueva información. No existe en el caso una restricción que los congele. La eficiencia se relaciona con el ajuste, no con la inmovilidad. El ajuste competitivo ocurre en el precio de hoy y reduce la oportunidad disponible para quien llegue después.",
+        "Una mayor demanda tiende a elevar el precio, manteniendo lo demás constante. No provoca la caída planteada. La eliminación de la oportunidad ocurre porque se encarece comprar hoy. El ajuste competitivo ocurre en el precio de hoy y reduce la oportunidad disponible para quien llegue después.",
+        "Los inversionistas tienen incentivos para comprar inmediatamente. La demanda eleva el precio antes de la suba prevista. Pagar más hoy reduce el rendimiento futuro disponible. El ajuste competitivo ocurre en el precio de hoy y reduce la oportunidad disponible para quien llegue después."
+      ]
+    },
+    {
+      "id": "c14-q014",
+      "tema": "14.2 · Forma débil",
+      "dificultad": "basica",
+      "pregunta": "¿Qué información debe estar incorporada bajo la forma débil de eficiencia?",
+      "opciones": [
+        "Toda información pública y privada.",
+        "El historial de precios y rendimientos.",
+        "Solo los planes confidenciales del directorio.",
+        "Los resultados futuros conocidos con certeza."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese conjunto excede la forma débil. La forma semifuerte incluye la información pública. Incorporar también la privada corresponde a una exigencia todavía mayor. La pregunta central es si estudiar esa información histórica agrega una ventaja que todavía no esté en el precio.",
+        "Esta forma se refiere al registro de cotizaciones pasadas. Analizarlo no debería generar rendimientos extraordinarios sistemáticos. Por sí sola no exige incorporar toda información pública o privada. La pregunta central es si estudiar esa información histórica agrega una ventaja que todavía no esté en el precio.",
+        "Los planes confidenciales no definen la eficiencia débil. Esta analiza el uso del historial observable. La ventaja informativa privada se relaciona con la forma fuerte. La pregunta central es si estudiar esa información histórica agrega una ventaja que todavía no esté en el precio.",
+        "La eficiencia no supone adivinar resultados futuros. Los precios reflejan información disponible y expectativas. Pueden cambiar cuando aparecen novedades inesperadas. La pregunta central es si estudiar esa información histórica agrega una ventaja que todavía no esté en el precio."
+      ]
+    },
+    {
+      "id": "c14-q015",
+      "tema": "14.2 · Forma semifuerte",
+      "dificultad": "basica",
+      "pregunta": "¿Qué forma exige que los precios incorporen rápidamente balances y anuncios públicos de dividendos o fusiones?",
+      "opciones": [
+        "Débil exclusivamente.",
+        "Fuerte necesariamente.",
+        "Semifuerte.",
+        "Una forma que exige precios invariables ante noticias."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La forma débil solo exige reflejar cotizaciones anteriores. El enunciado añade información empresarial publicada. Por eso se refiere a una exigencia más amplia. Una noticia pública inesperada puede modificar el precio una vez sin dejar una ganancia extraordinaria posterior.",
+        "Responder a noticias públicas no prueba incorporar secretos. La forma fuerte exige un conjunto informativo mayor. Un mercado puede ser semifuerte y permitir ventajas por información privada. Una noticia pública inesperada puede modificar el precio una vez sin dejar una ganancia extraordinaria posterior.",
+        "La forma semifuerte comprende toda información pública relevante. Los anuncios y balances pertenecen a ese conjunto. Su incorporación rápida impide una ventaja sistemática por operar después de leerlos. Una noticia pública inesperada puede modificar el precio una vez sin dejar una ganancia extraordinaria posterior.",
+        "Una noticia inesperada puede modificar el valor económico. Un mercado eficiente debe ajustar el precio ante ella. Exigir precios inmóviles contradice ese mecanismo. Una noticia pública inesperada puede modificar el precio una vez sin dejar una ganancia extraordinaria posterior."
+      ]
+    },
+    {
+      "id": "c14-q016",
+      "tema": "14.2 · Forma fuerte",
+      "dificultad": "intermedia",
+      "pregunta": "Personas con datos confidenciales obtienen repetidamente rendimientos anormales ajustados por riesgo. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "Cuestiona la forma fuerte, pero no refuta por sí sola la semifuerte.",
+        "Refuta únicamente la forma débil.",
+        "Prueba que esos secretos ya estaban plenamente incorporados.",
+        "Implica que los demás nunca pueden tener ganancias realizadas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La forma fuerte incluye información que no está al alcance del público. Una ventaja sistemática por secretos contradice esa exigencia. La semifuerte puede mantenerse porque solo comprende información pública. La clasificación depende del acceso público o privado de los datos que originan la ventaja observada.",
+        "La ventaja no surge de analizar cotizaciones pasadas. Proviene de información confidencial. La forma directamente cuestionada es la fuerte. La clasificación depende del acceso público o privado de los datos que originan la ventaja observada.",
+        "Si el precio incorporara plenamente el secreto, este no daría una ventaja sistemática. La observación apunta a lo contrario. Debe distinguirse una ventaja persistente de una simple racha afortunada. La clasificación depende del acceso público o privado de los datos que originan la ventaja observada.",
+        "Las ganancias realizadas pueden deberse al azar o compensar riesgo. La hipótesis no las prohíbe. Aquí se estudia la ventaja esperada de un conjunto específico de información. La clasificación depende del acceso público o privado de los datos que originan la ventaja observada."
+      ]
+    },
+    {
+      "id": "c14-q017",
+      "tema": "14.2 · Alcance de la hipótesis",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirmación es compatible con eficiencia informativa?",
+      "opciones": [
+        "Todos conocen perfectamente el futuro.",
+        "Los pronósticos pueden ser imparciales aunque haya sorpresas y los activos riesgosos rindan más en promedio.",
+        "Todas las acciones tienen igual rendimiento esperado.",
+        "Solo puede haber eficiencia sin impuestos ni costos de transacción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La información disponible puede ser incompleta. Una sorpresa genuina puede cambiar el precio. La hipótesis no requiere previsión perfecta. La eficiencia se refiere al uso de información disponible y no a la eliminación de toda incertidumbre.",
+        "Usar bien la información no equivale a conocer los resultados futuros. Pueden aparecer errores inevitables sin que exista una estrategia de ganancia extraordinaria. Distintos riesgos también pueden exigir distintos rendimientos. La eficiencia se refiere al uso de información disponible y no a la eliminación de toda incertidumbre.",
+        "La rentabilidad esperada debe compararse considerando el riesgo. Una mayor prima puede compensar mayor exposición. Igualar todos los retornos confunde eficiencia con ausencia de riesgo. La eficiencia se refiere al uso de información disponible y no a la eliminación de toda incertidumbre.",
+        "Los impuestos y costos pueden coexistir con competencia informativa. Afectan precios y operaciones convenientes. La definición no exige su desaparición absoluta. La eficiencia se refiere al uso de información disponible y no a la eliminación de toda incertidumbre."
+      ]
+    },
+    {
+      "id": "c14-q018",
+      "tema": "14.2 · Prueba de eficiencia débil",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué diseño evalúa directamente la eficiencia débil?",
+      "opciones": [
+        "Medir solo la reacción a un balance publicado.",
+        "Comparar únicamente utilidades contables.",
+        "Dar por probado un patrón porque parece visible en un gráfico.",
+        "Probar reglas basadas en precios pasados fuera de la muestra y después de riesgo y costos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un balance público sirve para estudiar eficiencia semifuerte. No aísla el contenido predictivo del historial de precios. La prueba debe corresponder a la información que se investiga. El resultado relevante es la rentabilidad de una regla operable, frente a una alternativa de riesgo comparable.",
+        "Las utilidades aisladas no miden la rentabilidad de una estrategia. Tampoco demuestran predicción mediante precios pasados. Hace falta especificar operaciones y una referencia apropiada. El resultado relevante es la rentabilidad de una regla operable, frente a una alternativa de riesgo comparable.",
+        "Las series aleatorias también producen figuras llamativas. Reconocerlas después de observar el resultado no prueba poder predictivo. Se necesitan reglas previas y evaluación independiente. El resultado relevante es la rentabilidad de una regla operable, frente a una alternativa de riesgo comparable.",
+        "Las reglas usan el conjunto informativo de la forma débil. Una muestra independiente ayuda a detectar patrones encontrados por casualidad. Ajustar riesgo y costos permite evaluar una ventaja económica real. El resultado relevante es la rentabilidad de una regla operable, frente a una alternativa de riesgo comparable."
+      ]
+    },
+    {
+      "id": "c14-q019",
+      "tema": "14.2 · Reacción a adquisiciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción sube antes de una adquisición, salta al anunciarse y después no muestra deriva anormal sistemática. ¿Qué interpretación es prudente?",
+      "opciones": [
+        "Hay ajuste rápido al anuncio y la suba previa puede reflejar anticipaciones o filtraciones.",
+        "La suba previa demuestra que todos usaron información privilegiada.",
+        "La falta de deriva anormal significa un precio nominal fijo.",
+        "Comprar después del anuncio garantiza capturar otra prima."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El salto sin deriva posterior es consistente con incorporación rápida de información pública. La suba previa admite rumores, anticipación o filtraciones. El patrón no identifica por sí solo quién conocía qué datos. El análisis distingue el salto asociado a la noticia de los cambios normales que ocurren después.",
+        "Una suba previa no permite identificar universalmente conductas individuales. También pueden existir otras noticias o expectativas. La conclusión excede lo que muestran los precios agregados. El análisis distingue el salto asociado a la noticia de los cambios normales que ocurren después.",
+        "Un rendimiento anormal nulo no implica rendimiento total nulo. La acción puede seguir moviéndose con el mercado. El ajuste separa ese componente del efecto específico del evento. El análisis distingue el salto asociado a la noticia de los cambios normales que ocurren después.",
+        "La prima puede quedar incorporada en el salto inicial. Comprar después implica pagar el nuevo precio. La ausencia de deriva no respalda una ganancia adicional garantizada. El análisis distingue el salto asociado a la noticia de los cambios normales que ocurren después."
+      ]
+    },
+    {
+      "id": "c14-q020",
+      "tema": "14.2 · Ajuste simple por mercado",
+      "dificultad": "basica",
+      "pregunta": "Una acción rinde 9% durante un anuncio y el índice rinde 3%. ¿Cuál es su rendimiento ajustado por la resta simple del mercado?",
+      "opciones": [
+        "12%.",
+        "3%.",
+        "6%.",
+        "300%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar el índice aumenta el componente que se quiere quitar. El mercado actúa como referencia. Debe restarse para aislar el rendimiento adicional. El cálculo identifica puntos porcentuales de rendimiento adicional, no una proporción entre dos rentabilidades.",
+        "El 3% es el rendimiento del índice. No mide la diferencia de la acción respecto de él. Esa diferencia es de seis puntos porcentuales. El cálculo identifica puntos porcentuales de rendimiento adicional, no una proporción entre dos rentabilidades.",
+        "El ajuste resta el índice al rendimiento observado. Se calcula 9% − 3% = 6%. Como referencia de rendimiento normal, este atajo equivale a usar beta uno y alfa cero. El cálculo identifica puntos porcentuales de rendimiento adicional, no una proporción entre dos rentabilidades.",
+        "Dividir 9 por 3 genera una razón. El método pedido utiliza una resta de rendimientos. Por eso el resultado es 6% y no 300%. El cálculo identifica puntos porcentuales de rendimiento adicional, no una proporción entre dos rentabilidades."
+      ]
+    },
+    {
+      "id": "c14-q021",
+      "tema": "14.2 · Modelo de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Un modelo mensual usa E(R) = alfa + beta × Rm, con alfa de 1% y beta de 1,5. Si el mercado rinde 4%, ¿qué predice para la acción?",
+      "opciones": [
+        "6%.",
+        "5,5%.",
+        "7,5%.",
+        "7%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se omitió el intercepto informado. El producto de beta por mercado solo aporta 6%. Sumando alfa, el resultado llega a 7%. El intercepto y el rendimiento del índice deben expresarse con la misma frecuencia temporal.",
+        "Beta no es una tasa de 1,5%. Es un coeficiente sin unidades que multiplica el rendimiento del índice. Después se suma el intercepto. El intercepto y el rendimiento del índice deben expresarse con la misma frecuencia temporal.",
+        "El 7,5% resulta de multiplicar también el intercepto por beta: (1% + 4%) × 1,5. El modelo exige que beta afecte solamente al rendimiento del mercado. La operación correcta es 1% + 1,5 × 4% = 7%. El intercepto y el rendimiento del índice deben expresarse con la misma frecuencia temporal.",
+        "La contribución del mercado es 1,5 × 4% = 6%. Se agrega el intercepto de 1%. El rendimiento previsto mensual es 7%. El intercepto y el rendimiento del índice deben expresarse con la misma frecuencia temporal."
+      ]
+    },
+    {
+      "id": "c14-q022",
+      "tema": "14.2 · Rendimiento anormal",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción rinde 5% mensual, tiene alfa mensual de 1% y beta de 1,5, mientras el mercado rinde 4%. ¿Cuál es su rendimiento anormal?",
+      "opciones": [
+        "+2%.",
+        "−2%.",
+        "+1%.",
+        "−1%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se invirtió la resta. La acción rindió dos puntos menos de lo previsto. El rendimiento anormal debe ser negativo. La referencia debe incorporar todos los términos del modelo antes de compararse con el retorno observado.",
+        "El rendimiento normal es 1% + 1,5 × 4% = 7%. Se resta del observado: 5% − 7% = −2%. Un retorno total positivo puede ser un desempeño relativo desfavorable. La referencia debe incorporar todos los términos del modelo antes de compararse con el retorno observado.",
+        "Restar solo el mercado ignora beta y alfa. Ese método daría 1%, pero no es el modelo solicitado. Aquí la referencia correcta es 7%. La referencia debe incorporar todos los términos del modelo antes de compararse con el retorno observado.",
+        "El −1% surge de descontar solo beta por mercado. Falta restar el intercepto de 1%. Al incorporar ambos componentes, el anormal es −2%. La referencia debe incorporar todos los términos del modelo antes de compararse con el retorno observado."
+      ]
+    },
+    {
+      "id": "c14-q023",
+      "tema": "14.2 · Rendimiento anormal acumulado",
+      "dificultad": "intermedia",
+      "pregunta": "Los rendimientos anormales diarios son −1%, +4% y +2%. Si el CAR se define como su suma, ¿cuánto vale en esa ventana?",
+      "opciones": [
+        "7%.",
+        "5,02%.",
+        "5%.",
+        "−5%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se convirtió el primer rendimiento negativo en positivo. Debe conservarse el signo de cada día. Los seis puntos positivos se reducen por el punto negativo. La definición de acumulación debe mantenerse consistente durante todo el cálculo y al interpretar el resultado.",
+        "Aproximadamente 5,02% resulta de componer 0,99 × 1,04 × 1,02. Esa es una definición diferente de acumulación. El CAR pedido suma y da 5%. La definición de acumulación debe mantenerse consistente durante todo el cálculo y al interpretar el resultado.",
+        "El CAR especificado es aditivo. Se calcula −1% + 4% + 2% = 5%. No corresponde componer factores porque el enunciado define una suma. La definición de acumulación debe mantenerse consistente durante todo el cálculo y al interpretar el resultado.",
+        "Se invirtió el signo del resultado agregado. Hay seis puntos positivos y uno negativo. El saldo aditivo es positivo por cinco puntos. La definición de acumulación debe mantenerse consistente durante todo el cálculo y al interpretar el resultado."
+      ]
+    },
+    {
+      "id": "c14-q024",
+      "tema": "14.2 · Modelo multifactorial",
+      "dificultad": "avanzada",
+      "pregunta": "Un modelo mensual usa alfa cero y exposiciones al mercado, tamaño y valor de 1, 0,5 y 0,5. Los factores rinden 2%, 4% y −2%, respectivamente, y la acción rinde 6%. ¿Cuál es el rendimiento anormal?",
+      "opciones": [
+        "3%.",
+        "4%.",
+        "1%.",
+        "−3%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El normal es 1 × 2% + 0,5 × 4% + 0,5 × (−2%) = 3%. El observado es 6%. Su diferencia deja un rendimiento anormal positivo de 3%. Cada factor aporta su exposición multiplicada por su rendimiento, conservando los signos correspondientes.",
+        "Se descontó únicamente el mercado. Las exposiciones a tamaño y valor aportan un punto neto adicional a la referencia. Al incluirlo, el rendimiento anormal baja de 4% a 3%. Cada factor aporta su exposición multiplicada por su rendimiento, conservando los signos correspondientes.",
+        "Ese resultado puede surgir al cambiar el signo del factor valor. Su contribución correcta es −1 punto. El rendimiento normal es 3% y no 5%. Cada factor aporta su exposición multiplicada por su rendimiento, conservando los signos correspondientes.",
+        "Se restó el observado del normal. La acción superó la referencia multifactorial. El residual correcto es positivo por tres puntos. Cada factor aporta su exposición multiplicada por su rendimiento, conservando los signos correspondientes."
+      ]
+    },
+    {
+      "id": "c14-q025",
+      "tema": "14.2 · Diseño de estudios de eventos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cómo conviene estimar alfa y beta para analizar el efecto de un anuncio?",
+      "opciones": [
+        "Con los días del anuncio para que su efecto quede incluido en la referencia.",
+        "Con un período previo representativo del funcionamiento normal y separado de la ventana del evento.",
+        "Fijando beta en cero para cualquier empresa.",
+        "Usando tasas anuales y rendimientos diarios sin conversión."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incluir los días afectados vuelve circular la comparación. Parte del efecto que se intenta medir puede pasar al rendimiento normal estimado. Es preferible separar estimación y evento. Una referencia contaminada puede hacer parecer normal parte de lo que en realidad fue causado por el evento.",
+        "La referencia debe describir el rendimiento que habría sido normal sin la noticia. Incluir el evento puede contaminar los parámetros y absorber parte de su impacto. También conviene comprobar que las predicciones sean razonables y que los períodos sean consistentes.",
+        "Beta mide sensibilidad al mercado y puede diferir entre empresas. Imponer cero elimina esa exposición sin evidencia. Los movimientos comunes podrían confundirse con efectos específicos del anuncio. Una referencia contaminada puede hacer parecer normal parte de lo que en realidad fue causado por el evento.",
+        "Las unidades temporales deben ser coherentes. Una tasa anual no se suma directamente a una rentabilidad diaria. Es necesario convertir las tasas o trabajar con observaciones de igual frecuencia. Una referencia contaminada puede hacer parecer normal parte de lo que en realidad fue causado por el evento."
+      ]
+    },
+    {
+      "id": "c14-q026",
+      "tema": "14.2 · Fondos profesionales",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo debe evaluarse el desempeño de un fondo especializado en acciones grandes y de baja beta?",
+      "opciones": [
+        "Solo contra el fondo que más ganó ese año.",
+        "Con su rendimiento bruto, sin importar exposición ni comisiones.",
+        "Como prueba definitiva de habilidad si supera un año al índice general.",
+        "Contra una cartera comparable en riesgo y estilo, considerando gastos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El mejor fondo del año es una referencia seleccionada después de observar resultados. Puede tener un riesgo muy diferente. No permite identificar por sí solo desempeño ajustado de manera justa. La referencia adecuada reproduce la exposición económica que el administrador habría obtenido sin habilidad especial.",
+        "Una mayor rentabilidad bruta puede compensar simplemente mayor riesgo. Además, las comisiones pueden consumir cualquier ventaja. Se necesita comparar retornos netos con una referencia apropiada. La referencia adecuada reproduce la exposición económica que el administrador habría obtenido sin habilidad especial.",
+        "Un solo año admite resultados favorables por azar. También puede reflejar diferencias de estilo. La habilidad requiere evidencia más sólida que una observación aislada. La referencia adecuada reproduce la exposición económica que el administrador habría obtenido sin habilidad especial.",
+        "El índice general puede tener riesgos distintos de los del fondo. Una cartera comparable permite separar exposición y habilidad. Los gastos importan porque reducen lo que recibe el inversionista. La referencia adecuada reproduce la exposición económica que el administrador habría obtenido sin habilidad especial."
+      ]
+    },
+    {
+      "id": "c14-q027",
+      "tema": "14.2 · Comisiones y retorno neto",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo gana 12% bruto y cobra al cierre un gasto equivalente a 2% del capital inicial. Un índice comparable gana 11% y no tiene costos en este ejercicio. ¿Qué retorno neto y diferencia contra el índice obtiene el fondo?",
+      "opciones": [
+        "10% neto y −1 punto porcentual.",
+        "12% neto y +1 punto porcentual.",
+        "10% neto y +1 punto porcentual.",
+        "9,76% neto y −1,24 puntos porcentuales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con $100 iniciales, el fondo llega a $112 antes de gastos. Se descuentan $2 y quedan $110, un retorno neto de 10%. Frente al 11% del índice, pierde un punto porcentual. La comparación neta utiliza el capital inicial como base tanto para los gastos indicados como para el retorno.",
+        "Se omitió el gasto que paga el inversionista. El 12% es un retorno bruto. Después de restar los dos puntos indicados, el fondo queda debajo del índice. La comparación neta utiliza el capital inicial como base tanto para los gastos indicados como para el retorno.",
+        "El retorno neto está bien calculado, pero la comparación tiene el signo invertido. Diez es menor que once. La diferencia fondo menos índice es −1 punto porcentual. La comparación neta utiliza el capital inicial como base tanto para los gastos indicados como para el retorno.",
+        "Ese resultado aplica 2% sobre el saldo final de $112. El enunciado cobra 2% del capital inicial. La base correcta es $100 y el costo es $2. La comparación neta utiliza el capital inicial como base tanto para los gastos indicados como para el retorno."
+      ]
+    },
+    {
+      "id": "c14-q028",
+      "tema": "14.2 · Indexación e información costosa",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué la evidencia favorable a fondos índice no implica que todos deban dejar de investigar precios?",
+      "opciones": [
+        "Porque la indexación garantiza superar cualquier inversión activa antes de gastos.",
+        "Porque los precios incorporan noticias aunque nadie las observe ni opere.",
+        "Porque algunos agentes deben producir información y sus incentivos requieren poder recuperar su costo.",
+        "Porque un mercado eficiente exige que cada inversionista investigue todas las empresas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Indexarse reduce costos y ofrece una exposición diversificada. No garantiza superar a todo administrador activo en cada período. La ventaja esperada debe distinguirse del resultado individual. La indexación puede aprovechar precios informados, pero la producción de esa información requiere incentivos para algunos agentes.",
+        "Los precios responden mediante decisiones de participantes informados. La incorporación de noticias no es automática sin actividad alguna. La indexación depende en parte del trabajo de otros agentes. La indexación puede aprovechar precios informados, pero la producción de esa información requiere incentivos para algunos agentes.",
+        "Investigar y operar ayuda a que las noticias se incorporen a los precios. Si nadie lo hiciera, ese mecanismo perdería fuerza. Con información costosa deben existir incentivos suficientes para obtenerla, aunque muchos inversionistas prefieran indexarse. La indexación puede aprovechar precios informados, pero la producción de esa información requiere incentivos para algunos agentes.",
+        "No todos necesitan investigar todos los títulos. La competencia y las operaciones de algunos pueden informar los precios para muchos. Exigir investigación universal desconoce la división de tareas. La indexación puede aprovechar precios informados, pero la producción de esa información requiere incentivos para algunos agentes."
+      ]
+    },
+    {
+      "id": "c14-q029",
+      "tema": "14.2 · Rachas y selección retrospectiva",
+      "dificultad": "avanzada",
+      "pregunta": "Cada fondo tiene probabilidad independiente de 50% de superar su referencia en cada año. Hay 32 fondos independientes. ¿Cuáles son la probabilidad de que un fondo previamente elegido gane cinco años seguidos y la de que al menos uno de los 32 lo logre?",
+      "opciones": [
+        "50% y 100%.",
+        "3,125% y 3,125%.",
+        "20% y aproximadamente 63,8%.",
+        "3,125% y aproximadamente 63,8%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 50% corresponde a un único año. Cinco éxitos requieren multiplicar probabilidades. Tener 32 fondos aumenta la posibilidad de una racha, pero no la vuelve segura. La probabilidad del ganador elegido retrospectivamente no es la misma que la de un fondo identificado antes.",
+        "La primera cifra es correcta para un fondo específico. La segunda ignora que hay 32 oportunidades de observar la racha. Debe calcularse la probabilidad de que no la logre ninguno y restarla de uno. La probabilidad del ganador elegido retrospectivamente no es la misma que la de un fondo identificado antes.",
+        "Dividir uno por cinco no calcula cinco éxitos consecutivos. Se requiere elevar 1/2 a la quinta potencia. La segunda cifra no corrige ese error en la probabilidad individual. La probabilidad del ganador elegido retrospectivamente no es la misma que la de un fondo identificado antes.",
+        "Para un fondo elegido antes, la probabilidad es (1/2)^5 = 1/32 = 3,125%. Para los 32 se usa el complemento: 1 − (31/32)^32 ≈ 63,8%. Elegir al ganador después de observarlos cambia mucho la fuerza de la evidencia."
+      ]
+    },
+    {
+      "id": "c14-q030",
+      "tema": "14.3 · Hipótesis conjunta",
+      "dificultad": "avanzada",
+      "pregunta": "Una estrategia produce alfa positivo frente al CAPM. ¿Por qué eso no demuestra automáticamente ineficiencia?",
+      "opciones": [
+        "Porque un alfa positivo siempre es un error aritmético.",
+        "Porque puede fallar la eficiencia, el modelo de riesgo o ambos.",
+        "Porque el CAPM mide con certeza todos los riesgos relevantes.",
+        "Porque los rendimientos nunca permiten contrastar ninguna hipótesis."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un alfa positivo puede estimarse correctamente con los datos disponibles. El problema es interpretar qué representa. Puede captar riesgo omitido además de una posible ineficiencia. Un retorno solo se clasifica como extraordinario en relación con una estimación del retorno requerido por su riesgo.",
+        "Para identificar una ganancia anormal hay que definir el rendimiento normal. Esa definición depende de un modelo de valuación. Un rechazo pone a prueba conjuntamente el modelo y la eficiencia. Un retorno solo se clasifica como extraordinario en relación con una estimación del retorno requerido por su riesgo.",
+        "El CAPM es un modelo y puede omitir exposiciones. Tratarlo como una verdad incuestionable elimina indebidamente una explicación alternativa. Debe considerarse si la referencia de riesgo es adecuada. Un retorno solo se clasifica como extraordinario en relación con una estimación del retorno requerido por su riesgo.",
+        "Los rendimientos sí contienen información para contrastar hipótesis. La limitación es que ciertas conclusiones dependen del modelo utilizado. No corresponde pasar de una prueba conjunta a la imposibilidad absoluta de investigar. Un retorno solo se clasifica como extraordinario en relación con una estimación del retorno requerido por su riesgo."
+      ]
+    },
+    {
+      "id": "c14-q031",
+      "tema": "14.3 · Valor fundamental",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción pagará $12 dentro de un año y $132 dentro de dos años, incluyendo entonces dividendo y liquidación final. El rendimiento apropiado es 10% anual. ¿Cuál es su valor fundamental hoy?",
+      "opciones": [
+        "$144.",
+        "$130,91.",
+        "$120.",
+        "$109,09."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $144 suman los pagos nominales. Ignoran que se reciben en fechas futuras. Debe descontarse cada flujo por su plazo. El pago final ya incluye todo lo que queda por recibir y no exige agregar otro valor de reventa.",
+        "Ese valor descuenta ambos pagos como si ocurrieran dentro de un año. El segundo llega un año más tarde. Debe dividirse por 1,10² y no por 1,10. El pago final ya incluye todo lo que queda por recibir y no exige agregar otro valor de reventa.",
+        "El primer flujo vale 12 / 1,10 = $10,91 aproximadamente. El segundo vale 132 / 1,10² = $109,09 aproximadamente. La suma es exactamente $120. El pago final ya incluye todo lo que queda por recibir y no exige agregar otro valor de reventa.",
+        "Esa cifra corresponde solo al segundo flujo descontado. Se omitió el pago del primer año. Agregar su valor presente lleva el total a $120. El pago final ya incluye todo lo que queda por recibir y no exige agregar otro valor de reventa."
+      ]
+    },
+    {
+      "id": "c14-q032",
+      "tema": "14.3 · Efecto tamaño y búsqueda de patrones",
+      "dificultad": "intermedia",
+      "pregunta": "Las acciones pequeñas muestran retornos superiores y el efecto se debilita luego de difundirse. ¿Qué evaluación reconoce las explicaciones relevantes?",
+      "opciones": [
+        "Considerar riesgo omitido, coincidencia por búsqueda de patrones y posible corrección de una ineficiencia.",
+        "Afirmar que las pequeñas siempre son compras seguras.",
+        "Concluir que su mayor retorno bruto prueba por sí solo subvaluación.",
+        "Descartar toda evidencia internacional porque solo importa la primera muestra."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un modelo simple puede no captar riesgos específicos de empresas pequeñas. Muchas búsquedas estadísticas también pueden producir hallazgos casuales. Si hubo subvaluación, la difusión y las operaciones pueden haber reducido la oportunidad. La desaparición posterior del efecto admite varias causas y no identifica de manera única cuál explicación es correcta.",
+        "Tamaño reducido no elimina riesgo. Tampoco garantiza que el patrón histórico continúe. El análisis debe ajustar por riesgo y comprobar su robustez. La desaparición posterior del efecto admite varias causas y no identifica de manera única cuál explicación es correcta.",
+        "Un retorno superior puede ser compensación por un riesgo no medido. También puede responder al azar. La subvaluación es una hipótesis posible, no una conclusión automática. La desaparición posterior del efecto admite varias causas y no identifica de manera única cuál explicación es correcta.",
+        "La evidencia de otros países puede ayudar a evaluar generalidad. No elimina todos los problemas metodológicos, pero sí aporta información. Deben compararse muestras independientes y condiciones de mercado. La desaparición posterior del efecto admite varias causas y no identifica de manera única cuál explicación es correcta."
+      ]
+    },
+    {
+      "id": "c14-q033",
+      "tema": "14.3 · Anomalías de calendario y momentum",
+      "dificultad": "intermedia",
+      "pregunta": "Se detectan retornos distintos en enero, los lunes y ciertos horarios, además de persistencia de ganadores recientes. ¿Qué prueba es necesaria antes de tratarlos como oportunidades?",
+      "opciones": [
+        "Usar únicamente el mayor retorno bruto observado.",
+        "Evaluar estabilidad fuera de muestra, riesgos y rentabilidad después de todos los costos de operar.",
+        "Asumir que cualquier patrón de calendario decide qué fábrica construir.",
+        "Interpretar una autocorrelación positiva como prueba suficiente de beneficios netos seguros."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Elegir el mayor resultado observado favorece la selección retrospectiva. Tampoco informa qué obtiene realmente el inversionista después de costos. Debe probarse una regla definida antes de evaluarla. Una regularidad estadística solo es aprovechable si una estrategia realizable conserva una ventaja después de sus fricciones.",
+        "Los patrones estadísticos pueden desaparecer o resultar costosos de explotar. Las operaciones frecuentes suelen amplificar comisiones y otros costos. Un director corporativo debe además distinguir estos efectos de las decisiones reales de largo plazo. Una regularidad estadística solo es aprovechable si una estrategia realizable conserva una ventaja después de sus fricciones.",
+        "Una regularidad intradiaria no determina la rentabilidad económica de una planta. Las decisiones de inversión dependen de flujos y costo de oportunidad. El vínculo no puede suponerse por la sola existencia del patrón. Una regularidad estadística solo es aprovechable si una estrategia realizable conserva una ventaja después de sus fricciones.",
+        "La correlación mide una relación estadística. No incorpora automáticamente costos, riesgo ni incertidumbre de estimación. Una ventaja neta requiere comprobar esos elementos. Una regularidad estadística solo es aprovechable si una estrategia realizable conserva una ventaja después de sus fricciones."
+      ]
+    },
+    {
+      "id": "c14-q034",
+      "tema": "14.3 · Deriva posterior a utilidades",
+      "dificultad": "intermedia",
+      "pregunta": "Tras anuncios públicos sorpresivos, una cartera con buenas noticias gana 2% mensual y otra con malas noticias gana 1% mensual durante tres meses. Si el ejercicio mide la diferencia entre retornos acumulados compuestos, ¿cuánto supera la primera a la segunda?",
+      "opciones": [
+        "3 puntos porcentuales exactamente.",
+        "1 punto porcentual.",
+        "9 puntos porcentuales.",
+        "3,09 puntos porcentuales aproximadamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Tres puntos resultan de sumar diferencias mensuales. El enunciado pide comparar retornos compuestos. La capitalización eleva levemente la diferencia a unos 3,09 puntos. La diferencia de riquezas finales incorpora que cada cartera reinvierte sus propios rendimientos durante tres meses.",
+        "Un punto es la diferencia de un solo mes. El ejercicio abarca tres meses y capitaliza ambas carteras. Hay que calcular sus riquezas finales antes de comparar. La diferencia de riquezas finales incorpora que cada cartera reinvierte sus propios rendimientos durante tres meses.",
+        "Multiplicar por tres la diferencia trimestral vuelve a contar los períodos. Solo existen tres rendimientos mensuales por cartera. El cálculo compuesto da una diferencia cercana a tres puntos. La diferencia de riquezas finales incorpora que cada cartera reinvierte sus propios rendimientos durante tres meses.",
+        "La primera acumula 1,02³ − 1 = 6,1208%. La segunda acumula 1,01³ − 1 = 3,0301%. La diferencia es 3,0907 puntos, un patrón compatible con reacción gradual si sobrevive al ajuste por riesgo y costos. La diferencia de riquezas finales incorpora que cada cartera reinvierte sus propios rendimientos durante tres meses."
+      ]
+    },
+    {
+      "id": "c14-q035",
+      "tema": "14.3 · Dos etapas de una OPI",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción se coloca a $20, cierra su primer día a $24 y vale $22 un año después, sin dividendos. ¿Qué retornos obtienen quien recibió la colocación y vendió al cierre inicial, y quien compró en ese cierre y mantuvo hasta el año?",
+      "opciones": [
+        "+20% y aproximadamente −8,33%.",
+        "+10% y +10%.",
+        "+20% y −10%.",
+        "+8,33% y −20%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer comprador obtiene (24 − 20) / 20 = 20%. El segundo obtiene (22 − 24) / 24 ≈ −8,33%. La ganancia de la colocación no debe confundirse con el rendimiento de comprar después del salto. El momento de entrada determina qué parte de la evolución del precio efectivamente captura cada inversionista.",
+        "El 10% compara $22 con $20. Ninguno de los dos períodos solicitados usa exactamente esos extremos. Cada inversionista debe calcular sobre su propio precio de entrada. El momento de entrada determina qué parte de la evolución del precio efectivamente captura cada inversionista.",
+        "La ganancia inicial está bien calculada. La pérdida posterior debe dividirse por $24 y no por $20. Esa base correcta arroja aproximadamente −8,33%. El momento de entrada determina qué parte de la evolución del precio efectivamente captura cada inversionista.",
+        "Se intercambiaron porcentajes y signos sin usar las bases correctas. La primera operación gana $4 sobre $20. La segunda pierde $2 sobre $24. El momento de entrada determina qué parte de la evolución del precio efectivamente captura cada inversionista."
+      ]
+    },
+    {
+      "id": "c14-q036",
+      "tema": "14.3 · Referencia para nuevas emisiones",
+      "dificultad": "avanzada",
+      "pregunta": "Una muestra de OPI rinde 7% anual. Empresas comparables solo en tamaño rinden 11%, y comparables en tamaño y razón mercado/libros rinden 9%. ¿Qué brechas resultan y qué enseñan?",
+      "opciones": [
+        "+4 y +2 puntos; las OPI superan ambas referencias.",
+        "−4 y −4 puntos; el estilo no modifica la evaluación.",
+        "−4 y −2 puntos; parte del aparente rezago depende del grupo de comparación.",
+        "−2 y −4 puntos; agregar comparabilidad amplía aquí el rezago."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se invirtió el orden de la resta. Las OPI ganan menos que ambas referencias. Las diferencias correctas son negativas. El grupo de comparación define el retorno normal y puede absorber exposiciones que antes parecían habilidad o anomalía.",
+        "El segundo grupo rinde 9% y no 11%. Su diferencia con 7% es de dos puntos. Ignorar ese cambio pierde justamente el efecto del control adicional. El grupo de comparación define el retorno normal y puede absorber exposiciones que antes parecían habilidad o anomalía.",
+        "Frente a la primera referencia se calcula 7% − 11% = −4 puntos. Frente a la segunda, 7% − 9% = −2 puntos. El cambio muestra que la elección del rendimiento normal afecta el tamaño de la anomalía.",
+        "Se intercambiaron las referencias. El ajuste más completo reduce aquí el rezago observado. No lo amplía ni demuestra por sí solo que desaparezca toda anomalía. El grupo de comparación define el retorno normal y puede absorber exposiciones que antes parecían habilidad o anomalía."
+      ]
+    },
+    {
+      "id": "c14-q037",
+      "tema": "14.3 · Impuestos y nuevas emisiones",
+      "dificultad": "avanzada",
+      "pregunta": "En un ejercicio hipotético, vender acciones perdedoras permite usar pérdidas fiscales, mientras conservar ganadoras posterga el impuesto sobre sus ganancias. ¿Qué implica al evaluar el bajo retorno bruto de una cartera de OPI?",
+      "opciones": [
+        "Los impuestos vuelven irrelevante cualquier riesgo de quiebra.",
+        "Un retorno bruto inferior demuestra necesariamente un retorno neto inferior.",
+        "Las pérdidas contables garantizan una transferencia inmediata igual al monto perdido.",
+        "Los beneficios fiscales pueden compensar parte del menor retorno antes de impuestos y deben incorporarse."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El tratamiento fiscal no elimina la pérdida económica ni el riesgo del activo. Una empresa puede fracasar y destruir capital. Deben evaluarse tanto flujos después de impuestos como riesgos. Un beneficio tributario debe medirse después de considerar su monto utilizable y el momento en que se obtiene.",
+        "Dos carteras pueden tener distintas consecuencias tributarias. La comparación bruta puede no conservarse después de impuestos. Se necesitan los flujos netos pertinentes al inversionista. Un beneficio tributario debe medirse después de considerar su monto utilizable y el momento en que se obtiene.",
+        "Una pérdida deducible no equivale a recuperar todo lo perdido. El ahorro depende de la tasa, de su utilización y del momento. El caso no autoriza asumir un reembolso integral e inmediato. Un beneficio tributario debe medirse después de considerar su monto utilizable y el momento en que se obtiene.",
+        "El rendimiento económico del inversionista depende también de los impuestos. Realizar pérdidas y diferir ganancias puede generar ventajas fiscales bajo los supuestos planteados. Eso puede reducir la desventaja neta sin garantizar eliminarla. Un beneficio tributario debe medirse después de considerar su monto utilizable y el momento en que se obtiene."
+      ]
+    },
+    {
+      "id": "c14-q038",
+      "tema": "14.3 · Valores gemelos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos sociedades comparten el mismo flujo de efectivo total: A recibe 80% y B recibe 20%. Con iguales riesgos y tratamiento, el valor total de B es $600 millones. ¿Qué valor total de A respeta la paridad?",
+      "opciones": [
+        "$600 millones.",
+        "$2.400 millones.",
+        "$480 millones.",
+        "$3.000 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Igualar los valores omite que A tiene derechos cuatro veces mayores. B representa solo una quinta parte del flujo combinado. Bajo los supuestos, el valor de A debe ser cuatro veces $600 millones. La comparación exige que los derechos sobre el mismo flujo se midan en proporciones equivalentes.",
+        "La proporción de derechos de A respecto de B es 80/20 = 4. Su valor total debe ser 4 × $600 millones = $2.400 millones. La paridad se refiere a valores agregados y no directamente a precios por acción cuando las cantidades de acciones difieren.",
+        "Los $480 millones surgen de aplicar 80% al valor de B. Esa base representa solo 20% del flujo total. Primero hay que inferir el valor combinado de $3.000 millones y luego tomar su 80%. La comparación exige que los derechos sobre el mismo flujo se midan en proporciones equivalentes.",
+        "Los $3.000 millones son el valor de ambas sociedades en conjunto. A tiene derechos sobre 80% de ese monto. Por eso su valor total es $2.400 millones. La comparación exige que los derechos sobre el mismo flujo se midan en proporciones equivalentes."
+      ]
+    },
+    {
+      "id": "c14-q039",
+      "tema": "14.3 · Burbujas y pérdidas acumuladas",
+      "dificultad": "intermedia",
+      "pregunta": "Un índice pasa de 100 a 400 y luego pierde 75% desde su máximo. ¿Cuál es el nivel final y qué retorno necesita desde allí para volver al máximo?",
+      "opciones": [
+        "100 y +75%.",
+        "300 y +33,33%.",
+        "100 y +300%.",
+        "25 y +1.500%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El nivel final es correcto. Recuperar 75% sobre 100 solo lleva a 175. Para volver a 400 se necesita multiplicar el capital por cuatro. El porcentaje de recuperación se calcula desde el mínimo posterior, que es una base menor que el máximo.",
+        "Se restaron 100 puntos en vez de perder 75% del máximo. El descenso correcto es de 300 puntos. Por eso el nivel final es 100 y no 300. El porcentaje de recuperación se calcula desde el mínimo posterior, que es una base menor que el máximo.",
+        "La caída deja 400 × 0,25 = 100. Para regresar a 400 hay que ganar (400 − 100) / 100 = 300%. Caídas y recuperaciones usan bases distintas. El porcentaje de recuperación se calcula desde el mínimo posterior, que es una base menor que el máximo.",
+        "Se aplicó la caída al nivel inicial de 100. El enunciado indica que se calcula desde 400. La pérdida devuelve el índice a 100 y no a 25. El porcentaje de recuperación se calcula desde el mínimo posterior, que es una base menor que el máximo."
+      ]
+    },
+    {
+      "id": "c14-q040",
+      "tema": "14.3 · Crecimiento constante",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa madura pagará un dividendo por acción de $6 dentro de un año. Se espera crecimiento perpetuo de 4% y se exige 10% anual. ¿Cuál es el valor según crecimiento constante?",
+      "opciones": [
+        "$100.",
+        "$60.",
+        "$150.",
+        "$104."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La fórmula usa el próximo dividendo dividido por r menos g. Se calcula 6 / (0,10 − 0,04) = $100. El supuesto exige crecimiento constante sostenible y una tasa requerida mayor que el crecimiento. La condición r mayor que g permite que la suma de dividendos descontados converja a un valor finito.",
+        "Dividir el dividendo solo por r corresponde a una perpetuidad sin crecimiento. El caso informa crecimiento de 4%. Debe restarse g de la tasa requerida. La condición r mayor que g permite que la suma de dividendos descontados converja a un valor finito.",
+        "Ese importe usa 4% como denominador. La tasa de crecimiento no es la tasa de capitalización pertinente. El denominador correcto es 10% menos 4%, igual a 6%. La condición r mayor que g permite que la suma de dividendos descontados converja a un valor finito.",
+        "Se incrementó otra vez el dividendo informado. Los $6 ya corresponden al próximo año. Multiplicarlos por 1,04 cuenta dos veces el crecimiento inicial. La condición r mayor que g permite que la suma de dividendos descontados converja a un valor finito."
+      ]
+    },
+    {
+      "id": "c14-q041",
+      "tema": "14.3 · Sensibilidad de la valuación",
+      "dificultad": "avanzada",
+      "pregunta": "El próximo dividendo es $6 y el rendimiento requerido 10%. Si el crecimiento perpetuo esperado baja de 4% a 2%, manteniendo ese dividendo, ¿cómo cambia el valor por acción?",
+      "opciones": [
+        "De $100 a $98, una caída de 2%.",
+        "De $100 a $75, una caída de 25%.",
+        "De $150 a $75, una caída de 50%.",
+        "De $100 a $80, una caída de 20%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se confundieron puntos de crecimiento con porcentaje de precio. El crecimiento aparece dentro del denominador de una perpetuidad. Su impacto sobre el valor no es lineal ni igual a dos puntos porcentuales. La diferencia entre rendimiento requerido y crecimiento cambia de seis a ocho puntos y modifica la capitalización.",
+        "El valor inicial es 6 / (0,10 − 0,04) = $100. El nuevo es 6 / (0,10 − 0,02) = $75. La pérdida de $25 representa 25%, mostrando la sensibilidad de una perpetuidad a pequeños cambios de supuestos.",
+        "El valor inicial no es $150. Con las tasas indicadas, el denominador inicial es 6%. La comparación correcta parte de $100. La diferencia entre rendimiento requerido y crecimiento cambia de seis a ocho puntos y modifica la capitalización.",
+        "El precio nuevo no surge de restar proporcionalmente el cambio de crecimiento. Debe recalcularse el valor presente con un denominador de 8%. Eso da $75 y una caída de 25%. La diferencia entre rendimiento requerido y crecimiento cambia de seis a ocho puntos y modifica la capitalización."
+      ]
+    },
+    {
+      "id": "c14-q042",
+      "tema": "14.3 · Eficiencia relativa y absoluta",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista puede comparar bien dos empresas semejantes, pero no demostrar con precisión si todo el mercado está sobrevaluado. ¿Qué distinción explica esta dificultad?",
+      "opciones": [
+        "La ausencia de arbitraje demuestra que todos los precios son exactamente correctos.",
+        "El valor en libros siempre determina mejor el valor económico porque es estable.",
+        "Toda caída amplia prueba irracionalidad, cualquiera sea el cambio de expectativas.",
+        "La eficiencia de precios relativos es más verificable que la exactitud absoluta de todos los valores fundamentales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "No encontrar una operación rentable puede reflejar costos y riesgos. Tampoco asegura conocer exactamente los flujos futuros. La conclusión sobre valores absolutos es más fuerte que la evidencia disponible. Las comparaciones relativas pueden ser útiles aunque la estimación del nivel fundamental siga siendo imprecisa.",
+        "La estabilidad contable no garantiza relevancia económica. Los precios incorporan expectativas sobre flujos y riesgos que el balance puede no capturar. Un valor menos variable puede simplemente actualizarse con menor frecuencia. Las comparaciones relativas pueden ser útiles aunque la estimación del nivel fundamental siga siendo imprecisa.",
+        "Una caída puede reflejar menores flujos esperados o mayor rendimiento requerido. La magnitud sola no identifica la causa. Es necesario evaluar qué cambió en los fundamentos y en las expectativas. Las comparaciones relativas pueden ser útiles aunque la estimación del nivel fundamental siga siendo imprecisa.",
+        "Comparar activos semejantes requiere menos supuestos que estimar todos sus flujos desde cero. Pequeños cambios en crecimiento o descuento pueden alterar mucho el nivel de valuación. Por eso la ausencia de ganancias fáciles no verifica con precisión el valor absoluto del mercado."
+      ]
+    },
+    {
+      "id": "c14-q043",
+      "tema": "14.4 · Arbitraje y convergencia",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia al arbitraje estricto de muchas operaciones llamadas de convergencia?",
+      "opciones": [
+        "El arbitraje estricto garantiza una ganancia sin riesgo; la convergencia puede fallar o exigir esperar soportando pérdidas.",
+        "Ambos garantizan ganancias inmediatas sin costos.",
+        "La convergencia exige comprar lo caro y vender lo barato.",
+        "El arbitraje estricto consiste en aceptar cualquier riesgo por una rentabilidad elevada."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El arbitraje estricto se define por una ganancia asegurada sin riesgo. En el uso práctico, muchas operaciones dependen de que una diferencia de precios se cierre. Esa espera puede implicar costos, incertidumbre y pérdidas intermedias. Una estrategia que depende de esperar una corrección futura no debe tratarse como si sus pagos estuvieran garantizados.",
+        "Las operaciones de convergencia pueden enfrentar diferencias crecientes y costos de financiación. No garantizan un cobro inmediato. Llamarlas arbitraje no elimina esas contingencias. Una estrategia que depende de esperar una corrección futura no debe tratarse como si sus pagos estuvieran garantizados.",
+        "La estrategia habitual compra lo relativamente barato y vende lo relativamente caro. Se beneficia si la diferencia disminuye. Hacer lo opuesto apuesta a una separación mayor. Una estrategia que depende de esperar una corrección futura no debe tratarse como si sus pagos estuvieran garantizados.",
+        "Una rentabilidad esperada alta no basta para definir arbitraje. El rasgo estricto es la ausencia de riesgo de pérdida. Las apuestas riesgosas deben evaluarse como tales. Una estrategia que depende de esperar una corrección futura no debe tratarse como si sus pagos estuvieran garantizados."
+      ]
+    },
+    {
+      "id": "c14-q044",
+      "tema": "14.4 · Venta en corto rentable",
+      "dificultad": "intermedia",
+      "pregunta": "Se venden en corto 100 acciones a $50 y se recompran a $42. Los costos totales son $100 y no hay dividendos ni otros cargos. ¿Cuál es la ganancia neta?",
+      "opciones": [
+        "$800.",
+        "$900.",
+        "$700.",
+        "−$700."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $800 son el resultado antes de costos. El caso exige una ganancia neta. Restar los $100 informados deja $700. En una posición corta se vende primero y se recompra después para devolver las acciones prestadas.",
+        "Se sumaron los costos a la ganancia. Son pagos que reducen el resultado del vendedor en corto. Deben restarse de los $800 brutos. En una posición corta se vende primero y se recompra después para devolver las acciones prestadas.",
+        "La venta genera 100 × 50 = $5.000. Recomprar cuesta 100 × 42 = $4.200, de modo que la ganancia bruta es $800. Después de $100 de costos quedan $700. En una posición corta se vende primero y se recompra después para devolver las acciones prestadas.",
+        "Se usó el signo propio de una posición comprada. Una venta en corto gana cuando baja la cotización. La diferencia favorable, después de costos, es $700. En una posición corta se vende primero y se recompra después para devolver las acciones prestadas."
+      ]
+    },
+    {
+      "id": "c14-q045",
+      "tema": "14.4 · Riesgo de vender en corto",
+      "dificultad": "intermedia",
+      "pregunta": "Se venden en corto 100 acciones a $50 y se recompran a $65. Los costos son $100 y no hay otros cargos. ¿Cuál es el resultado neto?",
+      "opciones": [
+        "+$1.400.",
+        "−$1.400.",
+        "−$1.500.",
+        "−$1.600."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El aumento perjudica al vendedor en corto. Debe recomprar más caro de lo que vendió. No hay una ganancia que pueda reducirse a $1.400. El riesgo de una venta corta crece si el precio sigue subiendo antes de poder cerrar la posición.",
+        "Se descontó el costo de la magnitud de la pérdida. Un costo adicional aumenta la pérdida económica. El resultado neto es −1.500 − 100 = −$1.600. El riesgo de una venta corta crece si el precio sigue subiendo antes de poder cerrar la posición.",
+        "Los $1.500 omiten el cargo informado. Representan solamente la diferencia entre venta y recompra. Agregar los costos lleva la pérdida total a $1.600. El riesgo de una venta corta crece si el precio sigue subiendo antes de poder cerrar la posición.",
+        "Se reciben $5.000 al vender y se pagan $6.500 al recomprar. La pérdida bruta es $1.500. Los costos adicionales la elevan a $1.600, mostrando el riesgo de una suba mientras se mantiene el corto. El riesgo de una venta corta crece si el precio sigue subiendo antes de poder cerrar la posición."
+      ]
+    },
+    {
+      "id": "c14-q046",
+      "tema": "14.4 · Restricciones al arbitraje",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo identifica un título caro, pero no consigue acciones prestadas y sus inversores pueden retirar capital ante pérdidas transitorias. ¿Qué consecuencia es razonable?",
+      "opciones": [
+        "La detección del error garantiza su corrección inmediata.",
+        "El desalineamiento puede persistir porque vender en corto y sostener la posición no siempre es viable.",
+        "Pedir garantías elimina el riesgo económico de la operación.",
+        "Conocer la paridad garantiza que los precios converjan antes de cualquier retiro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Detectar una diferencia no equivale a poder negociarla. Existen costos, restricciones y riesgos de financiación. Por eso la fuerza correctora del arbitraje puede ser limitada. Una valoración teórica correcta no reemplaza los recursos necesarios para ejecutar y mantener la operación.",
+        "Para explotar una sobrevaluación puede ser necesario tomar títulos prestados. La falta de préstamo y las restricciones de capital limitan esa operación. Incluso una tesis correcta puede sufrir una divergencia mayor antes de que los precios converjan. Una valoración teórica correcta no reemplaza los recursos necesarios para ejecutar y mantener la operación.",
+        "Las garantías protegen al prestamista, no eliminan el riesgo de quien vende en corto. Una suba puede exigir aportar más recursos. Esa exigencia puede forzar el cierre con pérdidas. Una valoración teórica correcta no reemplaza los recursos necesarios para ejecutar y mantener la operación.",
+        "La paridad teórica no fija una fecha de convergencia. Los inversores pueden retirar recursos antes de su cumplimiento. La capacidad de esperar es parte esencial del riesgo. Una valoración teórica correcta no reemplaza los recursos necesarios para ejecutar y mantener la operación."
+      ]
+    },
+    {
+      "id": "c14-q047",
+      "tema": "14.4 · Crisis de convergencia",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué enseñanza deja un fondo como LTCM, con grandes posiciones de convergencia que sufren divergencias abruptas durante una crisis?",
+      "opciones": [
+        "La formación especializada garantiza que no habrá pérdidas.",
+        "Una diferencia mayor siempre permite ampliar posiciones sin límite.",
+        "Una expectativa razonable de convergencia no asegura sobrevivir a pérdidas y necesidades de liquidez intermedias.",
+        "La intervención de acreedores convierte retrospectivamente la operación en un arbitraje sin riesgo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El conocimiento no controla todos los cambios de mercado. Una crisis puede modificar correlaciones y disponibilidad de fondos. La competencia profesional no elimina las restricciones de capital. La capacidad de financiar la espera determina si puede capturarse una convergencia que finalmente resulte correcta.",
+        "Aumentar posiciones exige financiación y capacidad de soportar pérdidas adicionales. Esos recursos no son infinitos. Una divergencia mayor puede provocar cierre forzado en vez de una oportunidad aprovechable. La capacidad de financiar la espera determina si puede capturarse una convergencia que finalmente resulte correcta.",
+        "Las discrepancias pueden ampliarse antes de cerrarse. Posiciones grandes y recursos limitados pueden destruir el capital antes de la convergencia esperada. La solvencia y la liquidez durante la espera son tan importantes como la paridad final. La capacidad de financiar la espera determina si puede capturarse una convergencia que finalmente resulte correcta.",
+        "Una reorganización busca administrar pérdidas y obligaciones existentes. No elimina el riesgo que soportaron los participantes. El desenlace confirma que la operación no tenía una ganancia asegurada. La capacidad de financiar la espera determina si puede capturarse una convergencia que finalmente resulte correcta."
+      ]
+    },
+    {
+      "id": "c14-q048",
+      "tema": "14.4 · Teoría de las perspectivas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué rasgo distingue la teoría de las perspectivas de un enfoque que solo considera riqueza actual y oportunidades futuras?",
+      "opciones": [
+        "Importan las ganancias o pérdidas respecto de un punto de referencia y existe especial aversión a perder.",
+        "Solo importa el nivel absoluto de riqueza, sin referencia alguna.",
+        "Toda pérdida monetaria se disfruta igual que una ganancia de igual tamaño.",
+        "Los inversionistas siempre prefieren cualquier apuesta al cobro seguro."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El resultado se evalúa respecto de una referencia, como el precio de compra o una revisión previa. Una pérdida puede pesar más que una ganancia de igual magnitud. Por eso dos personas con la misma riqueza actual pueden evaluar distinto una oportunidad.",
+        "Ese es justamente el tipo de descripción que omite la dependencia del punto de referencia. La teoría incorpora cómo se llegó a la posición actual. El historial puede modificar la percepción de ganancias y pérdidas. El punto de referencia puede ser el costo de compra o una evaluación anterior de la tenencia.",
+        "La aversión a perder implica una asimetría de valoración. No equipara placer y dolor de igual monto. La compensación exigida para aceptar una posible pérdida puede ser elevada. El punto de referencia puede ser el costo de compra o una evaluación anterior de la tenencia.",
+        "La teoría no afirma una preferencia universal por apostar. La actitud depende del contexto y de cómo se presentan ganancias y pérdidas. No permite elegir cualquier riesgo sin comparar consecuencias. El punto de referencia puede ser el costo de compra o una evaluación anterior de la tenencia."
+      ]
+    },
+    {
+      "id": "c14-q049",
+      "tema": "14.4 · Resultados previos y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Dos inversoras tienen hoy igual patrimonio y enfrentan la misma inversión. Una viene de pérdidas y la otra de ganancias inesperadas; la primera teme otra caída y la segunda acepta más riesgo. ¿Qué interpretación corresponde?",
+      "opciones": [
+        "La segunda necesariamente posee mayor riqueza actual.",
+        "Los resultados anteriores pueden modificar la percepción del riesgo aunque la riqueza actual coincida.",
+        "La primera demuestra que la inversión tiene menor rendimiento esperado para todos.",
+        "La diferencia de actitud prueba por sí sola que los precios del mercado son incorrectos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El caso establece igualdad patrimonial actual. El contraste está en la trayectoria previa. Cambiar ese dato evita analizar el mecanismo conductual planteado. La valoración psicológica puede diferir aunque los flujos disponibles y el patrimonio presente sean los mismos.",
+        "Las actitudes pueden depender del punto de referencia y de la experiencia reciente. Después de pérdidas puede aumentar la preocupación por perder otra vez, mientras ganancias previas pueden dar margen psicológico. La igualdad de riqueza no obliga a idénticas preferencias observadas.",
+        "La preocupación de una inversora no modifica automáticamente los flujos del activo. Puede reflejar cómo evalúa una misma distribución de resultados. Deben separarse preferencias personales y rendimiento esperado. La valoración psicológica puede diferir aunque los flujos disponibles y el patrimonio presente sean los mismos.",
+        "Una diferencia de conducta individual no determina el precio agregado. Otros agentes y operaciones pueden compensarla. Para explicar una desviación persistente también deben considerarse los límites al arbitraje. La valoración psicológica puede diferir aunque los flujos disponibles y el patrimonio presente sean los mismos."
+      ]
+    },
+    {
+      "id": "c14-q050",
+      "tema": "14.4 · Representatividad",
+      "dificultad": "basica",
+      "pregunta": "Un inversionista concluye que una administradora tiene habilidad excepcional porque ganó tres años seguidos, sin estudiar cuántos fondos competían. ¿Qué sesgo aparece?",
+      "opciones": [
+        "Actualizar completamente y sin error todas las probabilidades.",
+        "Reconocer correctamente que una racha breve elimina la posibilidad de azar.",
+        "Negarse a considerar cualquier dato reciente.",
+        "Dar demasiado peso a una muestra reciente pequeña como si representara capacidad permanente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La inferencia omite la cantidad de oportunidades de observar una racha. Tampoco distingue suerte de riesgo asumido. No constituye una actualización completa de probabilidades. Una evaluación más sólida compara la racha con su probabilidad y con la cantidad de fondos observados.",
+        "Una racha breve puede ocurrir por azar. Su interpretación depende de cuántos participantes se observaron. La posibilidad de suerte no desaparece por tres éxitos. Una evaluación más sólida compara la racha con su probabilidad y con la cantidad de fondos observados.",
+        "El inversionista sí está usando datos recientes. Su error es asignarles demasiado peso. Ignorarlos por completo sería una conducta diferente. Una evaluación más sólida compara la racha con su probabilidad y con la cantidad de fondos observados.",
+        "Tres observaciones pueden ser insuficientes para identificar habilidad. Entre muchos fondos pueden aparecer rachas afortunadas. Generalizar desde pocos éxitos recientes exagera su representatividad. Una evaluación más sólida compara la racha con su probabilidad y con la cantidad de fondos observados."
+      ]
+    },
+    {
+      "id": "c14-q051",
+      "tema": "14.4 · Conservadurismo y reacción gradual",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa publica ganancias inesperadamente altas, pero los inversionistas revisan sus estimaciones solo parcialmente y siguen ajustándolas durante meses. ¿Qué explicación conductual encaja mejor?",
+      "opciones": [
+        "Conservadurismo: actualización insuficiente de creencias ante evidencia nueva.",
+        "Confianza excesiva: revisión necesariamente completa en el instante inicial.",
+        "Aversión a las pérdidas: conocimiento perfecto del valor futuro.",
+        "Representatividad: ausencia absoluta de uso de información reciente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El conservadurismo describe una actualización demasiado lenta o pequeña. La dirección puede ser correcta, pero la magnitud inicial insuficiente. Ese mecanismo puede ayudar a explicar una deriva posterior a anuncios de utilidades. El mecanismo propuesto combina una primera revisión en la dirección correcta con ajustes adicionales demasiado tardíos.",
+        "La confianza excesiva se refiere a sobreestimar la capacidad o precisión propias. No exige una actualización completa. El caso describe específicamente una respuesta insuficiente a datos nuevos. El mecanismo propuesto combina una primera revisión en la dirección correcta con ajustes adicionales demasiado tardíos.",
+        "La aversión a perder trata de cómo se valoran resultados respecto de una referencia. No proporciona conocimiento perfecto. Tampoco describe directamente la lentitud de la revisión informativa. El mecanismo propuesto combina una primera revisión en la dirección correcta con ajustes adicionales demasiado tardíos.",
+        "La representatividad puede llevar a exagerar evidencia reciente. Aquí sí se usa la noticia, pero se incorpora parcialmente. Negar todo uso de información no coincide con el caso. El mecanismo propuesto combina una primera revisión en la dirección correcta con ajustes adicionales demasiado tardíos."
+      ]
+    },
+    {
+      "id": "c14-q052",
+      "tema": "14.4 · Confianza excesiva",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conducta refleja confianza excesiva al evaluar inversiones?",
+      "opciones": [
+        "Reconocer intervalos amplios de incertidumbre cuando la evidencia es débil.",
+        "Reducir la certeza de una proyección al aparecer datos contradictorios.",
+        "Sobreestimar la precisión propia y subestimar la probabilidad de escenarios desfavorables.",
+        "Comparar las predicciones con su frecuencia histórica de acierto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Reconocer incertidumbre es compatible con una evaluación prudente. No implica inflar la capacidad predictiva. El sesgo aparece al mostrar una certeza injustificadamente alta. Una proyección muy segura necesita respaldo empírico y no solo la convicción subjetiva de quien la formula.",
+        "Revisar la confianza ante contradicciones es una respuesta informativa razonable. La confianza excesiva puede dificultar ese ajuste. El caso propuesto describe el comportamiento correctivo. Una proyección muy segura necesita respaldo empírico y no solo la convicción subjetiva de quien la formula.",
+        "La confianza excesiva lleva a creer que el juicio propio es más certero de lo que permite la evidencia. Puede aumentar las operaciones y reducir la atención a riesgos. Dos operadores pueden estar convencidos de aventajar al otro sin que ambos posean esa capacidad.",
+        "Contrastar pronósticos con resultados ayuda a calibrarlos. No implica suponer superioridad sin evidencia. Puede revelar justamente que la seguridad subjetiva era exagerada. Una proyección muy segura necesita respaldo empírico y no solo la convicción subjetiva de quien la formula."
+      ]
+    },
+    {
+      "id": "c14-q053",
+      "tema": "14.4 · Predicción y explicación retrospectiva",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué exigiría una prueba convincente de una explicación conductual de una anomalía?",
+      "opciones": [
+        "Elegir después el sesgo que mejor describa cada movimiento.",
+        "Suponer que cualquier conducta irracional individual prueba una ganancia fácil.",
+        "Aceptar una explicación distinta para cada observación sin posibilidad de refutación.",
+        "Predicciones específicas formuladas antes de los resultados y contrastadas con datos independientes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Encontrar una historia después de observar el precio es relativamente fácil. Distintos sesgos pueden producir relatos opuestos. Sin una predicción previa, la evidencia aporta poca capacidad de discriminación. Identificar antes los resultados esperados permite distinguir una teoría predictiva de una historia acomodada a los datos.",
+        "Un error individual puede ser compensado por otros participantes. Además, explotar un precio incorrecto puede ser riesgoso o costoso. La irracionalidad no garantiza una oportunidad neta aprovechable. Identificar antes los resultados esperados permite distinguir una teoría predictiva de una historia acomodada a los datos.",
+        "Una teoría compatible con cualquier resultado no permite una prueba informativa. Es necesario precisar qué resultados la contradicen. La flexibilidad narrativa no reemplaza evidencia predictiva. Identificar antes los resultados esperados permite distinguir una teoría predictiva de una historia acomodada a los datos.",
+        "Una explicación útil debe poder fallar ante evidencia. Formular predicciones previas reduce la selección retrospectiva de sesgos. También hay que justificar por qué el arbitraje no elimina el efecto agregado. Identificar antes los resultados esperados permite distinguir una teoría predictiva de una historia acomodada a los datos."
+      ]
+    },
+    {
+      "id": "c14-q054",
+      "tema": "14.5 · Lección 1: ausencia de memoria",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora quiere postergar una emisión porque la acción cayó recientemente y espera un rebote por ese solo motivo. ¿Qué objeción corresponde bajo eficiencia débil?",
+      "opciones": [
+        "Toda caída garantiza otra caída del mismo tamaño.",
+        "La caída pasada no basta para predecir el rebote; hay que atender necesidades y datos actuales.",
+        "El precio histórico máximo determina el valor justo presente.",
+        "La caída demuestra que cualquier emisión actual destruye valor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa afirmación reemplaza una regla infundada por otra. La forma débil no garantiza ni rebote ni continuación. El pasado ya debería estar incorporado en el precio. Una información específica nueva podría justificar otra decisión, pero el precio anterior por sí solo no la proporciona.",
+        "El historial por sí solo no identifica una recuperación futura extraordinaria. Esperar puede retrasar financiamiento necesario sin una ventaja informativa. Una decisión distinta podría justificarse por información actual específica, no por la mera caída. Una información específica nueva podría justificar otra decisión, pero el precio anterior por sí solo no la proporciona.",
+        "Un máximo anterior puede reflejar expectativas distintas. No es una promesa de recuperación ni una medida definitiva del valor actual. Los flujos y riesgos relevantes pueden haber cambiado. Una información específica nueva podría justificar otra decisión, pero el precio anterior por sí solo no la proporciona.",
+        "Una cotización menor no implica automáticamente subvaluación. Puede reflejar nueva información económica. El efecto de emitir depende del valor actual, del uso de fondos y de las condiciones de la operación. Una información específica nueva podría justificar otra decisión, pero el precio anterior por sí solo no la proporciona."
+      ]
+    },
+    {
+      "id": "c14-q055",
+      "tema": "14.5 · Sorpresa frente a expectativas",
+      "dificultad": "basica",
+      "pregunta": "Una empresa anuncia un aumento importante de utilidades, pero menor al que ya esperaban los inversionistas. Sin otras novedades, ¿qué reacción es coherente con eficiencia semifuerte?",
+      "opciones": [
+        "Una suba obligatoria porque las utilidades crecieron.",
+        "Un precio necesariamente fijo porque el resultado sigue siendo positivo.",
+        "Una caída del precio por la sorpresa desfavorable respecto de lo esperado.",
+        "Una reacción determinada solo por el rendimiento de la acción del día anterior."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La comparación relevante es contra lo que el mercado esperaba. Un crecimiento positivo puede resultar decepcionante. La dirección del cambio de utilidades no determina por sí sola el signo de la sorpresa. El anuncio se evalúa contra las expectativas incorporadas en la cotización y no solo contra el pasado contable.",
+        "Un nivel positivo de utilidades no elimina novedades sobre su trayectoria. Una revisión de expectativas puede modificar el valor presente. La eficiencia requiere reaccionar al contenido nuevo del anuncio. El anuncio se evalúa contra las expectativas incorporadas en la cotización y no solo contra el pasado contable.",
+        "El precio previo incorpora expectativas y no únicamente el resultado del año pasado. Un crecimiento menor al anticipado reduce la información favorable frente a esa referencia. Por eso puede caer la cotización aun cuando las utilidades hayan aumentado.",
+        "El retorno previo no determina la interpretación económica del anuncio. La forma débil tampoco atribuye ese poder a una variación pasada. La sorpresa depende de expectativas anteriores y resultados publicados. El anuncio se evalúa contra las expectativas incorporadas en la cotización y no solo contra el pasado contable."
+      ]
+    },
+    {
+      "id": "c14-q056",
+      "tema": "14.5 · Lección 2: confiar en precios",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía quiere adquirir otra solo porque su director cree, usando datos públicos, que sus acciones están baratas. No identifica sinergias ni ventaja informativa. ¿Cuál es la evaluación inicial más razonable?",
+      "opciones": [
+        "El precio de mercado es una referencia exigente y los costos de adquisición pueden volver negativo el VPN.",
+        "Una opinión personal de subvaluación garantiza rentas para el comprador.",
+        "Comprar una empresa siempre crea más valor que comprar algunas de sus acciones.",
+        "Si la compra resulta rentable después, queda probada la habilidad previa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio resume la evaluación conjunta de muchos participantes. Sin una ventaja identificable no cabe presumir que el director sabe más que ese conjunto. Además, primas y costos de adquisición pueden consumir o superar una oportunidad incierta. La adquisición necesita una fuente identificable de valor que supere primas, gastos y riesgos de ejecución.",
+        "Creer que existe subvaluación no equivale a demostrarla. Otros participantes también analizan los datos públicos. Se necesita una razón concreta para esperar una ventaja económica. La adquisición necesita una fuente identificable de valor que supere primas, gastos y riesgos de ejecución.",
+        "Adquirir el control puede implicar costos adicionales. Sin sinergias ni beneficios específicos, no aparece valor por el mero tamaño de la compra. Debe justificarse la diferencia frente a una inversión financiera ordinaria. La adquisición necesita una fuente identificable de valor que supere primas, gastos y riesgos de ejecución.",
+        "Un resultado favorable aislado puede deberse al azar. Evaluar habilidad requiere comparar decisiones con la información disponible al tomarlas. El éxito posterior no valida automáticamente la tesis inicial. La adquisición necesita una fuente identificable de valor que supere primas, gastos y riesgos de ejecución."
+      ]
+    },
+    {
+      "id": "c14-q057",
+      "tema": "14.5 · Lección 3: información de precios",
+      "dificultad": "intermedia",
+      "pregunta": "Los bonos de una empresa ofrecen mucho más rendimiento que bonos comparables y la curva de tasas de mercado tiene pendiente positiva. ¿Qué lectura es razonable?",
+      "opciones": [
+        "El rendimiento alto asegura mayor ganancia sin mayor riesgo de incumplimiento.",
+        "El diferencial puede señalar problemas de crédito, y la pendiente aporta información sobre tasas futuras y primas de plazo.",
+        "La curva ascendente garantiza que cada tasa corta futura será mayor.",
+        "Las cotizaciones no aportan información útil si ya existen estados contables."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El rendimiento prometido no siempre se cobra. Un diferencial elevado puede ser una señal de riesgo. No debe interpretarse automáticamente como una oportunidad libre de peligro. Los precios son señales para investigar perspectivas y riesgos, no promesas de que un escenario ocurrirá con certeza.",
+        "Un rendimiento alto puede compensar mayor probabilidad de incumplimiento u otros riesgos. La estructura de plazos también resume expectativas, aunque puede incluir primas por plazo. Los precios complementan el análisis contable sin ofrecer certezas sobre cada resultado futuro.",
+        "Una curva resume valoraciones y expectativas actuales. Las primas de plazo y las sorpresas impiden convertirla en una garantía. La tasa futura realizada puede diferir de lo que hoy se anticipa. Los precios son señales para investigar perspectivas y riesgos, no promesas de que un escenario ocurrirá con certeza.",
+        "Los estados contables y los precios aportan perspectivas diferentes. Las cotizaciones pueden incorporar noticias y expectativas más recientes. Ignorarlas elimina información potencialmente útil para la gestión. Los precios son señales para investigar perspectivas y riesgos, no promesas de que un escenario ocurrirá con certeza."
+      ]
+    },
+    {
+      "id": "c14-q058",
+      "tema": "14.5 · Lectura de una fusión",
+      "dificultad": "avanzada",
+      "pregunta": "Antes de un anuncio, el comprador vale $1.000 millones y la empresa objetivo $500 millones. En la ventana del evento sus rendimientos anormales son −10% y +5%. Sin otros factores ni cambios de capital, ¿qué cambio conjunto de valor sugiere el mercado?",
+      "opciones": [
+        "−$50 millones.",
+        "+$75 millones.",
+        "−$125 millones.",
+        "−$75 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Aplicar la diferencia de porcentajes a una única base ignora tamaños distintos. Cada retorno debe multiplicarse por el valor de su propia empresa. Los cambios monetarios suman −$75 millones. El efecto conjunto se obtiene sumando cambios monetarios sobre bases diferentes, no sumando directamente ambos porcentajes.",
+        "Se invirtió el signo del saldo. La pérdida del comprador supera la ganancia de la objetivo. El mercado sugiere una reducción conjunta del valor. El efecto conjunto se obtiene sumando cambios monetarios sobre bases diferentes, no sumando directamente ambos porcentajes.",
+        "Se trató la ganancia de la objetivo como otra pérdida. El +5% aporta $25 millones positivos. Debe compensar parcialmente la caída de $100 millones del comprador. El efecto conjunto se obtiene sumando cambios monetarios sobre bases diferentes, no sumando directamente ambos porcentajes.",
+        "El comprador pierde 10% de $1.000 millones, es decir $100 millones. La objetivo gana 5% de $500 millones, es decir $25 millones. El saldo es −$75 millones, una evaluación desfavorable que refleja la información disponible y no prueba certeza sobre el resultado final."
+      ]
+    },
+    {
+      "id": "c14-q059",
+      "tema": "14.5 · Lección 4: presentación contable",
+      "dificultad": "basica",
+      "pregunta": "Una empresa modifica un criterio contable y eleva su utilidad informada, sin cambiar flujos, impuestos, riesgo ni información económica. ¿Qué predice la ausencia de ilusión financiera?",
+      "opciones": [
+        "La presentación por sí sola no crea valor económico.",
+        "El precio aumenta en el mismo porcentaje que la utilidad informada.",
+        "Todo cambio contable destruye valor necesariamente.",
+        "La utilidad informada reemplaza al flujo de efectivo en la valuación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor depende de los flujos y del riesgo que reciben los inversionistas. Bajo los supuestos, esos elementos no cambian. Un mercado eficiente puede mirar más allá de la nueva cifra contable. La ausencia de ilusión financiera obliga a separar el cambio de etiqueta de cualquier cambio efectivo en riqueza.",
+        "La relación automática supone que los inversionistas confunden presentación con riqueza. El enunciado elimina cualquier cambio económico real. No existe base para trasladar el aumento contable al precio. La ausencia de ilusión financiera obliga a separar el cambio de etiqueta de cualquier cambio efectivo en riqueza.",
+        "Un cambio puramente expositivo tampoco implica una pérdida obligatoria. Su impacto económico se fijó en cero. Otros cambios pueden tener efectos, pero requerirían condiciones diferentes. La ausencia de ilusión financiera obliga a separar el cambio de etiqueta de cualquier cambio efectivo en riqueza.",
+        "Las utilidades pueden aportar información, pero no sustituyen mecánicamente los flujos. Criterios contables distintos pueden modificar resultados sin modificar efectivo. La valuación debe reconocer esa diferencia. La ausencia de ilusión financiera obliga a separar el cambio de etiqueta de cualquier cambio efectivo en riqueza."
+      ]
+    },
+    {
+      "id": "c14-q060",
+      "tema": "14.5 · Inventarios e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa hipotética vende 100 unidades a $30. Compró primero 100 unidades a $10 y después 100 a $14; no tiene otros costos. Puede usar PEPS o UEPS para resultados e impuestos, con tasa de 25%. ¿Cuánto ahorro tributario inmediato genera UEPS respecto de PEPS?",
+      "opciones": [
+        "$400.",
+        "$300.",
+        "$100.",
+        "−$100."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $400 son la diferencia de costos o utilidades antes de impuestos. El efecto tributario es solo 25% de esa diferencia. El ahorro inmediato es $100. El beneficio analizado proviene de pagar menos impuestos ahora y no de generar mayores ventas o producción.",
+        "Los $300 equivalen a la diferencia de utilidad después de impuestos. No son el ahorro de efectivo en impuestos. Los pagos tributarios se reducen de $500 a $400. El beneficio analizado proviene de pagar menos impuestos ahora y no de generar mayores ventas o producción.",
+        "PEPS registra costo de $1.000 y utilidad de $2.000, con impuesto de $500. UEPS registra costo de $1.400 y utilidad de $1.600, con impuesto de $400. La diferencia es $100 de efectivo, pese a mostrar menor utilidad; el caso no afirma que todo ahorro temporal sea permanente.",
+        "Se invirtió el efecto de la mayor deducción. UEPS reconoce aquí costos más altos y reduce la base imponible. El impuesto inmediato disminuye, no aumenta. El beneficio analizado proviene de pagar menos impuestos ahora y no de generar mayores ventas o producción."
+      ]
+    },
+    {
+      "id": "c14-q061",
+      "tema": "14.5 · Lección 5: diversificación replicable",
+      "dificultad": "basica",
+      "pregunta": "Dos compañías justifican una fusión únicamente porque combinar negocios independientes diversifica al accionista. Los inversores pueden comprar ambas acciones barata y libremente. ¿Qué objeción corresponde?",
+      "opciones": [
+        "Diversificar dentro de una empresa garantiza sinergias operativas.",
+        "La fusión elimina todos los riesgos de ambas actividades.",
+        "Los accionistas solo pueden diversificar si las empresas se fusionan.",
+        "Los accionistas pueden replicar esa diversificación y no hay valor adicional demostrado por ese motivo aislado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La reducción de variabilidad no demuestra mejores flujos operativos. Las sinergias requieren mecanismos concretos de costos o ingresos. No surgen automáticamente de unir negocios. La facilidad de reproducir la combinación limita cuánto valor adicional puede atribuirse a la estructura corporativa.",
+        "Los riesgos de cada actividad no desaparecen al combinarse. Puede reducirse cierta variabilidad, pero persiste riesgo económico. La diversificación no equivale a inmunidad. La facilidad de reproducir la combinación limita cuánto valor adicional puede atribuirse a la estructura corporativa.",
+        "El caso permite comprar ambos títulos. Esa compra ya constituye diversificación personal. Exigir una fusión contradice la posibilidad de replicación planteada. La facilidad de reproducir la combinación limita cuánto valor adicional puede atribuirse a la estructura corporativa.",
+        "Comprar acciones de ambas compañías permite repartir la exposición. Si esa alternativa es barata, no corresponde pagar una prima solo por reproducirla dentro de una sociedad. Otros beneficios podrían justificar la operación, pero deben identificarse por separado. La facilidad de reproducir la combinación limita cuánto valor adicional puede atribuirse a la estructura corporativa."
+      ]
+    },
+    {
+      "id": "c14-q062",
+      "tema": "14.5 · Apalancamiento replicable",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa dice que emitir deuda crea valor simplemente porque eleva el rendimiento esperado de las acciones. Los accionistas pueden endeudarse en condiciones comparables. ¿Qué falta demostrar?",
+      "opciones": [
+        "Que una mayor rentabilidad esperada elimina el riesgo del accionista.",
+        "Una ventaja financiera real frente a la réplica personal, porque el mayor retorno también compensa mayor riesgo.",
+        "Que la deuda no genera obligaciones contractuales.",
+        "Que cualquier aumento del retorno esperado equivale al mismo aumento de valor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deuda puede aumentar el riesgo de las acciones. Los acreedores tienen pagos que atender antes de distribuir el remanente. El mayor retorno requerido puede ser compensación por esa exposición. La comparación debe considerar el costo de endeudarse para la empresa frente al de hacerlo para los accionistas.",
+        "La deuda concentra el riesgo residual sobre los accionistas. Su mayor rendimiento esperado no representa automáticamente una ganancia gratuita. Si pueden replicar el apalancamiento, debe identificarse una ventaja de costos u otro beneficio económico específico. La comparación debe considerar el costo de endeudarse para la empresa frente al de hacerlo para los accionistas.",
+        "Emitir deuda implica intereses y devolución según contrato. Esas obligaciones afectan a los accionistas. Ignorarlas omite el origen del riesgo financiero adicional. La comparación debe considerar el costo de endeudarse para la empresa frente al de hacerlo para los accionistas.",
+        "Un retorno esperado mayor puede acompañar un precio menor o un riesgo mayor. No mide por sí mismo creación de riqueza. Deben compararse flujos y costos de oportunidad de manera consistente. La comparación debe considerar el costo de endeudarse para la empresa frente al de hacerlo para los accionistas."
+      ]
+    },
+    {
+      "id": "c14-q063",
+      "tema": "14.5 · Lección 6: elasticidad",
+      "dificultad": "intermedia",
+      "pregunta": "Para una pequeña variación, se usa ΔQ/Q ≈ elasticidad × ΔP/P. Si la demanda de una acción tiene elasticidad −8 y su precio sube 2%, sin nueva información, ¿qué cambio aproximado de cantidad demandada resulta?",
+      "opciones": [
+        "−4%.",
+        "+16%.",
+        "−16%.",
+        "−0,25%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir −8 por 2 no aplica la fórmula indicada. La elasticidad relaciona cambios porcentuales mediante multiplicación. El resultado correcto es −16%. La fórmula aproxima el efecto con información constante y no incorpora desplazamientos causados por nuevas noticias.",
+        "Se perdió el signo negativo de la elasticidad. Un aumento del precio reduce la cantidad demandada, manteniendo lo demás constante. La variación estimada es negativa. La fórmula aproxima el efecto con información constante y no incorpora desplazamientos causados por nuevas noticias.",
+        "Se multiplica −8 por 2%. El resultado es una caída aproximada de 16% en cantidad demandada. La fuerte respuesta es consistente con la existencia de alternativas cercanas en riesgo y rendimiento. La fórmula aproxima el efecto con información constante y no incorpora desplazamientos causados por nuevas noticias.",
+        "Se dividió el cambio de precio por la elasticidad. Esa operación no corresponde al despeje pedido. Hay que multiplicar −8 por 0,02 para obtener −0,16. La fórmula aproxima el efecto con información constante y no incorpora desplazamientos causados por nuevas noticias."
+      ]
+    },
+    {
+      "id": "c14-q064",
+      "tema": "14.5 · Venta de bloques y señales",
+      "dificultad": "avanzada",
+      "pregunta": "Un accionista vende un bloque grande y el precio cae porque los demás sospechan información negativa. ¿Contradice necesariamente una demanda muy elástica de acciones?",
+      "opciones": [
+        "No; la sospecha puede desplazar hacia abajo toda la demanda aunque esta siga siendo elástica.",
+        "Sí; cualquier caída prueba demanda completamente inelástica.",
+        "Sí; una demanda elástica obliga a mantener el precio ante cualquier noticia.",
+        "No; porque todas las acciones tienen idénticos dividendos y riesgos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La elasticidad describe una respuesta manteniendo constante la información. Una sospecha cambia la valoración y puede desplazar la curva completa. Grandes bloques pueden venderse cerca del precio previo si se descarta una señal informativa adversa. La venta puede aportar información sobre el vendedor y cambiar la valoración de todos los compradores potenciales.",
+        "Una caída observada puede reflejar un desplazamiento de demanda. No identifica por sí sola su pendiente. Hay que distinguir respuesta a cantidad e interpretación de nueva información. La venta puede aportar información sobre el vendedor y cambiar la valoración de todos los compradores potenciales.",
+        "La elasticidad no impide revisar el valor ante noticias. Se refiere a alternativas disponibles bajo una valoración dada. Una señal negativa puede reducir simultáneamente los precios aceptables. La venta puede aportar información sobre el vendedor y cambiar la valoración de todos los compradores potenciales.",
+        "Las acciones no tienen que ser idénticas para ofrecer alternativas de inversión. Lo comparable es la relación entre riesgo y rendimiento. Afirmar igualdad de todos sus flujos es innecesario y falso. La venta puede aportar información sobre el vendedor y cambiar la valoración de todos los compradores potenciales."
+      ]
+    },
+    {
+      "id": "c14-q065",
+      "tema": "14.5 · Tesorería y ventaja competitiva",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa industrial obtiene un interés menor si acepta pagar mucho cuando suban las tasas. Su tesorería cree que eso no sucederá, pero no tiene ventaja informativa. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "La tasa inicial menor prueba un VPN positivo.",
+        "El ahorro remunera una exposición contingente y no justifica especular sin una ventaja identificable.",
+        "El contrato es una cobertura aunque aumente la exposición a subas.",
+        "Una empresa industrial nunca puede tener conocimiento útil de mercados relacionados con su actividad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una tasa menor puede ocultar una obligación contingente importante. El VPN requiere valorar esa obligación. Mirar solo el ahorro inicial omite el intercambio central del contrato. La empresa debe distinguir una decisión consistente de gestión del riesgo de una apuesta sobre el mercado.",
+        "La reducción inicial puede ser el precio de asumir pagos futuros adversos. Una opinión sobre tasas no demuestra ventaja frente a profesionales especializados. Como enseña el caso de una tesorería como P&G, deben evaluarse todos los escenarios y la razón económica de asumir el riesgo.",
+        "Una cobertura se evalúa por su efecto sobre la exposición de la empresa. Si amplifica el perjuicio por subas, puede constituir una apuesta adicional. El nombre del contrato no determina su función económica. La empresa debe distinguir una decisión consistente de gestión del riesgo de una apuesta sobre el mercado.",
+        "La regla no es una prohibición absoluta de conocimiento especializado. Empresas de energía o de insumos específicos pueden tener experiencia relevante. La exigencia es identificar una ventaja concreta en vez de presumirla. La empresa debe distinguir una decisión consistente de gestión del riesgo de una apuesta sobre el mercado."
+      ]
+    },
+    {
+      "id": "c14-q066",
+      "tema": "14.5 · Sobrevaluación y proyectos",
+      "dificultad": "avanzada",
+      "pregunta": "Emitir acciones sobrevaluadas genera, por hipótesis, un beneficio de $30 millones para los accionistas anteriores. Puede invertirse lo recaudado en valores a precio justo, de VPN cero, o en un proyecto con VPN de −$10 millones. Sin otras diferencias, ¿qué alternativa conviene y qué valor neto aporta?",
+      "opciones": [
+        "Hacer el proyecto porque conserva $20 millones y eso lo vuelve óptimo.",
+        "Hacer el proyecto porque la emisión convierte su VPN real en +$20 millones.",
+        "Rechazar ambas alternativas porque una emisión nunca puede tener VPN distinto de cero.",
+        "Invertir en valores a precio justo y conservar los $30 millones de beneficio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El total de $20 millones es positivo, pero inferior a la alternativa disponible. Elegirlo desperdicia $10 millones. Hay que comparar usos de fondos, no solamente comprobar si el paquete completo supera cero. El uso alternativo de los fondos permite conservar el beneficio financiero sin aceptar el proyecto que destruye valor.",
+        "Se mezcló el VPN del financiamiento con el del activo real. El proyecto sigue destruyendo $10 millones frente a alternativas del mismo riesgo. El beneficio de emisión puede preservarse sin aceptar esa inversión. El uso alternativo de los fondos permite conservar el beneficio financiero sin aceptar el proyecto que destruye valor.",
+        "En mercados eficientes suele suponerse precio justo. El caso plantea explícitamente una sobrevaluación y su beneficio para accionistas anteriores. La conclusión debe respetar esa hipótesis y elegir el mejor uso de los fondos. El uso alternativo de los fondos permite conservar el beneficio financiero sin aceptar el proyecto que destruye valor.",
+        "El beneficio financiero es igual en ambas alternativas. Con valores a precio justo, el total es 30 + 0 = $30 millones. Con el proyecto es 30 − 10 = $20 millones, de modo que la financiación favorable no justifica destruir diez millones en la inversión."
+      ]
+    },
+    {
+      "id": "c14-q067",
+      "tema": "14.5 · Subvaluación e inversión",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene un proyecto de VPN positivo, pero emitir acciones muy subvaluadas transferiría a nuevos inversores más valor que el creado por el proyecto. Existe deuda razonablemente accesible. ¿Qué decisión merece evaluarse?",
+      "opciones": [
+        "Financiar con deuda para evitar la transferencia y preservar la inversión valiosa.",
+        "Emitir acciones baratas porque un proyecto positivo justifica cualquier dilución económica.",
+        "Rechazar siempre el proyecto sin estudiar fuentes alternativas.",
+        "Comprar valores a precio justo con una emisión subvaluada para beneficiar a los accionistas anteriores."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La subvaluación puede volver costosa una emisión para los dueños actuales. Una fuente alternativa puede evitar esa transferencia y permitir ejecutar el proyecto. Si no hubiera alternativas, incluso una inversión de VPN positivo podría abandonarse cuando el costo de emitir la supere.",
+        "El valor creado por el proyecto debe compararse con la transferencia causada por emitir. Un VPN real positivo no garantiza un resultado favorable para los accionistas anteriores. El caso especifica que la transferencia es mayor. La fuente de financiamiento puede cambiar sin renunciar a la inversión cuando una alternativa evita emitir demasiado barato.",
+        "La deuda disponible puede resolver el conflicto. Rechazar sin comparar alternativas sacrifica una oportunidad potencialmente valiosa. Deben evaluarse sus costos y restricciones antes de decidir. La fuente de financiamiento puede cambiar sin renunciar a la inversión cuando una alternativa evita emitir demasiado barato.",
+        "Emitir por debajo del valor económico favorece a los nuevos compradores. Invertir luego en valores justamente valuados no revierte esa transferencia. Por eso no es una forma de beneficiar a los accionistas anteriores. La fuente de financiamiento puede cambiar sin renunciar a la inversión cuando una alternativa evita emitir demasiado barato."
+      ]
+    },
+    {
+      "id": "c14-q068",
+      "tema": "14.5 · Gestión durante una burbuja",
+      "dificultad": "intermedia",
+      "pregunta": "La acción de una empresa sube por entusiasmo especulativo y los bonos del director dependen de su cotización. Aparecen malas noticias operativas. ¿Qué conducta resulta compatible con una gestión responsable?",
+      "opciones": [
+        "Ocultar las malas noticias hasta vender las opciones del director.",
+        "Fabricar utilidades para sostener el precio hasta que aparezca otro comprador.",
+        "Comunicar información veraz y evaluar inversiones por sus fundamentos, aun si se modera la cotización.",
+        "Aceptar cualquier inversión mientras el mercado valore alto las acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Retrasar información para proteger un beneficio personal perjudica la calidad de las decisiones de los inversores. También profundiza el conflicto de intereses. El precio alto no justifica la ocultación. Los incentivos ligados a la cotización requieren especial disciplina para evitar confundir beneficio personal y valor sostenible.",
+        "La fabricación de resultados introduce engaño y riesgos adicionales para la empresa. No crea los flujos que respaldarían una valuación sostenible. Puede agravar las pérdidas y las consecuencias personales cuando se descubre. Los incentivos ligados a la cotización requieren especial disciplina para evitar confundir beneficio personal y valor sostenible.",
+        "Los incentivos personales pueden empujar a sostener artificialmente el entusiasmo. Ocultar información o falsear resultados agrava el daño cuando se corrigen los precios. La gestión debe preservar información veraz y disciplina de inversión, sin confundir una cotización elevada con creación real de valor.",
+        "Una burbuja no vuelve rentables todos los activos reales. Los proyectos siguen requiriendo flujos que superen su costo de oportunidad. Abandonar ese criterio transforma entusiasmo financiero en destrucción económica. Los incentivos ligados a la cotización requieren especial disciplina para evitar confundir beneficio personal y valor sostenible."
+      ]
+    },
+    {
+      "id": "c14-q069",
+      "tema": "14.1 · Fuentes y distribución de fondos",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál descripción distingue correctamente decisiones de financiamiento y derechos de los aportantes?",
+      "opciones": [
+        "Un bono convertible obliga a conservar para siempre la posición de acreedor y no permite recibir acciones.",
+        "Retener utilidades evita todo costo de oportunidad porque no se obtiene dinero de terceros.",
+        "Financiarse enteramente con acciones garantiza pagos fijos a los accionistas sin riesgo de negocio.",
+        "Retener o distribuir ganancias y emitir deuda o acciones son decisiones financieras; un bono convertible permite a su tenedor canjearlo por acciones según sus condiciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La posibilidad de canje por acciones es la característica distintiva del convertible. Sus condiciones establecen cómo puede ejercerse. Describirlo como deuda sin conversión elimina esa característica. Los derechos de acreedores y accionistas son distintos, y el instrumento elegido determina cómo se reparten los flujos.",
+        "Las utilidades pertenecen económicamente a los accionistas. Retenerlas les impide destinarlas a otras inversiones comparables. Por eso tienen costo de oportunidad aunque no exista una emisión externa. Los derechos de acreedores y accionistas son distintos, y el instrumento elegido determina cómo se reparten los flujos.",
+        "Las acciones no prometen el mismo pago fijo que una deuda ordinaria. Sus dueños reciben el remanente de los resultados de la empresa. Si aportan todo el capital, también soportan todo el riesgo del negocio. Los derechos de acreedores y accionistas son distintos, y el instrumento elegido determina cómo se reparten los flujos.",
+        "La política de distribución determina cuánto efectivo queda dentro de la empresa. Emitir deuda o acciones define derechos sobre sus flujos, y un convertible incorpora una posibilidad de conversión. Con financiamiento enteramente accionario, los dueños soportan el riesgo de negocio y reciben sus resultados residuales."
+      ]
+    },
+    {
+      "id": "c14-q070",
+      "tema": "14.5 · Intermediación y grandes bloques",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco compra un bloque grande con descuento y lo redistribuye rápidamente entre cientos de clientes, obteniendo una ganancia. ¿Qué puede concluirse sobre la eficiencia?",
+      "opciones": [
+        "Toda ganancia de intermediación demuestra ineficiencia débil.",
+        "La ganancia puede remunerar colocación, búsqueda de compradores y riesgos; no prueba por sí sola una oportunidad gratuita.",
+        "La existencia de muchos compradores obliga a que el banco no tenga costos ni riesgos.",
+        "El descuento demuestra que la demanda del título es necesariamente inelástica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La eficiencia no prohíbe remunerar trabajo, capital y riesgo. Además, la operación no demuestra una regla basada en precios pasados. Hace falta identificar qué ventaja informativa o económica persiste después de costos. El margen observado debe compararse con los recursos empleados y con el riesgo asumido durante la colocación.",
+        "El intermediario presta un servicio al reunir demanda dispersa y dar liquidez al vendedor. Durante la operación también puede asumir costos y exposición a cambios de precio. Es necesario descontarlos antes de interpretar el margen como una ganancia extraordinaria sin riesgo.",
+        "Coordinar compradores requiere recursos y tiempo. La rapidez final no garantiza que la venta estuviera asegurada desde el inicio. El resultado favorable no elimina retrospectivamente el riesgo asumido. El margen observado debe compararse con los recursos empleados y con el riesgo asumido durante la colocación.",
+        "Un descuento puede compensar urgencia, intermediación o incertidumbre informativa. No identifica por sí solo la pendiente de demanda. Para evaluarla hay que distinguir esos efectos de una respuesta pura a cantidad. El margen observado debe compararse con los recursos empleados y con el riesgo asumido durante la colocación."
+      ]
+    }
+  ]
+}

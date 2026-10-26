@@ -1,0 +1,1336 @@
+{
+  "capitulo": 22,
+  "titulo": "Valuación de opciones",
+  "preguntas": [
+    {
+      "id": "c22-q001",
+      "tema": "Derechos y pagos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a una call comprada de una put comprada?",
+      "opciones": [
+        "La call obliga a comprar; la put obliga a vender.",
+        "La call permite vender a K; la put permite comprar a K.",
+        "La call permite comprar a K; la put permite vender a K.",
+        "Ambas permiten cobrar dividendos sin adquirir acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Confunde al comprador con el emisor del contrato. El tenedor puede no ejercer si la operación no le conviene. Esa libertad impide que el pago terminal del derecho comprado sea negativo.",
+        "Las definiciones están invertidas. La call se beneficia de precios altos respecto de K. La put protege frente a precios bajos respecto de K.",
+        "El comprador adquiere un derecho que puede dejar vencer. La call da derecho a comprar al ejercicio K y la put a vender a K. La obligación de cumplir ante el ejercicio corresponde al vendedor de la opción.",
+        "Tener una opción no equivale a ser dueño de la acción. Los dividendos corresponden al accionista que cumple las condiciones pertinentes. Esa diferencia influye en la prima y en la decisión de ejercicio."
+      ]
+    },
+    {
+      "id": "c22-q002",
+      "tema": "Determinantes de la call",
+      "dificultad": "basica",
+      "pregunta": "Para una call sin dividendos y con tasas no negativas, ¿qué combinación de cambios aumenta su valor, manteniendo fijos los demás datos no mencionados?",
+      "opciones": [
+        "Mayor S, menor K, mayor tasa libre de riesgo, más plazo y mayor volatilidad.",
+        "Menor precio del activo y mayor K.",
+        "Menor volatilidad y menor plazo, con tasa no negativa.",
+        "Menor tasa y mayor K."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una acción más cara y un ejercicio menor hacen más atractivo el derecho de compra. Una tasa mayor aumenta el beneficio de postergar el pago de K. Más plazo conserva oportunidades de suba y permite diferir el ejercicio bajo estos supuestos. Una mayor volatilidad favorece el pago convexo, porque el tenedor participa de las subas sin aceptar pagos terminales negativos.",
+        "Un precio menor reduce la ventaja de comprar al ejercicio pactado. Un K mayor encarece esa compra. Los dos cambios perjudican al titular de la call.",
+        "La mayor dispersión favorece un pago convexo con piso cero. Más plazo también conserva oportunidades y posterga K bajo estas condiciones. Reducir ambas variables no aumenta el valor.",
+        "Una tasa menor reduce el beneficio de postergar el pago de K. Aumentar K también perjudica al titular. La combinación disminuye el valor en lugar de aumentarlo."
+      ]
+    },
+    {
+      "id": "c22-q003",
+      "tema": "Volatilidad y convexidad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué una mayor volatilidad aumenta el valor de una call estándar, a igualdad de los demás parámetros?",
+      "opciones": [
+        "Obliga a que suba el rendimiento esperado real de la acción.",
+        "Garantiza que la call termine dentro del dinero.",
+        "Permite al titular de la call cobrar más dividendos.",
+        "Amplía las ganancias posibles sin imponer pagos terminales negativos al tenedor."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Volatilidad y rendimiento esperado son variables diferentes. No hace falta suponer una mayor media real para justificar este efecto. La explicación está en la convexidad del pago y la replicación.",
+        "Más dispersión también admite precios finales muy bajos. El ejercicio favorable no queda garantizado. La opción vale más por la asimetría del derecho, no por eliminar la incertidumbre.",
+        "La call no entrega dividendos por sí sola. Una mayor volatilidad tampoco obliga a aumentar las distribuciones de la empresa. Su efecto aparece en los pagos contingentes del contrato.",
+        "El pago terminal es el máximo entre S menos K y cero. Las subas grandes benefician al tenedor, mientras las bajas no lo obligan a comprar. Esa asimetría vuelve valiosa una mayor dispersión."
+      ]
+    },
+    {
+      "id": "c22-q004",
+      "tema": "Descuento y riesgo cambiante",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista descuenta pagos esperados reales de una call al costo de capital constante de la acción. ¿Qué problema central presenta ese procedimiento?",
+      "opciones": [
+        "Las opciones no pueden valuarse descontando ningún flujo.",
+        "El riesgo y el apalancamiento efectivo de la call cambian con S y el tiempo.",
+        "La call tiene siempre la misma beta que la acción.",
+        "K debe descontarse al rendimiento esperado real de la acción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El descuento sigue siendo una parte de la valuación. Lo inadecuado es combinar pagos reales con una tasa que no refleja su riesgo variable. Con ponderaciones neutrales al riesgo se descuenta a la tasa libre de riesgo.",
+        "La opción representa exposición apalancada al activo. Esa exposición relativa cambia al moverse S y al pasar el tiempo. Por eso el costo de capital constante de la acción no representa adecuadamente el riesgo de la call.",
+        "La call y la acción no tienen igual apalancamiento. Un cambio pequeño del activo puede representar un cambio porcentual grande de la prima. Por eso sus betas no se igualan automáticamente.",
+        "El componente seguro del financiamiento se descuenta a la tasa libre de riesgo bajo los supuestos del modelo. La tasa esperada de la acción remunera otro riesgo. Mezclar ambos conceptos rompe la replicación."
+      ]
+    },
+    {
+      "id": "c22-q005",
+      "tema": "Riesgo relativo de la call",
+      "dificultad": "intermedia",
+      "pregunta": "Una call sin dividendos pasa de estar muy fuera del dinero a muy dentro del dinero. ¿Cómo cambia usualmente su riesgo porcentual relativo al de la acción?",
+      "opciones": [
+        "Aumenta necesariamente porque aumenta delta.",
+        "Disminuye al reducirse el apalancamiento efectivo.",
+        "Desaparece por completo.",
+        "No cambia porque K sigue fijo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Delta mide sensibilidad monetaria y no directamente porcentual. El apalancamiento efectivo depende también de S y de la prima. Una delta mayor puede coexistir con menor riesgo relativo.",
+        "Fuera del dinero, una variación pequeña del activo puede ser enorme respecto de una prima reducida. Dentro del dinero, la call se parece más a una acción parcialmente financiada con deuda. Su riesgo porcentual relativo disminuye aunque no desaparece.",
+        "Estar dentro del dinero no elimina la exposición a caídas del activo. La call todavía puede perder valor. Su riesgo se reduce en términos relativos, pero no se vuelve nulo.",
+        "La prima y la sensibilidad cambian aunque K permanezca fijo. También cambia la exposición porcentual por cada unidad invertida. El ejercicio fijo no implica riesgo constante."
+      ]
+    },
+    {
+      "id": "c22-q006",
+      "tema": "Replicación y precio único",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué una opción y una cartera que reproduce exactamente todos sus pagos deben tener el mismo precio en un mercado sin fricciones?",
+      "opciones": [
+        "Porque tener la misma media de pagos garantiza igual riesgo.",
+        "Porque los inversores reales son necesariamente neutrales al riesgo.",
+        "Porque toda call cuesta lo mismo que una acción.",
+        "Una diferencia permitiría comprar lo barato y vender lo caro, cancelando los pagos futuros."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Dos activos pueden compartir una media y tener distribuciones distintas. La replicación requiere igualdad estado por estado. La igualdad de expectativas no basta para imponer un único precio.",
+        "El argumento no depende de la actitud psicológica frente al riesgo. Los pagos netos futuros se cancelan bajo cualquier estado. Por eso también vale con inversores adversos al riesgo.",
+        "La call es un derecho condicionado y la acción es propiedad del activo. Sus precios unitarios generalmente difieren. La igualdad relevante es entre la opción y la cartera completa que la replica.",
+        "La igualdad de pagos se cumple en cada estado posible. Comprar la alternativa barata y vender la cara deja un ingreso inicial. Las obligaciones futuras se compensan y originan un arbitraje."
+      ]
+    },
+    {
+      "id": "c22-q007",
+      "tema": "Delta binomial",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción vale 50 y terminará en 70 o 40. Una call con K = 55 pagará 15 o cero. ¿Cuál es delta?",
+      "opciones": [
+        "0,50 acciones por call.",
+        "0,30 acciones por call.",
+        "2 acciones por call.",
+        "1 acción por call."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La diferencia de pagos de la call es 15. La diferencia entre precios de la acción es 70 menos 40, igual a 30. Delta es 15 dividido por 30, igual a 0,50.",
+        "Dividir 15 por el precio actual 50 no calcula la cobertura entre estados. Se necesitan diferencias tanto en numerador como en denominador. El denominador correcto es 30.",
+        "Este valor invierte el cociente. Delta divide el cambio de la opción por el cambio de la acción. No debe dividirse 30 por 15.",
+        "Una acción completa genera una diferencia de 30 entre estados. La call solo genera una diferencia de 15. Media acción, con financiamiento apropiado, reproduce esa sensibilidad."
+      ]
+    },
+    {
+      "id": "c22-q008",
+      "tema": "Financiamiento de la réplica",
+      "dificultad": "intermedia",
+      "pregunta": "S = 50, precios finales 70 y 40, K = 55 y tasa efectiva del período de 5%. Para replicar la call se compran 0,5 acciones. ¿Cuánto se pide prestado hoy?",
+      "opciones": [
+        "20.",
+        "26,19 aproximadamente.",
+        "19,05 aproximadamente.",
+        "33,33 aproximadamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Veinte es el reembolso final necesario. Si se pidieran 20 hoy, habría que devolver 21. Eso dejaría un pago negativo en el estado bajo y rompería la réplica.",
+        "Este valor surge de descontar media vez K. El préstamo no se fija automáticamente como delta por K. Se determina igualando los pagos de la cartera con los de la opción.",
+        "En el estado bajo, media acción vale 20 y la call debe pagar cero. Por eso la deuda debe exigir 20 al final. Descontar 20 al 5% da 19,0476, aproximadamente 19,05.",
+        "Este valor descuenta media acción del estado alto sin restar el pago de la call. En ese estado, la posición vale 35 pero deben quedar 15 para el tenedor. La obligación final correcta es 20."
+      ]
+    },
+    {
+      "id": "c22-q009",
+      "tema": "Precio por replicación",
+      "dificultad": "intermedia",
+      "pregunta": "S = 50, precios finales 70 y 40, K = 55 y tasa efectiva del período de 5%. ¿Cuál es la prima de la call?",
+      "opciones": [
+        "15.",
+        "7,50.",
+        "5,95 aproximadamente.",
+        "25."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Quince es el pago del estado alto. No es un cobro seguro ni un precio actual. Debe considerarse el otro estado y el financiamiento de la réplica.",
+        "Este valor promedia los pagos con probabilidades iguales y no descuenta. La probabilidad neutral de suba no es 50% en estos datos. La réplica determina un valor de 5,95.",
+        "La delta es 15 dividido por 30, igual a 0,5. Las acciones cuestan 25 y el préstamo aporta 20 dividido por 1,05. El desembolso neto es 25 menos 19,0476, igual a 5,9524.",
+        "Veinticinco es el costo de media acción antes de financiarla. La call equivale a esa posición menos una deuda. Omitir el préstamo sobreestima el desembolso necesario."
+      ]
+    },
+    {
+      "id": "c22-q010",
+      "tema": "Probabilidad neutral",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción puede subir 40% o bajar 20% en un período. La tasa efectiva libre de riesgo es 4% por período. ¿Cuál es p neutral de suba?",
+      "opciones": [
+        "40%.",
+        "50%.",
+        "60%.",
+        "10%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se requiere 0,40p menos 0,20 por uno menos p igual a 0,04. De allí surge p igual a 0,24 dividido por 0,60. El resultado es 40%.",
+        "Dos ramas no implican dos probabilidades iguales. Con 50%, el rendimiento esperado sería 10%. La medida neutral debe producir 4%.",
+        "Sesenta por ciento es la probabilidad neutral de baja. El enunciado pide la de suba. Intercambiarlas altera la ponderación de los pagos.",
+        "Dividir 4% por 40% ignora el estado de pérdida. La ecuación debe incluir también el rendimiento de menos 20%. Incorporarlo produce p igual a 40%."
+      ]
+    },
+    {
+      "id": "c22-q011",
+      "tema": "Interpretación neutral al riesgo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa una probabilidad neutral al riesgo?",
+      "opciones": [
+        "La frecuencia real obligatoria de subas futuras.",
+        "La preferencia psicológica por ganancias.",
+        "La probabilidad de quiebra del emisor.",
+        "Una ponderación de valuación consistente con precios negociados y ausencia de arbitraje."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las probabilidades físicas describen expectativas o frecuencias reales. Las neutrales se deducen de precios y oportunidades de negociación. Ambas pueden diferir sin contradicción.",
+        "Una preferencia no es una ponderación probabilística de valuación. El modelo no requiere medir la aversión individual al riesgo. Se apoya en la replicación y en precios sin arbitraje.",
+        "La probabilidad de suba del árbol se refiere al estado del activo. No introduce por sí sola un evento de incumplimiento. El riesgo de crédito requeriría supuestos adicionales.",
+        "Es una herramienta para obtener precios de pagos replicables. Bajo esa medida, el activo sin dividendos tiene rendimiento esperado igual a la tasa libre de riesgo. No pretende describir directamente las frecuencias reales."
+      ]
+    },
+    {
+      "id": "c22-q012",
+      "tema": "Precio neutral de una put",
+      "dificultad": "intermedia",
+      "pregunta": "S = 50, precios finales 70 y 40, K de la put europea = 55 y tasa del período de 5%. Si p de suba es 5/12, ¿cuánto vale la put?",
+      "opciones": [
+        "6,25.",
+        "8,33 aproximadamente.",
+        "15.",
+        "8,75."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este valor usa la probabilidad de suba para un pago que ocurre con baja y omite el descuento. La probabilidad correcta del cobro es 7/12. Luego se divide por 1,05.",
+        "La put paga cero con suba y 15 con baja. El pago esperado neutral es 7/12 por 15, igual a 8,75. Descontarlo por 1,05 da 8,3333.",
+        "Quince es el pago favorable, no un ingreso garantizado. Existe un estado donde la put no paga. Debe ponderarse el pago y llevarlo a valor actual.",
+        "Ocho con setenta y cinco es el pago esperado al vencimiento. Falta el descuento de un período. Aplicarlo reduce el valor a 8,33."
+      ]
+    },
+    {
+      "id": "c22-q013",
+      "tema": "Réplica de una put",
+      "dificultad": "intermedia",
+      "pregunta": "S = 50, precios finales 70 y 40, put con K = 55 y tasa del período de 5%. ¿Qué cartera replica sus pagos de cero y 15?",
+      "opciones": [
+        "Comprar 0,5 acciones y pedir prestado 19,05 aproximadamente.",
+        "Vender en corto 0,5 acciones e invertir 33,33 aproximadamente al 5%.",
+        "Vender en corto 0,5 acciones y pedir prestado 33,33 aproximadamente.",
+        "Comprar una acción e invertir 15 al 5%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cartera paga 15 cuando sube la acción y cero cuando baja. Replica la call del mismo ejercicio, no la put. La put necesita sensibilidad negativa al activo.",
+        "La delta es menos 15 dividido por 30, igual a menos 0,5. La inversión segura crece de 33,3333 a 35. Al recomprar media acción quedan cero si S es 70 y 15 si S es 40.",
+        "La venta corta exige fondos para recomprar las acciones. Agregar otra deuda aumenta las obligaciones en lugar de cubrirlas. El componente seguro debe ser una inversión positiva.",
+        "Comprar acciones genera sensibilidad positiva a S. La put debe subir cuando cae la acción. Agregar efectivo no cambia el signo de la exposición accionaria."
+      ]
+    },
+    {
+      "id": "c22-q014",
+      "tema": "Paridad europea",
+      "dificultad": "intermedia",
+      "pregunta": "Sin dividendos, una call europea vale 12, S = 100 y VP(K) = 95. ¿Cuánto vale la put europea de igual K y plazo?",
+      "opciones": [
+        "17.",
+        "12.",
+        "5.",
+        "7."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este cálculo suma S menos VP(K) en vez de restarlo. La call supera a la put en esa diferencia de 5. Por eso corresponde restar 5 de 12.",
+        "Mismo ejercicio y plazo no implican igual prima. La diferencia entre call y put depende de S menos VP(K). Aquí la diferencia es 5.",
+        "Cinco es la diferencia entre ambas primas. No es la prima de la put. Debe restarse de los 12 de la call.",
+        "La paridad establece put igual a call más VP(K) menos S. Sustituir produce 12 más 95 menos 100. La put vale 7."
+      ]
+    },
+    {
+      "id": "c22-q015",
+      "tema": "Arbitraje",
+      "dificultad": "intermedia",
+      "pregunta": "Una call cotiza a 11 y su réplica exacta cuesta 9. Sin fricciones, ¿qué operación aprovecha la diferencia?",
+      "opciones": [
+        "Comprar la réplica y vender la call.",
+        "Comprar la call y vender la réplica.",
+        "Comprar ambas.",
+        "Vender la call sin cobertura porque no puede perder."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se pagan 9 por la cartera y se cobran 11 por la call vendida. La réplica cubre exactamente todas las obligaciones futuras. Queda una ganancia inicial cierta de 2 bajo los supuestos indicados.",
+        "Comprar lo caro y vender lo barato exige pagar 2. Los pagos futuros se cancelan y no compensan ese desembolso. El arbitraje requiere hacer la operación inversa.",
+        "Comprar ambas duplica la exposición en lugar de cancelarla. El resultado futuro sigue dependiendo del activo. No se asegura una ganancia sin riesgo.",
+        "Una call vendida puede generar pérdidas elevadas si sube S. La ganancia cierta requiere comprar la cartera que cubre esos pagos. La venta aislada deja riesgo abierto."
+      ]
+    },
+    {
+      "id": "c22-q016",
+      "tema": "Pronósticos reales",
+      "dificultad": "intermedia",
+      "pregunta": "Un director eleva su probabilidad real estimada de suba. Si S, u, d y la tasa no cambian, ¿debe alterar la valuación binomial sin arbitraje de una call replicable?",
+      "opciones": [
+        "Sí: debe usar la nueva probabilidad real y descontar al tipo libre de riesgo.",
+        "Sí: la prima sube proporcionalmente al pronóstico.",
+        "No: el costo de la réplica permanece igual.",
+        "No: porque las opciones no tienen riesgo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Usar probabilidades reales con descuento libre de riesgo omite el ajuste por riesgo. Las probabilidades neutrales se deducen de los precios y no del pronóstico individual. Mezclar ambos enfoques produce una valuación inconsistente.",
+        "No existe una proporcionalidad general entre una opinión y una prima. El precio replicable se determina con los datos del mercado. Si esos datos cambian, habrá que recalcular, pero el caso los mantiene fijos.",
+        "La réplica depende de precios negociados, estados posibles y tasa. Esos datos permanecen sin cambios. Una nueva opinión real no altera por sí sola el precio calculado sin arbitraje.",
+        "La conclusión de no modificar el precio tiene un fundamento diferente. La opción sí es riesgosa porque sus pagos dependen de S. La replicación permite valuar ese riesgo sin necesitar la probabilidad real."
+      ]
+    },
+    {
+      "id": "c22-q017",
+      "tema": "Recursión binomial",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se obtiene el valor actual de una opción europea en un árbol de varios períodos?",
+      "opciones": [
+        "Se usa solo el camino de mayor probabilidad real.",
+        "Se suman sin ponderar todos los pagos finales.",
+        "Se calculan los pagos finales y se retrocede con ponderación neutral y descuento.",
+        "Se aplica necesariamente la delta inicial fija hasta el vencimiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los caminos restantes también pueden generar pagos. Elegir uno elimina parte de la distribución del activo. La valuación requiere considerar los sucesores de cada nodo.",
+        "Los pagos finales corresponden a estados alternativos. No son cobros que ocurren todos juntos. Deben ponderarse y descontarse para no exagerar el valor.",
+        "En los nodos terminales se aplica la regla contractual del pago. Cada nodo anterior vale el promedio neutral descontado de sus dos sucesores. La repetición de ese procedimiento llega al precio actual.",
+        "La delta cambia cuando cambian el nodo y el plazo restante. La réplica de varios períodos suele exigir rebalanceo. Mantener la posición inicial no reproduce generalmente todos los pagos."
+      ]
+    },
+    {
+      "id": "c22-q018",
+      "tema": "Call de dos etapas",
+      "dificultad": "avanzada",
+      "pregunta": "S = 100; en cada una de dos etapas se multiplica por 1,2 o 0,8. La tasa por etapa es cero, no hay dividendos y K = 100. ¿Cuánto vale la call europea?",
+      "opciones": [
+        "11.",
+        "22.",
+        "14.",
+        "0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los precios finales son 144, 96 y 64, con pagos 44, cero y cero. La probabilidad neutral de suba es 0,5 en cada etapa. Solo dos subas pagan y su probabilidad es 0,25, por lo que el precio es 11.",
+        "Veintidós es el valor de la call en el nodo intermedio alto. Todavía hay que ponderar la probabilidad de llegar a ese nodo desde hoy. El otro nodo intermedio vale cero y la prima inicial es 11.",
+        "Este valor no corresponde a la ponderación del árbol. El nodo recombinado es 96 y no genera pago para K igual a 100. Solo el estado de 144 aporta valor terminal.",
+        "Que hoy S sea igual a K implica valor intrínseco cero. No elimina la posibilidad de una suba futura. La flexibilidad restante vale 11 en este árbol."
+      ]
+    },
+    {
+      "id": "c22-q019",
+      "tema": "Deltas por nodo",
+      "dificultad": "avanzada",
+      "pregunta": "En un árbol de dos etapas con S = 100, u = 1,2, d = 0,8, tasa cero y K = 100, la call vale 22 en el nodo S = 120 y cero en S = 80. ¿Qué deltas corresponden hoy, tras suba y tras baja?",
+      "opciones": [
+        "0,55; 0,55; 0,55.",
+        "1; 1; 0.",
+        "0,25; 0,5; 0.",
+        "0,55; 11/12; 0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La delta inicial solo cubre el primer intervalo. En la segunda etapa cambia la relación entre pagos futuros y precios. La cobertura debe rebalancearse según el nodo alcanzado.",
+        "Una call no exige necesariamente una acción por unidad. En el nodo alto la pendiente es 44 dividido por 48. Esa razón es menor que uno aunque la exposición sea fuertemente positiva.",
+        "Estos valores confunden probabilidades con coberturas. Delta se obtiene de diferencias de valores monetarios. No se calcula usando la probabilidad del camino como cantidad de acciones.",
+        "Hoy delta es 22 dividido por 40, igual a 0,55. Tras la suba es 44 dividido por 144 menos 96, igual a 11/12. Tras la baja ambos pagos terminales son cero y delta es cero."
+      ]
+    },
+    {
+      "id": "c22-q020",
+      "tema": "Calibración de movimientos",
+      "dificultad": "intermedia",
+      "pregunta": "Con σ anual = 20% y un paso trimestral, ¿qué factores surgen de u = exp(σ√h), d = 1/u?",
+      "opciones": [
+        "u ≈ 1,0513 y d ≈ 0,9512.",
+        "u ≈ 1,1052 y d ≈ 0,9048.",
+        "u = 1,20 y d = 0,80.",
+        "u ≈ 1,1052 y d ≈ 0,8948."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estos factores usan 0,20 por 0,25 como exponente. La volatilidad escala con raíz del tiempo, no linealmente. El exponente correcto es 0,10.",
+        "Un trimestre equivale a h igual a 0,25 años. El exponente es 0,20 por raíz de 0,25, igual a 0,10. Los factores son exp(0,10) y exp(−0,10). La relación inversa permite recuperar σ como ln(u)/√h cuando se conoce el salto y la duración del paso.",
+        "La volatilidad anual no es un salto porcentual trimestral directo. Esta parametrización usa factores exponenciales. Además el factor bajista debe ser el recíproco del alcista.",
+        "Este factor bajista resta de uno la suba porcentual. El modelo requiere d igual a 1/u. Los porcentajes de suba y baja no son simétricos aunque sus logaritmos sí lo sean."
+      ]
+    },
+    {
+      "id": "c22-q021",
+      "tema": "Unidades de volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "La desviación estándar mensual de rendimientos logarítmicos es 5%, con incrementos independientes de igual varianza. ¿Cuál es la anual?",
+      "opciones": [
+        "60%.",
+        "17,32% aproximadamente.",
+        "5%.",
+        "0,42% aproximadamente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Multiplicar por doce trata la desviación como un flujo sumable. Son las varianzas las que se suman. La desviación crece con raíz de doce.",
+        "Bajo independencia se suman las doce varianzas mensuales. La desviación anual es 5% por raíz de 12. El resultado es aproximadamente 17,32%.",
+        "Cinco por ciento sigue expresado en meses. Usarlo con un plazo en años subestima el riesgo. La conversión debe reflejar la acumulación de varianza.",
+        "Dividir por doce convierte en sentido contrario y con una regla incorrecta. Un horizonte anual acumula más dispersión que uno mensual. Debe multiplicarse por raíz de doce."
+      ]
+    },
+    {
+      "id": "c22-q022",
+      "tema": "Convergencia del árbol",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista aumenta la cantidad de pasos y conserva los mismos porcentajes de suba y baja por paso. ¿Qué error comete?",
+      "opciones": [
+        "Impide valuar opciones de venta.",
+        "Garantiza una convergencia más rápida a Black-Scholes.",
+        "Convierte las probabilidades neutrales en reales.",
+        "Cambia la volatilidad total del horizonte en vez de preservar la calibración."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El árbol sigue admitiendo pagos de puts. El problema no es el tipo de opción sino el proceso del activo utilizado. La volatilidad total dejó de ser la buscada.",
+        "Más pasos no corrigen una parametrización incoherente. Para acercarse al límite hay que conservar el proceso subyacente. Además los precios pueden oscilar entre aproximaciones antes de converger.",
+        "Las probabilidades siguen siendo ponderaciones de valuación. Pueden cambiar numéricamente con los saltos, pero no se vuelven frecuencias físicas. La interpretación del método no depende del número de pasos.",
+        "Al reducir la duración del paso deben reducirse los movimientos típicos de cada intervalo. La calibración exponencial usa la raíz de esa duración. Mantener los saltos originales aumenta la dispersión acumulada y cambia el problema."
+      ]
+    },
+    {
+      "id": "c22-q023",
+      "tema": "Abandono y árbol de decisiones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede abandonar un proyecto y recuperar un importe de liquidación. ¿Qué aporta la teoría de opciones?",
+      "opciones": [
+        "El abandono se parece a una put americana y obliga a reconocer el riesgo cambiante de la flexibilidad.",
+        "Todos los nodos deben descontarse al mismo WACC sin revisar riesgos.",
+        "La facultad solo tiene valor si se ejerce hoy.",
+        "El derecho permite omitir los flujos y riesgos del proyecto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El abandono permite entregar el proyecto a cambio de un recupero. Esa posibilidad se parece a vender el subyacente mediante una put ejercitable antes del final. La analogía ayuda a ordenar decisiones y evitar una tasa constante aplicada mecánicamente.",
+        "Las decisiones futuras crean pagos contingentes. Su riesgo no tiene por qué coincidir en todos los nodos con el riesgo operativo promedio. El enfoque de opciones exige tratar esa diferencia.",
+        "Poder abandonar después puede valer aunque hoy convenga seguir. Esa flexibilidad futura es parte del derecho. No ejercer de inmediato no significa valor cero.",
+        "La opción depende del valor económico del proyecto y del recupero. Se necesitan datos de flujos y riesgo para estimarlos. Reconocer flexibilidad no reemplaza el análisis del subyacente."
+      ]
+    },
+    {
+      "id": "c22-q024",
+      "tema": "Distribución lognormal",
+      "dificultad": "basica",
+      "pregunta": "¿Qué propiedad de un precio lognormal es coherente con una acción de responsabilidad limitada?",
+      "opciones": [
+        "Admite precios negativos y positivos simétricos.",
+        "Nunca admite una suba superior a 100%.",
+        "No toma valores negativos y admite subas mayores a 100%.",
+        "Su nivel final tiene una distribución normal simétrica."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una distribución normal del nivel puede asignar valores negativos. La lognormal evita ese problema. La pérdida del accionista no excede el valor invertido por el solo precio de la acción.",
+        "Una acción puede más que duplicar su precio. La lognormal conserva esa posibilidad. El límite inferior porcentual no tiene un equivalente superior.",
+        "El modelo aplica normalidad a cambios logarítmicos y luego los exponencia. Así obtiene precios positivos. Permite caídas próximas al 100% y subas sin un techo porcentual simétrico.",
+        "La normal puede aproximar cambios de intervalos muy cortos. Black-Scholes utiliza precios lognormales para el horizonte. Confundir nivel y logaritmo elimina la asimetría relevante."
+      ]
+    },
+    {
+      "id": "c22-q025",
+      "tema": "Supuestos de Black-Scholes",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conjunto corresponde a la versión básica de Black-Scholes sin dividendos?",
+      "opciones": [
+        "Saltos arbitrarios y cobertura inicial fija exacta sin rebalanceo.",
+        "Dividendos desconocidos incorporados automáticamente.",
+        "Proceso continuo lognormal, volatilidad constante, tasa conocida y cobertura continua sin costos.",
+        "Rendimiento real esperado cero y prohibición de negociar el activo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los saltos pueden impedir que una cobertura continua neutralice exactamente el riesgo. Una cartera fija tampoco reproduce generalmente la opción. Estas condiciones no describen la derivación básica.",
+        "Los dividendos deben incorporarse explícitamente o mediante una adaptación. La fórmula básica no los infiere automáticamente del precio. Omitirlos puede distorsionar la prima.",
+        "La fórmula se deriva de una cartera ajustada continuamente. Supone parámetros estables y negociación sin fricciones dentro del modelo. La versión básica excluye pagos de dividendos durante la vida de la opción.",
+        "No se exige que la rentabilidad real esperada sea cero. La replicación necesita operaciones sobre el activo y el financiamiento. Prohibirlas puede impedir la construcción de la cartera."
+      ]
+    },
+    {
+      "id": "c22-q026",
+      "tema": "Estructura de Black-Scholes",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se interpreta C = S N(d1) − VP(K) N(d2) para una call europea sin dividendos?",
+      "opciones": [
+        "Comprar N(d1) acciones y financiar parte del costo con deuda de VP(K) N(d2).",
+        "Comprar N(d2) acciones e invertir VP(K) N(d1).",
+        "Comprar una acción y pedir prestado K nominal sin descuento.",
+        "Multiplicar el valor intrínseco actual por N(d1)."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "N(d1) es la delta de la call en este modelo. El segundo término es el préstamo que reduce el desembolso inicial. La fórmula mantiene la lógica de acción más financiamiento del árbol binomial.",
+        "Intercambia los coeficientes y transforma deuda en inversión. La réplica de una call usa exposición positiva financiada parcialmente con un préstamo. El segundo término debe restarse.",
+        "Esta cartera no es la réplica general de una call. Los coeficientes ajustan tanto la exposición como el financiamiento. Además el valor del pago futuro se expresa a valor presente.",
+        "Una call puede valer aunque su valor intrínseco sea cero. El modelo incorpora oportunidades futuras por separado. No basta ponderar el ejercicio inmediato."
+      ]
+    },
+    {
+      "id": "c22-q027",
+      "tema": "Cálculo de d1 y d2",
+      "dificultad": "avanzada",
+      "pregunta": "S = K = 100, r continua anual = 2%, σ anual = 20% y t = 1 año. ¿Qué valores corresponden?",
+      "opciones": [
+        "d1 = 0 y d2 = −0,20.",
+        "d1 = 0,10 y d2 = −0,10.",
+        "d1 = 1 y d2 = 0,80.",
+        "d1 = 0,20 y d2 = 0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Que S sea igual a K hace cero solo el logaritmo. Todavía deben incluirse la tasa y el término de varianza. Omitir ambos produce esos valores.",
+        "Estos valores omiten la tasa del 2%. La tasa agrega 0,02 dividido por 0,20, igual a 0,10, a ambos d. Incorporarla lleva a 0,20 y cero.",
+        "Este resultado sobredimensiona d1 por un error de unidades o de denominador. Las tasas se ingresan como 0,02 y 0,20. El cálculo consistente da d1 igual a 0,20.",
+        "El numerador de d1 es ln(1) más 0,02 más 0,20²/2, igual a 0,04. Se divide por 0,20 y resulta 0,20. Luego d2 es d1 menos 0,20, igual a cero."
+      ]
+    },
+    {
+      "id": "c22-q028",
+      "tema": "Prima Black-Scholes",
+      "dificultad": "intermedia",
+      "pregunta": "S = 100, VP(K) = 96, N(d1) = 0,60 y N(d2) = 0,52. ¿Cuánto vale la call?",
+      "opciones": [
+        "8.",
+        "10,08.",
+        "109,92.",
+        "60."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ocho surge si se usa 100 en lugar de VP(K) en el segundo término. El ejercicio debe estar descontado. Usar 96 reconoce el beneficio del pago diferido.",
+        "El componente accionario es 100 por 0,60, igual a 60. El financiamiento es 96 por 0,52, igual a 49,92. Restar ambos da 10,08.",
+        "Este valor suma los dos componentes en lugar de restarlos. El segundo representa deuda y reduce el costo neto. Corresponde 60 menos 49,92.",
+        "Sesenta es solo el valor de las acciones de la réplica. Falta deducir el préstamo. El costo de la cartera completa es 10,08."
+      ]
+    },
+    {
+      "id": "c22-q029",
+      "tema": "Normal acumulada",
+      "dificultad": "basica",
+      "pregunta": "Si d2 = −0,30 y N(0,30) = 0,6179, ¿cuánto vale N(d2)?",
+      "opciones": [
+        "−0,6179.",
+        "0,3821.",
+        "0,6179.",
+        "1,6179."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una probabilidad acumulada no puede ser negativa. Cambiar el signo del argumento no cambia el signo de la probabilidad. Debe usarse la simetría para restar de uno.",
+        "La normal estándar es simétrica respecto de cero. Por eso N(−0,30) es uno menos N(0,30). La resta da 0,3821.",
+        "Este valor corresponde al argumento positivo. Para un argumento negativo la acumulada debe quedar por debajo de 0,5. Su valor es 1 menos 0,6179.",
+        "Una probabilidad no puede superar uno. La simetría requiere una resta y no una suma. El resultado válido es 0,3821."
+      ]
+    },
+    {
+      "id": "c22-q030",
+      "tema": "Convenciones de tasas",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa efectiva anual es 10,25% y K = 100 se paga dentro de seis meses. ¿Qué combinación es consistente?",
+      "opciones": [
+        "r continua anual = 10,25% y VP(K) = 95,24 exactamente.",
+        "r continua anual = 5% y VP(K) ≈ 95,24.",
+        "r continua anual ≈ 9,758% y VP(K) ≈ 90,70.",
+        "r continua anual = ln(1,1025) ≈ 9,758% y VP(K) ≈ 95,24."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La tasa efectiva y la continua no son numéricamente iguales. Ingresar 10,25% como continua genera otro factor de acumulación. Debe convertirse con el logaritmo natural.",
+        "Cinco por ciento es aquí la tasa efectiva semestral. No es la tasa continua anual compatible con t medido en años. La conversión correcta da aproximadamente 9,758% anual continuo.",
+        "Este valor descuenta un año completo al factor 1,1025. El ejercicio ocurre dentro de medio año. Corresponde descontar por 1,05 y obtener 95,24.",
+        "La tasa continua equivalente es ln(1,1025). Como 1,1025 es 1,05 al cuadrado, el factor semestral es 1,05. Dividir 100 por ese factor da 95,2381."
+      ]
+    },
+    {
+      "id": "c22-q031",
+      "tema": "Límites de delta",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación sobre delta de una call estándar sin dividendos es correcta en Black-Scholes?",
+      "opciones": [
+        "Está entre 0 y 1; tiende a 1 con K próximo a cero y a 0 con K extremadamente alto.",
+        "Puede ser negativa porque se puede perder la prima.",
+        "Siempre supera 1 por el apalancamiento.",
+        "Es exactamente 0,5 para cualquier S."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Delta es N(d1), una acumulada entre cero y uno. Con ejercicio casi gratuito, la call se parece a poseer la acción. Con K muy alto, pequeños cambios de S casi no modifican su valor.",
+        "Perder dinero no implica sensibilidad negativa a S. Una call estándar se beneficia de una suba del activo. Su delta no se vuelve negativa porque la prima esté en riesgo.",
+        "El apalancamiento compara cambios porcentuales y no cambios monetarios. Delta mide unidades de acción por opción. Puede ser menor que uno aunque el riesgo porcentual de la call sea elevado.",
+        "Delta depende de S, K, volatilidad, tasa y plazo. Puede rondar 0,5 en ciertos casos, pero no es universal. Los extremos del ejercicio muestran cómo cambia."
+      ]
+    },
+    {
+      "id": "c22-q032",
+      "tema": "Rebalanceo cerca del ejercicio",
+      "dificultad": "avanzada",
+      "pregunta": "Cerca del vencimiento, ¿en qué zona suele cambiar más intensamente la delta de una call ante variaciones pequeñas de S?",
+      "opciones": [
+        "Siempre muy dentro del dinero.",
+        "Siempre muy fuera del dinero.",
+        "Cerca de K.",
+        "Con igual intensidad a cualquier precio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Muy dentro del dinero, la delta suele estar cerca de uno. Una variación pequeña de S cambia poco esa exposición. El cambio más brusco suele concentrarse alrededor de K.",
+        "Muy fuera del dinero, la delta suele estar cerca de cero. Mientras la variación no acerque el activo a K, la cobertura cambia poco. La región de transición es la más sensible.",
+        "Cerca de K, una variación pequeña modifica mucho la posibilidad de ejercicio. La delta transita rápidamente entre niveles cercanos a cero y a uno cuando resta poco tiempo. Por eso esa zona suele exigir más rebalanceo.",
+        "La curva de valor no tiene una curvatura uniforme. La sensibilidad de delta cambia con el grado de entrada en el dinero. También depende del plazo restante."
+      ]
+    },
+    {
+      "id": "c22-q033",
+      "tema": "Volatilidad y delta",
+      "dificultad": "avanzada",
+      "pregunta": "¿Es correcto afirmar que una mayor volatilidad siempre aumenta delta de cualquier call sin dividendos?",
+      "opciones": [
+        "Sí: si sube la prima, deben subir todas sus sensibilidades.",
+        "No: delta nunca depende de la volatilidad.",
+        "No: aumenta la prima, pero el efecto sobre delta depende de los parámetros.",
+        "Sí: delta es igual a σ anual."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una curva puede desplazarse hacia arriba y cambiar de pendiente en sentidos distintos según el punto. Que la prima aumente con σ no determina todas sus derivadas. Debe analizarse la opción concreta.",
+        "Delta es N(d1) y d1 incluye σ. La cobertura sí puede cambiar al variar la volatilidad. Lo incorrecto es afirmar que siempre cambia en el mismo sentido.",
+        "La altura de la curva de valor y su pendiente son magnitudes diferentes. En d1 la volatilidad aparece tanto dividiendo como en un término creciente. Por eso no existe una dirección universal del efecto sobre delta.",
+        "Delta se expresa en acciones por opción. La volatilidad mide dispersión de rendimientos por unidad de tiempo. No son la misma variable ni tienen las mismas unidades."
+      ]
+    },
+    {
+      "id": "c22-q034",
+      "tema": "Compensación con opciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa entrega calls con K igual a S y afirma que la compensación vale cero. ¿Qué observación corresponde?",
+      "opciones": [
+        "El valor intrínseco es cero, pero puede existir valor temporal importante.",
+        "La compensación es cero hasta que se ejerzan.",
+        "La compensación debe equivaler al precio completo de la acción.",
+        "La prima depende únicamente del sueldo del ejecutivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con S igual a K, ejercer inmediatamente no genera ganancia. Sin embargo, el derecho a aprovechar futuras subas tiene valor. La empresa transfiere un activo económico aunque no entregue efectivo al otorgarlo.",
+        "El derecho tiene valor al ser concedido. Esperar al ejercicio ignora la posibilidad de negociarlo o replicarlo económicamente. La falta de desembolso actual no prueba costo cero.",
+        "Una call no entrega todos los derechos de una acción. Puede vencer sin valor y no cobra dividendos por sí misma. Por eso debe valuarse el derecho, no equipararlo automáticamente a S.",
+        "El sueldo integra el paquete laboral, pero no es un parámetro de la prima. El modelo utiliza S, K, volatilidad, tasa y plazo. La remuneración salarial no determina mecánicamente la opción."
+      ]
+    },
+    {
+      "id": "c22-q035",
+      "tema": "Fechas retroactivas",
+      "dificultad": "intermedia",
+      "pregunta": "Hoy S = 60 y se conceden opciones con K = 30, pero se las presenta como otorgadas cuando S era 30. ¿Cuál es el problema económico?",
+      "opciones": [
+        "Una call nunca puede concederse con K menor que S.",
+        "La fecha es irrelevante si K no cambia.",
+        "La opción vale cero porque no se pagó efectivo.",
+        "Se oculta parte del valor de la compensación usando un precio histórico inadecuado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una call puede otorgarse dentro del dinero. Eso incrementa su valor para quien la recibe. El problema planteado es falsear la información de la entrega, no una imposibilidad financiera.",
+        "La fecha determina S y el plazo disponible, entre otros datos. Un K fijo no hace irrelevante al resto. Usar un precio histórico menor puede subestimar la transferencia.",
+        "Un derecho contingente puede tener valor sin pago de caja inicial. Aquí además existe una ventaja inmediata de comprar por debajo de S. Confundir caja con costo económico oculta la compensación.",
+        "El precio vigente en la concesión es central para valuar lo entregado. Presentar una entrega actual como histórica puede reducir artificialmente el costo informado. La generosidad del contrato y la transparencia de su registro son cuestiones distintas."
+      ]
+    },
+    {
+      "id": "c22-q036",
+      "tema": "Diversificación del ejecutivo",
+      "dificultad": "intermedia",
+      "pregunta": "Una ejecutiva no puede vender sus opciones y ya concentra su patrimonio en la empresa. ¿Por qué podría valorarlas menos que su costo de mercado para la compañía?",
+      "opciones": [
+        "Las restricciones demuestran que el derecho no tiene valor económico.",
+        "La concentración de riesgo y la falta de liquidez reducen su valoración personal.",
+        "Su aversión al riesgo cambia la probabilidad neutral de todo el mercado.",
+        "El valor personal debe ser idéntico al de una cartera negociable."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una restricción personal no borra los pagos potenciales. La empresa sigue transfiriendo un derecho valioso. Hay que distinguir costo económico de mercado y utilidad para una persona restringida.",
+        "La valoración replicable supone posibilidades de negociación que ella puede no tener. Una posición concentrada aumenta el riesgo difícil de diversificar. Esto puede reducir su valoración personal y favorecer un ejercicio temprano.",
+        "Las preferencias individuales no sustituyen los precios de mercado. Pueden afectar cuánto valora ella su paquete. No alteran directamente las ponderaciones neutrales de todos los operadores.",
+        "La igualdad requiere posibilidades de negociación comparables. El caso introduce precisamente restricciones que impiden diversificar con libertad. Ignorarlas confunde valor de mercado y valoración personal."
+      ]
+    },
+    {
+      "id": "c22-q037",
+      "tema": "Warrants en una emisión",
+      "dificultad": "intermedia",
+      "pregunta": "Una emisión incluye warrants anunciados como gratuitos porque no tienen precio separado. ¿Qué debe considerar quien evalúa el financiamiento?",
+      "opciones": [
+        "Valen cero por no tener precio separado.",
+        "Pueden tener valor y forman parte de lo que se entrega a los inversores.",
+        "Su ejercicio reduce necesariamente el número de acciones.",
+        "Son equivalentes a préstamos libres de riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No separar un precio no elimina las oportunidades del derecho. Su costo puede estar incorporado en las condiciones del resto de la emisión. Ignorarlo subestima lo entregado a los inversores.",
+        "La etiqueta comercial no fija el valor económico. El derecho de suscripción puede generar ganancias futuras. Debe considerarse junto con el precio y las condiciones del paquete completo.",
+        "Un warrant emitido por la compañía normalmente obliga a crear nuevas acciones al ejercerse. El número de títulos aumenta. Esa es la fuente de la dilución que debe analizarse.",
+        "El warrant tiene un pago contingente y puede expirar sin valor. Un préstamo seguro promete una devolución fija. Sus riesgos y formas de pago son distintos."
+      ]
+    },
+    {
+      "id": "c22-q038",
+      "tema": "Seguro de cartera",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo tiene una cartera de 500 millones y busca un valor terminal bruto mínimo de 400 millones dentro de un año. ¿Qué instrumento reproduce la protección al vencimiento?",
+      "opciones": [
+        "Una call con K = 400 millones.",
+        "Vender una put con K = 500 millones.",
+        "Vender hoy toda la cartera por 400 millones.",
+        "Una put europea sobre la cartera con K = 400 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La call paga cuando la cartera supera el ejercicio. No compensa el faltante cuando cae por debajo de 400. Por eso no crea el piso requerido.",
+        "Vender una put obliga al fondo a cubrir pérdidas de otro inversor. Aumenta su exposición negativa ante una caída. El seguro requiere comprar la protección.",
+        "La venta inmediata elimina también la participación en futuras subas. El seguro busca mantener esa participación y limitar las bajas al final. No tiene el mismo perfil de pagos.",
+        "La put paga el faltante si la cartera cae por debajo de 400. Sumada al activo, asegura ese piso terminal bruto. La prima debe pagarse aparte y también importa para evaluar el costo del seguro."
+      ]
+    },
+    {
+      "id": "c22-q039",
+      "tema": "Pago del seguro",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera termina valiendo 340 millones y una put comprada sobre ella tiene K = 400 millones. Sin contar prima ni dividendos, ¿cuánto vale el conjunto al vencimiento?",
+      "opciones": [
+        "400 millones.",
+        "340 millones.",
+        "460 millones.",
+        "60 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La put paga 400 menos 340, igual a 60 millones. Los activos siguen valiendo 340 millones. La suma da el piso contratado de 400 millones.",
+        "Este valor ignora el pago de la protección. La put compensa el faltante frente a K. Deben agregarse sus 60 millones.",
+        "Este valor incorpora una ganancia adicional no contratada. La indemnización es solo 60 y no 120. El total correcto es 340 más 60.",
+        "Sesenta es únicamente el pago de la put. El fondo también conserva los activos. Omitirlos confunde indemnización con patrimonio total."
+      ]
+    },
+    {
+      "id": "c22-q040",
+      "tema": "Volatilidad implícita",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se obtiene la volatilidad implícita de una opción?",
+      "opciones": [
+        "Se divide la prima por K y se anualiza linealmente.",
+        "Se sustituye S por su máximo histórico.",
+        "Se busca σ que iguala el precio del modelo con la prima observada.",
+        "Se usa obligatoriamente la desviación histórica sin invertir el modelo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La prima no es proporcional a σ de manera universal. También intervienen S, K, tasa, plazo y dividendos. Dividir por K no invierte la fórmula.",
+        "El máximo histórico no sustituye el precio vigente en una opción ordinaria. Ese reemplazo cambia arbitrariamente el subyacente valorado. La incógnita que se busca es σ.",
+        "Se conocen la prima y los otros datos relevantes del contrato. Se invierte el modelo para encontrar la volatilidad compatible con ese precio. El resultado depende de los supuestos utilizados.",
+        "La volatilidad histórica resume rendimientos pasados. La implícita se deduce de precios actuales de opciones. Pueden diferir y no deben confundirse."
+      ]
+    },
+    {
+      "id": "c22-q041",
+      "tema": "Inversión numérica",
+      "dificultad": "intermedia",
+      "pregunta": "Con iguales S, K, plazo, tasa y dividendos, un modelo da primas 4, 7 y 10 para σ de 10%, 20% y 30%. Si la prima observada es 7, ¿cuál es σ implícita?",
+      "opciones": [
+        "10%.",
+        "30%.",
+        "20%.",
+        "7%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Con 10% el modelo entrega 4. Ese precio queda por debajo del observado. La coincidencia se obtiene aumentando σ hasta 20%.",
+        "Con 30% el precio modelado es 10. Ese valor supera la prima observada. La volatilidad compatible es 20%.",
+        "La implícita reproduce la prima de mercado. En los datos, σ de 20% genera exactamente un precio de 7. No hace falta promediar los escenarios.",
+        "Siete es una prima monetaria, no una desviación porcentual. Las unidades no son intercambiables. La correspondencia de la tabla indica 20%."
+      ]
+    },
+    {
+      "id": "c22-q042",
+      "tema": "Índices de volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Un comité observa una suba de una medida de volatilidad implícita de un índice, como el VIX. ¿Qué interpretación corresponde al enfoque del capítulo?",
+      "opciones": [
+        "Las opciones reflejan mayor volatilidad implícita, sin fijar la dirección futura del índice.",
+        "El índice necesariamente subirá en igual porcentaje.",
+        "La volatilidad realizada futura queda garantizada.",
+        "La medida representa el dividendo esperado del índice."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La medida se infiere de precios de opciones. Puede señalar mayor incertidumbre incorporada en esos precios. No garantiza ni una dirección del mercado ni la dispersión que finalmente se realizará. Una posición que gane con una suba de la volatilidad busca exposición a esa variable, no una apuesta equivalente a comprar el índice accionario.",
+        "La amplitud de las fluctuaciones y su dirección son conceptos diferentes. Una mayor volatilidad permite escenarios de subas y bajas más amplias. No implica una rentabilidad positiva determinada.",
+        "La implícita depende de los precios y del modelo. La volatilidad observada posteriormente puede diferir. No es una garantía contractual de dispersión futura.",
+        "Los dividendos son distribuciones de efectivo del activo. La volatilidad mide dispersión de sus rendimientos. Ambos afectan opciones, pero son variables distintas."
+      ]
+    },
+    {
+      "id": "c22-q043",
+      "tema": "Call americana sin dividendos",
+      "dificultad": "basica",
+      "pregunta": "Con tasa no negativa y sin dividendos, ¿por qué no conviene ejercer anticipadamente una call americana?",
+      "opciones": [
+        "Las americanas prohíben ejercer antes.",
+        "Una call deja de aumentar al entrar en el dinero.",
+        "Ejercer permite cobrar un dividendo inexistente.",
+        "Se pierde flexibilidad y se adelanta innecesariamente K."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una americana sí permite ejercer anticipadamente. La distinción es entre posibilidad contractual y conveniencia económica. Aquí la posibilidad existe, pero no conviene utilizarla.",
+        "Una call dentro del dinero sigue respondiendo a S. No hay un techo de valor por haber cruzado K. La razón para esperar es preservar flexibilidad y diferir el pago.",
+        "El caso excluye dividendos. No puede justificarse la decisión con un cobro inexistente. Si hubiera distribuciones relevantes, habría que revisar el ejercicio.",
+        "Conservar el derecho mantiene la protección frente a escenarios desfavorables. También permite seguir invirtiendo el dinero de ejercicio. Sin dividendos no aparece una ventaja compensadora por convertirse antes en accionista."
+      ]
+    },
+    {
+      "id": "c22-q044",
+      "tema": "Comparación de calls",
+      "dificultad": "basica",
+      "pregunta": "Una call americana y una europea tienen iguales datos sobre una acción sin dividendos, con tasa no negativa y sin fricciones. ¿Qué relación de precios corresponde?",
+      "opciones": [
+        "La americana vale exactamente el doble.",
+        "Tienen el mismo valor.",
+        "La europea vale más por tener menos fechas de ejercicio.",
+        "La americana vale menos porque agrega decisiones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hay un multiplicador fijo por el estilo de ejercicio. El valor extra depende de que ejercer antes sea útil. En este caso no lo es.",
+        "La americana agrega fechas de ejercicio que no conviene utilizar bajo estos supuestos. El titular puede esperar y conservar los mismos derechos terminales que la europea. Como la facultad extra no aporta ventaja, sus valores coinciden.",
+        "Reducir las alternativas del titular no aumenta su valor. La americana puede imitar a la europea esperando al final. Por eso la europea no puede dominarla.",
+        "El titular no está obligado a elegir una acción perjudicial. Puede ignorar las fechas adicionales. Más decisiones opcionales no reducen el valor del contrato."
+      ]
+    },
+    {
+      "id": "c22-q045",
+      "tema": "Put con activo en cero",
+      "dificultad": "intermedia",
+      "pregunta": "Una put americana tiene K = 100 y el activo cae a cero, donde permanece. Falta un año y la tasa efectiva es 10%. ¿Qué resultado corresponde?",
+      "opciones": [
+        "Conviene esperar; ambas valen 100 hoy.",
+        "Conviene ejercer por 100 hoy; la put europea comparable vale 90,91 aproximadamente.",
+        "Conviene ejercer por 90,91 hoy; la europea vale 100 hoy.",
+        "No conviene ejercer nunca porque el activo no vale nada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esperar sacrifica intereses sin mejorar el pago futuro. La europea no puede adelantar el cobro. Sus 100 futuros no equivalen a 100 actuales.",
+        "La put alcanzó su máximo pago de 100 y esperar no lo aumenta. Ejercer permite invertir esos 100 de inmediato. La europea solo cobra al final y vale 100 dividido por 1,10, igual a 90,91.",
+        "El ejercicio paga K menos S, igual a 100 hoy. El descuento corresponde a la opción que obliga a esperar. La alternativa invierte los momentos y sus valores.",
+        "Un activo sin valor vuelve especialmente útil el derecho a vender por K. La diferencia cobrada es 100. Abandonar el derecho perdería ese importe."
+      ]
+    },
+    {
+      "id": "c22-q046",
+      "tema": "Regla americana en el árbol",
+      "dificultad": "intermedia",
+      "pregunta": "En un nodo de una put americana, el ejercicio vale 18 y la continuación descontada vale 15. ¿Qué valor se asigna al nodo?",
+      "opciones": [
+        "15.",
+        "33.",
+        "16,5.",
+        "18."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Quince omite una alternativa permitida más rentable. Sería el valor si el contrato obligara a continuar. La americana permite obtener 18 de inmediato.",
+        "Ejercer y continuar son decisiones excluyentes para una misma opción. No pueden cobrarse ambas. Sumarlas duplica derechos inexistentes.",
+        "La decisión no se resuelve con un sorteo entre alternativas. El titular selecciona la mejor. No corresponde promediar valores de acciones mutuamente excluyentes.",
+        "El titular elige la alternativa de mayor valor. Como 18 supera 15, conviene ejercer. El nodo toma el máximo entre ejercicio y continuación."
+      ]
+    },
+    {
+      "id": "c22-q047",
+      "tema": "Prima americana de la put",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué relación general existe entre una put americana y una europea idénticas?",
+      "opciones": [
+        "La americana vale al menos tanto; la diferencia puede ser cero.",
+        "La americana vale estrictamente más en toda circunstancia.",
+        "La europea siempre vale más para evitar errores del titular.",
+        "La paridad europea obliga a que sean iguales en todos los casos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La americana permite imitar a la europea esperando al vencimiento. Por eso no puede valer menos. Si ejercer antes nunca resulta conveniente, la facultad adicional no aporta una prima positiva.",
+        "Una facultad adicional no tiene que ser útil con todos los parámetros. Puede ser óptimo esperar siempre. La desigualdad correcta no es necesariamente estricta.",
+        "El tenedor no está obligado a ejercer mal. Puede ignorar las fechas adicionales. Tener más alternativas no reduce el valor financiero del derecho.",
+        "La paridad exacta habitual supone opciones europeas de igual K y plazo. La posibilidad de cobro anticipado cambia las relaciones. No puede usarse esa igualdad para eliminar el valor de la flexibilidad."
+      ]
+    },
+    {
+      "id": "c22-q048",
+      "tema": "Ajuste por dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "S = 100 y el valor presente de los dividendos conocidos previos al vencimiento es 4. ¿Qué precio ajustado corresponde en la aproximación de Black-Scholes para opciones europeas?",
+      "opciones": [
+        "104.",
+        "100.",
+        "96.",
+        "4."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar el dividendo atribuye al derecho un beneficio que no cobra. La corrección debe reducir la base utilizada. El ajuste correcto es restar 4.",
+        "Mantener 100 omite el valor que saldrá como distribución. La fórmula básica no lo incorpora automáticamente. El precio ajustado pasa a 96.",
+        "El titular de la opción no recibe esos dividendos. La aproximación separa esa parte del precio del activo. Se usa 100 menos 4, igual a 96, reconociendo que es un ajuste aproximado para distribuciones discretas. Con S fijo y los demás parámetros constantes, más dividendos tienden a bajar la call y aumentar la put.",
+        "Cuatro es solo el valor presente de las distribuciones. Falta conservar el componente del activo al que se refiere la opción. La base ajustada es la diferencia de 96."
+      ]
+    },
+    {
+      "id": "c22-q049",
+      "tema": "Paridad con dividendos",
+      "dificultad": "avanzada",
+      "pregunta": "S = 100, VP de dividendos conocidos = 4, VP(K) = 95 y call europea = 9. ¿Cuánto vale la put europea de igual K y plazo?",
+      "opciones": [
+        "4.",
+        "18.",
+        "8.",
+        "0."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cuatro resulta de aplicar la paridad sin dividendos. Esa fórmula omite una distribución que recibe el accionista y no la call. Incorporar ese ajuste lleva el precio a 8.",
+        "Este valor no respeta la igualdad de carteras. Los dividendos se agregan una sola vez al despejar la put. La sustitución directa produce 8.",
+        "La paridad ajustada da put igual a call más VP(K) menos S más VP(dividendos). La cuenta es 9 más 95 menos 100 más 4. El resultado es 8.",
+        "La put puede valer aunque hoy no convenga ejercer. Protege ante caídas futuras. La paridad determina aquí una prima positiva de 8."
+      ]
+    },
+    {
+      "id": "c22-q050",
+      "tema": "Ejercicio y dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora analiza ejercer una call americana para cobrar un dividendo próximo. ¿Qué criterio es correcto?",
+      "opciones": [
+        "Comparar ejercicio y continuación: el dividendo debe compensar intereses y flexibilidad perdidos.",
+        "Ejercer ante cualquier dividendo positivo.",
+        "Ejercer justo después del corte ex dividendo para cobrarlo.",
+        "Descartar siempre el ejercicio de cualquier call con dividendos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Ejercer permite convertirse en accionista a tiempo para recibir la distribución. Pero adelanta K y destruye la opcionalidad restante. La comparación adecuada se hace con ambos valores, especialmente antes de la fecha ex dividendo.",
+        "Un dividendo pequeño puede no compensar ni el interés perdido al adelantar K. También puede sacrificarse protección frente a caídas. No basta con que la distribución sea positiva.",
+        "Comprar o ejercer después del corte no concede derecho a ese dividendo. El precio ya refleja la separación del pago. Para capturarlo, la comparación relevante debe hacerse antes.",
+        "La regla de no ejercer calls anticipadamente requiere ausencia de dividendos bajo los supuestos usuales. Una distribución suficientemente grande puede cambiar la decisión. No debe extenderse la regla fuera de su ámbito."
+      ]
+    },
+    {
+      "id": "c22-q051",
+      "tema": "Árbol con dividendo proporcional",
+      "dificultad": "avanzada",
+      "pregunta": "Antes de un dividendo S = 100 y K de una call americana = 80. Si se espera, se paga 20% de S y la acción queda en 80; luego sube 25% o baja 20%. La tasa de ese último período es cero. ¿Conviene ejercer antes del dividendo?",
+      "opciones": [
+        "No: continuación = 20 porque la call recibe el dividendo.",
+        "No: continuación = 25 al considerar solo la suba.",
+        "Es indiferente porque K se reduce automáticamente en 20.",
+        "Sí: ejercicio = 20 y continuación ≈ 8,89."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El titular de la call no cobra la distribución si mantiene solo el derecho. Su subyacente queda en 80. Deben valuarse los pagos futuros desde ese precio ex dividendo.",
+        "La suba lleva la acción de 80 a 100 y deja un pago de 20. Además existe un estado bajo con pago cero. Omitirlo y confundir rendimiento con pago exagera la continuación.",
+        "Un dividendo ordinario no reduce automáticamente K en este contrato. El caso mantiene el ejercicio en 80. La comparación es entre cobrar 20 ahora y conservar un derecho de 8,89.",
+        "Después del dividendo los precios finales son 100 y 64, con pagos de 20 y cero. La probabilidad neutral de suba es 0,20/0,45, igual a 4/9. Continuar vale 80/9, aproximadamente 8,89, inferior al ejercicio inmediato de 20."
+      ]
+    },
+    {
+      "id": "c22-q052",
+      "tema": "Divisas e ingreso perdido",
+      "dificultad": "intermedia",
+      "pregunta": "Una unidad de divisa cuesta 3 unidades locales y rinde 4% extranjero efectivo en el año. En el ajuste ilustrativo se descuenta ese ingreso al mismo 4%. ¿Cuál es el precio ajustado?",
+      "opciones": [
+        "3 + 0,12/1,04 ≈ 3,1154.",
+        "3 − 0,12/1,04 ≈ 2,8846.",
+        "3 − 0,12 = 2,88 exactamente.",
+        "3/0,04 = 75."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar el ingreso atribuye a la call un beneficio que no recibe. El ajuste debe reducir la base para valuar el derecho. Corresponde restar el valor presente de 0,12.",
+        "Poseer la divisa permite obtener un interés que la call no entrega. El ingreso del ejemplo equivale a 3 por 4%, igual a 0,12. Restar su valor presente produce 2,8846, también igual a 3/1,04.",
+        "La resta directa omite el descuento indicado. El interés se recibe al final y primero debe traerse a hoy. Dividir 0,12 por 1,04 da el importe correcto a restar.",
+        "Dividir el precio por una tasa no mide ingreso perdido. Se necesita descontar el interés asociado a poseer la divisa. El ajuste debe permanecer próximo al precio inicial y no elevarlo a 75."
+      ]
+    },
+    {
+      "id": "c22-q053",
+      "tema": "Opciones asiáticas y retrospectivas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distinción identifica correctamente estas variantes?",
+      "opciones": [
+        "La asiática usa siempre el máximo histórico y la retrospectiva siempre el promedio.",
+        "La asiática puede fijar K con el promedio de precios; la retrospectiva permite seleccionar un precio histórico según el contrato.",
+        "Ambas tienen K fijo y no dependen de precios anteriores.",
+        "La asiática permite solo fechas trimestrales y la retrospectiva es una call sobre una put."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta alternativa invierte el papel del promedio y de la selección histórica. Una variante asiática de ejercicio promedio usa precisamente ese promedio. La retrospectiva no se define por promediar.",
+        "El promedio incorpora varias observaciones de la trayectoria. La retrospectiva utiliza precios pasados para determinar un ejercicio o pago favorable según sus términos. Las dos dependen de la historia, pero no del mismo resumen de ella.",
+        "Estas características contractuales requieren información de la trayectoria. Conocer solo S final no basta generalmente. Tratarlas como calls ordinarias elimina parte del derecho.",
+        "Fechas discretas de ejercicio identifican una bermuda. Una call sobre una put es una caput. Ninguna de esas definiciones describe promedio o retrospectiva."
+      ]
+    },
+    {
+      "id": "c22-q054",
+      "tema": "Barreras de entrada y salida",
+      "dificultad": "intermedia",
+      "pregunta": "Una opción se activa solo si S toca 120; otra desaparece si toca 80. ¿Cómo se denominan, respectivamente?",
+      "opciones": [
+        "Europea y americana por esos niveles.",
+        "Digital y asiática.",
+        "De salida y de entrada.",
+        "De entrada y de salida."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Europea y americana identifican las fechas permitidas de ejercicio. No describen la activación o extinción al tocar un precio. Las barreras son otra característica del contrato.",
+        "Digital se refiere a un pago fijo condicionado y asiática a un promedio. Ninguna identifica por sí sola el evento de tocar una barrera. Las denominaciones correctas son entrada y salida.",
+        "Este orden invierte las definiciones. La primera nace al tocar la barrera y es de entrada. La segunda desaparece y es de salida.",
+        "Una barrera de entrada activa un derecho al ocurrir el evento. Una barrera de salida extingue un derecho que estaba activo. En ambos casos importa si se tocó el nivel durante la trayectoria."
+      ]
+    },
+    {
+      "id": "c22-q055",
+      "tema": "Bermuda y opción de elección",
+      "dificultad": "basica",
+      "pregunta": "¿Qué combinación de definiciones es correcta?",
+      "opciones": [
+        "La bermuda permite ejercicio en fechas discretas; la de elección permite decidir después si será call o put.",
+        "La bermuda permite ejercicio en todo instante; la de elección entrega call y put simultáneamente.",
+        "La bermuda paga un monto fijo; la de elección usa un promedio como K.",
+        "La bermuda es europea sin fechas adicionales; la de elección siempre es una put."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La bermuda ocupa una posición intermedia entre ejercicio europeo y americano. La opción de elección agrega la facultad de seleccionar el tipo de derecho en la fecha pactada. Elegir un derecho no equivale a recibir ambos a la vez.",
+        "Ejercer en cualquier momento describe una americana. Recibir call y put simultáneamente sería otra combinación de derechos. La opción de elección requiere seleccionar según el contrato.",
+        "Un pago fijo condicionado define una digital. El promedio de precios caracteriza una asiática. No son las reglas que distinguen los contratos consultados.",
+        "La bermuda sí agrega fechas anteriores al vencimiento, aunque limitadas. La de elección no está predeterminada necesariamente como put. Las dos definiciones omiten la flexibilidad que las caracteriza."
+      ]
+    },
+    {
+      "id": "c22-q056",
+      "tema": "Compuestas, caput y digitales",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál de estas asociaciones es correcta?",
+      "opciones": [
+        "Compuesta: varias acciones; caput: put sobre call; digital: pago S menos K variable.",
+        "Compuesta: bono sin opciones; caput: dividendo fijo; digital: ejercicio trimestral.",
+        "Compuesta: opción sobre otra opción; caput: call sobre put; digital: pago fijo condicionado.",
+        "Compuesta: promedio de precios; caput: barrera de salida; digital: elección de call o put."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Tener varias acciones no define una opción compuesta. Caput identifica una call sobre put, no la relación inversa. El pago variable S menos K positivo corresponde a una call ordinaria.",
+        "Ninguna asociación corresponde a estas definiciones. El bono simple no contiene el derecho sobre otra opción y el dividendo no define caput. El ejercicio trimestral es una característica bermuda.",
+        "La compuesta tiene otra opción como subyacente. La caput es un caso particular de esa estructura. La digital paga cero o una suma predeterminada, no una diferencia variable como la call ordinaria.",
+        "El promedio corresponde a variantes asiáticas y la barrera determina activación o extinción. La elección posterior de call o put define una opción de elección. Son contratos distintos de los consultados."
+      ]
+    },
+    {
+      "id": "c22-q057",
+      "tema": "Dilución y convertibles",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue el ejercicio de warrants emitidos por la empresa de una call bursátil entre inversores sobre acciones existentes?",
+      "opciones": [
+        "Ambos ejercicios necesariamente duplican el capital de la empresa.",
+        "La call entre terceros siempre crea acciones nuevas y el warrant nunca.",
+        "El warrant puede exigir acciones nuevas y entrada de efectivo; la call entre terceros no cambia por sí sola las acciones emitidas.",
+        "Los warrants son deuda simple sin componente opcional."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No hay un multiplicador fijo para la cantidad de acciones o el capital. Depende del número de derechos y sus condiciones. La call entre terceros ni siquiera requiere una emisión empresarial.",
+        "La alternativa invierte el mecanismo. El warrant emitido por la empresa puede crear acciones al ejercerse. La call ordinaria entre inversores no obliga por sí misma a emitirlas.",
+        "La suscripción de acciones nuevas amplía el denominador del valor por acción y aporta el dinero de ejercicio. La call entre terceros se cumple con acciones existentes o según su liquidación contractual. Los convertibles también pueden diluir al cambiar deuda por acciones, aunque su mecanismo de ingreso no es el mismo que el warrant.",
+        "Un warrant da derecho a comprar acciones a un ejercicio determinado. Puede expirar sin valor y no promete devolución fija. Un convertible combina deuda y una facultad de conversión, que tampoco es deuda simple."
+      ]
+    },
+    {
+      "id": "c22-q058",
+      "tema": "Precio implícito del warrant",
+      "dificultad": "intermedia",
+      "pregunta": "Una emisión obtiene 3 millones por deuda y 200.000 warrants. La deuda sin warrants vale 2,2 millones. ¿Qué precio implícito se paga por warrant?",
+      "opciones": [
+        "4.",
+        "15.",
+        "11.",
+        "0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio residual de los warrants es 3 menos 2,2 millones, igual a 800.000. Se divide por los 200.000 derechos. El resultado es 4 por warrant.",
+        "Quince atribuye toda la financiación a los warrants. Los inversores también reciben deuda por 2,2 millones. Ese valor debe restarse antes de dividir.",
+        "Once es el valor de la deuda dividido por la cantidad de warrants. No mide el componente opcional del paquete. El numerador pertinente es el residual de 800.000.",
+        "No separar precios no implica entregar derechos de valor cero. El total cobrado excede el valor de la deuda. La diferencia se está atribuyendo implícitamente a los warrants."
+      ]
+    },
+    {
+      "id": "c22-q059",
+      "tema": "Precio posterior a la dilución",
+      "dificultad": "avanzada",
+      "pregunta": "Antes del ejercicio, V neto de deuda e incluidas acciones y warrants vale 15 millones. Hay 1 millón de acciones y 250.000 warrants con K = 10. Si todos se ejercen, ¿cuánto vale cada acción inmediatamente después?",
+      "opciones": [
+        "12.",
+        "15.",
+        "17,50.",
+        "14."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Doce divide V por las acciones ampliadas sin sumar el efectivo recibido. El ejercicio aporta fondos nuevos a la compañía. Ignorarlos exagera la reducción del precio.",
+        "Quince divide el capital anterior por las acciones originales. No incorpora el cambio en ninguno de los dos componentes. El cálculo posterior debe ajustar tanto V como la cantidad de títulos.",
+        "Diecisiete con cincuenta usa el capital ampliado, pero conserva las acciones originales. Omite las 250.000 nuevas. El denominador correcto es 1,25 millones.",
+        "El ejercicio aporta 2,5 millones de efectivo. El capital pasa a 17,5 millones y hay 1,25 millones de acciones. Dividir 17,5 por 1,25 da 14."
+      ]
+    },
+    {
+      "id": "c22-q060",
+      "tema": "Pago diluido",
+      "dificultad": "avanzada",
+      "pregunta": "Al vencimiento, V/N = 18, K = 12 y q = 0,5 warrants por acción original, cada uno por una acción nueva. ¿Cuánto paga cada warrant?",
+      "opciones": [
+        "6.",
+        "4.",
+        "3.",
+        "9."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Seis es el pago sin dilución de una call sobre V/N. El warrant comparte el capital con los nuevos títulos. Falta aplicar el factor 1/1,5.",
+        "El pago es máximo entre V/N menos K y cero, dividido por 1 más q. La diferencia es 18 menos 12, igual a 6. Dividir 6 por 1,5 produce 4.",
+        "Dividir por dos supondría un warrant por acción original. Aquí q es 0,5. El denominador correcto es 1,5.",
+        "Multiplicar por 1,5 invierte el ajuste. La emisión obliga a repartir el valor entre más acciones. El pago unitario se obtiene dividiendo y no multiplicando."
+      ]
+    },
+    {
+      "id": "c22-q061",
+      "tema": "Call alternativa y warrant",
+      "dificultad": "avanzada",
+      "pregunta": "Una call correctamente valuada sobre V/N vale 9 y existen 0,25 warrants por acción original. ¿Cuánto vale cada warrant con el ajuste de dilución?",
+      "opciones": [
+        "9.",
+        "7,20.",
+        "11,25.",
+        "2,25."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Nueve es el precio de la call alternativa antes del ajuste. No incorpora el reparto entre más acciones. El derecho diluido vale 0,8 de esa call.",
+        "El warrant equivale a 1/(1+q) veces la call sobre la acción alternativa. Con q igual a 0,25, el factor es 0,8. Multiplicar 9 por 0,8 da 7,20.",
+        "Este cálculo multiplica por 1,25. El ajuste requiere dividir por ese factor. Multiplicarlo exagera el pago unitario que recibe el titular.",
+        "Este valor multiplica la call por q. La cantidad de warrants relativa a acciones no es la fracción económica que representa cada derecho. El factor correcto es 1/(1+q)."
+      ]
+    },
+    {
+      "id": "c22-q062",
+      "tema": "Capital y riesgo para warrants",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene activos por 40 millones, deuda libre de riesgo por 15 millones y 2 millones de acciones originales. La volatilidad de los activos es 20%. ¿Qué precio V/N y volatilidad del capital conjunto corresponden a la acción alternativa?",
+      "opciones": [
+        "20 y 20%.",
+        "12,50 y 12,5%.",
+        "7,50 y 32%.",
+        "12,50 y 32%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Veinte divide activos brutos por acciones sin restar deuda. También copia la volatilidad de los activos sin reconocer apalancamiento. Deben ajustarse tanto el valor como el riesgo del capital residual.",
+        "El precio está bien, pero la volatilidad multiplica por 25/40 en vez de dividir. El capital absorbe el riesgo sobre una base menor. Por eso su desviación es 32% y no 12,5%.",
+        "Siete con cincuenta divide la deuda por las acciones. La acción alternativa representa capital neto y no deuda. El precio correcto surge de los 25 millones residuales.",
+        "El capital conjunto V es 40 menos 15, igual a 25 millones, y V/N es 12,50. Con deuda segura, 20% es 25/40 por la volatilidad del capital. Despejar da 32%, correspondiente al conjunto de acciones y warrants y no necesariamente a la acción común sola."
+      ]
+    },
+    {
+      "id": "c22-q063",
+      "tema": "Límite perpetuo",
+      "dificultad": "avanzada",
+      "pregunta": "En Black-Scholes, con tasa y volatilidad positivas, sin dividendos y plazo tendiendo a infinito, ¿a qué valor tiende una call?",
+      "opciones": [
+        "A S; extrapolarlo a una empresa real requiere revisar dividendos y supervivencia.",
+        "A cero porque nunca llega el vencimiento.",
+        "A K sin descuento.",
+        "A un valor necesariamente mayor que S."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Al extender el horizonte, VP(K) tiende a cero y N(d1) tiende a uno. La fórmula lleva la prima hacia S. La interpretación real requiere cautela porque la ausencia permanente de dividendos y la supervivencia indefinida son supuestos exigentes.",
+        "Un horizonte largo no elimina las oportunidades de ejercicio futuro. El pago de K se vuelve muy pequeño en valor presente. El límite del modelo es S y no cero.",
+        "K es el pago que haría el tenedor, no lo que vale el derecho recibido. Además su valor presente se reduce con el horizonte. No debe confundirse ejercicio nominal con prima.",
+        "Poseer directamente el activo da los derechos relevantes que la call busca alcanzar. Bajo estos supuestos, la call no puede superar su precio. Puede acercarse a S sin rebasarlo."
+      ]
+    },
+    {
+      "id": "c22-q064",
+      "tema": "Depósito con participación alcista",
+      "dificultad": "intermedia",
+      "pregunta": "Un depósito de 200 devuelve el principal y agrega 80% de la suba porcentual positiva del índice aplicada a esos 200. Si el índice sube 25%, ¿cuál es el cobro final?",
+      "opciones": [
+        "250.",
+        "200.",
+        "240.",
+        "40."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Doscientos cincuenta reconoce toda la suba del índice. El contrato solo entrega 80% de ese rendimiento. El adicional correcto es 40 y no 50.",
+        "Doscientos sería el pago sin una suba positiva. Aquí hubo un aumento de 25%. Debe agregarse el componente opcional acordado.",
+        "La participación efectiva es 80% por 25%, igual a 20%. Sobre 200 representa un adicional de 40. Sumado al principal, el cliente recibe 240.",
+        "Cuarenta es solo el adicional alcista. El contrato también devuelve los 200 iniciales. El cobro total requiere sumar ambas partes."
+      ]
+    },
+    {
+      "id": "c22-q065",
+      "tema": "Cobertura del depósito alcista",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco promete al vencimiento 200 + 160 × máximo(S_T/S_0 − 1, 0). ¿Qué combinación cubre ese pago, sin riesgo de crédito?",
+      "opciones": [
+        "Comprar 200/S_0 acciones sin derivados.",
+        "Un bono que pague 200 y vender 160/S_0 calls.",
+        "Un bono que pague 200 y 160/S_0 calls con K = S_0.",
+        "Comprar 160/S_0 puts con K = S_0 sin bono."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las acciones transmiten las subas y también las bajas. No garantizan devolver 200 cuando cae el índice. Falta la estructura que crea el piso contractual.",
+        "Vender calls produce una obligación adicional cuando sube el índice. No aporta los fondos positivos que el banco necesita para pagar al cliente. La cobertura exige comprar o replicar esas calls.",
+        "Cada call paga máximo entre S_T menos S_0 y cero. Multiplicarla por 160/S_0 genera exactamente el adicional. El bono aporta el principal y separa la protección de capital de la participación alcista.",
+        "Las puts pagan con caídas, no con subas. Además falta el bono que asegura devolver el principal. La combinación no reproduce ninguna de las dos partes correctamente."
+      ]
+    },
+    {
+      "id": "c22-q066",
+      "tema": "VPN del depósito",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco capta 200 hoy, promete devolver 200 más participación alcista dentro de un año y puede cubrirla con calls que cuestan 25 hoy. La tasa efectiva anual es 25%. Sin otros costos ni riesgo de crédito, ¿cuál es el VPN para el banco?",
+      "opciones": [
+        "15.",
+        "−25.",
+        "25.",
+        "40."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Para devolver 200 al final basta comprar un bono por 200/1,25, igual a 160. Agregar las calls lleva el costo total de cobertura a 185. Frente a los 200 captados, queda un VPN de 15.",
+        "Este resultado inmoviliza los 200 sin reconocer intereses. La obligación de devolver principal cuesta 160 hoy con la tasa indicada. El margen financiero permite financiar las calls y dejar 15.",
+        "Veinticinco es el costo de la participación opcional. No es la utilidad del banco. Debe restarse de los 40 disponibles después de financiar la devolución del principal.",
+        "Cuarenta es el margen antes de cubrir las calls. El banco también debe pagar el adicional alcista si ocurre. Restar su costo de 25 reduce el VPN a 15."
+      ]
+    },
+    {
+      "id": "c22-q067",
+      "tema": "Depósito ligado a bajas",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco devuelve 200 y agrega 60% de la caída porcentual positiva del índice aplicada a ese principal. ¿Qué derivado necesita comprar además del bono que devuelve 200?",
+      "opciones": [
+        "120/S_0 calls vendidas con K = S_0.",
+        "200/S_0 acciones del índice.",
+        "Una call con K = 0.",
+        "120/S_0 puts con K = S_0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una call vendida pierde valor para el banco cuando sube el índice. No paga una ganancia positiva cuando cae. Por eso no cubre el adicional prometido.",
+        "Las acciones caen precisamente cuando crece la obligación del banco. Comprar el índice no genera la exposición protectora necesaria. La dirección del pago corresponde a una put.",
+        "Una call de ejercicio cero se parece al activo sin dividendos. Su pago aumenta con S y no con la caída. No reproduce la participación bajista del depósito.",
+        "El adicional es 120 por máximo entre 1 menos S_T/S_0 y cero. Esa expresión equivale al pago de 120/S_0 puts con K igual a S_0. El bono asegura el principal cuando las puts no pagan."
+      ]
+    },
+    {
+      "id": "c22-q068",
+      "tema": "Pronóstico y cobertura bancaria",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente considera que el mercado está caro y emite depósitos alcistas con capital protegido sin cubrir las calls. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "La protección del principal elimina cualquier riesgo para el banco.",
+        "Está asumiendo riesgo direccional y debe incluir el costo de cobertura al evaluar el margen.",
+        "Puede fijar en cero la probabilidad real de suba y así eliminar el costo de las calls.",
+        "Basta con que otros gerentes compartan su pronóstico."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El piso protege al cliente frente a caídas del índice según el contrato. No elimina el pago adicional que el banco promete si el índice sube. Esa obligación requiere cobertura o asumir riesgo.",
+        "El compromiso de pagar la participación existe aunque la suba parezca improbable. Una suba fuerte puede crear una obligación grande. Valuar y cubrir las opciones separa la rentabilidad del producto de una apuesta sobre el mercado.",
+        "Una creencia subjetiva no borra el precio de un derecho replicable. Las ponderaciones neutrales se deducen de precios y posibilidades de negociación. No pueden reemplazarse arbitrariamente para reducir un costo.",
+        "El consenso interno no produce fondos para cumplir el contrato. El mercado puede moverse contra las opiniones del equipo. La cobertura requiere activos y operaciones concretas."
+      ]
+    },
+    {
+      "id": "c22-q069",
+      "tema": "Elección de método y datos",
+      "dificultad": "intermedia",
+      "pregunta": "Un director debe valuar una put americana sobre una acción con dividendos y revisar la conveniencia de ejercer antes. ¿Qué enfoque corresponde?",
+      "opciones": [
+        "Fórmula básica de call sin dividendos usada directamente como put americana.",
+        "Árbol binomial con dividendos y comparación entre ejercicio y continuación en cada fecha permitida.",
+        "Paridad europea sin ajustes porque todo ejercicio ocurre al final.",
+        "Descontar el mayor pago posible como si fuera seguro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La fórmula básica no incluye automáticamente ni la put ni las distribuciones ni el ejercicio anticipado. Aplicarla directamente omite características esenciales. Se necesita adaptar el modelo al contrato.",
+        "El árbol permite incorporar las distribuciones del subyacente. En cada nodo se compara el ejercicio con la continuación descontada. Los datos de rendimiento y dividendos deben ser coherentes con el activo que efectivamente determina el pago.",
+        "La americana puede ejercerse antes del final. Además los dividendos modifican la relación de carteras. La paridad europea simple no resuelve esas decisiones.",
+        "El mayor pago pertenece a un estado posible, no a todos. Tratarlo como seguro elimina indebidamente la contingencia. Deben ponderarse estados y valorar las decisiones permitidas."
+      ]
+    },
+    {
+      "id": "c22-q070",
+      "tema": "Consistencia del árbol",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción sin dividendos tiene u = 1,10 y d = 0,90 por período, pero el factor libre de riesgo es 1,15. ¿Qué indica p = (1,15 − 0,90)/(1,10 − 0,90)?",
+      "opciones": [
+        "Debe recortarse p a 1 sin cambiar los demás datos.",
+        "Es una probabilidad real válida de 125%.",
+        "Toda call vale cero porque la tasa es alta.",
+        "El árbol viola ausencia de arbitraje bajo libre negociación: p = 1,25 no es una probabilidad válida."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Recortar el resultado no corrige los precios incompatibles. La ponderación ya no reproduciría S con el factor seguro dado. Hay que revisar los datos o los supuestos de negociación.",
+        "Ninguna probabilidad puede superar uno. Tampoco la neutral pretende describir la frecuencia física de suba. El resultado señala inconsistencia y no una probabilidad excepcional.",
+        "Una tasa alta no vuelve automáticamente gratuitas las calls. El problema aparece en la relación entre acción y bono antes de valuar el derivado. La condición usual exige que el factor seguro quede entre d y u.",
+        "El cociente es 0,25/0,20, igual a 1,25. El activo rinde menos que el instrumento seguro incluso en su mejor estado. Con venta corta y demás supuestos ideales, vender el activo e invertir en el bono genera arbitraje y obliga a revisar la calibración."
+      ]
+    }
+  ]
+}

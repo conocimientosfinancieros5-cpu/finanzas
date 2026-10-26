@@ -1,0 +1,1336 @@
+{
+  "capitulo": 17,
+  "titulo": "Política de pago de dividendos",
+  "preguntas": [
+    {
+      "id": "c17-q001",
+      "tema": "17.1 Formas de distribución",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia central existe entre un dividendo en efectivo y una recompra voluntaria?",
+      "opciones": [
+        "El dividendo reduce las acciones en circulación y la recompra las aumenta.",
+        "La recompra agrega automáticamente activos productivos al negocio.",
+        "El dividendo paga por acción sin retirarla; la recompra paga a vendedores y reduce las acciones en circulación.",
+        "Ambos obligan a todos los accionistas a vender proporcionalmente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta respuesta invierte los efectos sobre la cantidad de acciones. El dividendo en efectivo no cancela títulos existentes. La recompra retira acciones de circulación mientras se mantienen en tesorería o se cancelan.",
+        "Comprar acciones propias redistribuye derechos sobre los activos existentes. No incorpora por sí mismo una fábrica ni un proyecto operativo. El valor creado por inversiones debe analizarse por separado.",
+        "El dividendo entrega efectivo a quienes tienen derecho al pago. La recompra adquiere títulos de quienes aceptan vender. Quienes conservan sus acciones pasan a poseer una proporción mayor del capital restante.",
+        "Una recompra voluntaria permite elegir si se vende. El dividendo tampoco exige entregar acciones. Por eso los mecanismos no obligan a realizar la misma operación individual."
+      ]
+    },
+    {
+      "id": "c17-q002",
+      "tema": "17.1 Evidencia histórica",
+      "dificultad": "basica",
+      "pregunta": "Baja la proporción de empresas que pagan dividendos, pero crecen las recompras y los pagos agregados siguen siendo importantes. ¿Qué puede concluirse?",
+      "opciones": [
+        "Puede cambiar la composición de empresas y mecanismos sin desaparecer la distribución de efectivo.",
+        "Los dividendos totales necesariamente llegaron a cero.",
+        "Toda empresa sin dividendos necesariamente tiene pérdidas.",
+        "Dividendos y recompras no pueden coexistir."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La proporción de pagadoras cuenta empresas, no pesos distribuidos. La entrada de firmas jóvenes puede reducirla mientras compañías maduras siguen pagando mucho. Las recompras ofrecen además otra vía para devolver efectivo.",
+        "Se confunde una frecuencia con un monto agregado. Pocas empresas grandes pueden distribuir sumas elevadas. Hay que medir los importes además de contar las pagadoras.",
+        "Una firma rentable puede retener fondos para oportunidades valiosas. Las empresas en crecimiento suelen necesitar financiamiento interno. Las pérdidas son solo una posible causa de ausencia de dividendos.",
+        "Una empresa puede mantener su dividendo regular y recomprar acciones adicionales. Los mecanismos pueden atender excedentes de distinta persistencia. No son alternativas mutuamente excluyentes."
+      ]
+    },
+    {
+      "id": "c17-q003",
+      "tema": "17.1 Entorno institucional",
+      "dificultad": "intermedia",
+      "pregunta": "Como explicación histórica, ¿qué efecto tuvo la adopción de la regla 10b-18 en Estados Unidos en 1982?",
+      "opciones": [
+        "Obligó a reemplazar todos los dividendos por recompras.",
+        "Eliminó todo impuesto personal sobre ventas de acciones.",
+        "Garantizó que toda recompra ocurriera por debajo del valor económico.",
+        "Redujo ciertos riesgos de acusaciones de manipulación para recompras que cumplieran condiciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una protección regulatoria no impone un método único de pago. Las empresas continuaron usando dividendos. La elección siguió dependiendo de sus circunstancias financieras.",
+        "La regla trataba sobre recompras y riesgo de manipulación. No establecía una exención fiscal universal. Regulación bursátil y tributación personal son dimensiones diferentes.",
+        "Cumplir condiciones operativas no asegura comprar barato. El valor depende de flujos y riesgo. Una recompra regulatoriamente protegida puede perjudicar a quienes permanecen si paga demasiado.",
+        "La protección regulatoria redujo una incertidumbre que podía desalentar recompras. Estaba condicionada al cumplimiento de requisitos. Esto ayuda a explicar históricamente su difusión, sin garantizar su rentabilidad. La flexibilización histórica de prohibiciones en otros países también permitió devolver caja en lugar de destinarla a inversiones poco rentables."
+      ]
+    },
+    {
+      "id": "c17-q004",
+      "tema": "17.2 Calendario del dividendo",
+      "dificultad": "basica",
+      "pregunta": "Una acción comienza a negociarse ex dividendo el miércoles. Según ese calendario y sin acuerdos especiales, ¿quién adquiere el derecho al próximo dividendo?",
+      "opciones": [
+        "Quien compra el miércoles, primer día ex dividendo.",
+        "Quien compra el martes, último día con dividendo.",
+        "Quien compra cualquier día anterior al desembolso.",
+        "Quien compra el día del pago, aunque haya pasado el registro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ex dividendo significa que la compra excluye el pago próximo. El vendedor conserva ese derecho aunque luego entregue la acción. Deben distinguirse la propiedad del título y el derecho al pago ya separado.",
+        "La compra del último día con dividendo todavía incluye el pago próximo. Desde el miércoles ese derecho ya no acompaña la compra. La fecha de pago solo determina cuándo se entrega el efectivo.",
+        "La fecha de desembolso no basta para determinar el beneficiario. El calendario de negociación y registro establece el derecho. Comprar después de la fecha ex dividendo no permite capturarlo.",
+        "El beneficiario queda determinado antes del desembolso. Una compra tardía no modifica retroactivamente ese derecho. El nuevo propietario obtiene los derechos futuros que correspondan."
+      ]
+    },
+    {
+      "id": "c17-q005",
+      "tema": "17.2 Declaración y límites",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción de la declaración de dividendos es correcta?",
+      "opciones": [
+        "La decide el directorio y debe respetar restricciones legales y contractuales aplicables.",
+        "Cualquier accionista individual puede declararla por su cuenta.",
+        "Todo efectivo disponible puede distribuirse aunque viole contratos.",
+        "El capital legal equivale siempre al valor de mercado del patrimonio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El directorio determina la declaración del dividendo. Las normas pueden establecer pagos mínimos sobre utilidades o limitar distribuciones para proteger el capital legal. Los prestamistas también pueden imponer restricciones contractuales para conservar recursos que respalden su crédito. Por eso la disponibilidad de caja no implica libertad absoluta para repartirla.",
+        "La preferencia de un propietario no sustituye el procedimiento societario. La declaración corresponde al órgano competente. Un accionista aislado no puede ordenar el pago corporativo unilateralmente.",
+        "Tener liquidez no implica libertad legal para repartirla. Los convenios de deuda pueden limitar dividendos. Ignorarlos confunde disponibilidad económica con capacidad contractual de pago.",
+        "El capital legal es una categoría jurídica y contable. El valor de mercado refleja la valoración de los derechos accionarios. No tienen por qué coincidir y cumplen funciones diferentes."
+      ]
+    },
+    {
+      "id": "c17-q006",
+      "tema": "17.2 Rendimiento y payout",
+      "dificultad": "basica",
+      "pregunta": "Una acción vale $40, paga $0,50 trimestrales y genera utilidades anuales por acción de $5. ¿Cuáles son el rendimiento anual por dividendos y la razón de pago?",
+      "opciones": [
+        "1,25% y 10%.",
+        "12,5% y 40%.",
+        "5% y 250%.",
+        "5% y 40%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos porcentajes usan solamente un trimestre de dividendos. La comparación solicitada es anual. Con cuatro pagos, los numeradores correctos son $2 y no $0,50.",
+        "El 12,5% resulta de dividir utilidades por precio. Ese indicador no es el rendimiento por dividendos. Para calcularlo deben usarse los $2 efectivamente distribuidos al año.",
+        "El rendimiento de 5% es correcto. Sin embargo, 250% invierte el cociente de la razón de pago. Se distribuyen $2 de cada $5 ganados, equivalentes a 40%.",
+        "El dividendo anual es 4 × $0,50 = $2. Su rendimiento es $2 / $40 = 5%. La razón de pago es $2 / $5 = 40%, porque relaciona dividendos con utilidades."
+      ]
+    },
+    {
+      "id": "c17-q007",
+      "tema": "17.2 Reinversión automática",
+      "dificultad": "intermedia",
+      "pregunta": "Un plan reinvierte $950 de dividendos en acciones emitidas con 5% de descuento sobre una cotización de $50. Admitiendo fracciones y sin impuestos, ¿cuántas acciones entrega?",
+      "opciones": [
+        "19 acciones.",
+        "20 acciones.",
+        "21 acciones.",
+        "18,05 acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Dividir por la cotización de $50 omite el descuento. El plan permite comprar a $47,50. Por eso entrega 20 títulos en lugar de 19.",
+        "El precio efectivo es $50 × 0,95 = $47,50. Al dividir $950 por $47,50 se obtienen 20 acciones. La reinversión transforma el efectivo en nuevos títulos.",
+        "No corresponde redondear hacia arriba la cantidad sin calcular el precio efectivo. El descuento reduce el precio en $2,50. La división exacta da 20 títulos.",
+        "Este cálculo reduce 5% la cantidad adquirible sin descuento. El descuento debe aplicarse al precio y aumenta la cantidad comprada. No disminuye los títulos que puede adquirir el accionista."
+      ]
+    },
+    {
+      "id": "c17-q008",
+      "tema": "17.2 Dividendo en acciones",
+      "dificultad": "basica",
+      "pregunta": "Una persona tiene 200 acciones de $30 y recibe un dividendo en acciones de 20%. Sin otras noticias ni impuestos, ¿cuál es el resultado teórico?",
+      "opciones": [
+        "240 acciones de $30, por un total de $7.200.",
+        "200 acciones de $25 y $1.000 en efectivo.",
+        "240 acciones de $25, por un total de $6.000.",
+        "220 acciones de aproximadamente $27,27."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Mantener la cotización supone crear valor imprimiendo títulos. Los derechos sobre el mismo negocio se reparten entre más unidades. Por eso el precio unitario debe ajustarse a $25.",
+        "Un dividendo en acciones no entrega efectivo. Aumenta la cantidad de títulos proporcionalmente. La posición correcta contiene 240 acciones y ningún cobro monetario por esta operación.",
+        "Recibe 200 × 20% = 40 títulos adicionales. El valor total permanece en $6.000 porque no cambian los activos. Dividir ese valor entre 240 acciones da $25 por título.",
+        "Esta cantidad corresponde a un incremento de 10%. El porcentaje anunciado es 20% sobre 200 títulos. El aumento correcto es de 40 acciones y no de 20."
+      ]
+    },
+    {
+      "id": "c17-q009",
+      "tema": "17.2 Split y contabilidad",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué diferencia técnica puede existir entre un dividendo en acciones y un split con el mismo aumento proporcional de títulos?",
+      "opciones": [
+        "El dividendo en acciones aumenta necesariamente la caja.",
+        "El split genera nuevas utilidades operativas.",
+        "El dividendo proporcional modifica el porcentaje de propiedad de cada tenedor.",
+        "El primero puede reclasificar utilidades retenidas a capital; el segundo puede reducir el valor nominal unitario."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Entregar títulos no requiere una entrada de efectivo. Se modifica la representación de los derechos sobre el patrimonio. La caja no crece simplemente porque haya más acciones.",
+        "Las utilidades operativas dependen de ingresos y costos del negocio. Dividir las acciones no modifica esas operaciones. Solo cambia el denominador de ciertos indicadores por acción.",
+        "Todos reciben títulos en la misma proporción. Por eso sus participaciones relativas permanecen constantes. Cambian la cantidad y el valor unitario, no el reparto porcentual del capital.",
+        "La diferencia puede estar en la presentación contable del patrimonio. El dividendo en acciones puede trasladar utilidades retenidas al capital. El split puede reducir el valor nominal sin alterar los activos ni la participación proporcional."
+      ]
+    },
+    {
+      "id": "c17-q010",
+      "tema": "17.2 Métodos de recompra",
+      "dificultad": "basica",
+      "pregunta": "¿Cuáles son las cuatro vías principales para recomprar acciones?",
+      "opciones": [
+        "Mercado abierto, oferta a precio fijo, subasta holandesa y negociación directa.",
+        "Dividendo regular, especial, en acciones y split.",
+        "Emisión primaria, oferta inicial, préstamo y bono.",
+        "Mercado abierto, split, reinversión automática y emisión de derechos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En mercado abierto se compra como otro participante. También puede ofrecerse un precio fijo o determinarse un precio uniforme mediante subasta. La negociación directa permite adquirir un bloque a un accionista particular.",
+        "Estas son formas de distribución o ajustes de títulos. No describen cuatro mecanismos de compra de acciones propias. Un split, por ejemplo, no entrega dinero a un vendedor.",
+        "Estas vías captan financiamiento. Una recompra devuelve efectivo a cambio de acciones existentes. Se confunden operaciones de obtención de fondos con su distribución.",
+        "Solo el mercado abierto es un método de recompra de esta lista. El split no compra títulos y una emisión crea acciones nuevas. Reinvertir dividendos tampoco equivale a vender acciones a la compañía."
+      ]
+    },
+    {
+      "id": "c17-q011",
+      "tema": "17.2 Subasta holandesa",
+      "dificultad": "intermedia",
+      "pregunta": "Se buscan 10.000 acciones en una subasta a precio uniforme. Se ofrecen 4.000 a $20, otras 3.000 a $21 y otras 5.000 a $22. ¿Cuál es el menor precio que completa la recompra?",
+      "opciones": [
+        "$20.",
+        "$21.",
+        "$22.",
+        "$21,33."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El precio más bajo no garantiza obtener la cantidad buscada. A ese precio solo se ofrecen 4.000 títulos. Hay que subir hasta reunir por lo menos 10.000.",
+        "A ese precio se aceptan los primeros dos tramos. Su suma es de 7.000 acciones. Faltan 3.000, por lo que debe alcanzarse el precio de $22.",
+        "A $20 se acumulan 4.000 acciones y a $21 se alcanzan 7.000. Recién a $22 la oferta acumulada llega a 12.000. Las aceptadas cobran $22 y puede prorratearse el tramo final para comprar solo 10.000.",
+        "Promediar precios no identifica el precio de cierre. La condición es reunir suficientes títulos a un precio uniforme. Por debajo de $22 no se llega a la cantidad deseada."
+      ]
+    },
+    {
+      "id": "c17-q012",
+      "tema": "17.2 Greenmail y tesorería",
+      "dificultad": "intermedia",
+      "pregunta": "El directorio paga una prima solo al potencial adquirente hostil para que venda su bloque y se retire. ¿Qué caracteriza esta operación?",
+      "opciones": [
+        "Es un dividendo proporcional para todos.",
+        "Es una recompra negociada tipo greenmail y puede perjudicar a los demás accionistas.",
+        "Es una subasta holandesa abierta.",
+        "Es un split que elimina el riesgo operativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un dividendo proporcional entrega lo mismo por cada acción con derecho. Aquí se compra exclusivamente un bloque determinado. La selectividad del trato es central para evaluar el conflicto.",
+        "La firma compra directamente el bloque del potencial adquirente. La prima puede beneficiar al vendedor y preservar a la administración. Los demás accionistas pueden soportar ese costo sin recibir una compensación equivalente. Las acciones adquiridas pueden mantenerse en tesorería y revenderse si luego se necesitan fondos, en vez de cancelarse definitivamente.",
+        "No se presentan ofertas competitivas para fijar un precio uniforme. La negociación es bilateral. Equipararla con una subasta oculta el trato particular al potencial adquirente.",
+        "La operación entrega dinero a cambio de títulos. Un split solo divide unidades accionarias. Ninguna de esas decisiones elimina automáticamente el riesgo del negocio."
+      ]
+    },
+    {
+      "id": "c17-q013",
+      "tema": "17.3 Suavización",
+      "dificultad": "basica",
+      "pregunta": "¿Qué describe la suavización de dividendos?",
+      "opciones": [
+        "Pagar una proporción rígida de la utilidad de cada trimestre.",
+        "Duplicar el dividendo regular ante cualquier ganancia excepcional.",
+        "Cancelar el dividendo cada vez que se recompran acciones.",
+        "Ajustar pagos a cambios sostenibles de ganancias, evitando trasladar mecánicamente variaciones transitorias."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una proporción constante de utilidades volátiles genera pagos volátiles. Eso no preserva una trayectoria estable. Suavizar implica filtrar las oscilaciones transitorias antes de modificar el pago regular.",
+        "Una ganancia extraordinaria no garantiza fondos recurrentes. Duplicar el dividendo puede generar expectativas insostenibles. Una distribución especial permite separar el excedente del compromiso habitual.",
+        "Las recompras pueden coexistir con dividendos regulares. No requieren cancelar los pagos habituales. La suavización procura continuidad, no alternancia automática de mecanismos.",
+        "Los gerentes procuran evitar aumentos que después deban revertir. Por eso observan la capacidad de pago persistente. Los dividendos regulares suelen variar menos que las utilidades de corto plazo."
+      ]
+    },
+    {
+      "id": "c17-q014",
+      "tema": "17.3 Excedente transitorio",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora financiera vende un inmueble y obtiene efectivo extraordinario sin mayores ganancias recurrentes. Quiere distribuirlo sin crear un compromiso permanente. ¿Qué encaja mejor?",
+      "opciones": [
+        "Una recompra o un dividendo especial, separado del dividendo regular.",
+        "Aumentar permanentemente el dividendo regular por todo lo recibido.",
+        "Retener el dinero para cualquier proyecto, incluso con VPN negativo.",
+        "Prometer crecimiento perpetuo del dividendo basado en esta venta."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La venta genera efectivo que no necesariamente se repetirá. Una distribución excepcional comunica ese carácter transitorio. Mantener separado el pago regular reduce el riesgo de comprometer una trayectoria insostenible.",
+        "Un ingreso extraordinario no demuestra rentabilidad recurrente mayor. El mercado puede interpretar el aumento regular como una promesa de continuidad. Si faltan fondos futuros, habrá que recortarlo o financiarlo externamente.",
+        "Tener caja no vuelve rentable un proyecto. Un VPN negativo implica un rendimiento insuficiente para el riesgo asumido. Devolver excedentes permite a los accionistas buscar mejores usos.",
+        "Una venta aislada no respalda crecimiento permanente. La continuidad depende de los flujos operativos y las inversiones. Extrapolar un ingreso excepcional confunde disponibilidad actual con capacidad sostenible."
+      ]
+    },
+    {
+      "id": "c17-q015",
+      "tema": "17.3 Ciclo y recompras",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué las recompras suelen ser más volátiles que los dividendos regulares?",
+      "opciones": [
+        "Las acciones solo pueden retirarse durante recesiones.",
+        "Son flexibles y responden a excedentes de caja sin el mismo compromiso recurrente.",
+        "Cada recompra obliga a repetir el mismo monto al año siguiente.",
+        "Los dividendos se recalculan diariamente según la cotización."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No existe esa restricción conceptual. De hecho, la abundancia de caja suele favorecer recompras en expansiones. Su volatilidad responde a fondos disponibles y flexibilidad de la política.",
+        "Las empresas pueden recomprar mucho un año y nada al siguiente. Los excedentes suelen aumentar en expansiones y disminuir en recesiones. El dividendo regular se administra con mayor preocupación por su continuidad.",
+        "Una recompra ocasional no fija una obligación recurrente idéntica. Esa flexibilidad es una razón para usarla con excedentes temporarios. Atribuirle rigidez invierte la comparación con el dividendo regular.",
+        "El directorio declara los dividendos mediante decisiones específicas. No se actualizan mecánicamente cada día con el precio bursátil. Su estabilidad deriva de la política de pagos sostenibles."
+      ]
+    },
+    {
+      "id": "c17-q016",
+      "tema": "17.4 Señales",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué un aumento inesperado del dividendo puede comunicar información?",
+      "opciones": [
+        "El anuncio garantiza contractualmente todas las utilidades futuras.",
+        "Todo anuncio crea activos productivos nuevos.",
+        "Sostener un pago mayor requiere fondos y los gerentes suelen evitar incrementos que luego deban revertir.",
+        "Un dividendo alto demuestra que nunca se necesitará financiamiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una declaración de dividendo no asegura la rentabilidad futura del negocio. Persisten riesgos operativos y económicos. El mercado interpreta un indicio de confianza y no un seguro universal.",
+        "Un anuncio de pago no agrega automáticamente proyectos ni instalaciones. Puede revelar información sobre activos existentes. La reacción del precio no implica que el anuncio haya creado esos activos.",
+        "Los administradores pueden conocer perspectivas que el mercado todavía ignora. Un pago recurrente mayor puede revelar confianza en flujos sostenibles. La señal aporta información, pero no garantiza resultados futuros.",
+        "Los dividendos pueden financiarse externamente durante algún tiempo. Lo difícil es sostenerlos sin generar fondos suficientes. Un pago aislado no prueba autosuficiencia permanente."
+      ]
+    },
+    {
+      "id": "c17-q017",
+      "tema": "17.4 Evidencia de información",
+      "dificultad": "intermedia",
+      "pregunta": "Los inicios de dividendos a veces coinciden con subas bursátiles, pero los estudios sobre predicción de ganancias no son unánimes. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "Los anuncios pueden aportar información, sin ser pronósticos infalibles de todas las utilidades futuras.",
+        "Cada inicio garantiza el mismo aumento porcentual del precio.",
+        "La evidencia mixta demuestra ausencia total de información.",
+        "La suba prueba que repartir efectivo crea riqueza aun sin información ni imperfecciones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una reacción bursátil revela cambios de expectativas. La capacidad de anticipar ganancias posteriores puede variar según muestra y método. Hay que separar reacción del precio, predicción de resultados y efecto puro de distribuir efectivo.",
+        "Un promedio empírico no garantiza un resultado individual. La reacción depende de lo esperado y del contexto. Un anuncio anticipado puede producir una respuesta muy distinta.",
+        "Resultados diferentes no implican que todos los anuncios sean vacíos. Los estudios pueden considerar eventos y horizontes distintos. La conclusión prudente reconoce los indicios y sus límites.",
+        "El anuncio puede revelar mejores perspectivas sin crear valor por el mecanismo de pago. Para aislar ese efecto deben fijarse las demás decisiones y la información. La coincidencia temporal no prueba por sí sola esa causalidad."
+      ]
+    },
+    {
+      "id": "c17-q018",
+      "tema": "17.4 Caso de recorte estratégico",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa de servicios públicos recorta dividendos, anuncia recompras flexibles y cancela deuda ante mayor competencia. La acción cae y luego se recupera al entenderse el plan. ¿Qué enseña el caso?",
+      "opciones": [
+        "Todo recorte de dividendos siempre crea valor.",
+        "Cancelar deuda y recomprar acciones son la misma decisión.",
+        "La caída inicial prueba que solo importa el dividendo actual.",
+        "Un recorte puede integrar una adaptación prudente al riesgo y requiere interpretar el paquete completo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un caso no establece una regla universal. Algunos recortes reflejan deterioros persistentes de rentabilidad. La recuperación depende de que la información posterior mejore la evaluación del plan.",
+        "Cancelar deuda reduce obligaciones con acreedores. Recomprar acciones retira capital de los propietarios. Sus efectos sobre apalancamiento y flexibilidad deben evaluarse separadamente.",
+        "La interpretación inicial puede ser incompleta. La recuperación posterior muestra que importan el riesgo y la estrategia. No corresponde atribuir todos los movimientos al monto del dividendo aislado.",
+        "El mercado puede leer inicialmente el recorte como una señal de menores ganancias. También puede responder a la búsqueda de flexibilidad ante mayor riesgo. Analizar inversión, deuda y pagos permite distinguir esas explicaciones."
+      ]
+    },
+    {
+      "id": "c17-q019",
+      "tema": "17.4 Señal de recompra",
+      "dificultad": "intermedia",
+      "pregunta": "Un director anuncia una oferta de recompra con prima y se compromete a conservar sus propias acciones. ¿Qué interpretación es más razonable?",
+      "opciones": [
+        "Demuestra que la acción está sobrevaluada y que conviene venderla inmediatamente.",
+        "Puede señalar que considera subvaluada la acción, aunque no garantiza que su evaluación sea correcta.",
+        "Garantiza que la prima equivale exactamente al VPN de un proyecto nuevo.",
+        "Obliga a pagar esa prima todos los años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Conservar sus títulos no es coherente con intentar desprenderse de una inversión que juzga demasiado cara. La conducta sugiere confianza en el valor futuro. Aun así, la opinión del gerente puede ser equivocada.",
+        "Ofrecer una prima y conservar su participación expone al director al valor futuro del negocio. Esa conducta puede hacer más creíble su confianza. La señal es distinta del compromiso recurrente que comunica un dividendo regular.",
+        "La prima es una condición de una transacción financiera. No mide necesariamente el valor de inversiones productivas. Asociarla automáticamente con un proyecto confunde señal y creación operativa de valor.",
+        "Una oferta de recompra no establece por sí sola pagos anuales idénticos. Puede ser una operación excepcional. Su flexibilidad la distingue de las expectativas asociadas al dividendo regular."
+      ]
+    },
+    {
+      "id": "c17-q020",
+      "tema": "17.5 Aislar la política de pagos",
+      "dificultad": "intermedia",
+      "pregunta": "Para estudiar exclusivamente el efecto de aumentar dividendos, se mantienen fijas las inversiones y el endeudamiento. ¿Cómo se cubre la salida adicional de efectivo?",
+      "opciones": [
+        "Cancelando proyectos sin reconocer que cambió la política de inversión.",
+        "Tomando más deuda sin alterar el supuesto de endeudamiento fijo.",
+        "Mediante más financiamiento accionario, o una reducción equivalente de recompras previstas.",
+        "Creando recursos adicionales por el solo hecho de declarar el dividendo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cancelar proyectos cambia justamente una decisión que debía permanecer fija. El efecto sobre el valor ya no sería atribuible solo al dividendo. Deben conservarse las inversiones para realizar la comparación propuesta.",
+        "Aumentar la deuda viola el supuesto del análisis. Puede modificar riesgo y otros efectos financieros. Para aislar dividendos se necesita otro ajuste dentro del financiamiento accionario.",
+        "Con inversión y deuda fijadas no puede atribuirse la financiación a cambios en esas decisiones. El mayor dividendo exige captar capital o dejar de devolverlo mediante recompras. Así se aísla la forma del pago de otros cambios financieros.",
+        "Declarar una distribución no crea caja. Los fondos deben salir de recursos existentes o de nueva financiación. Ignorar esa contrapartida hace aparecer un beneficio gratuito inexistente."
+      ]
+    },
+    {
+      "id": "c17-q021",
+      "tema": "17.5 Supuestos de MM",
+      "dificultad": "basica",
+      "pregunta": "¿En qué condiciones se obtiene la irrelevancia de la política de dividendos de Miller y Modigliani?",
+      "opciones": [
+        "Sin impuestos ni costos de transacción o emisión, con financiación a precio justo y las mismas inversiones y deuda.",
+        "Con inversiones distintas y proyectos de cualquier VPN.",
+        "Con emisión sistemática de acciones por debajo de su valor justo.",
+        "Solo cuando todos los accionistas tienen idénticas necesidades de consumo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La demostración compara políticas sobre el mismo negocio y sus flujos. Los inversores pueden replicar los pagos sin fricciones. Si los nuevos títulos se venden a precio justo, el dividendo adicional se compensa con el menor valor de los derechos originales.",
+        "Si cambian los proyectos, cambian los flujos y el valor económico. Ese efecto no es una prueba sobre dividendos aislados. MM requiere mantener la política de inversión para separar las decisiones.",
+        "Emitir por debajo del valor justo transfiere riqueza a los nuevos compradores. Esa transferencia rompe un supuesto crucial. La irrelevancia no autoriza a ignorar el precio de emisión.",
+        "Los inversores pueden tener necesidades diferentes. En mercados perfectos cada uno ajusta su consumo comprando o vendiendo títulos. La posibilidad de replicar pagos evita exigir preferencias idénticas."
+      ]
+    },
+    {
+      "id": "c17-q022",
+      "tema": "17.5 Dividendo casero",
+      "dificultad": "basica",
+      "pregunta": "Una inversora tiene 300 acciones y necesita $1.200 que la empresa no distribuye. Las acciones valen $60 y no hay impuestos ni costos. ¿Cómo obtiene ese efectivo sin endeudarse?",
+      "opciones": [
+        "Vende 5 acciones y conserva 295.",
+        "Compra 20 acciones adicionales.",
+        "Conserva 300 acciones y recibe automáticamente $1.200.",
+        "Vende 20 acciones y conserva 280."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Cinco acciones generan solamente $300. Se dividió incorrectamente el efectivo requerido por la cantidad de acciones poseídas. El denominador correcto es el precio de venta de $60.",
+        "Comprar acciones utiliza efectivo en lugar de generarlo. La inversora necesita una entrada de dinero para consumir. Debe vender 20 títulos y no adquirirlos.",
+        "Sin dividendo ni venta no existe un flujo de efectivo hacia ella. Poseer una acción no genera caja inmediatamente en cualquier momento elegido. El dividendo casero requiere vender parte de los derechos.",
+        "Cada acción vendida produce $60. Para obtener $1.200 debe vender $1.200 / $60 = 20 títulos. La operación reduce su participación y reproduce una distribución personal de efectivo."
+      ]
+    },
+    {
+      "id": "c17-q023",
+      "tema": "17.5 Revertir un dividendo",
+      "dificultad": "basica",
+      "pregunta": "Una persona tiene 400 acciones y recibe un aumento extraordinario del dividendo de $1,50 por acción. Quiere reinvertir todo ese adicional a un precio ex dividendo de $30. Sin costos ni impuestos, ¿qué hace?",
+      "opciones": [
+        "Compra 5 acciones adicionales.",
+        "Compra 20 acciones adicionales.",
+        "Vende 20 acciones.",
+        "Compra 400 acciones porque reinvertir restaura el número original."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cinco títulos costarían solo $150. El monto para reinvertir surge de aplicar el aumento a las 400 acciones. El adicional completo de $600 permite comprar 20 títulos.",
+        "El cobro adicional es 400 × $1,50 = $600. Con un precio ex dividendo de $30 compra $600 / $30 = 20 títulos. Así transforma el pago no deseado en mayor tenencia accionaria.",
+        "Vender aumenta todavía más el efectivo disponible. La persona desea invertir el excedente y no consumirlo. La operación adecuada es comprar títulos con los $600 cobrados.",
+        "Ya conserva sus 400 acciones después del dividendo en efectivo. El pago no las cancela. La reinversión solo agrega los títulos que pueden comprarse con $600."
+      ]
+    },
+    {
+      "id": "c17-q024",
+      "tema": "17.5 Ajuste ex dividendo",
+      "dificultad": "basica",
+      "pregunta": "Una acción cotiza a $75 con derecho a un dividendo inmediato de $3. Sin impuestos, noticias ni otros movimientos, ¿cuál es el precio ex dividendo y la riqueza de quien tenía 100 acciones?",
+      "opciones": [
+        "$75 por acción y $7.800 de riqueza.",
+        "$72 por acción y $7.200 de riqueza total.",
+        "$72 por acción y $7.500 entre títulos y efectivo.",
+        "$78 por acción y $8.100 de riqueza."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Mantener el precio y agregar el efectivo cuenta el mismo valor dos veces. La empresa tiene menos caja después del pago. El ajuste ex dividendo compensa el dinero recibido.",
+        "El precio por acción es correcto, pero se omite el efectivo cobrado. El accionista tiene también $300 de dividendos. La suma de ambos componentes conserva los $7.500 iniciales.",
+        "El título pierde el derecho a recibir $3, por lo que pasa a valer $72. Las 100 acciones valen $7.200 y el dividendo suma $300. La riqueza total sigue siendo $7.500.",
+        "Se suma el dividendo al precio cuando debería separarse del título. Además se vuelve a agregar como efectivo. Ese doble incremento carece de una fuente económica de valor."
+      ]
+    },
+    {
+      "id": "c17-q025",
+      "tema": "17.5 Balance a valores de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma sin deuda tiene caja de $2.000, activos operativos por $18.000 y una oportunidad de inversión con VPN de $4.000 que requiere toda esa caja. ¿Cuál es el valor de su patrimonio antes de invertir?",
+      "opciones": [
+        "$22.000.",
+        "$26.000.",
+        "$20.000.",
+        "$24.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado omite la caja disponible. Antes de invertir, el efectivo sigue siendo un activo de la firma. Debe sumarse al negocio existente y al VPN de la oportunidad.",
+        "Este valor cuenta dos veces los $2.000 requeridos por el proyecto. La oportunidad todavía no ejecutada se incorpora por su VPN. Una vez realizada, el proyecto valdrá costo más VPN, pero la caja habrá desaparecido.",
+        "Esta suma reconoce caja y negocio existente, pero ignora la oportunidad valiosa. Un balance de mercado incorpora el VPN de proyectos disponibles. Por eso se agregan $4.000 al valor de los activos actuales.",
+        "El balance de mercado suma $2.000 de caja, $18.000 de activos existentes y $4.000 de VPN. El costo del proyecto ya está representado por la caja reservada. El total es $24.000 y pertenece a los accionistas porque no hay deuda."
+      ]
+    },
+    {
+      "id": "c17-q026",
+      "tema": "17.5 Dividendo financiado con emisión",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma vale $24.000, tiene 1.000 acciones y $2.000 de caja necesarios para una inversión ya incluida en ese valor. Paga esa caja como dividendo y emite acciones a precio justo para reponerla. Sin fricciones, ¿qué precio ex dividendo y cuántas acciones nuevas resultan?",
+      "opciones": [
+        "$22 y aproximadamente 90,91 acciones nuevas.",
+        "$24 y aproximadamente 83,33 acciones nuevas.",
+        "$22 y 100 acciones nuevas.",
+        "$20 y 100 acciones nuevas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los antiguos accionistas reciben $2 por acción y sus títulos pasan de $24 a $22. Para reponer $2.000 se emiten $2.000 / $22 = 90,91 acciones. El patrimonio final vuelve a $24.000 y los nuevos inversores reciben derechos por $2.000.",
+        "Emitir al precio previo ignora que los nuevos títulos no reciben el dividendo ya pagado. El precio justo posterior es $22. Usarlo determina una emisión de aproximadamente 90,91 acciones.",
+        "El precio ex dividendo está bien. Sin embargo, 100 acciones a $22 captarían $2.200 y no los $2.000 necesarios. La cantidad correcta surge de dividir el financiamiento requerido por el precio ex dividendo.",
+        "Esta respuesta descuenta dos veces parte de la salida de caja. El dividendo es $2 por acción, no $4. El precio correcto es $24 menos $2, equivalente a $22."
+      ]
+    },
+    {
+      "id": "c17-q027",
+      "tema": "17.5 Riqueza y nuevos accionistas",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma financia un dividendo emitiendo acciones a precio justo para mantener una inversión cuyo VPN ya estaba reconocido en el valor inicial. ¿Quién recibe el beneficio de ese VPN?",
+      "opciones": [
+        "Los nuevos compradores reciben gratis todo el VPN.",
+        "El pago del dividendo elimina necesariamente el VPN.",
+        "Los accionistas originales; los nuevos compradores obtienen una inversión de VPN cero al precio que pagan.",
+        "El VPN se duplica porque hay más accionistas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Si pagaran menos que el valor de sus derechos habría una transferencia. La condición de precio justo impide ese regalo. El VPN reconocido previamente permanece en la riqueza de los accionistas originales.",
+        "Distribuir efectivo no elimina el proyecto si se repone su financiación. Las inversiones se mantienen por supuesto. El dividendo cambia la forma de los derechos financieros, no los flujos operativos del proyecto.",
+        "El proyecto ya estaba incorporado a los derechos originales. Los nuevos accionistas compran una participación pagando exactamente su valor. Su rendimiento esperado es justo para el riesgo y no captura gratuitamente el VPN previo.",
+        "La cantidad de propietarios no multiplica los flujos de los activos. Emitir títulos divide derechos existentes y aporta financiación. No crea una segunda copia del proyecto rentable."
+      ]
+    },
+    {
+      "id": "c17-q028",
+      "tema": "17.5 Emisión a precio injusto",
+      "dificultad": "avanzada",
+      "pregunta": "Después de un dividendo, el patrimonio vale $18.000 y hay 1.000 acciones. La firma capta $2.000 emitiendo 200 títulos a $10. No hay otras variaciones. ¿Cuál es el valor por acción final y qué transferencia ocurre?",
+      "opciones": [
+        "$18; no hay transferencia porque toda emisión es irrelevante.",
+        "$16,67 aproximadamente; los nuevos accionistas ganan unos $1.333 a costa de los originales.",
+        "$10; los originales ganan $8.000.",
+        "$20; los nuevos accionistas pierden $2.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El precio previo no puede mantenerse con cualquier cantidad emitida. Hay que dividir el patrimonio posterior por las 1.200 acciones. La venta a un precio injusto rompe el supuesto necesario para la irrelevancia.",
+        "Tras captar $2.000, el patrimonio vale $20.000 y hay 1.200 acciones. Cada título vale $20.000 / 1.200 = $16,67 aproximadamente. Los nuevos reciben derechos por $3.333 pagando $2.000, y esa diferencia reduce la riqueza de los originales.",
+        "El precio de colocación no determina automáticamente el valor económico posterior. Los activos valen $20.000 tras la emisión. Distribuir ese valor entre 1.200 títulos muestra que el beneficio corresponde a los nuevos compradores.",
+        "Dividir por las 1.000 acciones originales ignora los 200 títulos emitidos. Todos comparten los derechos sobre el patrimonio final. La dilución hace que el precio sea aproximadamente $16,67 y favorece a quienes compraron barato."
+      ]
+    },
+    {
+      "id": "c17-q029",
+      "tema": "17.5 Recompra inmediata",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene 10.000 acciones de $50 y usa $100.000 de caja excedente para una recompra inmediata a precio justo. Sin impuestos ni señales, ¿qué ocurre después?",
+      "opciones": [
+        "Quedan 8.000 acciones, el patrimonio vale $400.000 y el precio sigue en $50.",
+        "Quedan 8.000 acciones y el precio sube a $62,50.",
+        "Quedan 10.000 acciones de $40.",
+        "Quedan 12.000 acciones de $50."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se compran $100.000 / $50 = 2.000 títulos. El patrimonio baja de $500.000 a $400.000 al salir el efectivo. Dividir $400.000 entre 8.000 acciones conserva el precio de $50.",
+        "Este precio divide el patrimonio anterior por la cantidad posterior. Omite los $100.000 que salieron de la caja. Hay menos títulos, pero también menos activos dentro de la empresa.",
+        "Este sería el ajuste mecánico de un dividendo de $10 por título. En una recompra se retiran 2.000 acciones. La menor cantidad compensa la salida de caja y mantiene el precio justo.",
+        "La recompra retira títulos, no los emite. Aumentar a 12.000 invierte la dirección de la operación. La cantidad correcta es 10.000 menos 2.000."
+      ]
+    },
+    {
+      "id": "c17-q030",
+      "tema": "17.5 Participación de quien permanece",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona conserva sus 100 acciones durante una recompra que reduce los títulos de 10.000 a 8.000. ¿Cómo cambia su participación?",
+      "opciones": [
+        "Permanece en 1% porque no compró acciones.",
+        "Baja a 0,8% porque la empresa tiene menos caja.",
+        "Pasa a 25% porque se retiró una quinta parte del capital.",
+        "Pasa de 1% a 1,25%, aunque no reciba efectivo de la recompra."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El numerador no cambia, pero el denominador sí. Su participación se calcula sobre las acciones que siguen en circulación. Por eso aumenta a 1,25% sin necesidad de comprar.",
+        "La participación porcentual depende de títulos y no directamente de la caja. El denominador cae de 10.000 a 8.000. Tener los mismos 100 títulos representa una fracción mayor del capital.",
+        "Se confunde un aumento relativo con una participación total. La posición crece 25% respecto del 1% inicial. Ese incremento lleva a 1,25% y no a 25% del capital.",
+        "Antes posee 100 / 10.000 = 1%. Después conserva 100 / 8.000 = 1,25%. Su mayor participación relativa no implica riqueza gratuita, porque la empresa distribuyó caja a los vendedores."
+      ]
+    },
+    {
+      "id": "c17-q031",
+      "tema": "17.5 Valuación de pagos totales",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma distribuye $6.000 anuales a perpetuidad desde el año 1, entre dividendos y recompras. El rendimiento requerido es 12%, no hay emisiones ni deuda. ¿Cuánto vale hoy el capital propio?",
+      "opciones": [
+        "$6.000.",
+        "$56.000.",
+        "$50.000.",
+        "$720."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra reconoce solo un pago anual. El enunciado promete una corriente perpetua. Descontar todos sus términos equivale a dividir el pago anual por la tasa requerida.",
+        "Este valor agrega un pago inmediato que no existe. La perpetuidad empieza en el año 1 y su fórmula ya incluye todos los pagos futuros. No corresponde sumar otra vez $6.000 al valor actual.",
+        "Los pagos totales son una perpetuidad nivelada que comienza dentro de un año. Su valor es $6.000 / 0,12 = $50.000. Deben incluirse ambas formas de devolución de efectivo al valorar todo el capital.",
+        "Multiplicar el flujo por la tasa no calcula su valor presente. La tasa es el denominador de una perpetuidad nivelada. La operación correcta produce $50.000."
+      ]
+    },
+    {
+      "id": "c17-q032",
+      "tema": "17.5 Recompra en el año 1",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma vale hoy $50.000, tiene 1.000 acciones y genera pagos de $6.000 anuales perpetuos desde el año 1. Sustituye solo el primer dividendo por una recompra. Con rendimiento requerido de 12% y sin fricciones, ¿a qué precio esperado recompra y cuántos títulos retira en el año 1?",
+      "opciones": [
+        "A $50 y retira 120 títulos.",
+        "A $56 por acción y retira aproximadamente 107,14 títulos.",
+        "A $44 y retira aproximadamente 136,36 títulos.",
+        "A $62 y retira aproximadamente 96,77 títulos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se usa el precio actual para una operación dentro de un año. Durante ese año los inversores exigen rendimiento. Sin un dividendo intermedio, el precio esperado debe crecer a $56.",
+        "Cada acción vale hoy $50 y no paga dividendo durante el primer año. Para rendir 12%, su precio esperado al recomprarse debe ser $50 × 1,12 = $56. Con $6.000 se retiran $6.000 / $56 = 107,14 títulos aproximadamente.",
+        "Restar un dividendo que fue cancelado aplica el ajuste equivocado. No hay pago por acción antes de la recompra. Los vendedores requieren un precio que incluya el rendimiento del año.",
+        "Esta cifra suma simultáneamente un dividendo cancelado y la apreciación necesaria. El rendimiento requerido es 12% sobre $50, es decir $6. El precio de recompra esperado es $56 y no $62."
+      ]
+    },
+    {
+      "id": "c17-q033",
+      "tema": "17.5 Dividendos posteriores por acción",
+      "dificultad": "avanzada",
+      "pregunta": "Después de una recompra en el año 1 quedan aproximadamente 892,86 acciones. Desde el año 2 la firma reparte $6.000 anuales perpetuos como dividendos, con rendimiento requerido de 12%. ¿Cuál es el dividendo por acción y su valor hoy para quien no vende?",
+      "opciones": [
+        "$6 anuales desde el año 2; valor actual de $50.",
+        "$6,72 anuales desde el año 2; valor actual de $56.",
+        "$12,72 anuales desde el año 2; valor actual superior a $50.",
+        "$6,72 anuales desde el año 2; valor actual de $50."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Mantener $6 por acción ignora que hay menos títulos. Para repartir $6.000 entre aproximadamente 892,86 se necesitan $6,72 por título. El ajuste de cantidad compensa la ausencia del primer dividendo.",
+        "El pago por acción es correcto, pero $56 es el valor al final del año 1. La pregunta pide valor hoy. Debe descontarse ese importe por 1,12 para obtener $50.",
+        "Se agrega indebidamente el dinero destinado a la recompra al dividendo futuro. Quien no vende no cobra el precio de recompra por sus propios títulos. Solo participa en los dividendos de las acciones que conserva.",
+        "El pago por título es $6.000 / 892,857143 = $6,72. La perpetuidad vale $6,72 / 0,12 = $56 al final del año 1. Descontarla un año da $56 / 1,12 = $50 hoy."
+      ]
+    },
+    {
+      "id": "c17-q034",
+      "tema": "17.5 Evitar doble conteo",
+      "dificultad": "avanzada",
+      "pregunta": "Al valorar una empresa que realiza recompras, ¿qué tratamiento de flujos es correcto?",
+      "opciones": [
+        "Para todo el capital se incluyen dividendos y recompras netas de emisiones; para una acción conservada solo sus propios cobros y valor terminal.",
+        "Cada acción conservada recibe su dividendo futuro más todo el precio de su recompra hipotética.",
+        "Las recompras deben excluirse siempre del valor del capital propio.",
+        "Los dividendos de nuevas acciones se cuentan sin registrar los aportes que financian su emisión."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los pagos por recompra corresponden a los títulos vendidos. Una acción conservada no recibe ese precio y también todos los dividendos posteriores como si se hubiera vendido. En la valoración agregada, las emisiones futuras deben restarse para no contar derechos financiados por nuevos aportes como riqueza gratuita.",
+        "Una venta y la conservación del mismo título son alternativas excluyentes. Cobrar el precio de venta termina los derechos futuros sobre ese título. Sumar ambos flujos completos duplica valor.",
+        "Las recompras entregan efectivo a accionistas y forman parte de los pagos agregados. Excluirlas subestima el valor cuando reemplazan dividendos. Deben incluirse en el nivel agregado apropiado.",
+        "Los nuevos accionistas aportan recursos a cambio de derechos futuros. Si se cuentan sus cobros sin descontar sus aportes se sobrevalúa la riqueza de los propietarios actuales. La valoración agregada requiere consistencia entre entradas y salidas."
+      ]
+    },
+    {
+      "id": "c17-q035",
+      "tema": "17.5 Recompra y UPA",
+      "dificultad": "intermedia",
+      "pregunta": "Un director afirma que una recompra siempre eleva el precio porque aumenta la utilidad por acción y la razón precio-utilidad debe mantenerse. ¿Cuál es la mejor respuesta?",
+      "opciones": [
+        "El director tiene razón porque todo aumento de UPA crea riqueza.",
+        "La UPA puede subir mecánicamente, pero el múltiplo no tiene por qué quedar fijo y hay que considerar la caja o deuda usada.",
+        "La UPA nunca puede aumentar después de una recompra.",
+        "El precio debe aumentar exactamente en el porcentaje de acciones retiradas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La UPA es un cociente contable y no una medida completa de valor. Puede cambiar por variaciones del denominador sin mejorar los activos. El precio depende de flujos, riesgo y recursos utilizados.",
+        "Reducir acciones puede aumentar la utilidad por título si la utilidad total se mantiene. Pero la recompra usa recursos que generaban rendimientos o crea deuda con intereses y riesgo. No puede inferirse creación de valor suponiendo arbitrariamente un múltiplo constante.",
+        "Si se retiran acciones y la utilidad total no baja proporcionalmente, la UPA sí aumenta. Ese aumento no prueba por sí mismo una mejora económica. Hay que separar el efecto aritmético del efecto sobre valor.",
+        "El patrimonio también puede disminuir por la caja pagada. Además pueden cambiar ingresos financieros y riesgo. No existe una regla que vincule el precio únicamente con la reducción de títulos."
+      ]
+    },
+    {
+      "id": "c17-q036",
+      "tema": "17.5 Crecimiento y dilución",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma tiene D1 = $3, crecimiento esperado por acción de 6% y costo de capital de 12%, por lo que vale $50. Duplica D1 a $6 y financia la diferencia con emisiones a precio justo, sin cambiar activos ni deuda. Si la nueva trayectoria por acción es perpetua con crecimiento constante, ¿qué crecimiento resulta compatible con mantener el valor?",
+      "opciones": [
+        "6%.",
+        "12%.",
+        "0%.",
+        "−6%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Mantener 6% junto con un dividendo inicial duplicado daría $100. Eso supone que los nuevos inversores no reciben derechos sobre los pagos futuros. La dilución impide conservar simultáneamente ambos parámetros por acción.",
+        "En el modelo perpetuo se requiere que el crecimiento sea menor que la tasa de descuento. Si ambos fueran 12%, el denominador sería cero. Ese resultado no es compatible con un precio finito de $50.",
+        "Para preservar $50 debe cumplirse $50 = $6 / (0,12 − g). Despejando, 0,12 − g = 0,12 y entonces g = 0%. La emisión necesaria diluye el crecimiento por acción aunque no cambie el negocio agregado.",
+        "Este valor resta directamente el aumento del dividendo sin resolver la ecuación. Con g de −6%, el precio sería $6 / 0,18 = $33,33. El crecimiento compatible con $50 es cero."
+      ]
+    },
+    {
+      "id": "c17-q037",
+      "tema": "17.5 Precio justo y caída del negocio",
+      "dificultad": "avanzada",
+      "pregunta": "Antes de emitir acciones para reponer un dividendo, una firma sufre una caída inesperada del valor de sus activos operativos. El proyecto y la deuda no cambian. ¿Qué pasa con el argumento de irrelevancia?",
+      "opciones": [
+        "Puede mantenerse si la comparación incorpora el mismo deterioro en ambas políticas y la emisión se realiza al nuevo precio justo.",
+        "Deja de valer porque MM exige que nunca cambien las condiciones económicas.",
+        "La emisión debe hacerse al precio anterior aunque ya no sea justo.",
+        "El dividendo compensa automáticamente toda pérdida operativa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El deterioro reduce la riqueza por una causa operativa. No debe atribuirse esa pérdida al dividendo. La comparación correcta mantiene el mismo shock y ajusta el precio y la cantidad de títulos emitidos.",
+        "El argumento no necesita un mundo sin noticias. Necesita comparar políticas sobre el mismo negocio y la misma información. Un shock común puede incorporarse a ambas alternativas sin atribuirle un efecto del dividendo.",
+        "Los nuevos compradores deben pagar el valor actualizado de sus derechos. Mantener una cotización obsoleta impide analizar una financiación justa. La cantidad emitida se ajusta al precio que refleja la nueva información.",
+        "Un pago distribuye recursos existentes. No reconstruye el valor perdido por menores flujos del negocio. Puede conservar la equivalencia entre políticas, pero no eliminar el daño operativo."
+      ]
+    },
+    {
+      "id": "c17-q038",
+      "tema": "17.6 Clientela de ingresos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué argumento realista puede explicar que ciertos inversores prefieran dividendos regulares?",
+      "opciones": [
+        "Permiten consumir efectivo sin que la empresa entregue ningún recurso.",
+        "Garantizan una rentabilidad total positiva en cualquier mercado.",
+        "Reducen ventas pequeñas, costos de transacción y dificultades para organizar una corriente de consumo.",
+        "Prueban que las empresas sin dividendos carecen de valor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El efectivo pagado sale de los recursos corporativos. La comodidad del mecanismo no elimina ese costo económico. Debe separarse la preferencia por la forma del pago de la creación de riqueza.",
+        "El precio puede caer más que el dividendo recibido. Un pago regular no elimina el riesgo del negocio. La rentabilidad total combina dividendos y variación del precio.",
+        "Algunos inversores necesitan efectivo periódico. Vender pequeñas porciones de la cartera puede generar costos y trámites. El dividendo regular puede satisfacer esa necesidad con mayor comodidad, fuera del supuesto de fricciones nulas.",
+        "Una firma puede crear valor reinvirtiendo en proyectos rentables. Sus inversores pueden realizar ganancias mediante ventas futuras. La ausencia de pagos actuales no implica ausencia de derechos valiosos."
+      ]
+    },
+    {
+      "id": "c17-q039",
+      "tema": "17.6 Fideicomisos y conducta",
+      "dificultad": "intermedia",
+      "pregunta": "Una fundación separa ingreso gastable y principal, y una persona se impone consumir solo dividendos para disciplinarse. ¿Qué explicación comparten estas preferencias?",
+      "opciones": [
+        "Ambas prueban que vender acciones siempre destruye valor.",
+        "Reglas institucionales o de autocontrol pueden hacer atractivo un dividendo aunque vender acciones sea económicamente parecido.",
+        "Ambas eliminan cualquier costo de oportunidad del capital retenido.",
+        "Ambas implican que las ganancias de capital nunca pueden financiar consumo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Vender a precio justo cambia activos financieros por efectivo. No destruye valor por sí mismo en mercados sin fricciones. Las preferencias descritas responden a restricciones o conducta, no a esa supuesta pérdida inevitable.",
+        "La fundación puede tener límites sobre el uso del principal. La persona puede usar una regla sencilla para controlar su consumo. Estas motivaciones explican preferencias por el mecanismo sin demostrar que cree riqueza automáticamente.",
+        "El capital tiene usos alternativos aunque existan reglas de gasto. Sus dueños renuncian a oportunidades al mantenerlo en una empresa. Las preferencias de consumo no vuelven gratuitos los fondos.",
+        "En términos económicos, una venta puede convertir ganancias en efectivo. Las reglas institucionales o personales pueden limitar ese uso. No se trata de una imposibilidad financiera universal."
+      ]
+    },
+    {
+      "id": "c17-q040",
+      "tema": "17.6 Riesgo de vender barato",
+      "dificultad": "avanzada",
+      "pregunta": "Un gerente sostiene que el dividendo protege siempre al accionista de vender títulos a precios deprimidos. ¿Qué objeción corresponde?",
+      "opciones": [
+        "El dividendo elimina toda exposición de las acciones a caídas de mercado.",
+        "Vender una acción y recibir un dividendo siempre tienen impuestos idénticos.",
+        "La empresa puede pagar cualquier dividendo sin reducir caja ni obtener financiación.",
+        "Si la firma debe emitir para sostenerlo también enfrenta precios bajos; una ventaja exige capacidad adicional y efectiva de elegir el momento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor de los títulos sigue dependiendo del negocio y del mercado. Distribuir caja no crea un seguro contra bajas. La riqueza debe evaluarse incluyendo tanto efectivo como capital remanente.",
+        "Los sistemas fiscales pueden tratar ambos flujos de manera diferente. La objeción central es la fuente de financiación del pago. Afirmar igualdad universal de impuestos agrega un supuesto injustificado.",
+        "Todo pago requiere fondos. Ignorar esa restricción hace parecer gratuito el beneficio prometido. El análisis debe incluir cómo se financia y qué derechos se entregan a cambio.",
+        "La empresa necesita financiar la distribución. Si debe vender títulos a un precio deprimido, el costo recae en sus accionistas. Evitarlo requiere supuestos sobre información y oportunidad de emisión, no solo declarar dividendos."
+      ]
+    },
+    {
+      "id": "c17-q041",
+      "tema": "17.6 Flujo libre y agencia",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía madura tiene caja abundante y pocos proyectos con VPN positivo. Sus directivos quieren expandirse en negocios poco rentables. ¿Por qué los accionistas podrían exigir pagos mayores?",
+      "opciones": [
+        "Porque todo crecimiento reduce necesariamente el valor.",
+        "Porque las recompras convierten cualquier proyecto negativo en positivo.",
+        "Para reducir recursos que podrían desperdiciarse y disciplinar la selección de inversiones.",
+        "Porque mantener caja demuestra que no existe ningún riesgo operativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Crecer puede crear valor cuando el rendimiento supera el costo de capital. El problema es expandirse en proyectos poco rentables. La evaluación debe basarse en VPN y no rechazar todo crecimiento.",
+        "La recompra no cambia mágicamente los flujos de un proyecto. Evita comprometer fondos en él al devolverlos. El valor se preserva descartando la mala inversión.",
+        "La caja excedente puede facilitar expansiones que favorezcan a los gerentes más que a los propietarios. Devolverla reduce la posibilidad de invertir en proyectos de VPN negativo. El beneficio surge de mejores incentivos y decisiones, no del efectivo distribuido por sí solo.",
+        "La liquidez no elimina la incertidumbre del negocio. Una empresa con mucha caja puede tener operaciones riesgosas. La preocupación del caso es el uso discrecional de recursos excedentes."
+      ]
+    },
+    {
+      "id": "c17-q042",
+      "tema": "17.6 Caso de empresa tecnológica madura",
+      "dificultad": "intermedia",
+      "pregunta": "Una tecnológica con menor necesidad de inversión anuncia un dividendo especial, recompras y un aumento prudente del dividendo regular. ¿Qué lectura integra mejor estas decisiones?",
+      "opciones": [
+        "Puede estar reconociendo madurez y devolviendo excedentes sin renunciar a inversiones rentables.",
+        "Demuestra que la empresa dejará de generar utilidades inmediatamente.",
+        "Prueba que pagar dividendos produce una nueva tecnología.",
+        "Obliga a distribuir siempre toda la caja y a rechazar cualquier proyecto positivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Al reducirse oportunidades rentables, acumular caja indefinidamente puede ser innecesario. Combinar pagos excepcionales y recurrentes permite adaptar el compromiso a los fondos disponibles. La decisión no implica que todo proyecto futuro sea descartado.",
+        "Menores oportunidades de crecimiento no equivalen a pérdidas operativas. Una compañía madura puede generar flujos muy elevados. Esos flujos pueden sostener distribuciones importantes.",
+        "Distribuir fondos es una decisión financiera. La innovación requiere inversiones y capacidades operativas. El pago puede revelar madurez, pero no crea tecnología por sí mismo.",
+        "La devolución de excedentes no exige abandonar inversiones valiosas. Debe conservarse la financiación necesaria para proyectos con VPN positivo. El término excedente se refiere a fondos sin un uso mejor dentro de la firma."
+      ]
+    },
+    {
+      "id": "c17-q043",
+      "tema": "17.7 Argumento de bajos dividendos",
+      "dificultad": "basica",
+      "pregunta": "Si los dividendos soportan más impuestos que las ganancias de capital y todo lo demás es comparable, ¿qué predice el argumento favorable a bajos dividendos?",
+      "opciones": [
+        "Los inversores deben preferir dividendos altos porque pagan más impuestos.",
+        "Las acciones de alto dividendo requieren siempre menor rendimiento bruto para compensar su impuesto.",
+        "Todos los inversores tienen idéntica preferencia fiscal.",
+        "Los inversores gravados pueden preferir menores dividendos y aceptar menor rendimiento antes de impuestos por esas acciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un mayor impuesto reduce el ingreso disponible, no lo aumenta. Para aceptar una carga superior se necesitaría compensación. La preferencia fiscal aislada favorece el mecanismo menos gravado.",
+        "Menor rendimiento bruto agravaría la desventaja fiscal. Si el riesgo es comparable, la compensación sería un rendimiento antes de impuestos mayor. La dirección propuesta está invertida.",
+        "Hay inversores exentos y otros con tratamientos especiales. La preferencia depende de las tasas y de cuándo se pagan los impuestos. No puede extrapolarse la situación de una persona a todo el mercado.",
+        "Lo relevante para el inversor es el rendimiento neto de impuestos. Una mayor carga sobre dividendos reduce ese rendimiento. Una acción con más ganancias de capital puede resultar atractiva aun ofreciendo menor rentabilidad bruta."
+      ]
+    },
+    {
+      "id": "c17-q044",
+      "tema": "17.7 Rendimiento después de impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos acciones cuestan $100 y rinden 12% antes de impuestos en un año. A paga todo como dividendo; B genera solo ganancia de capital y se vende al año. Con impuestos de 30% y 15%, respectivamente, ¿cuáles son los rendimientos netos?",
+      "opciones": [
+        "A: 12%; B: 12%.",
+        "A: 8,4%; B: 10,2%.",
+        "A: 10,2%; B: 8,4%.",
+        "A: −18%; B: −3%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estos son rendimientos antes de impuestos. La pregunta pide el ingreso disponible después de tributar. Hay que aplicar a cada componente su tasa correspondiente.",
+        "A distribuye $12 y se pagan $3,60 de impuesto, quedando $8,40. B genera $12 de ganancia y tributa $1,80, quedando $10,20. Sobre $100 iniciales, los rendimientos son 8,4% y 10,2%.",
+        "Esta respuesta intercambia las tasas. El dividendo soporta 30% y la ganancia de capital 15%. Por eso A conserva menos rendimiento que B.",
+        "Se restan tasas impositivas de la rentabilidad en lugar de gravar la ganancia. El impuesto no se aplica al capital inicial completo. Debe multiplicarse el rendimiento por uno menos la tasa correspondiente."
+      ]
+    },
+    {
+      "id": "c17-q045",
+      "tema": "17.7 Precio y compensación fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Se exige 8% neto a dos acciones de igual riesgo. A tendrá precio final de $110 y no paga dividendo. B tendrá precio final de $100 y paga $10. Se tributa 20% sobre ganancias realizadas y 40% sobre dividendos. ¿Qué precios actuales igualan el rendimiento neto requerido?",
+      "opciones": [
+        "Ambas: $100.",
+        "A: $97,73; B: $100.",
+        "A: $100; B: aproximadamente $97,73.",
+        "A: $110; B: $106."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "A ese precio, A deja $8 netos y B solo $6. B debe ofrecer compensación mediante un precio menor. Igualar los pagos finales brutos no iguala los rendimientos después de impuestos.",
+        "Se invierte la compensación por el impuesto mayor al dividendo. B necesita un precio más bajo para ofrecer 8% neto. A puede valer $100 porque su ganancia está gravada a la tasa menor.",
+        "Para A se cumple 110 − P − 0,20 × (110 − P) = 0,08P, de donde P = 100. Para B se cumple 100 − P + 6 − 0,20 × (100 − P) = 0,08P. Así, 86 = 0,88P y P = $97,73 aproximadamente.",
+        "Estas cifras representan cobros finales antes de considerar correctamente el capital invertido y la tasa requerida. Comprar A a $110 dejaría rendimiento cero. El precio actual debe descontar el rendimiento neto exigido."
+      ]
+    },
+    {
+      "id": "c17-q046",
+      "tema": "17.7 Costo de emitir para pagar",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma necesita $1.960 netos para financiar un dividendo mediante emisión de acciones. La colocación cuesta 2% de lo recaudado. ¿Cuánto debe captar y cuál es el costo?",
+      "opciones": [
+        "Debe captar $2.000 y pagar $40.",
+        "Debe captar $1.999,20 y pagar $39,20.",
+        "Debe captar $1.960 y no pagar costos porque dividendos y emisiones se compensan.",
+        "Debe captar $1.920,80 y pagar $39,20."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La empresa conserva 98% de la recaudación bruta. Por eso debe emitir por $1.960 / 0,98 = $2.000. El costo es 2% de $2.000, equivalente a $40.",
+        "Este cálculo aplica 2% al importe neto requerido. La comisión se cobra sobre el bruto recaudado. Para conservar exactamente $1.960 hay que dividir por 0,98.",
+        "La compensación financiera no elimina las fricciones reales. Si se recauda solo $1.960, la comisión reduce el efectivo disponible. El costo de emisión es una razón para cuestionar el reciclaje de fondos.",
+        "Se resta el costo al monto buscado cuando se necesita recaudar más. Una comisión deja menos fondos netos que el bruto. La recaudación debe superar $1.960 para financiar el pago completo."
+      ]
+    },
+    {
+      "id": "c17-q047",
+      "tema": "17.7 Límites del arbitraje fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente propone reemplazar dividendos por recompras idénticas y regulares, asegurando ahorro fiscal permanente bajo cualquier legislación. ¿Qué objeción es válida?",
+      "opciones": [
+        "Toda recompra está siempre libre de cualquier impuesto.",
+        "El tratamiento depende del régimen y una autoridad podría recalificar distribuciones equivalentes; el ahorro no es universal.",
+        "La autoridad fiscal garantiza que nunca revisará la sustancia del pago.",
+        "La recompra es necesariamente ilegal en todos los países."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El vendedor puede realizar ganancias gravadas. Además, las reglas varían entre regímenes. Recompra no significa exención automática.",
+        "La forma económica de una distribución puede importar para su tratamiento tributario. El análisis histórico contempla el riesgo de que recompras regulares sean tratadas como dividendos. No corresponde asumir una ventaja fiscal incondicional ni presentarla como regla vigente universal.",
+        "Esa garantía no se desprende del mecanismo financiero. El tratamiento requiere considerar las normas y los hechos. Ignorar la posibilidad de recalificación exagera la certeza del ahorro.",
+        "Las restricciones han variado históricamente entre países. Muchas jurisdicciones admiten recompras bajo condiciones. El problema planteado es tributario y no una prohibición universal."
+      ]
+    },
+    {
+      "id": "c17-q048",
+      "tema": "17.7 Evidencia fiscal y expectativas",
+      "dificultad": "avanzada",
+      "pregunta": "Una investigadora relaciona rendimientos bursátiles con dividendos efectivamente pagados después de una sorpresa positiva de ganancias. ¿Qué problema enfrenta para identificar el efecto fiscal?",
+      "opciones": [
+        "El dividendo realizado siempre coincide con el esperado.",
+        "Todo rendimiento alto demuestra que los impuestos son irrelevantes.",
+        "Para evitar sesgo basta con ignorar el precio de compra.",
+        "El dividendo realizado mezcla expectativas previas y noticias; conviene medir lo que se esperaba antes de la sorpresa."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los anuncios inesperados pueden alterar el pago. Esa diferencia es justamente la fuente del problema de medición. Suponer igualdad elimina por definición la sorpresa que se quiere estudiar.",
+        "El rendimiento puede responder a información operativa y a impuestos. Observar una suba no permite descartar ninguno sin más análisis. Debe identificarse el efecto específico que se intenta medir.",
+        "El rendimiento requiere un capital inicial de referencia. Omitirlo no resuelve la contaminación por noticias. Hay que tratar adecuadamente las expectativas y los cambios informativos.",
+        "Una noticia favorable puede elevar simultáneamente el precio y el dividendo observado. Esa correlación no identifica por sí sola una compensación fiscal. Estimar dividendos esperados ayuda a separar la política anticipada del contenido informativo de la sorpresa."
+      ]
+    },
+    {
+      "id": "c17-q049",
+      "tema": "17.7 Negociación alrededor del dividendo",
+      "dificultad": "avanzada",
+      "pregunta": "Inversores con alto impuesto a dividendos venden temporalmente a intermediarios con igual tasa sobre dividendos y ganancias de capital. ¿Qué implica para estimar impuestos a partir de precios ex dividendo?",
+      "opciones": [
+        "Las operaciones alrededor del pago pueden debilitar la relación entre la caída observada y la tasa del accionista habitual.",
+        "La tasa del propietario habitual se identifica sin ningún supuesto adicional.",
+        "Los intermediarios necesariamente rechazan cualquier dividendo.",
+        "Las operaciones hacen que el dividendo desaparezca de la caja de la empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El tenedor durante el evento puede tener un tratamiento fiscal distinto del propietario de largo plazo. Ese cambio modifica quién fija el precio marginal. Por eso la caída no identifica automáticamente los impuestos de toda la clientela histórica.",
+        "El intercambio temporal cambia quién recibe el dividendo. Las preferencias del tenedor marginal pueden diferir de las del propietario habitual. Se necesitan supuestos sobre negociación, costos e impuestos para interpretar la caída.",
+        "Si sus tasas sobre dividendos y ganancias son iguales, no enfrentan la misma desventaja relativa. Pueden aceptar mantener los títulos durante el evento. Su conducta no puede deducirse de la tasa de otro inversor.",
+        "El intercambio cambia al beneficiario, no elimina el desembolso corporativo. La firma sigue entregando el efectivo anunciado. El efecto relevante está en la asignación y valoración del pago."
+      ]
+    },
+    {
+      "id": "c17-q050",
+      "tema": "17.7 Diferimiento fiscal",
+      "dificultad": "basica",
+      "pregunta": "Si la tasa legal sobre dividendos y ganancias de capital es la misma, ¿por qué puede subsistir una ventaja fiscal de las ganancias de capital?",
+      "opciones": [
+        "Porque igual tasa legal significa que las ganancias nunca tributan.",
+        "Porque diferir aumenta siempre el valor presente del impuesto.",
+        "Su impuesto puede diferirse hasta la venta y tener menor valor presente.",
+        "Porque la tasa nominal se vuelve automáticamente negativa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tasa igual no equivale a una exención. La obligación puede surgir al realizar la ganancia. La ventaja considerada proviene del momento del pago.",
+        "Una obligación fija pagada más tarde se descuenta más. Con tasa positiva su valor presente disminuye. El sentido de la afirmación está invertido.",
+        "El dividendo suele generar una obligación al recibirse. La ganancia no realizada puede postergar el impuesto hasta vender. Con valor temporal del dinero, pagar después reduce el valor presente de una obligación dada.",
+        "Posponer no transforma una tasa positiva en negativa. Puede reducir la carga efectiva medida en valor presente. Debe distinguirse tasa legal de costo temporal del impuesto."
+      ]
+    },
+    {
+      "id": "c17-q051",
+      "tema": "17.7 Valor presente del impuesto",
+      "dificultad": "intermedia",
+      "pregunta": "Una ganancia ya acumulada de $20 tributará 25%. Si el importe imponible no cambia y el pago se difiere dos años, con tasa de descuento de 10%, ¿cuál es el valor presente del impuesto?",
+      "opciones": [
+        "$5.",
+        "Aproximadamente $4,13.",
+        "Aproximadamente $4,55.",
+        "$6,05."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este es el impuesto nominal futuro. La pregunta pide su valor presente. Hay que descontarlo durante dos años a 10% anual.",
+        "El impuesto futuro es $20 × 25% = $5. Se descuenta dos años: $5 / 1,10² = $4,1322. La diferencia con $5 refleja solo el beneficio temporal del diferimiento bajo estos supuestos.",
+        "Este cálculo descuenta un solo año. El plazo estipulado es de dos años. Se debe dividir por 1,10² y no únicamente por 1,10.",
+        "Este resultado capitaliza el impuesto hacia adelante. Para calcular valor presente debe descontarse. Un pago futuro fijo tiene un valor actual menor con una tasa positiva."
+      ]
+    },
+    {
+      "id": "c17-q052",
+      "tema": "17.7 Retorno con realización diferida",
+      "dificultad": "avanzada",
+      "pregunta": "Se invierten $100 en una acción que sube 20% anual durante dos años y no paga dividendos. Al vender se tributa 25% de la ganancia total. ¿Cuál es el rendimiento anual compuesto neto aproximado?",
+      "opciones": [
+        "15%.",
+        "16,5%.",
+        "20%.",
+        "15,33%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Multiplicar 20% por 0,75 supone tributar cada año. En el caso planteado, el impuesto se paga recién al final. El diferimiento permite que durante el segundo año crezcan también ganancias todavía no gravadas.",
+        "Este valor divide el rendimiento total neto de 33% entre dos. Eso es un promedio aritmético del retorno acumulado. La anualización compuesta requiere extraer la raíz cuadrada de 1,33.",
+        "Esta es la tasa antes de impuestos. La venta realiza una ganancia de $44 y genera $11 de tributo. El patrimonio final neto de $133 implica una tasa anual menor.",
+        "El precio de venta es $100 × 1,20² = $144. El impuesto es 25% de $44, o $11, y quedan $133. El rendimiento anual compuesto es la raíz cuadrada de 1,33 menos uno, aproximadamente 15,33%."
+      ]
+    },
+    {
+      "id": "c17-q053",
+      "tema": "17.7 Clientelas fiscales",
+      "dificultad": "basica",
+      "pregunta": "Si se ignoran costos y necesidades de consumo, ¿qué preferencia fiscal corresponde a un fondo de pensiones totalmente exento?",
+      "opciones": [
+        "Prefiere siempre ganancias de capital porque paga más impuesto a dividendos.",
+        "Prefiere siempre dividendos porque el capital retenido no tiene valor.",
+        "Es indiferente entre dividendos y ganancias de capital con igual riesgo y rendimiento total antes de impuestos.",
+        "No puede poseer acciones porque no tributa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La premisa dice que está totalmente exento. No puede asignársele una tasa positiva de dividendos. Ese argumento sí podría ser relevante para otro inversor gravado.",
+        "La exención no hace que desaparezca el valor de los activos retenidos. El fondo puede obtener retorno por apreciación. Sin otras diferencias, no hay una preferencia fiscal por dividendos.",
+        "El fondo no paga impuesto sobre ninguno de esos componentes. Por eso no existe una cuña fiscal que favorezca una forma de retorno. La comparación debe mantener iguales el riesgo y el rendimiento total.",
+        "La exención fiscal no implica una prohibición de inversión. Los fondos pueden ser tenedores importantes de acciones. Se confunde tratamiento tributario con elegibilidad de activos."
+      ]
+    },
+    {
+      "id": "c17-q054",
+      "tema": "17.7 Dividendos entre corporaciones",
+      "dificultad": "intermedia",
+      "pregunta": "En un régimen hipotético, una corporación tributa 30%, pero solo incluye en su base 20% de los dividendos recibidos. Una ganancia de capital de igual monto se grava íntegramente. Por cada $100 recibidos, ¿qué ingreso neto deja cada vía?",
+      "opciones": [
+        "Dividendo: $94; ganancia de capital: $70.",
+        "Dividendo: $70; ganancia de capital: $70.",
+        "Dividendo: $80; ganancia de capital: $70.",
+        "Dividendo: $100; ganancia de capital: $94."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La base del dividendo es 20% de $100, equivalente a $20. El impuesto es 30% de $20, o $6, y quedan $94. La ganancia íntegra de $100 tributa $30 y deja $70.",
+        "Este cálculo ignora la exclusión parcial del dividendo. Solo $20 entran en la base corporativa. La tasa efectiva sobre el dividendo completo es 6% y no 30%.",
+        "El 20% indicado es una proporción gravable y no la tasa de impuesto. A esa base todavía debe aplicarse 30%. El impuesto efectivo es $6, no $20.",
+        "El dividendo no está totalmente exento y la ganancia no recibe la exclusión. Se confunden las bases de ambos conceptos. Las reglas dadas favorecen al dividendo, que deja $94 frente a $70."
+      ]
+    },
+    {
+      "id": "c17-q055",
+      "tema": "17.7 Base fiscal heredada",
+      "dificultad": "intermedia",
+      "pregunta": "En un régimen hipotético, al fallecer el titular sus herederos reciben una base fiscal igual al valor de mercado. Una acción costó $40, vale $70 al heredarse y se vende inmediatamente a $70. ¿Qué ocurre con la ganancia previa bajo esa regla?",
+      "opciones": [
+        "Se tributa necesariamente sobre los $70 completos.",
+        "Los $30 de apreciación previa no generan ganancia gravable al vender a la nueva base de $70.",
+        "Se tributa necesariamente sobre $30 porque la base nunca puede cambiar.",
+        "La empresa debe pagar un dividendo adicional de $30."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un impuesto a la ganancia no grava automáticamente todo el precio de venta. Debe restarse la base fiscal aplicable. Con una base actualizada a $70, la diferencia es cero.",
+        "La regla eleva la base desde $40 hasta $70. Al vender a $70, la ganancia calculada sobre esa base es cero. Este es un efecto del supuesto fiscal planteado y no una regla universal para todas las jurisdicciones.",
+        "El supuesto establece expresamente una actualización al valor de mercado. Mantener la base histórica contradice esa regla. La apreciación previa queda fuera de la ganancia gravable de esta venta.",
+        "El ajuste de base afecta al titular y su impuesto. No ordena una distribución corporativa. La firma no entrega efectivo por el solo hecho de que se hereden sus acciones."
+      ]
+    },
+    {
+      "id": "c17-q056",
+      "tema": "17.8 Equilibrio de clientelas",
+      "dificultad": "intermedia",
+      "pregunta": "Existen clientes que prefieren dividendos altos y otros bajos. Según la posición intermedia, ¿por qué una empresa no necesariamente aumenta su valor cambiando de política?",
+      "opciones": [
+        "La posición intermedia niega que existan preferencias distintas.",
+        "Toda clientela garantiza una prima ilimitada por su tipo de acción.",
+        "El equilibrio exige que todas las empresas distribuyan el mismo porcentaje.",
+        "La oferta de cada tipo de acción puede haberse ajustado a la demanda, de modo que no quede una prima por capturar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El argumento admite clientelas heterogéneas. Su énfasis está en la capacidad de la oferta para ajustarse. No necesita suponer que todos los inversores desean lo mismo.",
+        "Una preferencia no implica demanda infinita. La entrada o adaptación de otras empresas puede satisfacerla. La competencia por atenderla limita la posibilidad de ganar valor solo cambiando el pago.",
+        "La variedad de preferencias puede requerir políticas diversas. El equilibrio se refiere al ajuste entre oferta y demanda. No impone uniformidad en la razón de pago de cada firma.",
+        "Las preferencias diferentes pueden coexistir con una oferta que las satisface. Si suficientes empresas atienden cada clientela, una firma adicional no obtiene automáticamente una prima. La existencia de una preferencia no demuestra escasez del producto financiero preferido."
+      ]
+    },
+    {
+      "id": "c17-q057",
+      "tema": "17.8 Cambio de impuestos y demanda",
+      "dificultad": "avanzada",
+      "pregunta": "Se reduce el impuesto sobre dividendos y no cambia el de ganancias de capital. Antes, la oferta satisfacía las clientelas. ¿Qué secuencia es compatible con la posición intermedia?",
+      "opciones": [
+        "Puede aumentar la demanda de dividendos, ajustarse la oferta y desaparecer la ventaja de cambiar políticas una vez alcanzado el nuevo equilibrio.",
+        "La reforma no puede modificar ninguna preferencia porque antes había equilibrio.",
+        "Todas las empresas deben eliminar sus dividendos de inmediato.",
+        "Cada aumento de dividendos garantiza una ganancia permanente sin respuesta de otras firmas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La reforma puede hacer relativamente más atractivo recibir dividendos. Algunas compañías responderían aumentando pagos o iniciándolos. Tras ajustarse la oferta, no tiene por qué persistir una prima que cualquier firma pueda capturar indefinidamente.",
+        "El equilibrio inicial dependía de las condiciones fiscales anteriores. Un cambio en esas condiciones puede desplazar la demanda. El ajuste posterior no contradice que previamente hubiera equilibrio.",
+        "Una menor carga relativa no induce necesariamente menor demanda de dividendos. La dirección sugerida invierte el incentivo fiscal. Además, la respuesta puede variar entre compañías y clientelas.",
+        "La posición intermedia destaca justamente la respuesta de la oferta. Si una política obtiene una prima, otras firmas pueden adaptarse. Ignorar esa competencia impide comprender el nuevo equilibrio."
+      ]
+    },
+    {
+      "id": "c17-q058",
+      "tema": "17.8 Vigilancia institucional",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa bien administrada acepta mayor presencia de inversores institucionales exigentes mediante una política de dividendos atractiva para ellos. ¿Qué mecanismo de valor puede operar?",
+      "opciones": [
+        "El dividendo impide legalmente que los institucionales cuestionen al directorio.",
+        "La presencia institucional vuelve imposible cualquier mala inversión.",
+        "La vigilancia de esos inversores puede mejorar incentivos y hacer creíble la calidad de la administración.",
+        "Los dividendos convierten a los accionistas institucionales en acreedores."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La hipótesis supone inversores exigentes y no pasivos. Su posible contribución proviene de vigilar y presionar. Impedirles intervenir eliminaría el mecanismo explicado.",
+        "La supervisión puede reducir problemas de agencia. No elimina toda incertidumbre ni garantiza decisiones perfectas. Debe interpretarse como un incentivo adicional y no como un seguro absoluto.",
+        "Los institucionales pueden dedicar recursos a supervisar decisiones. Una administración eficiente puede aceptar ese escrutinio como señal de calidad. La explicación relaciona clientelas, información y control, en vez de atribuir valor intrínseco a cualquier dividendo. Las vías de inversión con tratamiento favorable, como ciertos fondos o seguros, también pueden influir en las clientelas, aunque no explican por sí solas toda tenencia de dividendos por personas gravadas.",
+        "Cobrar dividendos no cambia la naturaleza del título. El inversor sigue teniendo derechos de accionista. La deuda y sus obligaciones contractuales constituyen otra forma de financiación."
+      ]
+    },
+    {
+      "id": "c17-q059",
+      "tema": "17.8 Sistema clásico de impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "En un sistema clásico, una firma gana $200 antes de impuesto corporativo de 25% y distribuye toda la utilidad neta. El accionista tributa 20% sobre el dividendo. ¿Cuánto conserva y cuál es la carga conjunta sobre los $200?",
+      "opciones": [
+        "Conserva $110; la carga conjunta es 45%.",
+        "Conserva $120; la carga conjunta es 40%.",
+        "Conserva $150; la carga conjunta es 25%.",
+        "Conserva $160; la carga conjunta es 20%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar directamente 25% y 20% ignora que la segunda tasa se aplica al dividendo neto. La base personal es $150, no $200. La carga conjunta correcta es 40%.",
+        "La compañía paga $50 y distribuye $150. El accionista paga 20% de $150, equivalente a $30, y conserva $120. Los impuestos suman $80 sobre $200, o 40%, calculados como 1 − 0,75 × 0,80.",
+        "Este resultado omite el impuesto personal. El accionista todavía debe pagar $30 sobre el dividendo recibido. Después de ambas capas conserva $120.",
+        "Este cálculo omite el impuesto corporativo. La utilidad distribuible ya cayó a $150 antes de llegar al accionista. Después del segundo impuesto quedan $120."
+      ]
+    },
+    {
+      "id": "c17-q060",
+      "tema": "17.8 Imputación con devolución",
+      "dificultad": "intermedia",
+      "pregunta": "Con imputación plena y créditos reembolsables, una firma gana $200, tributa 30% y distribuye los $140 restantes con crédito de $60. El accionista tiene tasa personal de 20%. ¿Qué resultado obtiene?",
+      "opciones": [
+        "Paga $28 adicionales y termina con $112.",
+        "Recibe devolución de $60 y termina con $200.",
+        "No tiene ajuste y conserva solo $140.",
+        "Recibe devolución de $20 y termina con $160."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se aplica 20% al cheque neto y se ignora el crédito. La imputación exige reconstruir el dividendo bruto y restar el impuesto corporativo acreditado. El resultado correcto es una devolución de $20.",
+        "El crédito no vuelve exento al accionista. Su obligación personal sobre $200 es $40. Solo el exceso de crédito, equivalente a $20, se devuelve.",
+        "Ese resultado correspondería a una tasa personal de 30%, igual a la corporativa. La tasa planteada es menor. Con créditos reembolsables, la diferencia genera una devolución.",
+        "El dividendo bruto fiscal es $140 + $60 = $200. El impuesto personal sobre esa base es $40 y el crédito es $60, por lo que se devuelven $20. Sumados al cheque de $140, dejan $160 disponibles."
+      ]
+    },
+    {
+      "id": "c17-q061",
+      "tema": "17.8 Imputación con pago adicional",
+      "dificultad": "intermedia",
+      "pregunta": "En un sistema de imputación plena, una firma gana $200, paga $60 de impuesto y distribuye $140 con ese crédito. Si la tasa personal es 45%, ¿cuánto paga adicionalmente el accionista y cuánto conserva?",
+      "opciones": [
+        "Paga $30 adicionales y conserva $110.",
+        "Paga $63 adicionales y conserva $77.",
+        "Paga $90 adicionales y conserva $50.",
+        "Recibe $30 de devolución y conserva $170."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La obligación personal sobre el ingreso bruto de $200 es $90. Se descuenta el crédito corporativo de $60 y queda un pago adicional de $30. El efectivo disponible es $140 menos $30, equivalente a $110.",
+        "Este cálculo aplica 45% al cheque y omite la imputación. La base correcta es el dividendo bruto de $200. Luego debe descontarse el crédito de $60.",
+        "Los $90 son la obligación personal total antes del crédito. La compañía ya ingresó $60 imputables a ese impuesto. Solo faltan $30 para completar la carga personal.",
+        "La tasa personal supera a la corporativa. Por eso la obligación excede el crédito y exige un pago, no una devolución. El sentido del ajuste está invertido."
+      ]
+    },
+    {
+      "id": "c17-q062",
+      "tema": "17.8 Alcance de la imputación",
+      "dificultad": "avanzada",
+      "pregunta": "Bajo imputación plena y créditos utilizables, ¿qué significa afirmar que existe una sola capa efectiva de impuesto cuando se distribuye toda la utilidad?",
+      "opciones": [
+        "Que la tasa corporativa y la personal se suman sin ningún crédito.",
+        "Que ninguna persona paga impuestos si recibe dividendos.",
+        "La carga final sobre esa utilidad corresponde a la tasa personal; no implica que toda utilidad retenida quede libre de impuesto.",
+        "Que toda utilidad retenida produce inmediatamente una devolución personal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar las dos capas describe una doble carga sin integración. La imputación precisamente reconoce el impuesto corporativo como crédito. Ignorar ese crédito cambia el sistema que se está analizando.",
+        "Una tasa personal positiva genera una obligación sobre el ingreso bruto. El crédito evita duplicarla, pero no la elimina necesariamente. El accionista termina soportando su tasa personal bajo los supuestos dados.",
+        "El impuesto corporativo funciona como un pago acreditable al accionista. Al distribuir todo, se completa o devuelve la diferencia hasta su carga personal. Las utilidades retenidas siguen sujetas al tratamiento corporativo y pueden generar ganancias de capital posteriores. Un crédito parcial o una exención de solo parte del dividendo produce una integración incompleta entre el sistema clásico y la imputación plena.",
+        "El beneficio descrito exige distribuir dividendos con créditos utilizables. Retener no equivale a entregar ese crédito al accionista en efectivo. No debe extenderse automáticamente la conclusión a ganancias no distribuidas."
+      ]
+    },
+    {
+      "id": "c17-q063",
+      "tema": "17.7 Precio ex dividendo con impuestos",
+      "dificultad": "avanzada",
+      "pregunta": "Supongamos un inversor marginal homogéneo, sin costos, que tributa 40% sobre dividendos y 20% sobre ganancias realizadas. Ante un dividendo de $4, ¿qué caída teórica del precio lo deja indiferente entre vender antes o después?",
+      "opciones": [
+        "$4.",
+        "$3.",
+        "$2,40.",
+        "$5,33."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese resultado corresponde a tasas iguales o a ausencia de impuestos. Aquí el dividendo enfrenta mayor carga relativa. La caída compatible con indiferencia es menor que el dividendo bruto.",
+        "La condición de indiferencia es caída × (1 − 0,20) = $4 × (1 − 0,40). El dividendo neto es $2,40 y la caída debe ser $2,40 / 0,80 = $3. La fórmula depende de estos supuestos sobre tributación y negociación.",
+        "Este importe es el dividendo neto. Falta reconocer el efecto de la caída sobre la ganancia de capital gravable. Debe dividirse $2,40 por 0,80 para obtener la caída de precio.",
+        "Este resultado invierte el cociente de ajustes fiscales. El mayor impuesto al dividendo reduce, y no aumenta, la caída compatible con indiferencia. La relación correcta es 0,60 / 0,80."
+      ]
+    },
+    {
+      "id": "c17-q064",
+      "tema": "17.7 Inferir una tasa marginal",
+      "dificultad": "avanzada",
+      "pregunta": "En el modelo simple de indiferencia ex dividendo, la caída del precio es 80% del dividendo y la tasa sobre ganancias de capital es la mitad de la tasa sobre dividendos. ¿Qué tasa sobre dividendos resulta?",
+      "opciones": [
+        "20%.",
+        "40%.",
+        "80%.",
+        "Aproximadamente 33,33%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se interpreta la diferencia entre uno y 0,80 como la tasa directamente. Eso solo serviría si la tasa sobre ganancias fuera cero. Aquí también debe incorporarse el término 0,5t del denominador.",
+        "Este cálculo duplica 20% sin resolver la condición completa. El cociente fiscal contiene ambas tasas. Reemplazar t por 40% daría 0,60 / 0,80 = 0,75 y no 0,80.",
+        "Se confunde la proporción de caída con la tasa impositiva. Son magnitudes relacionadas mediante un cociente. Una tasa de 80% daría una relación de 0,20 / 0,60, distinta de la observada.",
+        "Se plantea 0,80 = (1 − t) / (1 − 0,5t). Al multiplicar, 0,80 − 0,40t = 1 − t, por lo que 0,60t = 0,20. Así, t = un tercio, aunque la inferencia empírica requiere validar los supuestos del modelo."
+      ]
+    },
+    {
+      "id": "c17-q065",
+      "tema": "17.7 Compra antes o después",
+      "dificultad": "avanzada",
+      "pregunta": "Un dividendo es $2 y se espera una caída ex dividendo de $1,80. Sin costos, un inversor marginal tributa 40% sobre dividendos y obtiene compensación fiscal de 20% por la menor ganancia de capital. Comparando ambas fechas a un mismo horizonte, ¿qué prefiere?",
+      "opciones": [
+        "Comprar ex dividendo: el dividendo neto de $1,20 no compensa la caída neta de $1,44.",
+        "Comprar con dividendo porque cobra $2 y pierde solo $1,80.",
+        "Es indiferente porque cualquier impuesto se cancela automáticamente.",
+        "Comprar ex dividendo porque el ahorro es exactamente $1,80."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Comprar antes permite cobrar $2 × 0,60 = $1,20 netos. La caída de $1,80 tiene un costo después del efecto fiscal de $1,80 × 0,80 = $1,44. La diferencia es una desventaja de $0,24 para la compra con dividendo.",
+        "Se comparan importes brutos cuando las tasas son diferentes. El dividendo neto es solo $1,20. La caída neta de $1,44 hace preferible comprar después bajo los supuestos dados.",
+        "La cancelación requiere una relación específica entre caída y dividendo. Aquí $1,20 no coincide con $1,44. Las fricciones fiscales generan una diferencia de $0,24.",
+        "El beneficio no equivale a toda la caída de precio. Comprar después también implica renunciar al dividendo neto. La comparación correcta resta ese ingreso perdido y considera el efecto fiscal sobre capital."
+      ]
+    },
+    {
+      "id": "c17-q066",
+      "tema": "17.3 Riesgo, crecimiento y payout",
+      "dificultad": "intermedia",
+      "pregunta": "Compare una firma con oportunidades valiosas de crecimiento y otra con una baja transitoria inesperada de utilidades pero dividendo estable. ¿Qué patrón es razonable?",
+      "opciones": [
+        "La firma en crecimiento debe distribuir todo para financiar más proyectos.",
+        "La baja transitoria obliga a recortar el dividendo en idéntica proporción.",
+        "La primera puede tener payout bajo y múltiplo alto; la segunda puede mostrar un payout temporalmente elevado por la caída del denominador.",
+        "Un payout elevado garantiza mayor crecimiento futuro y menor riesgo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Distribuir todos los fondos reduce el financiamiento interno disponible. Puede requerir emisiones para sostener la inversión. No existe una obligación de pagar todo cuando hay oportunidades rentables.",
+        "La suavización evita responder automáticamente a variaciones temporarias. El dividendo puede mantenerse si la capacidad de largo plazo lo permite. Por eso la razón de pago puede subir sin cambiar el importe distribuido.",
+        "Retener para proyectos de VPN positivo puede justificar pagos bajos y sostener valoraciones altas. En la segunda firma, un dividendo estable dividido por utilidades menores eleva el payout observado. El riesgo alto o una caída permanente anticipada requieren revisar sostenibilidad y valoración, sin imponer un patrón mecánico único.",
+        "Un cociente alto puede reflejar utilidades deprimidas, no mejores perspectivas. También puede dejar menos fondos retenidos. Deben examinarse las causas y no inferir calidad solo del porcentaje."
+      ]
+    },
+    {
+      "id": "c17-q067",
+      "tema": "17.5 Costo de utilidades retenidas",
+      "dificultad": "basica",
+      "pregunta": "Un director afirma que financiar un proyecto con utilidades retenidas es gratis porque no se emiten acciones. ¿Qué respuesta corresponde?",
+      "opciones": [
+        "Tiene razón porque solo los dividendos futuros de acciones nuevas cuestan dinero.",
+        "Las utilidades retenidas deben evaluarse siempre con tasa cero.",
+        "El costo siempre equivale a la razón de pago del último año.",
+        "Los fondos tienen costo de oportunidad: los accionistas podrían recibirlos e invertirlos en alternativas de riesgo comparable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las acciones existentes también representan derechos económicos. Retener sus fondos exige justificar el uso frente a alternativas. El costo de capital no depende únicamente de imprimir nuevos títulos.",
+        "Una tasa cero sobrevalora flujos futuros riesgosos. El criterio adecuado incorpora el tiempo y el riesgo de la inversión. La ausencia de emisión no elimina ninguno de esos elementos.",
+        "La razón de pago mide qué parte de las utilidades se distribuye. No mide el rendimiento requerido por los inversores. El costo de oportunidad depende de alternativas comparables en riesgo.",
+        "Retener dinero evita ciertos costos de emisión, pero no vuelve gratuito al capital. Los accionistas renuncian a usar esos recursos fuera de la empresa. El proyecto debe ofrecer un rendimiento suficiente para compensar esa oportunidad y su riesgo."
+      ]
+    },
+    {
+      "id": "c17-q068",
+      "tema": "17.5 Precio de recompra y calidad del negocio",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene excelentes perspectivas, pero su acción cotiza muy por encima de su valor económico estimado. ¿Por qué no basta afirmar que recomprar es la mejor inversión en sí misma?",
+      "opciones": [
+        "Las buenas perspectivas garantizan que cualquier precio sea barato.",
+        "Una buena empresa puede ser una mala compra a un precio excesivo; recomprar caro transfiere riqueza a quienes venden.",
+        "Toda recompra es un proyecto operativo nuevo con VPN positivo.",
+        "El precio pagado es irrelevante siempre que disminuya el número de acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incluso flujos muy buenos tienen un valor finito. Un precio puede superar ese valor. La evaluación debe comparar el desembolso con el valor económico recibido.",
+        "La calidad del negocio y el atractivo del precio son cuestiones diferentes. Pagar más que el valor de los derechos adquiridos favorece a los vendedores. Quienes permanecen financian esa transferencia, aun cuando la firma sea operativamente sólida.",
+        "La recompra cambia la estructura de derechos sobre activos existentes. No crea automáticamente nuevos flujos operativos. Su conveniencia depende del precio y de las alternativas para usar fondos.",
+        "La cantidad retirada es solo una parte de la operación. También importa cuántos recursos salen de la empresa. Un precio excesivo puede reducir la riqueza de quienes conservan títulos."
+      ]
+    },
+    {
+      "id": "c17-q069",
+      "tema": "17.5 Recompras permanentes y valorización",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma sin dividendos distribuye todo mediante recompras. Su acción vale hoy $80 y el rendimiento requerido es 5% anual. Sin señales, impuestos ni cambios de riesgo, ¿qué precios esperados son compatibles con ese rendimiento al cabo de uno, dos y tres años para una acción conservada?",
+      "opciones": [
+        "$80; $80; $80.",
+        "$84; $88; $92.",
+        "$84; $88,20; $92,61.",
+        "$76; $72,20; $68,59."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Con precio constante y sin dividendos, la acción conservada rendiría cero. Eso no satisface el rendimiento esperado de 5%. La apreciación debe compensar la ausencia de pagos directos a ese tenedor.",
+        "Esta secuencia usa interés simple sobre los $80 iniciales. El rendimiento anual requerido se aplica sobre el valor de cada año. La capitalización compuesta produce $88,20 y $92,61 para los años siguientes.",
+        "Sin dividendos, todo el rendimiento esperado de la acción conservada proviene de su apreciación. Se calcula $80 × 1,05 elevado a uno, dos y tres años. El resultado es $84, $88,20 y $92,61, mientras las recompras reducen títulos en circulación.",
+        "Esta trayectoria reduce el precio 5% anual. Confunde una distribución por dividendo con la recompra de otros títulos. Una acción conservada sin dividendos requiere apreciación esperada para rendir positivamente."
+      ]
+    },
+    {
+      "id": "c17-q070",
+      "tema": "17.8 Impuestos y costo de capital",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora evalúa ajustar el costo de capital de una firma solo por su alto dividendo. ¿Qué conclusión respeta la controversia del capítulo?",
+      "opciones": [
+        "Un efecto fiscal relevante podría exigir mayor rendimiento bruto, pero su medición es incierta y no justifica un ajuste automático universal.",
+        "Debe reducir siempre el costo de capital porque todo dividendo alto crea valor.",
+        "Debe sumar la tasa personal completa de dividendos al costo de capital.",
+        "Puede ignorar siempre los impuestos porque MM los incorpora sin restricciones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Si los inversores marginales soportan una desventaja fiscal, pueden pedir compensación antes de impuestos. La magnitud depende de tasas, clientelas y negociación. La evidencia incierta obliga a fundamentar cualquier ajuste y a separar los cambios de riesgo e inversión.",
+        "Esa conclusión supone resuelta la controversia a favor de pagos altos. No incorpora impuestos ni el costo de financiar la distribución. El nivel del dividendo por sí solo no determina una reducción universal.",
+        "La carga efectiva no equivale a agregar directamente una tasa legal. Importan otros componentes del retorno, el diferimiento y los inversores que fijan precios. Esa suma automática no deriva de la teoría.",
+        "La versión de mercados perfectos elimina los impuestos como supuesto. No prueba que carezcan de relevancia cuando existen tratamientos distintos. Su aplicación requiere evaluar si esas imperfecciones afectan realmente el precio y el rendimiento exigido."
+      ]
+    }
+  ]
+}

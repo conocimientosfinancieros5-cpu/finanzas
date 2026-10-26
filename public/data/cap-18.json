@@ -1,0 +1,1146 @@
+{
+  "capitulo": 18,
+  "titulo": "?Es relevante la pol?tica de endeudamiento?",
+  "preguntas": [
+    {
+      "id": "c18-q001",
+      "tema": "Estructura de capital",
+      "dificultad": "basica",
+      "pregunta": "?Qu? describe la estructura de capital de una empresa?",
+      "opciones": [
+        "Sus m?quinas e inventarios.",
+        "Su combinaci?n de deuda, capital e instrumentos h?bridos.",
+        "Sus modalidades de cobro.",
+        "Sus gastos de producci?n."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "M?quinas e inventarios son activos de la empresa. Su composici?n pertenece a las decisiones de inversi?n. La estructura de capital describe c?mo se financian esos activos.",
+        "La estructura de capital identifica las fuentes financieras y sus derechos sobre los flujos. Incluye acciones, deuda y posibles instrumentos h?bridos. Esos t?tulos distribuyen los recursos generados por los activos.",
+        "Las modalidades de cobro corresponden a la gesti?n operativa y del capital de trabajo. Pueden modificar las necesidades financieras. No identifican la combinaci?n de t?tulos emitidos.",
+        "Los gastos de producci?n afectan los resultados operativos. No representan derechos de acreedores y accionistas. La estructura de capital se refiere a esos derechos financieros."
+      ]
+    },
+    {
+      "id": "c18-q002",
+      "tema": "Proposici?n 1",
+      "dificultad": "basica",
+      "pregunta": "Bajo MM, con mercados perfectos sin impuestos y activos dados, ?qu? permanece independiente de la mezcla de deuda y capital?",
+      "opciones": [
+        "El valor total de mercado de la empresa.",
+        "El valor total de sus acciones.",
+        "El rendimiento requerido del capital propio.",
+        "El n?mero de acciones en circulaci?n."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los activos generan el flujo total disponible. Dividirlo entre deuda y capital no produce recursos nuevos. Por eso permanece constante el valor agregado de todos los t?tulos.",
+        "El capital propio es el derecho residual despu?s de la deuda. Puede reducirse cuando se emite deuda para retirar acciones o distribuir efectivo. La invariancia corresponde al valor total de la empresa.",
+        "El rendimiento exigido a las acciones refleja su riesgo. Al aumentar la deuda, ese riesgo normalmente aumenta. Por eso rE puede cambiar aunque el valor total no lo haga.",
+        "Una recompra financiada con deuda reduce el n?mero de acciones. Esta modificaci?n es compatible con MM. La proposici?n no exige conservar la cantidad de t?tulos."
+      ]
+    },
+    {
+      "id": "c18-q003",
+      "tema": "Supuestos de irrelevancia",
+      "dificultad": "intermedia",
+      "pregunta": "?Qu? condiciones respaldan el argumento b?sico de MM?",
+      "opciones": [
+        "Cambios simult?neos en todos los proyectos de inversi?n.",
+        "Deuda gratuita y operaciones ciertas.",
+        "Pr?stamos personales necesariamente m?s caros y costosos.",
+        "Mercados perfectos, ausencia de impuestos distorsivos y pol?ticas reales dadas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Cambiar las inversiones altera los flujos que se est?n valorando. Entonces el efecto observado no proviene exclusivamente del financiamiento. La comparaci?n de MM mantiene dadas las decisiones reales pertinentes.",
+        "La deuda puede exigir un rendimiento positivo. Los resultados operativos tambi?n pueden ser inciertos. MM estudia la distribuci?n de ese riesgo, no su inexistencia.",
+        "Las diferencias de acceso al cr?dito pueden impedir la replicaci?n. Son posibles fuentes de relevancia financiera. No constituyen los supuestos de irrelevancia del modelo b?sico.",
+        "La comparaci?n debe conservar los flujos de los activos. Tambi?n debe permitir replicar derechos financieros sin fricciones relevantes. As?, cambiar el reparto de pagos no cambia su valor agregado."
+      ]
+    },
+    {
+      "id": "c18-q004",
+      "tema": "Conservaci?n del valor",
+      "dificultad": "basica",
+      "pregunta": "?Qu? implica la aditividad al dividir un flujo entre t?tulos financieros?",
+      "opciones": [
+        "Emitir m?s certificados multiplica el valor.",
+        "Cada parte vale como el flujo completo.",
+        "Las partes suman el valor del flujo completo si no se pierden recursos ni cambian sus pagos totales.",
+        "La parte segura crea valor sin afectar a las dem?s."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "M?s certificados solo cambian las unidades de participaci?n. No multiplican los recursos generados. El valor depende de los pagos y su riesgo, no del n?mero de documentos.",
+        "Cada parte recibe solo ciertos pagos. Asignarle el valor completo duplicar?a derechos sobre los mismos recursos. Lo que iguala al flujo original es la suma de valores.",
+        "Los t?tulos representan componentes de una misma corriente. Sus valores presentes se suman para reconstruir el valor total. La conclusi?n requiere que la divisi?n no destruya recursos ni cambie los pagos agregados.",
+        "Dar prioridad a un t?tulo modifica el derecho residual de otro. Su mayor seguridad no aparece gratuitamente. El valor debe evaluarse sumando todas las partes."
+      ]
+    },
+    {
+      "id": "c18-q005",
+      "tema": "Ley de un solo precio",
+      "dificultad": "intermedia",
+      "pregunta": "Dos carteras entregan pagos id?nticos en cada estado y fecha. ?Qu? exige un mercado perfecto?",
+      "opciones": [
+        "Mayor precio para la que tiene m?s acciones.",
+        "Igual precio.",
+        "Igual precio ?nicamente si no hay incertidumbre.",
+        "Precios distintos seg?n el nombre del emisor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cantidad de acciones no determina los pagos agregados. Carteras con distinto n?mero de t?tulos pueden ser equivalentes. Sus derechos econ?micos, y no su cantidad, justifican el precio.",
+        "Los compradores pueden sustituir una cartera por la otra. Una diferencia de precios permite comprar la barata y vender la cara. El arbitraje presiona hasta igualar sus precios.",
+        "La replicaci?n tambi?n funciona con pagos riesgosos. La condici?n es que coincidan estado por estado. No se requiere que cada flujo sea cierto.",
+        "El nombre no cambia los pagos que el caso declara id?nticos. Una prima sin diferencia econ?mica puede arbitrarse. Si existieran diferencias de cr?dito, ya no ser?an carteras equivalentes."
+      ]
+    },
+    {
+      "id": "c18-q006",
+      "tema": "Apalancamiento personal",
+      "dificultad": "basica",
+      "pregunta": "?C?mo se replica capital apalancado usando acciones de una empresa equivalente sin deuda?",
+      "opciones": [
+        "Comprando la participaci?n correspondiente y tomando deuda personal proporcional.",
+        "Comprando acciones y prestando dinero adicional.",
+        "Comprando solo bonos del gobierno.",
+        "Manteniendo igual n?mero de certificados en cualquier empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las acciones sin deuda proporcionan una parte del flujo operativo. El pr?stamo personal sustrae el pago correspondiente a los acreedores. Con t?rminos equivalentes, queda el mismo flujo residual que en el capital apalancado.",
+        "Prestar a?ade un ingreso fijo y reduce la exposici?n relativa al negocio. Para replicar apalancamiento hace falta una obligaci?n financiera. La operaci?n propuesta va en sentido contrario.",
+        "Los bonos seguros no participan del resultado residual del negocio. Por eso no reproducen los pagos de las acciones. Hace falta exposici?n operativa combinada con endeudamiento.",
+        "El n?mero de t?tulos no garantiza igual proporci?n de activos. Las estructuras pueden tener diferentes acciones en circulaci?n. La r?plica debe igualar flujos y obligaciones."
+      ]
+    },
+    {
+      "id": "c18-q007",
+      "tema": "Deshacer apalancamiento",
+      "dificultad": "intermedia",
+      "pregunta": "?C?mo se replica una participaci?n en activos sin deuda usando una empresa apalancada equivalente?",
+      "opciones": [
+        "Comprando solo su deuda.",
+        "Comprando solo su capital por igual importe.",
+        "Tomando deuda personal adicional.",
+        "Comprando igual fracci?n de su deuda y de su capital."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deuda recibe pagos prioritarios pero no todo el excedente. Falta el componente residual del capital. La r?plica requiere ambas clases de derechos.",
+        "El capital apalancado recibe el flujo despu?s de atender la deuda. Igualar importes no recupera los pagos que reciben los acreedores. Hay que incorporar tambi?n sus t?tulos.",
+        "La deuda personal aumenta la exposici?n financiera. No reconstruye por s? misma los pagos de los activos sin deuda. Para deshacer apalancamiento deben agregarse derechos de cobro, no nuevas obligaciones.",
+        "Los intereses cobrados se suman al flujo recibido como accionista. Esa suma reconstruye la misma fracci?n del flujo operativo. Tener todos los derechos en proporci?n elimina el efecto del reparto financiero."
+      ]
+    },
+    {
+      "id": "c18-q008",
+      "tema": "Separaci?n inversi?n-financiamiento",
+      "dificultad": "basica",
+      "pregunta": "?Qu? permite la proposici?n 1 al evaluar inversiones?",
+      "opciones": [
+        "Descontar siempre al costo de deuda.",
+        "Aprobar proyectos sin estimar flujos.",
+        "Analizar sus flujos y riesgo separadamente de la mezcla de financiamiento.",
+        "Suponer que todo proyecto tiene VPN positivo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El costo de deuda remunera un derecho m?s seguro. Puede no representar el riesgo de la inversi?n. Debe usarse el costo de oportunidad apropiado para sus activos.",
+        "La separaci?n no elimina el an?lisis econ?mico. Siguen haciendo falta desembolsos, cobros y riesgo. Solo evita atribuir valor al mero reparto financiero de esos flujos.",
+        "Las decisiones de inversi?n determinan los flujos reales. Las decisiones financieras reparten esos flujos entre t?tulos. Si ese reparto es irrelevante, no modifica el valor de las inversiones dadas.",
+        "MM no garantiza buenos proyectos. Una inversi?n puede generar menos valor que su costo. El VPN debe calcularse con sus propios flujos y riesgo."
+      ]
+    },
+    {
+      "id": "c18-q009",
+      "tema": "Alcance entre instrumentos",
+      "dificultad": "intermedia",
+      "pregunta": "Sin fricciones ni cambios reales, ?qu? efecto tiene sustituir acciones comunes por preferentes o deuda subordinada por prioritaria?",
+      "opciones": [
+        "Aumenta el valor porque todos cobran antes.",
+        "Redistribuye derechos sin aumentar por s? solo el valor agregado.",
+        "Elimina el riesgo operativo.",
+        "Impide aplicar aditividad por usar instrumentos distintos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La prioridad es relativa entre t?tulos. Mejorar la de uno modifica la posici?n de otro. No todos pueden cobrar antes que todos los dem?s.",
+        "La conservaci?n del valor abarca distintas formas de fraccionar pagos. Cambian prioridad, exposici?n y derechos de cada t?tulo. Si los flujos agregados son iguales, no aparece valor adicional.",
+        "El riesgo operativo depende de los activos. Cambiar los derechos financieros solo distribuye sus consecuencias. No vuelve ciertos los resultados del negocio.",
+        "La aditividad no se limita a una combinaci?n particular. Puede aplicarse a garant?as, vencimientos y derechos diversos. Debe comprobarse que no cambie el conjunto de pagos ni aparezcan fricciones."
+      ]
+    },
+    {
+      "id": "c18-q010",
+      "tema": "Responsabilidad limitada",
+      "dificultad": "basica",
+      "pregunta": "?Qu? significa responsabilidad limitada para quien posee acciones, sin garant?as personales adicionales?",
+      "opciones": [
+        "Puede perder su inversi?n sin quedar obligado a cubrir personalmente todo faltante social.",
+        "Debe pagar toda deuda con su patrimonio personal.",
+        "Los acreedores cobran siempre ?ntegramente.",
+        "La empresa no puede incumplir."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las acciones son un derecho residual. Si los activos resultan insuficientes, ese derecho puede valer cero. La mera tenencia accionaria no obliga a aportar patrimonio personal adicional.",
+        "Eso describir?a responsabilidad personal ilimitada. La deuda es de la sociedad salvo compromisos adicionales. No debe confundirse una obligaci?n corporativa con una garant?a personal.",
+        "La protecci?n del accionista no garantiza al acreedor. La insuficiencia de activos puede producir p?rdidas en la deuda. Por eso esta puede ser riesgosa.",
+        "La sociedad puede incumplir aunque sus due?os tengan responsabilidad limitada. La limitaci?n determina qui?n cubre el faltante. No garantiza que existan activos suficientes."
+      ]
+    },
+    {
+      "id": "c18-q011",
+      "tema": "Deuda riesgosa",
+      "dificultad": "avanzada",
+      "pregunta": "?La deuda riesgosa refuta por s? sola la proposici?n 1?",
+      "opciones": [
+        "No; porque los acreedores nunca soportan riesgo.",
+        "S?; toda deuda debe ser gubernamental.",
+        "S?; una prima de riesgo siempre crea riqueza.",
+        "No; la irrelevancia puede mantenerse si se preservan los pagos totales y las condiciones de replicaci?n."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los acreedores riesgosos s? pueden sufrir p?rdidas. Al hacerlo absorben parte del riesgo de los activos. La posible irrelevancia no depende de negar esa exposici?n.",
+        "La deuda segura simplifica la demostraci?n inicial. No define todo el alcance de la teor?a. Los pagos riesgosos pueden incorporarse si se tratan correctamente sus derechos y contingencias.",
+        "La prima de riesgo compensa exposici?n a resultados adversos. No equivale a una ganancia gratuita por emitir t?tulos. Deben sumarse los valores de todos los derechos.",
+        "El incumplimiento redistribuye pagos entre acreedores y accionistas. Esa redistribuci?n no implica necesariamente p?rdida de recursos del conjunto. Hay que analizar replicabilidad, costos y efectos reales antes de rechazar MM."
+      ]
+    },
+    {
+      "id": "c18-q012",
+      "tema": "Riesgo operativo y financiero",
+      "dificultad": "basica",
+      "pregunta": "?C?mo se relacionan ambos riesgos?",
+      "opciones": [
+        "El operativo depende solo del n?mero de acciones.",
+        "El financiero existe solo con quiebra casi segura.",
+        "La deuda puede amplificar en el capital el riesgo originado en los activos.",
+        "La tasa fija elimina ambos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cambiar el n?mero de acciones cambia unidades de propiedad. No altera por s? mismo los flujos del negocio. El riesgo operativo procede de los activos.",
+        "Incluso una deuda segura puede aumentar la volatilidad del capital. Los accionistas reciben el resultado despu?s de pagos fijos. No se necesita una probabilidad alta de quiebra.",
+        "El riesgo operativo surge de los resultados inciertos del negocio. Las obligaciones financieras dejan un residual sobre una base menor de capital. Esa concentraci?n amplifica la rentabilidad porcentual de los accionistas.",
+        "La tasa fija estabiliza un pago contractual. Los resultados operativos siguen variando. El pago fijo puede justamente amplificar el riesgo del residual."
+      ]
+    },
+    {
+      "id": "c18-q013",
+      "tema": "Proposici?n 2",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos y usando valores de mercado, ?qu? f?rmula corresponde?",
+      "opciones": [
+        "rE = rA + (rA ? rD) ? D/V.",
+        "rE = rA + (rA ? rD) ? D/E.",
+        "rE = rD ? (rA ? rD) ? D/E.",
+        "rE = rA para cualquier deuda."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "D/V es el peso de deuda en el promedio global. Al despejar rE, el denominador pertinente es E. Sustituir D/E por D/V subestima la amplificaci?n.",
+        "Se despeja rE del promedio ponderado de los rendimientos de todos los t?tulos. El diferencial entre activos y deuda se multiplica por deuda sobre capital. Esa prima remunera la exposici?n financiera del residual.",
+        "La f?rmula debe partir del rendimiento de los activos. Con deuda m?s segura, el capital exige una prima positiva. Restar el diferencial invierte ese efecto.",
+        "La igualdad corresponde a una empresa sin deuda. Con deuda menos riesgosa que los activos, el capital soporta mayor exposici?n. Su rendimiento requerido es entonces mayor."
+      ]
+    },
+    {
+      "id": "c18-q014",
+      "tema": "WACC sin impuestos",
+      "dificultad": "basica",
+      "pregunta": "?C?mo se obtiene el costo global de capital sin impuestos?",
+      "opciones": [
+        "rD ? D/V + rE ? E/V con valores de mercado.",
+        "El promedio simple de rD y rE en todos los casos.",
+        "rD ? E/V + rE ? D/V.",
+        "La menor tasa de los t?tulos emitidos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Tener todos los t?tulos permite cobrar todos los flujos de los activos. Su rendimiento es el de una cartera ponderada por lo invertido. Por eso cada tasa se multiplica por su participaci?n de mercado.",
+        "El promedio simple solo funciona con pesos iguales. Si las participaciones difieren, no describe la cartera total. Deben emplearse los valores relativos de deuda y capital.",
+        "Esta f?rmula intercambia los pesos. La tasa de deuda debe ponderarse por deuda y la de capital por capital. Cada retorno corresponde a una inversi?n espec?fica.",
+        "La tasa m?nima ignora los derechos m?s riesgosos. El conjunto incluye tanto deuda como capital. Su rendimiento requiere considerar ambos y sus proporciones."
+      ]
+    },
+    {
+      "id": "c18-q015",
+      "tema": "Perpetuidad y m?ltiplo",
+      "dificultad": "intermedia",
+      "pregunta": "Con utilidad esperada constante, distribuida ?ntegramente a perpetuidad, ?qu? relaci?n es correcta?",
+      "opciones": [
+        "M?s UPA garantiza siempre mayor precio.",
+        "P/UPA = rE.",
+        "P = UPA ? rE.",
+        "P = UPA/rE y P/UPA = 1/rE."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Tambi?n puede aumentar la tasa requerida. El apalancamiento eleva UPA esperada y riesgo simult?neamente. Ambos efectos pueden compensarse y dejar el precio constante.",
+        "El m?ltiplo y la tasa son inversos en este caso. Una tasa alta reduce el precio por unidad de utilidad. Igualarlos invierte la relaci?n de valoraci?n.",
+        "Una perpetuidad se valora dividiendo por la tasa. Multiplicar no suma el valor presente de sus pagos futuros. Adem?s producir?a una relaci?n equivocada entre riesgo y precio.",
+        "El precio capitaliza una perpetuidad de dividendos. Como se distribuye toda la utilidad, el dividendo coincide con la UPA. Dividir por rE da el precio y el m?ltiplo resulta el inverso de la tasa."
+      ]
+    },
+    {
+      "id": "c18-q016",
+      "tema": "Beta de activos",
+      "dificultad": "intermedia",
+      "pregunta": "?Qu? representa betaA?",
+      "opciones": [
+        "Una medida que excluye cualquier riesgo de deuda.",
+        "Siempre el doble de betaE.",
+        "La beta de una cartera con toda la deuda y todo el capital.",
+        "La probabilidad de default."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La deuda riesgosa puede tener beta positiva. Su exposici?n integra el riesgo de los activos. Solo si betaD es cero desaparece ese t?rmino del promedio.",
+        "No existe un multiplicador universal. La relaci?n depende del apalancamiento y del riesgo de deuda. Debe emplearse la identidad de betas ponderadas.",
+        "Todos los t?tulos juntos reciben el flujo total de activos. Su beta mide el riesgo sistem?tico de ese conjunto. Se obtiene ponderando las betas de deuda y capital por valores de mercado.",
+        "Beta mide sensibilidad sistem?tica al mercado. No es una probabilidad. El riesgo de incumplimiento y el riesgo sistem?tico son conceptos distintos."
+      ]
+    },
+    {
+      "id": "c18-q017",
+      "tema": "Pendiente con deuda riesgosa",
+      "dificultad": "avanzada",
+      "pregunta": "En la representaci?n habitual de MM, ?por qu? se modera el crecimiento de rE cuando la deuda se vuelve riesgosa?",
+      "opciones": [
+        "Desaparece el riesgo operativo.",
+        "Los acreedores absorben parte creciente del riesgo de los activos.",
+        "El WACC necesariamente llega a cero.",
+        "La responsabilidad accionaria se vuelve ilimitada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los activos siguen siendo inciertos. Cambia qui?n soporta sus resultados adversos. La pendiente del rendimiento del capital no indica desaparici?n del riesgo del negocio.",
+        "Con deuda segura, los cambios operativos recaen en el residual. Al volverse riesgosa la deuda, tambi?n sus pagos absorben estados adversos. Ese reparto modera el incremento adicional de exposici?n del capital en la representaci?n habitual.",
+        "El costo global contin?a reflejando el riesgo operativo. Los acreedores tambi?n exigen compensaci?n por su exposici?n. MM no predice financiamiento gratuito al aumentar la deuda.",
+        "La responsabilidad limitada sigue formando parte de los derechos accionarios. No cambia autom?ticamente por endeudarse. La explicaci?n es el reparto del riesgo con los acreedores."
+      ]
+    },
+    {
+      "id": "c18-q018",
+      "tema": "Valor y m?nimo WACC",
+      "dificultad": "intermedia",
+      "pregunta": "?Qu? condici?n permite identificar maximizar valor con minimizar WACC en una perpetuidad?",
+      "opciones": [
+        "Mantener fijo el flujo operativo esperado relevante.",
+        "Ignorar cualquier ca?da de ingresos.",
+        "Aceptar que los flujos cambien arbitrariamente.",
+        "Igualar valores contables y de mercado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor se obtiene dividiendo el flujo por su tasa apropiada. Una menor tasa aumenta el valor si el flujo permanece fijo. Si cambia el numerador, deben evaluarse ambos efectos.",
+        "La ca?da de ingresos puede superar el beneficio de una tasa menor. Ignorarla puede llevar a una pol?tica destructiva. La riqueza depende de flujos y tasas conjuntamente.",
+        "Una tasa aislada no permite ordenar flujos diferentes. Una pol?tica puede reducir WACC y tambi?n reducir mucho el resultado operativo. En tal caso el valor podr?a bajar.",
+        "La equivalencia depende del valor presente de flujos. No requiere igualar cifras contables con precios. El supuesto pertinente es mantener fijo el flujo valorado."
+      ]
+    },
+    {
+      "id": "c18-q019",
+      "tema": "Postura tradicional",
+      "dificultad": "basica",
+      "pregunta": "?Qu? trayectoria de WACC suele postular la visi?n tradicional?",
+      "opciones": [
+        "Siempre decreciente sin l?mite.",
+        "Siempre horizontal por definici?n.",
+        "Siempre igual a D/E.",
+        "Baja inicialmente y luego sube, con m?nimo intermedio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La visi?n tradicional reconoce costos crecientes con deuda excesiva. Por eso su curva termina subiendo. No recomienda aumentar deuda indefinidamente.",
+        "La horizontalidad corresponde a MM sin fricciones. La postura tradicional plantea una compensaci?n inicialmente insuficiente en rE. Por eso encuentra una estructura ?ptima intermedia.",
+        "D/E es una raz?n de cantidades de mercado. WACC es una tasa ponderada de rendimientos. No tienen por qu? ser num?ricamente iguales ni seguir la misma trayectoria.",
+        "La visi?n tradicional supone que inicialmente rE sube menos de lo previsto por MM. La deuda reduce entonces el promedio. Con apalancamiento excesivo, las tasas aumentan y el WACC vuelve a subir."
+      ]
+    },
+    {
+      "id": "c18-q020",
+      "tema": "Clientelas insatisfechas",
+      "dificultad": "intermedia",
+      "pregunta": "?Qu? hace falta para que una clientela permita cobrar una prima financiera?",
+      "opciones": [
+        "Que los inversionistas desconozcan todo riesgo.",
+        "Una preferencia ya cubierta por abundantes instrumentos equivalentes.",
+        "Una necesidad a?n no atendida o una ventaja de costo frente a los sustitutos.",
+        "Que todos prefieran acciones sin deuda."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La clientela puede conocer perfectamente los riesgos. La oportunidad puede venir de regulaci?n o costos. No requiere errores de los compradores.",
+        "Los compradores pueden acudir a los sustitutos existentes. No necesitan pagar m?s al nuevo emisor. La demanda debe estar insatisfecha o atenderse con una ventaja real.",
+        "Una preferencia no basta para generar una renta. El emisor debe ofrecer un servicio escaso o m?s barato. La competencia de alternativas limita la prima que puede cobrar.",
+        "Las necesidades financieras pueden ser muy diversas. No existe una preferencia universal necesaria. Lo relevante es qu? servicio falta o cuesta demasiado."
+      ]
+    },
+    {
+      "id": "c18-q021",
+      "tema": "Escala en pr?stamos",
+      "dificultad": "intermedia",
+      "pregunta": "?C?mo pueden los costos de administrar cr?ditos peque?os favorecer el endeudamiento corporativo?",
+      "opciones": [
+        "Agruparlos elimina el riesgo de mercado.",
+        "Agrupar pr?stamos puede reducir el costo por unidad financiada.",
+        "Hace gratuito cualquier cr?dito.",
+        "Prueba que toda tasa personal supera a toda tasa corporativa."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La econom?a administrativa no vuelve ciertos los flujos. El riesgo de los activos permanece. Deben distinguirse reducci?n de costos y reducci?n de riesgo.",
+        "Evaluar y administrar una operaci?n genera costos. Distribuirlos sobre un monto mayor puede reducir su incidencia unitaria. Esa ventaja puede crear un servicio ?til si no est? ya disponible competitivamente.",
+        "Una ventaja de escala no elimina el costo temporal del dinero. Tampoco borra las p?rdidas esperadas o el riesgo. Solo puede reducir una parte de los costos.",
+        "Las tasas dependen de garant?as, riesgos y contratos. No existe una comparaci?n universal entre todos los prestatarios. La ventaja debe verificarse para la clientela concreta."
+      ]
+    },
+    {
+      "id": "c18-q022",
+      "tema": "Competencia e innovaci?n",
+      "dificultad": "basica",
+      "pregunta": "?Por qu? una innovaci?n financiera puede dejar de dar rentas extraordinarias?",
+      "opciones": [
+        "Otros emisores la copian y satisfacen la demanda.",
+        "Sus pagos pierden todo valor autom?ticamente.",
+        "Todo t?tulo debe convertirse en acci?n com?n.",
+        "Desaparece la incertidumbre de los activos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Muchos dise?os financieros se imitan con facilidad. La entrada de competidores ampl?a la oferta y reduce la prima inicial. Parte del beneficio pasa a los inversionistas.",
+        "El t?tulo puede seguir siendo ?til y valioso. Lo que desaparece es la renta por una oferta escasa. No deben confundirse valor del servicio y sobreprecio extraordinario.",
+        "La competencia permite instrumentos diversos. Su efecto es presionar costos y precios. No exige uniformar todos los derechos financieros.",
+        "La innovaci?n redistribuye pagos de activos inciertos. No elimina necesariamente esa incertidumbre. La p?rdida de rentas surge de la competencia."
+      ]
+    },
+    {
+      "id": "c18-q023",
+      "tema": "WACC fiscal",
+      "dificultad": "basica",
+      "pregunta": "Con intereses deducibles y deducci?n utilizable, ?cu?l es la f?rmula de WACC despu?s de impuestos?",
+      "opciones": [
+        "rD ? (1 + Tc) ? D/V + rE ? E/V.",
+        "rD ? D/V + rE ? (1 ? Tc) ? E/V.",
+        "(rD ? D/V + rE ? E/V) ? (1 ? Tc).",
+        "rD ? (1 ? Tc) ? D/V + rE ? E/V."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una deducci?n reduce el costo neto. Multiplicar por uno m?s la tasa lo aumenta. El factor correcto es uno menos Tc. El ahorro de impuestos compensa parte del inter?s pagado y no constituye un recargo sobre ?l.",
+        "Esta opci?n ajusta la fuente equivocada. Son deducibles los intereses corporativos considerados. Debe reducirse el t?rmino de deuda, no el de capital.",
+        "Ajustar todo el promedio supone deducible tambi?n la remuneraci?n accionaria. Ese tratamiento no corresponde al caso. Solo el componente de intereses recibe el factor fiscal.",
+        "La deducci?n reduce el costo neto de los intereses. El ajuste corresponde al componente de deuda. La remuneraci?n del capital propio no recibe esa deducci?n en esta f?rmula."
+      ]
+    },
+    {
+      "id": "c18-q024",
+      "tema": "Eficiencia de mercados",
+      "dificultad": "avanzada",
+      "pregunta": "?Qu? consecuencia tiene satisfacer competitivamente las necesidades financieras a costo m?nimo?",
+      "opciones": [
+        "El riesgo operativo deja de importar.",
+        "Se vuelven rentables todos los proyectos.",
+        "El capital puede dirigirse a proyectos con VPN positivo sin depender de una mezcla particular de t?tulos.",
+        "Los t?tulos copiables conservan primas permanentes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El riesgo operativo contin?a definiendo retornos requeridos. Lo irrelevante es el reparto de un flujo dado bajo los supuestos de MM. No desaparece la compensaci?n por riesgo.",
+        "La eficiencia financiera no corrige malos activos. Un proyecto puede consumir m?s valor del que genera. Su VPN sigue siendo determinante.",
+        "La competencia reduce rentas por empaquetar t?tulos. El costo de oportunidad sigue reflejando el riesgo de negocio. La asignaci?n de capital puede concentrarse en oportunidades reales de inversi?n.",
+        "La copia ampl?a la oferta y erosiona las primas. Conservarlas requerir?a una ventaja dif?cil de reproducir. No es el resultado esperado de competencia abierta."
+      ]
+    },
+    {
+      "id": "c18-q025",
+      "tema": "Dividendo financiado con deuda",
+      "dificultad": "basica",
+      "pregunta": "Una empresa vale $120 millones: deuda $30 millones y capital $90 millones. Emite $20 millones de deuda y los distribuye inmediatamente. Bajo MM, sin costos ni cambios en el valor de deuda antigua, ?cu?nto valen el capital remanente y la riqueza total de los accionistas originales?",
+      "opciones": [
+        "$90 millones y $110 millones.",
+        "$70 millones y $90 millones.",
+        "$70 millones y $70 millones.",
+        "$110 millones y $130 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se mantiene incorrectamente el capital inicial despu?s de distribuir fondos. La nueva deuda reduce el residual en 20 millones. El dividendo sustituye valor de acciones, no agrega riqueza gratuitamente.",
+        "La deuda final es 30 + 20 = 50 millones. El capital queda en 120 ? 50 = 70 millones. Sumando los 20 cobrados, la riqueza accionaria permanece en 90 millones.",
+        "El capital remanente est? bien calculado. Pero la riqueza debe incluir el dividendo ya cobrado. Excluirlo omite 20 millones que siguen perteneciendo a los accionistas.",
+        "La operaci?n no aumenta los activos despu?s de distribuir el efectivo. El valor total sigue siendo 120 millones. Debe restarse la deuda final y agregar el dividendo al medir riqueza."
+      ]
+    },
+    {
+      "id": "c18-q026",
+      "tema": "Cambio de valor y riqueza",
+      "dificultad": "intermedia",
+      "pregunta": "Inicialmente V = $200 millones y D = $40 millones. Una emisi?n de deuda por $30 millones financia un dividendo especial; por una ventaja financiera real, V despu?s del pago resulta $212 millones y D final $70 millones. ?Cu?nto ganan los accionistas originales?",
+      "opciones": [
+        "$12 millones.",
+        "$30 millones.",
+        "$42 millones.",
+        "Pierden $18 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El capital inicial es 200 ? 40 = 160 millones. El final es 212 ? 70 = 142 millones, m?s 30 en efectivo. La riqueza final de 172 supera en 12 millones a la inicial.",
+        "El dividendo no es ?ntegramente ganancia. Parte se compensa con menor capital remanente. Deben compararse 142 + 30 con los 160 iniciales.",
+        "Sumar todo el dividendo al aumento de V duplica una transferencia interna. La emisi?n tambi?n aumenta obligaciones. La ganancia neta surge de comparar riqueza final e inicial y es 12.",
+        "La ca?da del capital es de 18 millones. Sin embargo, tambi?n se reciben 30 millones en efectivo. Incluir ambos componentes produce una ganancia de 12 millones."
+      ]
+    },
+    {
+      "id": "c18-q027",
+      "tema": "Recompra y acciones remanentes",
+      "dificultad": "basica",
+      "pregunta": "Una empresa sin deuda tiene 2 millones de acciones a $40. Emite $24 millones de deuda y recompra acciones a ese precio. Bajo MM, ?cu?ntas acciones quedan y cu?nto vale el capital?",
+      "opciones": [
+        "1,4 millones y $80 millones.",
+        "0,6 millones y $24 millones.",
+        "2 millones y $56 millones.",
+        "1,4 millones y $56 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 80 millones son el valor total. Incluyen deuda de 24 millones despu?s de la operaci?n. El capital residual es de 56 millones.",
+        "Los 0,6 millones son las acciones retiradas. Los 24 millones son el monto de deuda y recompra. Deben calcularse las acciones y el capital que permanecen.",
+        "La recompra retira efectivamente acciones. No puede mantenerse la cantidad inicial. Quedan 2 ? 0,6 = 1,4 millones. El valor residual de 56 millones tambi?n se verifica multiplicando 1,4 millones de acciones por su precio de 40.",
+        "El valor inicial es 2 millones ? 40 = 80 millones. Se recompran 24/40 = 0,6 millones de acciones y quedan 1,4 millones. El capital vale 80 ? 24 = 56 millones."
+      ]
+    },
+    {
+      "id": "c18-q028",
+      "tema": "Arbitraje entre estructuras",
+      "dificultad": "avanzada",
+      "pregunta": "U y L tienen id?nticos pagos operativos. U no tiene deuda y vale $1.000; L tiene deuda segura de $400 y capital de $700. Se permiten ventas en corto y replicaci?n sin fricciones. ?Qu? operaci?n sobre 10% de ambas genera ingreso hoy y pagos netos futuros nulos?",
+      "opciones": [
+        "Comprar solo $70 de capital de L y vender $100 de U; cobrar $30 sin pagos futuros.",
+        "Comprar 10% de deuda y capital de L y vender 10% de U; cobrar $10 netos.",
+        "Comprar 10% de U y vender 10% de deuda y capital de L; cobrar $10 netos.",
+        "Comprar 10% de cada empresa; cobrar $210 netos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El capital de L cobra despu?s de intereses. U entrega el flujo operativo completo. Sin incorporar la deuda, sus pagos no se cancelan.",
+        "Comprar el paquete caro y vender el barato requiere aportar 10. No genera un ingreso de arbitraje. Hay que invertir la direcci?n de ambas operaciones.",
+        "El paquete de L vale 10% ? 1.100 = 110. El 10% de U cuesta 100 y entrega el mismo flujo total futuro. Vender el primero y comprar el segundo deja 10 hoy sin exposici?n futura neta.",
+        "Comprar ambas participaciones exige pagar 210. No hay ninguna venta que genere fondos compensatorios. La posici?n tampoco cancela pagos futuros."
+      ]
+    },
+    {
+      "id": "c18-q029",
+      "tema": "Apalancamiento personal num?rico",
+      "dificultad": "intermedia",
+      "pregunta": "Dos empresas equivalentes tienen activos valuados en $600. Una no tiene deuda y la otra tiene D = $240 al 5%. ?C?mo replicar 5% del capital de la segunda y cu?nto aportar?",
+      "opciones": [
+        "Comprar $18 de la primera sin cr?dito; aportar $18.",
+        "Comprar $30 de la primera y tomar prestados $12; aportar $18.",
+        "Comprar $30 de la primera y prestar $12; aportar $42.",
+        "Comprar $12 de la primera y tomar prestados $30; recibir $18."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Invertir 18 sin deuda compra solo 3% de los activos. No genera 5% del flujo menos el inter?s correspondiente. La igualdad del aporte inicial no garantiza equivalencia de pagos.",
+        "El 5% de los activos vale 30. La deuda personal proporcional es 5% ? 240 = 12 y paga inter?s de 0,60. El aporte es 30 ? 12 = 18, igual al 5% del capital de 360.",
+        "Prestar agrega cobros en vez de obligaciones. Por eso reduce el apalancamiento y exige aportar 42. La r?plica requiere tomar deuda por 12.",
+        "Los montos no guardan la proporci?n buscada. Se compra solo 2% de activos y se toma demasiada deuda. Ni el flujo operativo ni los intereses coinciden con el objetivo."
+      ]
+    },
+    {
+      "id": "c18-q030",
+      "tema": "UPA tras recompra",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene 1.000 acciones a $20 y utilidad operativa anual de $3.000. Emite $8.000 de deuda al 5% y recompra acciones a $20. Sin impuestos, ?cu?l es la UPA posterior?",
+      "opciones": [
+        "$4,33 aproximadamente.",
+        "$3,00.",
+        "$5,00.",
+        "$2,60."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La recompra retira 8.000/20 = 400 acciones y quedan 600. El inter?s es 400, por lo que la utilidad residual es 2.600. Dividir 2.600 por 600 da aproximadamente 4,33 por acci?n.",
+        "Los 3 son la UPA previa. Cambian tanto el n?mero de acciones como el flujo disponible. Debe restarse el inter?s y usar las 600 acciones restantes.",
+        "Dividir 3.000 por 600 omite los intereses. Los acreedores reciben 400 antes del residual. El numerador correcto es 2.600.",
+        "Dividir 2.600 por 1.000 usa las acciones iniciales. La recompra elimin? 400 de ellas. El denominador correcto es 600. Al usar la cantidad anterior se diluye artificialmente la utilidad entre accionistas que ya salieron de la empresa."
+      ]
+    },
+    {
+      "id": "c18-q031",
+      "tema": "Indiferencia de UPA",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa vale $40.000 y tiene 2.000 acciones a $20. Emite deuda de $10.000 al 8% para recomprar 500 acciones. ?Qu? utilidad operativa iguala UPA antes y despu?s, sin impuestos?",
+      "opciones": [
+        "$2.400.",
+        "$800.",
+        "$4.000.",
+        "$3.200."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Con 2.400, la UPA original es 1,20. La apalancada ser?a 1.600/1.500, aproximadamente 1,07. A?n no se alcanza la igualdad.",
+        "Los 800 son el inter?s anual. En ese nivel la UPA apalancada ser?a cero y la inicial positiva. Hace falta compensar tambi?n la reducci?n de acciones.",
+        "Con 4.000, el retorno operativo supera el costo de deuda. La UPA apalancada ya es mayor que la inicial. La igualdad se produce antes, en 3.200.",
+        "Con utilidad X debe cumplirse X/2.000 = (X ? 800)/1.500. Despejar da 500X = 1.600.000. Por tanto X = 3.200, equivalente a 8% de los activos."
+      ]
+    },
+    {
+      "id": "c18-q032",
+      "tema": "Amplificaci?n porcentual",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa vale $100.000. Se compara todo capital con deuda segura de $40.000 a inter?s fijo y capital de $60.000. Si la utilidad operativa cae $6.000 sin default ni impuestos, ?cu?nto cae la rentabilidad del capital en cada caso?",
+      "opciones": [
+        "10 y 6 puntos porcentuales.",
+        "6 y 6 puntos porcentuales.",
+        "6 y 10 puntos porcentuales.",
+        "6 y 15 puntos porcentuales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El orden est? invertido. La base mayor sin deuda implica menor variaci?n porcentual. El capital apalancado sufre la ca?da de 10 puntos.",
+        "La p?rdida en dinero coincide, pero cambia la base de capital. El residual menor amplifica la variaci?n porcentual. No corresponde conservar la misma ca?da de rentabilidad.",
+        "Sin deuda, 6.000/100.000 equivale a 6 puntos. Con deuda segura, la misma p?rdida monetaria recae sobre 60.000 de capital. El cambio es 6.000/60.000 = 10 puntos porcentuales.",
+        "Los 15 puntos usan la deuda de 40.000 como denominador. Se pregunta por el rendimiento del capital propio. Su base es 60.000."
+      ]
+    },
+    {
+      "id": "c18-q033",
+      "tema": "WACC num?rico",
+      "dificultad": "basica",
+      "pregunta": "La deuda vale $40 millones y exige 6%; el capital vale $60 millones y exige 16%. Sin impuestos, ?cu?l es rA?",
+      "opciones": [
+        "11%.",
+        "12%.",
+        "22%.",
+        "10%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 11% es el promedio simple. Solo servir?a con pesos iguales. Aqu? el capital representa 60% y recibe mayor ponderaci?n.",
+        "El valor total es 100 millones. El promedio es 0,40 ? 6% + 0,60 ? 16%. Sumar 2,4 y 9,6 puntos da 12%. Esta tasa representa el retorno esperado de quien compra todos los derechos financieros sobre los activos.",
+        "Sumar tasas ignora que cada una remunera solo parte del financiamiento. Las ponderaciones deben sumar uno. El resultado correcto es 12%.",
+        "El 10% surge al intercambiar los pesos. La deuda representa 40% y el capital 60%. Aplicar cada peso a su tasa produce 12%."
+      ]
+    },
+    {
+      "id": "c18-q034",
+      "tema": "Proposici?n 2 aplicada",
+      "dificultad": "intermedia",
+      "pregunta": "Con rA = 12%, rD = 6% y D/E = 0,5, ?cu?l es rE sin impuestos?",
+      "opciones": [
+        "15%.",
+        "18%.",
+        "14%.",
+        "9%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se aplica rE = rA + (rA ? rD) ? D/E. La prima es (12% ? 6%) ? 0,5 = 3 puntos. Al sumarla a 12%, resulta 15%. La prima de tres puntos compensa el mayor riesgo residual que resulta de financiar parte de los activos con deuda.",
+        "El 18% usa D/E igual a uno. El dato es 0,5. Por eso se suma la mitad del diferencial y no todo. Con esos valores, la deuda representa solo un tercio del total y no la mitad que implicar?a D/E igual a uno.",
+        "El 14% usa D/V = 1/3. La proposici?n 2 requiere D/E. Ese reemplazo subestima la concentraci?n de riesgo en el capital. La diferencia entre ambas razones es relevante porque la prima se expresa sobre el capital que queda, no sobre todos los activos.",
+        "El 9% resta la prima financiera. Con rA mayor que rD, esa prima es positiva. El rendimiento del capital debe subir a 15%."
+      ]
+    },
+    {
+      "id": "c18-q035",
+      "tema": "Emisi?n para cancelar deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene D = $40 millones al 6% y E = $60 millones con rE = 16%. Emite $20 millones de acciones y cancela igual deuda. Bajo MM sin impuestos y rD constante, ?cu?l es el nuevo rE?",
+      "opciones": [
+        "18%.",
+        "12%.",
+        "16%.",
+        "13,5%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 18% requiere D/E igual a uno con estas tasas. La operaci?n reduce esa raz?n a 0,25. Por eso rE disminuye en lugar de aumentar.",
+        "El 12% es el costo de activos. Todav?a queda deuda y, por tanto, exposici?n financiera residual. rE solo coincidir?a con rA al eliminarla por completo en este caso.",
+        "Mantener 16% ignora el menor apalancamiento. Al cancelar deuda se reduce la exposici?n de los accionistas. El ajuste debe conservar rA en 12%.",
+        "El costo inicial de activos es 0,4 ? 6% + 0,6 ? 16% = 12%. Despu?s D = 20 y E = 80, por lo que D/E = 0,25. El nuevo rE es 12% + 6% ? 0,25 = 13,5%."
+      ]
+    },
+    {
+      "id": "c18-q036",
+      "tema": "Deuda riesgosa y costo global",
+      "dificultad": "avanzada",
+      "pregunta": "Despu?s de una recompra, V sigue en $100 millones y rA en 12%. D y E valen $50 millones cada uno, y el rendimiento esperado de deuda es 8%. Sin impuestos, ?qu? rE corresponde?",
+      "opciones": [
+        "12%.",
+        "18%.",
+        "16%.",
+        "20%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Con rE de 12%, el promedio dar?a 10%. Eso contradice el rA dado. El capital debe compensar el menor rendimiento relativo de la deuda.",
+        "El 18% ser?a consistente con deuda al 6%. El dato actualizado es 8%. La deuda riesgosa recibe mayor compensaci?n dentro del mismo retorno total.",
+        "La identidad exige 12% = 0,5 ? 8% + 0,5 ? rE. La deuda aporta 4 puntos y el capital debe aportar 8. Dividir 8 por su peso de 0,5 da 16%.",
+        "Sumar 8% a 12% no es la proposici?n 2. Se suma el diferencial entre activos y deuda multiplicado por D/E. Aqu? la prima es de 4 puntos."
+      ]
+    },
+    {
+      "id": "c18-q037",
+      "tema": "UPA y precio-utilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa sin deuda tiene acciones a $30 y UPA esperada constante de $3, ?ntegramente distribuida. Recompra la mitad de las acciones con deuda al 4%. Bajo MM sin impuestos, ?cu?les son la UPA y el m?ltiplo P/UPA posteriores?",
+      "opciones": [
+        "$6 y 5.",
+        "$4,80 y 6,25.",
+        "$3 y 10.",
+        "$4,80 y 10."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 6 omiten el inter?s de 1,20. Reducir a la mitad las acciones no duplica ?ntegramente la utilidad residual. Primero debe atenderse el nuevo cr?dito.",
+        "Cada dos acciones iniciales generan 6 y permiten tomar deuda de 30 para retirar una. Los intereses son 1,20 y quedan 4,80 para la acci?n restante. Su precio permanece en 30 y el m?ltiplo es 30/4,80 = 6,25.",
+        "Son los indicadores anteriores a la recompra. Ahora cambian la UPA y el riesgo financiero. El precio constante no implica un m?ltiplo constante.",
+        "Con precio de 30 y UPA de 4,80, el m?ltiplo no es 10. Mantenerlo implicar?a precio de 48. Se estar?a ignorando el mayor rendimiento requerido por riesgo."
+      ]
+    },
+    {
+      "id": "c18-q038",
+      "tema": "Beta con deuda segura",
+      "dificultad": "basica",
+      "pregunta": "Con betaA = 0,9, betaD = 0 y D/V = 40%, ?cu?l es betaE?",
+      "opciones": [
+        "1,5.",
+        "0,9.",
+        "0,54.",
+        "2,25."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La identidad es betaA = betaD ? D/V + betaE ? E/V. Entonces 0,9 = betaE ? 0,60. Despejar produce betaE = 1,5. La deuda segura no absorbe exposici?n sistem?tica y deja toda la beta de los activos concentrada en el 60% de capital.",
+        "La beta de activos no es la beta de capital apalancado. La deuda segura concentra la exposici?n sistem?tica en los accionistas. Por eso betaE supera 0,9.",
+        "Multiplicar 0,9 por 0,60 hace la operaci?n inversa. La ponderaci?n del capital debe reconstruir betaA. Hay que dividir por 0,60.",
+        "Este valor divide por el peso de deuda de 0,40. El denominador pertinente es el capital residual. Su peso es 0,60. La contribuci?n de esa beta equivocada, ponderada por 60%, exceder?a la beta de activos que debe reconstruirse."
+      ]
+    },
+    {
+      "id": "c18-q039",
+      "tema": "Desapalancar beta riesgosa",
+      "dificultad": "intermedia",
+      "pregunta": "Con D/V = 25%, betaD = 0,2 y betaE = 1,4, ?cu?l es betaA?",
+      "opciones": [
+        "0,50.",
+        "1,05.",
+        "1,60.",
+        "1,10."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 0,50 intercambia los pesos. La mayor parte del valor corresponde al capital, de beta m?s alta. El promedio correcto da 1,10.",
+        "El 1,05 incluye solo el capital ponderado. La deuda tiene beta positiva y aporta 0,05. Omitirla subestima el riesgo sistem?tico total.",
+        "Sumar betas sin ponderarlas no representa la cartera. Cada beta corresponde a una parte del valor. Los pesos correctos son 25% y 75%.",
+        "La beta de activos es un promedio ponderado. Se calcula 0,25 ? 0,2 + 0,75 ? 1,4 = 0,05 + 1,05. El resultado es 1,10. El resultado queda entre las betas individuales, m?s cerca de la accionaria porque el capital constituye tres cuartos del valor."
+      ]
+    },
+    {
+      "id": "c18-q040",
+      "tema": "Reapalancamiento con deuda riesgosa",
+      "dificultad": "avanzada",
+      "pregunta": "BetaA permanece en 0,8. Tras refinanciarse, D/V = 50% y betaD = 0,2. ?Cu?l es betaE?",
+      "opciones": [
+        "0,8.",
+        "1,6.",
+        "1,4.",
+        "1,2."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El riesgo de activos sigue fijo pero se distribuye de otra manera. El capital residual es m?s riesgoso que el conjunto. No corresponde mantener ambas betas iguales.",
+        "El 1,6 supone deuda de beta cero. Aqu? los acreedores absorben parte del riesgo sistem?tico. Debe restarse su aporte ponderado de 0,1.",
+        "Se plantea 0,8 = 0,2 ? 0,5 + betaE ? 0,5. Restar el aporte de deuda deja 0,7. Dividir por 0,5 da betaE = 1,4. La contribuci?n ponderada del capital de 0,7 m?s la de deuda de 0,1 reconstruye exactamente la beta de activos.",
+        "Restar 0,2 directamente ignora el peso de deuda. Primero se multiplica esa beta por 0,5. Solo despu?s se divide el residual por el peso del capital."
+      ]
+    },
+    {
+      "id": "c18-q041",
+      "tema": "CAPM integrado",
+      "dificultad": "avanzada",
+      "pregunta": "La tasa libre de riesgo es 4% y la prima de mercado 5%. La deuda tiene rendimiento esperado de 5%, las acciones beta 1,4 y D/V = 40%. Seg?n CAPM, ?cu?les son betaD, betaA y rA?",
+      "opciones": [
+        "1; 1,24; 10,2%.",
+        "0,2; 0,92; 8,6%.",
+        "0; 0,84; 8,2%.",
+        "0,2; 1,4; 11%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Beta usa el exceso de rendimiento sobre la tasa libre de riesgo. Dividir 5% por 5% omite esa resta. La beta de deuda correcta es 0,2.",
+        "BetaD = (5% ? 4%)/5% = 0,2. BetaA = 0,4 ? 0,2 + 0,6 ? 1,4 = 0,92. CAPM da rA = 4% + 0,92 ? 5% = 8,6%, igual al promedio ponderado de los retornos.",
+        "Bajo CAPM, el exceso de un punto implica beta positiva. No corresponde tratar esa deuda como beta cero. Omitirla reduce indebidamente betaA y rA.",
+        "BetaE corresponde al capital y no al conjunto. La deuda representa 40% del valor con beta menor. El promedio reduce betaA a 0,92."
+      ]
+    },
+    {
+      "id": "c18-q042",
+      "tema": "Escudo anual de intereses",
+      "dificultad": "basica",
+      "pregunta": "Una deuda de $10 millones paga 8% anual. Con Tc = 25% y deducci?n totalmente utilizable, ?cu?les son el ahorro fiscal anual y el costo porcentual neto?",
+      "opciones": [
+        "$200.000 y 6%.",
+        "$800.000 y 8%.",
+        "$2.500.000 y 2%.",
+        "$200.000 y 10%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El inter?s anual es 800.000. La deducci?n ahorra 800.000 ? 25% = 200.000 de impuestos. El costo neto de 600.000 sobre 10 millones equivale a 6%.",
+        "Los 800.000 son el inter?s bruto. El ahorro fiscal es solo 25% de ese importe. Debe descontarse ese ahorro para obtener la tasa neta.",
+        "La deducci?n se calcula sobre intereses y no sobre principal. Multiplicar 10 millones por 25% exagera el beneficio. El ahorro correcto es 200.000.",
+        "El ahorro est? bien calculado, pero debe reducir la tasa. Multiplicar 8% por 1,25 invierte el beneficio. La tasa neta es 8% ? 0,75 = 6%."
+      ]
+    },
+    {
+      "id": "c18-q043",
+      "tema": "WACC despu?s de impuestos num?rico",
+      "dificultad": "intermedia",
+      "pregunta": "Con D/V = 30%, rD = 8%, rE = 14% y Tc = 25%, ?cu?l es WACC despu?s de impuestos si puede aprovecharse toda la deducci?n?",
+      "opciones": [
+        "8,4%.",
+        "12,2%.",
+        "9,15%.",
+        "11,6%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 8,4% intercambia los pesos: 6% ? 70% + 14% ? 30%. La deuda representa 30% y el capital 70%. Con los pesos correctos se obtiene 11,6%.",
+        "El 12,2% es el promedio sin ajuste fiscal. Falta restar 8% ? 25% ? 30% = 0,6 puntos. El WACC neto es 11,6%. El ajuste equivale al ahorro fiscal del inter?s por unidad del valor total, no al impuesto aplicado a todos los retornos.",
+        "El 9,15% ajusta todo el promedio por 0,75. Eso concede deducci?n al capital propio. Solo debe ajustarse la porci?n de intereses.",
+        "La deuda neta cuesta 8% ? 0,75 = 6%. Su contribuci?n es 6% ? 0,30 = 1,8 puntos. El capital aporta 14% ? 0,70 = 9,8 puntos y el total es 11,6%."
+      ]
+    },
+    {
+      "id": "c18-q044",
+      "tema": "Perpetuidad de activos y capital",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos, una empresa distribuye $24 millones anuales constantes a perpetuidad antes de intereses. rA es 12% y la deuda vale $50 millones al 6%. ?Cu?nto vale E y qu? rE implica?",
+      "opciones": [
+        "$350 millones y 6%.",
+        "$200 millones y 12%.",
+        "$150 millones y 14%.",
+        "$150 millones y 16%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Descontar todo al 6% aplica al negocio la tasa de un derecho prioritario. El flujo operativo requiere 12%. Su valor es 200 y el capital residual vale 150.",
+        "Los 200 millones incluyen deuda y capital. No todo el flujo pertenece a accionistas. Hay que restar la deuda y calcular el rendimiento del residual.",
+        "El valor total es 24/0,12 = 200 millones y E = 200 ? 50 = 150. Los intereses son 3 millones y quedan 21 para el capital. Por tanto rE = 21/150 = 14%.",
+        "El 16% surge de dividir 24 por 150. Pero los accionistas no reciben los 24 completos. Tras intereses, los 21 disponibles rinden 14%."
+      ]
+    },
+    {
+      "id": "c18-q045",
+      "tema": "Cup?n flotante y per?odo",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de nominal $100.000 paga cupones semestrales con tasa nominal anual igual a la referencia m?s 2 puntos. La referencia aplicable es 6% nominal anual. Sin amortizaci?n, ?cu?l es el pr?ximo cup?n?",
+      "opciones": [
+        "$8.000.",
+        "$4.000.",
+        "$3.000.",
+        "$2.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 8.000 corresponden al inter?s de un a?o. El cup?n solicitado cubre medio a?o. Con tasa nominal anual y dos pagos se divide por dos.",
+        "La tasa nominal anual del cup?n es 6% + 2% = 8%. El semestre usa la mitad, 4%. Sobre 100.000 el pago es 4.000. Como la tasa se define nominal anual, no corresponde extraer una ra?z para convertirla en una tasa efectiva semestral.",
+        "Los 3.000 usan solo la referencia anual de 6% dividida por dos. Falta sumar el margen contractual. La tasa semestral total es 4%.",
+        "Los 2.000 son el margen anual aplicado al principal. El cup?n tambi?n incorpora la referencia y debe ajustarse al semestre. La cuenta completa da 4.000."
+      ]
+    },
+    {
+      "id": "c18-q046",
+      "tema": "UPA versus riqueza",
+      "dificultad": "intermedia",
+      "pregunta": "Un director propone emitir deuda y recomprar acciones porque aumenta la UPA esperada. Bajo MM sin impuestos, ?qu? evaluaci?n corresponde?",
+      "opciones": [
+        "El aumento no demuestra creaci?n de valor: tambi?n aumenta el riesgo y la tasa requerida del capital.",
+        "Debe aprobarse porque UPA mide completamente la riqueza.",
+        "Debe rechazarse porque la deuda nunca aumenta UPA.",
+        "La deuda emitida crea autom?ticamente activos operativos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La recompra puede elevar la utilidad por acci?n al reducir su cantidad. Tambi?n concentra la incertidumbre en el capital restante. Si aumenta proporcionalmente el rendimiento requerido, el precio no sube.",
+        "La UPA no incorpora por s? sola riesgo ni costo de oportunidad. Un mayor resultado esperado puede compensar mayor exposici?n. Hace falta valorar los pagos con una tasa consistente.",
+        "La deuda s? puede aumentar UPA cuando el rendimiento operativo supera su costo. La irrelevancia del valor no exige invariancia de todos los indicadores. La objeci?n correcta es que m?s UPA no basta para probar mayor riqueza.",
+        "El cr?dito se utiliza para una recompra y salida de efectivo. No compra activos productivos adicionales. Los flujos operativos permanecen dados en el caso."
+      ]
+    },
+    {
+      "id": "c18-q047",
+      "tema": "Transferencia desde deuda antigua",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma emite deuda para distribuir un dividendo. V no cambia, pero baja el precio de bonos antiguos sin protecci?n suficiente porque aumenta su riesgo. ?C?mo pueden ganar los accionistas?",
+      "opciones": [
+        "Porque el valor contable del bono determina la ganancia.",
+        "Solo si aparecen nuevos flujos operativos.",
+        "Porque el dividendo nunca reduce el capital remanente.",
+        "Por una transferencia de valor desde acreedores antiguos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La transferencia se mide con precios de mercado. La cifra contable puede no reflejar el mayor riesgo. Deben valorarse los derechos econ?micos antes y despu?s.",
+        "La transferencia puede darse con activos id?nticos. Cambian las prioridades efectivas y la exposici?n de los derechos existentes. No hace falta mejorar el resultado operativo.",
+        "Un dividendo retira recursos y reduce el residual dentro de la empresa. El beneficio especial procede de trasladar parte del costo a los acreedores antiguos. No de que distribuir dinero sea gratuito.",
+        "Los acreedores antiguos pierden valor de mercado. Si el total no cambia, esa p?rdida puede beneficiar al capital y al efectivo recibido por sus due?os. Hay redistribuci?n de riqueza y no necesariamente creaci?n de valor agregado."
+      ]
+    },
+    {
+      "id": "c18-q048",
+      "tema": "Proyecto versus tasa de deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto con flujos convencionales tiene TIR de 9% y costo de oportunidad de activos comparables de 11%. Un director quiere aprobarlo porque consigue deuda al 6%. Sin impuestos ni ventajas adicionales, ?qu? corresponde?",
+      "opciones": [
+        "Aprobarlo porque financiarlo con deuda elimina su riesgo.",
+        "Aprobarlo porque 9% supera 6%.",
+        "Rechazarlo: la referencia pertinente es 11%.",
+        "Descontarlo al promedio simple de 9% y 6%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La deuda reparte los resultados inciertos entre financiadores. No elimina su origen operativo. El proyecto conserva su costo de oportunidad de 11%.",
+        "La tasa de deuda remunera un derecho prioritario. No representa todo el riesgo del proyecto. Usarla omite la compensaci?n requerida por el residual.",
+        "La tasa de descuento debe representar el riesgo del proyecto. Con flujos convencionales, TIR de 9% inferior a 11% implica VPN negativo. El cr?dito m?s seguro no cambia por s? solo el valor de los activos.",
+        "La TIR es un resultado de los flujos y no una fuente de financiamiento. Promediarla con el inter?s carece de fundamento. Debe utilizarse el costo de oportunidad de inversiones comparables."
+      ]
+    },
+    {
+      "id": "c18-q049",
+      "tema": "Riesgo con deuda segura",
+      "dificultad": "basica",
+      "pregunta": "Una tesorera sostiene que deuda moderada no aumenta el riesgo accionarial porque puede pagarse en todos los escenarios. ?Qu? objeci?n es correcta?",
+      "opciones": [
+        "La deuda segura nunca paga inter?s.",
+        "Los pagos fijos pueden amplificar la rentabilidad porcentual del capital aun sin default.",
+        "Toda deuda duplica el riesgo operativo.",
+        "El riesgo financiero solo aparece despu?s del primer incumplimiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Seguridad no equivale a gratuidad. El dinero tiene un costo temporal aun sin riesgo de default. Un pago cierto positivo igualmente afecta al residual.",
+        "La seguridad de la deuda protege al acreedor. El flujo variable residual queda sobre una base menor de capital. Por eso aumenta su sensibilidad porcentual aunque todos los pagos contractuales sean seguros.",
+        "El riesgo de los activos no cambia bajo MM. Tampoco hay un multiplicador universal de dos. La amplificaci?n depende de la estructura y de los derechos emitidos.",
+        "El riesgo se eval?a antes de materializarse una p?rdida. Puede aumentar la volatilidad sin incumplimiento alguno. No es necesario esperar una quiebra para reconocer exposici?n financiera."
+      ]
+    },
+    {
+      "id": "c18-q050",
+      "tema": "Apalancamiento oculto",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa asume pagos obligatorios de arrendamiento y reduce los fondos destinados a cubrir compromisos previsionales existentes. Mantiene el negocio y sube el rendimiento esperado del capital. ?Qu? debe revisar el analista?",
+      "opciones": [
+        "Si aumentaron obligaciones similares a deuda y el riesgo residual antes de atribuirlo a creaci?n de valor.",
+        "Solo si cambi? el n?mero de empleados.",
+        "Si el nombre contable del contrato elimina el riesgo.",
+        "Si m?s rendimiento esperado garantiza mayor precio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las obligaciones econ?micas no se limitan a bonos expl?citos. Arrendamientos y compromisos previsionales insuficientemente financiados pueden aumentar el apalancamiento efectivo. El mayor rendimiento esperado puede compensar ese riesgo adicional.",
+        "El empleo puede afectar operaciones pero no resuelve el mecanismo financiero planteado. Hay que estudiar pagos obligatorios y su prioridad. Limitarse a empleados omite compromisos relevantes.",
+        "El nombre del contrato no elimina sus pagos. Debe examinarse la sustancia econ?mica de la obligaci?n. Un compromiso puede aumentar riesgo financiero aunque no se denomine pr?stamo.",
+        "El precio depende tambi?n del rendimiento requerido. Si este sube por mayor riesgo, puede compensar el mayor rendimiento esperado. No corresponde interpretar todo aumento como riqueza nueva."
+      ]
+    },
+    {
+      "id": "c18-q051",
+      "tema": "Falacia de deuda barata",
+      "dificultad": "intermedia",
+      "pregunta": "Un director dice: ?La deuda exige menos retorno que las acciones; reemplazarlas siempre baja WACC?. ?Qu? responde MM sin impuestos?",
+      "opciones": [
+        "El WACC solo depende de la fuente mayoritaria.",
+        "Deuda y acciones deben tener igual tasa individual.",
+        "El capital se vuelve m?s seguro con m?s deuda.",
+        "La ventaja directa se compensa con mayor rendimiento exigido al capital residual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Todas las fuentes contribuyen con su tasa y peso. La minoritaria tambi?n importa. Adem?s, sus tasas pueden cambiar cuando se modifica la estructura.",
+        "Los derechos tienen distinto riesgo y pueden exigir tasas distintas. Eso no contradice mercados perfectos. Lo constante es el promedio global para unos activos dados.",
+        "Las obligaciones prioritarias concentran el riesgo en el residual. Por eso normalmente aumenta su rendimiento requerido. No se vuelve m?s seguro por el mero aumento de deuda.",
+        "La deuda suele cobrar primero y por eso exige menor retorno. Su mayor peso concentra el riesgo en las acciones restantes. El ajuste de rE conserva el rendimiento del paquete total bajo MM."
+      ]
+    },
+    {
+      "id": "c18-q052",
+      "tema": "Objetivo de valor",
+      "dificultad": "avanzada",
+      "pregunta": "Dos pol?ticas tienen flujos perpetuos: A genera $12 millones anuales y su tasa apropiada es 12%; B genera $8 millones y su tasa apropiada es 10%. El director elige B solo por su menor tasa. ?Qu? evaluaci?n corresponde?",
+      "opciones": [
+        "Valen igual porque ambas son perpetuas.",
+        "B vale m?s porque 10% es menor que 12%.",
+        "A vale $100 millones y B $80 millones; la tasa aislada induce una mala elecci?n.",
+        "A vale $1,44 millones y B $0,8 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La duraci?n com?n no iguala magnitudes ni tasas. Ambos elementos determinan cada valor. Los cocientes respectivos son 100 y 80 millones.",
+        "Una tasa menor aumenta el valor si el flujo es el mismo. Aqu? B genera un tercio menos de ingreso anual. Deben compararse valores presentes completos.",
+        "El valor de A es 12/0,12 = 100 millones. El de B es 8/0,10 = 80 millones. El menor costo de B no compensa la reducci?n del flujo operativo.",
+        "Esta cuenta multiplica flujos por tasas. Para valorar una perpetuidad se divide por la tasa. La multiplicaci?n no suma sus pagos descontados."
+      ]
+    },
+    {
+      "id": "c18-q053",
+      "tema": "Cr?tica a visi?n tradicional",
+      "dificultad": "intermedia",
+      "pregunta": "Un asesor dice que WACC baja inicialmente porque los accionistas no perciben el riesgo de endeudamiento moderado. ?Cu?l es la cr?tica principal?",
+      "opciones": [
+        "Demuestra que la deuda moderada no tiene intereses.",
+        "Confunde baja probabilidad de default con ausencia de amplificaci?n del riesgo accionarial.",
+        "Prueba que betaA aumenta al emitir acciones.",
+        "Es una consecuencia necesaria del arbitraje de MM."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deuda moderada puede pagar intereses positivos. La seguridad no los elimina. El argumento debe atender al efecto de esos pagos sobre los accionistas.",
+        "La deuda puede ser segura para sus tenedores. Aun as?, el resultado operativo se concentra en menos capital residual. Esa exposici?n financiera exige compensaci?n aunque la quiebra sea improbable.",
+        "BetaA refleja el negocio y sus activos. Emitir acciones no la aumenta necesariamente. La cuesti?n analizada es c?mo cambia la exposici?n del capital propio.",
+        "MM predice compensaci?n por el riesgo financiero. Suponer que los compradores no lo perciben se aparta de ese mecanismo. No es una conclusi?n de la replicaci?n perfecta."
+      ]
+    },
+    {
+      "id": "c18-q054",
+      "tema": "Clientela satisfecha",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora encuentra inversionistas que prefieren capital apalancado, pero ya tienen abundantes alternativas equivalentes. ?Puede justificar una prima solo con esa preferencia?",
+      "opciones": [
+        "No; necesita una demanda insatisfecha o una ventaja de servicio o costo.",
+        "S?; toda preferencia asegura rentas permanentes.",
+        "S?; los sustitutos no influyen en precios.",
+        "No; nadie puede preferir racionalmente capital apalancado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La preferencia puede existir sin ofrecer ganancias extraordinarias al nuevo emisor. Los compradores ya pueden satisfacerla de forma competitiva. Hace falta identificar un servicio faltante o prestarlo ventajosamente.",
+        "La existencia de compradores no garantiza un sobreprecio. La oferta existente puede satisfacerlos plenamente. La renta depende de una ventaja frente a los sustitutos.",
+        "Los sustitutos limitan lo que un emisor puede cobrar. Si ofrecen pagos equivalentes, el comprador puede elegirlos. Ignorar esa competencia elimina el elemento central del an?lisis.",
+        "Preferir una exposici?n apalancada puede ser racional. La dificultad no es la existencia de la clientela. Es demostrar que sus necesidades a?n no est?n cubiertas."
+      ]
+    },
+    {
+      "id": "c18-q055",
+      "tema": "Regulaci?n e innovaci?n",
+      "dificultad": "intermedia",
+      "pregunta": "En un contexto hist?rico con topes al inter?s de cuentas de ahorro, una entidad ofrece bonos flotantes fuera del tope. ?Cu?l es la oportunidad econ?mica principal?",
+      "opciones": [
+        "Aumentar autom?ticamente la productividad de sus clientes.",
+        "Eliminar el riesgo de cr?dito del emisor.",
+        "Garantizar precio exactamente a la par en todo momento.",
+        "Atender ahorristas que buscan rendimientos vinculados al mercado y est?n restringidos por los dep?sitos regulados."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El instrumento reorganiza pagos financieros. No mejora autom?ticamente los procesos productivos de los compradores. La creaci?n de valor procede del servicio que atiende una restricci?n.",
+        "El cup?n variable no garantiza la solvencia. Si el emisor incumple, puede haber p?rdidas. La oportunidad regulatoria no elimina el riesgo crediticio.",
+        "El ajuste de cupones no fija el precio de mercado. Pueden cambiar cr?dito, liquidez y margen exigido. La cotizaci?n a la par no est? garantizada.",
+        "La regulaci?n deja una necesidad parcialmente desatendida. Un instrumento fuera del tope puede prestar un servicio financiero valorado. La ventaja inicial puede erosionarse cuando otros emisores copian el dise?o."
+      ]
+    },
+    {
+      "id": "c18-q056",
+      "tema": "Lectura de cup?n flotante",
+      "dificultad": "basica",
+      "pregunta": "Una inversora tiene un bono cuyo cup?n se revisa con una referencia. Si la referencia baja y no hay piso contractual, ?qu? debe esperar?",
+      "opciones": [
+        "Devoluci?n autom?tica del principal.",
+        "Mayor cup?n porque la tasa variable siempre protege ingresos.",
+        "Menor pr?ximo cup?n revisado, conservando el riesgo de cr?dito del emisor.",
+        "Precio absolutamente invariable."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Revisar intereses no es amortizar capital. El vencimiento y las cl?usulas de rescate son condiciones separadas. La baja de tasas no exige devoluci?n autom?tica.",
+        "La tasa variable no promete protecci?n unidireccional. Sin un piso, la baja de referencia reduce el cup?n. No garantiza un ingreso m?nimo por s? sola.",
+        "El cup?n sigue la referencia seg?n su contrato. Cobrar m?s cuando sube tiene como contrapartida cobrar menos cuando baja. El ajuste no elimina la posibilidad de incumplimiento del emisor.",
+        "La sensibilidad a tasas puede reducirse sin desaparecer toda variaci?n de precio. Cr?dito y liquidez siguen influyendo. Tambi?n importan las fechas y condiciones de revisi?n."
+      ]
+    },
+    {
+      "id": "c18-q057",
+      "tema": "Fondos de mercado de dinero",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo re?ne ahorros peque?os e invierte en deuda de alta calidad y corto plazo. ?Qu? servicio financiero ilustra?",
+      "opciones": [
+        "Rendimientos garantizados superiores a todos sus activos.",
+        "Acceso a instrumentos mayoristas y liquidez, con costos que reducen el rendimiento neto.",
+        "Transformaci?n de deuda en acciones de largo plazo.",
+        "Ausencia absoluta de riesgos y gastos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los gastos se pagan con recursos del fondo. La intermediaci?n no garantiza superar a cada activo subyacente. Su valor puede estar en acceso y servicio, no en un retorno universalmente superior.",
+        "Agrupar fondos permite acceder a instrumentos dif?ciles para peque?os ahorristas. La administraci?n y liquidez a?aden conveniencia. Los costos del servicio explican que el rendimiento neto pueda ser inferior al bruto de la cartera.",
+        "La cartera sigue formada por deuda corta. El fondo modifica la v?a de acceso y administraci?n. No convierte autom?ticamente esos derechos en acciones de largo plazo.",
+        "Alta calidad no equivale a riesgo nulo. La gesti?n tambi?n genera gastos. Ambos elementos deben reconocerse al evaluar el servicio."
+      ]
+    },
+    {
+      "id": "c18-q058",
+      "tema": "L?mites del beneficio fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora observa WACC fiscal decreciente con deuda deducible y recomienda endeudamiento ilimitado. ?Qu? interpretaci?n corresponde?",
+      "opciones": [
+        "La deducci?n aporta una ventaja, pero la pol?tica requiere evaluar tambi?n las dem?s consecuencias del endeudamiento.",
+        "El escudo fiscal prueba que betaE disminuye.",
+        "Los impuestos nunca alteran el costo de capital.",
+        "El ahorro depende de que los accionistas compren bonos personalmente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deducci?n reduce el costo neto del inter?s si puede utilizarse. Ese efecto rompe un supuesto del modelo b?sico sin impuestos. No basta para determinar la pol?tica ?ptima sin considerar dificultades financieras, incentivos y efectos operativos.",
+        "La ventaja fiscal y el riesgo financiero son efectos diferentes. El capital puede volverse m?s riesgoso al aumentar la deuda. Un menor WACC fiscal no demuestra menor betaE.",
+        "La f?rmula fiscal ajusta expl?citamente el componente de deuda. Negar ese ajuste omite un ahorro real cuando es utilizable. El problema es extrapolar un beneficio aislado a una recomendaci?n ilimitada.",
+        "El caso trata del impuesto corporativo. El ahorro nace de intereses deducibles pagados por la sociedad. No exige compras personales de bonos por los accionistas."
+      ]
+    },
+    {
+      "id": "c18-q059",
+      "tema": "Estimaci?n incierta de rE",
+      "dificultad": "avanzada",
+      "pregunta": "CAPM y descuento de dividendos arrojan estimaciones muy distintas de rE; el segundo usa crecimiento proyectado elevado. Antes de calcular WACC, ?qu? debe hacer el analista?",
+      "opciones": [
+        "Promediarlas autom?ticamente y considerar exacto el resultado.",
+        "Elegir siempre la menor para aumentar la valoraci?n.",
+        "Reemplazarlas por la tasa de deuda sin analizar riesgo.",
+        "Revisar supuestos y sensibilidad, especialmente crecimiento, y justificar una estimaci?n razonable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un promedio puede justificarse como aproximaci?n, pero no garantiza exactitud. Si un m?todo est? sesgado, el promedio conserva parte de ese sesgo. Primero hay que entender por qu? difieren.",
+        "La tasa busca estimar el retorno requerido, no producir un precio deseado. Elegirla por conveniencia introduce sesgo. Debe evaluarse la calidad de los supuestos y de los datos.",
+        "La deuda normalmente tiene una exposici?n distinta del capital. Su tasa no sustituye la compensaci?n del residual. La discrepancia entre m?todos exige revisi?n y no un cambio arbitrario de objeto.",
+        "Los m?todos dependen de datos y proyecciones inciertos. Un crecimiento demasiado alto puede elevar indebidamente la tasa inferida del precio y los dividendos. Contrastar supuestos permite elegir y comunicar una estimaci?n defendible."
+      ]
+    },
+    {
+      "id": "c18-q060",
+      "tema": "Desapalancamiento y cartera personal",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma emite acciones para cancelar deuda. Una accionista quiere conservar sus pagos econ?micos anteriores y puede operar sin fricciones con cr?dito equivalente. ?Qu? alternativa es coherente con MM?",
+      "opciones": [
+        "Comprar solo bonos seguros y mantener el mismo residual operativo.",
+        "Aceptar que ninguna cartera puede compensar decisiones corporativas.",
+        "Ajustar su participaci?n accionaria y a?adir deuda personal para reconstruir los pagos anteriores.",
+        "Conservar siempre igual n?mero de acciones y suponer id?ntica exposici?n."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los bonos seguros no reciben el residual operativo incierto. Por eso no replican solos los pagos previos de acciones. Hace falta combinar exposici?n accionaria y financiamiento adecuado.",
+        "La posibilidad de deshacer decisiones financieras es central en MM. El caso permite las operaciones necesarias sin fricciones. Una imposibilidad requerir?a restricciones adicionales no planteadas.",
+        "El desapalancamiento corporativo reduce la exposici?n financiera del capital. La accionista puede compensarlo con endeudamiento personal y una participaci?n ajustada. Debe igualar derechos sobre flujos y obligaciones, no solo cantidades de t?tulos.",
+        "La emisi?n modifica la cantidad total de acciones y puede diluir una tenencia fija. Adem?s cambia el riesgo financiero por acci?n. La exposici?n se conserva ajustando proporciones y deuda personal conjuntamente."
+      ]
+    }
+  ]
+}

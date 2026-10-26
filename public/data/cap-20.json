@@ -1,0 +1,1374 @@
+{
+  "capitulo": 20,
+  "titulo": "Financiamiento y valuación",
+  "preguntas": [
+    {
+      "id": "c20-q001",
+      "tema": "WACC después de impuestos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué expresión representa el WACC después de impuestos, con deuda D, capital propio E y V = D + E?",
+      "opciones": [
+        "rD(1 − Tc)D/V + rE E/V",
+        "rD D/V + rE(1 − Tc)E/V",
+        "rD(1 − Tc) + rE",
+        "rD D/E + rE E/D"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El interés deducible reduce el costo corporativo de la deuda a rD(1 − Tc). Cada costo se pondera por su participación en el valor de mercado total. El rendimiento requerido por los accionistas entra sin esa deducción corporativa.",
+        "Esta expresión aplica la deducción fiscal al capital propio. Los dividendos comunes no reciben el tratamiento fiscal que aquí se atribuye a los intereses. El factor (1 − Tc) debe multiplicar el costo de la deuda.",
+        "La expresión suma costos sin considerar cuánto aporta cada fuente. Una fuente pequeña tendría así el mismo peso que una grande. Es necesario multiplicar cada costo por su participación en V.",
+        "Estas razones no son ponderaciones sobre el total financiado. D/E puede ser mayor que uno y no complementa a E/D para sumar uno. Los pesos correctos son D/V y E/V."
+      ]
+    },
+    {
+      "id": "c20-q002",
+      "tema": "Valores de mercado",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene deuda de mercado por $40 millones y capital de mercado por $60 millones. Sus valores contables son $50 millones para cada fuente. ¿Qué pesos corresponden al WACC?",
+      "opciones": [
+        "40% de deuda y 60% de capital",
+        "50% de deuda y 50% de capital",
+        "60% de deuda y 40% de capital",
+        "40% de deuda y 50% de capital"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor total de mercado es 40 + 60 = 100 millones. Por eso D/V = 40/100 y E/V = 60/100. Los registros contables no modifican estas ponderaciones.",
+        "El 50% surge de dividir valores contables. Esos importes reflejan registros históricos y no el valor actual reclamado por los inversores. El WACC requiere dividir 40 y 60 por el total de mercado de 100.",
+        "Esta alternativa intercambia las participaciones. La deuda representa 40 del total de 100, mientras que el capital representa 60. La fuente más grande debe recibir el peso mayor.",
+        "Esta combinación mezcla bases de medición. Además, sus pesos suman 90%, dejando parte del financiamiento sin representar. Ambas fuentes deben expresarse sobre el mismo total de mercado."
+      ]
+    },
+    {
+      "id": "c20-q003",
+      "tema": "Costo actual de la deuda",
+      "dificultad": "basica",
+      "pregunta": "Una obligación de una empresa solvente tiene cupón de 4%, pero hoy ofrece un rendimiento al vencimiento de 7%. ¿Qué referencia corresponde usar para estimar rD?",
+      "opciones": [
+        "El cupón histórico de 4%",
+        "El promedio simple de 4% y 7%",
+        "El rendimiento actual de 7%",
+        "La tasa de inflación esperada"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cupón determina los pagos contractuales sobre el nominal. No mide el rendimiento que hoy exigen los inversores al precio vigente. Para deuda con riesgo de incumplimiento pequeño se usa el rendimiento actual.",
+        "Promediar tasas históricas y actuales no tiene fundamento de valuación. La decisión debe reflejar el costo de oportunidad vigente. El rendimiento al vencimiento actual es la referencia pertinente bajo el supuesto de solvencia.",
+        "El costo de oportunidad depende de las condiciones actuales del mercado. En una empresa solvente, el rendimiento al vencimiento aproxima el retorno esperado de la deuda. El cupón sólo describe el contrato original. Para rE pueden usarse CAPM o, si sus supuestos son apropiados, un modelo de descuento de dividendos.",
+        "La inflación por sí sola no remunera todos los componentes exigidos por los acreedores. También importan el valor temporal real y el riesgo. Debe estimarse una tasa de deuda actual y consistente con los flujos."
+      ]
+    },
+    {
+      "id": "c20-q004",
+      "tema": "Cálculo del WACC",
+      "dificultad": "basica",
+      "pregunta": "D/V = 40%, rD = 5%, rE = 15% y Tc = 20%. ¿Cuál es el WACC?",
+      "opciones": [
+        "10,60%",
+        "9,00%",
+        "8,00%",
+        "11,00%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo de la deuda después de impuestos es 5% × 0,8 = 4%. Su aporte ponderado es 4% × 0,4 = 1,6%, y el del capital es 15% × 0,6 = 9%. La suma es 10,6%.",
+        "El 9% corresponde sólo al aporte ponderado del capital propio. Aunque los intereses sean deducibles, la deuda no tiene costo nulo. Hay que sumar 5% × 0,8 × 0,4.",
+        "El 8% no resulta de ponderar los dos costos dados. Aplicar impuestos indiscriminadamente a ambos componentes reduce también el retorno accionario. Sólo se ajusta fiscalmente el costo de la deuda.",
+        "El 11% es el promedio antes del ajuste fiscal: 5% × 0,4 + 15% × 0,6. Falta reconocer que el interés es deducible. La contribución de la deuda debe bajar de 2 a 1,6 puntos porcentuales."
+      ]
+    },
+    {
+      "id": "c20-q005",
+      "tema": "Supuestos del WACC",
+      "dificultad": "basica",
+      "pregunta": "¿Qué condiciones permiten usar el WACC corporativo sin ajustes para un proyecto?",
+      "opciones": [
+        "Mismo acreedor y misma moneda, cualquiera sea el riesgo",
+        "Mismo desembolso inicial y misma depreciación contable",
+        "Mismo riesgo de negocio y misma proporción objetivo de deuda a valor",
+        "Financiamiento inicial íntegramente con deuda"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Compartir acreedor y moneda no hace equivalentes los riesgos operativos. Dos proyectos con esas características pueden requerir rendimientos muy diferentes. La tasa debe reflejar el riesgo del proyecto y su política de deuda.",
+        "El tamaño de la inversión no determina su riesgo ni su capacidad de deuda. La depreciación contable tampoco garantiza equivalencia financiera. Deben compararse el riesgo de negocio y la proporción objetivo de deuda a valor.",
+        "El WACC corporativo corresponde a los riesgos de los activos y a la política de financiamiento de la empresa. El proyecto debe compartirlos para que esa tasa resulte adecuada. También se supone que esas características se mantienen durante el horizonte relevante.",
+        "El origen inmediato de los fondos no establece el WACC apropiado. Una empresa puede prestar su capacidad crediticia existente a una inversión nueva. Importa la deuda respaldada por el proyecto y la política de largo plazo."
+      ]
+    },
+    {
+      "id": "c20-q006",
+      "tema": "Flujos y doble cómputo fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista descuenta al WACC y además suma al flujo operativo el ahorro fiscal por intereses. ¿Qué debería corregir?",
+      "opciones": [
+        "Restar también el principal al flujo libre",
+        "Descontar los intereses dos veces para compensar",
+        "Quitar ese ahorro del flujo libre porque ya está en el WACC",
+        "Aplicar la tasa de impuestos al valor terminal solamente"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Amortizar principal es una decisión de financiamiento. El flujo libre para todos los inversores se calcula antes de los pagos a acreedores. Agregar esa salida no corrige de manera consistente el doble cómputo fiscal.",
+        "Una segunda deducción de intereses mezcla flujos operativos con pagos financieros. No existe una compensación general entre ese error y el ahorro duplicado. Debe construirse el flujo operativo sin intereses ni su escudo fiscal.",
+        "El WACC incorpora el ahorro fiscal mediante rD(1 − Tc). Los flujos deben calcularse como si la operación se financiara totalmente con capital propio. Sumar allí el mismo ahorro lo valoraría por segunda vez.",
+        "El problema no depende de dónde se ubiquen los impuestos en el horizonte. Los impuestos operativos corresponden a cada período. El ahorro por intereses debe quedar representado una sola vez."
+      ]
+    },
+    {
+      "id": "c20-q007",
+      "tema": "VPN y rendimiento accionario",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto perpetuo de riesgo promedio tiene VPN cero al WACC. ¿Qué implica para sus accionistas si se mantienen los supuestos de valuación?",
+      "opciones": [
+        "Que obtienen el rendimiento esperado requerido por su capital",
+        "Que necesariamente reciben el WACC como rendimiento propio",
+        "Que su rendimiento esperado es cero",
+        "Que la deuda debe cancelarse inmediatamente"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor invertido coincide con el valor presente de los flujos a la tasa apropiada. La distribución entre acreedores y accionistas remunera a cada grupo según su riesgo. Por eso el retorno accionario esperado coincide con rE.",
+        "El WACC combina costos de deuda y capital propio. El rendimiento accionario tiene su propio nivel y normalmente es mayor con apalancamiento. Confundirlos ignora el riesgo financiero de los accionistas.",
+        "Un VPN cero significa que la inversión remunera el costo de oportunidad. No significa ausencia de retornos monetarios. Los accionistas reciben un rendimiento esperado suficiente para el riesgo que asumen.",
+        "La aceptación marginal del proyecto no exige eliminar la deuda. El resultado supone precisamente la política de financiamiento usada para calcular el WACC. Cancelarla modificaría esa política y exigiría revisar la valuación."
+      ]
+    },
+    {
+      "id": "c20-q008",
+      "tema": "Perpetuidad y VPN",
+      "dificultad": "basica",
+      "pregunta": "Un proyecto exige $200 hoy y genera flujo libre anual de $24 desde el año 1, a perpetuidad. Con WACC de 10%, ¿cuál es su VPN? Suponé que la deducibilidad de intereses, cuando corresponda, ya está representada en el WACC.",
+      "opciones": [
+        "$240",
+        "$24",
+        "$40",
+        "−$176"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir 24 por 10% produce el valor de los flujos futuros, igual a 240. Todavía debe descontarse el desembolso de 200 que ocurre hoy. El VPN mide el excedente sobre esa inversión.",
+        "El flujo de un solo año no representa toda la perpetuidad. Los pagos posteriores también tienen valor presente. Primero se calcula 24/0,10 y luego se resta la inversión inicial.",
+        "El valor presente de la perpetuidad es 24/0,10 = 240. La inversión inicial de 200 ya está expresada en el momento cero. Por lo tanto, VPN = 240 − 200 = 40.",
+        "Restar 200 de 24 considera sólo un pago sin valorar los demás. Tampoco descuenta ese pago del primer año. Para una perpetuidad que comienza en el año 1 corresponde usar C/WACC."
+      ]
+    },
+    {
+      "id": "c20-q009",
+      "tema": "Retorno del capital en una perpetuidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una miniempresa perpetua vale $200: deuda de $80 y capital de $120. Su flujo operativo anual después de impuestos es $20, rD = 5% y Tc = 25%; no crece ni amortiza deuda. ¿Qué retorno esperado recibe el capital propio?",
+      "opciones": [
+        "14,17% aproximadamente",
+        "10,00%",
+        "13,33% aproximadamente",
+        "16,67% aproximadamente"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El interés después de impuestos cuesta 80 × 0,05 × 0,75 = 3 por año. Quedan 20 − 3 = 17 para los accionistas. Su retorno es 17/120 = 14,17% aproximadamente.",
+        "Dividir 20 por 200 da el rendimiento operativo sobre el valor total. No refleja que una parte del flujo remunera deuda y que el capital invertido es 120. El retorno accionario se obtiene con el flujo residual de 17.",
+        "Este resultado resta el interés bruto de 4 y calcula 16/120. Omite que la deducibilidad devuelve 1 mediante menores impuestos. El pago neto a los accionistas es 17, no 16.",
+        "Dividir 20 por 120 asigna todo el flujo operativo al capital propio. Los acreedores también deben recibir intereses. Después del costo financiero neto de impuestos, el flujo residual es 17."
+      ]
+    },
+    {
+      "id": "c20-q010",
+      "tema": "Rebalanceo y alcance temporal",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué el WACC puede utilizarse con flujos finitos e irregulares, y no sólo con perpetuidades?",
+      "opciones": [
+        "Porque el valor terminal elimina cualquier error de tasa",
+        "Porque el costo del capital propio no depende de la deuda",
+        "Porque todo flujo irregular puede sumarse sin descuento",
+        "Porque la deuda puede ajustarse para mantener D/V y sostener los supuestos"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Agregar un valor terminal no corrige automáticamente una tasa inadecuada. Cada flujo debe descontarse con un criterio consistente. La validez general del WACC se vincula con la política de deuda proporcional al valor.",
+        "El costo del capital propio sí responde al apalancamiento. Más deuda concentra el riesgo residual en menos capital. La aplicabilidad del WACC requiere coherencia entre ese costo y la política de deuda.",
+        "La irregularidad no elimina el valor temporal del dinero. Cada flujo requiere el descuento correspondiente a su fecha. El WACC permite ese descuento si se cumplen sus supuestos de riesgo y financiamiento.",
+        "La perpetuidad simplifica los ejemplos, pero no es una condición general del WACC. Con riesgo estable y rebalanceo de deuda para mantener D/V, el razonamiento puede aplicarse período por período. Los flujos pueden tener cualquier perfil temporal."
+      ]
+    },
+    {
+      "id": "c20-q011",
+      "tema": "Condición de crecimiento terminal",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista aplica V_H = FCF_(H+1)/(WACC − g) con FCF positivo. ¿Qué condición permite interpretar esa expresión como una perpetuidad creciente de valor finito?",
+      "opciones": [
+        "g debe igualar WACC para estabilizar el denominador",
+        "g debe ser menor que WACC y representar crecimiento sostenible",
+        "g debe superar WACC para que el negocio cree valor",
+        "El valor terminal nunca depende de la inversión posterior"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Si g iguala WACC, el denominador es cero. La serie de flujos positivos no tiene un valor presente finito bajo ese crecimiento perpetuo. No se trata de una forma de estabilizar el cálculo.",
+        "La suma descontada converge cuando el crecimiento es menor que la tasa de descuento. Además, el flujo inicial y su crecimiento deben reflejar las inversiones necesarias para sostenerlos. La expresión representa en H los flujos desde H + 1.",
+        "Con g mayor que WACC, la serie positiva no converge. Un denominador negativo no describe un valor económico válido de esa perpetuidad. La creación de valor depende de retornos y reinversión, no de forzar esta desigualdad.",
+        "El flujo libre ya resta inversiones futuras necesarias. Cambiar el crecimiento puede modificar esa reinversión y el flujo inicial del terminal. Mantenerlos incoherentes distorsiona el resultado aunque la fórmula esté bien escrita."
+      ]
+    },
+    {
+      "id": "c20-q012",
+      "tema": "Flujo libre de efectivo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el flujo libre de efectivo utilizado con el WACC?",
+      "opciones": [
+        "La utilidad neta después de intereses",
+        "La facturación cobrada sin descontar inversiones",
+        "El efectivo disponible para deuda y capital tras inversiones, calculado sin intereses",
+        "Los dividendos efectivamente pagados"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La utilidad neta ya deduce intereses y contiene cargos sin salida de efectivo. Por eso no coincide con el flujo libre para todos los financiadores. Debe reconstruirse el efectivo operativo y restar las inversiones.",
+        "La facturación no considera todos los costos ni la reinversión. Crecer puede exigir importantes desembolsos en activos y capital de trabajo. Sólo el remanente después de esos requerimientos queda disponible para los inversores.",
+        "El flujo libre se obtiene después de impuestos operativos y de las inversiones necesarias. Se calcula como si no hubiera deuda, sin deducir intereses. Por eso corresponde a todos los inversores y se descuenta al WACC.",
+        "Los dividendos reflejan además decisiones de distribución. Una empresa puede retener efectivo libre o financiar pagos con deuda. El flujo libre mide capacidad económica de pago antes de esas decisiones."
+      ]
+    },
+    {
+      "id": "c20-q013",
+      "tema": "Construcción del flujo libre",
+      "dificultad": "intermedia",
+      "pregunta": "EBIT = $100, depreciación = $20, inversión bruta en activos fijos = $30, aumento de capital de trabajo = $10 y Tc = 30%. ¿Cuál es el flujo libre?",
+      "opciones": [
+        "$30",
+        "$70",
+        "$50",
+        "$80"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe resta las inversiones a 70 pero olvida sumar la depreciación. El EBIT ya contenía ese cargo sin salida monetaria. Para pasar de resultado a efectivo hay que devolver los 20.",
+        "El 70 es sólo EBIT después de impuestos. Faltan el agregado de depreciación y las salidas por inversión. Su efecto neto es 20 − 30 − 10 = −20.",
+        "El resultado operativo después de impuestos es 100 × 0,70 = 70. Se agrega la depreciación de 20 porque no consumió efectivo. Se restan 30 y 10 de inversión, de modo que FCF = 70 + 20 − 30 − 10 = 50.",
+        "El 80 puede surgir al restar activos fijos y agregar el capital de trabajo. Un aumento de capital de trabajo inmoviliza efectivo y debe restarse. Con el signo correcto, el flujo baja a 50."
+      ]
+    },
+    {
+      "id": "c20-q014",
+      "tema": "Crecimiento y flujo negativo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora observa utilidad operativa positiva y flujo libre negativo durante una expansión. ¿Qué interpretación es razonable?",
+      "opciones": [
+        "La empresa necesariamente está destruyendo valor",
+        "Los impuestos deben haber sido calculados sobre dividendos",
+        "La inversión puede exceder el efectivo operativo sin que eso pruebe destrucción de valor",
+        "El flujo libre negativo demuestra que no existen ventas"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un flujo negativo aislado no permite juzgar la creación de valor. Las inversiones actuales pueden generar flujos futuros suficientes para compensarlo. Es necesario calcular el valor presente de todo el proyecto.",
+        "No hace falta un error tributario para explicar la diferencia. La utilidad y el flujo libre miden magnitudes distintas. La reinversión ofrece una explicación económica directa.",
+        "El crecimiento puede requerir mucha inversión en activos fijos y capital de trabajo. Esas salidas pueden superar el efectivo generado por operaciones rentables. La conveniencia depende del retorno futuro frente al costo de capital.",
+        "Una empresa puede vender mucho y consumir efectivo para expandirse. Las ventas incluso pueden aumentar cuentas por cobrar e inventarios. El signo del flujo libre no identifica por sí solo el nivel de ventas."
+      ]
+    },
+    {
+      "id": "c20-q015",
+      "tema": "Proyección coherente con ventas",
+      "dificultad": "intermedia",
+      "pregunta": "Las ventas aumentan de $200 a $240. La relación objetivo de activos fijos netos a ventas es 50%, la de capital de trabajo es 10% y la depreciación anual es $8. Sin ventas de activos, ¿cuánta inversión bruta fija y cuánto aumento de capital de trabajo se requieren?",
+      "opciones": [
+        "$20 y $4",
+        "$28 y $4",
+        "$28 y $24",
+        "$8 y $20"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El aumento neto de activos fijos es 0,50 × 40 = 20. Pero la inversión bruta también debe reponer los 8 depreciados. Por eso se necesitan 28 de inversión fija y 4 de capital de trabajo.",
+        "Las ventas adicionales de 40 requieren 20 más de activos fijos netos. Sumando la depreciación de 8, la inversión bruta fija es 28. El capital de trabajo aumenta 10% × 40 = 4.",
+        "Los 28 de inversión fija son correctos. El capital de trabajo final es 24, pero el inicial ya era 20. La salida incremental es únicamente 24 − 20 = 4.",
+        "Esta respuesta confunde reposición con expansión y asigna otra base al capital de trabajo. La inversión fija debe cubrir tanto depreciación como aumento neto. El capital de trabajo sigue su relación de 10% con las ventas."
+      ]
+    },
+    {
+      "id": "c20-q016",
+      "tema": "Valor terminal y fecha",
+      "dificultad": "basica",
+      "pregunta": "Si el horizonte explícito termina en H, ¿qué flujos contiene el valor terminal calculado en H?",
+      "opciones": [
+        "Sólo el flujo del año H",
+        "Los flujos de H + 1 en adelante, valuados en H",
+        "El flujo de H más todos los anteriores",
+        "Los flujos de 1 a H, sin descuento"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El flujo de H ya forma parte de la proyección explícita. El valor terminal representa la continuación posterior. Incluir únicamente H omite toda la vida restante del negocio.",
+        "El valor terminal resume en H todos los flujos posteriores al horizonte. Luego debe descontarse desde H hasta hoy. El flujo de H se incorpora aparte para evitar omisiones o duplicaciones.",
+        "Sumar los años anteriores dentro del terminal duplicaría flujos. Esos pagos corresponden a sus fechas originales. El terminal se refiere exclusivamente a la continuación desde H + 1.",
+        "Los años 1 a H se valoran por separado. El valor terminal no reemplaza la proyección explícita ya realizada. Su función es resumir los flujos que siguen al horizonte."
+      ]
+    },
+    {
+      "id": "c20-q017",
+      "tema": "Valor terminal creciente",
+      "dificultad": "intermedia",
+      "pregunta": "El flujo libre del año 5 será $12 y desde allí crecerá 4% anual. Si H = 4 y WACC = 10%, ¿cuál es el valor terminal en el año 4?",
+      "opciones": [
+        "$200",
+        "$208",
+        "$120",
+        "$192,31"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer flujo posterior al horizonte es el del año 5, igual a 12. La fórmula es V4 = FCF5/(WACC − g). Entonces V4 = 12/(0,10 − 0,04) = 200.",
+        "Este resultado multiplica 12 por 1,04 antes de dividir. Pero 12 ya es el flujo del año siguiente al horizonte. Volver a hacerlo crecer introduce un año adicional que no corresponde.",
+        "Dividir por 10% trata el flujo como una perpetuidad sin crecimiento. Aquí los pagos aumentan 4% por año. El denominador apropiado es la diferencia entre WACC y g.",
+        "Este importe reduce 12 por un año de crecimiento antes de aplicar la fórmula. Así usa el flujo del año 4 en vez del año 5. La perpetuidad creciente requiere el primer flujo posterior al horizonte."
+      ]
+    },
+    {
+      "id": "c20-q018",
+      "tema": "De empresa a acción",
+      "dificultad": "intermedia",
+      "pregunta": "El VP de los flujos explícitos es $30 millones y el VP del terminal es $90 millones. Hay deuda de mercado por $40 millones y 8 millones de acciones, sin otros activos ni pasivos. ¿Cuánto vale cada acción?",
+      "opciones": [
+        "$15",
+        "$5",
+        "$10",
+        "$20"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar 30 y 90 y dividir por 8 da 15. Ese cálculo asigna también a los accionistas el valor que pertenece a los acreedores. Primero hay que restar la deuda de 40.",
+        "El resultado de 5 no recoge todo el valor operativo neto de deuda. El capital es 80, no 40 millones. Debe conservarse tanto el valor explícito como el terminal antes de restar la deuda.",
+        "El valor operativo total es 30 + 90 = 120 millones. El capital propio vale 120 − 40 = 80 millones. Dividir 80 por 8 millones de acciones da $10 por acción.",
+        "Este resultado suma la deuda al valor operativo antes de dividir. La deuda es un reclamo de terceros sobre ese valor. Para obtener el valor accionario debe restarse."
+      ]
+    },
+    {
+      "id": "c20-q019",
+      "tema": "Sensibilidad y competencia",
+      "dificultad": "avanzada",
+      "pregunta": "Un director eleva g en el valor terminal y mantiene sin cambios la inversión necesaria para sostener ese mayor crecimiento. ¿Cuál es la revisión prioritaria?",
+      "opciones": [
+        "Aceptar el aumento porque crecer siempre crea valor",
+        "Recalcular reinversión y rentabilidad marginal, considerando la reacción competitiva",
+        "Eliminar el terminal para evitar estimaciones",
+        "Sustituir g por la inflación sin revisar operaciones"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El crecimiento no crea valor automáticamente. Si la nueva inversión sólo obtiene el costo de capital, su VPN es cero. Si obtiene menos, aumentar la escala puede destruir valor.",
+        "Más crecimiento suele requerir activos fijos y capital de trabajo adicionales. El efecto sobre el valor depende del rendimiento de esa reinversión frente al WACC. También debe justificarse por qué la competencia permitiría mantener rentas extraordinarias.",
+        "Eliminar el terminal omite los flujos posteriores al horizonte. La incertidumbre requiere supuestos coherentes y análisis de sensibilidad. No justifica asignar valor nulo a la continuación.",
+        "La inflación no sustituye un análisis de crecimiento real, márgenes e inversión. Puede formar parte de una proyección nominal consistente. Pero no corrige una reinversión insuficiente para el crecimiento supuesto."
+      ]
+    },
+    {
+      "id": "c20-q020",
+      "tema": "Transición a crecimiento estable",
+      "dificultad": "intermedia",
+      "pregunta": "Al bajar la tasa de expansión, el flujo libre salta en el primer año posterior al horizonte y luego crece estable. ¿Puede ser coherente?",
+      "opciones": [
+        "No, el flujo libre siempre debe crecer igual que las ventas en la transición",
+        "Sí, una menor necesidad de reinversión puede elevar el flujo disponible",
+        "Sólo si se elimina la depreciación de los impuestos",
+        "No, cualquier salto demuestra que faltan intereses"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La relación entre ventas y flujo libre depende de la inversión. Cuando cambia el ritmo de expansión puede cambiar esa relación transitoriamente. La estabilidad requerida para la fórmula terminal comienza después del ajuste inicial.",
+        "Un crecimiento menor puede liberar efectivo que antes se destinaba a expansión. Por eso el flujo libre puede subir más que las ventas en el año de transición. La fórmula terminal es válida si el primer flujo y el crecimiento posterior son coherentes.",
+        "La depreciación fiscal debe tratarse de manera consistente. Eliminarla arbitrariamente distorsiona impuestos y efectivo. El salto puede explicarse sin cambiar ese tratamiento.",
+        "No es necesario deducir intereses para explicar el salto. El flujo libre se construye antes de pagos financieros. Una reducción de la inversión puede elevarlo aun con ventas creciendo más despacio."
+      ]
+    },
+    {
+      "id": "c20-q021",
+      "tema": "Comprobaciones de la valuación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conjunto de controles ayuda a evaluar una valuación por flujos descontados?",
+      "opciones": [
+        "Comparables, plausibilidad competitiva, liquidación y activos ociosos",
+        "Sólo redondear el WACC a un número entero",
+        "Igualar el valor estimado al patrimonio contable",
+        "Elegir el múltiplo que arroje el precio más alto"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los comparables permiten contrastar los resultados con precios de negocios similares. El análisis estratégico revisa márgenes y crecimiento frente a la competencia. La liquidación y los activos ociosos permiten detectar usos alternativos más valiosos.",
+        "Redondear una tasa no valida los supuestos económicos. Puede incluso esconder sensibilidad importante. Hay que revisar flujos, comparables y alternativas de uso de los activos.",
+        "El patrimonio contable no mide necesariamente el valor económico. Puede omitir oportunidades de crecimiento o registrar activos a costos históricos. Forzar esa igualdad invalida el propósito de descontar flujos futuros.",
+        "El múltiplo más alto no es automáticamente el más apropiado. Debe ser comparable en riesgo, crecimiento y definición del resultado. Seleccionarlo por el precio deseado introduce un sesgo."
+      ]
+    },
+    {
+      "id": "c20-q022",
+      "tema": "Método de flujo a capital",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se obtiene directamente el valor del capital propio mediante el método de flujo a capital?",
+      "opciones": [
+        "Descontando flujos para accionistas, después de intereses e impuestos y financiamiento neto, a rE",
+        "Descontando EBIT bruto al WACC",
+        "Descontando flujos para todos los inversores a rD",
+        "Descontando dividendos al WACC y sumando la deuda"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El flujo a capital incorpora los pagos financieros y el endeudamiento neto pertinente. Se descuenta al rendimiento requerido por los accionistas. Con supuestos consistentes coincide con el valor operativo al WACC menos la deuda.",
+        "El EBIT no es un flujo monetario y además está antes de impuestos. El WACC permite valuar operaciones usando flujo libre para todos los inversores. Para valuar directamente el capital se necesitan sus flujos residuales y rE.",
+        "La deuda remunera un reclamo distinto del capital propio. Usar rD para el flujo total ignora el riesgo residual de los accionistas. El método directo usa flujos accionarios y costo accionario.",
+        "Los dividendos corresponden al capital propio y requieren una tasa acorde con ese riesgo. El WACC combina financiadores y no es la tasa directa de esos pagos. Además, sumar deuda no ayuda a obtener valor accionario."
+      ]
+    },
+    {
+      "id": "c20-q023",
+      "tema": "Flujo a capital y apalancamiento cambiante",
+      "dificultad": "avanzada",
+      "pregunta": "Una adquisición reducirá fuertemente su deuda en cuatro años. El analista descuenta todos los flujos accionarios a la rE actual. ¿Qué objeción corresponde?",
+      "opciones": [
+        "La rE cambia con el riesgo financiero; hace falta modelar esa evolución o usar VPA",
+        "La deuda no influye en los flujos accionarios",
+        "La rE actual siempre es demasiado baja",
+        "Debe descontarse todo al cupón original de la deuda"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Al reducirse la deuda cambia el riesgo financiero de los accionistas. La rE inicial no representa necesariamente todos los períodos futuros. El VPA facilita separar la operación del calendario de financiamiento.",
+        "Los intereses, amortizaciones y nueva deuda afectan el efectivo accionario. Además, la deuda modifica el riesgo residual. Ignorar ambos efectos impide una valuación consistente.",
+        "La dirección del error depende de la trayectoria del riesgo. Con desapalancamiento, la rE inicial puede ser mayor que la requerida más adelante. Lo decisivo es que una tasa constante necesita justificación.",
+        "El cupón original describe pagos pactados y no el costo del capital accionario. Tampoco mide necesariamente el costo actual de la deuda. No resuelve la variación del apalancamiento."
+      ]
+    },
+    {
+      "id": "c20-q024",
+      "tema": "Acciones preferentes",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene D/V = 20%, P/V = 20% y E/V = 60%; rD = 5%, rP = 8%, rE = 12% y Tc = 25%. Los dividendos preferentes no son deducibles. ¿Cuál es el WACC?",
+      "opciones": [
+        "9,15%",
+        "9,80%",
+        "8,95%",
+        "9,55%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 9,15% aplica también el factor fiscal a las preferentes. Ese dividendo no es deducible bajo los datos del problema. Su aporte debe ser 8% × 0,20 = 1,60%.",
+        "El 9,80% surge de no ajustar fiscalmente la deuda. Los intereses sí son deducibles en este caso. Su contribución baja de 1% a 0,75%.",
+        "Este importe no representa la suma de los tres componentes con sus pesos. La deuda aporta 0,75%, las preferentes 1,60% y las comunes 7,20%. Omitir o mezclar un componente altera el promedio.",
+        "La contribución de la deuda es 5% × 0,75 × 0,20 = 0,75%. Las preferentes aportan 8% × 0,20 = 1,60%, y las comunes 12% × 0,60 = 7,20%. La suma es 9,55%."
+      ]
+    },
+    {
+      "id": "c20-q025",
+      "tema": "Deuda de corto plazo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa renueva continuamente préstamos de corto plazo para financiar activos permanentes. ¿Cómo corresponde tratarlos?",
+      "opciones": [
+        "Tratarlos como capital propio sin costo",
+        "Excluirlos siempre porque vencen antes de un año",
+        "Incluirlos explícitamente como deuda en el WACC, con flujos operativos consistentes",
+        "Incluir sólo sus intereses dentro del capital de trabajo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El préstamo mantiene una obligación de pago y un costo para la empresa. No se transforma en capital propio por renovarse. Debe conservarse la distinción entre acreedores y accionistas.",
+        "El vencimiento contractual no basta para decidir su exclusión. Una fuente renovada permanentemente puede financiar activos de largo plazo. Omitirla distorsiona las ponderaciones y el costo financiero.",
+        "La sustancia económica es financiamiento permanente aunque cada contrato sea corto. Sus acreedores aportan capital y exigen rendimiento. Deben incluirse como deuda y evitar su doble deducción en el capital de trabajo operativo.",
+        "Los intereses son pagos financieros, no inversión operativa en capital de trabajo. Incorporarlos allí mezcla dos niveles de análisis. La deuda permanente debe representarse en la estructura de financiamiento."
+      ]
+    },
+    {
+      "id": "c20-q026",
+      "tema": "Compensación de posiciones de corto plazo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo puede ser razonable omitir deuda de corto plazo del WACC como aproximación?",
+      "opciones": [
+        "Cuando tiene una tasa mayor que la deuda larga",
+        "Cuando es temporal o queda compensada por efectivo e inversiones temporales comparables",
+        "Cuando la empresa posee cualquier inventario",
+        "Cuando el capital neto de trabajo es negativo por financiamiento permanente"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una tasa elevada no justifica excluir un costo. Si la deuda es permanente y relevante, debe reconocerse. Omitirla para reducir el WACC sesga la valuación.",
+        "Una necesidad estacional puede no representar la política estructural de financiamiento. También puede no haber endeudamiento neto si posiciones comparables se compensan. La aproximación exige verificar esa situación, no asumirla para cualquier deuda corta.",
+        "Tener inventarios no demuestra compensación financiera. Los inventarios pueden ser activos operativos permanentes que requieren financiamiento. Hay que analizar duración, magnitud y posiciones monetarias de corto plazo.",
+        "Capital de trabajo negativo junto con deuda corta relevante puede señalar financiamiento de activos permanentes. Esa situación vuelve más importante reconocer explícitamente la deuda. No constituye una justificación general para omitirla."
+      ]
+    },
+    {
+      "id": "c20-q027",
+      "tema": "Capital de trabajo y pasivos operativos",
+      "dificultad": "basica",
+      "pregunta": "El capital de trabajo operativo baja de $18 a $13 y ya está definido neto de cuentas por pagar. ¿Qué efecto tiene el cambio sobre el flujo libre?",
+      "opciones": [
+        "Una salida de $5",
+        "Una entrada de $13",
+        "Una entrada de $5",
+        "Una entrada de $18"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una salida corresponde a un aumento del capital inmovilizado. Aquí el saldo disminuye y libera recursos. El cambio es 13 − 18 = −5 y se resta ese cambio.",
+        "El saldo final no es el flujo del período. Parte del capital de trabajo permanece invertida. Sólo se liberan los 5 que separan el saldo inicial del final.",
+        "La variación es ΔCT = 13 − 18 = −5. En el flujo libre se resta ΔCT, por lo que se agregan 5. Las cuentas por pagar ya están incluidas en la definición y no deben descontarse otra vez.",
+        "El saldo inicial no se recupera por completo. La empresa conserva 13 invertidos en capital de trabajo. La liberación es la diferencia de 5."
+      ]
+    },
+    {
+      "id": "c20-q028",
+      "tema": "Impuestos diferidos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué el pasivo contable por impuestos diferidos no se agrega como fuente con costo propio al WACC?",
+      "opciones": [
+        "Porque no es un título de financiamiento y sus efectos fiscales se reflejan en los flujos",
+        "Porque es equivalente a una acción preferente",
+        "Porque debe descontarse siempre del capital de mercado",
+        "Porque los impuestos nunca afectan los flujos"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El saldo refleja diferencias temporarias en el reconocimiento tributario y contable. No representa un valor emitido que exija una rentabilidad de mercado propia. Los flujos deben usar impuestos efectivamente pagados; en sectores regulados el saldo puede tener implicaciones adicionales.",
+        "Los impuestos diferidos no otorgan dividendos ni derechos de un accionista preferente. Surgen de diferencias temporarias entre mediciones contables y fiscales. No corresponde inventar un rendimiento exigido para ese saldo.",
+        "No existe una regla general de restar ese saldo al capital observado en bolsa. El precio accionario ya refleja las expectativas de flujos futuros. La valuación debe reconocer los pagos fiscales reales de manera consistente.",
+        "Los impuestos sí afectan el efectivo y el valor. La depreciación fiscal puede modificar el momento de los pagos tributarios. El punto es evitar convertir un registro contable en una fuente bursátil independiente."
+      ]
+    },
+    {
+      "id": "c20-q029",
+      "tema": "Deuda riesgosa y convertibles",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué dificultad comparten la deuda muy riesgosa y los bonos convertibles al estimar sus costos?",
+      "opciones": [
+        "No tienen precio de mercado posible",
+        "Siempre tienen rendimiento esperado igual a cero",
+        "Su rendimiento prometido puede no representar el rendimiento esperado relevante",
+        "Deben tratarse automáticamente como deuda libre de riesgo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ambos instrumentos pueden negociarse y tener precios observables. La dificultad reside en traducir esos precios y pagos contingentes a un costo esperado. Un precio no elimina la necesidad de modelar riesgo y opciones.",
+        "Los inversores pueden exigir retornos esperados positivos en ambos instrumentos. El problema es estimarlos correctamente. Riesgo o complejidad no implican retorno esperado nulo.",
+        "En deuda riesgosa deben contemplarse las pérdidas esperadas por incumplimiento. En convertibles también importa la opción de recibir acciones. El cupón o rendimiento contractual aislado no resume necesariamente la remuneración económica esperada.",
+        "La posibilidad de impago y la conversión introducen riesgos específicos. No desaparecen por tratarse de títulos llamados bonos. Usar una tasa libre de riesgo sin ajuste subestima su costo pertinente."
+      ]
+    },
+    {
+      "id": "c20-q030",
+      "tema": "WACC de industria y divisiones",
+      "dificultad": "intermedia",
+      "pregunta": "Un conglomerado combina una concesionaria vial estable y una desarrolladora de videojuegos. ¿Qué criterio conviene aplicar a nuevas inversiones de cada división?",
+      "opciones": [
+        "Un único WACC del conglomerado porque tiene un solo balance",
+        "La tasa de la división con más ventas, sin otros ajustes",
+        "La tasa menor de ambas industrias para todos los proyectos",
+        "Referencias de empresas comparables de cada actividad, ajustadas por riesgo y financiamiento"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un balance consolidado no vuelve iguales los riesgos de los negocios. Un promedio puede ser demasiado alto para uno y demasiado bajo para otro. Deben buscarse referencias específicas de cada actividad.",
+        "Las ventas no bastan para medir riesgo ni costo de capital. La división más grande no necesariamente representa a la otra. Deben considerarse los negocios que originan los flujos.",
+        "Elegir la menor tasa favorece artificialmente proyectos más riesgosos. El costo de capital debe responder al riesgo y no a la preferencia por aceptar inversiones. Cada división requiere una referencia apropiada.",
+        "Los comparables de cada industria permiten aproximar el riesgo económico pertinente. Los promedios sectoriales también reducen algunos errores aleatorios de estimación. Antes de aplicarlos hay que verificar similitud de activos, crecimiento y política de deuda."
+      ]
+    },
+    {
+      "id": "c20-q031",
+      "tema": "Financiamiento inmediato y capacidad de deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financia el 100% de un laboratorio nuevo con un préstamo respaldado por toda la empresa. ¿Qué proporción de deuda debe atribuir al laboratorio para valuarlo?",
+      "opciones": [
+        "La que el laboratorio aporta a la capacidad de deuda de largo plazo",
+        "0%, porque investigar nunca puede respaldar deuda",
+        "100%, porque coincide con el desembolso bancario",
+        "El porcentaje que haga positivo su VPN"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda atribuible depende del valor y de los riesgos que aporta la inversión. El préstamo total puede utilizar garantías y capacidad de otros activos. Separar ambas cosas evita asignar al proyecto ventajas que provienen del resto de la empresa.",
+        "No hay una regla universal de capacidad nula para toda investigación. Puede ser reducida o incierta, pero requiere análisis. Lo relevante es el respaldo económico del proyecto y la política elegida.",
+        "El banco puede estar prestando contra activos preexistentes. El origen inmediato del dinero no prueba que el laboratorio soporte toda la deuda. Debe estimarse su contribución incremental a la capacidad financiera.",
+        "Elegir una proporción por el resultado deseado invierte el razonamiento. Primero deben estimarse riesgo y política de financiamiento. El VPN se calcula después y puede resultar negativo."
+      ]
+    },
+    {
+      "id": "c20-q032",
+      "tema": "Costos financieros endógenos",
+      "dificultad": "intermedia",
+      "pregunta": "Un asesor propone bajar el WACC sustituyendo capital común por deuda o preferentes más baratas, sin cambiar ningún rendimiento requerido. ¿Cuál es el problema principal?",
+      "opciones": [
+        "La deuda tiene que costar siempre más que las acciones",
+        "Las preferentes siempre generan el mismo escudo que la deuda",
+        "El cambio redistribuye riesgo y puede elevar los costos de los títulos restantes",
+        "El WACC usa sólo valores contables"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La deuda suele tener menor riesgo y menor retorno esperado que el capital común. Eso no implica que reemplazar capital reduzca mecánicamente el costo total. Los rendimientos requeridos responden a la nueva distribución del riesgo.",
+        "Los dividendos preferentes no son automáticamente deducibles como intereses. Además, emitir preferentes puede aumentar el riesgo residual de las comunes. Deben revisarse tanto el tratamiento fiscal como los retornos requeridos.",
+        "Más deuda o títulos prioritarios dejan un reclamo común más riesgoso. Por eso rE puede subir, y a mayor apalancamiento también puede subir rD. Comparar costos aislados sin recalcularlos no demuestra una ganancia económica.",
+        "El WACC utiliza ponderaciones de mercado. El error del asesor persistiría aun con esos valores bien medidos. Mantener costos constantes ante una redistribución importante del riesgo es la falla central."
+      ]
+    },
+    {
+      "id": "c20-q033",
+      "tema": "Desapalancar el costo de capital",
+      "dificultad": "intermedia",
+      "pregunta": "Con rebalanceo continuo, D/V = 25%, rD = 4% y rE = 12%. ¿Cuál es el costo de oportunidad de los activos r?",
+      "opciones": [
+        "8%",
+        "9%",
+        "12%",
+        "10%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 8% no resulta de las ponderaciones dadas. Deben usarse 25% para deuda y 75% para capital. Sus aportes son 1 y 9 puntos porcentuales, respectivamente.",
+        "Este valor puede surgir de aplicar una reducción fiscal al promedio. Al desapalancar con la fórmula indicada no se busca el WACC después de impuestos. Se busca el retorno requerido por el riesgo operativo de los activos.",
+        "El 12% corresponde al capital propio apalancado. Ese reclamo contiene riesgo financiero además del riesgo de negocio. La ponderación conjunta con deuda elimina esa concentración del riesgo.",
+        "Se usa el promedio sin ajuste tributario: r = rD D/V + rE E/V. Entonces r = 4% × 0,25 + 12% × 0,75 = 10%. Este costo corresponde al riesgo de negocio bajo el supuesto de rebalanceo continuo."
+      ]
+    },
+    {
+      "id": "c20-q034",
+      "tema": "Reapalancar el costo del capital",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo rebalanceo continuo, r = 10%, rD = 6% y la nueva D/V será 50%. ¿Cuál será rE?",
+      "opciones": [
+        "12%",
+        "14%",
+        "16%",
+        "10%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este resultado usa D/V = 0,5 como si fuera D/E. La fórmula requiere D/E = 0,5/0,5 = 1. El premio financiero es así de 4 puntos, no de 2.",
+        "El capital representa el otro 50%, por lo que D/E = 1. La fórmula da rE = r + (r − rD)D/E. Sustituyendo, rE = 10% + (10% − 6%) × 1 = 14%.",
+        "Sumar directamente rD a r produciría 16%. La compensación financiera depende de la diferencia r − rD y de D/E. Con los datos indicados el incremento es 4%, no 6%.",
+        "El 10% remunera el riesgo del negocio sin apalancamiento. Al introducir deuda el capital propio absorbe mayor riesgo residual. Su rendimiento requerido aumenta a 14%."
+      ]
+    },
+    {
+      "id": "c20-q035",
+      "tema": "WACC luego del cambio de deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa mantendrá r = 10% y rebalanceo continuo. Su nueva D/V será 50%, rD = 6% y Tc = 25%. Tras recalcular rE = 14%, ¿cuál será el nuevo WACC?",
+      "opciones": [
+        "9,25%",
+        "8,50%",
+        "10,00%",
+        "7,00%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El aporte de la deuda es 6% × 0,75 × 0,50 = 2,25%. El del capital es 14% × 0,50 = 7%. Sumando ambos se obtiene 9,25%.",
+        "El 8,50% exagera el ahorro fiscal para esta proporción de deuda. El impuesto ahorra 25% de los intereses de la mitad financiada con deuda. Esa ventaja reduce 10% en 0,75 puntos, no en 1,50.",
+        "El 10% es el costo de oportunidad de los activos antes del beneficio tributario. El WACC después de impuestos debe reconocer intereses deducibles. La reducción es Tc × rD × D/V = 0,75 puntos porcentuales.",
+        "El 7% corresponde únicamente al capital ponderado. Los acreedores siguen exigiendo remuneración aun después de impuestos. Debe sumarse su aporte neto de 2,25%."
+      ]
+    },
+    {
+      "id": "c20-q036",
+      "tema": "Beta de activos",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo rebalanceo continuo, betaD = 0,2, betaE = 1,4 y D/V = 25%. ¿Cuál es betaA?",
+      "opciones": [
+        "1,1",
+        "0,9",
+        "1,2",
+        "1,4"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La beta de un portafolio con todos los títulos revela el riesgo del negocio. BetaA = 0,2 × 0,25 + 1,4 × 0,75. El resultado es 0,05 + 1,05 = 1,1.",
+        "El 0,9 no corresponde al promedio ponderado de los datos. El capital pesa 75% y aporta 1,05 de beta. Sólo ese componente ya supera 0,9.",
+        "Tomar betaE menos betaD da 1,2 pero no es la fórmula. La beta de activos es una media de riesgos de los títulos. Se ponderan 0,2 por 25% y 1,4 por 75%.",
+        "La beta accionaria incluye riesgo financiero. No equivale a la beta de todos los activos cuando hay deuda. Debe combinarse con la beta de deuda usando pesos de mercado."
+      ]
+    },
+    {
+      "id": "c20-q037",
+      "tema": "Reapalancamiento de beta y CAPM",
+      "dificultad": "avanzada",
+      "pregunta": "Con rebalanceo continuo, betaA = 0,8, betaD = 0,2 y D/E = 1. La tasa libre de riesgo es 3% y la prima de mercado 5%. ¿Cuál es rE según CAPM?",
+      "opciones": [
+        "7%",
+        "10%",
+        "8%",
+        "12%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 7% usa directamente betaA en CAPM. Eso obtiene el costo del negocio sin apalancamiento, no el del capital con D/E = 1. Primero debe recalcularse betaE.",
+        "Primero betaE = 0,8 + (0,8 − 0,2) × 1 = 1,4. Luego CAPM da rE = 3% + 1,4 × 5%. El resultado es 10%.",
+        "Este valor no aplica la beta accionaria de 1,4 a la prima de 5%. La prima requerida del capital es 7 puntos porcentuales. Sumada a la tasa libre de riesgo, produce 10%.",
+        "El 12% no surge de las relaciones proporcionadas. No debe sumarse la beta como si fuera una tasa porcentual. La beta multiplica la prima de mercado dentro del CAPM."
+      ]
+    },
+    {
+      "id": "c20-q038",
+      "tema": "Rebalanceo de deuda",
+      "dificultad": "basica",
+      "pregunta": "La meta D/V es 30%. Si el valor de la empresa pasa de $1.000 a $1.200 y la deuda inicial era $300, ¿qué ajuste mantiene la meta?",
+      "opciones": [
+        "Aumentar deuda en $60",
+        "Reducir deuda en $60",
+        "Mantener deuda en $300",
+        "Aumentar deuda en $200"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda objetivo pasa a 0,30 × 1.200 = 360. Frente a los 300 iniciales, debe aumentar en 60. Los fondos adicionales pueden distribuirse o destinarse a crecimiento según el contexto.",
+        "Reducir la deuda la alejaría de la proporción objetivo cuando crece el valor. El nuevo saldo objetivo es 30% de 1.200. Esa cifra es 360 y supera el saldo inicial.",
+        "Con deuda de 300 y valor de 1.200, D/V bajaría a 25%. Mantener el importe no equivale a mantener la proporción. El rebalanceo exige ajustar el saldo a 360.",
+        "El aumento total del valor no debe financiarse íntegramente con deuda. Sólo el 30% del aumento corresponde al objetivo de endeudamiento. Por eso el ajuste es 60 y no 200."
+      ]
+    },
+    {
+      "id": "c20-q039",
+      "tema": "Riesgo de los escudos fiscales",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué, con rebalanceo continuo a D/V constante, el riesgo de los ahorros fiscales acompaña al del negocio?",
+      "opciones": [
+        "Porque la tasa corporativa se vuelve cero",
+        "Porque la deuda y los intereses futuros varían con el valor del negocio",
+        "Porque todos los acreedores reciben acciones",
+        "Porque los intereses futuros están fijados para siempre en pesos"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa fiscal no desaparece al rebalancear. La variabilidad surge de la base de deuda sobre la que se pagan intereses. Los ahorros fiscales cambian cuando cambia esa deuda.",
+        "Un aumento del valor lleva a aumentar deuda para sostener D/V. Eso eleva intereses y escudos futuros; una caída produce el movimiento contrario. Bajo rebalanceo continuo, esa dependencia justifica vincular el riesgo del escudo con el de los activos.",
+        "No hace falta convertir deuda en acciones para mantener una proporción objetivo. La empresa puede emitir o amortizar deuda. El vínculo relevante es entre su saldo y el valor del negocio.",
+        "Eso describe una política de deuda fija, distinta de la planteada. Con D/V constante el saldo monetario debe adaptarse al valor. Por eso los escudos futuros no son importes fijos garantizados."
+      ]
+    },
+    {
+      "id": "c20-q040",
+      "tema": "Frecuencia de rebalanceo",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué diferencia importa al pasar de rebalanceo continuo a anual?",
+      "opciones": [
+        "El WACC deja de poder usarse en cualquier caso",
+        "La deuda anual se convierte en capital contable",
+        "El escudo del próximo año queda ligado a la deuda ya fijada, y Miles-Ezzell ajusta esa temporalidad",
+        "Todos los escudos pasan a descontarse siempre a rA"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La fórmula básica del WACC puede usarse con una política periódica consistente. Lo que cambia es la relación exacta al desapalancar o calcular la tasa ajustada. No corresponde descartar todo el método.",
+        "La frecuencia de ajuste no cambia la naturaleza jurídica o económica de la deuda. Sigue siendo un reclamo de acreedores. Cambia cuándo se fija el saldo que determina intereses y escudos.",
+        "Con rebalanceo anual, la deuda actual determina el interés del período siguiente. Los niveles posteriores aún dependen del valor futuro. La fórmula de Miles-Ezzell distingue ese primer tramo y corrige la aproximación continua.",
+        "El escudo inmediato depende del saldo ya establecido. No tiene exactamente la misma exposición que un escudo futuro sujeto a nuevos rebalanceos. Tratar todos igual ignora esa distinción temporal."
+      ]
+    },
+    {
+      "id": "c20-q041",
+      "tema": "Fórmula de Miles-Ezzell",
+      "dificultad": "avanzada",
+      "pregunta": "Con rebalanceo anual, rA = 10%, rD = 5%, Tc = 20% y D/V = 40%. Usá rME = rA − (D/V)rD Tc(1 + rA)/(1 + rD). ¿Cuál es rME?",
+      "opciones": [
+        "9,600%",
+        "9,581% aproximadamente",
+        "8,000%",
+        "10,419% aproximadamente"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 9,600% usa el ajuste de rebalanceo continuo rA − LrD Tc. Omite el factor 1,10/1,05 propio de la fórmula indicada. La diferencia es pequeña pero refleja la temporalidad del escudo.",
+        "El ajuste es 0,40 × 0,05 × 0,20 × 1,10/1,05. Da aproximadamente 0,00419048, equivalente a 0,419048 puntos porcentuales. Restándolo de 10% se obtiene 9,580952%.",
+        "Este valor descuenta un beneficio tributario excesivo. La corrección depende también de la tasa de deuda y no sólo de Tc y D/V. El ajuste calculado es cercano a 0,419 puntos porcentuales.",
+        "Este resultado suma el ajuste en lugar de restarlo. El beneficio fiscal reduce la tasa ajustada respecto de rA en este modelo. Debe obtenerse una cifra algo menor que 10%."
+      ]
+    },
+    {
+      "id": "c20-q042",
+      "tema": "Deuda fija y fórmula MM",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuándo es exacta la tasa rMM = r(1 − Tc D/V)?",
+      "opciones": [
+        "Para cualquier empresa que cambia su deuda todos los días",
+        "Para flujos operativos nivelados perpetuos y deuda fija perpetua, bajo los supuestos fiscales del modelo",
+        "Para cualquier flujo finito sin conocer el plan de deuda",
+        "Sólo si la empresa no paga impuestos ni tiene deuda"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una política de deuda proporcional al valor exige otro tratamiento del escudo. El importe de deuda fluctúa y no es fijo. No corresponde aplicar automáticamente la fórmula de deuda perpetua fija.",
+        "La fórmula surge de sumar TcD al valor de una perpetuidad operativa sin deuda. Requiere deuda fija perpetua y utilización del beneficio fiscal según el modelo. No es una identidad general para cualquier calendario de flujos.",
+        "Los flujos finitos pueden usar esa tasa como aproximación en ciertos contextos. Pero la exactitud requiere los supuestos particulares de perpetuidad nivelada y deuda fija. Sin política de deuda no puede justificarse la tasa.",
+        "Con deuda o impuestos nulos la fórmula se reduce a r. Eso es un caso trivial, pero no su único ámbito de validez. El modelo permite impuestos positivos y deuda fija perpetua."
+      ]
+    },
+    {
+      "id": "c20-q043",
+      "tema": "Cálculo con deuda fija perpetua",
+      "dificultad": "intermedia",
+      "pregunta": "Un negocio genera $20 anuales perpetuos después de impuestos operativos. r = 10%, la deuda fija perpetua es $80 y Tc = 25%; el escudo es plenamente utilizable y se descuenta a rD. ¿Cuál es el valor total?",
+      "opciones": [
+        "$220",
+        "$300",
+        "$200",
+        "$120"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor sin deuda es 20/0,10 = 200. El escudo perpetuo vale Tc × D = 0,25 × 80 = 20. Por lo tanto, el valor total es 220.",
+        "El principal de 80 no se agrega como beneficio económico independiente. Obtener deuda trae una obligación de valor equivalente. La ganancia financiera del modelo es el escudo de 20.",
+        "El 200 es únicamente el valor sin deuda: 20/0,10. Falta el valor presente del escudo de la deuda fija. Con estos supuestos, ese escudo vale TcD = 20.",
+        "Restar deuda al valor sin deuda mezcla el valor total con el valor accionario. Primero hay que sumar el escudo para obtener 220. Si se pidiera capital propio, luego se restarían los 80."
+      ]
+    },
+    {
+      "id": "c20-q044",
+      "tema": "Betas con deuda fija",
+      "dificultad": "avanzada",
+      "pregunta": "Para deuda fija perpetua, betaA = 0,8, betaD = 0,2, Tc = 25% y D/E = 1. Usando betaE = betaA + (1 − Tc)(betaA − betaD)D/E, ¿cuál es betaE?",
+      "opciones": [
+        "1,40",
+        "0,80",
+        "1,00",
+        "1,25"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 1,40 corresponde a la expresión sin el factor fiscal. Esa relación se asocia aquí al supuesto de rebalanceo continuo. Para la deuda fija del enunciado hay que multiplicar el incremento por 0,75.",
+        "El 0,80 es la beta de activos antes de concentrar riesgo en el capital. Con deuda, el capital residual soporta riesgo financiero adicional. La fórmula incrementa esa beta en 0,45.",
+        "El 1,00 no se obtiene al sustituir los datos. La diferencia entre betaA y betaD es 0,60. Tras el ajuste fiscal y D/E = 1, el incremento es 0,45.",
+        "La diferencia de betas es 0,8 − 0,2 = 0,6. El incremento financiero es 0,75 × 0,6 × 1 = 0,45. Sumado a betaA da 1,25. La relación inversa es betaA = [betaD(1 − Tc)D/E + betaE]/[1 + (1 − Tc)D/E]."
+      ]
+    },
+    {
+      "id": "c20-q045",
+      "tema": "Límites económicos del WACC",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué una baja del WACC en un modelo que sólo incorpora escudos fiscales no demuestra que convenga endeudarse al máximo?",
+      "opciones": [
+        "Porque toda deuda reduce automáticamente los flujos operativos a cero",
+        "Porque el interés nunca es deducible",
+        "Porque el costo del capital propio siempre baja al endeudarse",
+        "Porque faltan posibles costos de insolvencia, incentivos, información e impuestos personales"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deuda no elimina necesariamente la capacidad operativa de generar efectivo. Puede, sin embargo, introducir riesgos y costos adicionales. Esos efectos deben evaluarse sin asumir una pérdida total automática.",
+        "La deducibilidad es precisamente la fuente del beneficio considerado. Negarla no explica los límites de ese modelo. La evaluación debe agregar otros costos y restricciones reales.",
+        "El riesgo financiero normalmente eleva el rendimiento requerido por los accionistas. No hay una reducción automática de rE. Ese cambio debe reconocerse junto con los demás efectos del apalancamiento.",
+        "El beneficio fiscal es sólo una parte del efecto del financiamiento. El endeudamiento puede introducir costos de dificultades financieras y otros efectos relevantes. Esos elementos pueden compensar ventajas fiscales y evitar un óptimo extremo."
+      ]
+    },
+    {
+      "id": "c20-q046",
+      "tema": "Estructura del VPA",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se calcula el VPA de un proyecto de inversión?",
+      "opciones": [
+        "Descontando todo al costo de la deuda y restando capital propio",
+        "Sumando al VPN sin deuda los valores presentes de beneficios y costos financieros pertinentes",
+        "Sumando el préstamo recibido al ingreso operativo sin registrar repago",
+        "Descontando al WACC y agregando otra vez todos los escudos"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa de deuda no representa el riesgo de todas las operaciones. El caso base se descuenta al costo de oportunidad de los activos. Luego cada efecto financiero recibe un tratamiento acorde con sus características.",
+        "El caso base se calcula como si el proyecto estuviera financiado íntegramente con capital propio. Sus flujos operativos se descuentan a r y se resta la inversión. Luego se suman beneficios y se restan costos financieros en valor presente.",
+        "Un préstamo de mercado trae fondos y obligaciones de igual valor. Contar sólo el desembolso recibido inventa una ganancia. El VPA incluye ventajas o costos incrementales, no el principal como ingreso gratuito.",
+        "El WACC ya recoge el escudo fiscal bajo sus supuestos. Agregarlo otra vez lo duplica. El VPA parte de una valuación sin ese beneficio y lo incorpora de manera explícita."
+      ]
+    },
+    {
+      "id": "c20-q047",
+      "tema": "VPA con emisión y subsidio",
+      "dificultad": "intermedia",
+      "pregunta": "El VPN sin deuda es −$10. El VP de escudos es $16, los costos de emisión actuales son $3 y el VPN de un crédito subsidiado es $2. Sin otros efectos, ¿cuál es el VPA?",
+      "opciones": [
+        "$5",
+        "$11",
+        "$0",
+        "$8"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se parte del VPN operativo de −10. Se agregan 16 de escudos y 2 de subsidio, y se restan 3 de emisión. Así VPA = −10 + 16 − 3 + 2 = 5, por lo que el conjunto crea valor bajo estos supuestos.",
+        "El 11 suma los costos de emisión en vez de restarlos. Esos costos consumen recursos para conseguir financiamiento. La cuenta correcta incluye −3 y no +3.",
+        "El hecho de que el caso base sea negativo no fija el VPA en cero. Los efectos financieros pueden compensarlo y generar un excedente. Hay que sumar todos los valores presentes con sus signos.",
+        "El 8 omite el costo de emisión de 3. Aunque ese costo no provenga de las operaciones, reduce la contribución total al valor. El VPA debe incorporarlo."
+      ]
+    },
+    {
+      "id": "c20-q048",
+      "tema": "Costo de emisión y alternativa financiera",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene VPN operativo positivo, pero sus costos de emisión hacen negativo el VPA. ¿Qué decisión corresponde analizar?",
+      "opciones": [
+        "Elevar permanentemente rE en tantos puntos como el porcentaje de emisión",
+        "Aceptar siempre porque el VPN operativo es positivo",
+        "Excluir el costo porque se paga una sola vez",
+        "Buscar un financiamiento alternativo y reevaluar el VPA antes de decidir"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un porcentaje de costo inicial no equivale a una prima anual de rentabilidad. Sumarlos cambia arbitrariamente la dimensión temporal del costo. Debe restarse el costo monetario en su fecha o usar una equivalencia correctamente calculada.",
+        "El VPN operativo no incluye todos los costos relevantes del paquete. Si el VPA final es negativo, la alternativa propuesta destruye valor. Puede buscarse otra forma de financiar antes de rechazar la oportunidad operativa.",
+        "Que un pago sea único no lo vuelve irrelevante. Un costo incremental actual reduce el valor peso por peso. Debe incluirse y compararse con los beneficios del proyecto.",
+        "El desglose del VPA muestra que la operación genera valor pero la financiación lo consume. Esa información permite explorar una alternativa de menor costo. La aceptación requiere un VPA final positivo para la alternativa realmente disponible."
+      ]
+    },
+    {
+      "id": "c20-q049",
+      "tema": "Escudo fiscal anual",
+      "dificultad": "basica",
+      "pregunta": "Una deuda de $500 permanece vigente todo el año a una tasa de 8%. La tasa marginal corporativa es 30% y hay utilidad gravable suficiente. ¿Cuál es el ahorro fiscal anual por intereses?",
+      "opciones": [
+        "$40",
+        "$150",
+        "$28",
+        "$12"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 40 son los intereses brutos: 500 × 8%. La deducción no implica recuperar todo ese importe. Sólo ahorra el impuesto asociado a esos intereses.",
+        "Los 150 son el 30% del principal. El principal no es el gasto deducible en este cálculo. El escudo se aplica a los intereses de 40.",
+        "Los 28 representan el interés neto de impuestos. Se obtienen restando el ahorro de 12 al pago bruto de 40. La pregunta pide el ahorro tributario y no el costo residual.",
+        "El interés anual es 500 × 0,08 = 40. La deducción reduce impuestos en 40 × 0,30 = 12. Ese es el escudo, separado del costo financiero neto de 28."
+      ]
+    },
+    {
+      "id": "c20-q050",
+      "tema": "Riesgo del escudo con deuda fija",
+      "dificultad": "avanzada",
+      "pregunta": "En un VPA se descuenta el escudo de deuda fija a rD. ¿Qué supuesto debe sostenerse?",
+      "opciones": [
+        "Que cualquier empresa aprovechará siempre todas las deducciones",
+        "Que rD equivale necesariamente a la tasa libre de riesgo",
+        "Que la deuda permanecerá proporcional al valor por rebalanceo continuo",
+        "Que el escudo tiene el mismo riesgo que la deuda y puede utilizarse fiscalmente"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una empresa con pérdidas puede no aprovechar inmediatamente la deducción. La deuda fija no garantiza capacidad tributaria. Es necesario evaluar disponibilidad y riesgo del beneficio.",
+        "La deuda puede tener riesgo de impago. Por eso rD no es necesariamente una tasa libre de riesgo. El criterio es igualar el riesgo del escudo al de la deuda, no declarar que ambos son seguros.",
+        "El rebalanceo continuo liga la deuda futura al valor del negocio. En ese modelo el riesgo del escudo acompaña al de los activos. Es una política distinta de la deuda fija del enunciado.",
+        "La elección de la tasa debe responder al riesgo del beneficio fiscal. El supuesto habitual para deuda fija es que su escudo comparte el riesgo de la deuda. Si la deducción es incierta por falta de utilidades, corresponde revisar esa simplificación."
+      ]
+    },
+    {
+      "id": "c20-q051",
+      "tema": "VPA con amortización programada",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto cuesta $100 y genera $66 al final de cada uno de dos años. r = 10%; se toman $40 de deuda al 5% y se amortizan $20 al final de cada año. Con Tc = 20%, escudos utilizables descontados al 5% y sin otros efectos, ¿cuál es el VPA?",
+      "opciones": [
+        "$15,11 aproximadamente",
+        "$14,93 aproximadamente",
+        "$14,55 aproximadamente",
+        "$54,55 aproximadamente"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El VPN base es −100 + 66/1,10 + 66/1,10² = 14,5455. Los escudos son 40 × 5% × 20% = 0,4 y 20 × 5% × 20% = 0,2. Su VP es 0,4/1,05 + 0,2/1,05² = 0,5624, y el VPA resulta aproximadamente 15,11.",
+        "Este valor agrega al VPN base solamente el escudo del primer año: 14,5455 + 0,4/1,05 ≈ 14,93. Sin embargo, en el segundo año todavía queda deuda de 20 y se pagan intereses. También debe sumarse el VP del escudo de 0,2 de ese año.",
+        "El 14,55 es aproximadamente el VPN sin deuda. Omite el beneficio fiscal de los intereses de ambos años. El VPA debe agregar el VP de esos ahorros.",
+        "Este valor trata el préstamo recibido como creación de riqueza adicional. El principal obliga a devolver fondos y no es un beneficio gratuito. En el VPA se agrega el escudo incremental, no los 40 prestados."
+      ]
+    },
+    {
+      "id": "c20-q052",
+      "tema": "Escudo perpetuo fijo y proporcional",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene deuda inicial de $100, rD = 6%, Tc = 25% y r = 10%. Compará deuda fija perpetua con deuda rebalanceada continuamente, suponiendo escudo anual esperado constante de $1,50. ¿Cuánto vale el escudo en cada caso?",
+      "opciones": [
+        "$15 fijo y $25 rebalanceado",
+        "$25 en ambos casos",
+        "$25 fijo y $15 rebalanceado",
+        "$6 fijo y $10 rebalanceado"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta alternativa invierte las tasas de descuento. Para deuda fija se usa aquí rD = 6%, y para rebalanceo continuo r = 10%. Un mismo flujo esperado vale más a la tasa menor.",
+        "El 25 es correcto sólo para la deuda fija bajo los supuestos indicados. Con rebalanceo, los escudos futuros dependen del negocio y tienen otro riesgo. Por eso se descuentan al 10%.",
+        "El escudo anual es 100 × 0,06 × 0,25 = 1,50. Con deuda fija su VP es 1,50/0,06 = 25. Con deuda rebalanceada es 1,50/0,10 = 15, dada la trayectoria esperada especificada.",
+        "Las tasas de interés no son valores presentes monetarios. Debe dividirse el flujo anual esperado por la tasa apropiada de cada política. Multiplicar o trasladar porcentajes no valúa la perpetuidad."
+      ]
+    },
+    {
+      "id": "c20-q053",
+      "tema": "Deuda fija y riesgo para otros activos",
+      "dificultad": "avanzada",
+      "pregunta": "El VPA aumenta al reemplazar deuda rebalanceada por deuda fija. ¿Por qué eso no prueba que la segunda política sea siempre superior para los accionistas?",
+      "opciones": [
+        "Porque toda deuda fija tiene escudo nulo",
+        "Porque la deuda fija elimina las obligaciones contractuales",
+        "Porque el compromiso fijo puede cargar pérdidas y riesgos sobre otros activos y generar costos adicionales",
+        "Porque el flujo operativo se duplica al rebalancear"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La deuda fija puede generar escudos valiosos. El problema no es negar su existencia. Hay que comparar también las consecuencias económicas del compromiso fijo.",
+        "Una deuda fija mantiene la obligación aun si el proyecto pierde valor. No la elimina. Esa rigidez puede trasladar presión financiera al resto de la empresa.",
+        "Un escudo de mayor valor puede coexistir con mayor exposición financiera. Si el proyecto falla, otros activos pueden tener que sostener la deuda fija. El análisis completo debe incorporar costos de dificultades financieras y el verdadero respaldo de la deuda.",
+        "El rebalanceo no duplica mecánicamente la producción de efectivo. Cambia la política financiera y la distribución del riesgo. Los flujos operativos deben proyectarse por sus propios fundamentos."
+      ]
+    },
+    {
+      "id": "c20-q054",
+      "tema": "VPA empresarial y horizonte",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa fija su deuda hasta H y desde H vuelve a una razón objetivo estable. ¿Cómo se evita duplicar escudos en una valuación por tramos?",
+      "opciones": [
+        "Agregar al terminal al WACC todos los escudos posteriores a H otra vez",
+        "Valuar la continuación en H con una tasa consistente y agregar separadamente sólo los escudos previos a H",
+        "Descontar a rD todos los flujos operativos porque hay deuda fija",
+        "Omitir el terminal porque la política financiera cambia"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El terminal al WACC ya reconoce el beneficio fiscal posterior al horizonte. Agregar otra perpetuidad de esos escudos lo contaría dos veces. Hay que separar cuidadosamente los períodos incluidos en cada componente.",
+        "La continuación calculada al WACC ya incorpora los escudos de su política futura. Los escudos del tramo previo se estiman por separado conforme al calendario fijo. También deben mantenerse coherentes las tasas que trasladan los componentes desde H hasta hoy.",
+        "La existencia de deuda fija no vuelve equivalentes a deuda los flujos operativos. El caso base conserva el riesgo del negocio. Los efectos financieros reciben su tratamiento por separado.",
+        "Un cambio de política no elimina la vida posterior de la empresa. El terminal debe reflejar esa continuación bajo la nueva política. El VPA permite combinar tramos de financiamiento diferentes."
+      ]
+    },
+    {
+      "id": "c20-q055",
+      "tema": "Adquisiciones apalancadas",
+      "dificultad": "intermedia",
+      "pregunta": "Una compra apalancada planea vender activos, mejorar márgenes y usar el efectivo para amortizar deuda rápidamente. ¿Qué enfoque facilita su valuación?",
+      "opciones": [
+        "WACC inicial constante sin revisar D/V",
+        "Valor contable inicial más toda la deuda nueva",
+        "Costo de deuda aplicado a todos los ingresos brutos",
+        "VPA con operación sin deuda y escudos del calendario de amortización"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deuda inicial elevada no permanece necesariamente como proporción constante del valor. Usar su WACC para todos los años puede distorsionar la valuación. Hay que reflejar el desapalancamiento previsto.",
+        "La contabilidad no reemplaza la estimación de flujos futuros. La deuda nueva genera obligaciones y no se suma gratuitamente al valor. La mejora operativa y los efectos financieros deben valuarse de manera consistente.",
+        "Los ingresos brutos omiten costos, impuestos e inversiones. Además, la tasa de deuda no representa necesariamente el riesgo operativo. No se obtiene así el valor económico del negocio.",
+        "El VPA permite proyectar la operación independientemente del plan de deuda. Luego incorpora los escudos asociados a los saldos esperados de cada período. También admite costos de emisión y otros efectos de la adquisición."
+      ]
+    },
+    {
+      "id": "c20-q056",
+      "tema": "VPA comprimido",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué caracteriza a un VPA comprimido que descuenta todos los flujos, incluidos escudos, al costo de oportunidad de los activos?",
+      "opciones": [
+        "Supone que todos los proyectos carecen de riesgo",
+        "Simplifica las tasas, pero exige reconocer que los escudos pueden tener un riesgo distinto",
+        "Usa exclusivamente el costo de la deuda",
+        "Elimina del análisis todos los efectos financieros"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Descontar al costo de activos no equivale a usar una tasa libre de riesgo. Ese costo incorpora el riesgo del negocio. La simplificación consiste en aplicar la misma tasa a componentes que pueden tener riesgos diferentes.",
+        "El enfoque reúne componentes operativos y fiscales bajo una tasa común. Puede ser una aproximación útil, pero su consistencia depende del riesgo atribuido a los escudos. El VPA desagregado permite asignar tasas distintas cuando corresponde.",
+        "El enfoque descrito emplea el costo de oportunidad operativo. No usa exclusivamente rD. Confundir ambas tasas borra la distinción entre riesgo de negocio y financiero.",
+        "Los escudos siguen presentes dentro de los flujos valorados. No se eliminan por aplicarles una tasa común. Lo que se simplifica es la separación de tasas, no la existencia del beneficio financiero."
+      ]
+    },
+    {
+      "id": "c20-q057",
+      "tema": "Financiamiento internacional",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto internacional combina deuda amortizable, crédito subsidiado y arrendamiento favorable. ¿Qué ventaja ofrece el VPA?",
+      "opciones": [
+        "Permite ignorar la moneda de los flujos",
+        "Garantiza que el proyecto será rentable",
+        "Permite valuar separadamente cada efecto financiero y sumarlo al caso base",
+        "Evita proyectar inversiones y costos operativos"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La moneda y las tasas deben ser coherentes también en el VPA. Separar componentes no permite mezclar flujos nominales de monedas distintas. Cada efecto necesita una valuación consistente.",
+        "Un método de valuación no garantiza creación de valor. Los costos y riesgos pueden superar los beneficios. El resultado debe calcularse antes de decidir.",
+        "Cada contrato puede tener plazos, riesgos y efectos fiscales propios. El VPA hace visibles esos componentes sin forzarlos a una sola proporción de deuda. Sus valores presentes se agregan o restan al caso base.",
+        "El caso base requiere proyectar la operación completa. Eso incluye inversiones, costos e impuestos operativos. El VPA agrega flexibilidad financiera sobre ese análisis, no lo sustituye."
+      ]
+    },
+    {
+      "id": "c20-q058",
+      "tema": "Garantía de precio mínimo",
+      "dificultad": "intermedia",
+      "pregunta": "Un cliente garantiza comprar parte de la producción a un precio mínimo. El flujo base se proyectó a precios de mercado sin garantía. ¿Cómo debe tratarse el contrato?",
+      "opciones": [
+        "Agregar el total de ventas garantizadas como ganancia neta",
+        "Sumar el precio mínimo a todos los precios de mercado",
+        "Omitirlo porque no es un préstamo",
+        "Valuar el beneficio contingente de la garantía y agregarlo una sola vez"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las ventas incluyen contraprestaciones y costos de producir. No equivalen a una ganancia adicional íntegra. Hay que valuar sólo la protección o mejora incremental que aporta la garantía.",
+        "El contrato fija un piso y no un suplemento permanente sobre el precio. Cuando el mercado supera el piso puede no generar pago adicional alguno. El valor depende de los escenarios en que la protección se activa.",
+        "Un efecto contractual puede crear valor aunque no sea deuda. El VPA admite beneficios y costos pertinentes de contratos vinculados al proyecto. Lo relevante es su contribución incremental.",
+        "La garantía protege frente a escenarios de precio bajo y tiene valor contingente. Ese beneficio no estaba incorporado en el flujo base definido. Puede valuarse por separado y agregarse, evitando duplicarlo si luego se cambian las proyecciones."
+      ]
+    },
+    {
+      "id": "c20-q059",
+      "tema": "Fondos inmovilizados sin interés",
+      "dificultad": "intermedia",
+      "pregunta": "Un país exige inmovilizar $100 hoy en una cuenta sin interés y devuelve los $100 dentro de dos años con certeza. La tasa de oportunidad apropiada para ese flujo seguro, ya neta de impuestos, es 10%. ¿Qué costo presente se resta al VPA?",
+      "opciones": [
+        "$17,36 aproximadamente",
+        "$0",
+        "$20",
+        "$100"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El VP de la devolución es 100/1,10² = 82,6446. La inmovilización exige 100 hoy y recupera un valor actual de 82,6446. El costo presente es 17,3554, que se resta al VPA.",
+        "Recibir el mismo importe después no equivale a disponer de él hoy. Durante dos años se pierde la rentabilidad alternativa. El costo es la diferencia entre el depósito y el VP de su devolución.",
+        "El 20 calcula interés simple de dos años sobre 100. El costo presente requiere descontar la recuperación, no sumar intereses sin actualizar. La diferencia correcta es 100 − 100/1,10².",
+        "Los 100 no se pierden definitivamente porque se devuelven. Restarlos sin reconocer la recuperación exagera el costo. Sólo se pierde su valor temporal durante el plazo de inmovilización."
+      ]
+    },
+    {
+      "id": "c20-q060",
+      "tema": "Impuestos personales y tasa corporativa",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué tratamiento tributario es coherente con los enfoques del capítulo?",
+      "opciones": [
+        "Reemplazar siempre Tc por la tasa personal más alta en el WACC",
+        "Sumar tasas personales y corporativas sin considerar los tipos de renta",
+        "Aplicar únicamente la tasa efectiva promedio histórica de la empresa",
+        "Usar Tc marginal corporativa en el WACC; en VPA puede estimarse una ventaja fiscal neta que incorpore impuestos personales"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El WACC estándar ajusta el interés por impuestos corporativos. Una tasa personal aislada no representa esa deducción. Los efectos personales requieren analizar la ventaja neta relativa entre tipos de renta.",
+        "Las tasas no se suman mecánicamente. Importa cómo se gravan intereses y rendimientos accionarios y cómo interactúan con el impuesto corporativo. Una suma puede exagerar o distorsionar el beneficio.",
+        "La tasa promedio histórica mezcla situaciones que pueden no reflejar el ahorro incremental. Para el escudo interesa el efecto marginal de un peso adicional de interés. La capacidad futura de usar la deducción también importa.",
+        "El WACC estándar utiliza la tasa marginal corporativa sobre intereses. En un VPA más amplio puede estimarse la ventaja neta combinada de impuestos corporativos y personales. Esa estimación es difícil y puede ser menor que Tc."
+      ]
+    },
+    {
+      "id": "c20-q061",
+      "tema": "Capacidad de deuda",
+      "dificultad": "basica",
+      "pregunta": "En estas valuaciones, ¿qué significa que un proyecto tiene cierta capacidad de deuda?",
+      "opciones": [
+        "Que existe un límite legal universal igual a esa cifra",
+        "Que la política financiera atribuye al proyecto cierto respaldo de endeudamiento",
+        "Que la inversión inicial determina automáticamente la deuda admisible",
+        "Que el banco entregará ese monto sin evaluar garantías"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La expresión no define por sí sola un máximo legal. Describe cuánto endeudamiento se elige respaldar con el proyecto o negocio. Los límites contractuales pueden existir, pero son otro asunto.",
+        "La capacidad se refiere al endeudamiento que se atribuye económicamente al proyecto bajo una política dada. No debe confundirse con el préstamo usado para pagar su inversión inicial. Tampoco implica un límite absoluto e inmutable de crédito.",
+        "Dos proyectos con igual costo pueden tener riesgos y valores muy distintos. Por eso no necesariamente respaldan la misma deuda. La estimación debe considerar el negocio y la política financiera.",
+        "La evaluación crediticia sigue siendo necesaria. Un banco puede prestar contra otras garantías de la empresa. El monto efectivamente obtenido no demuestra por sí solo la capacidad incremental del proyecto."
+      ]
+    },
+    {
+      "id": "c20-q062",
+      "tema": "Flujos seguros nominales",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa que puede aprovechar deducciones valúa un pago contractual seguro en moneda nominal. Si las tasas de prestar y tomar prestado son comparables, ¿qué tasa corresponde al flujo después de impuestos?",
+      "opciones": [
+        "El WACC de todas sus operaciones riesgosas",
+        "La tasa de interés pertinente después de impuestos",
+        "La tasa de crecimiento de sus ventas",
+        "La suma de inflación y rendimiento accionario"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El WACC corporativo puede incluir una prima por riesgo operativo que este pago no tiene. Aplicarlo indiscriminadamente mezcla riesgos distintos. El flujo seguro requiere una referencia equivalente a deuda.",
+        "Un flujo equivalente a deuda tiene un costo de oportunidad comparable al de prestar o tomar prestado. Para la empresa gravada, ese costo se expresa después de impuestos. La tasa y el flujo deben conservar la misma moneda, plazo y tratamiento tributario.",
+        "El crecimiento de ventas describe la evolución de una actividad. No mide la rentabilidad alternativa de un flujo contractual seguro. Debe usarse una tasa financiera consistente con su riesgo y plazo.",
+        "El rendimiento accionario suele contener prima por riesgo y ya puede ser nominal. Sumarle inflación puede duplicar componentes. La tasa pertinente es la de una alternativa equivalente a deuda después de impuestos."
+      ]
+    },
+    {
+      "id": "c20-q063",
+      "tema": "Cobro contractual gravado",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa cobrará con certeza $140 dentro de un año, gravados al 25%. La tasa pertinente antes de impuestos es 8% y puede prestar o endeudarse a esa tasa. ¿Cuál es el VP del cobro neto según el enfoque de flujos equivalentes a deuda?",
+      "opciones": [
+        "$129,63 aproximadamente",
+        "$105",
+        "$97,22 aproximadamente",
+        "$99,06 aproximadamente"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe divide el cobro bruto de 140 por 1,08. Omite que sólo quedan 105 después del impuesto. También falta ajustar el costo de oportunidad al tratamiento tributario indicado.",
+        "Los 105 son el cobro neto futuro. Todavía no están expresados en valor actual. Deben descontarse un año al 6%.",
+        "El 97,22 descuenta 105 a la tasa antes de impuestos de 8%. En este enfoque, la alternativa de prestar o endeudarse también tiene consecuencias tributarias. El descuento consistente utiliza 6%.",
+        "El cobro neto es 140 × 0,75 = 105. La tasa después de impuestos es 8% × 0,75 = 6%. Por eso VP = 105/1,06 = 99,0566."
+      ]
+    },
+    {
+      "id": "c20-q064",
+      "tema": "Crédito subsidiado y préstamo equivalente",
+      "dificultad": "avanzada",
+      "pregunta": "Un proveedor presta $100 hoy y exige $104 dentro de un año, incluidos intereses deducibles de $4. Tc = 25% y el crédito normal comparable cuesta 8% antes de impuestos. ¿Cuál es el VPN del préstamo subsidiado?",
+      "opciones": [
+        "$4,63 aproximadamente",
+        "$6,00",
+        "$2,83 aproximadamente",
+        "−$3,00"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado descuenta los 103 netos al 8% antes de impuestos. Mezcla el flujo después de impuestos con un costo de oportunidad bruto. La tasa normal neta es 6%.",
+        "Los 6 son el interés normal neto sobre un principal de 100. El beneficio depende de la diferencia de condiciones y de su fecha. Hay que valorar el servicio subsidiado por equivalencia con crédito normal.",
+        "El interés neto es 4 × 0,75 = 3, así que el pago neto es 103. La tasa normal neta es 8% × 0,75 = 6%, y el préstamo equivalente es 103/1,06 = 97,1698. Recibir 100 en vez de 97,1698 crea un VPN de 2,8302.",
+        "El −3 sólo refleja el interés neto pagado sin considerar el valor de recibir fondos hoy. Un crédito a precio de mercado tiene VPN cero aunque pague intereses. La comparación correcta usa el crédito normal equivalente."
+      ]
+    },
+    {
+      "id": "c20-q065",
+      "tema": "Neutralización de una obligación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué significa calcular el préstamo equivalente a un flujo seguro de servicio de deuda?",
+      "opciones": [
+        "Buscar una inversión accionaria que prometa el mismo promedio",
+        "Omitir el principal y descontar sólo intereses",
+        "Igualar el flujo futuro a la utilidad contable",
+        "Calcular cuánto podría obtenerse hoy en condiciones normales usando ese flujo para cancelar capital e interés neto"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una inversión accionaria con igual media no reproduce un pago seguro. Puede fallar justo cuando hay que cumplir la obligación. La equivalencia exige riesgo y calendario comparables.",
+        "El servicio de deuda incluye la devolución del principal. Omitirlo subestima el compromiso. El préstamo equivalente se determina con todo el flujo disponible para cancelar la obligación.",
+        "La utilidad contable puede contener cargos sin efectivo y no mide capacidad puntual de pago. La equivalencia se basa en flujos efectivos. También requiere una tasa consistente con sus impuestos y riesgo.",
+        "El cálculo identifica el principal normal cuyo repago neto coincide con el flujo futuro. Puede interpretarse también como el dinero que habría que reservar e invertir hoy para cubrirlo. Esa equivalencia explica el descuento a una tasa después de impuestos."
+      ]
+    },
+    {
+      "id": "c20-q066",
+      "tema": "Arrendamiento y período cero",
+      "dificultad": "avanzada",
+      "pregunta": "Un contrato no cancelable exige tres pagos de $40 en t = 0, 1 y 2, todos deducibles. Tc = 25% y la tasa pertinente de deuda es 8% anual antes de impuestos. ¿Cuál es el VP del costo neto?",
+      "opciones": [
+        "$90,00",
+        "$80,19 aproximadamente",
+        "$113,33 aproximadamente",
+        "$85,00 aproximadamente"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 90 suma los tres pagos netos sin descuento. Sólo el primero ocurre hoy. Los dos posteriores deben actualizarse al 6%.",
+        "Este importe descuenta también el primer pago un año y desplaza todos los pagos. El contrato exige pagar 30 netos de inmediato. El período cero debe conservarse sin actualización.",
+        "Este importe aproxima el valor de pagos brutos descontados al 6%. Omite las deducciones fiscales que reducen cada pago a 30. Los flujos y la tasa deben estar ambos después de impuestos.",
+        "Cada pago cuesta 40 × 0,75 = 30 netos. La tasa de descuento es 8% × 0,75 = 6%, y el pago inicial no se descuenta. El VP es 30 + 30/1,06 + 30/1,06² = 85,0018."
+      ]
+    },
+    {
+      "id": "c20-q067",
+      "tema": "Ahorro fiscal de depreciación",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo permite deducciones fiscales de $60 al final del año 1 y $40 al final del año 2. Tc = 25%, la empresa pagará impuestos con certeza y rD = 8%. ¿Cuál es el VP de esos escudos, considerados por separado?",
+      "opciones": [
+        "$25,00",
+        "$22,46 aproximadamente",
+        "$23,05 aproximadamente",
+        "$100,00"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 25 son la suma nominal de los escudos: 15 + 10. Los beneficios ocurren en fechas futuras. Deben descontarse para obtener su valor presente.",
+        "Este resultado descuenta los escudos de 15 y 10 a la tasa bruta del 8%. Como se valúan flujos seguros nominales de una empresa gravada, la tasa pertinente en este enfoque es 8% × 0,75 = 6%. El uso de la tasa bruta subestima el VP y produce aproximadamente 22,46.",
+        "Los escudos son 60 × 0,25 = 15 y 40 × 0,25 = 10. Al ser seguros nominales, se descuentan a 8% × 0,75 = 6%. Su VP es 15/1,06 + 10/1,06² = 23,0509.",
+        "Los 100 son la base total deducible. Una deducción no equivale a recibir todo el gasto en efectivo. Su beneficio monetario es la deducción multiplicada por la tasa tributaria."
+      ]
+    },
+    {
+      "id": "c20-q068",
+      "tema": "Depreciación dentro del flujo agregado",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista ya incluyó los ahorros de depreciación en el flujo operativo después de impuestos y lo descontó con el riesgo agregado del proyecto. ¿Debe sumar además el VP separado de esos mismos escudos?",
+      "opciones": [
+        "Sí, porque la depreciación no consume efectivo",
+        "Sí, pero sólo si la tasa fiscal es positiva",
+        "No, porque las deducciones de depreciación no tienen valor económico",
+        "No; duplicaría un beneficio ya incluido, aunque su valuación aislada use una tasa distinta"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Que la depreciación no sea una salida actual explica su agregado al reconstruir efectivo. No autoriza a contar dos veces su efecto sobre impuestos. El flujo operativo ya refleja el ahorro especificado.",
+        "Una tasa positiva genera el beneficio, pero no justifica duplicarlo. La cuestión es si ese beneficio ya forma parte de la proyección. Aquí está incluido en los impuestos operativos.",
+        "Las deducciones pueden reducir pagos fiscales y tener valor. Negar ese efecto no es la razón para evitar la suma. La razón es que ya fue contabilizado en los flujos.",
+        "El agregado de flujos ya contiene esos menores impuestos. Su descuento conjunto usa una tasa que representa el riesgo del total modelado. Una descomposición alternativa exige reconstruir consistentemente los componentes, no sumar otra vez el mismo escudo."
+      ]
+    },
+    {
+      "id": "c20-q069",
+      "tema": "Congruencia entre WACC, VPA y deuda equivalente",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué el descuento de un flujo seguro nominal a rD(1 − Tc) puede verse como un caso particular de WACC y VPA?",
+      "opciones": [
+        "Porque todo negocio debería financiarse 100% con deuda",
+        "Porque ese flujo puede respaldar deuda por todo su VP, incorporando el escudo correspondiente",
+        "Porque rE y rD siempre son iguales",
+        "Porque el impuesto sobre el cobro desaparece"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La conclusión se limita a un flujo equivalente a deuda bajo los supuestos del modelo. No se traslada a cualquier empresa riesgosa. Los negocios operativos tienen otras exposiciones y capacidades financieras.",
+        "Un pago seguro neto puede servir para cancelar principal e intereses después de impuestos de un préstamo equivalente. En ese caso particular D/V = 1 y el WACC se reduce a rD(1 − Tc). El VPA llega al mismo resultado al sumar explícitamente el escudo de esa deuda.",
+        "Los retornos requeridos dependen del riesgo y prioridad de cada reclamo. No hay igualdad general entre rE y rD. La equivalencia se explica por la capacidad de deuda del flujo seguro.",
+        "El impuesto sobre el cobro sigue reduciendo el efectivo disponible. Primero debe calcularse el flujo neto. El beneficio de intereses afecta su valuación financiera y no elimina ese impuesto."
+      ]
+    },
+    {
+      "id": "c20-q070",
+      "tema": "Moneda nominal y actualización de pagos pasados",
+      "dificultad": "intermedia",
+      "pregunta": "Una indemnización cierta debió pagarse años atrás y hoy se actualiza por valor temporal. ¿Qué criterio evita otorgar una prima de riesgo que nadie soportó?",
+      "opciones": [
+        "Capitalizar siempre al retorno esperado del negocio más riesgoso del acreedor",
+        "Usar una tasa de prestar o endeudarse pertinente después de impuestos, consistente con moneda y plazo",
+        "Sumar inflación a una tasa nominal completa sin revisar componentes",
+        "No reconocer ningún valor temporal porque el importe es cierto"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El retorno de un negocio riesgoso incluye una compensación por soportar incertidumbre. Un crédito cierto no expone al acreedor a ese mismo riesgo operativo. Aplicar esa prima puede sobrecompensarlo.",
+        "La actualización debe reflejar el costo de oportunidad de una suma equivalente a deuda. Si no hubo exposición a riesgo operativo, no corresponde remunerarla como una inversión accionaria riesgosa. La moneda, el plazo y los impuestos deben mantenerse consistentes.",
+        "Una tasa nominal ya incorpora el componente inflacionario pertinente. Agregar inflación por separado puede duplicarlo. Primero debe identificarse si los flujos y la tasa son nominales o reales.",
+        "La certeza no elimina el valor temporal del dinero. Disponer antes del pago permite invertirlo o evitar endeudamiento. Hay que reconocer ese costo de oportunidad con una tasa apropiada."
+      ]
+    },
+    {
+      "id": "c20-q071",
+      "tema": "Entidad exenta y origen de fondos",
+      "dificultad": "avanzada",
+      "pregunta": "Una universidad exenta evalúa un proyecto con riesgo propio conocido. Su tesorero propone bajar la tasa porque pagará parte vendiendo bonos de su cartera y parte tomando crédito barato. Sin otros efectos financieros, ¿qué corresponde?",
+      "opciones": [
+        "Promediar rendimientos de los activos vendidos con la tasa del préstamo",
+        "Aceptar cualquier proyecto cuyo retorno supere la tasa del préstamo",
+        "Usar cero porque no paga impuesto corporativo",
+        "Mantener el costo de oportunidad correspondiente al riesgo del proyecto; el origen de fondos no lo reduce"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los activos vendidos describen una fuente de fondos y no el riesgo del nuevo proyecto. Mezclar sus retornos puede crear una tasa artificial. El costo de oportunidad debe corresponder a los flujos que se están evaluando.",
+        "Una tasa de deuda baja remunera un reclamo con características diferentes. El proyecto puede tener mayor riesgo y necesitar un retorno superior. Compararlo sólo con el préstamo puede llevar a aceptar una inversión que destruye valor.",
+        "No pagar impuestos no elimina el costo de oportunidad ni el riesgo. Los fondos podrían invertirse en otras alternativas. La tasa debe reflejar ese uso alternativo comparable.",
+        "El riesgo económico del proyecto determina la rentabilidad alternativa pertinente. La exención implica que no surge un escudo corporativo por intereses. En ausencia de otros efectos, cambiar las fuentes inmediatas de fondos no altera el valor del proyecto."
+      ]
+    },
+    {
+      "id": "c20-q072",
+      "tema": "Múltiplos y rentabilidad marginal",
+      "dificultad": "avanzada",
+      "pregunta": "Al llegar al horizonte, la competencia hace que toda nueva inversión rinda exactamente el WACC. ¿Qué conclusión es consistente al contrastar el terminal con múltiplos de EBIT o EBITDA?",
+      "opciones": [
+        "Todo crecimiento posterior debe incrementar el valor por sí mismo",
+        "El EBITDA puede sustituir al flujo libre sin considerar inversiones",
+        "El valor de las operaciones existentes se vuelve necesariamente cero",
+        "El crecimiento marginal tiene VPN cero y los múltiplos comparables deben respetar reinversión y riesgo"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Si cada inversión nueva gana exactamente su costo de capital, su valor presente iguala su costo. Crecer aumenta escala pero no agrega valor neto por esas nuevas inversiones. Sólo retornos superiores crean oportunidades de crecimiento valiosas.",
+        "El EBITDA no descuenta impuestos ni toda la reinversión necesaria. Un múltiplo puede resumir una valuación de mercado, pero requiere comparabilidad. No convierte automáticamente EBITDA en efectivo distribuible.",
+        "Las operaciones existentes pueden seguir generando flujos valiosos. La condición se refiere a las nuevas inversiones al margen. No implica que desaparezca el valor del negocio en funcionamiento.",
+        "Un rendimiento marginal igual al WACC implica VPN cero para la nueva inversión. Eso no elimina el valor de activos ya instalados. Los múltiplos de negocios similares sirven de contraste si se consideran diferencias de riesgo, crecimiento, impuestos y necesidades de inversión."
+      ]
+    }
+  ]
+}

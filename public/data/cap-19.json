@@ -1,0 +1,1336 @@
+{
+  "capitulo": 19,
+  "titulo": "¿Cuánto debe endeudarse una empresa?",
+  "preguntas": [
+    {
+      "id": "c19-q001",
+      "tema": "Deducibilidad del interés",
+      "dificultad": "basica",
+      "pregunta": "¿Qué característica tributaria puede favorecer a la deuda frente al capital propio?",
+      "opciones": [
+        "La devolución del principal siempre se deduce como gasto.",
+        "Los dividendos se deducen igual que los intereses.",
+        "Los intereses deducibles reducen la base del impuesto corporativo.",
+        "El acreedor queda exento de impuestos personales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Devolver principal cancela una obligación y no es un gasto por interés. La ventaja analizada nace de la deducción del interés. Deducir también todo el principal exageraría el beneficio del préstamo.",
+        "En el sistema considerado, los dividendos no reducen la base corporativa. Por eso su tratamiento difiere del interés deducible. Confundirlos borra la fuente de la ventaja fiscal de la deuda.",
+        "El interés deducible disminuye el ingreso gravable de la empresa. El ahorro es esa deducción multiplicada por la tasa marginal aplicable. Los dividendos se pagan con utilidades después del impuesto corporativo.",
+        "La deducción corresponde a la empresa que paga intereses. El acreedor puede tributar por los intereses recibidos. La ventaja neta requiere considerar también ese impuesto personal."
+      ]
+    },
+    {
+      "id": "c19-q002",
+      "tema": "Ahorro fiscal anual",
+      "dificultad": "basica",
+      "pregunta": "Una deuda de $200.000 paga 10% anual. Tc = 30% y se aprovecha íntegramente la deducción. ¿Cuál es el ahorro fiscal anual?",
+      "opciones": [
+        "$14.000",
+        "$60.000",
+        "$6.000",
+        "$20.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $14.000 son el interés después del ahorro fiscal. Se obtienen restando $6.000 de los $20.000 pagados. La pregunta pide el impuesto evitado, no el costo neto.",
+        "Los $60.000 surgen de multiplicar la tasa por el principal. Eso puede representar un escudo perpetuo bajo otros supuestos. Aquí se pide el ahorro de un solo año.",
+        "El interés anual es $200.000 × 10% = $20.000. El impuesto evitado es $20.000 × 30% = $6.000. Se aplica la tasa corporativa al interés y no al principal.",
+        "Los $20.000 son intereses pagados. La deducción reduce la base imponible por ese monto, pero no devuelve todo el gasto. El ahorro es el 30% del interés."
+      ]
+    },
+    {
+      "id": "c19-q003",
+      "tema": "Tasa marginal",
+      "dificultad": "basica",
+      "pregunta": "La tasa promedio histórica es 12%, pero cada peso adicional de interés deducible reduce impuestos en 30 centavos. ¿Qué tasa corresponde al escudo incremental?",
+      "opciones": [
+        "42%",
+        "30%",
+        "12%",
+        "18%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar las tasas mezcla dos medidas distintas de la carga fiscal. No son impuestos sucesivos que deban acumularse. El efecto incremental ya está dado por el 30%.",
+        "La decisión modifica los impuestos en el margen. El dato de 30 centavos por peso mide directamente ese efecto. La tasa promedio histórica no mide el ahorro incremental.",
+        "El promedio resume impuestos pasados respecto de una base de utilidades. Puede estar afectado por depreciaciones y otros ajustes. Para la decisión importa cuánto impuesto evita la deducción adicional.",
+        "La diferencia entre tasa marginal y promedio no grava los intereses. No existe una base tributaria que justifique esa resta. Debe usarse directamente el ahorro marginal informado."
+      ]
+    },
+    {
+      "id": "c19-q004",
+      "tema": "Escudo perpetuo",
+      "dificultad": "basica",
+      "pregunta": "Se mantendrán $400.000 de deuda fija perpetua al 5%. Tc = 25%, las deducciones se utilizan y el escudo se descuenta al 5%. ¿Cuál es su VP?",
+      "opciones": [
+        "$400.000",
+        "$20.000",
+        "$100.000",
+        "$5.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El gobierno no absorbe el principal completo. El valor del ahorro equivale a la fracción Tc de la deuda. Con Tc de 25%, corresponde un cuarto de $400.000.",
+        "Los $20.000 representan el interés anual. Primero hay que hallar cuánto impuesto evita ese gasto. Después se calcula el VP de los ahorros futuros.",
+        "El interés es $20.000 y el ahorro anual es $5.000. Una perpetuidad de $5.000 descontada al 5% vale $100.000. Coincide con TcD = 25% × $400.000.",
+        "Los $5.000 son el ahorro de un año. La empresa lo obtiene indefinidamente bajo los supuestos. Capitalizar la corriente completa da $100.000."
+      ]
+    },
+    {
+      "id": "c19-q005",
+      "tema": "Supuestos de TcD",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo se justifica VP del escudo = TcD?",
+      "opciones": [
+        "Razón deuda/valor constante y descuento automático al costo de deuda.",
+        "Deuda a un año y deducción fiscal del principal.",
+        "Pérdidas permanentes sin posibilidad de compensarlas.",
+        "Deuda nominal fija perpetua, deducciones aprovechables y descuento del escudo al costo de esa deuda."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una razón fija obliga a variar el monto de deuda cuando cambia el valor empresarial. Eso modifica los escudos futuros y su riesgo. La fórmula de deuda nominal fija no se aplica automáticamente.",
+        "Un préstamo a un año genera un escudo limitado a ese período. Además, devolver principal no es el interés deducible. Se debe descontar el ahorro de ese año.",
+        "Sin impuestos presentes ni futuros que reducir, la deducción no produce ahorro. La fórmula exige beneficios fiscales aprovechables. Usarla con pérdidas irrecuperables sobrevalora el financiamiento.",
+        "La deuda fija genera un escudo constante si las tasas no cambian. La deducción debe traducirse efectivamente en impuestos evitados. Al descontar Tc × rD × D a rD para siempre, resulta TcD."
+      ]
+    },
+    {
+      "id": "c19-q006",
+      "tema": "Escudo a un año",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo de $20.000 al 10% se cancela al final de un año. Tc = 30%, la deducción es aprovechable y el escudo se descuenta al 10%. ¿Cuál es su VP?",
+      "opciones": [
+        "$600",
+        "$2.000",
+        "$545,45",
+        "$6.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $600 son el ahorro futuro correctamente calculado. Falta reconocer que se recibe al cierre del año. Descontarlo al 10% reduce su valor presente.",
+        "Los $2.000 son el gasto de interés completo. La deducción solo evita el 30% de ese gasto en impuestos. Además, el ahorro debe traerse al presente.",
+        "El interés al cierre es $2.000. El ahorro tributario es $600 y ocurre dentro de un año. Su VP es $600 / 1,10 = $545,45. La devolución del principal no genera otra deducción por intereses.",
+        "Aplicar Tc al principal supone aquí indebidamente un escudo perpetuo. El préstamo termina después de un año. Solo existe un ahorro futuro de $600."
+      ]
+    },
+    {
+      "id": "c19-q007",
+      "tema": "Escudo de plazo limitado",
+      "dificultad": "intermedia",
+      "pregunta": "Una deuda de $10.000 al 10% paga intereses al final de dos años consecutivos y devuelve el principal al final del segundo. Tc = 30% y descuento del escudo = 10%. ¿Cuál es el VP del escudo aprovechable?",
+      "opciones": [
+        "$520,66",
+        "$600",
+        "$495,87",
+        "$3.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada año se deducen $1.000 y se ahorran $300 de impuesto. El VP es $300 / 1,10 + $300 / 1,10². El resultado es aproximadamente $520,66.",
+        "Los $600 suman los dos flujos sin descontar. No distinguen entre dinero futuro y presente. Cada ahorro debe descontarse según su fecha.",
+        "Descontar todos los $600 dos años ubica mal el primer ahorro. La mitad llega al final del primer año. Descontar cada flujo por separado da $520,66.",
+        "Los $3.000 corresponden a TcD bajo perpetuidad. Aquí los escudos terminan con el préstamo al segundo año. No hay beneficios por intereses posteriores."
+      ]
+    },
+    {
+      "id": "c19-q008",
+      "tema": "Política de deuda y riesgo fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Un director conserva constante deuda/valor y valúa el escudo como si la deuda nominal fuera fija perpetua. ¿Cuál es la objeción central?",
+      "opciones": [
+        "La política proporcional impide deducir intereses.",
+        "El monto de deuda y los escudos fluctúan con el valor de la empresa.",
+        "Todo escudo proporcional debe descontarse a tasa cero.",
+        "Los intereses se convierten automáticamente en dividendos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deducibilidad no desaparece por ajustar una razón financiera. El problema consiste en proyectar y descontar el beneficio. Confundir existencia y valor del escudo lleva a rechazar un ahorro que puede existir.",
+        "Mantener la proporción obliga a ajustar la deuda al valor empresarial. Los intereses y escudos futuros quedan ligados a esa evolución. Hay que revisar su riesgo y valuación antes de usar la fórmula de deuda fija.",
+        "Una política proporcional no elimina el tiempo ni el riesgo. No hay fundamento para valorar los flujos a tasa cero. El descuento debe ser consistente con sus características.",
+        "El origen del ahorro sigue siendo el interés deducible. Cambiar la política de monto no altera por sí solo la naturaleza tributaria del pago. No existe esa conversión automática."
+      ]
+    },
+    {
+      "id": "c19-q009",
+      "tema": "Capacidad de usar deducciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa acumula pérdidas y depreciaciones deducibles, pero el régimen supuesto permite compensarlas en años futuros. ¿Cómo debería evaluar el escudo de más deuda?",
+      "opciones": [
+        "Según cuándo y con qué probabilidad podrá reducir impuestos efectivamente.",
+        "Reconociendo inmediatamente el máximo TcD sin ajustes.",
+        "Tratando la depreciación como interés adicional pagado.",
+        "Dando por perdidas todas las deducciones no usadas hoy."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Otros escudos pueden agotar el ingreso gravable disponible. La compensación futura puede conservar beneficios, pero también demorarlos. Hay que valorar los ahorros realizables con su fecha e incertidumbre.",
+        "La deducción legal no garantiza ahorro inmediato de efectivo. Si no habría impuesto, más interés no reduce pagos hoy. El valor debe reconocer la eventual postergación del beneficio.",
+        "La depreciación y los intereses tienen orígenes distintos. Ambos pueden reducir la base imponible disponible. Eso no convierte la depreciación en un pago de deuda.",
+        "El caso admite compensación futura de pérdidas. Por eso una deducción no utilizada hoy podría reducir impuestos después. Su valor puede ser menor sin ser necesariamente cero."
+      ]
+    },
+    {
+      "id": "c19-q010",
+      "tema": "Valor con impuestos corporativos",
+      "dificultad": "basica",
+      "pregunta": "Una empresa valdría $900.000 sin deuda. Toma $200.000 de deuda fija perpetua y Tc = 30%; solo importa el escudo, íntegramente aprovechable y descontado al costo de deuda. ¿Cuál es su valor total?",
+      "opciones": [
+        "$960.000",
+        "$840.000",
+        "$1.100.000",
+        "$760.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El escudo vale 30% × $200.000 = $60.000. El valor total pasa de $900.000 a $960.000. La financiación aumenta el valor privado por el impuesto evitado.",
+        "Restar el ahorro invierte su efecto económico. Una deducción aprovechable reduce la participación tributaria del gobierno. Aquí no se incluyen costos de insolvencia que compensen ese beneficio.",
+        "El préstamo genera una obligación equivalente al dinero recibido. No añade por sí solo su principal como riqueza neta. La creación de valor atribuible a esta operación es el escudo de $60.000.",
+        "Los $760.000 resultan de restar la deuda al valor total correcto. Esa diferencia sería el capital propio. La pregunta solicita deuda más acciones, no solo acciones."
+      ]
+    },
+    {
+      "id": "c19-q011",
+      "tema": "Recompra financiada con deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma sin deuda vale $1.000.000. Emite a precio justo $200.000 de deuda fija perpetua y los usa íntegramente para recomprar acciones; Tc = 25% y solo importa el escudo aprovechable, descontado al costo de deuda. ¿Cuánto vale el capital propio restante?",
+      "opciones": [
+        "$850.000",
+        "$1.250.000",
+        "$1.050.000",
+        "$800.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El escudo añade $50.000 al valor total. Después de distribuir el efectivo, la firma vale $1.050.000 entre deuda y acciones. Restar $200.000 de deuda deja $850.000 de capital propio.",
+        "Sumar principal y escudo al capital inicial trata el préstamo como dinero gratuito. El efectivo se distribuye y queda una deuda exigible. El capital propio debe reflejar esa obligación.",
+        "Los $1.050.000 son el valor de todos los derechos financieros. Incluyen deuda por $200.000. Para hallar el valor accionario hay que separar ese derecho de los acreedores.",
+        "Restar la recompra sin reconocer el ahorro fiscal omite $50.000 de valor. Las acciones disminuyen menos que el efectivo entregado. El capital restante es $850.000."
+      ]
+    },
+    {
+      "id": "c19-q012",
+      "tema": "Captura del beneficio fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Si una deuda nueva se coloca a precio justo y solo crea un escudo fiscal, ¿quién captura el valor adicional?",
+      "opciones": [
+        "Acreedores y accionistas, necesariamente en partes iguales.",
+        "Los accionistas anteriores a la operación.",
+        "Los acreedores nuevos, por recibir intereses.",
+        "El gobierno, por aumentar sus impuestos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No existe una regla de reparto por mitades. La colocación justa fija el intercambio económico de los acreedores. La ganancia adicional beneficia al patrimonio previo.",
+        "Los acreedores pagan lo que valen los derechos que reciben. Por eso su compra no les genera una ganancia extraordinaria. El valor incremental del escudo queda para los propietarios originales.",
+        "Los intereses remuneran el préstamo y su riesgo. A precio justo no representan una apropiación extraordinaria del escudo. Los accionistas anteriores reciben la mejora de valor residual.",
+        "El escudo reduce el valor de los impuestos futuros. Por tanto, disminuye el derecho económico del gobierno sobre los flujos. No incrementa su recaudación bajo estos supuestos."
+      ]
+    },
+    {
+      "id": "c19-q013",
+      "tema": "Balance ampliado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué permite mostrar un balance ampliado que incorpora el derecho económico del gobierno?",
+      "opciones": [
+        "El valor contable debe reemplazar al valor de mercado.",
+        "Los impuestos nunca cambian el valor después de impuestos.",
+        "Una reducción del VP de impuestos puede beneficiar a inversionistas sin cambiar los activos antes de impuestos.",
+        "Todo impuesto futuro es un préstamo bancario."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El esquema utiliza valores económicos de derechos futuros. No exige usar cifras contables históricas. Su propósito es revelar la participación del gobierno.",
+        "El valor antes de impuestos puede mantenerse igual mientras cambia su reparto. Los inversionistas valoran lo que reciben después de impuestos. Reducir el derecho del gobierno puede elevar ese valor.",
+        "Los ingresos antes de impuestos se reparten entre inversionistas y gobierno. Reducir los impuestos deja una parte mayor para acreedores y accionistas. Eso puede ocurrir sin mejorar la productividad de los activos.",
+        "Un derecho tributario no surge de entregar un préstamo bancario. Se incorpora para analizar el reparto de ingresos futuros. Equipararlo a deuda bancaria confunde obligaciones de distinto origen."
+      ]
+    },
+    {
+      "id": "c19-q014",
+      "tema": "Dos rutas tributarias",
+      "dificultad": "basica",
+      "pregunta": "Con interés plenamente deducible, ¿qué queda neto de $1 de ingreso corporativo previo a impuestos por la ruta de interés y por la accionaria? Tp grava intereses y TpE renta accionaria.",
+      "opciones": [
+        "Interés: 1 − Tc; acciones: 1 − Tp.",
+        "Interés: 1 − Tp; acciones: (1 − Tc)(1 − TpE).",
+        "Interés: (1 − Tc)(1 − Tp); acciones: 1 − TpE.",
+        "Interés: 1; acciones: 1 − Tc − TpE."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cada tasa corresponde a una base y contribuyente específicos. Tp grava al acreedor y Tc a la empresa. Intercambiarlas impide reconstruir correctamente los ingresos netos.",
+        "El interés evita la capa corporativa y soporta Tp en el acreedor. La renta accionaria soporta Tc primero y TpE sobre lo restante. Por eso en las acciones se multiplican los factores de retención.",
+        "La alternativa aplica la capa corporativa a la ruta equivocada. El interés deducible no queda sujeto a esa capa en este esquema. La renta accionaria sí sale de ganancias después del impuesto corporativo.",
+        "La deducción empresarial no vuelve exento al acreedor. Además, TpE se aplica después de Tc y no sobre el ingreso bruto original. La carga de las acciones no es la suma directa de tasas."
+      ]
+    },
+    {
+      "id": "c19-q015",
+      "tema": "Neutralidad fiscal de las rutas",
+      "dificultad": "intermedia",
+      "pregunta": "Tc = 20%, Tp = 28% y TpE = 10%. ¿Cuál es la razón entre ingreso neto por deuda e ingreso neto por acciones, por peso de ingreso corporativo?",
+      "opciones": [
+        "0,72",
+        "1,10",
+        "1,25",
+        "1,00"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor 0,72 es el neto de cada ruta por peso inicial. La pregunta pide dividir esos dos netos. El cociente entre cantidades iguales es 1.",
+        "No corresponde sumar una tasa al valor de la razón. Primero se calculan los ingresos netos de ambas rutas. Con estos datos coinciden y el cociente es 1.",
+        "El valor 1,25 considera únicamente el impuesto corporativo. Aquí las tasas personales de deuda y acciones son distintas. Esa diferencia cancela exactamente el beneficio corporativo.",
+        "La deuda deja 1 − 0,28 = 0,72. Las acciones dejan 0,80 × 0,90 = 0,72. El cociente es 1 y ambas rutas son fiscalmente equivalentes."
+      ]
+    },
+    {
+      "id": "c19-q016",
+      "tema": "Tasas personales iguales",
+      "dificultad": "intermedia",
+      "pregunta": "Con Tp = TpE = 20% y Tc = 25%, ¿cuál es la razón ingreso neto por deuda/ingreso neto por acciones?",
+      "opciones": [
+        "1,25",
+        "0,75",
+        "1,3333 aproximadamente",
+        "1,00"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La razón no se obtiene sumando Tc a uno. La ruta accionaria retiene solo tres cuartos antes del impuesto personal común. El inverso de 0,75 es aproximadamente 1,3333.",
+        "El valor 0,75 es la retención corporativa de las acciones. La razón solicitada compara deuda con acciones. Al cancelarse las tasas personales, debe usarse el inverso de ese factor.",
+        "La deuda deja 0,80 y las acciones dejan 0,75 × 0,80 = 0,60. Dividir 0,80 por 0,60 da 1,3333. La tasa personal común se cancela y queda 1 / (1 − Tc).",
+        "Igualar las tasas personales elimina su diferencia, pero no la capa corporativa. Esa capa sigue afectando solo a la renta accionaria. Por ello subsiste una ventaja de la deuda."
+      ]
+    },
+    {
+      "id": "c19-q017",
+      "tema": "Tasa efectiva de renta accionaria",
+      "dificultad": "intermedia",
+      "pregunta": "El 40% de la renta accionaria son dividendos gravados al 20% y el 60% son ganancias de capital con tasa efectiva de 5% por diferimiento. ¿Cuál es TpE?",
+      "opciones": [
+        "8%",
+        "11%",
+        "12,5%",
+        "25%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 8 puntos incluyen solo el impuesto de los dividendos. Las ganancias todavía pagan una tasa efectiva positiva. Sus 3 puntos adicionales elevan la tasa combinada a 11%.",
+        "Los dividendos aportan 0,40 × 20% = 8 puntos porcentuales. Las ganancias aportan 0,60 × 5% = 3 puntos. El promedio ponderado es 11%.",
+        "El promedio simple asigna 50% a cada fuente de renta. Los pesos efectivos son 40% y 60%. Aplicarlos da 11%, no 12,5%. Como las ganancias de capital pesan más y tienen la tasa menor, el promedio ponderado queda por debajo del simple.",
+        "Sumar tasas supone que toda la renta soporta ambos impuestos. Aquí cada componente tiene una participación distinta. Corresponde ponderar cada tasa por su fracción del ingreso."
+      ]
+    },
+    {
+      "id": "c19-q018",
+      "tema": "Cargas corporativas y personales",
+      "dificultad": "intermedia",
+      "pregunta": "Tc = 25%, Tp = 30% y TpE = 20%. De $100 de ingreso corporativo previo a impuestos, ¿cuánto recibe neto el acreedor por interés y el accionista por renta de capital?",
+      "opciones": [
+        "$75 y $80.",
+        "$45 y $55.",
+        "$70 y $55.",
+        "$70 y $60."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $75 solo descuentan Tc y los $80 solo descuentan TpE. Ninguna cifra sigue correctamente toda la ruta pertinente. La deuda soporta Tp y las acciones ambas capas sucesivas.",
+        "La primera cifra grava también corporativamente al interés pese a su deducción. La segunda resta ambas tasas sobre la base original. Deben respetarse tanto la deducibilidad como la secuencia de impuestos.",
+        "El neto de interés está bien calculado. El neto accionario suma indebidamente 25% y 20% sobre los mismos $100. TpE se aplica sobre $75, de modo que quedan $60.",
+        "La ruta de interés deja $100 × 0,70 = $70. La accionaria deja primero $75 y luego $75 × 0,80 = $60. La diferencia neta entre rutas es $10."
+      ]
+    },
+    {
+      "id": "c19-q019",
+      "tema": "Inversionista marginal",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué no alcanza con promediar sin más las tasas tributarias de todos los tenedores para estimar la ventaja fiscal de la deuda?",
+      "opciones": [
+        "Todos los inversionistas tienen la misma situación fiscal.",
+        "Solo importa la tasa del accionista con mayor patrimonio.",
+        "Importan las tasas del inversionista marginal que está dispuesto a sustituir deuda por acciones.",
+        "Los fondos exentos fijan necesariamente una tasa personal cero para todo el mercado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La heterogeneidad fiscal es precisamente parte del problema. Algunos inversionistas no tributan y otros pagan tasas altas. Por eso no puede suponerse una única tasa para todos.",
+        "Tener mayor patrimonio no implica fijar el precio marginal de ambos títulos. Es necesario considerar la disposición efectiva a intercambiar deuda y capital. La identidad del inversionista relevante no se deduce solo de su riqueza.",
+        "Los precios reflejan las condiciones de quienes están en el margen de comprar o vender. Entre los tenedores puede haber fondos exentos y personas sujetas a tasas distintas. Un promedio indiscriminado no identifica necesariamente al inversionista que determina esos precios.",
+        "La presencia de fondos exentos no convierte en exentos a los demás. Otros inversionistas pueden exigir rendimientos brutos mayores por sus impuestos. La tasa relevante depende de quién esté en el margen."
+      ]
+    },
+    {
+      "id": "c19-q020",
+      "tema": "Diferimiento e imputación fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación distingue correctamente dos mecanismos que pueden reducir la ventaja fiscal corporativa de la deuda?",
+      "opciones": [
+        "Diferir ganancias aumenta siempre su tasa efectiva; la imputación elimina solo intereses.",
+        "Ambos mecanismos garantizan una ventaja de deuda igual a TcD.",
+        "Diferir ganancias de capital puede bajar TpE; un sistema de imputación puede compensar impuestos corporativos mediante créditos al accionista.",
+        "Ambos mecanismos vuelven deducible la devolución del principal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El diferimiento desplaza el impuesto hacia el futuro y normalmente reduce su VP. La imputación se relaciona con créditos sobre el ingreso accionario. La alternativa invierte o confunde ambos mecanismos.",
+        "TcD no incorpora automáticamente todas las diferencias personales ni los créditos fiscales. Estos mecanismos pueden disminuir la ventaja neta de la deuda. Por eso no garantizan ese valor.",
+        "Posponer el pago por ganancias reduce su carga en valor presente frente al pago inmediato. Un crédito por impuesto corporativo puede evitar parte de la doble imposición accionaria. Ambos obligan a analizar el sistema completo antes de valorar el endeudamiento.",
+        "Ningún mecanismo descrito convierte principal en gasto. Ambos afectan el tratamiento de la renta y sus impuestos. La deducción de intereses debe analizarse separadamente."
+      ]
+    },
+    {
+      "id": "c19-q021",
+      "tema": "Desventaja fiscal sin escudo corporativo",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa no obtendrá ahorro corporativo alguno. Por cada $100 disponibles, Tp = 30% y TpE = 10%, sin otras fricciones. ¿Cuál es la diferencia de ingreso neto entre la ruta accionaria y la de interés?",
+      "opciones": [
+        "$40 a favor de las acciones.",
+        "$20 a favor de las acciones.",
+        "$0.",
+        "$20 a favor de la deuda."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Restar $30 y $10 del mismo ingreso para construir una diferencia suma cargas distintas. Se deben comparar dos ingresos alternativos de $70 y $90. La distancia entre ellos es $20.",
+        "Sin impuesto corporativo efectivo, las acciones dejan $90. Los intereses dejan $70 después del impuesto personal. La diferencia es $20 a favor de las acciones.",
+        "No hay una capa corporativa que cancele la diferencia personal. Las tasas de 30% y 10% dejan netos distintos. La neutralidad exigiría igualdad de los resultados finales.",
+        "La mayor tasa sobre intereses reduce el neto del acreedor. Sin ahorro corporativo que lo compense, la deuda queda en desventaja. El signo de la diferencia está invertido."
+      ]
+    },
+    {
+      "id": "c19-q022",
+      "tema": "Definición de insolvencia financiera",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la descripción más precisa de insolvencia financiera en este análisis?",
+      "opciones": [
+        "Cualquier caída del precio de una acción.",
+        "Únicamente la sentencia judicial que liquida una empresa.",
+        "La existencia de utilidades contables positivas.",
+        "Dificultad o incumplimiento de las obligaciones prometidas a los acreedores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una acción puede caer por menores perspectivas operativas sin problemas de pago. Esa caída por sí sola no define insolvencia financiera. Hay que examinar el cumplimiento de obligaciones.",
+        "La liquidación judicial es solo uno de los desenlaces posibles. Puede haber dificultades prolongadas y recuperación sin quiebra. Limitar la definición a una sentencia excluye costos relevantes.",
+        "Una utilidad contable positiva no describe incumplimiento ni falta de liquidez. Incluso puede coexistir con dificultades para pagar deudas. El foco está en las obligaciones financieras, no en un signo contable aislado.",
+        "La dificultad puede existir antes de una quiebra formal. Se relaciona con las promesas financieras y la capacidad de cumplirlas. Por eso puede producir costos incluso si la empresa finalmente se recupera."
+      ]
+    },
+    {
+      "id": "c19-q023",
+      "tema": "Valor con costos de insolvencia",
+      "dificultad": "basica",
+      "pregunta": "Una firma vale $800 sin deuda, su escudo fiscal tiene VP de $90 y los costos de insolvencia tienen VP de $35. ¿Cuál es su valor con deuda?",
+      "opciones": [
+        "$925",
+        "$675",
+        "$855",
+        "$890"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar ambos componentes trata el costo como un beneficio. La insolvencia consume valor disponible para inversionistas. Por eso los $35 deben restarse.",
+        "Restar también el ahorro fiscal invierte su efecto. El escudo añade $90 y la insolvencia resta $35. La mejora neta es $55, no una pérdida de $125.",
+        "Se suma el beneficio fiscal y se resta el costo financiero esperado ya valuado. El cálculo es $800 + $90 − $35 = $855. Los costos no deben volver a descontarse si ya están expresados en VP.",
+        "El resultado omite los costos de insolvencia. El escudo no es la única consecuencia de endeudarse en este caso. Debe restarse el VP de $35."
+      ]
+    },
+    {
+      "id": "c19-q024",
+      "tema": "Óptimo marginal de deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Según la teoría del intercambio, ¿qué condición caracteriza un óptimo interior de endeudamiento?",
+      "opciones": [
+        "La deuda alcanza necesariamente el 100% del valor.",
+        "El ahorro fiscal total iguala el costo total de insolvencia.",
+        "El beneficio fiscal marginal en VP iguala el costo marginal de insolvencia en VP.",
+        "La utilidad por acción alcanza su máximo contable."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los costos y la pérdida de capacidad de aprovechar deducciones pueden frenar la deuda. La teoría justamente admite un nivel moderado óptimo. No impone financiamiento íntegro con deuda.",
+        "La igualdad de totales no determina si conviene endeudarse un poco más. Puede haber un beneficio neto total positivo en el óptimo. Hay que comparar variaciones marginales del valor.",
+        "La decisión relevante es qué agrega una unidad adicional de deuda. Si su ahorro supera el costo adicional, todavía aumenta el valor. En un óptimo interior, ambos efectos marginales se compensan.",
+        "La utilidad por acción no incorpora por sí sola riesgo ni valor presente. Puede crecer aunque se destruya valor económico. El objetivo es maximizar el valor de la empresa."
+      ]
+    },
+    {
+      "id": "c19-q025",
+      "tema": "Comparación de estructuras",
+      "dificultad": "intermedia",
+      "pregunta": "El valor sin deuda es $1.000. Con deuda de $100, $200 o $300, los VP de escudos son $25, $50 y $75, y los VP de insolvencia son $5, $15 y $50. ¿Qué alternativa maximiza el valor entre las ofrecidas?",
+      "opciones": [
+        "Deuda de $200, con valor de $1.035.",
+        "Deuda de $300, con valor de $1.075.",
+        "Ninguna deuda, con valor de $1.050.",
+        "Deuda de $100, con valor de $1.025."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los valores son $1.020, $1.035 y $1.025 al sumar escudos y restar costos. La mayor cifra corresponde a deuda de $200. Esta comparación identifica el mejor nivel entre las alternativas dadas.",
+        "Los $1.075 incluyen el escudo pero omiten los $50 de insolvencia. El valor correcto con deuda de $300 es $1.025. El mayor escudo no garantiza el mayor valor neto.",
+        "El valor sin deuda está dado como $1.000. No corresponde agregarle un escudo de una estructura endeudada. Con estos datos la alternativa de $200 agrega más valor.",
+        "Con deuda de $100 también deben restarse $5 de costos. Su valor correcto es $1.020. Aun sin ese error, sería inferior a $1.035."
+      ]
+    },
+    {
+      "id": "c19-q026",
+      "tema": "Probabilidad y costo esperado",
+      "dificultad": "intermedia",
+      "pregunta": "Solo hay posible insolvencia al final del próximo año. Su probabilidad es 20%, el costo real si ocurre es $100.000 y la tasa apropiada para ese costo esperado es 10%. ¿Cuál es su VP?",
+      "opciones": [
+        "$100.000",
+        "$20.000",
+        "$18.181,82",
+        "$90.909,09"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $100.000 son el costo de un desenlace particular. No son el costo esperado ni su VP. Se necesitan tanto la ponderación por probabilidad como el descuento.",
+        "Los $20.000 son el costo esperado futuro. Falta ajustar por la fecha en que se produciría. El VP es menor al descontarlo un año.",
+        "El costo esperado al cierre es 20% × $100.000 = $20.000. Se descuenta un año a la tasa indicada de 10%. El VP es $20.000 / 1,10 = $18.181,82.",
+        "Ese resultado descuenta el costo condicionado a que ocurra insolvencia. Omite que solo sucede con probabilidad de 20%. Primero hay que ponderar por esa probabilidad."
+      ]
+    },
+    {
+      "id": "c19-q027",
+      "tema": "Responsabilidad limitada e ilimitada",
+      "dificultad": "intermedia",
+      "pregunta": "Al vencimiento hay activos por $60 y deuda prometida por $100, sin costos de quiebra. ¿Qué reciben los accionistas con responsabilidad limitada y qué aporte adicional deben hacer con responsabilidad ilimitada?",
+      "opciones": [
+        "Reciben $60 en ambos casos.",
+        "Reciben $0 con responsabilidad limitada y aportan $40 con ilimitada.",
+        "Reciben $40 con limitada y aportan $0 con ilimitada.",
+        "Aportan $40 en ambos casos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los activos disponibles respaldan primero los derechos de la deuda. No se entregan íntegramente a los accionistas mientras queda deuda exigible. Con activos menores al compromiso, no existe un excedente accionario.",
+        "Con responsabilidad limitada, los acreedores toman los $60 y los accionistas pierden su participación. Con responsabilidad ilimitada, los dueños deben cubrir la diferencia de $40. El derecho a incumplir protege su patrimonio personal en el primer caso.",
+        "Los $40 son el faltante frente a la deuda, no un cobro accionario. La responsabilidad ilimitada obliga a cubrirlo. La limitada permite al accionista terminar con cero sin ese aporte adicional.",
+        "Esa obligación caracteriza al caso ilimitado. La responsabilidad limitada permite dejar los activos a los acreedores sin completar con patrimonio personal. El pago accionario no baja de cero en el supuesto planteado."
+      ]
+    },
+    {
+      "id": "c19-q028",
+      "tema": "Derecho de incumplimiento y valor total",
+      "dificultad": "avanzada",
+      "pregunta": "Dos empresas tienen iguales activos y deudas prometidas, pero solo una tiene responsabilidad limitada. Sin impuestos ni costos de quiebra, ¿qué efecto tiene esa diferencia sobre sus títulos?",
+      "opciones": [
+        "La responsabilidad no modifica el reparto de pagos.",
+        "La limitada tiene simultáneamente acciones y deuda más valiosas.",
+        "La limitada destruye valor total por el mero derecho a incumplir.",
+        "La limitada tiene acciones más valiosas y deuda menos valiosa, sin cambiar el valor conjunto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La responsabilidad cambia quién cubre el faltante. Con responsabilidad ilimitada lo completan los dueños con su patrimonio. Con limitada el acreedor soporta el déficit de los activos.",
+        "Si los activos y pagos conjuntos no cambian, ambos títulos no pueden ganar simultáneamente por este mecanismo. La protección del accionista reduce la protección del acreedor. Los valores deben reflejar ese intercambio.",
+        "El derecho legal no consume por sí mismo recursos en el modelo sin costos. La destrucción aparece cuando usar el mecanismo o las dificultades generan costos reales. No debe confundirse redistribución con pérdida conjunta.",
+        "El derecho a incumplir beneficia a los accionistas cuando los activos no alcanzan. Los acreedores reciben menos en esos mismos estados. Sin costos adicionales, el valor se redistribuye entre títulos y no se destruye."
+      ]
+    },
+    {
+      "id": "c19-q029",
+      "tema": "Recuperación neta de costos legales",
+      "dificultad": "basica",
+      "pregunta": "Al incumplir, una sociedad con responsabilidad limitada tiene activos por $90 y debe $120. El proceso consume $15 de esos activos. ¿Qué reciben acreedores y accionistas?",
+      "opciones": [
+        "Acreedores $90; accionistas $0.",
+        "Acreedores $105; accionistas $0.",
+        "Acreedores $75; accionistas $15.",
+        "Acreedores $75; accionistas $0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Entregar $90 omite el costo real del procedimiento. Ese gasto sale de los activos disponibles. La recuperación neta es $75.",
+        "Sumar el costo a los activos trata un egreso como ingreso. El proceso reduce los recursos repartibles. Con $90 iniciales y $15 de gastos quedan $75.",
+        "Los $15 no son una distribución a los accionistas. Se destinan al proceso y dejan de estar disponibles para los títulos. Los acreedores aún no recuperan lo prometido.",
+        "Los costos consumen $15 antes de distribuir el remanente. Quedan $90 − $15 = $75 para acreedores, menos que su crédito. Como no se cancela la deuda, no queda valor residual para accionistas."
+      ]
+    },
+    {
+      "id": "c19-q030",
+      "tema": "Pérdida operativa y costo de quiebra",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa pierde ventas por un producto que deja de interesar y luego quiebra. ¿Cómo debe interpretarse la pérdida previa de valor?",
+      "opciones": [
+        "No es automáticamente costo de quiebra: hay que separar el deterioro operativo de los costos incrementales de las dificultades financieras.",
+        "Si los accionistas pierden todo, los costos de quiebra igualan el antiguo valor de sus acciones.",
+        "La quiebra es necesariamente la causa de toda pérdida anterior.",
+        "Toda caída anterior a la quiebra es un costo legal."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un mal negocio puede perder valor aunque no tenga deuda. Los costos de quiebra son recursos consumidos por el mecanismo y sus efectos incrementales. La secuencia temporal no prueba que toda la pérdida provenga del financiamiento.",
+        "La pérdida del accionista mezcla deterioro operativo y efectos financieros. Puede haber poco costo judicial y aun así desaparecer todo el capital. Debe aislarse el consumo incremental de valor.",
+        "El deterioro de los activos puede provocar incumplimiento. Por tanto, la causalidad puede ir desde el negocio hacia la quiebra. No corresponde invertirla sin evidencia.",
+        "Los costos legales son honorarios y gastos del procedimiento. Una caída de demanda tiene otro origen. Agrupar ambos impide medir el costo propio de la estructura de capital."
+      ]
+    },
+    {
+      "id": "c19-q031",
+      "tema": "Evidencia y medición de costos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué lectura es razonable de los estudios que comparan costos de quiebra entre empresas?",
+      "opciones": [
+        "Importan el denominador, las economías de escala y la dificultad de separar problemas operativos de financieros.",
+        "Las empresas pequeñas soportan necesariamente una proporción menor de costos que las grandes.",
+        "Un porcentaje sobre capital de mercado equivale al mismo porcentaje sobre activos contables.",
+        "Un honorario nominal enorme implica siempre un porcentaje enorme de activos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un costo debe relacionarse con una base comparable de valor. Los procedimientos pueden tener costos fijos que pesan más en firmas pequeñas. Además, el deterioro operativo y el financiero suelen ocurrir juntos, dificultando atribuir causalidad.",
+        "Las economías de escala pueden hacer más pesada la quiebra en empresas pequeñas. Hay gastos que no disminuyen proporcionalmente con los activos. La afirmación invierte esa relación posible.",
+        "Capital de mercado y activos contables no son bases equivalentes. Un mismo costo puede representar porcentajes muy distintos sobre ellas. Compararlos sin ajustar induce errores.",
+        "Una empresa muy grande puede pagar honorarios altos con un porcentaje relativamente reducido de activos. El tamaño absoluto no determina el peso económico relativo. Hay que especificar la base de comparación."
+      ]
+    },
+    {
+      "id": "c19-q032",
+      "tema": "Costos directos e indirectos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué par clasifica correctamente un costo directo y uno indirecto de dificultades financieras?",
+      "opciones": [
+        "Caída de demanda general; cobro de una factura comercial.",
+        "Honorarios judiciales; pérdida de clientes por temor a falta de servicio.",
+        "Pérdida de clientes; pago del principal de la deuda.",
+        "Interés contractual; impuesto corporativo evitado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una caída general de demanda puede ser un problema operativo independiente de la deuda. Cobrar una factura es una entrada ordinaria de efectivo. El par no identifica costos incrementales de dificultades financieras.",
+        "Los honorarios son un desembolso directo del procedimiento. La pérdida de clientes por dudas de continuidad es un efecto operativo indirecto. Ambos pueden reducir los recursos que recibirán los inversionistas.",
+        "La pérdida de clientes es indirecta, no un honorario procesal. Devolver principal es cumplir un contrato y no constituye por sí solo un costo real de insolvencia. La clasificación mezcla naturaleza y causa.",
+        "El interés es una remuneración financiera contractual. El impuesto evitado es un beneficio del endeudamiento, no un costo indirecto. Ninguno forma el par solicitado."
+      ]
+    },
+    {
+      "id": "c19-q033",
+      "tema": "Continuación ineficiente",
+      "dificultad": "intermedia",
+      "pregunta": "Un tribunal permite vender activos valiosos para sostener pérdidas operativas sin una recuperación razonable. ¿Qué riesgo ilustra?",
+      "opciones": [
+        "Que los activos vendidos generen dos veces su valor.",
+        "Que preservar la operación destruya valor si continuar tiene VPN negativo frente a liquidar.",
+        "Que todo costo indirecto desaparezca bajo protección judicial.",
+        "Que toda continuidad judicial maximice necesariamente el pago a acreedores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Vender activos cambia su forma a efectivo y puede financiar pérdidas. No duplica el valor económico disponible. Si los fondos se consumen sin retorno suficiente, el patrimonio se reduce.",
+        "Mantener empleos y actividad no garantiza una decisión económicamente conveniente. Si continuar vale menos que liquidar, se consume valor de los activos. Ese deterioro puede superar los honorarios directos del procedimiento.",
+        "La protección puede limitar ciertas acciones de cobro, pero no elimina clientes perdidos ni malas inversiones. Incluso puede prolongar operaciones destructivas. Por eso siguen existiendo costos indirectos.",
+        "Los acreedores pueden recuperar más con una liquidación temprana. Continuar con pérdidas reduce los recursos disponibles. La protección judicial no asegura una decisión que maximice su recuperación."
+      ]
+    },
+    {
+      "id": "c19-q034",
+      "tema": "Renegociación y prioridad",
+      "dificultad": "avanzada",
+      "pregunta": "Un acreedor tolera temporalmente un incumplimiento y busca un acuerdo privado. ¿Qué explicación es consistente con el análisis económico?",
+      "opciones": [
+        "La prioridad absoluta garantiza siempre recuperación completa, cualquiera sea el activo disponible.",
+        "Al tolerarlo renuncia necesariamente a todo su crédito.",
+        "La ausencia de demanda judicial demuestra que no hay dificultades financieras.",
+        "Busca preservar valor y evitar costos judiciales, y considera la incertidumbre del reparto en una reorganización."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La prioridad ordena quién cobra antes, pero no crea activos. Incluso con prioridad estricta puede faltar dinero para cancelar la deuda. Además, el resultado de una negociación no es siempre idéntico a esa regla.",
+        "Renegociar plazos o condiciones no implica necesariamente perdonar toda la obligación. Puede ser una estrategia de recuperación. Su conveniencia depende del valor preservado y de las alternativas.",
+        "Una empresa puede incumplir o tener dificultades aunque todavía no haya juicio. El acreedor puede decidir esperar por conveniencia económica. La ausencia de acción judicial no elimina el problema de pago.",
+        "Forzar el procedimiento puede consumir recursos y perjudicar el negocio. La negociación puede producir una recuperación mayor que una quiebra inmediata. Además, los resultados negociados pueden apartarse del pago íntegro previo a los accionistas."
+      ]
+    },
+    {
+      "id": "c19-q035",
+      "tema": "Insolvencia sin quiebra y competencia",
+      "dificultad": "intermedia",
+      "pregunta": "Un fabricante muy endeudado pierde pedidos por dudas sobre garantías, sus proveedores exigen efectivo y posterga mejoras ante nuevos competidores. Finalmente evita quebrar. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La deuda garantiza mayor capacidad de competir e invertir.",
+        "Todos los problemas son necesariamente independientes de la deuda.",
+        "Puede haber sufrido costos de insolvencia aunque no haya quiebra.",
+        "No hubo costos porque no intervino un tribunal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las obligaciones rígidas pueden dificultar inversiones necesarias frente a cambios competitivos. No aseguran acceso a recursos para adaptarse. La disciplina puede tener beneficios sin eliminar estas limitaciones.",
+        "Algunas presiones pueden ser operativas, pero el caso vincula otras con el riesgo financiero. Es necesario separar los efectos, no descartarlos todos. La exigencia de efectivo puede agravar justamente la falta de capacidad de adaptación.",
+        "Las dudas de continuidad pueden afectar clientes, crédito comercial e inversión. Esos efectos pueden existir antes del incumplimiento formal y persistir aunque haya recuperación. Evitar la quiebra no prueba que las dificultades hayan sido gratuitas.",
+        "Los honorarios judiciales son solo una parte de los costos posibles. La operación puede deteriorarse sin proceso legal. Aquí ya aparecen canales indirectos concretos."
+      ]
+    },
+    {
+      "id": "c19-q036",
+      "tema": "Capital con activos inferiores a deuda",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma tiene activos de mercado por $60 y deuda nominal de $100 que vence en un año. Puede operar hasta entonces sin incumplir. ¿Por qué sus acciones podrían valer más que cero hoy?",
+      "opciones": [
+        "Porque existe una posibilidad de que los activos superen la deuda al vencimiento.",
+        "Porque los accionistas cobran necesariamente antes que los acreedores.",
+        "Porque el valor contable obliga al mercado a pagar por las acciones.",
+        "Porque la diferencia de $40 se perdona automáticamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La responsabilidad limitada permite participar del excedente si hay recuperación. Si el resultado es malo, el accionista no debe completar con patrimonio personal en este supuesto. Esa posibilidad de recuperación puede dar valor a las acciones antes del vencimiento.",
+        "El valor posible no surge de invertir la prioridad de pagos. El accionista cobra el excedente después de satisfacer la deuda. Lo relevante es que ese excedente podría existir en algunos resultados futuros.",
+        "El mercado valora flujos y derechos futuros, no está obligado a replicar cifras contables. Un patrimonio contable positivo tampoco garantiza un precio positivo. Aquí el argumento económico depende de la incertidumbre hasta el vencimiento.",
+        "El monto prometido sigue siendo exigible según el contrato. Su valor de mercado puede ser menor sin que exista perdón automático del principal. La acción vale por la recuperación posible, no por una condonación supuesta."
+      ]
+    },
+    {
+      "id": "c19-q037",
+      "tema": "Traslado del riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Un cambio de inversiones reduce el valor de la firma de $100 a $96 y el de su deuda de $80 a $70. No hay aportes ni distribuciones. ¿Qué ocurre con el valor accionario?",
+      "opciones": [
+        "Baja $14 por sumar ambas pérdidas.",
+        "Sube $10, igual que la pérdida de los acreedores.",
+        "Sube $6, aunque se destruyen $4 de valor total.",
+        "Baja $4, igual que el valor total."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar ambas caídas duplica efectos dentro de la identidad del balance. El valor accionario se obtiene restando deuda del total. Esa diferencia aumenta de $20 a $26.",
+        "Los accionistas no capturan toda la caída de la deuda. Parte de esa caída compensa la pérdida de $4 de valor empresarial. Su ganancia neta es $10 − $4 = $6.",
+        "Antes, las acciones valen $100 − $80 = $20. Después valen $96 − $70 = $26, una ganancia de $6. La pérdida de acreedores de $10 financia esa ganancia y la destrucción de $4 de valor conjunto.",
+        "La pérdida total no tiene que distribuirse proporcionalmente entre títulos. Aquí el acreedor pierde $10 y el accionista gana $6. La identidad valor total = deuda + capital permite verificarlo."
+      ]
+    },
+    {
+      "id": "c19-q038",
+      "tema": "Subinversión por deuda existente",
+      "dificultad": "avanzada",
+      "pregunta": "Las acciones valen $10. Los propietarios podrían aportar $20 para un activo con VP de $30; el proyecto elevaría el valor de la deuda existente en $15. ¿Cuál es el efecto neto para esos accionistas y para el valor económico del proyecto?",
+      "opciones": [
+        "Los accionistas ganan $15 netos porque el capital aumenta $15.",
+        "El proyecto tiene VPN de −$5.",
+        "Los accionistas ganan $10 netos porque todo VPN les pertenece.",
+        "Los accionistas pierden $5 netos pese a un VPN del proyecto de $10."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El incremento bruto de capital de $15 no es una ganancia neta. Para obtenerlo los propietarios deben desembolsar $20. Comparar ambos movimientos muestra una pérdida de $5.",
+        "Los −$5 miden el resultado privado del accionista bajo la transferencia supuesta. El VPN económico del activo sigue siendo $30 − $20 = $10. Confundir ambas medidas oculta el problema de incentivos.",
+        "El acreedor existente captura $15 por la mejora de sus derechos. Esa transferencia supera el VPN de $10. Por eso el VPN total positivo no asegura una ganancia neta del accionista aportante.",
+        "El proyecto tiene VPN = $30 − $20 = $10. El capital aumenta $30 − $15 = $15, pero requiere aportar $20. Los propietarios pierden $5 netos, lo que puede inducirlos a rechazar una inversión valiosa."
+      ]
+    },
+    {
+      "id": "c19-q039",
+      "tema": "Cobrar y correr",
+      "dificultad": "intermedia",
+      "pregunta": "Antes de un dividendo, una firma vale $100: deuda $80 y acciones $20. Paga $12 con efectivo existente y después vale $88: deuda $72 y acciones $16. ¿Cuánto ganan neto los accionistas originales?",
+      "opciones": [
+        "−$4",
+        "$8",
+        "$0",
+        "$12"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La caída de la cotización no incluye el efectivo distribuido. Los accionistas reciben $12 además de conservar las acciones. Al sumar ambos componentes, su riqueza aumenta $8.",
+        "Los propietarios reciben $12 y conservan acciones por $16. Su riqueza pasa de $20 a $28, una mejora de $8. Esa ganancia coincide con la pérdida de los acreedores de $80 a $72.",
+        "El caso no mantiene intacto el valor de la deuda. Los acreedores pierden $8 y los accionistas reciben esa transferencia. Ignorar el cambio de deuda conduce a una falsa neutralidad.",
+        "El dividendo cobrado no es toda la ganancia. También debe considerarse que las acciones bajan $4. El resultado neto es $12 − $4 = $8."
+      ]
+    },
+    {
+      "id": "c19-q040",
+      "tema": "Jugar con el tiempo",
+      "dificultad": "intermedia",
+      "pregunta": "Un director oculta deterioros contables y recorta mantenimiento necesario para aparentar recuperación y demorar un acuerdo con acreedores. ¿Qué incentivo ilustra?",
+      "opciones": [
+        "Crear un escudo fiscal sin costos operativos.",
+        "Eliminar la asimetría informativa mediante mayor transparencia.",
+        "Aceptar siempre proyectos con VPN positivo.",
+        "Prolongar la oportunidad de recuperación de los accionistas a costa de deteriorar activos y transparencia."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "No todo recorte constituye un beneficio tributario. Si sacrifica mantenimiento valioso, puede destruir más valor del que libera. Aquí el objetivo descrito es demorar el arreglo.",
+        "Ocultar pérdidas reduce la información disponible para los acreedores. No aumenta la transparencia ni elimina la asimetría. El juego depende justamente de dificultar la evaluación del deterioro.",
+        "Una mejora transitoria del resultado contable no demuestra VPN positivo. Omitir mantenimiento necesario puede elevar costos futuros o dañar activos. La evaluación correcta compara beneficios presentes con perjuicios posteriores.",
+        "La demora preserva una posibilidad de rescate para el accionista. Pero esconder problemas y descuidar activos puede reducir el valor recuperable. Ese conflicto puede producir costos de insolvencia antes de cualquier juicio."
+      ]
+    },
+    {
+      "id": "c19-q041",
+      "tema": "Carnada y cambio",
+      "dificultad": "avanzada",
+      "pregunta": "Una recompra apalancada hace caer en $18 el valor de bonos antiguos. Supongamos que no cambia el valor operativo y no hay impuestos ni costos reales; la deuda nueva se coloca a precio justo. ¿Qué ganancia de riqueza corresponde a los accionistas originales por esa transferencia?",
+      "opciones": [
+        "$36",
+        "$0",
+        "−$18",
+        "$18"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Duplicar $18 cuenta la misma transferencia dos veces. La pérdida de un grupo y la ganancia del otro son las dos caras de un solo movimiento. El valor conjunto permanece constante en este caso idealizado.",
+        "La neutralidad de valor total no implica neutralidad entre titulares. La nueva deuda perjudica derechos antiguos no protegidos. Esa pérdida puede aumentar la riqueza de los accionistas originales.",
+        "El signo de la transferencia está invertido. Los acreedores antiguos son quienes sufren el deterioro del título. Bajo los supuestos, los propietarios capturan esa pérdida como ganancia.",
+        "Sin cambio en valor operativo ni costos reales, la pérdida de los bonos antiguos es una transferencia. Los acreedores nuevos pagan un precio justo y no aportan riqueza gratuita. Los accionistas anteriores capturan los $18 perdidos por los acreedores antiguos."
+      ]
+    },
+    {
+      "id": "c19-q042",
+      "tema": "Costos de agencia y transferencias",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué los conflictos entre acreedores y accionistas pueden reducir el valor total, además de redistribuirlo?",
+      "opciones": [
+        "Porque pueden inducir inversiones de VPN negativo o el rechazo de inversiones de VPN positivo.",
+        "Porque toda transferencia entre títulos destruye exactamente el mismo monto de recursos.",
+        "Porque los acreedores nunca anticipan los incentivos de los accionistas.",
+        "Porque la maximización del valor accionario siempre coincide con la del valor total."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La transferencia por sí sola cambia quién cobra. El costo económico aparece cuando el incentivo altera decisiones y se pierde valor conjunto. La sustitución por riesgo y la subinversión muestran ambos canales.",
+        "Una transferencia puede dejar intacto el valor total. Para hablar de destrucción deben identificarse recursos consumidos u oportunidades perdidas. Confundir reparto y eficiencia impide medir los costos de agencia.",
+        "Los acreedores pueden anticipar esos juegos y exigir protección o compensación. Esa anticipación se refleja en precios y contratos. No elimina necesariamente las malas decisiones ni sus costos.",
+        "Con deuda riesgosa, los beneficios de un proyecto se reparten entre títulos de forma desigual. Los accionistas pueden favorecer una decisión que perjudique más a los acreedores. Por eso sus objetivos privados pueden divergir del valor total."
+      ]
+    },
+    {
+      "id": "c19-q043",
+      "tema": "Racionamiento de crédito e incentivos",
+      "dificultad": "avanzada",
+      "pregunta": "Con tasa de descuento cero y sin impuestos, dos proyectos cuestan $30. El seguro paga $40; el riesgoso paga $70 con probabilidad 40% y cero en otro caso. Un préstamo promete $25 en ambos. Si los accionistas aportan los $5 restantes y eligen para maximizar su pago neto esperado, ¿qué proyecto prefieren y cuál maximiza el VPN total?",
+      "opciones": [
+        "Los accionistas prefieren el seguro; el VPN total favorece al riesgoso.",
+        "Ambos criterios favorecen al seguro.",
+        "Ambos criterios favorecen al riesgoso.",
+        "Los accionistas prefieren el riesgoso; el VPN total favorece al seguro."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El accionista compara $15 seguros con $18 esperados bajo los supuestos dados. El proyecto seguro produce más valor conjunto, no menos. La alternativa invierte ambos criterios.",
+        "El seguro maximiza el valor conjunto, pero no el pago esperado privado. Los acreedores soportan parte importante del resultado malo del riesgoso. Esa distribución crea la discrepancia entre criterios.",
+        "El pago esperado total del riesgoso es solo 40% × $70 = $28. Eso es menor que la inversión de $30. La preferencia privada por $18 no convierte en positivo el VPN del proyecto.",
+        "Con el seguro, el pago accionario es $40 − $25 = $15. Con el riesgoso, su pago esperado es 40% × $45 = $18; el aporte de $5 es igual en ambos. Los VPN totales son $10 y −$2, por lo que el banco debe considerar el incentivo antes de prestar."
+      ]
+    },
+    {
+      "id": "c19-q044",
+      "tema": "Cláusula de cobertura de intereses",
+      "dificultad": "intermedia",
+      "pregunta": "Un contrato permite nueva deuda solo si EBIT/intereses resulta estrictamente mayor que 2. EBIT = $120 y el interés actual es $40. La deuda propuesta agrega $20 de interés anual. ¿Se cumple la cláusula?",
+      "opciones": [
+        "Sí: la cobertura actual es 3.",
+        "No: la cobertura resultante es exactamente 2.",
+        "No: la cobertura resultante es 0,5.",
+        "Sí: alcanzar 2 cumple la condición de superar 2."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cobertura actual es 3, pero la cláusula debe aplicarse después de la nueva deuda. El interés adicional reduce la relación. Usar solo el estado previo omite el efecto que se busca limitar.",
+        "El interés total sería $40 + $20 = $60. La cobertura posterior sería $120 / $60 = 2. Como se exige un valor estrictamente mayor, la emisión no cumple.",
+        "El resultado 0,5 invierte numerador y denominador. La cobertura se calcula como EBIT dividido por intereses. Aun con la fórmula correcta, la propuesta incumple por quedar exactamente en 2.",
+        "La igualdad no satisface una desigualdad estricta. El contrato podría haber usado mayor o igual, pero no lo hizo. La condición informada impide aprobar esta operación."
+      ]
+    },
+    {
+      "id": "c19-q045",
+      "tema": "Beneficios y límites de los convenios",
+      "dificultad": "avanzada",
+      "pregunta": "Un acreedor puede vetar cualquier inversión riesgosa y rechaza una con VPN positivo. ¿Qué conclusión corresponde al diseño de cláusulas?",
+      "opciones": [
+        "Cuantas más restricciones, mayor valor empresarial sin excepciones.",
+        "Un contrato puede prever a costo nulo todas las contingencias futuras.",
+        "Deben balancearse la protección contra abusos y el costo de impedir inversiones valiosas.",
+        "La vigilancia no tiene costo si está escrita en el contrato."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una protección extrema puede impedir inversiones de VPN positivo. Eso reduce el valor disponible para todos los títulos. La cantidad de cláusulas no es un indicador automático de eficiencia.",
+        "No es posible anticipar sin costo toda conducta y todo estado futuro. Agregar detalle también encarece negociación y cumplimiento. Por eso la contratación no elimina todos los conflictos.",
+        "La restricción puede reducir el traslado de riesgo, pero también bloquear oportunidades buenas. Negociar permisos y supervisar decisiones consume recursos y tiempo. Los contratos incompletos requieren considerar beneficios y costos, no maximizar restricciones.",
+        "Controlar el cumplimiento requiere información, análisis y seguimiento. Los acreedores pueden incorporar ese costo al rendimiento exigido. La escritura del convenio no vuelve gratuito su control."
+      ]
+    },
+    {
+      "id": "c19-q046",
+      "tema": "Incidencia inicial y reputación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué los accionistas pueden beneficiarse inicialmente de cláusulas razonables y de una reputación de respetar a los acreedores?",
+      "opciones": [
+        "Porque trasladan todos los costos de vigilancia al gobierno.",
+        "Porque reducen riesgos y costos anticipados, mejorando las condiciones a las que se obtiene financiamiento.",
+        "Porque permiten engañar a prestamistas repetidamente sin consecuencias.",
+        "Porque garantizan que nunca habrá un problema operativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La vigilancia sigue siendo un costo privado del financiamiento. Puede reflejarse en tasas mayores pagadas por la empresa. No hay un traslado automático al presupuesto público.",
+        "Un acreedor protegido puede aceptar mejores condiciones de precio y rendimiento. Los propietarios se benefician de necesitar menos compensación por abusos esperados. La reputación también ayuda a conservar acceso a préstamos futuros.",
+        "Una ganancia oportunista actual puede cerrar o encarecer el crédito posterior. Los prestamistas aprenden y anticipan comportamientos. La reputación tiene valor precisamente porque las relaciones pueden repetirse.",
+        "Las cláusulas no eliminan riesgos comerciales ni tecnológicos. Su función es reducir conflictos de conducta y mejorar protección contractual. No sustituyen una buena operación del negocio."
+      ]
+    },
+    {
+      "id": "c19-q047",
+      "tema": "Naturaleza de los activos",
+      "dificultad": "intermedia",
+      "pregunta": "Un director compara un depósito logístico transferible con una empresa de investigación cuyo valor depende de científicos y proyectos futuros. Con igual probabilidad de insolvencia, ¿cuál suele justificar más cautela con deuda?",
+      "opciones": [
+        "El depósito, porque todo activo tangible desaparece al cambiar de dueño.",
+        "La empresa de investigación debería endeudarse más porque sus científicos no figuran como deuda.",
+        "La empresa de investigación, por el valor que puede perder si se interrumpe el negocio en marcha.",
+        "Ambas deben tener idéntica deuda por compartir probabilidad de insolvencia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un cambio de propietario no destruye necesariamente la utilidad del depósito. Puede haber costos de venta y proceso sin que desaparezca todo su valor. La tangibilidad y transferibilidad pueden mejorar la recuperación.",
+        "Que el capital humano no sea deuda contable no evita su pérdida. Si los científicos se van, pueden destruirse proyectos y conocimientos organizativos. Ese riesgo favorece prudencia, no más deuda por una omisión contable.",
+        "Los conocimientos, equipos humanos y oportunidades pueden dispersarse durante las dificultades. Un inmueble utilizable por otro dueño puede conservar mejor su valor. La decisión considera tanto la probabilidad como la magnitud de la pérdida condicionada.",
+        "La probabilidad es solo una dimensión del costo esperado. Dos empresas igualmente propensas a problemas pueden perder montos muy diferentes. La estructura de activos importa para determinar esos montos."
+      ]
+    },
+    {
+      "id": "c19-q048",
+      "tema": "Solvencia como activo comercial",
+      "dificultad": "avanzada",
+      "pregunta": "Una intermediaria de contratos de energía pierde de inmediato todas sus contrapartes cuando se duda de que cumpla compromisos futuros. ¿Qué enseña este caso, semejante al negocio de intermediación de Enron?",
+      "opciones": [
+        "La pérdida de confianza afecta solo el reparto entre deuda y acciones.",
+        "La confianza en la solvencia puede sostener un activo operativo que se destruye con dificultades financieras.",
+        "El negocio puede venderse siempre intacto como un inmueble.",
+        "Toda caída de su capitalización anterior representa necesariamente costo genuino de insolvencia."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La desaparición de contratos reduce flujos operativos, no solo redistribuye derechos. Por eso puede disminuir el valor total de la firma. La solvencia y la operación están conectadas en este caso.",
+        "Los contratos futuros requieren confiar en el cumplimiento de la contraparte. Sin clientes dispuestos a operar, la red comercial puede desaparecer. Ese daño real debe distinguirse de correcciones de precios previamente inflados o de pérdidas operativas independientes.",
+        "El valor de una red de transacciones depende de relaciones continuas y credibilidad. Puede evaporarse antes de una venta. No tiene necesariamente la resistencia al cambio de dueño de un activo físico.",
+        "Una cotización anterior puede haber incorporado ganancias inexistentes o expectativas erróneas. Su corrección no prueba destrucción causada por insolvencia. Hay que identificar el negocio real perdido por falta de confianza."
+      ]
+    },
+    {
+      "id": "c19-q049",
+      "tema": "Predicciones sectoriales del intercambio",
+      "dificultad": "intermedia",
+      "pregunta": "Según la teoría del intercambio, ¿qué combinación favorece una meta de deuda relativamente mayor?",
+      "opciones": [
+        "Activos seguros y tangibles e ingresos gravables suficientes.",
+        "Gran probabilidad de perder empleados clave y escaso ahorro fiscal.",
+        "Activos intangibles riesgosos y pérdidas tributarias persistentes.",
+        "Oportunidades cuyo valor desaparece al interrumpir la investigación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tangibilidad puede reducir pérdidas en una reorganización. Los ingresos gravables permiten aprovechar los intereses deducibles. Juntos mejoran el intercambio entre beneficios fiscales y costos esperados.",
+        "La pérdida de empleados aumenta el costo de dificultades financieras. Un escudo pequeño aporta poca compensación. Esa combinación favorece prudencia en lugar de mayor apalancamiento.",
+        "Esta combinación debilita el escudo y eleva los daños potenciales. La teoría favorece más capital propio en esas condiciones. No es la combinación que sostiene mayor deuda.",
+        "Las oportunidades dependientes de continuidad pueden dañarse por falta de inversión. La deuda puede agravar ese problema de subinversión. Por eso no constituye una razón automática para elevar la meta."
+      ]
+    },
+    {
+      "id": "c19-q050",
+      "tema": "Costos de ajuste hacia la meta",
+      "dificultad": "intermedia",
+      "pregunta": "Dos firmas comparten una meta de endeudamiento, pero exhiben razones distintas durante varios años. ¿Es necesariamente incompatible con el intercambio?",
+      "opciones": [
+        "No: costos de ajuste y perturbaciones pueden alejar temporalmente la deuda de su meta.",
+        "No: porque la teoría niega que exista una meta.",
+        "Sí: la teoría exige ajuste instantáneo y gratuito en la práctica.",
+        "Sí: una meta solo existe si nunca cambia el valor de los activos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Emitir y retirar títulos puede tener costos. Las fluctuaciones del negocio también alteran la razón observada. Una meta común no implica que ambas firmas estén exactamente en ella en cada momento.",
+        "La teoría del intercambio sí plantea una mezcla que maximiza el valor. La falta de una meta bien definida caracteriza a la versión básica de elección jerárquica. Confundirlas impide interpretar los desvíos.",
+        "La predicción de ajuste inmediato exige ausencia de costos. Si modificar la estructura es costoso, pueden existir retrasos. La teoría puede admitir diferencias transitorias.",
+        "Una meta es una orientación para la mezcla financiera, no una condición de activos inmóviles. Los cambios de valor pueden causar desvíos. La existencia de esos cambios no elimina el concepto de objetivo."
+      ]
+    },
+    {
+      "id": "c19-q051",
+      "tema": "Rentabilidad y límites del intercambio",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué regularidad dentro de una industria resulta difícil de explicar con la versión simple del intercambio?",
+      "opciones": [
+        "Las empresas con activos tangibles suelen disponer de más garantías.",
+        "Las dificultades financieras pueden destruir activos intangibles.",
+        "Las tasas marginales importan para el escudo fiscal.",
+        "Las empresas más rentables suelen tener menos deuda, aunque podrían aprovechar más deducciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las garantías y recuperaciones ayudan a explicar más deuda en empresas tangibles. Esa observación suele ser congruente con el intercambio. No constituye la dificultad central de la pregunta.",
+        "La pérdida de intangibles es un componente del costo de insolvencia. La teoría lo utiliza para justificar menos deuda. Por eso no contradice su mecanismo básico.",
+        "La tasa marginal determina cuánto impuesto adicional puede ahorrarse. Esa relación forma parte de la teoría. No representa una regularidad contraria a sus predicciones.",
+        "Más rentabilidad debería dar capacidad de servicio y base imponible para más deuda. Sin embargo, muchas firmas rentables se financian de forma conservadora. La elección jerárquica ofrece otra explicación mediante la abundancia de fondos internos."
+      ]
+    },
+    {
+      "id": "c19-q052",
+      "tema": "MM como referencia y prudencia financiera",
+      "dificultad": "avanzada",
+      "pregunta": "Una farmacéutica conserva capacidad de inversión después de retirar un producto importante. Un director afirma que eso demuestra que antes debía haberse endeudado al máximo. ¿Qué evaluación es más sólida?",
+      "opciones": [
+        "Una sola experiencia favorable permite fijar una razón óptima universal.",
+        "La supervivencia prueba que toda deuda adicional habría sido gratuita.",
+        "MM implica que impuestos y costos de insolvencia nunca deben considerarse.",
+        "La reserva financiera pudo preservar inversiones; hay que contrastar ese beneficio con los escudos fiscales desaprovechados."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las estructuras dependen de impuestos, activos, riesgos y oportunidades. Una experiencia aislada no identifica sus valores marginales. El análisis no produce una razón universal válida para todas las empresas.",
+        "Sobrevivir con poca deuda no prueba que se habría sobrevivido igual con más obligaciones. El contrafactual puede incluir recortes de inversión o dificultades. La deuda adicional tampoco carece de costo por definición.",
+        "MM ofrece una referencia para aislar las fricciones que hacen relevante el financiamiento. Incorporar impuestos y dificultades amplía ese razonamiento. No obliga a ignorar efectos que el modelo básico había excluido.",
+        "Una estructura conservadora puede absorber sorpresas y sostener investigación valiosa. Eso tiene un beneficio económico potencial frente a más deuda. También puede haber un costo por escudos no utilizados, por lo que se necesita evaluar ambos lados."
+      ]
+    },
+    {
+      "id": "c19-q053",
+      "tema": "Información asimétrica",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el punto de partida de la teoría de la elección jerárquica?",
+      "opciones": [
+        "Los inversionistas siempre conocen antes todos los proyectos secretos.",
+        "Los administradores conocen mejor que los inversionistas externos ciertas perspectivas, riesgos y valores de la empresa.",
+        "La empresa debe mantener una razón de deuda fija universal.",
+        "Todos los títulos transmiten exactamente la misma información."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La teoría parte de una ventaja informativa de los administradores. No supone que los externos conozcan primero los planes internos. Invertir esa relación elimina el mecanismo que se pretende explicar.",
+        "La información interna no está completamente disponible para el mercado. Las decisiones financieras pueden revelar parte de ella. Esto influye en la preferencia por fondos internos y por títulos menos sensibles a información privada.",
+        "La elección jerárquica básica no impone una mezcla universal de deuda y capital. Explica una secuencia de fuentes de financiamiento. La razón observada puede reflejar las necesidades externas acumuladas.",
+        "Las acciones dependen ampliamente de las perspectivas residuales del negocio. Una deuda segura es menos sensible a esa información. La diferencia entre títulos ayuda a explicar el orden de preferencia."
+      ]
+    },
+    {
+      "id": "c19-q054",
+      "tema": "Dilución por emisión subvaluada",
+      "dificultad": "intermedia",
+      "pregunta": "Hay 100 acciones que realmente valen $120 cada una, aunque cotizan a $100. Se emiten 20 nuevas a $100 para conservar $2.000 en efectivo; no hay proyecto, impuestos ni otros efectos. ¿Cuál es el valor real por acción después de emitir?",
+      "opciones": [
+        "$116,67 aproximadamente.",
+        "$100.",
+        "$120.",
+        "$140."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los activos previos valen $12.000 y entra efectivo por $2.000. El total de $14.000 se divide entre 120 acciones, dando $116,67. Emitir por debajo del valor real transfiere riqueza desde accionistas anteriores a los nuevos.",
+        "El precio de emisión no determina por sí mismo el valor real de todos los activos. El caso informa un valor previo de $12.000. Sumar los $2.000 captados y dividir por 120 da un valor superior a $100.",
+        "El valor previo por acción no permanece intacto cuando se vende participación demasiado barata. Las nuevas acciones aportan solo $100 cada una. Ese aporte no sostiene el valor de $120 para las 120 acciones posteriores.",
+        "Dividir $14.000 por las 100 acciones anteriores ignora los nuevos derechos emitidos. Después de la operación hay 120 acciones. El denominador completo es indispensable para medir la dilución."
+      ]
+    },
+    {
+      "id": "c19-q055",
+      "tema": "Emisión de acciones como señal",
+      "dificultad": "intermedia",
+      "pregunta": "Una administradora pesimista quiere aprovechar una cotización que considera alta. Los inversionistas racionales conocen ese incentivo. ¿Qué limita la aparente ventaja de emitir acciones?",
+      "opciones": [
+        "El anuncio puede hacer que revisen el precio a la baja y reduzcan la sobrevaluación aprovechable.",
+        "La emisión garantiza que el valor verdadero aumente hasta el precio deseado.",
+        "La administradora puede revelar pesimismo sin afectar ninguna expectativa.",
+        "Los compradores están obligados a pagar la cotización anterior al anuncio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los compradores interpretan la elección de acciones a la luz de los incentivos del emisor. Pueden inferir que el precio anterior era demasiado optimista. Esa reacción reduce o elimina la posibilidad de vender caras las nuevas acciones.",
+        "Emitir títulos no mejora automáticamente los activos operativos. La entrada de fondos tiene como contrapartida nuevos derechos. No obliga al valor económico a coincidir con el deseo de la administración.",
+        "El pesimismo informado afecta la estimación de flujos futuros. Si los inversionistas lo consideran relevante, cambia su valoración. El caso no permite suponer expectativas invariables.",
+        "La cotización previa no garantiza un precio fijo para una emisión futura. Los inversionistas ajustan sus ofertas cuando reciben información. Ignorar esa actualización contradice la racionalidad supuesta."
+      ]
+    },
+    {
+      "id": "c19-q056",
+      "tema": "Revelación de información y señales",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma con buenas perspectivas prefiere un préstamo antes que publicar todos sus planes para convencer al mercado. ¿Qué explicación es compatible con la información asimétrica?",
+      "opciones": [
+        "Los anuncios de dividendos nunca pueden comunicar expectativas de la administración.",
+        "Revelar información verificable puede ser costoso y útil para competidores; un anuncio optimista por sí solo no garantiza credibilidad.",
+        "Todo comunicado favorable obliga a subir inmediatamente la cotización.",
+        "La deuda segura exige revelar al público cada detalle tecnológico."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los cambios de dividendos pueden interpretarse como señales sobre utilidades futuras. Esa interpretación refleja que la administración conoce información relevante. Negar toda señal contradice el mecanismo informativo planteado.",
+        "Convencer a externos puede exigir información detallada y sensible. Una firma con malas perspectivas también puede emitir mensajes optimistas. Por eso un préstamo puede evitar vender acciones subvaluadas sin divulgar todos los planes.",
+        "El mercado evalúa la credibilidad del mensaje y su contenido. Una afirmación favorable no crea una obligación de comprar a mayor precio. La información costosa o verificable importa para distinguir emisores.",
+        "Una deuda relativamente segura puede ser menos sensible a detalles del valor residual. El acreedor sí necesita información suficiente para evaluar el riesgo. Eso no equivale a divulgar públicamente cada secreto tecnológico."
+      ]
+    },
+    {
+      "id": "c19-q057",
+      "tema": "Reacción bursátil frente a costo real",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma anuncia una emisión que recauda $80 millones y su valor bursátil cae $16 millones por revelar malas noticias sobre activos existentes. Un proyecto nuevo tiene VPN de $25 millones y honorarios reales adicionales de $2 millones, no incluidos en ese VPN. Sin otras fricciones, ¿qué decisión corresponde?",
+      "opciones": [
+        "Invertir solo si se recuperan primero los $16 millones de cotización mediante contabilidad.",
+        "Rechazar: cualquier caída al anunciar vuelve negativo el proyecto.",
+        "Rechazar: recaudar $80 millones es un costo que supera el VPN.",
+        "Invertir: el proyecto aporta $23 millones netos de honorarios; la revisión informativa no es otro desembolso del proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una corrección contable no crea flujos que restituyan valor perdido. La decisión debe basarse en el VPN incremental y los costos reales pertinentes. No es necesario recuperar primero la cotización anterior.",
+        "Una reacción negativa puede revelar información sobre activos anteriores. No demuestra que toda inversión futura tenga VPN negativo. Aquí el proyecto añade $23 millones después de los honorarios informados.",
+        "El monto recaudado financia la inversión y se intercambia por derechos financieros. El VPN ya considera la inversión necesaria del proyecto. Restar otra vez toda la financiación cuenta dos veces el desembolso económico.",
+        "El beneficio incremental es $25 − $2 = $23 millones. Los $16 millones corrigen la estimación del valor previo según el supuesto y no son otro recurso consumido por el proyecto. No deben confundirse con honorarios ni restarse mecánicamente como un costo real adicional."
+      ]
+    },
+    {
+      "id": "c19-q058",
+      "tema": "Sensibilidad informativa de la deuda",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué la elección jerárquica suele preferir deuda segura antes que acciones, sin afirmar que toda deuda carece de problemas informativos?",
+      "opciones": [
+        "La deuda riesgosa elimina la necesidad de evaluar al emisor.",
+        "La deuda segura depende menos de información privada sobre el valor residual; la deuda riesgosa también puede verse afectada por noticias ocultas.",
+        "Toda deuda paga lo mismo en todos los estados, incluso al incumplir.",
+        "La elección de deuda prueba siempre que el administrador es optimista."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El acreedor necesita estimar probabilidad de impago y recuperación. Las noticias privadas pueden modificar ambas. Por eso la deuda riesgosa no evita automáticamente selección adversa.",
+        "Si la capacidad de pago es sólida, pequeños cambios de perspectivas afectan poco el cobro del acreedor. Las acciones absorben más directamente esas variaciones. Cuando el incumplimiento es relevante, la deuda también se vuelve sensible a información privada.",
+        "La deuda promete pagos, pero no garantiza recuperarlos en todo estado. En incumplimiento puede pagar menos. Esa diferencia es central para entender su sensibilidad informativa.",
+        "Un administrador pesimista también puede emitir deuda para evitar una señal negativa al vender acciones. Por tanto, observar deuda no identifica de manera inequívoca su información. La señal debe interpretarse dentro del contexto."
+      ]
+    },
+    {
+      "id": "c19-q059",
+      "tema": "Excepciones a la emisión como mala señal",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa joven de tecnología necesita crecer rápido y sus intangibles perderían mucho valor en insolvencia. ¿Cómo interpretar que emita acciones?",
+      "opciones": [
+        "Es imposible porque la elección jerárquica prohíbe toda emisión accionaria.",
+        "Prueba necesariamente que sus proyectos tienen VPN negativo.",
+        "Puede ser una financiación razonable para crecer sin agotar su capacidad de deuda, aunque haya efectos informativos.",
+        "Demuestra que toda emisión carece de costos y de señal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La teoría describe preferencias sujetas a restricciones y otras fricciones. No es una prohibición absoluta de emitir acciones. Las empresas jóvenes y las que agotan su capacidad de deuda son excepciones relevantes.",
+        "La fuente financiera no determina por sí sola el signo del VPN. Un buen proyecto puede requerir capital para evitar dificultades. Hay que evaluar inversiones y financiamiento sin confundir ambos juicios.",
+        "El crecimiento puede superar los fondos internos disponibles. Si más deuda expone intangibles a daños importantes, el capital externo puede ser conveniente. La explicación observable de esa necesidad puede moderar la señal negativa sin hacerla desaparecer siempre.",
+        "Una justificación razonable no vuelve gratuita la emisión. Pueden existir honorarios y efectos de información. La conclusión correcta admite la emisión sin negar esos costos."
+      ]
+    },
+    {
+      "id": "c19-q060",
+      "tema": "Orden de las fuentes de fondos",
+      "dificultad": "basica",
+      "pregunta": "Si son viables y se aplica la elección jerárquica, ¿qué secuencia refleja mejor la preferencia de financiamiento?",
+      "opciones": [
+        "Acciones nuevas, convertibles, deuda segura y fondos internos.",
+        "Fondos internos, deuda segura, instrumentos híbridos como convertibles y acciones nuevas.",
+        "Acciones nuevas y fondos internos como fuentes indistinguibles en la jerarquía.",
+        "Deuda riesgosa, acciones nuevas y recién después efectivo disponible."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La secuencia invierte las preferencias principales. El capital externo suele ser la última fuente, no la primera. Los fondos internos ocupan el lugar más alto de la jerarquía.",
+        "Los fondos internos evitan colocar títulos frente a inversionistas menos informados. Si hace falta dinero externo, se prefiere el título más seguro antes que derechos más sensibles. Los híbridos pueden quedar entre deuda y acciones.",
+        "Ambas fuentes son capital propio en un sentido contable amplio. Pero solo una exige vender derechos nuevos al mercado. Esa diferencia es justamente la razón de ubicarlas en extremos de la jerarquía.",
+        "Usar primero títulos sensibles y costosos omite la disponibilidad interna. La teoría comienza por fondos propios ya generados. Tampoco prioriza deuda riesgosa sobre deuda segura disponible."
+      ]
+    },
+    {
+      "id": "c19-q061",
+      "tema": "Dividendos y necesidades financieras",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué papel cumplen los dividendos en la versión habitual de la elección jerárquica?",
+      "opciones": [
+        "Se recalculan a cero automáticamente cada vez que surge una inversión.",
+        "Obligan a mantener siempre una razón de deuda fija.",
+        "No afectan los recursos internos disponibles para invertir.",
+        "Sus metas se adaptan a oportunidades de inversión, pero se evitan cambios bruscos y eso genera déficits o excedentes transitorios."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La teoría reconoce cierta rigidez de los pagos. Una oportunidad nueva no implica cancelar automáticamente todos los dividendos. Esa rigidez ayuda a explicar por qué puede requerirse financiación externa.",
+        "La jerarquía no deriva una meta fija de deuda a partir de dividendos. La razón puede cambiar con déficits acumulados. Una meta de estructura corresponde a un mecanismo distinto.",
+        "Los dividendos consumen efectivo que podría financiar inversión. Deben restarse para medir los fondos internos netos. Ignorarlos subestima la necesidad de recursos externos.",
+        "La empresa busca coherencia entre pagos e inversión sin variar dividendos abruptamente. Las utilidades y las oportunidades pueden fluctuar más rápido que esos pagos. El desajuste resultante explica parte de la financiación o reducción de deuda."
+      ]
+    },
+    {
+      "id": "c19-q062",
+      "tema": "Déficit de financiación",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma genera $100 de efectivo antes de dividendos, paga $20 e invierte $130. Puede usar $15 de caja excedente sin afectar operaciones. Si aún tiene capacidad de deuda y sigue la jerarquía, ¿cuánta deuda nueva necesita?",
+      "opciones": [
+        "$50",
+        "$65",
+        "$10",
+        "$35"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $50 son el faltante antes de utilizar la caja disponible. El caso permite aplicar $15 sin afectar operaciones. Por eso la necesidad externa final es $35.",
+        "Sumar la caja al déficit invierte su función. La caja existente es una fuente y reduce la deuda requerida. El cálculo correcto es $130 + $20 − $100 − $15.",
+        "Comparar solo inversión con generación y caja omite los dividendos. Los $20 distribuidos ya no pueden financiar el proyecto. Deben incluirse para hallar el déficit de $35.",
+        "Tras dividendos quedan $80 de fondos generados. La inversión de $130 deja un faltante de $50, reducido a $35 al usar la caja excedente de $15. Ese remanente se financia con deuda antes que con acciones."
+      ]
+    },
+    {
+      "id": "c19-q063",
+      "tema": "Excedente de fondos internos",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma genera $180 antes de dividendos, paga $30 e invierte $90. No desea aumentar caja y tiene deuda por cancelar de sobra. Según la jerarquía, ¿cuánto puede reducir su deuda sin emitir títulos?",
+      "opciones": [
+        "$60",
+        "$150",
+        "$90",
+        "$120"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los recursos netos de dividendos son $150. Después de invertir $90 quedan $60 disponibles. Ese excedente permite cancelar $60 de deuda sin financiación externa.",
+        "Los $150 son el flujo después de dividendos y antes de inversión. Todavía deben financiarse los $90 del programa de capital. Solo el saldo de $60 puede ir a deuda.",
+        "La diferencia entre generación e inversión omite los $30 distribuidos. Ese efectivo tampoco está disponible para amortizar deuda. El excedente final es $60.",
+        "Restar solo dividendos de una parte incorrecta del flujo no cubre la inversión necesaria. Deben restarse tanto $30 como $90 de los $180. La cantidad disponible es $60."
+      ]
+    },
+    {
+      "id": "c19-q064",
+      "tema": "Rentabilidad y deuda acumulada",
+      "dificultad": "intermedia",
+      "pregunta": "Dos firmas de una industria invierten montos similares y sostienen dividendos relativamente estables. Una es persistentemente más rentable. ¿Qué predice la elección jerárquica, manteniendo iguales otras condiciones?",
+      "opciones": [
+        "La más rentable necesita menos deuda externa y puede reducirla con excedentes; la razón observada refleja necesidades acumuladas.",
+        "La menos rentable emite siempre acciones antes que deuda.",
+        "La más rentable debe emitir deuda solo para alcanzar una meta universal mayor.",
+        "Ambas mantienen necesariamente idéntica razón de deuda porque invierten igual."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Más rentabilidad proporciona más recursos internos para una inversión similar. Eso reduce déficits o permite amortizar obligaciones. La menor deuda resultante no requiere suponer una meta de endeudamiento más baja.",
+        "La firma menos rentable enfrenta mayor déficit interno. Si puede endeudarse, la teoría prioriza esa fuente antes que las acciones. No invierte automáticamente el orden por tener menor rentabilidad.",
+        "Esa explicación se apoya en una meta fiscal, no en la jerarquía básica. Aquí la empresa usa primero sus fondos internos. Una rentabilidad mayor puede reducir su recurso al crédito.",
+        "Invertir lo mismo no significa generar el mismo efectivo. La diferencia de rentabilidad produce necesidades externas distintas. Con el tiempo, esas necesidades pueden generar razones de deuda diferentes."
+      ]
+    },
+    {
+      "id": "c19-q065",
+      "tema": "Evidencia entre empresas y teorías",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué lectura resume mejor la evidencia comparativa de estructura de capital tratada en el capítulo?",
+      "opciones": [
+        "Mayor tamaño y tangibilidad se asocian con más deuda; mayor rentabilidad y mercado/libros, con menos, y las teorías explican partes distintas.",
+        "Mayor rentabilidad y mayor mercado/libros se asocian necesariamente con más deuda.",
+        "La asociación entre impuestos y emisiones prueba por sí sola toda la teoría del intercambio.",
+        "La jerarquía funciona igual de bien para firmas jóvenes sin acceso a bonos y grandes firmas maduras."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El tamaño y las garantías encajan con menores costos de insolvencia. La relación inversa con rentabilidad encaja con fondos internos abundantes; mercado/libros puede reflejar crecimiento o rentabilidad. La jerarquía suele describir mejor grandes firmas maduras que muchas empresas jóvenes en expansión.",
+        "La dirección informada para esas asociaciones es la contraria. Las firmas rentables pueden financiarse internamente y las oportunidades de crecimiento pueden requerir prudencia. Una correlación tampoco debe convertirse sin más en causalidad universal.",
+        "Que los impuestos influyan en una elección no identifica un único modelo completo. También importan incentivos, información y costos de dificultades. La evidencia histórica y entre regímenes fiscales exige evitar conclusiones causales demasiado fuertes.",
+        "El acceso a deuda pública y la etapa de desarrollo importan. Las empresas jóvenes pueden necesitar capital externo para crecer sin asumir dificultades costosas. La evidencia no exige igual desempeño en ambos grupos."
+      ]
+    },
+    {
+      "id": "c19-q066",
+      "tema": "Ánimo del mercado y financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un director considera que el mercado alterna entre entusiasmo y pesimismo excesivos y aprovecha precios altos para emitir acciones. ¿Qué explicación de la estructura de capital ilustra?",
+      "opciones": [
+        "El aprovechamiento del ánimo del mercado puede dejar efectos acumulados sobre la razón de deuda.",
+        "La prueba de que toda subida bursátil se debe a emisión de acciones.",
+        "El mantenimiento obligatorio de deuda/valor constante cada día.",
+        "La neutralidad exacta de los impuestos personales y corporativos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Emitir cuando el precio parece alto aumenta el capital captado y puede reducir la deuda relativa. Evitar emisiones cuando el precio parece bajo puede acumular endeudamiento. El historial de valoraciones y decisiones deja así una huella en la estructura observada.",
+        "Una subida puede preceder y motivar la emisión. Eso no prueba que la emisión sea su causa. Hay que distinguir el momento elegido de una relación causal inversa.",
+        "Aprovechar ventanas de emisión puede alejar la razón de una meta fija. La conducta no exige reajustar diariamente deuda y capital. Su resultado puede ser precisamente una huella persistente de decisiones pasadas.",
+        "La decisión descrita depende de valoraciones percibidas, no de una igualdad tributaria. No se informan tasas para comprobar neutralidad fiscal. Son mecanismos distintos."
+      ]
+    },
+    {
+      "id": "c19-q067",
+      "tema": "Holgura financiera",
+      "dificultad": "basica",
+      "pregunta": "¿Qué constituye holgura financiera y dónde suele ser especialmente valiosa?",
+      "opciones": [
+        "Solo utilidades contables retenidas, aunque no haya liquidez ni crédito.",
+        "Un excedente que debe conservarse ilimitadamente, sin considerar oportunidades ni incentivos.",
+        "Caja, títulos líquidos, activos fácilmente vendibles y acceso rápido a crédito, sobre todo ante oportunidades de crecimiento con VPN positivo.",
+        "Únicamente endeudarse hasta el límite para tener más intereses deducibles."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una utilidad retenida puede estar inmovilizada en activos difíciles de vender. No garantiza recursos disponibles ante una oportunidad. La holgura depende de liquidez y acceso efectivo a fondos.",
+        "La liquidez tiene costos y también puede alimentar inversiones deficientes. No existe una recomendación de acumulación sin límite. Debe relacionarse con oportunidades reales y problemas de agencia.",
+        "La holgura permite obtener recursos a tiempo sin vender acciones en malas condiciones. Incluye fuentes líquidas y capacidad de endeudamiento preservada. Su valor aumenta cuando perder una inversión buena por falta de fondos sería costoso.",
+        "Agotar la capacidad de deuda puede reducir el margen para financiar inversiones futuras. El escudo fiscal no es el único beneficio o costo relevante. Conservar acceso rápido a crédito puede justificar menos deuda hoy."
+      ]
+    },
+    {
+      "id": "c19-q068",
+      "tema": "Lado oscuro de la holgura",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa madura tiene mucho efectivo, pocas inversiones rentables y administradores que quieren comprar negocios de bajo rendimiento para ampliar su poder. ¿Qué problema aparece?",
+      "opciones": [
+        "El efectivo disponible vuelve irrelevante el costo de capital.",
+        "Toda adquisición financiada con efectivo tiene VPN positivo.",
+        "El problema es necesariamente falta de capacidad para emitir acciones.",
+        "La holgura puede agravar conflictos de agencia e inducir sobreinversión."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El efectivo puede distribuirse o emplearse en alternativas comparables. Por eso conserva un costo de oportunidad aunque no se emitan títulos. Ignorar ese costo facilita aceptar proyectos destructivos.",
+        "La fuente de fondos no determina la rentabilidad de lo comprado. También el efectivo propio tiene un costo de oportunidad. Cada adquisición debe superar una evaluación económica independiente.",
+        "El caso presenta recursos de sobra, no una necesidad de capital externo. El conflicto es cómo se emplean los fondos disponibles. Emitir más acciones no resuelve ese incentivo.",
+        "Los administradores pueden preferir tamaño y beneficios privados antes que devolver fondos. Si invierten por debajo del costo de capital, destruyen valor. La misma flexibilidad que protege buenas inversiones puede facilitar despilfarro cuando faltan oportunidades."
+      ]
+    },
+    {
+      "id": "c19-q069",
+      "tema": "Deuda como disciplina",
+      "dificultad": "avanzada",
+      "pregunta": "Un director propone deuda para obligar a una firma madura a distribuir efectivo y mejorar eficiencia. ¿Qué evaluación incorpora tanto el beneficio como el riesgo?",
+      "opciones": [
+        "Debe fijarse el servicio de deuda para consumir todo el efectivo bajo cualquier escenario.",
+        "Los pagos contractuales pueden limitar el despilfarro, pero una carga excesiva también puede impedir inversiones valiosas y causar insolvencia.",
+        "La deuda elimina por completo los conflictos entre administradores, accionistas y acreedores.",
+        "La deuda disciplina sin imponer nunca restricciones a buenas inversiones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Consumir todo el efectivo incluso en escenarios malos deja sin margen operativo ni financiero. Puede forzar abandono de inversiones o incumplimiento. La idea de disciplina no justifica ese extremo.",
+        "Intereses y principal obligatorios reducen fondos discrecionales. Eso puede disciplinar administradores con tendencia a sobreinvertir. Sin embargo, incertidumbre y oportunidades futuras impiden recomendar una sintonía que agote todos los recursos.",
+        "La deuda puede reducir un conflicto y crear otros con acreedores. También requiere vigilancia y contratos costosos. No constituye una solución universal para todos los problemas de agencia.",
+        "La obligación de pagar también puede apretar cuando aparecen proyectos buenos o caen ingresos. La disciplina no es un beneficio sin contrapartida. Debe compararse con costos de rigidez y dificultades."
+      ]
+    },
+    {
+      "id": "c19-q070",
+      "tema": "Razones contables y de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene deuda con valor contable y de mercado de $100, capital contable de $100 y capital de mercado de $300. ¿Cuáles son deuda/(deuda + capital) en libros y a mercado, y qué implica al comparar evidencia?",
+      "opciones": [
+        "50% en libros y 25% a mercado; debe especificarse la base al comparar razones.",
+        "100% en libros y 33,33% a mercado; ambas cifras miden deuda/(deuda + capital).",
+        "50% en ambas bases porque la deuda no cambia.",
+        "25% en libros y 50% a mercado; la base puede omitirse."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En libros, la razón es $100 / ($100 + $100) = 50%. A mercado es $100 / ($100 + $300) = 25%. Una variación en la valoración del capital cambia la razón de mercado sin exigir nueva deuda, de modo que la base debe identificarse al interpretar relaciones con rentabilidad o períodos históricos.",
+        "Esas cifras calculan deuda/capital, no deuda sobre el total de financiación. Son indicadores diferentes y no deben intercambiarse. Para la razón solicitada hay que incluir la deuda también en el denominador.",
+        "Mantener la deuda fija no mantiene fijo el denominador. El capital de mercado es mayor que el contable en este caso. Por eso la razón a mercado es 25% y no 50%.",
+        "Las dos bases están intercambiadas. El mayor capital de mercado agranda el denominador y reduce la razón de deuda. Precisar la base es necesario para evitar comparaciones engañosas."
+      ]
+    }
+  ]
+}

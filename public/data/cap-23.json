@@ -1,0 +1,1336 @@
+{
+  "capitulo": 23,
+  "titulo": "Opciones reales",
+  "preguntas": [
+    {
+      "id": "c23-q001",
+      "tema": "Naturaleza de las opciones reales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a una opción real de un compromiso rígido de inversión?",
+      "opciones": [
+        "Permite adaptar decisiones futuras sin obligarse hoy a ejecutar todo el plan.",
+        "Obliga a ejecutar el plan sin considerar nueva información.",
+        "Garantiza que el proyecto nunca tendrá pérdidas.",
+        "Elimina la necesidad de estimar flujos de efectivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una opción es un derecho y no una obligación. La administración puede adaptar la inversión a la información futura. Esa flexibilidad puede agregar valor frente a una estrategia pasiva.",
+        "Esto describe precisamente un compromiso rígido. Una opción permite cambiar de decisión ante nueva información. Su valor depende de poder aprovechar ese derecho.",
+        "La flexibilidad puede reducir pérdidas, pero no garantiza recuperar la inversión inicial. También puede perderse la prima pagada por el derecho. La protección depende de qué decisiones estén disponibles.",
+        "La opción se refiere a un activo cuyo valor debe estimarse. Habitualmente se usan flujos descontados para hacerlo. Las opciones complementan ese análisis al incorporar decisiones contingentes."
+      ]
+    },
+    {
+      "id": "c23-q002",
+      "tema": "Clases de opciones reales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conjunto reúne las cuatro grandes clases de opciones reales?",
+      "opciones": [
+        "Auditar, presupuestar, consolidar balances y registrar provisiones.",
+        "Expandir, esperar, abandonar y variar productos o métodos de producción.",
+        "Emitir acciones, pagar dividendos, amortizar deuda y recomprar títulos.",
+        "Cobrar ventas, pagar salarios, liquidar impuestos y amortizar activos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estas son tareas administrativas o contables. No representan por sí mismas flexibilidad de inversión. Las opciones reales se relacionan con decisiones económicas futuras sobre los proyectos.",
+        "Estas decisiones modifican la escala, el momento, la continuidad o la forma de operar. Pueden ejercerse según las condiciones futuras. Por eso describen las cuatro grandes clases de flexibilidad real.",
+        "Son decisiones de financiamiento y distribución de fondos. No constituyen la clasificación de opciones sobre proyectos operativos. La clasificación relevante se refiere a cómo adaptar los activos reales.",
+        "La lista reúne flujos y registros contables. No identifica derechos de decisión contingentes. Una opción exige precisar qué puede decidir la empresa y cuándo."
+      ]
+    },
+    {
+      "id": "c23-q003",
+      "tema": "Expansión y VPA",
+      "dificultad": "basica",
+      "pregunta": "Una plataforma tiene VPN propio de −18 millones y crea exclusivamente una opción incremental de expansión valuada en 26 millones. Sin otras interacciones, ¿cuál es su VPA?",
+      "opciones": [
+        "26 millones.",
+        "44 millones.",
+        "8 millones.",
+        "−44 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 26 millones valúan únicamente la opción. Obtenerla exige asumir el VPN inicial de −18 millones. Por eso el valor total del paquete es 8.",
+        "Este resultado convierte el costo neto inicial en un beneficio. Debe respetarse el signo negativo del VPN. La suma algebraica correcta da 8 millones.",
+        "El VPA suma el VPN inmediato y el valor incremental de la opción. El cálculo es −18 + 26 = 8 millones. Bajo estos supuestos, el paquete crea valor.",
+        "Este resultado resta la opción en lugar de sumarla. El VPN negativo ya representa el costo neto del proyecto inicial. La oportunidad agrega 26 millones y deja un VPA de 8."
+      ]
+    },
+    {
+      "id": "c23-q004",
+      "tema": "Valor estratégico incremental",
+      "dificultad": "intermedia",
+      "pregunta": "Un director justifica un proyecto con VPN negativo porque permitiría lanzar otro producto. ¿Qué debe comprobar antes de agregar esa oportunidad?",
+      "opciones": [
+        "Que cualquier inversión futura de la empresa pueda asignarse a este proyecto.",
+        "Que la expansión sea rentable en todos los estados posibles.",
+        "Que la presentación denomine estratégico al proyecto inicial.",
+        "Que el proyecto inicial realmente cree o abarate el acceso a una oportunidad incremental."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Así se atribuirían beneficios que podrían existir de todos modos. El criterio correcto es incremental. Solo las oportunidades creadas o mejoradas por la inversión justifican agregar valor.",
+        "Una opción puede valer aunque en varios escenarios no convenga invertir. En esos estados, la empresa no ejerce. La rentabilidad garantizada no es un requisito del derecho.",
+        "La etiqueta no identifica pagos ni derechos. Debe precisarse qué oportunidad se obtiene y cuánto cuesta aprovecharla. Recién entonces se puede evaluar su contribución.",
+        "Se compara lo que la empresa puede hacer con y sin el proyecto inicial. Si la oportunidad existiría igual, no corresponde atribuirle todo su valor. Además, deben respetarse dependencias y evitar duplicaciones."
+      ]
+    },
+    {
+      "id": "c23-q005",
+      "tema": "Mapa de una expansión",
+      "dificultad": "basica",
+      "pregunta": "Una empresa puede construir una planta dentro de dos años por 80 millones. El VP actual de sus flujos operativos es 65 millones. ¿Cómo se representa la oportunidad?",
+      "opciones": [
+        "Call sobre un activo de 65 millones, ejercicio de 80 millones y plazo de dos años.",
+        "Put sobre un activo de 80 millones y ejercicio de 65 millones.",
+        "Call cuyo subyacente es el VPN de −15 millones.",
+        "Deuda de 80 millones que necesariamente se pagará al vencimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El activo adquirido es la planta que genera los flujos. Su valor actual es 65 millones y construirla requiere 80 al ejercer. La empresa conserva el derecho de no invertir.",
+        "La oportunidad permite comprar, no vender, un activo. También se invierten incorrectamente valor del activo y desembolso. Corresponde una call con ejercicio de 80 millones.",
+        "El subyacente es el valor bruto del proyecto. La inversión se incorpora separadamente como precio de ejercicio. Usar el VPN como subyacente volvería a descontar el costo.",
+        "El derecho no implica una obligación de desembolso. Los 80 millones se pagan solo si se ejerce. Tratarlo como deuda elimina la flexibilidad que se pretende valuar."
+      ]
+    },
+    {
+      "id": "c23-q006",
+      "tema": "Pago al vencimiento",
+      "dificultad": "basica",
+      "pregunta": "Una expansión cuesta 100 millones al vencimiento. El proyecto vale 140 millones en un estado y 70 en otro. ¿Cuáles son los pagos netos de la opción?",
+      "opciones": [
+        "100 y 100 millones.",
+        "40 y 0 millones.",
+        "140 y 70 millones.",
+        "40 y −30 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 100 millones son un costo, no un cobro. El pago depende del excedente de valor sobre ese costo. Con estos datos, los pagos son 40 y cero.",
+        "La call paga max(V − K, 0). En el estado favorable se obtiene 140 − 100 = 40. En el desfavorable no se ejerce y el pago es cero.",
+        "Estos son los valores brutos de los proyectos. Para adquirirlos hay que pagar el ejercicio de 100. Además, no conviene comprar por 100 algo que vale 70.",
+        "El primer pago es correcto, pero el segundo supone inversión obligatoria. La opción permite evitar ese desembolso desfavorable. Por eso el pago de ejercicio tiene un piso de cero."
+      ]
+    },
+    {
+      "id": "c23-q007",
+      "tema": "Opción fuera del dinero",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué una oportunidad de expansión puede valer aunque el compromiso irrevocable de invertir tenga VPN negativo?",
+      "opciones": [
+        "Porque obliga a promediar las pérdidas y ganancias del compromiso rígido.",
+        "Porque cualquier aumento del riesgo mejora cualquier inversión.",
+        "Porque se ejerce en estados favorables y se evita invertir en estados desfavorables.",
+        "Porque llamar opción a una pérdida la transforma en ganancia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ese promedio corresponde a una inversión obligatoria. Para valuar el derecho, primero se decide si conviene ejercer en cada estado. Las pérdidas evitables no forman parte de su pago de ejercicio.",
+        "La afirmación es demasiado general. Una call estándar puede ganar con mayor dispersión porque tiene pagos convexos. Eso no implica que todos los proyectos o activos se beneficien del riesgo.",
+        "El derecho y la obligación de invertir tienen pagos diferentes. La opción conserva el beneficio potencial sin exigir inversión en estados malos. Esa asimetría explica su valor antes del vencimiento.",
+        "El nombre no altera los pagos. Lo relevante es poder decidir después de recibir información. Sin esa flexibilidad, el compromiso seguiría teniendo su VPN negativo."
+      ]
+    },
+    {
+      "id": "c23-q008",
+      "tema": "Black-Scholes",
+      "dificultad": "intermedia",
+      "pregunta": "Una call europea sin flujos previos tiene S = VP(K) = 100, σ = 40% anual y t = 1 año. Usá d1 = ln[S/VP(K)]/(σ√t) + σ√t/2, d2 = d1 − σ√t y C = S N(d1) − VP(K) N(d2). Si N(0,20) = 0,5793 y N(−0,20) = 0,4207, ¿cuáles son d1, d2 y C?",
+      "opciones": [
+        "d1 = 0,40; d2 = 0; C = 7,93.",
+        "d1 = 0; d2 = 0; C = 0.",
+        "d1 = 0,20; d2 = 0,60; C es negativo.",
+        "d1 = 0,20; d2 = −0,20; C = 15,86."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La volatilidad acumulada es 0,40, pero no es directamente d1. Como ln(1) = 0, d1 vale la mitad de esa volatilidad, es decir 0,20. Luego d2 es −0,20 y la diferencia de los términos de la call da 15,86.",
+        "La igualdad entre S y VP(K) anula el logaritmo, no toda la expresión de d1. Todavía queda el término σ√t/2 = 0,20. La dispersión futura hace que la opción valga 15,86 aunque el excedente actual sea cero.",
+        "El signo en d2 es incorrecto. Debe restarse 0,40 a d1, no sumarlo. Así se obtiene −0,20 y un precio positivo de 15,86, consistente con un derecho que puede no ejercerse.",
+        "Como S/VP(K) = 1, el logaritmo es cero y d1 = 0,40/2 = 0,20. Después, d2 = 0,20 − 0,40 = −0,20. Finalmente, C = 100 × 0,5793 − 100 × 0,4207 = 15,86."
+      ]
+    },
+    {
+      "id": "c23-q009",
+      "tema": "Descuento del ejercicio fijo",
+      "dificultad": "intermedia",
+      "pregunta": "El ejercicio fijo será de 121 millones dentro de dos años. La tasa libre de riesgo efectiva anual es 10% y el costo de capital operativo es 20%. ¿Cuál es el VP del ejercicio bajo el modelo estándar?",
+      "opciones": [
+        "100 millones.",
+        "84,03 millones.",
+        "121 millones.",
+        "110 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El desembolso fijo se descuenta a la tasa libre de riesgo. El cálculo es 121 / 1,10² = 100. El riesgo del negocio se incorpora al valuar sus flujos, no elevando arbitrariamente esta tasa.",
+        "Este valor resulta de descontar al 20%. Esa tasa corresponde al riesgo operativo, no a un ejercicio fijo conocido. Al descontar al 10% durante dos años se obtiene 100.",
+        "Los 121 están expresados en dinero futuro. Falta descontar ambos años. Su valor actual es 100 millones.",
+        "Este resultado descuenta un solo año. El pago ocurre dentro de dos años completos. Debe dividirse por 1,10 dos veces."
+      ]
+    },
+    {
+      "id": "c23-q010",
+      "tema": "Estimación de volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué volatilidad conviene tomar como referencia para una opción sobre activos operativos?",
+      "opciones": [
+        "La de la tasa libre de riesgo como sustituto de la incertidumbre operativa.",
+        "La de negocios comparables, eliminando el efecto de su apalancamiento financiero.",
+        "La de cualquier acción líquida, aunque opere en otra industria.",
+        "La del patrimonio de una comparable muy endeudada, sin ajustes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa libre de riesgo cumple otra función en la valuación. Su variación no mide la dispersión del valor del negocio. La volatilidad debe estimarse con información del subyacente o escenarios consistentes.",
+        "Se busca la incertidumbre del valor del negocio. La deuda puede amplificar la volatilidad del patrimonio. Por eso conviene usar comparables adecuados y considerar el conjunto de deuda y capital.",
+        "La liquidez no implica semejanza económica. El comparable debe tener riesgos de negocio relacionados con el proyecto. De otro modo, la volatilidad puede ser poco representativa.",
+        "El capital endeudado tiene exposición amplificada al activo. Usar directamente su volatilidad puede exagerar el riesgo operativo. Se debe eliminar el efecto del financiamiento."
+      ]
+    },
+    {
+      "id": "c23-q011",
+      "tema": "Escenarios y lognormalidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una expansión se modela con valores lognormales. ¿Qué afirmación es correcta?",
+      "opciones": [
+        "El modelo requiere valores negativos frecuentes del activo bruto.",
+        "Un rango de escenarios elimina la incertidumbre sobre el resultado.",
+        "La cola derecha puede hacer que la media supere al valor más probable.",
+        "La media siempre coincide con el valor más probable."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un valor lognormal es positivo. Puede acercarse a cero, pero no hacerse negativo. El VPN sí puede ser negativo porque resta la inversión al valor bruto.",
+        "Los escenarios permiten calibrar resultados plausibles y dispersión. No predicen con certeza el valor que se observará. La incertidumbre sigue siendo central para la opción.",
+        "La distribución lognormal es asimétrica hacia la derecha. Algunos valores muy altos elevan la media. Por eso no debe confundirse el promedio con la moda.",
+        "La coincidencia no es una propiedad lognormal. Su asimetría separa las medidas de posición. La media suele superar al valor más probable."
+      ]
+    },
+    {
+      "id": "c23-q012",
+      "tema": "Sensibilidad de una call",
+      "dificultad": "basica",
+      "pregunta": "En una call europea estándar sin flujos previos, manteniendo lo demás constante, ¿qué cambio aumenta su valor?",
+      "opciones": [
+        "Mayor costo de ejercicio.",
+        "Menor valor actual del proyecto.",
+        "Menor plazo disponible, con tasa libre de riesgo positiva.",
+        "Mayor volatilidad del valor del proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un ejercicio más caro reduce el excedente de invertir. También puede eliminar estados en los que antes convenía ejercer. Por eso disminuye el valor de la call.",
+        "Un activo menos valioso hace menos atractiva su adquisición al precio fijado. Reduce sus posibles excedentes. En el modelo estándar, la call pierde valor.",
+        "Con estos supuestos, acortar el plazo reduce la oportunidad de aprovechar estados favorables. No hay flujos previos que justifiquen apresurar el ejercicio. Una mayor duración es la que preserva valor temporal.",
+        "La dispersión amplía los posibles resultados favorables. En los estados malos puede evitarse el ejercicio. Esa asimetría aumenta el valor de una call estándar."
+      ]
+    },
+    {
+      "id": "c23-q013",
+      "tema": "Opciones compuestas y de intercambio",
+      "dificultad": "avanzada",
+      "pregunta": "Una generación de producto habilita otra y su costo de desarrollo es incierto. ¿Qué omite representarla como una call simple de ejercicio fijo?",
+      "opciones": [
+        "El costo aleatorio y los derechos posteriores dependientes de invertir.",
+        "Nada, porque la volatilidad de ingresos incorpora automáticamente ambos elementos.",
+        "Solo la contabilidad, porque esas condiciones no modifican pagos.",
+        "La obligación de sumar todas las oportunidades como independientes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo incierto puede requerir modelar el intercambio entre dos activos riesgosos. Las generaciones posteriores agregan opciones encadenadas. Deben representarse sus dependencias y correlaciones para valuar los pagos correctamente.",
+        "La volatilidad de ingresos no resume necesariamente el riesgo del costo. Tampoco incorpora por sí sola los derechos sobre generaciones siguientes. Un único parámetro no reemplaza la estructura de decisiones.",
+        "Estas condiciones afectan los desembolsos y oportunidades económicas. No son meras diferencias de registro. Una call simple puede ser una aproximación, pero omite parte del problema.",
+        "Las oportunidades posteriores no son necesariamente independientes. Pueden requerir ejercer y pagar las etapas previas. Sumarlas sin reconocer eso puede duplicar valor e ignorar costos."
+      ]
+    },
+    {
+      "id": "c23-q014",
+      "tema": "VPN positivo y espera",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene VPN positivo hoy y exclusividad para invertir el año próximo. ¿Qué comparación debe hacer el director?",
+      "opciones": [
+        "Inversión inicial contra suma de ingresos futuros sin descontar.",
+        "VPN de invertir hoy contra valor actual de esperar y decidir óptimamente.",
+        "Invertir siempre, porque el VPN positivo domina cualquier alternativa.",
+        "Esperar siempre, porque obtener información nunca tiene costo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La suma nominal ignora tiempo y riesgo. Tampoco considera todos los costos ni la decisión contingente. Deben compararse valores actuales de estrategias completas.",
+        "El VPN inmediato mide el beneficio de ejercer hoy. Esperar conserva flexibilidad y puede sacrificar flujos. La decisión elige la estrategia de mayor valor actual.",
+        "Un VPN positivo indica que invertir supera no hacer nada. No prueba que supere esperar. La oportunidad de decidir más adelante puede valer más.",
+        "La demora puede perder cobros o ventajas competitivas. También puede reducir el VP de ingresos que se postergan. Deben compararse esos costos con la ganancia de flexibilidad."
+      ]
+    },
+    {
+      "id": "c23-q015",
+      "tema": "Flujos como dividendos",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué los flujos del proyecto se parecen a dividendos al analizar una opción de esperar?",
+      "opciones": [
+        "El titular de la opción cobra los flujos aunque no sea dueño del proyecto.",
+        "Cualquier flujo positivo obliga a invertir inmediatamente.",
+        "Quien no invierte puede perder los cobros del intervalo, lo que puede favorecer ejercer temprano.",
+        "Cada flujo distribuido aumenta necesariamente el valor remanente en igual monto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El derecho a comprar no equivale a ser propietario. Mientras no ejerza, el titular no recibe automáticamente los cobros del activo. Esa renuncia constituye un costo de esperar.",
+        "Los flujos pequeños pueden ser inferiores al beneficio de conservar flexibilidad. Su existencia no obliga a ejercer. Se compara ejercicio inmediato con continuación.",
+        "La opción no da propiedad actual sobre los cobros. Al esperar, esos flujos pueden perderse o postergarse. Ese costo puede justificar el ejercicio temprano, como ocurre con dividendos suficientemente importantes.",
+        "El flujo distribuido sale del activo. Debe distinguirse del valor remanente después de distribuirlo. Sumarlos sin cuidar el momento puede contar dos veces el mismo valor."
+      ]
+    },
+    {
+      "id": "c23-q016",
+      "tema": "Rendimiento total",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto vale 100 hoy. Al final del año vale 115 después de distribuir un flujo de 5. ¿Cuál es su rendimiento total?",
+      "opciones": [
+        "15%.",
+        "5%.",
+        "25%.",
+        "20%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 15% mide solo la apreciación del activo. Omite el flujo distribuido de 5. El rendimiento total suma ambas contribuciones y da 20%.",
+        "El 5% mide solo el cobro corriente. Omite el aumento de valor del activo. Al sumar apreciación y flujo, el rendimiento es 20%.",
+        "Este cálculo incorpora un cobro adicional inexistente. El valor exflujo es 115 y el único cobro es 5. La riqueza final es 120, no 125.",
+        "La riqueza final incluye el activo de 115 y el cobro de 5. El total es 120. Por eso el rendimiento es 120 / 100 − 1 = 20%."
+      ]
+    },
+    {
+      "id": "c23-q017",
+      "tema": "Probabilidad neutral con flujos",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto vale 100 hoy. En un año, valor exflujo más flujo cobrado será 132 si sube y 88 si baja. Con tasa libre de riesgo de 10%, ¿cuál es la probabilidad neutral de suba?",
+      "opciones": [
+        "0,50.",
+        "0,25.",
+        "0,75.",
+        "0,10."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Debe cumplirse 100 × 1,10 = 132p + 88(1 − p). De allí, p = (110 − 88) / 44. La probabilidad neutral es 0,50.",
+        "Con esa probabilidad, el pago esperado sería 99. Su VP al 10% sería 90 y no 100. La calibración correcta requiere una probabilidad de 0,50.",
+        "Con esa probabilidad, el pago esperado sería 121. Su VP sería 110, mayor que el valor observado. La probabilidad consistente con 100 es 0,50.",
+        "El 10% es una tasa y no la probabilidad de suba. La probabilidad se obtiene igualando el pago esperado neutral a 110. Resolver esa ecuación da 0,50."
+      ]
+    },
+    {
+      "id": "c23-q018",
+      "tema": "Valor de esperar un año",
+      "dificultad": "intermedia",
+      "pregunta": "Con probabilidad neutral de suba 0,50, un proyecto valdrá 130 o 70 dentro de un año, después de los flujos del año. Invertir entonces cuesta 90 y la tasa libre de riesgo es 10%. ¿Cuánto vale el derecho de invertir solo dentro de un año?",
+      "opciones": [
+        "36,36.",
+        "18,18.",
+        "9,09.",
+        "20,00."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este valor descuenta 40 como si el estado alto fuera seguro. Su probabilidad es solo 0,50. Primero se promedian los pagos y luego se descuentan.",
+        "Los pagos son max(130 − 90, 0) = 40 y max(70 − 90, 0) = 0. Su promedio neutral es 20. Descontado al 10%, el valor es 18,18.",
+        "Este resultado incluye una pérdida de 20 en el estado bajo. Pero la opción permite no invertir allí. Al sustituir esa pérdida por cero se obtiene 18,18.",
+        "Los 20 son un valor esperado al final del año. Falta traerlo al presente. Dividir por 1,10 da 18,18."
+      ]
+    },
+    {
+      "id": "c23-q019",
+      "tema": "Ejercicio inmediato o continuación",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto vale 100 hoy y cuesta 90. El valor actual de esperar un año y decidir es 18,18. Si solo se puede invertir hoy o dentro de un año, ¿cuál es la decisión y el valor de la oportunidad?",
+      "opciones": [
+        "Esperar; la oportunidad vale 28,18.",
+        "Invertir hoy; la oportunidad vale 100.",
+        "Esperar; la oportunidad vale 18,18.",
+        "Invertir hoy; la oportunidad vale 10."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las dos alternativas son excluyentes. No se puede sumar el VPN de invertir hoy al valor de conservar el mismo derecho. El valor es el máximo entre 10 y 18,18.",
+        "Los 100 son el valor bruto del proyecto. Ejercer exige pagar 90 y deja un beneficio neto de 10. Además, ese beneficio es inferior al valor de esperar.",
+        "Ejercer hoy produce un VPN de 100 − 90 = 10. Conservar el derecho vale 18,18. Se elige el máximo, por lo que conviene esperar y la oportunidad vale 18,18.",
+        "Este resultado reconoce el VPN inmediato, pero ignora una alternativa mejor. La espera vale 8,18 más que ejercer hoy. El VPN positivo no basta para justificar la inversión inmediata."
+      ]
+    },
+    {
+      "id": "c23-q020",
+      "tema": "Costo de esperar",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto exclusivo exige 100 hoy o dentro de un año. Si se inicia hoy, su flujo del próximo año será 20 y su valor exflujo al final de ese año será 100, ambos ciertos. Si se espera, se pierde el flujo de 20 y se podrá pagar 100 por el activo de valor 100. Con tasa de 10%, ¿qué conviene?",
+      "opciones": [
+        "Esperar: se gana 20 por evitar el primer año.",
+        "Es indiferente: el activo futuro vale lo mismo que cuesta.",
+        "Invertir hoy: el VPN es 20.",
+        "Invertir hoy: el VPN es 9,09, frente a cero por esperar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La espera no genera el flujo de 20. Lo sacrifica según el enunciado. Al no haber incertidumbre adicional que aprovechar, esa pérdida vuelve inferior la demora.",
+        "El valor y costo futuros iguales hacen que esperar valga cero. Sin embargo, invertir hoy permite captar el flujo adicional de 20. Su VPN es positivo después de considerar el costo de adelantar la inversión.",
+        "Los 20 son un flujo futuro y no el VPN completo. Hay que descontar el flujo y el valor remanente, y restar el costo inicial. El resultado es 9,09.",
+        "Invertir hoy da un valor bruto de (20 + 100) / 1,10 = 109,09. Al restar 100, el VPN es 9,09. Esperar deja un pago de ejercicio de cero, por lo que se prefiere invertir ahora."
+      ]
+    },
+    {
+      "id": "c23-q021",
+      "tema": "Demora de producción agotable",
+      "dificultad": "intermedia",
+      "pregunta": "Un pozo no pierde petróleo al esperar, pero su flujo único de 110 se retrasa del año 1 al año 2. Sin otros cambios y con costo de capital de 10%, ¿cuánto cae el VP de ese ingreso?",
+      "opciones": [
+        "9,09.",
+        "0.",
+        "10,00.",
+        "100,00."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El cobro en el año 1 vale 110 / 1,10 = 100. En el año 2 vale 110 / 1,10² = 90,91. La demora reduce su VP en 9,09, aunque no se pierdan barriles.",
+        "Conservar el recurso físico no elimina el valor del tiempo. El mismo cobro llega un año más tarde. Por eso su VP cae de 100 a 90,91.",
+        "Diez sería el 10% del VP inicial, pero el cambio exacto requiere descontar. El nuevo VP es 100 / 1,10 = 90,91. La reducción es 9,09 y no 10.",
+        "Ese importe es el VP del cobro original. Esperar no elimina todo el ingreso. Lo posterga y reduce su VP solo en 9,09."
+      ]
+    },
+    {
+      "id": "c23-q022",
+      "tema": "Urbanización con usos alternativos",
+      "dificultad": "avanzada",
+      "pregunta": "Un terreno permite construir un hotel o unas oficinas, con conversión posterior muy costosa. Los dos proyectos tienen VPN positivo y parecido. ¿Qué puede justificar esperar?",
+      "opciones": [
+        "Que cualquier proyecto con VPN positivo puede postergarse sin perder valor.",
+        "Aprender tanto la demanda total como cuál uso será relativamente más valioso.",
+        "Que la igualdad de los VPN vuelve gratuitas ambas construcciones.",
+        "Que construir uno no sacrifica ninguna oportunidad sobre el otro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La espera puede perder rentas o exposición favorable al mercado. Su conveniencia depende del valor de información frente a esos costos. Un VPN positivo no implica demora gratuita.",
+        "La decisión irreversible sacrifica la alternativa no elegida. Esperar aporta información sobre el nivel general del mercado y la ventaja relativa entre usos. Esa doble información puede ser valiosa incluso con VPN positivos.",
+        "Tener VPN similares no elimina sus costos. Tampoco permite ejecutar ambos usos sobre el mismo terreno. La decisión debe considerar qué oportunidad se pierde al elegir uno.",
+        "El enunciado establece usos excluyentes y conversión costosa. Elegir uno reduce la flexibilidad sobre el otro. Ignorar ese costo de oportunidad puede llevar a construir demasiado pronto."
+      ]
+    },
+    {
+      "id": "c23-q023",
+      "tema": "Urbanización y umbral de ejercicio",
+      "dificultad": "intermedia",
+      "pregunta": "Una urbanización cuesta 200 y sus flujos descontados valen 230. El valor actual de conservar todas las alternativas de uso del terreno es 45. ¿Cuál es la decisión si desarrollar destruye esas alternativas?",
+      "opciones": [
+        "Construir, porque el valor total es 230 + 45.",
+        "Esperar, porque el VPN inmediato es −30.",
+        "Esperar, porque 45 supera al VPN inmediato de 30.",
+        "Construir, porque 230 supera a 200."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La construcción destruye las alternativas según el enunciado. Sumarlas al valor del edificio las cuenta como si siguieran disponibles. Hay que elegir el mayor valor entre las dos estrategias.",
+        "El VPN inmediato es positivo, no negativo. La razón para esperar es que la continuación vale más. El cálculo correcto es 230 − 200 = 30, inferior a 45.",
+        "El VPN de construir es 230 − 200 = 30. Mantener las alternativas vale 45. Como son estrategias excluyentes, se elige esperar.",
+        "La comparación confirma que construir crea valor frente a renunciar a todo. Pero la alternativa disponible vale todavía más. El criterio correcto compara 30 con 45."
+      ]
+    },
+    {
+      "id": "c23-q024",
+      "tema": "Competencia y espera inmobiliaria",
+      "dificultad": "intermedia",
+      "pregunta": "Un modelo recomienda esperar para desarrollar un terreno y supone que ningún rival puede ocupar el mercado. Aparece un competidor capaz de hacerlo. ¿Qué revisión corresponde?",
+      "opciones": [
+        "Mantener la recomendación porque la competencia no afecta opciones reales.",
+        "Aumentar automáticamente el valor de esperar por tener más incertidumbre.",
+        "Suponer que siempre gana quien invierte primero.",
+        "Incorporar el riesgo de perder rentas o la oportunidad, lo que puede favorecer invertir antes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La competencia modifica los pagos de las estrategias. El supuesto de rivales pasivos deja de ser válido. Mantenerlo puede sobrevalorar la demora.",
+        "El efecto no se resume en una mayor volatilidad. También pueden caer el valor esperado y la exclusividad de la oportunidad. Es necesario modelar la interacción competitiva.",
+        "Ser primero también puede tener costos y riesgos. La decisión depende de las respuestas de los rivales y del mercado. La competencia justifica revisar el modelo, no una regla universal de entrada inmediata.",
+        "La amenaza competitiva puede aumentar el costo de esperar. Un rival puede capturar clientes o reducir rentas futuras. Debe revisarse la estrategia, sin presumir que adelantarse sea siempre óptimo."
+      ]
+    },
+    {
+      "id": "c23-q025",
+      "tema": "Abandono como put",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se interpreta la opción de abandonar definitivamente un proyecto?",
+      "opciones": [
+        "Como una put cuyo ejercicio permite recuperar el valor de venta o de uso alternativo de sus activos.",
+        "Como una call que obliga a comprar más equipos al caer la demanda.",
+        "Como la obligación de operar mientras exista cualquier ingreso positivo.",
+        "Como una garantía de recuperar la inversión histórica completa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Abandonar permite sustituir el proyecto en marcha por su valor recuperable. Se parece a vender el activo a un precio de ejercicio. Ese precio puede ser el valor de venta o el valor para otro uso.",
+        "La expansión es la que se parece a una call. El abandono da salida a la inversión existente. Su ejercicio depende de comparar recuperación y continuación.",
+        "Tener ingresos positivos no significa que continuar sea la mejor alternativa. Puede haber costos elevados o un rescate más valioso. El criterio se basa en valores económicos futuros.",
+        "El rescate puede ser muy inferior al costo histórico. La opción limita parte del deterioro, pero no garantiza recuperar lo invertido. La comparación relevante es con el valor de continuar."
+      ]
+    },
+    {
+      "id": "c23-q026",
+      "tema": "Regla de abandono y costo hundido",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina costó 20 millones. Hoy puede venderse por 7 y continuar tiene valor de 5, incluyendo futuras opciones. Sin impuestos ni costos adicionales, ¿qué debe hacerse?",
+      "opciones": [
+        "Abandonar solo si el flujo del próximo período es negativo.",
+        "Vender y recuperar 7 millones.",
+        "Continuar hasta recuperar los 20 millones históricos.",
+        "Continuar porque 5 millones es un valor positivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El flujo de un período no resume la continuidad. Deben incluirse todos los flujos y derechos futuros. Con valores de continuación de 5 y rescate de 7, corresponde abandonar.",
+        "El costo histórico ya está hundido. La decisión compara recuperar 7 hoy con conservar un activo de valor 5. Conviene vender y obtener el mayor valor disponible.",
+        "No existe obligación económica de recuperar el costo original operando. Ese costo no cambia entre las alternativas actuales. Continuar destruiría 2 millones respecto de vender.",
+        "Un valor positivo puede ser inferior a la mejor alternativa. Aquí se renuncia a vender por 7 para conservar algo que vale 5. La decisión debe considerar ese costo de oportunidad."
+      ]
+    },
+    {
+      "id": "c23-q027",
+      "tema": "Descuento separado de ingresos y costos",
+      "dificultad": "avanzada",
+      "pregunta": "Durante dos años se esperan ingresos de 66 anuales, sujetos al riesgo del negocio, y costos fijos ciertos de 11 anuales. El costo de capital de ingresos es 10% y la tasa libre de riesgo 5%. Sin rescate ni inversión inicial, ¿cuál es el VP operativo?",
+      "opciones": [
+        "102,27 aproximadamente.",
+        "110,00.",
+        "94,09 aproximadamente.",
+        "95,45 aproximadamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado descuenta todo el flujo neto al 5%. Así trata los ingresos riesgosos como ciertos. Debe usarse 10% para ingresos y 5% para costos fijos.",
+        "Este importe suma los flujos netos de los dos años. No descuenta tiempo ni riesgo. El VP correcto requiere tratar por separado los dos componentes.",
+        "El VP de ingresos es 66 / 1,10 + 66 / 1,10² = 114,55. El VP de costos es 11 / 1,05 + 11 / 1,05² = 20,45. La diferencia, calculada antes de redondear, es 94,09.",
+        "Este valor descuenta el flujo neto de 55 al 10%. Eso aplica el riesgo de los ingresos a costos que son ciertos. Separar ambos componentes produce un VP de 94,09."
+      ]
+    },
+    {
+      "id": "c23-q028",
+      "tema": "Árbol del ingreso y costos fijos",
+      "dificultad": "intermedia",
+      "pregunta": "El ingreso anual actual es 50. En un árbol se multiplica por u = 1,20 o d = 0,80 y los costos fijos son 10 por año. ¿Cuáles son los flujos netos del siguiente año?",
+      "opciones": [
+        "48 si sube y 32 si baja.",
+        "60 si sube y 40 si baja.",
+        "40 en ambos estados.",
+        "50 si sube y 30 si baja."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos valores aplican los factores al flujo neto actual de 40. Eso haría que los costos fijos también variaran proporcionalmente. El árbol especificado mueve ingresos y resta después el costo constante.",
+        "Estos son los ingresos antes de costos. Falta restar 10 a cada valor. Los flujos operativos netos son 50 y 30.",
+        "Este es el flujo actual y no los futuros contingentes. El ingreso cambia según el estado del mercado. Al mantener fijo el costo, los flujos futuros difieren.",
+        "Los ingresos resultan 50 × 1,20 = 60 y 50 × 0,80 = 40. Luego se resta el costo fijo de 10 en cada estado. Los flujos netos son 50 y 30."
+      ]
+    },
+    {
+      "id": "c23-q029",
+      "tema": "Calibración neutral de un ingreso riesgoso",
+      "dificultad": "avanzada",
+      "pregunta": "El ingreso esperado dentro de un año es 110 y su tasa ajustada al riesgo es 10%, por lo que su VP es 100. Los pagos posibles son 130 y 80; la tasa libre de riesgo es 5%. ¿Qué probabilidad neutral de pago alto corresponde?",
+      "opciones": [
+        "0,50.",
+        "0,60.",
+        "0,80.",
+        "0,10."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor actual exige un pago esperado neutral de 100 × 1,05 = 105. Se resuelve 130p + 80(1 − p) = 105. Así, p = 25 / 50 = 0,50.",
+        "Esta probabilidad reproduce el promedio de 110. Pero ese es el pronóstico original, no el equivalente neutral que debe descontarse al 5%. El promedio neutral consistente es 105.",
+        "Esta probabilidad produce un pago esperado de 120. Al descontarlo al 5%, el VP sería 114,29. No reproduce el VP dado de 100.",
+        "El 10% es la tasa de riesgo de los ingresos. No es una probabilidad de estado. La probabilidad neutral se deduce de los pagos y del VP, y resulta 0,50."
+      ]
+    },
+    {
+      "id": "c23-q030",
+      "tema": "Factores del árbol binomial",
+      "dificultad": "intermedia",
+      "pregunta": "Se usa u = exp(σ√h) y d = 1/u, con volatilidad anual σ = 20% e intervalos h = 0,25 años. ¿Qué factores corresponden aproximadamente?",
+      "opciones": [
+        "u = 1,10 y d = 0,90 exactamente.",
+        "u = 1,1052 y d = 0,9048.",
+        "u = 1,2214 y d = 0,8187.",
+        "u = 1,0513 y d = 0,9512."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Son aproximaciones lineales que no satisfacen exactamente las fórmulas indicadas. Además, 0,90 no es el recíproco de 1,10. Los factores exponenciales correctos son 1,1052 y 0,9048.",
+        "La raíz de 0,25 es 0,5. El exponente es 0,20 × 0,5 = 0,10 y u = exp(0,10) = 1,1052. Su recíproco es d = exp(−0,10) = 0,9048.",
+        "Estos factores usan un intervalo de un año. El paso del problema es trimestral. Debe escalarse la volatilidad por la raíz de 0,25.",
+        "Estos factores usan σh en lugar de σ√h. La desviación estándar se escala con la raíz del tiempo en este modelo. El exponente correcto es 0,10 y no 0,05."
+      ]
+    },
+    {
+      "id": "c23-q031",
+      "tema": "Rescate decreciente",
+      "dificultad": "basica",
+      "pregunta": "Una máquina recuperable vale 10 millones hoy y se deprecia económicamente 10% anual de forma compuesta. ¿Cuál será su rescate al final del segundo año?",
+      "opciones": [
+        "9,00 millones.",
+        "12,10 millones.",
+        "8,10 millones.",
+        "8,00 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el rescate después de un solo año. Falta aplicar la depreciación del segundo año. El valor final es 8,10.",
+        "Este resultado capitaliza una suba del 10%. El enunciado indica depreciación, por lo que el factor es 0,90. El valor debe disminuir y termina en 8,10.",
+        "El primer año deja 10 × 0,90 = 9. El segundo aplica nuevamente el factor 0,90. El rescate es 10 × 0,90² = 8,10 millones.",
+        "Este resultado resta dos veces el 10% del valor inicial. Eso supone depreciación lineal, distinta del supuesto compuesto. El segundo descenso se aplica sobre 9 y produce 8,10."
+      ]
+    },
+    {
+      "id": "c23-q032",
+      "tema": "Recursión de abandono",
+      "dificultad": "avanzada",
+      "pregunta": "En un nodo posterior al flujo actual, el rescate inmediato es 8. Si se continúa, los pagos totales del próximo año serán 14 y 6, con probabilidad neutral alta de 0,25. La tasa libre de riesgo es 10%. ¿Qué valor se registra en el nodo?",
+      "opciones": [
+        "7,27, porque siempre se registra el valor descontado de continuar.",
+        "10, porque se promedian ambos pagos con igual probabilidad.",
+        "16, porque se suma el rescate al pago esperado de continuar.",
+        "8, porque conviene abandonar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El descuento de continuación está bien calculado. Falta compararlo con el ejercicio inmediato. Como vender produce 8, debe registrarse ese valor mayor.",
+        "El promedio simple ignora las probabilidades dadas. Además, sería un pago futuro sin descontar. La decisión correcta compara 8 de rescate con 7,27 de continuación.",
+        "El rescate inmediato y continuar son alternativas excluyentes. No pueden cobrarse ambos por el mismo activo. La recursión registra su máximo, no su suma.",
+        "El pago esperado de continuar es 0,25 × 14 + 0,75 × 6 = 8. Su VP es 8 / 1,10 = 7,27. El máximo entre 8 de rescate y 7,27 de continuidad es 8."
+      ]
+    },
+    {
+      "id": "c23-q033",
+      "tema": "Flujos y valores de fin de período",
+      "dificultad": "avanzada",
+      "pregunta": "Al retroceder en un árbol de abandono, ¿qué se usa como pago futuro de continuar desde un nodo exflujo?",
+      "opciones": [
+        "El flujo del período siguiente más el valor óptimo exflujo del nodo siguiente.",
+        "Solo el valor del nodo siguiente, omitiendo todos los flujos operativos.",
+        "El flujo ya cobrado en el nodo actual más el valor actual del activo.",
+        "El rescate actual sumado al valor de continuar y al flujo siguiente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El propietario que continúa recibe el siguiente flujo y conserva un activo con valor posterior a ese cobro. Ambos componentes forman el pago total futuro. Deben ponderarse neutralmente, descontarse y compararse con el rescate actual.",
+        "Así se perdería el valor de los cobros operativos. El valor exflujo del nodo siguiente no los incluye por definición. Se debe sumar el flujo siguiente antes de descontar.",
+        "El flujo actual ya fue recibido y no cambia la decisión exflujo. Incluirlo de nuevo duplica el cobro. La recursión mira los pagos aún pendientes.",
+        "El rescate actual requiere dejar de continuar. Sumárselo a la continuidad cuenta dos estrategias incompatibles. Corresponde elegir entre vender ahora y conservar los pagos futuros."
+      ]
+    },
+    {
+      "id": "c23-q034",
+      "tema": "Valor incremental del abandono",
+      "dificultad": "intermedia",
+      "pregunta": "El VPN sin rescate ni abandono es −4 millones. Con rescate terminal obligatorio, el VPN sube a 1 millón; permitiendo además abandonar antes, llega a 2 millones. ¿Cuál es el valor incremental exclusivo del abandono temprano?",
+      "opciones": [
+        "2 millones.",
+        "1 millón.",
+        "6 millones.",
+        "5 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 2 millones son el VPN total con toda la flexibilidad. No miden por sí solos el aporte de una opción específica. Para aislarlo se resta el VPN de la alternativa sin abandono temprano.",
+        "El abandono temprano se agrega a una alternativa que ya tiene rescate terminal. Su aporte es 2 − 1 = 1 millón. La diferencia contra −4 incluye también el valor del rescate final.",
+        "Los 6 millones son la mejora total respecto del caso sin rescate. Incluyen 5 por recuperación terminal y 1 por ejercicio temprano. No corresponden exclusivamente al abandono anticipado.",
+        "Los 5 millones son la mejora generada por el rescate terminal. Se calculan como 1 − (−4). El abandono temprano añade otro millón."
+      ]
+    },
+    {
+      "id": "c23-q035",
+      "tema": "Vida económica endógena",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo permite el análisis de abandono evitar una vida económica arbitraria de diez años?",
+      "opciones": [
+        "Imponiendo que todos los escenarios cierren cuando el flujo se vuelva cero.",
+        "Usando la vida contable de los equipos como fecha óptima de cierre.",
+        "Modelando un horizonte suficientemente amplio y dejando que el desempeño determine cuándo conviene salir.",
+        "Extendiendo la vida a veinte años y obligando a operar hasta esa fecha."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un flujo cero no es el criterio general de abandono. Puede convenir salir con flujos positivos o tolerar pérdidas transitorias. Deben compararse rescate y valor completo de continuación.",
+        "La depreciación contable no determina la conveniencia económica. Un activo totalmente amortizado puede seguir creando valor. El cierre depende de alternativas y flujos futuros.",
+        "Se proyectan escenarios más allá de la vida inicialmente estimada. En cada nodo se compara continuar con abandonar. Así, los escenarios malos pueden cerrar antes y los buenos durar más, aunque debe revisarse el horizonte terminal.",
+        "Cambiar una fecha rígida por otra no resuelve el problema. La clave es permitir decisiones de salida según el estado. El horizonte amplio ayuda a no imponer un cierre prematuro."
+      ]
+    },
+    {
+      "id": "c23-q036",
+      "tema": "Abandono temporal",
+      "dificultad": "intermedia",
+      "pregunta": "Una naviera registra una pequeña pérdida operativa y cerrar y reabrir el buque tiene costos importantes. ¿Qué decisión puede ser racional?",
+      "opciones": [
+        "Cerrar siempre al aparecer el primer flujo negativo.",
+        "Cerrar definitivamente porque una pérdida transitoria destruye toda opción de recuperación.",
+        "Seguir operando siempre que ya se haya comprado el barco.",
+        "Seguir operando mientras el valor de continuar supere al de suspender neto de costos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El signo del flujo actual no resume los pagos de ambas estrategias. Los costos de cambio pueden hacer preferible tolerar una pérdida. Hay que comparar valores completos.",
+        "Una caída temporal no elimina necesariamente el valor del buque. Suspender puede conservar el derecho a reactivar. La venta definitiva requiere otra comparación económica.",
+        "La compra pasada es un costo hundido. No justifica continuar sin límite. Debe elegirse la alternativa que maximice el valor actual desde hoy.",
+        "Cerrar ahorra ciertos costos, pero también exige desembolsos y puede obligar a pagar una reapertura cercana. La comparación incorpora las tarifas futuras y el valor de las opciones. Por eso una pérdida corriente pequeña no obliga a suspender."
+      ]
+    },
+    {
+      "id": "c23-q037",
+      "tema": "Umbrales de cierre y reapertura",
+      "dificultad": "avanzada",
+      "pregunta": "Con costos de suspensión y reactivación, ¿por qué puede haber un umbral bajo M para cerrar y otro más alto R para reabrir?",
+      "opciones": [
+        "Porque cambiar de estado tiene costos y conviene esperar una mejora o deterioro suficientemente grande.",
+        "Porque el umbral de reapertura debe ser siempre menor que el de cierre.",
+        "Porque entre M y R el estado previo del activo deja de importar.",
+        "Porque la diferencia entre umbrales depende solo del costo histórico del activo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los costos de cambio generan una zona donde conviene mantener el estado previo. Una empresa activa puede seguir operando mientras otra suspendida sigue esperando. Mayores costos de cambio y mayor volatilidad pueden ampliar esa separación.",
+        "Reabrir exige condiciones suficientemente favorables para pagar el costo de reactivación. Cerrar exige un deterioro suficiente para pagar la suspensión. Por eso el umbral de reapertura puede estar por encima del de cierre.",
+        "En esa zona, precisamente, la historia importa. El buque activo puede seguir activo y el detenido puede seguir detenido. Esa persistencia evita cambios costosos ante oscilaciones pequeñas.",
+        "El costo histórico ya está hundido. Los umbrales dependen de flujos futuros, volatilidad y costos de pasar entre estados. Confundirlos con la inversión original altera la decisión."
+      ]
+    },
+    {
+      "id": "c23-q038",
+      "tema": "Cierre temporal: comparación de valores",
+      "dificultad": "intermedia",
+      "pregunta": "El valor de un buque si continúa activo es 42 millones. Suspendido valdría 48, pero suspender cuesta 4 hoy. Ambos valores incorporan las decisiones futuras. ¿Qué conviene?",
+      "opciones": [
+        "Continuar, registrando 90 millones por sumar ambos estados.",
+        "Suspender, porque el valor neto es 44 millones.",
+        "Continuar, porque suspender cuesta 4 millones.",
+        "Suspender, registrando un valor de 48 millones netos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El buque no puede estar simultáneamente en ambos estados. Los valores representan estrategias alternativas. Debe elegirse el mayor valor neto, que es 44.",
+        "La alternativa suspendida vale 48 − 4 = 44. Continuar vale 42. Como 44 supera a 42, suspender agrega 2 millones frente a mantener la operación.",
+        "El costo de suspensión debe considerarse, pero no basta para rechazar el cambio. La mejora bruta de valor es 6 y excede ese costo de 4. El cambio deja un beneficio neto de 2.",
+        "Los 48 son el valor del buque ya suspendido. Para llegar a ese estado hay que pagar 4. El valor neto de decidir la suspensión hoy es 44."
+      ]
+    },
+    {
+      "id": "c23-q039",
+      "tema": "Reactivación: comparación de valores",
+      "dificultad": "intermedia",
+      "pregunta": "Un buque suspendido vale 30 millones con sus opciones futuras. Activarlo produciría un valor de 37, pero cuesta 9 reabrirlo. ¿Qué se decide hoy?",
+      "opciones": [
+        "Reactivarlo: su valor neto es 46.",
+        "Venderlo necesariamente por 9.",
+        "Mantenerlo suspendido: 30 supera a 28.",
+        "Reactivarlo: 37 supera a 30."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El costo de reactivación es un desembolso, no un ingreso. Debe restarse de 37. El resultado correcto es 28, inferior a 30.",
+        "Los 9 son el costo de reabrir y no una oferta de compra. El enunciado no establece un precio de venta. Las alternativas dadas favorecen seguir suspendido.",
+        "El valor neto de reabrir es 37 − 9 = 28. Mantener la suspensión vale 30. Por lo tanto, hoy conviene conservar el estado suspendido.",
+        "La comparación omite el costo de reactivación. El mayor valor bruto no asegura un mayor valor neto. Después de pagar 9, reabrir deja solo 28."
+      ]
+    },
+    {
+      "id": "c23-q040",
+      "tema": "Producción flexible y turbinas",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué una turbina de rápida puesta en marcha puede ser valiosa aunque sea térmicamente menos eficiente que una planta de carga base?",
+      "opciones": [
+        "La menor eficiencia térmica implica siempre menor costo variable.",
+        "Su valor depende exclusivamente del margen calculado con precios promedio.",
+        "Necesita operar continuamente para poder aprovechar los picos.",
+        "Puede operar solo durante picos rentables de precio y permanecer apagada el resto del tiempo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una menor eficiencia suele requerir más combustible por unidad producida. El atractivo de la turbina proviene de su flexibilidad, no de una eficiencia inexistente. Deben evaluarse márgenes y capacidad de encendido rápido.",
+        "El promedio oculta la posibilidad de evitar períodos malos. Una instalación flexible captura parte de los resultados favorables sin producir siempre. Por eso se deben valuar los márgenes contingentes.",
+        "La ventaja señalada es poder encenderse con poca anticipación. Operar permanentemente puede obligar a producir con pérdidas. La flexibilidad permite seleccionar cuándo conviene generar.",
+        "La turbina incorpora una serie de opciones de operar. Puede ejercerse cuando el precio de la electricidad supera suficientemente el costo relevante. Esa selección de períodos puede compensar la menor eficiencia térmica."
+      ]
+    },
+    {
+      "id": "c23-q041",
+      "tema": "Diferencial de chispa",
+      "dificultad": "intermedia",
+      "pregunta": "La electricidad se vende a 90 por MWh. Producir un MWh requiere 2 unidades de gas a 25 cada una; otros costos variables son 10 por MWh. ¿Cuál es el diferencial precio menos combustible y el margen operativo antes de costos fijos?",
+      "opciones": [
+        "40 y 30 por MWh, respectivamente.",
+        "65 y 55 por MWh, respectivamente.",
+        "40 y 50 por MWh, respectivamente.",
+        "90 y 80 por MWh, respectivamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El combustible cuesta 2 × 25 = 50 por MWh. El diferencial es 90 − 50 = 40. Al restar otros costos variables de 10 queda un margen de 30.",
+        "Este cálculo cuenta una sola unidad de gas. La tasa de consumo exige dos por MWh. El costo de combustible es 50 y el margen final es 30.",
+        "El diferencial de 40 es correcto. Pero los otros costos se restan, no se suman. El margen operativo queda en 30.",
+        "El precio de venta no es el diferencial. Primero hay que restar el combustible utilizado. Después de combustible y otros costos, quedan 30 por MWh."
+      ]
+    },
+    {
+      "id": "c23-q042",
+      "tema": "Opciones de generación repetidas",
+      "dificultad": "avanzada",
+      "pregunta": "Una turbina puede producir un MWh por día, sin costos de arranque ni costos fijos adicionales. El margen diario después de todos los costos variables será +60 o −40, con probabilidad real 0,50 cada uno. ¿Cuál es el margen esperado diario si decide operar después de observarlo?",
+      "opciones": [
+        "−20.",
+        "30.",
+        "10.",
+        "60."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este cálculo no representa los pagos óptimos. La empresa puede evitar producir con margen negativo. Los pagos elegidos son 60 y cero, por lo que su media es 30.",
+        "La turbina opera cuando el margen es 60 y se apaga cuando es −40. El resultado esperado es 0,50 × 60 + 0,50 × 0 = 30. Es un margen esperado, no una valuación de la inversión a valor presente.",
+        "Los 10 son el promedio de operar obligatoriamente en ambos estados. La flexibilidad permite evitar el estado de pérdida. Al reemplazar −40 por cero, el promedio sube a 30.",
+        "Los 60 se obtienen solo en la mitad de los días bajo las probabilidades dadas. En los otros días no se genera. El promedio de la política flexible es 30."
+      ]
+    },
+    {
+      "id": "c23-q043",
+      "tema": "Correlación y margen energético",
+      "dificultad": "avanzada",
+      "pregunta": "Para precios expresados por unidad equivalente de electricidad, σ de electricidad = 20, σ de combustible = 15 y correlación = 0,50. Usando Var(P − C) = σP² + σC² − 2ρσPσC, ¿cuál es la desviación estándar del diferencial?",
+      "opciones": [
+        "25,00.",
+        "35,00.",
+        "18,03 aproximadamente.",
+        "5,00."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 25 provienen de raíz de 400 + 225. Eso supone correlación cero. Con correlación positiva de 0,50, el término de covarianza reduce la varianza a 325.",
+        "Los 35 suman ambas desviaciones. Ese extremo corresponde a movimientos perfectamente opuestos del precio y del costo. Con la correlación dada, la desviación del diferencial es menor.",
+        "La varianza es 400 + 225 − 2 × 0,50 × 20 × 15 = 325. Su raíz cuadrada es aproximadamente 18,03. Hay que incorporar la covarianza y luego tomar la raíz.",
+        "La diferencia 20 − 15 corresponde al caso de correlación positiva perfecta. Aquí la correlación es 0,50. La covarianza no compensa tanto riesgo y la desviación resulta 18,03."
+      ]
+    },
+    {
+      "id": "c23-q044",
+      "tema": "Correlación y doble combustible",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta puede usar petróleo o gas para producir lo mismo, sin costo de cambio. Manteniendo las distribuciones marginales, ¿qué suele pasar con el valor de elegir combustible cuando baja su correlación?",
+      "opciones": [
+        "Desaparece, porque los precios dejan de moverse juntos.",
+        "Queda necesariamente igual, porque solo importa el costo promedio de cada combustible.",
+        "Se vuelve negativo, aunque sea gratuito conservar el derecho.",
+        "Aumenta, porque aparecen más oportunidades de diferencias favorables entre sus costos equivalentes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Moverse menos juntos genera más diferencias relativas, no menos. Esas diferencias permiten seleccionar el insumo conveniente. Por eso suelen aumentar el atractivo del derecho de cambiar.",
+        "Los promedios no capturan el beneficio de elegir en cada estado. Importa la distribución conjunta de los precios. La correlación modifica justamente esa distribución.",
+        "Conservar gratis una opción que puede no ejercerse no obliga a perder. Si no hay ventaja de cambiar, se mantiene el insumo actual. El valor incremental del derecho no puede ser negativo bajo esos supuestos.",
+        "La elección vale cuando uno de los combustibles resulta relativamente barato. Una menor correlación suele ampliar la dispersión de esa diferencia. El resultado debe evaluarse en costos equivalentes por unidad producida."
+      ]
+    },
+    {
+      "id": "c23-q045",
+      "tema": "Flexibilidad de productos",
+      "dificultad": "intermedia",
+      "pregunta": "Una textil considera equipos capaces de alternar diseños con poca demora. ¿Cuál es la fuente de valor de esa flexibilidad?",
+      "opciones": [
+        "Adaptar la mezcla de productos a los márgenes y la demanda observados.",
+        "Asegurar que todos los diseños se vendan siempre al mismo precio.",
+        "Eliminar todos los costos de producción al cambiar de diseño.",
+        "Reemplazar la evaluación de demanda por la amortización contable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El equipo permite producir el conjunto de productos más valioso en cada situación. Se parece a un derecho de intercambiar una actividad por otra. Su valor debe compararse con el costo adicional de la capacidad flexible.",
+        "La flexibilidad no fija por sí misma los precios de venta. Permite responder a sus diferencias y a cambios de demanda. Igualar precios no es la fuente general de valor.",
+        "Cambiar diseños no elimina materias primas, trabajo ni otros costos. El beneficio es elegir mejor qué producir. Debe medirse con márgenes netos y costos de cambio.",
+        "La amortización no revela qué productos conviene fabricar. La decisión requiere información de mercado y costos futuros. La flexibilidad sirve para responder a esa información."
+      ]
+    },
+    {
+      "id": "c23-q046",
+      "tema": "Postergación de la personalización",
+      "dificultad": "intermedia",
+      "pregunta": "Un fabricante envía productos semiterminados y define su configuración local cuando recibe pedidos firmes. El acabado local es más caro. ¿Por qué puede crear valor?",
+      "opciones": [
+        "Porque ya no necesita capital de trabajo ni logística.",
+        "Reduce errores de mezcla e inventario al demorar una decisión irreversible hasta tener mejor información.",
+        "Porque cualquier aumento del costo unitario aumenta automáticamente el valor.",
+        "Porque la configuración deja de afectar la posibilidad de vender."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La estrategia puede modificar inventarios y logística, pero no eliminarlos. Incluso puede requerir nuevas capacidades locales. Debe evaluarse el efecto neto sobre costos, ventas y capital de trabajo.",
+        "La personalización tardía conserva alternativas de destino y configuración. Puede evitar sobrantes de una versión y faltantes de otra. Los ahorros y ventas recuperadas pueden superar el mayor costo de acabado.",
+        "El mayor costo es el precio de obtener flexibilidad. Solo se justifica si sus beneficios incrementales lo superan. El aumento del costo por sí mismo reduce valor.",
+        "La configuración sigue siendo relevante para satisfacer la demanda. La mejora consiste en decidirla cuando se conocen mejor los pedidos. No desaparece la necesidad de adecuar el producto."
+      ]
+    },
+    {
+      "id": "c23-q047",
+      "tema": "Flexibilidad de abastecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un director debe contratar componentes hoy o comprarlos el año próximo. ¿Cuál es el intercambio económico relevante?",
+      "opciones": [
+        "Comprar después garantiza disponibilidad y precio menor.",
+        "La seguridad de suministro carece de valor si existe una opción de esperar.",
+        "Contratar puede asegurar precio, cantidad y entrega, pero reduce la libertad de cambiar de proveedor o aprovechar precios futuros menores.",
+        "Contratar hoy conserva siempre todas las ventajas de comprar después sin costo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esperar conserva libertad, pero no garantiza disponibilidad ni menores precios. Puede haber escasez o demoras. Esos riesgos forman parte del costo de no contratar.",
+        "Una interrupción puede generar pérdidas operativas importantes. La flexibilidad no reemplaza automáticamente la seguridad de suministro. Ambas ventajas deben compararse económicamente.",
+        "El contrato anticipado reduce ciertos riesgos. A cambio, puede sacrificar oportunidades futuras de abastecimiento. La decisión compara la seguridad obtenida con la flexibilidad perdida.",
+        "Los compromisos firmes limitan decisiones futuras. Salvo cláusulas específicas, no se puede ignorar un contrato sin consecuencias. Deben valuarse sus términos y la alternativa flexible."
+      ]
+    },
+    {
+      "id": "c23-q048",
+      "tema": "Tres estrategias para adquirir aviones",
+      "dificultad": "basica",
+      "pregunta": "Una aerolínea necesitará posiblemente un avión dentro de varios años. ¿Qué distingue una opción de compra con precio y entrega pactados?",
+      "opciones": [
+        "Es idéntica a comprometerse irrevocablemente hoy.",
+        "Es idéntica a esperar y negociar después sin reservar capacidad.",
+        "Garantiza que el avión será rentable cualquiera sea la demanda.",
+        "Conserva la decisión de comprar y, si se ejerce, asegura las condiciones contractuales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El compromiso obliga a comprar según sus términos. La opción permite desistir de ejercer. Esa diferencia modifica especialmente los pagos cuando la demanda resulta baja.",
+        "Esperar sin reservar puede implicar precios mayores y cola de producción. Una opción contractual puede fijar ambas condiciones. Por eso sus pagos no son idénticos.",
+        "Fijar precio y entrega no garantiza la demanda de vuelos. Si comprar no conviene, la aerolínea puede no ejercer. La rentabilidad del avión sigue dependiendo del mercado.",
+        "La opción combina flexibilidad de decisión y condiciones preacordadas. Un compromiso firme pierde el derecho a no comprar. Esperar sin contrato conserva decisión, pero no necesariamente precio ni lugar de entrega."
+      ]
+    },
+    {
+      "id": "c23-q049",
+      "tema": "Vencimiento y entrega del avión",
+      "dificultad": "basica",
+      "pregunta": "Una opción se ejerce en el año 2 y garantiza entrega en el año 3. Sin opción, ordenar en el año 2 permite entrega en el año 5. ¿Cuál es la interpretación correcta?",
+      "opciones": [
+        "El vencimiento de decisión es el año 2 y la reserva adelanta dos años la entrega frente al pedido tardío.",
+        "El plazo de la opción es de cinco años porque esa es la entrega sin reserva.",
+        "El ejercicio ocurre necesariamente en el año 3 cuando llega el avión.",
+        "La reserva no tiene valor porque ambas estrategias permiten ordenar en el año 2."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El ejercicio se refiere al momento de confirmar la compra. La entrega es un evento posterior distinto. La reserva puede valer por disponer del avión dos años antes que mediante el pedido tardío.",
+        "La entrega alternativa no determina el vencimiento del derecho. El último momento para decidir ejercer es el año 2. Confundir ambos plazos altera el problema de valuación.",
+        "El contrato exige decidir en el año 2. Esperar hasta la entrega puede hacer perder el derecho. La fecha de recepción no es automáticamente la fecha de ejercicio.",
+        "Ordenar en la misma fecha no implica recibir en la misma fecha. La reserva protege un lugar en producción. Adelantar la disponibilidad puede generar flujos operativos valiosos."
+      ]
+    },
+    {
+      "id": "c23-q050",
+      "tema": "Valor incremental de la reserva aeronáutica",
+      "dificultad": "avanzada",
+      "pregunta": "Antes de pagar la prima, el VP de la estrategia óptima con una opción de avión es 12 millones y el de esperar sin reservar es 8 millones. ¿Cuál es la prima máxima económicamente aceptable por esa mejora?",
+      "opciones": [
+        "20 millones.",
+        "4 millones.",
+        "12 millones.",
+        "8 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar los valores cuenta estrategias alternativas como si pudieran ejecutarse simultáneamente. El valor del contrato se mide por la ventaja respecto de la mejor alternativa sin él. La diferencia es 4.",
+        "El valor incremental es la diferencia entre estrategias. El cálculo es 12 − 8 = 4 millones. Pagar exactamente 4 deja indiferencia; pagar menos crea valor neto.",
+        "Los 12 son el valor bruto de la estrategia con opción. La empresa ya dispone de una alternativa que vale 8 sin pagarla. La prima máxima debe descontar esa alternativa.",
+        "Los 8 representan el valor de esperar sin reserva. No miden la mejora comprada. Esa mejora es de 4 millones."
+      ]
+    },
+    {
+      "id": "c23-q051",
+      "tema": "VPN y ventaja de la opción de avión",
+      "dificultad": "avanzada",
+      "pregunta": "En un modelo donde se compara reservar con esperar y negociar después, ¿por qué la ventaja incremental de la reserva puede ser mayor cerca de VPN cero que con VPN muy alto?",
+      "opciones": [
+        "Porque con VPN muy alto la entrega garantizada deja de tener cualquier valor.",
+        "Porque con VPN muy bajo existe ejercicio seguro de la reserva.",
+        "Cerca de cero importa mucho poder desistir o asegurar buenas condiciones según evolucione la demanda.",
+        "Porque toda call financiera estándar vale menos cuando aumenta el precio del subyacente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La entrega temprana puede seguir aportando valor con VPN alto. Incluso puede ser el beneficio principal de reservar. Lo que cambia es el aporte relativo de poder desistir.",
+        "Con VPN muy bajo suele ser poco probable que convenga ejercer. La reserva puede valer poco por esa razón. La máxima ventaja relativa no se explica por ejercicio seguro en estados malos.",
+        "Cerca del umbral es especialmente útil elegir entre ejercer y negociar otra alternativa. Con VPN muy alto probablemente se compre de todos modos. La comparación es incremental contra otra estrategia flexible, no el precio aislado de una call estándar.",
+        "Una call financiera estándar aumenta con el subyacente manteniendo lo demás constante. Aquí se compara con una alternativa cuyo valor también cambia. Confundir valor absoluto y ventaja incremental lleva a la conclusión incorrecta."
+      ]
+    },
+    {
+      "id": "c23-q052",
+      "tema": "Renegociación y variantes contractuales",
+      "dificultad": "intermedia",
+      "pregunta": "Una aerolínea tiene una opción de precio fijo sin obligación de ejercicio. Si el precio de mercado cae, ¿qué puede hacer y qué debe revisar en variantes de ese contrato?",
+      "opciones": [
+        "Ejercer obligatoriamente al precio original para no perder la prima hundida.",
+        "Exigir que toda opción de precio fijo incluya entrega inmediata y cualquier modelo.",
+        "Suponer que una opción renovable garantiza siempre el mismo lugar de producción.",
+        "Dejarla vencer y negociar otra compra; revisar si la reserva garantiza cola y si permite cambiar de modelo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La prima ya pagada es un costo hundido para la decisión de ejercicio. Deben compararse las alternativas disponibles desde hoy. Ejercer solo para justificar esa prima puede destruir valor adicional.",
+        "Los derechos dependen del contrato negociado. Fijar un precio no implica automáticamente cualquier fecha o modelo. Hay que separar las garantías y flexibilidades efectivamente compradas.",
+        "Una variante puede fijar precio sin reservar lugar en producción. Al ejercer, podría ingresarse al final de la cola. No debe atribuirse una entrega garantizada cuando el contrato no la otorga.",
+        "La prima pagada no obliga a comprar a un precio desfavorable. Puede convenir contratar otra compra si ofrece mayor valor. Las cláusulas de cola y sustitución de modelo definen derechos distintos que deben valuarse explícitamente."
+      ]
+    },
+    {
+      "id": "c23-q053",
+      "tema": "Activos no negociados y activo doble",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto real no cotiza en bolsa. ¿Qué supuesto respalda el uso práctico de valuación por opciones?",
+      "opciones": [
+        "Que los accionistas puedan acceder a valores o carteras con características de riesgo equivalentes a las del proyecto.",
+        "Que la empresa pueda vender físicamente el proyecto en cualquier segundo.",
+        "Que todos los accionistas sean realmente neutrales al riesgo.",
+        "Que no exista ningún activo financiero comparable en riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un activo doble proporciona una referencia de riesgo y rendimiento exigido. La opción real se valúa como se valuaría un derecho equivalente si pudiera negociarse. El supuesto también respalda la presupuestación de capital mediante flujos descontados.",
+        "La negociación continua del activo real haría más directo un argumento de arbitraje. Pero no es la condición práctica invocada para proyectos no cotizados. La referencia se construye con riesgos accesibles en los mercados financieros.",
+        "La neutralidad al riesgo es una herramienta de valuación. No afirma que los accionistas carezcan de aversión al riesgo. El ajuste por riesgo se incorpora en los valores y probabilidades utilizados.",
+        "La ausencia de referencias de riesgo dificulta justificar y calibrar el modelo. El enfoque supone acceso a exposiciones equivalentes. No convierte cualquier estimación en un precio de mercado indiscutible."
+      ]
+    },
+    {
+      "id": "c23-q054",
+      "tema": "Neutralidad al riesgo y equivalentes ciertos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuál es la interpretación correcta de las probabilidades neutrales al riesgo?",
+      "opciones": [
+        "Solo pueden usarse cuando la beta del proyecto es cero.",
+        "Ajustan los pagos por riesgo para permitir descontarlos a la tasa libre de riesgo.",
+        "Pronostican necesariamente las frecuencias reales de los estados futuros.",
+        "Permiten descontar cualquier pronóstico real a la tasa libre de riesgo sin ajuste."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una beta positiva no invalida el método. La exposición al riesgo ya influye en la valuación del subyacente y en la calibración. Precisamente se busca evitar exigir una tasa fija a pagos de riesgo cambiante.",
+        "El método transforma la valoración del riesgo en una ponderación distinta de los estados. Es equivalente a trabajar con pagos ajustados por riesgo y descuento libre de riesgo. No necesita que la beta del activo sea cero.",
+        "Son probabilidades de valuación, no necesariamente frecuencias observables. Las probabilidades reales describen pronósticos. Intercambiarlas sin ajustar la tasa puede producir valores incorrectos.",
+        "La tasa libre de riesgo es válida después del ajuste correspondiente. Usar pronósticos reales riesgosos sin corregirlos suele sobrevaluar los pagos. Deben mantenerse consistentes probabilidades y tasa."
+      ]
+    },
+    {
+      "id": "c23-q055",
+      "tema": "Árbol de decisión y tasa constante",
+      "dificultad": "avanzada",
+      "pregunta": "Un analista elige la mejor decisión en cada nodo con probabilidades reales y descuenta todos los flujos resultantes al WACC de la empresa. ¿Qué falla puede tener?",
+      "opciones": [
+        "Los árboles solo sirven para proyectos sin incertidumbre.",
+        "Usar WACC siempre subvalúa exactamente en el mismo porcentaje.",
+        "La estrategia contingente cambia el riesgo de los pagos y el WACC constante puede no ser apropiado.",
+        "Elegir decisiones óptimas en los nodos está prohibido en un árbol."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los árboles representan precisamente decisiones bajo incertidumbre. Pueden incorporar probabilidades y pagos contingentes. Deben valuarse de forma consistente con el riesgo.",
+        "No existe un error porcentual universal ni necesariamente una única dirección. El efecto depende de la estructura de los pagos y del riesgo. La objeción es usar una tasa sin demostrar que corresponde a la estrategia.",
+        "La flexibilidad modifica la exposición a los estados del mercado. El riesgo de una opción también cambia según el estado y el plazo. Conviene usar probabilidades neutrales consistentes o ajustes de riesgo adecuados a cada pago.",
+        "La optimización en los nodos es una parte necesaria del procedimiento. El problema está en cómo se valúan después los pagos. Una buena decisión local no corrige una tasa de descuento mal elegida."
+      ]
+    },
+    {
+      "id": "c23-q056",
+      "tema": "Elección del modelo y parámetros",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué procedimiento es más adecuado para valuar una opción de inversión con flujos previos importantes y ejercicio posible en varias fechas?",
+      "opciones": [
+        "Black-Scholes sin dividendos, ignorando los flujos anteriores al vencimiento.",
+        "Aplicar d2 = d1 + σ√t para eliminar la necesidad de modelar el ejercicio.",
+        "Valuar solo el VPN del último año y descartar decisiones intermedias.",
+        "Un árbol que ajuste el valor por los flujos y compare ejercicio con continuación en cada fecha."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ignorar distribuciones puede sobrevalorar la espera. Además, la fórmula europea simple no decide el ejercicio anticipado. Deben representarse tanto los flujos como las fechas permitidas.",
+        "En Black-Scholes se cumple d2 = d1 − σ√t. Además, cambiar esa relación no incorpora decisiones anticipadas ni flujos perdidos. La estructura del contrato debe modelarse explícitamente.",
+        "Ese enfoque elimina decisiones que el contrato permite. También omite los flujos que podrían captarse al invertir antes. La valuación debe retroceder desde el final y revisar cada oportunidad de ejercicio.",
+        "Los flujos afectan el costo de esperar y el valor remanente del activo. El árbol permite revisar la decisión de ejercicio en cada fecha habilitada. Una call europea simple sin distribuciones no representa por sí sola esa flexibilidad."
+      ]
+    },
+    {
+      "id": "c23-q057",
+      "tema": "Límites prácticos de la valuación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conjunto describe dificultades prácticas importantes al cuantificar opciones reales?",
+      "opciones": [
+        "Complejidad computacional, pagos o derechos poco definidos e interacción entre competidores.",
+        "Imposibilidad matemática de valorar cualquier activo no cotizado.",
+        "Necesidad de que todo proyecto tenga flujos ciertos y ejercicio inmediato.",
+        "Falta de utilidad estratégica cuando no se obtiene un precio exacto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los modelos necesitan una estructura concreta de pagos, costos y fechas. Algunas oportunidades son difíciles de definir y otras dependen de decisiones rivales. Aun así, una aproximación transparente puede ser útil para decidir.",
+        "La falta de cotización exige estimar el valor y riesgo del subyacente. No prohíbe conceptualmente el análisis bajo los supuestos pertinentes. La limitación suele estar en los datos y la representación económica.",
+        "Las opciones son especialmente relevantes cuando hay incertidumbre y decisiones futuras. Exigir certeza y ejercicio inmediato eliminaría gran parte del problema. El desafío es modelar la contingencia con claridad.",
+        "Identificar derechos y costos de esperar puede mejorar la estrategia sin un precio exacto. No toda precisión adicional compensa el trabajo o la opacidad del modelo. Una estimación comprensible puede ser más útil que una caja negra."
+      ]
+    },
+    {
+      "id": "c23-q058",
+      "tema": "Opciones compartidas y teoría de juegos",
+      "dificultad": "avanzada",
+      "pregunta": "Dos empresas pueden entrar al mismo mercado y cada una afecta las ganancias de la otra. ¿Cómo debe analizarse la opción de esperar?",
+      "opciones": [
+        "Concluyendo que entrar primero siempre domina esperar.",
+        "Considerando las respuestas estratégicas de ambas y su efecto sobre los pagos.",
+        "Tratando a la rival como pasiva porque las opciones se valúan individualmente.",
+        "Suponiendo que la competencia solo modifica la tasa libre de riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Puede existir ventaja del primero, pero también aprendizaje o menores costos para el seguidor. La conclusión depende de la interacción concreta. No hay una regla universal de entrar cuanto antes.",
+        "Las decisiones no son independientes. La entrada de una empresa puede reducir las rentas o cambiar la mejor respuesta de la otra. El análisis puede requerir combinar opciones reales con teoría de juegos.",
+        "Una rival con capacidad de actuar puede cambiar el valor de la oportunidad. Suponerla pasiva ignora un elemento central de los pagos. La opción propia debe evaluarse junto con las posibles respuestas ajenas.",
+        "La competencia afecta ventas, precios, costos y oportunidad de entrada. No se representa cambiando arbitrariamente la tasa libre de riesgo. Debe incorporarse en los escenarios y decisiones."
+      ]
+    },
+    {
+      "id": "c23-q059",
+      "tema": "Plantas modulares y economías de escala",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta grande es más eficiente, pero varias plantas pequeñas permitirían ampliar capacidad cuando crezca la demanda. ¿Qué criterio corresponde?",
+      "opciones": [
+        "Elegir siempre la planta grande porque el menor costo unitario decide toda inversión.",
+        "Sumar el valor de flexibilidad sin considerar el mayor costo de los módulos.",
+        "Comparar el ahorro de escala con el valor neto de invertir por etapas y evitar capacidad innecesaria.",
+        "Elegir siempre módulos porque la flexibilidad no tiene costo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El costo unitario no mide el costo de capacidad ociosa. Construir demasiado temprano puede destruir valor. Las decisiones por etapas deben compararse con el ahorro de escala.",
+        "El mayor costo es parte del precio de comprar flexibilidad. Omitirlo sobrevalora la alternativa modular. Debe calcularse una ventaja neta, no un beneficio aislado.",
+        "La modularidad conserva opciones de expansión y demora desembolsos. La escala puede reducir costos de inversión y operación. Se elige la alternativa de mayor valor después de incorporar ambos efectos.",
+        "Los módulos pueden ser más caros por unidad de capacidad. También pueden tener costos de coordinación. La flexibilidad solo conviene si sus beneficios compensan esos costos."
+      ]
+    },
+    {
+      "id": "c23-q060",
+      "tema": "Crear opciones mediante capacidad inicial extra",
+      "dificultad": "intermedia",
+      "pregunta": "Una petrolera deja espacio en una plataforma y coloca un ducto algo más ancho de lo necesario. ¿Qué justificación financiera puede tener?",
+      "opciones": [
+        "Registrar inmediatamente los ingresos de petróleo todavía no descubierto.",
+        "Garantizar que la expansión futura se realizará aunque resulte antieconómica.",
+        "Eliminar la incertidumbre geológica al ampliar el ducto.",
+        "Pagar un costo adicional hoy para reducir el costo de futuras expansiones si aparecen reservas cercanas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las reservas potenciales no son ventas realizadas. La infraestructura crea capacidad de respuesta, no ingresos ciertos. Su valor depende de las oportunidades futuras que realmente permita aprovechar.",
+        "La ventaja consiste en conservar una decisión, no en comprometerla. Si la expansión no conviene, puede no hacerse. Obligar a ampliar eliminaría parte de la flexibilidad buscada.",
+        "El ducto no cambia por sí solo la geología. Reduce el costo de actuar si llegan noticias favorables. La incertidumbre sigue existiendo y debe reflejarse en la valuación.",
+        "El espacio y la capacidad extra facilitan inversiones posteriores. Económicamente reducen el precio de ejercicio de opciones de expansión. Debe compararse ese beneficio esperado de flexibilidad con el costo adicional actual."
+      ]
+    },
+    {
+      "id": "c23-q061",
+      "tema": "Alquiler y conversión de activos",
+      "dificultad": "basica",
+      "pregunta": "Una empresa nueva alquila mobiliario con cancelación sencilla; una aerolínea paga por aviones fáciles de convertir de pasajeros a carga. ¿Qué flexibilidad adquieren, respectivamente?",
+      "opciones": [
+        "Salir o ajustar escala con menor costo, y cambiar el producto o uso del activo.",
+        "Expandirse obligatoriamente y fijar la tasa libre de riesgo.",
+        "Eliminar el riesgo comercial y asegurar ingresos constantes.",
+        "Comprar activos financieros cotizados y recibir dividendos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El alquiler cancelable limita el compromiso si cambia la necesidad de capacidad. La conversión permite cambiar de mercado usando el mismo activo. Ambos derechos pueden justificar un mayor costo inicial o periódico.",
+        "Ninguna decisión obliga a expandirse. Tampoco modifica la tasa libre de riesgo del mercado. Los beneficios se relacionan con adaptar recursos y usos.",
+        "La flexibilidad permite reaccionar al riesgo, pero no lo elimina. Puede seguir habiendo pérdidas de demanda o costos de conversión. Sus beneficios deben compararse con el precio pagado.",
+        "Las decisiones se refieren a contratos y características de activos reales. No consisten en adquirir valores financieros. La lógica de opciones sirve para valorar su adaptación operativa."
+      ]
+    },
+    {
+      "id": "c23-q062",
+      "tema": "Construcción rápida y abandono por etapas",
+      "dificultad": "avanzada",
+      "pregunta": "Dos plantas quedarían listas en la misma fecha. Una cuesta menos, pero exige empezar ya; la otra cuesta más y permite iniciar después de observar la demanda. ¿Cómo puede justificarse la segunda?",
+      "opciones": [
+        "Porque los costos ya gastados deben recuperarse continuando la obra en cualquier escenario.",
+        "Su demora de compromiso puede evitar desembolsos hundidos en escenarios malos y compensar el sobrecosto.",
+        "Porque todo plazo de construcción menor garantiza mayor rentabilidad.",
+        "Porque deben sumarse por separado una call y una put aunque describan exactamente los mismos pagos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los desembolsos ya realizados son hundidos. La continuación depende de beneficios y costos futuros evitables. Seguir solo para justificar gastos previos puede agravar las pérdidas.",
+        "La alternativa rápida conserva más tiempo para aprender antes de comprometer fondos. Puede describirse mediante decisiones de invertir por etapas o de abandonar. Si ambas descripciones representan los mismos pagos óptimos, no deben contarse dos veces.",
+        "La velocidad no asegura que el beneficio supere el sobrecosto. Importan la incertidumbre y los desembolsos que se pueden evitar. La comparación debe abarcar las estrategias completas.",
+        "Dos descripciones equivalentes no son dos beneficios independientes. Sumarlas duplicaría el valor de la flexibilidad. Debe modelarse una sola vez cada pago y decisión."
+      ]
+    },
+    {
+      "id": "c23-q063",
+      "tema": "Crecimiento y riesgo de la acción",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa sin deuda aumenta la proporción de su valor explicada por opciones de expansión sobre su propio negocio. ¿Qué precaución corresponde al usar su beta accionaria?",
+      "opciones": [
+        "Las oportunidades de crecimiento siempre tienen beta cero.",
+        "El aumento del peso de las opciones necesariamente reduce la volatilidad de la acción.",
+        "Puede reflejar el mayor riesgo de las opciones y no ser la beta apropiada de una planta operativa sin esas opciones.",
+        "La ausencia de deuda garantiza que todas las inversiones tengan la misma beta que la acción."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las oportunidades dependen del valor del negocio y pueden ser muy sensibles a él. No son activos libres de riesgo. Su beta no se vuelve cero por referirse a inversiones futuras.",
+        "El efecto no es una reducción necesaria. Las opciones de crecimiento suelen incorporar exposición amplificada al negocio. Debe analizarse la composición del valor y la sensibilidad de sus componentes.",
+        "Una call puede tener mayor sensibilidad porcentual que el activo sobre el que se escribe. Una empresa con muchas oportunidades de crecimiento puede reflejar esa exposición en su beta. Aplicarla mecánicamente a una planta sin opciones puede exagerar su costo de capital.",
+        "Quitar deuda elimina apalancamiento financiero, no diferencias entre activos y oportunidades. El patrimonio sigue siendo una combinación de exposiciones. La tasa exigida debe corresponder al riesgo del proyecto específico."
+      ]
+    },
+    {
+      "id": "c23-q064",
+      "tema": "VPOC como cartera de opciones",
+      "dificultad": "intermedia",
+      "pregunta": "En P0 = UPA1/r + VPOC, bajo el supuesto de utilidades perpetuas sin crecimiento para los activos existentes, ¿qué representa VPOC?",
+      "opciones": [
+        "La suma sin descontar de todas las ventas futuras.",
+        "La utilidad del próximo año que ya está incluida en UPA1/r, contada otra vez.",
+        "El valor contable obligatorio de todas las inversiones anunciadas.",
+        "El valor presente de oportunidades futuras de crecimiento, interpretable como una cartera de opciones de expansión."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las ventas no son flujos netos ni están descontadas. Tampoco todas pertenecen a oportunidades nuevas. VPOC es valor incremental, no volumen de actividad.",
+        "Agregar otra vez las utilidades de los activos existentes duplicaría valor. La separación busca distinguir explotación actual y nuevas oportunidades. VPOC corresponde a estas últimas.",
+        "Los anuncios no crean automáticamente valor económico. Cada oportunidad depende de beneficios, costos y flexibilidad. Su valor no viene impuesto por un registro contable.",
+        "El primer término valúa los activos existentes bajo los supuestos indicados. VPOC recoge oportunidades de crear valor mediante inversiones futuras. Esas oportunidades pueden interpretarse como derechos de expansión que se ejercerán si convienen."
+      ]
+    },
+    {
+      "id": "c23-q065",
+      "tema": "FED y negocios maduros",
+      "dificultad": "basica",
+      "pregunta": "¿Qué relación existe entre las opciones reales y el flujo de efectivo descontado?",
+      "opciones": [
+        "Se complementan: el FED suele valuar el subyacente y es especialmente útil cuando la flexibilidad aporta poco.",
+        "Las opciones vuelven inútil el FED para cualquier proyecto.",
+        "El FED solo sirve si todos los flujos son completamente seguros.",
+        "Se debe sumar siempre una prima fija de flexibilidad al valor obtenido por FED."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La valuación de opciones suele partir de un valor del activo estimado por FED. En negocios maduros cuyo valor depende sobre todo de sus cobros, el FED puede ser suficiente. Lo importante es no omitir ni duplicar decisiones contingentes relevantes.",
+        "Sin estimar el subyacente no suele poder calcularse la opción. El FED sigue teniendo una función central. La flexibilidad se incorpora cuando cambia materialmente los pagos.",
+        "El FED también puede tratar flujos riesgosos con tasas o equivalentes ciertos adecuados. Su limitación no es toda incertidumbre. El problema aparece al representar mal una estrategia contingente y su riesgo.",
+        "No existe una prima universal de flexibilidad. El valor depende de derechos, costos, plazos y escenarios concretos. Agregar una cifra arbitraria puede duplicar beneficios ya incluidos."
+      ]
+    },
+    {
+      "id": "c23-q066",
+      "tema": "Derechos de espera y patentes",
+      "dificultad": "basica",
+      "pregunta": "Una minera compra derechos sobre un yacimiento no rentable hoy y una farmacéutica obtiene una patente para decidir más adelante si comercializa un producto. ¿Qué tienen en común?",
+      "opciones": [
+        "Deben asignar valor cero si el VPN de iniciar inmediatamente es negativo.",
+        "Adquieren oportunidades de invertir si las condiciones futuras vuelven conveniente el ejercicio.",
+        "Asumen necesariamente la obligación de producir desde hoy.",
+        "Obtienen proyectos sin costo de ejercicio futuro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un VPN inmediato negativo no determina el valor de la oportunidad. Los estados futuros favorables pueden justificar invertir. Si no aparecen, el derecho puede dejarse vencer.",
+        "Los derechos preservan acceso a proyectos que pueden mejorar con el tiempo. La empresa puede esperar y ejercer solo si resulta conveniente. Su valor depende también de vencimiento, exclusividad y costos necesarios para desarrollarlos.",
+        "Los derechos no equivalen por sí solos a una obligación inmediata de producir. Justamente permiten condicionar la inversión. Confundir derecho con compromiso elimina su fuente de valor.",
+        "Tener acceso no significa que desarrollar sea gratis. La explotación o comercialización suele requerir desembolsos adicionales. Esos costos funcionan como precios de ejercicio."
+      ]
+    },
+    {
+      "id": "c23-q067",
+      "tema": "Costo fijo y volatilidad del flujo neto",
+      "dificultad": "avanzada",
+      "pregunta": "Los ingresos menos costos variables de un restaurante son inciertos, pero el costo fijo permanece constante. ¿Por qué no conviene aplicar sin revisión la misma volatilidad proporcional al flujo neto?",
+      "opciones": [
+        "Porque el costo fijo debe subir y bajar automáticamente con los ingresos.",
+        "Porque el flujo neto pasa a tener una distribución lognormal positiva por definición.",
+        "Porque restar un costo fijo cambia la sensibilidad porcentual y puede producir flujos netos negativos.",
+        "Porque restar costos fijos elimina todo riesgo de ingresos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ese procedimiento contradice el supuesto de costo fijo. Moverlo proporcionalmente altera los pagos del proyecto. Debe mantenerse constante y descontarse con el tratamiento de riesgo apropiado.",
+        "La resta de una constante a un ingreso positivo puede generar resultados negativos. Por eso no asegura una distribución lognormal del flujo neto. Imponerla sin revisión puede distorsionar los estados de pérdida y abandono.",
+        "La variación monetaria del ingreso se transmite al flujo neto, pero sobre una base menor. Su variación porcentual puede ser mayor y no constante. Por eso puede ser más claro modelar el ingreso y restar después el costo fijo.",
+        "Restar una cifra cierta no elimina las variaciones del ingreso. Incluso puede amplificar su impacto porcentual sobre el neto. El riesgo operativo sigue presente."
+      ]
+    },
+    {
+      "id": "c23-q068",
+      "tema": "Correlación perfecta y riesgo del diferencial",
+      "dificultad": "avanzada",
+      "pregunta": "Un analista afirma que una correlación de +1 entre electricidad y combustible basta para hacer constante el diferencial. ¿Qué condición adicional necesita esa conclusión?",
+      "opciones": [
+        "Que ambos precios tengan la misma media, aunque varíen en magnitudes distintas.",
+        "Que la turbina opere continuamente durante todo el año.",
+        "Que la empresa no tenga deuda financiera.",
+        "Que sus cambios monetarios, medidos por unidad equivalente de producción, sean iguales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La igualdad de medias no determina cómo varía la diferencia. Dos precios pueden tener igual promedio y distinta amplitud de cambios. Se necesita compensación de cambios monetarios equivalentes.",
+        "La frecuencia de operación no elimina la incertidumbre del margen. Lo decisivo es cómo se mueven precio y costo por unidad producida. La operación continua tampoco es necesaria para definir el diferencial.",
+        "El financiamiento no determina la correlación ni la escala de los cambios de precios. La condición se refiere a los componentes del margen operativo. Tener o no deuda no vuelve constante ese margen.",
+        "La correlación perfecta implica movimientos linealmente relacionados, no necesariamente iguales en magnitud. El diferencial es constante si los cambios equivalentes se compensan uno a uno. Si difieren sus sensibilidades, puede quedar volatilidad y valor de opción."
+      ]
+    },
+    {
+      "id": "c23-q069",
+      "tema": "Costo de capital y parámetros de la opción",
+      "dificultad": "avanzada",
+      "pregunta": "Dos proyectos tienen igual valor actual del subyacente, volatilidad, flujos distribuidos, ejercicio, plazo y tasa libre de riesgo. Un analista sostiene que la call sobre uno vale más solo porque su WACC declarado es mayor. ¿Qué corresponde?",
+      "opciones": [
+        "Con esos parámetros iguales, el modelo de opciones da el mismo valor; el WACC no agrega una prima independiente.",
+        "Agregar a la call la diferencia de WACC multiplicada por la inversión.",
+        "Reemplazar la tasa libre de riesgo por el WACC más alto en el descuento del ejercicio fijo.",
+        "Asignar probabilidad neutral de suba igual al WACC de cada proyecto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo de capital puede influir al estimar el valor del subyacente. Pero ese valor ya está fijado igual para ambos proyectos en el enunciado. Con iguales parámetros de opción, no corresponde introducir otra corrección por WACC.",
+        "No existe esa regla de prima en el modelo. Agregarla contaría un efecto que no está en los pagos especificados. La call depende de los parámetros dados y no de una etiqueta adicional de tasa.",
+        "El ejercicio fijo se descuenta según su carácter cierto bajo el modelo. Sustituir la tasa por WACC mezcla riesgos diferentes. También cambiaría un parámetro que el enunciado mantiene igual.",
+        "El WACC es una tasa exigida, no una probabilidad. Las probabilidades neutrales se calibran a partir del subyacente y sus pagos totales. No se asignan copiando una tasa de descuento."
+      ]
+    },
+    {
+      "id": "c23-q070",
+      "tema": "Árbol de dos períodos y ejercicio anticipado",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto sin flujos previos vale 100 hoy y en cada uno de dos años multiplica su valor por 1,50 o por 0,50. La tasa libre de riesgo es 0%, la probabilidad neutral de suba es 0,50 y ejercer cuesta 90 en cualquier fecha. ¿Cuánto vale hoy la opción con ejercicio en cualquier nodo?",
+      "opciones": [
+        "67,50.",
+        "33,75.",
+        "10,00.",
+        "30,00."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 67,50 son el valor en el nodo alto del año 1. Todavía hay que ponderarlo por la probabilidad de llegar a ese nodo. El nodo bajo vale cero y el promedio actual es 33,75.",
+        "Los valores terminales son 225, 75 y 25, por lo que los pagos de la call son 135, 0 y 0. En el nodo alto del año 1, esperar vale 67,50 frente a 60 por ejercer; en el bajo ambas alternativas valen cero. Hoy esperar vale 0,50 × 67,50 = 33,75, más que ejercer por 10.",
+        "Los 10 son el VPN de ejercer inmediatamente. No incorporan el valor de conservar la oportunidad. La inducción hacia atrás da 33,75, por lo que conviene esperar.",
+        "Este resultado supone ejercer en el nodo alto del primer año por 60 y promedia 0,50 × 60. Allí esperar hasta el segundo año vale 67,50 y es mejor. La decisión óptima eleva el valor actual a 33,75."
+      ]
+    }
+  ]
+}

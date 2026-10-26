@@ -1,0 +1,1260 @@
+{
+  "capitulo": 21,
+  "titulo": "Para entender las opciones",
+  "preguntas": [
+    {
+      "id": "c21-q001",
+      "tema": "Derechos de compra y venta",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a una call de una put para quien compra la opción?",
+      "opciones": [
+        "La call da derecho a comprar y la put da derecho a vender al precio de ejercicio.",
+        "La call obliga a comprar y la put obliga a vender.",
+        "La call da derecho a vender y la put da derecho a comprar.",
+        "Ambas dan derecho a comprar, pero la put solamente al vencimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La call permite adquirir el activo por un importe pactado. La put permite venderlo por ese importe. En ambos casos el titular puede dejar vencer el derecho sin ejercerlo.",
+        "Se confundió el derecho del comprador con la obligación del emisor. El titular decide si ejerce según le convenga. El emisor debe cumplir si recibe un ejercicio válido.",
+        "Los derechos aparecen invertidos. La call sirve para comprar al precio pactado y la put para vender. Por eso sus pagos responden en sentidos opuestos al precio del activo.",
+        "La put se define por el derecho de venta. La posibilidad de ejercer antes o solamente al vencimiento corresponde al estilo de la opción. Tipo y estilo son características diferentes."
+      ]
+    },
+    {
+      "id": "c21-q002",
+      "tema": "Estilo americano y europeo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia contractual identifica a una opción americana frente a una europea?",
+      "opciones": [
+        "La americana cotiza en dólares y la europea en euros.",
+        "La americana siempre es una call y la europea siempre una put.",
+        "La europea permite ejercicio anticipado y la americana solo al vencimiento.",
+        "La americana permite ejercicio anticipado; la europea solo al vencimiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La moneda no define el estilo de ejercicio. Puede haber opciones europeas expresadas en dólares y americanas en otras monedas. La diferencia relevante es el momento permitido para ejercer.",
+        "Tanto las calls como las puts pueden ser americanas o europeas. El tipo establece si el derecho es de compra o de venta. El estilo establece cuándo puede ejercerse.",
+        "Esta respuesta invierte las definiciones. El ejercicio anticipado es una facultad de la americana. La europea reserva el ejercicio para el vencimiento.",
+        "El estilo establece cuándo puede utilizarse el derecho. La americana admite ejercicio durante su vida contractual y la europea en la fecha final. Los nombres no determinan el país donde se negocian."
+      ]
+    },
+    {
+      "id": "c21-q003",
+      "tema": "Pago de una call",
+      "dificultad": "basica",
+      "pregunta": "Una call tiene ejercicio de $50 y la acción vale $68 al vencimiento. ¿Cuál es el pago por acción, antes de considerar la prima?",
+      "opciones": [
+        "$50.",
+        "−$18.",
+        "$18.",
+        "$68."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El ejercicio es un desembolso necesario para comprar. No es el pago neto del derecho. La call entrega una ventaja económica de $68 − $50 = $18.",
+        "El signo corresponde al pasivo del vendedor. El comprador puede ejercer un derecho favorable y recibe un pago positivo. Su pago es $18 antes de restar la prima.",
+        "El derecho permite comprar por $50 algo que vale $68. Su pago es máximo entre 68 − 50 y cero. El resultado es $18; la prima se incorpora después para calcular la ganancia.",
+        "Este es el valor completo de la acción. Para obtenerla mediante la call hay que pagar $50. El beneficio del derecho es solamente la diferencia positiva de $18."
+      ]
+    },
+    {
+      "id": "c21-q004",
+      "tema": "Pago de una put",
+      "dificultad": "basica",
+      "pregunta": "Una put tiene ejercicio de $70 y la acción termina en $46. ¿Cuál es su pago por acción?",
+      "opciones": [
+        "$70.",
+        "$24.",
+        "−$24.",
+        "$46."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este sería el pago máximo si la acción terminara en cero. La acción entregada todavía vale $46. El beneficio neto del ejercicio es entonces $24.",
+        "La put permite vender por $70 una acción que en el mercado vale $46. El pago es máximo entre 70 − 46 y cero. El derecho vale $24 al vencimiento.",
+        "Este importe describe el pago de la posición vendedora. El comprador tiene un derecho favorable de venta. Recibe la diferencia positiva de $24 antes de considerar la prima.",
+        "El precio de mercado no mide el valor del derecho. Hay que compararlo con el ejercicio de $70. La ventaja obtenida es de $24."
+      ]
+    },
+    {
+      "id": "c21-q005",
+      "tema": "Decisión de ejercicio",
+      "dificultad": "basica",
+      "pregunta": "Una call con ejercicio de $60 vence cuando la acción cotiza a $54. ¿Qué hace racionalmente su titular?",
+      "opciones": [
+        "La deja vencer y recupera la prima.",
+        "La deja vencer y recibe un pago de cero.",
+        "La ejerce y recibe $6.",
+        "Debe ejercer y perder $6 adicionales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Vencer sin ejercicio elimina el derecho. No obliga al emisor a devolver lo cobrado inicialmente. El pago final es cero y la prima queda como costo del comprador.",
+        "Comprar a $60 no conviene si la acción cuesta $54 en el mercado. El titular puede renunciar al ejercicio. La prima ya pagada no transforma una compra desfavorable en una conveniente.",
+        "La diferencia se calculó en el sentido de una put. La call permite comprar, por lo que corresponde restar el ejercicio al precio de mercado. Como esa diferencia es negativa, se deja vencer.",
+        "El comprador no tiene obligación de ejercer. Su derecho le permite evitar la compra por encima del precio de mercado. La pérdida de la prima es una cuestión distinta."
+      ]
+    },
+    {
+      "id": "c21-q006",
+      "tema": "Obligaciones del emisor",
+      "dificultad": "basica",
+      "pregunta": "Una empresa vende una put. ¿Qué obligación asume si el titular ejerce válidamente?",
+      "opciones": [
+        "Comprar el activo al precio de ejercicio.",
+        "Vender el activo al precio de ejercicio.",
+        "Elegir si acepta la operación.",
+        "Devolver únicamente la prima inicial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La put otorga al titular el derecho a vender. La contraparte debe comprar en los términos pactados. La prima remunera esa obligación y no habilita al emisor a rechazar el ejercicio.",
+        "Esta es la obligación asociada a una call vendida. En una put el titular vende el activo. El emisor es quien debe comprarlo.",
+        "La facultad de decidir pertenece al comprador de la opción. El emisor asumió una obligación contractual a cambio de la prima. No conserva un derecho a rechazar el ejercicio.",
+        "La prima y la liquidación por ejercicio son flujos diferentes. El contrato puede generar una pérdida mayor que lo cobrado al inicio. En una put ejercida corresponde comprar al precio pactado."
+      ]
+    },
+    {
+      "id": "c21-q007",
+      "tema": "Ganancia y equilibrio de una call",
+      "dificultad": "intermedia",
+      "pregunta": "Comprás una call por $6 con ejercicio de $40. La acción termina en $49. Ignorando intereses y costos, ¿cuál es tu ganancia y tu precio de equilibrio?",
+      "opciones": [
+        "Ganancia de $9 y equilibrio en $40.",
+        "Ganancia de $15 y equilibrio en $34.",
+        "Pérdida de $3 y equilibrio en $46.",
+        "Ganancia de $3 y equilibrio en $46."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se confundieron pago y ganancia. Los $9 son el valor del derecho ejercido, pero adquirirlo costó $6. También hay que recuperar esa prima antes de alcanzar el equilibrio.",
+        "La prima pagada se incorporó con el signo equivocado. Para el comprador constituye un costo inicial. La ganancia es $9 − $6 y el equilibrio es ejercicio más prima.",
+        "El equilibrio está bien identificado, pero la ganancia tiene el signo invertido. El pago de $9 supera el costo de $6. La diferencia positiva es $3.",
+        "El pago es 49 − 40 = $9. Al restar la prima de $6 queda una ganancia de $3. El equilibrio exige recuperar la prima, por lo que la acción debe valer $46."
+      ]
+    },
+    {
+      "id": "c21-q008",
+      "tema": "Ganancia y equilibrio de una put emitida",
+      "dificultad": "intermedia",
+      "pregunta": "Vendés una put con ejercicio de $80 y cobrás $5. La acción termina en $72. Sin intereses ni costos, ¿cuál es tu ganancia y el precio de equilibrio?",
+      "opciones": [
+        "Pérdida de $8 y equilibrio en $80.",
+        "Ganancia de $3 y equilibrio en $75.",
+        "Pérdida de $3 y equilibrio en $75.",
+        "Ganancia de $13 y equilibrio en $85."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se omitió la prima cobrada al inicio. Los −$8 son el pago contractual final. Al incorporar los $5 recibidos, la pérdida neta baja a $3.",
+        "El equilibrio es correcto, pero se invirtió el resultado. La pérdida por ejercicio de $8 supera la prima de $5. Queda una pérdida neta de $3.",
+        "El titular recibe 80 − 72 = $8, un pago de −$8 para vos. Sumando la prima de $5 resulta −$3. El equilibrio ocurre cuando la pérdida por ejercicio es $5, con la acción en $75.",
+        "La obligación por ejercicio se sumó como si fuera un ingreso. El emisor paga la diferencia cuando la acción cae. La prima solo compensa parcialmente esa pérdida."
+      ]
+    },
+    {
+      "id": "c21-q009",
+      "tema": "Diagramas de posición y ganancias",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia hay entre un diagrama de posición al vencimiento y uno de ganancias sin ajuste por intereses?",
+      "opciones": [
+        "El de posición ya resta automáticamente la prima.",
+        "El de ganancias siempre incorpora el costo de oportunidad.",
+        "El primero muestra pagos finales; el segundo incorpora además el costo o ingreso inicial.",
+        "Ambos muestran siempre rentabilidad porcentual."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La prima es un flujo inicial y no integra el pago contractual final. Incorporarla transforma la lectura en una de ganancias. Confundir ambos puede hacer parecer gratuita una opción comprada.",
+        "Un diagrama simple suele restar el costo inicial sin capitalizarlo. Eso permite ver el resultado nominal, pero mezcla fechas. El análisis económico completo debe reconocer también los intereses correspondientes.",
+        "La posición representa lo que entrega cada contrato según el precio final. Para obtener ganancias se resta la prima pagada o se suma la recibida. Si se omiten intereses, la comparación no reconoce completamente el valor temporal del dinero.",
+        "Los diagramas usuales expresan importes monetarios frente al precio del subyacente. Para calcular rentabilidad porcentual hace falta relacionar la ganancia con la inversión inicial. Ese cociente no es el eje habitual de estos gráficos."
+      ]
+    },
+    {
+      "id": "c21-q010",
+      "tema": "Costo de oportunidad de la prima",
+      "dificultad": "intermedia",
+      "pregunta": "Una call cuesta $10 hoy, tiene ejercicio de $100 y vence en un año. Con tasa efectiva anual libre de riesgo de 10%, ¿qué precio final permite recuperar el ejercicio y la prima capitalizada?",
+      "opciones": [
+        "$101.",
+        "$111.",
+        "$110.",
+        "$121."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe recupera únicamente $1 sobre el ejercicio. Ese dólar es el interés de la prima, pero falta su principal de $10. El pago requerido es $11 en total.",
+        "Los $10 de prima podrían convertirse en $11 al año. El pago de la call debe alcanzar esos $11 para igualar esa alternativa. Como el pago es precio final menos $100, se necesitan $111.",
+        "Este es el equilibrio nominal que ignora intereses. Solo recupera los $10 originales además del ejercicio. Para reconocer el costo de oportunidad hay que recuperar $11 de prima capitalizada.",
+        "Se capitalizó también el ejercicio como si se desembolsara hoy. Los $100 se pagan al vencimiento al ejercer. Solo la prima entregada al inicio se traslada a esa fecha."
+      ]
+    },
+    {
+      "id": "c21-q011",
+      "tema": "Riesgo de las opciones emitidas",
+      "dificultad": "basica",
+      "pregunta": "Sin cobertura y antes de primas, ¿cómo se comparan las pérdidas máximas de emitir una call y una put sobre una acción no negativa?",
+      "opciones": [
+        "La call puede perder sin límite; la put pierde como máximo el ejercicio por acción.",
+        "Ambas pierden como máximo la prima recibida.",
+        "La put puede perder sin límite; la call pierde como máximo el ejercicio.",
+        "Ninguna puede perder porque ambas cobran primas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La acción puede subir sin un tope contractual, ampliando el pasivo de la call. En una put, la caída termina en un precio de cero. Por eso el pago mínimo de la put vendida es menos el ejercicio.",
+        "La prima limita la ganancia máxima del emisor, no su pérdida. Las obligaciones por ejercicio pueden superarla ampliamente. La call descubierta tiene un riesgo especialmente grande ante subas del activo.",
+        "Se invirtieron los extremos relevantes. La pérdida de la put responde a una caída del activo hasta cero. La de la call aumenta con subas sin límite predeterminado.",
+        "Cobrar por asumir una obligación no elimina el riesgo. El pago por ejercicio puede exceder la prima recibida. Para obtener la ganancia hay que considerar ambos flujos."
+      ]
+    },
+    {
+      "id": "c21-q012",
+      "tema": "Escala contractual",
+      "dificultad": "basica",
+      "pregunta": "Cada contrato representa 100 acciones y la prima cotiza a $4 por acción. ¿Cuánto pagás por tres contratos comprados, sin comisiones?",
+      "opciones": [
+        "$12.",
+        "$400.",
+        "$300.",
+        "$1.200."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se multiplicó la prima por tres pero se omitieron las 100 acciones por contrato. La exposición total es de 300 acciones. Hay que pagar $4 por cada una.",
+        "Este es el costo de un solo contrato. La compra incluye tres unidades contractuales. El desembolso total es tres veces ese importe.",
+        "Se contó la cantidad de acciones como si fuera dinero. Los tres contratos representan 300 acciones. Todavía falta multiplicarlas por la prima de $4.",
+        "Cada contrato cuesta 100 × $4 = $400. Tres contratos cuestan 3 × $400 = $1.200. La cotización por acción no es el costo total del contrato."
+      ]
+    },
+    {
+      "id": "c21-q013",
+      "tema": "Opciones de largo plazo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué identifica la denominación LEAPS al comparar cotizaciones?",
+      "opciones": [
+        "Opciones perpetuas sin vencimiento.",
+        "Opciones que siempre se ejercen con ganancia.",
+        "Opciones exclusivas sobre monedas extranjeras.",
+        "Opciones de largo plazo con ejercicio y vencimiento definidos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una vida prolongada no equivale a una duración infinita. Estos contratos conservan una fecha de vencimiento. Esa fecha es un determinante de su valor.",
+        "El plazo largo no garantiza un pago positivo ni una ganancia. La conveniencia de ejercer depende del precio del activo. Recuperar la prima requiere distinguir pago y resultado neto.",
+        "El nombre alude al horizonte temporal. No identifica una clase exclusiva de subyacente. También se utiliza para opciones de largo plazo sobre acciones.",
+        "La denominación distingue contratos con una vida extensa. No cambia la naturaleza del derecho de compra o venta. Para compararlos hay que controlar también el activo, el ejercicio y las demás condiciones."
+      ]
+    },
+    {
+      "id": "c21-q014",
+      "tema": "Cobertura de insumos",
+      "dificultad": "intermedia",
+      "pregunta": "Una frigorífica quiere fijar un máximo al precio futuro del ganado, pero aprovechar una eventual baja. ¿Qué posición se ajusta mejor?",
+      "opciones": [
+        "Vender calls sobre el ganado.",
+        "Vender puts sobre el ganado.",
+        "Comprar calls sobre el ganado.",
+        "Comprar puts sobre el ganado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El emisor de una call queda expuesto a las subas. Eso agrava el riesgo que enfrenta un comprador de ganado. La prima recibida no establece un techo al costo de abastecimiento.",
+        "La put vendida obliga a comprar si el precio cae. No compensa el encarecimiento cuando el ganado sube. Por eso no cumple el objetivo de fijar un costo máximo.",
+        "Si el ganado sube, el derecho de compra compensa el encarecimiento por encima del ejercicio. Si baja, la empresa compra en el mercado y deja vencer la call. El costo de esa flexibilidad es la prima.",
+        "Una put gana valor cuando el precio cae. La empresa necesita protección frente a la suba de su insumo. La call ofrece el derecho de comprar al precio pactado."
+      ]
+    },
+    {
+      "id": "c21-q015",
+      "tema": "Cobertura del endeudamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero teme una suba de tasas antes de emitir deuda. Dada la relación inversa entre tasas y precios de bonos, ¿qué posición puede ayudarlo?",
+      "opciones": [
+        "Comprar bonos sin otra cobertura.",
+        "Comprar puts sobre bonos comparables a la deuda que emitirá.",
+        "Comprar calls sobre esos bonos.",
+        "Vender puts sobre esos bonos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El bono comprado pierde valor de mercado si suben las tasas. La empresa enfrentaría esa caída y una nueva deuda más costosa. La put permite obtener un pago favorable ante la caída del bono.",
+        "Una suba de tasas reduce el precio de los bonos existentes. Una put gana valor ante esa caída. Su ganancia puede compensar parte del mayor costo de financiamiento, según la correspondencia entre cobertura y deuda.",
+        "Las calls se benefician de una suba del precio del bono. Eso suele ocurrir cuando bajan las tasas. La preocupación planteada corresponde al escenario contrario.",
+        "Si suben las tasas y cae el bono, la put emitida puede generar pérdidas. Eso se suma al encarecimiento del financiamiento. La prima recibida no corrige la dirección equivocada de la exposición."
+      ]
+    },
+    {
+      "id": "c21-q016",
+      "tema": "Opciones reales de expansión",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa compra una patente y terrenos contiguos para poder ampliar su planta más adelante. ¿Qué adquiere además de los activos?",
+      "opciones": [
+        "Una oportunidad de crecimiento que puede ejercer si las condiciones futuras lo justifican.",
+        "La obligación de ampliar aunque el proyecto posterior tenga VPN negativo.",
+        "La garantía de que la ampliación será rentable.",
+        "Un derecho cuyo valor solo depende de los flujos operativos actuales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La inversión inicial da acceso a una ampliación posterior. La empresa puede no ampliarse si la demanda no acompaña. Esa flexibilidad se parece a un derecho de compra sobre un proyecto futuro.",
+        "Tener acceso a una ampliación no obliga a realizarla. La opción permite seleccionar escenarios favorables. Una obligación irrevocable eliminaría esa flexibilidad.",
+        "La flexibilidad no elimina la incertidumbre sobre ingresos y costos. La oportunidad puede vencer sin utilizarse. El precio pagado por acceder a ella sigue siendo un costo.",
+        "Se omitieron las inversiones futuras habilitadas por el activo. La patente y los terrenos pueden permitir proyectos que hoy todavía no convienen. Su valor puede incluir el derecho a aprovecharlos después."
+      ]
+    },
+    {
+      "id": "c21-q017",
+      "tema": "Espera y explotación de recursos",
+      "dificultad": "intermedia",
+      "pregunta": "El oro hoy vale menos que el costo de extraerlo de un yacimiento. El dueño puede esperar y el precio futuro es incierto. ¿Qué conclusión es razonable?",
+      "opciones": [
+        "El yacimiento puede valer por la opción de extraer solo en escenarios favorables.",
+        "Necesariamente vale cero porque extraer hoy daría pérdidas.",
+        "La incertidumbre asegura que extraer hoy será rentable.",
+        "Debe valer todo el ingreso potencial por oro, sin restar costos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un margen negativo hoy no obliga a producir inmediatamente. Si el precio mejora, el propietario puede decidir explotar. El derecho a esperar aporta valor potencial, aunque conservarlo también pueda tener costos.",
+        "Se trató la extracción como una obligación inmediata. El propietario puede esperar y ejercer si el margen cambia. La explotación inmediata no agota el valor del derecho.",
+        "La incertidumbre admite resultados favorables y desfavorables. No transforma un margen actual negativo en una ganancia segura. El valor surge de decidir cuándo actuar.",
+        "El ingreso potencial no es beneficio neto. Ejercer requiere pagar extracción y otros costos pertinentes. La opción consiste en hacerlo cuando el conjunto resulte conveniente."
+      ]
+    },
+    {
+      "id": "c21-q018",
+      "tema": "Opción de abandono",
+      "dificultad": "intermedia",
+      "pregunta": "Dos proyectos tienen iguales flujos si continúan. Uno usa maquinaria revendible; el otro exige una costosa remediación al cerrar. ¿Qué diferencia importa?",
+      "opciones": [
+        "El segundo tiene una mejor opción de abandono porque cerrar cuesta más.",
+        "Ambos deben seguir hasta que la maquinaria deje físicamente de funcionar.",
+        "El valor de reventa es irrelevante porque los flujos de continuidad coinciden.",
+        "El recupero de activos mejora el valor de la opción de abandono del primero."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El costo de salida reduce el valor obtenido al abandonar. No constituye una ganancia adicional. La comparación debe considerar recuperos netos de los costos de cierre.",
+        "La vida económica puede ser menor que la vida física. La administración puede cerrar antes si continuar destruye valor. Esa facultad constituye la opción de abandono.",
+        "La igualdad de flujos operativos no iguala las alternativas de salida. El recupero puede limitar pérdidas futuras. Dos proyectos similares mientras operan pueden tener diferente valor total.",
+        "Abandonar permite dejar de sostener una operación desfavorable. Recuperar valor de la maquinaria mejora el pago de esa decisión. Los costos de cierre reducen el atractivo de ejercer la opción del otro proyecto."
+      ]
+    },
+    {
+      "id": "c21-q019",
+      "tema": "Responsabilidad limitada",
+      "dificultad": "avanzada",
+      "pregunta": "Una sociedad tiene activos por V y una deuda con pago único D al vencimiento. Sin otros pasivos ni costos de quiebra, ¿cuál es el pago de los accionistas?",
+      "opciones": [
+        "Mín(V, D), como el pago de los acreedores.",
+        "D en todos los escenarios.",
+        "Máx(V − D, 0), como una call sobre los activos con ejercicio D.",
+        "V − D, incluso si el resultado es negativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el pago de la deuda bajo los supuestos dados. Los accionistas reciben el residuo, no el importe prioritario. Cobran cuando V supera D.",
+        "El monto prometido a los acreedores no es el pago de los accionistas. Ni siquiera la deuda cobra D si los activos son insuficientes. El capital recibe el excedente sobre esa obligación.",
+        "Si los activos superan la deuda, los accionistas conservan el excedente. Si no alcanzan, pueden entregar los activos y perder su participación. La responsabilidad limitada reproduce el piso de cero de una call.",
+        "Esa fórmula obligaría a aportar por toda insuficiencia patrimonial. La responsabilidad limitada impide extender automáticamente la pérdida por debajo de cero. El pago correcto tiene ese piso."
+      ]
+    },
+    {
+      "id": "c21-q020",
+      "tema": "Convertibles y warrants",
+      "dificultad": "basica",
+      "pregunta": "¿Qué rasgo de un bono convertible o de un warrant permite analizarlos mediante opciones?",
+      "opciones": [
+        "Eliminan todo componente de deuda del convertible.",
+        "Dan al tenedor la facultad de adquirir acciones bajo condiciones pactadas.",
+        "Garantizan que la acción nunca bajará.",
+        "Siempre obligan a comprar acciones al vencimiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un convertible combina rasgos de deuda con una facultad vinculada a acciones. Identificar la opción no borra las obligaciones del bono. Hay que reconocer ambos componentes.",
+        "Un warrant permite comprar acciones entregando el importe establecido. Un convertible permite acceder a acciones entregando o convirtiendo el bono según sus condiciones. Ambos incorporan una decisión contingente vinculada a las acciones.",
+        "El derecho incorporado no asegura el precio de mercado. Su utilidad depende de si conviene ejercer o convertir. Poder no ejercer no equivale a una garantía sobre el activo.",
+        "Una facultad de adquisición no es una obligación incondicional. El tenedor evalúa si le conviene usarla según las condiciones. El análisis de opciones se centra en esa elección."
+      ]
+    },
+    {
+      "id": "c21-q021",
+      "tema": "Call cubierta",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el pago final de comprar una acción y vender una call sobre ella con ejercicio K, sin incluir el desembolso inicial ni dividendos?",
+      "opciones": [
+        "K en cualquier escenario.",
+        "Mín(S final, K).",
+        "Máx(S final, K).",
+        "Máx(S final − K, 0)."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El paquete no elimina las pérdidas cuando cae la acción. Para obtener K en todos los escenarios hace falta agregar una put del mismo ejercicio. La call cubierta por sí sola conserva riesgo de baja.",
+        "La acción aporta S final y la call vendida resta máximo entre S final − K y cero. Si la acción supera K, el excedente se entrega al comprador de la call. Si no lo supera, el paquete conserva el valor de la acción.",
+        "Este es el pago de una acción protegida por una put. La call vendida limita las subas en lugar de proteger las bajas. El paquete queda acotado por arriba, no por abajo.",
+        "Esta fórmula corresponde a una call comprada aislada. Aquí también se mantiene una acción y la call está vendida. La suma produce un pago de mínimo entre S final y K."
+      ]
+    },
+    {
+      "id": "c21-q022",
+      "tema": "Call cubierta: resultado",
+      "dificultad": "intermedia",
+      "pregunta": "Comprás una acción a $60 y vendés una call con ejercicio de $65 por $4. La acción termina en $80. Sin intereses ni dividendos, ¿cuál es la ganancia total?",
+      "opciones": [
+        "$9.",
+        "$24.",
+        "$5.",
+        "−$11."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor final de la acción es $80 y la call vendida exige entregar $15 de valor. El pago combinado es $65 y el costo inicial neto fue $60 − $4 = $56. La ganancia es $65 − $56 = $9.",
+        "Se sumó la suba de $20 y la prima de $4 sin liquidar la call. La call emitida genera una pérdida de $15. Después de restarla, la ganancia queda en $9.",
+        "Se reconoció solo la diferencia entre el ejercicio y el costo de la acción. También se cobró una prima de $4 al inicio. La ganancia total suma ambos componentes y llega a $9.",
+        "Se restó la obligación de la call sin reconocer correctamente el valor de la acción. La suba de esta compensa ese pasivo hasta el límite pactado. El resultado conjunto es positivo en $9."
+      ]
+    },
+    {
+      "id": "c21-q023",
+      "tema": "Put protectora",
+      "dificultad": "basica",
+      "pregunta": "¿Qué pago final obtiene una acción acompañada de una put comprada con ejercicio K?",
+      "opciones": [
+        "Mín(S final, K).",
+        "Máx(K − S final, 0).",
+        "S final − K.",
+        "Máx(S final, K)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El mínimo aparece con una call cubierta. La put comprada protege las bajas en vez de limitar las subas. Por eso corresponde tomar el máximo entre el precio final y K.",
+        "Esta expresión muestra únicamente el pago de la put. Falta sumar la acción que también integra la cartera. Al agregarla se obtiene un piso de K.",
+        "Esta expresión puede ser negativa cuando la acción cae. Una acción con put conserva un pago final mínimo de K. La prima se considera aparte al evaluar la ganancia.",
+        "La acción conserva todo su valor si termina por encima de K. Si cae por debajo, la put aporta exactamente K − S final. El paquete tiene un piso de K y mantiene el potencial de suba."
+      ]
+    },
+    {
+      "id": "c21-q024",
+      "tema": "Piso patrimonial y costo del seguro",
+      "dificultad": "intermedia",
+      "pregunta": "Comprás una acción a $100 y una put con ejercicio de $90 por $4. La acción termina en $70. Sin intereses, ¿cuál es el pago combinado y la ganancia neta?",
+      "opciones": [
+        "Pago de $94 y pérdida de $10.",
+        "Pago de $70 y pérdida de $34.",
+        "Pago de $90 y pérdida de $14.",
+        "Pago de $90 y pérdida de $10."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La prima no se devuelve al vencimiento ni aumenta el pago del paquete. Fue el precio inicial de la protección. El pago final es $90 y debe compararse con $104 desembolsados.",
+        "Se ignoró el ejercicio favorable de la put. La caída a $70 activa una compensación de $20. El paquete vale $90 y no solamente el valor de la acción.",
+        "La acción aporta $70 y la put paga 90 − 70 = $20. El paquete entrega $90 frente a un costo inicial de $104. La pérdida es $14, porque el seguro establece un piso de pago y también tiene un costo.",
+        "El piso de $90 está bien calculado. Sin embargo, se omitieron los $4 pagados por la put. El costo inicial total es $104 y la pérdida alcanza $14."
+      ]
+    },
+    {
+      "id": "c21-q025",
+      "tema": "Protección mediante call y ahorro",
+      "dificultad": "intermedia",
+      "pregunta": "Querés asegurar $110 dentro de un año y conservar las subas de una acción por encima de $110. La tasa efectiva anual es 10% y una call europea con ese ejercicio cuesta $8. ¿Cuánto cuesta hoy la estrategia de bono más call?",
+      "opciones": [
+        "$100.",
+        "$129.",
+        "$108.",
+        "$118."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe financia solamente el pago seguro de $110. Falta adquirir la call por $8. Sin ella se pierde la participación en las subas de la acción.",
+        "Se capitalizaron los $110 en lugar de calcular su valor presente. Para financiar un pago futuro hay que dividir por el factor de acumulación. Luego se suma la prima actual de $8.",
+        "El depósito necesario es 110/1,10 = $100. La call agrega el pago positivo por encima de $110 y cuesta $8 hoy. La inversión total es $108 y el pago final será máximo entre $110 y el precio de la acción.",
+        "Se sumó el ejercicio completo a la prima sin descontarlo. Los $110 se necesitan dentro de un año, no hoy. Basta depositar $100 para obtenerlos a la tasa dada."
+      ]
+    },
+    {
+      "id": "c21-q026",
+      "tema": "Paridad put-call",
+      "dificultad": "intermedia",
+      "pregunta": "Sin dividendos ni fricciones, para una call y una put europeas sobre la misma acción, con igual ejercicio K y vencimiento, ¿qué igualdad impide el arbitraje?",
+      "opciones": [
+        "C + P = S actual + VP(K).",
+        "C + VP(K) = P + S actual.",
+        "C + K = P + S actual, cualquiera sea la tasa.",
+        "P + VP(K) = C + S actual."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Comprar ambas opciones produce una exposición a movimientos en ambas direcciones. No replica una acción más un bono. La paridad se obtiene igualando carteras con los mismos pagos en cada estado.",
+        "Una call más un bono que paga K entrega máximo entre S final y K. La acción más la put entrega exactamente lo mismo. La ley de un solo precio exige que ambas carteras tengan igual costo actual.",
+        "El ejercicio se paga en la fecha final y debe descontarse. Sustituir su valor presente por K ignora los intereses. Solo coincidirían en casos particulares, como una tasa nula.",
+        "Esta igualdad intercambia la ubicación de la call y la put. La cartera asegurada combina acción con put, o call con un pago seguro K. Esas son las dos sumas que deben igualarse."
+      ]
+    },
+    {
+      "id": "c21-q027",
+      "tema": "Valuación de una put por paridad",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción sin dividendos vale $100. Una call europea a un año, con ejercicio de $110, cuesta $12 y la tasa efectiva anual es 10%. ¿Cuánto debe costar la put equivalente?",
+      "opciones": [
+        "$12.",
+        "$22.",
+        "$2.",
+        "$10."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor presente del ejercicio es 110/1,10 = $100. La paridad da P = C + VP(K) − S = 12 + 100 − 100. La put vale $12.",
+        "Este resultado usa $110 en vez de su valor presente. El pago del ejercicio ocurre dentro de un año. Al descontarlo correctamente la put vale $12.",
+        "Este resultado resta del precio de la call la diferencia entre ejercicio y acción. La relación correcta utiliza el valor presente del ejercicio y su signo positivo. En este caso ese valor coincide con la acción.",
+        "La diferencia entre ejercicio y acción no determina por sí sola la prima de una put antes del vencimiento. También importan la call equivalente y el descuento. Aplicar la paridad produce $12."
+      ]
+    },
+    {
+      "id": "c21-q028",
+      "tema": "Valuación de una call por paridad",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción sin dividendos vale $75, una put europea a un año cuesta $9 y el ejercicio es $77. La tasa efectiva anual es 10%. ¿Cuánto vale la call equivalente?",
+      "opciones": [
+        "$7.",
+        "−$11.",
+        "$84.",
+        "$14."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se restó el ejercicio nominal de $77 en vez de su valor presente. Eso omite el beneficio de postergar el pago. Con el descuento correcto el costo de la call es $14.",
+        "La operación cambió los signos de los componentes de la paridad. Además, una opción comprada no puede tener una prima negativa en estas condiciones. La fórmula correcta es P más acción menos valor presente del ejercicio.",
+        "La suma de la acción y la put vale $84, pero no equivale a la call sola. Ese paquete también contiene el equivalente a un bono de $70 actuales. Al restarlo se obtienen $14.",
+        "El valor presente del ejercicio es 77/1,10 = $70. Despejando la paridad, C = P + S − VP(K). El resultado es 9 + 75 − 70 = $14."
+      ]
+    },
+    {
+      "id": "c21-q029",
+      "tema": "Precio de la acción inferido",
+      "dificultad": "intermedia",
+      "pregunta": "Una call y una put europeas, sin dividendos, comparten ejercicio de $121 y vencimiento en dos años. Ambas cuestan $15 y la tasa efectiva anual es 10%. ¿Cuál debe ser el precio actual de la acción?",
+      "opciones": [
+        "$121.",
+        "$110.",
+        "$130.",
+        "$100."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado identifica el valor presente con el importe final. La igualdad de primas implica que la acción vale el ejercicio descontado. A dos años y 10%, ese valor es $100.",
+        "Se descontó un solo año. El ejercicio vence dentro de dos años y exige dos factores de 1,10. El precio correcto es $100.",
+        "Se agregaron las dos primas al valor presente. La paridad contiene una diferencia entre put y call al despejar la acción. Como ambas cuestan lo mismo, esa diferencia es cero.",
+        "Si C = P, la paridad implica S = VP(K). El descuento a dos años es 121/(1,10 × 1,10) = $100. No corresponde sumar las dos primas porque se cancelan al despejar."
+      ]
+    },
+    {
+      "id": "c21-q030",
+      "tema": "Condiciones de la paridad",
+      "dificultad": "intermedia",
+      "pregunta": "¿En cuál de estos casos puede aplicarse directamente C + VP(K) = P + S, sin ajustes adicionales?",
+      "opciones": [
+        "Una call y una put europeas con distintos vencimientos.",
+        "Opciones europeas iguales sobre una acción con dividendos, ignorándolos.",
+        "Opciones europeas del mismo subyacente, ejercicio y vencimiento, sin dividendos.",
+        "Una call europea y una put americana con cualquier ejercicio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los pagos ocurrirían en fechas distintas. No basta comparar sus formas si no coinciden los horizontes. La igualdad básica requiere el mismo vencimiento.",
+        "La acción entrega dividendos que el titular de la call no recibe. Ese flujo afecta el costo relativo de las carteras. Hay que restar su valor presente del lado que contiene la acción.",
+        "Las dos carteras replicantes deben coincidir en fecha y en todos los estados finales. Igual activo, ejercicio y vencimiento permiten esa coincidencia. Sin dividendos no faltan flujos intermedios por reconocer.",
+        "El ejercicio anticipado de la put agrega una facultad que la igualdad básica no recoge. También se requiere que coincidan los ejercicios. No puede asumirse la paridad exacta bajo esas diferencias."
+      ]
+    },
+    {
+      "id": "c21-q031",
+      "tema": "Paridad con dividendos",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción vale $100 y pagará un dividendo conocido con valor presente de $3 antes del vencimiento. Una call europea cuesta $8 y VP(K) = $95. ¿Cuánto vale la put equivalente?",
+      "opciones": [
+        "$12.",
+        "$6.",
+        "$3.",
+        "$0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se incorporó el dividendo más de una vez o con un importe incorrecto. El ajuste es únicamente su valor presente de $3. La put sin ajuste sería $3 y con el ajuste vale $6.",
+        "La paridad ajustada es C + VP(K) = P + S − VP(dividendos). Despejando, P = 8 + 95 − 100 + 3. La put vale $6 porque debe reconocerse el flujo que recibe el accionista.",
+        "Este resultado aplica la fórmula sin dividendos. Omite que mantener la acción genera un flujo que no recibe la call. Al ajustar esa diferencia, la put vale $6.",
+        "Se restó el dividendo al despejar cuando correspondía sumarlo. El dividendo aparece restando al precio de la acción en la igualdad. Al pasar al otro lado aumenta el valor inferido de la put."
+      ]
+    },
+    {
+      "id": "c21-q032",
+      "tema": "Put sintética",
+      "dificultad": "intermedia",
+      "pregunta": "No hay puts disponibles, pero sí calls europeas, acciones y crédito libre de riesgo. Sin dividendos, ¿cómo replicás una put de ejercicio K?",
+      "opciones": [
+        "Comprando una call, prestando VP(K) y vendiendo una acción en corto.",
+        "Comprando una call, tomando prestado VP(K) y comprando una acción.",
+        "Vendiendo una call, prestando VP(K) y comprando una acción.",
+        "Comprando una call y una acción, sin bono."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El bono entrega K y la venta corta exige devolver una acción por S final. Sumando la call, el pago es máximo(S final − K, 0) + K − S final. Eso equivale a máximo(K − S final, 0), el pago de una put.",
+        "El préstamo tomado genera un pago de −K y la acción aporta S final. Con la call se refuerza la exposición a las subas. No aparece la protección bajista de una put.",
+        "La acción y la call vendida forman una call cubierta. Agregar un bono desplaza ese pago hacia arriba, pero no lo convierte en una put. La replicación exige vender la acción y comprar la call.",
+        "Ambas posiciones se benefician de las subas. Una put debe ganar valor al caer la acción por debajo del ejercicio. Falta el bono y la posición corta que producen ese perfil."
+      ]
+    },
+    {
+      "id": "c21-q033",
+      "tema": "Pago de una put sintética",
+      "dificultad": "intermedia",
+      "pregunta": "Tenés una call europea de ejercicio $60, un bono que pagará $60 y una acción vendida en corto. Sin dividendos, la acción termina en $42. ¿Cuál es el pago neto final?",
+      "opciones": [
+        "$18.",
+        "$60.",
+        "−$18.",
+        "$102."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La call vence sin valor porque $42 es menor que $60. El bono paga $60 y recomprar la acción para cerrar el corto cuesta $42. Quedan $18, iguales al pago de una put de ejercicio $60.",
+        "Se contó el bono pero se omitió cerrar la venta corta. Hay que devolver una acción que cuesta $42. El pago neto se reduce a $18.",
+        "El signo de la posición replicada se invirtió. La combinación representa una put comprada, cuyo pago no es negativo. En este escenario recibe $60 y paga $42.",
+        "Se sumó el precio final de la acción como si estuviera comprada. La acción está vendida en corto y representa una obligación de entrega. Por eso sus $42 deben restarse del bono."
+      ]
+    },
+    {
+      "id": "c21-q034",
+      "tema": "Venta corta sintética",
+      "dificultad": "avanzada",
+      "pregunta": "No podés vender acciones en corto, pero sí operar opciones europeas y crédito. Sin dividendos, ¿qué paquete reproduce el pago final −S de una acción corta?",
+      "opciones": [
+        "Comprar una call, vender una put y prestar VP(K).",
+        "Comprar una put, vender una call y prestar VP(K).",
+        "Vender una put y tomar prestado VP(K).",
+        "Comprar una put, vender una call y tomar prestado VP(K), con igual ejercicio y vencimiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta combinación reproduce una acción comprada. La call menos la put paga S final − K y el bono agrega K. Su pago es positivo S final, no negativo.",
+        "La diferencia entre put y call ya paga K − S final. Prestar agrega otro K en vez de eliminar el primero. El resultado es 2K − S final.",
+        "La put vendida no reproduce por sí sola una exposición lineal a todo precio final. Su pago cambia de pendiente al cruzar K. Falta la call con el signo adecuado para obtener una acción corta sintética.",
+        "La put comprada menos la call vendida paga K − S final. La deuda exige pagar K al vencimiento. Sumando ambos componentes queda −S final, el pasivo final de una acción vendida en corto."
+      ]
+    },
+    {
+      "id": "c21-q035",
+      "tema": "Bono sintético",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción, una put comprada y una call vendida tienen igual subyacente y ejercicio de $50 para las opciones europeas. Sin dividendos, ¿qué pago total producen al vencimiento?",
+      "opciones": [
+        "El máximo entre el precio final y $50.",
+        "El mínimo entre el precio final y $50.",
+        "$50 para cualquier precio final de la acción.",
+        "El precio final de la acción."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el pago de acción más put sin la call vendida. La call emitida elimina la participación en subas por encima de $50. El pago queda fijo en ese nivel.",
+        "Este es el pago de acción menos call sin la put. La put agrega la protección que falta cuando la acción cae. Con las tres posiciones se asegura exactamente $50.",
+        "Por debajo de $50, la put completa lo que le falta a la acción hasta llegar a $50. Por encima de $50, la call vendida entrega el excedente. El paquete replica un bono que paga $50.",
+        "La put y la call no se cancelan en todos los escenarios. Su diferencia paga $50 menos el precio final de la acción. Al sumarla a la acción se obtiene un importe fijo."
+      ]
+    },
+    {
+      "id": "c21-q036",
+      "tema": "Arbitraje de paridad",
+      "dificultad": "avanzada",
+      "pregunta": "Sin dividendos ni fricciones, S = $100, VP(K) = $100, C = $15 y P = $10 para opciones europeas equivalentes. ¿Qué operación obtiene un ingreso inicial seguro sin pago neto final?",
+      "opciones": [
+        "Vender la acción y comprar la put: ingresar $90 sin obligaciones futuras.",
+        "Vender call y bono; comprar put y acción: ingresar $5 hoy.",
+        "Comprar call y bono; vender put y acción: ingresar $5 hoy.",
+        "Comprar ambas opciones: ingresar $25 hoy."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La venta corta genera una obligación de devolver la acción. La put no elimina ese pasivo en todos los escenarios. Un ingreso inicial aislado no demuestra un arbitraje.",
+        "Call más bono cuesta $115 y acción más put cuesta $110. Ambas carteras tienen iguales pagos finales. Vender la cara y comprar la barata deja $5 hoy y pagos finales que se compensan.",
+        "Esta dirección compra la cartera de $115 y vende la de $110. Exige desembolsar $5 en vez de obtenerlos. El arbitraje requiere invertir la operación.",
+        "Comprar opciones exige pagar sus primas. Los $25 son un desembolso y no un ingreso. Además, una call más una put no tiene pago final cero."
+      ]
+    },
+    {
+      "id": "c21-q037",
+      "tema": "Incentivo ejecutivo con tope",
+      "dificultad": "intermedia",
+      "pregunta": "Una ejecutiva cobra $1.000 por cada peso que la acción supere $50 al cierre anual, con máximo de $20.000. ¿Qué combinación reproduce el bono?",
+      "opciones": [
+        "Comprar 1.000 puts de ejercicio $50 y 1.000 calls de ejercicio $70.",
+        "Comprar 1.000 calls de ejercicio $50 y vender 1.000 calls de ejercicio $70.",
+        "Comprar 1.000 calls de ejercicio $50 y vender 1.000 puts de ejercicio $70.",
+        "Comprar 1.000 calls de ejercicio $70 y vender 1.000 calls de ejercicio $50."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las puts compradas generan pagos cuando la acción cae. Esa protección bajista no pertenece al esquema de bono. La combinación tampoco limita correctamente el pago por encima de $70.",
+        "Hasta $50 ambas calls pagan cero. Entre $50 y $70 solo paga la call comprada y el bono aumenta $1.000 por peso. Desde $70 la call vendida compensa cada aumento adicional y fija el máximo en $20.000.",
+        "Una put vendida introduce pérdidas cuando la acción termina por debajo de $70. El bono prometido nunca es negativo para la ejecutiva. El tope superior requiere vender una call de ejercicio mayor.",
+        "Se invirtió la dirección del spread. La combinación paga importes negativos entre $50 y $70 y luego queda en −$20.000. El incentivo requiere comprar el ejercicio menor y vender el mayor."
+      ]
+    },
+    {
+      "id": "c21-q038",
+      "tema": "Costo del incentivo con tope",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono ejecutivo equivale a 2.000 calls compradas de ejercicio $30 menos 2.000 calls de ejercicio $45. Las primas respectivas son $7 y $2. ¿Cuál es el valor del bono y su pago máximo?",
+      "opciones": [
+        "Valor de $10.000 y pago máximo de $30.000.",
+        "Valor de $18.000 y pago máximo de $30.000.",
+        "Valor de $10.000 y pago máximo de $90.000.",
+        "Valor de $14.000 y pago máximo ilimitado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada spread cuesta $7 − $2 = $5, por lo que 2.000 cuestan $10.000. Su pago máximo es la diferencia de ejercicios, $15 por unidad. Multiplicar $15 por 2.000 da $30.000.",
+        "Se sumaron las primas cuando una de las calls está vendida. La venta reduce el costo del bono. El valor correcto es 2.000 × ($7 − $2).",
+        "El máximo no es el ejercicio superior multiplicado por la cantidad. Cada spread paga como máximo la diferencia entre los dos ejercicios. La diferencia es $15 y el total máximo $30.000.",
+        "Se valoró solo la call comprada y se ignoró la call emitida. Esta última reduce el costo inicial y limita el pago. El paquete cuesta $10.000 y no tiene ganancia final ilimitada."
+      ]
+    },
+    {
+      "id": "c21-q039",
+      "tema": "Ingeniería financiera",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se construye un pago contingente que sube en un tramo del precio de una acción y baja en otro?",
+      "opciones": [
+        "Usando solo bonos libres de riesgo sin ningún activo contingente.",
+        "Comprando una sola call, cualquiera sea la forma deseada.",
+        "Sumando primas iniciales sin analizar los pagos de vencimiento.",
+        "Combinando opciones de distintos ejercicios y, si hace falta, posiciones en la acción y crédito."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los bonos seguros no cambian su pago con el precio de la acción. Pueden desplazar el nivel de un perfil, pero no crear sus tramos crecientes o decrecientes. Para esa dependencia se necesitan activos contingentes.",
+        "Una call simple tiene solo un quiebre y una pendiente positiva por encima del ejercicio. No puede generar por sí sola cualquier subida y bajada. Hacen falta posiciones adicionales para cambiar la pendiente.",
+        "Las primas determinan el costo del paquete, no su forma final. Primero hay que sumar pagos estado por estado. Después se valora cuánto cuesta construir ese resultado.",
+        "Las opciones permiten modificar la pendiente del pago al cruzar sus ejercicios. La acción aporta una pendiente constante y el crédito desplaza el nivel del pago. Combinaciones y, para ciertos perfiles, límites de combinaciones permiten representar estructuras muy diversas."
+      ]
+    },
+    {
+      "id": "c21-q040",
+      "tema": "Identificación por pendientes",
+      "dificultad": "avanzada",
+      "pregunta": "Un pago vale cero hasta S = $40, aumenta un peso por cada peso entre $40 y $60 y queda fijo en $20 por encima de $60. ¿Qué estructura lo reproduce?",
+      "opciones": [
+        "Call comprada de ejercicio $40 más call de ejercicio $60.",
+        "Call comprada de ejercicio $60 menos call de ejercicio $40.",
+        "Call comprada de ejercicio $40 menos call de ejercicio $60.",
+        "Put comprada de ejercicio $40 menos put de ejercicio $60."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Comprar las dos calls hace que la pendiente aumente a dos después de $60. El pago seguiría creciendo en vez de quedar fijo. Para crear el techo hay que vender la call superior.",
+        "Invertir el spread cambia el signo de todos los pagos. El resultado sería negativo entre $40 y $60 y quedaría en −$20. El perfil pedido exige comprar el ejercicio menor.",
+        "La primera call activa una pendiente de uno desde $40. Vender la segunda cancela esa pendiente desde $60. El pago máximo es 60 − 40 = $20.",
+        "Esta diferencia de puts produce pagos negativos por debajo de $60. No coincide con un perfil que comienza en cero y luego aumenta. El orden y el tipo de opción son esenciales."
+      ]
+    },
+    {
+      "id": "c21-q041",
+      "tema": "Límites de una call",
+      "dificultad": "intermedia",
+      "pregunta": "Para una call sobre una acción sin dividendos, con ejercicio positivo y tasas no negativas, ¿qué límites básicos son compatibles con ausencia de arbitraje?",
+      "opciones": [
+        "S ≤ C ≤ S + K.",
+        "−K ≤ C ≤ 0.",
+        "Máx(S − K, 0) ≤ C ≤ S.",
+        "K ≤ C ≤ S + K."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una call no domina a la acción. La acción entrega el activo completo, mientras la call exige pagar K para obtenerlo. Por eso S funciona como techo y no como piso.",
+        "El titular puede dejar vencer la call y evitar pagos contractuales negativos. Un precio negativo permitiría cobrar por recibir un derecho sin obligación. La prima debe ser no negativa y puede ser positiva.",
+        "La call no debe costar más que la acción que permite adquirir. Tampoco debe tener precio negativo ni inferior al ejercicio inmediato bajo estos supuestos. Para una europea existe además el piso más fuerte máximo entre S − VP(K) y cero.",
+        "El ejercicio no es una prima mínima. Una call fuera del dinero puede valer mucho menos que K. El techo tampoco necesita sumar K al precio de la acción."
+      ]
+    },
+    {
+      "id": "c21-q042",
+      "tema": "Arbitraje frente al valor intrínseco",
+      "dificultad": "avanzada",
+      "pregunta": "Una call americana cotiza a $5, la acción vale $90 y el ejercicio es $70. Sin fricciones, ¿qué operación aprovecha la inconsistencia?",
+      "opciones": [
+        "No operar porque la call puede valer menos que su ejercicio inmediato.",
+        "Comprar la call, ejercer y vender la acción: ganar $15 inmediatamente.",
+        "Comprar la acción y vender la call: ganar $15 inmediatamente sin riesgo.",
+        "Vender la call descubierta porque perderá como máximo $5."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El ejercicio inmediato convierte la opción en una ventaja de $20. Comprar ese derecho por $5 produce una ganancia realizable sin esperar. El arbitraje tendería a corregir la cotización.",
+        "Comprar y ejercer cuesta $5 + $70 = $75. La acción obtenida puede venderse inmediatamente por $90. La diferencia de $15 es un arbitraje frente a una call con valor intrínseco de $20.",
+        "Comprar una acción y vender una call no liquida automáticamente el paquete hoy. La posición conserva exposición a una caída. La operación segura inmediata requiere comprar el derecho barato y ejercerlo.",
+        "La call descubierta puede generar pérdidas muy superiores a la prima. En esta cotización ya tiene un pasivo de ejercicio de $20. Venderla a $5 entrega valor a la contraparte."
+      ]
+    },
+    {
+      "id": "c21-q043",
+      "tema": "Call muy dentro del dinero",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción sin dividendos vale $250 y una call europea de ejercicio $55 vence en un año. La tasa efectiva anual es 10% y la probabilidad de no ejercicio es despreciable. ¿Qué aproximación corresponde?",
+      "opciones": [
+        "$200.",
+        "$195.",
+        "$250.",
+        "$205."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con ejercicio prácticamente seguro, la call se aproxima a S − VP(K). El ejercicio descontado vale 55/1,10 = $50. La aproximación es $250 − $50 = $200.",
+        "Este es el valor intrínseco de $250 − $55. Omite la ventaja de pagar el ejercicio dentro de un año. Al descontar ese desembolso, la aproximación es $200.",
+        "Este es el valor de la acción completa. Incluso con ejercicio casi seguro hay que pagar $55 al final. Su valor presente de $50 debe restarse.",
+        "La ventaja financiera se obtiene calculando el valor presente del ejercicio. La diferencia entre $55 y $50 agrega $5 al intrínseco de $195. El resultado es $200, no $205."
+      ]
+    },
+    {
+      "id": "c21-q044",
+      "tema": "Acción sin valor",
+      "dificultad": "basica",
+      "pregunta": "En un modelo donde una acción vale exactamente cero y no puede recuperar valor, ¿cuánto vale una call sobre ella con ejercicio positivo?",
+      "opciones": [
+        "El precio de ejercicio.",
+        "Una prima positiva solo por tener plazo restante.",
+        "El valor presente del ejercicio.",
+        "Cero."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El ejercicio es lo que habría que pagar por el activo. No es un pago al titular. Comprar por un importe positivo algo permanentemente sin valor no conviene.",
+        "El tiempo vale por las oportunidades de ejercicio favorable que permite. El supuesto elimina esa posibilidad. Por eso no existe valor temporal en este caso.",
+        "El valor presente del ejercicio mide un desembolso potencial. No es el valor de un derecho que nunca convendrá usar. La call vence sin pago en todos los escenarios.",
+        "El activo nunca superará un ejercicio positivo. La call no producirá ningún pago. El plazo adicional no crea valor si no existe ningún escenario favorable."
+      ]
+    },
+    {
+      "id": "c21-q045",
+      "tema": "Valor temporal",
+      "dificultad": "basica",
+      "pregunta": "Una call tiene S = K, plazo restante y posibilidad real de terminar por encima del ejercicio. ¿Por qué puede valer algo aunque su valor intrínseco sea cero?",
+      "opciones": [
+        "Porque S = K garantiza terminar con ganancia.",
+        "Porque el vendedor devuelve la prima si el precio cae.",
+        "Porque toda opción debe valer al menos K.",
+        "Porque permite un pago positivo futuro sin obligación de ejercer en escenarios desfavorables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La igualdad actual no determina el precio final. La opción puede terminar sin valor y perderse la prima. El valor temporal no implica ganancia asegurada.",
+        "La prima remunera el derecho y no es un depósito reembolsable. Si el precio termina bajo el ejercicio puede perderse íntegramente. El valor surge de pagos potenciales, no de una devolución.",
+        "No existe ese piso para la prima. K es el importe necesario para ejercer. El pago de una call tiene piso cero y es positivo si el activo supera K.",
+        "Ejercer hoy no generaría ventaja porque S y K coinciden. El precio puede subir antes del vencimiento y crear un pago favorable. Si baja, el titular deja vencer, lo que da valor a esperar."
+      ]
+    },
+    {
+      "id": "c21-q046",
+      "tema": "Tasa de interés",
+      "dificultad": "intermedia",
+      "pregunta": "En una call europea sin dividendos, manteniendo S, K, plazo y volatilidad constantes, ¿qué efecto directo tiene una suba de la tasa libre de riesgo?",
+      "opciones": [
+        "No tiene efecto porque K es nominalmente fijo.",
+        "La convierte en una put.",
+        "Aumenta su valor por el mayor beneficio de postergar el ejercicio.",
+        "Reduce su valor porque una tasa mayor reduce cualquier precio financiero."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Precisamente porque el pago nominal es fijo, su valor presente cambia con la tasa. El momento del desembolso tiene valor económico. Ignorarlo omite una fuente de valor de la call.",
+        "La tasa no transforma el derecho de compra en uno de venta. Puede modificar la prima manteniendo el tipo contractual. La call sigue siendo una call.",
+        "La call permite pagar el ejercicio más adelante. Una tasa mayor reduce el valor presente de ese desembolso. A condiciones constantes, la postergación más valiosa aumenta el precio de la call.",
+        "Se aplicó mecánicamente una regla de descuento de cobros fijos. La call incorpora un desembolso postergado cuyo valor presente cae. Ese efecto favorece al comprador del derecho."
+      ]
+    },
+    {
+      "id": "c21-q047",
+      "tema": "Plazo y paso del tiempo",
+      "dificultad": "intermedia",
+      "pregunta": "Para calls sin dividendos con las demás condiciones constantes y tasas no negativas, ¿qué relación resume el efecto del tiempo?",
+      "opciones": [
+        "Toda put europea también vale más con mayor plazo, sin excepciones.",
+        "Un vencimiento más lejano favorece el valor; el paso del tiempo reduce la vida restante.",
+        "El paso del tiempo siempre aumenta la prima porque acerca el cobro.",
+        "Un plazo mayor elimina el riesgo de perder la prima."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se extendió sin condiciones una propiedad de calls sin dividendos. En una put europea también influye el descuento del cobro potencial de K y el efecto del plazo puede no ser positivo. No corresponde convertir la intuición del tiempo en regla universal.",
+        "Más vida permite mayores movimientos y posterga el ejercicio. Si solo pasa el tiempo, esas ventajas se consumen. La prima observada puede igualmente subir si cambian el precio del activo o su volatilidad.",
+        "Acercarse al vencimiento reduce oportunidades de ejercicio favorable. No equivale a acercar un cobro fijo. La opción puede perder valor temporal e incluso vencer sin pago.",
+        "Una call de plazo largo todavía puede terminar fuera del dinero. El comprador puede perder toda la prima. Tener más oportunidades no garantiza un resultado positivo."
+      ]
+    },
+    {
+      "id": "c21-q048",
+      "tema": "Varianza acumulada",
+      "dificultad": "intermedia",
+      "pregunta": "Con cambios independientes y varianza anual constante, la volatilidad anual es 20%. ¿Cuál es la varianza acumulada en dos años y su desviación estándar?",
+      "opciones": [
+        "0,08 y aproximadamente 28,28%.",
+        "0,40 y aproximadamente 63,25%.",
+        "0,08 y 40%.",
+        "0,04 y 20%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La varianza anual es 0,20² = 0,04. En dos años se acumula 0,04 × 2 = 0,08. La desviación estándar es la raíz de 0,08, aproximadamente 0,2828.",
+        "Se trató la desviación estándar como si fuera varianza. Antes de multiplicar por el tiempo hay que elevar 0,20 al cuadrado. La varianza acumulada correcta es 0,08.",
+        "La varianza está bien, pero la desviación estándar no crece linealmente con el tiempo. Hay que tomar la raíz de 0,08. Eso da 28,28%, no 40%.",
+        "Se mantuvieron los valores anuales pese al horizonte de dos años. Con incrementos independientes se suman las varianzas. La incertidumbre acumulada supera la de un solo año."
+      ]
+    },
+    {
+      "id": "c21-q049",
+      "tema": "Supuestos de la acumulación",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué supuesto permite expresar la varianza acumulada como varianza por período multiplicada por el número de períodos?",
+      "opciones": [
+        "Incrementos sin covarianzas y varianza por período constante.",
+        "Incrementos perfectamente correlacionados positivamente.",
+        "Precios siempre simétricos alrededor del ejercicio.",
+        "Probabilidad de ejercicio exactamente igual a 50%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La varianza de una suma incorpora varianzas y covarianzas. Sin covarianzas quedan solo las varianzas individuales. Si además todas son iguales, la suma es σ² multiplicada por t.",
+        "La correlación perfecta genera covarianzas positivas. No puede omitirse su contribución. La regla lineal requiere ausencia de esas covarianzas.",
+        "La simetría no garantiza independencia temporal. Puede existir una distribución simétrica con cambios correlacionados. La propiedad relevante es cómo se relacionan los incrementos entre períodos.",
+        "La probabilidad de ejercicio describe un evento terminal. No establece cómo se suman las varianzas de cambios sucesivos. La regla depende de varianzas constantes y covarianzas nulas."
+      ]
+    },
+    {
+      "id": "c21-q050",
+      "tema": "Volatilidad y beta",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué medida de riesgo corresponde a la intuición de que mayor dispersión del activo aumenta el valor de una call equivalente?",
+      "opciones": [
+        "Exclusivamente la beta frente al mercado.",
+        "Solo la probabilidad de pérdida, sin considerar magnitudes.",
+        "Solo el riesgo eliminable por diversificación.",
+        "La volatilidad total del subyacente, no solo su beta."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La beta mide exposición sistemática y no describe toda la distribución. Dos acciones con igual beta pueden tener distinta volatilidad. Sus opciones pueden tener distinto valor.",
+        "Las magnitudes importan además de las probabilidades. Dos calls pueden tener igual probabilidad de pago cero y diferente pago potencial favorable. Una frecuencia de pérdidas no recoge esa diferencia.",
+        "La volatilidad relevante no se limita al riesgo específico. También incluye los movimientos asociados al mercado. La opción responde a la dispersión total del precio de su activo.",
+        "La call responde a la dispersión de resultados posibles de su activo. Los movimientos sistemáticos y específicos contribuyen a esa dispersión. La beta mide sensibilidad al mercado y no reemplaza la volatilidad total."
+      ]
+    },
+    {
+      "id": "c21-q051",
+      "tema": "Efectos simultáneos",
+      "dificultad": "avanzada",
+      "pregunta": "Sube la tasa libre de riesgo y cae fuertemente la acción. Un director afirma que su call necesariamente subirá porque aumentó la tasa. ¿Cómo evaluás la afirmación?",
+      "opciones": [
+        "Es correcta si la call es europea, aunque la acción pierda todo su valor.",
+        "Es incorrecta porque subir la tasa reduce la call a S constante.",
+        "Es incorrecta: la caída de la acción puede dominar el efecto favorable directo de la tasa.",
+        "Es correcta: la tasa domina cualquier otro cambio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El estilo europeo no elimina la dependencia respecto de la acción. Si el activo quedara permanentemente sin valor, la call tampoco valdría. El efecto de la tasa no compensa cualquier deterioro.",
+        "A precio del activo constante, la mayor tasa favorece la postergación del ejercicio. El error del director es ignorar la caída simultánea de S. No corresponde invertir el efecto directo.",
+        "La regla sobre tasas mantiene constantes las otras variables. La caída de S reduce por separado el valor de la call. El resultado neto requiere evaluar magnitudes y no queda determinado por un solo signo.",
+        "Los efectos comparativos no establecen una jerarquía universal. Una caída grande del activo puede superar el beneficio financiero. Hay que considerar los dos cambios."
+      ]
+    },
+    {
+      "id": "c21-q052",
+      "tema": "Straddle: pagos y equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "Comprás una call por $6 y una put por $4, ambas de ejercicio $100 e igual vencimiento. Sin intereses, ¿cuáles son la ganancia si S final = $125 y los dos precios de equilibrio?",
+      "opciones": [
+        "Pérdida de $10; equilibrio solo en $100.",
+        "Ganancia de $15; equilibrio en $90 y $110.",
+        "Ganancia de $25; equilibrio en $100 y $125.",
+        "Ganancia de $15; equilibrio en $96 y $106."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El straddle pierde todas las primas si termina en el ejercicio. Con S final = $125 la call paga $25. Ese pago supera los $10 invertidos.",
+        "El costo conjunto es $10. Con S final = $125, la call paga $25 y la put cero, dejando $15 de ganancia. El pago es el valor absoluto de S final − $100 y cubre el costo en $90 o $110.",
+        "Los $25 son el pago antes de restar primas. Los equilibrios deben recuperar ambos costos iniciales. Se ubican a $10 de distancia del ejercicio.",
+        "La ganancia está bien, pero se usó una prima diferente para cada lado. En cualquier escenario se pagaron ambas por $10. Los equilibrios son simétricos respecto de $100."
+      ]
+    },
+    {
+      "id": "c21-q053",
+      "tema": "Apuesta por volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista prevé movimientos de energía mayores que los implícitos en las primas, pero no sabe su dirección. ¿Qué estrategia expresa mejor esa visión?",
+      "opciones": [
+        "Comprar un bono seguro cuyo pago aumentará con la dispersión del petróleo.",
+        "Comprar un straddle aceptando el costo de ambas primas.",
+        "Vender un straddle para beneficiarse de grandes variaciones.",
+        "Comprar solo una call porque mayor volatilidad implica una suba del precio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un bono seguro entrega un importe pactado. No crea exposición a la dispersión del petróleo. Para eso hacen falta pagos contingentes apropiados.",
+        "El straddle comprado puede beneficiarse de una suba o baja grande. El movimiento debe alcanzar para recuperar ambas primas. La previsión no garantiza ganancias si la volatilidad ya está incorporada en los precios.",
+        "El vendedor pierde cuando el precio se aleja mucho del ejercicio. Esa posición apuesta a movimientos contenidos frente a las primas cobradas. Es la exposición opuesta a la visión planteada.",
+        "Más volatilidad significa mayor dispersión, no necesariamente mayor precio final. Una call aislada mantiene orientación alcista. El straddle agrega una put para aprovechar también una caída grande."
+      ]
+    },
+    {
+      "id": "c21-q054",
+      "tema": "Butterfly y volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una butterfly comprada combina una call de ejercicio bajo, dos calls vendidas de ejercicio intermedio y una call de ejercicio alto, igualmente espaciados. ¿Qué caracteriza su pago?",
+      "opciones": [
+        "Es máximo en el ejercicio intermedio y cero fuera de los ejercicios extremos.",
+        "Crece sin límite si la acción sube.",
+        "Es máximo cuando la acción termina muy lejos del ejercicio intermedio.",
+        "Es negativo para todos los precios finales antes de primas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La primera call crea pendiente positiva. Las dos vendidas la vuelven negativa desde el ejercicio intermedio y la última la lleva a cero desde el superior. El perfil favorece un precio final cercano al centro, considerando después el costo inicial.",
+        "Por encima del último ejercicio las cantidades uno menos dos más uno suman cero. Las pendientes se compensan y el pago queda en cero. La ganancia ilimitada corresponde a otra estructura, como una call aislada.",
+        "La butterfly comprada concentra su mayor pago en el centro. Le perjudica que el precio termine fuera de los extremos. Esos resultados corresponden a una postura distinta de apostar por movimientos amplios.",
+        "Con ejercicios igualmente espaciados se obtiene un triángulo no negativo. El costo inicial puede causar una pérdida neta, pero no vuelve negativo el pago contractual. Es necesario separar pago y ganancia."
+      ]
+    },
+    {
+      "id": "c21-q055",
+      "tema": "Seguro y call cubierta",
+      "dificultad": "intermedia",
+      "pregunta": "Un director quiere conservar las subas de una cartera y asegurar un piso. Le proponen vender calls cubiertas en lugar de comprar puts. ¿Qué debería advertir?",
+      "opciones": [
+        "Ambas estrategias aseguran el mismo piso sin diferencias de costo.",
+        "Vender calls conserva toda suba porque ya se tienen las acciones.",
+        "Comprar puts elimina las subas de la cartera.",
+        "La call cubierta cobra una prima, pero limita las subas y no establece el piso buscado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los pagos difieren: mínimo con la call cubierta y máximo con la put protectora. Cobrar una prima no reemplaza un derecho de venta propio. La comparación debe respetar cada perfil.",
+        "Tener las acciones cubre la obligación de entrega, pero no la elimina. Si suben sobre el ejercicio, la call emitida absorbe el excedente. Se deja de participar en esa parte del aumento.",
+        "La put no impone un techo a la acción. Si esta sube, la put vence sin ejercicio y se conserva la participación alcista. La prima es el costo del seguro.",
+        "La call cubierta entrega el excedente sobre el ejercicio a la contraparte. La acción sigue expuesta a las bajas, aunque la prima amortigüe parte del resultado. La put comprada fija un piso de pago y mantiene las subas a cambio de su costo."
+      ]
+    },
+    {
+      "id": "c21-q056",
+      "tema": "Butterfly: cálculo",
+      "dificultad": "avanzada",
+      "pregunta": "Comprás calls de ejercicio $40 y $60 y vendés dos calls de ejercicio $50. Todas vencen juntas y el costo neto es $3. Si la acción termina en $54, ¿cuál es el pago y la ganancia sin intereses?",
+      "opciones": [
+        "Pago de $10 y ganancia de $7.",
+        "Pago de $3 y ganancia de cero.",
+        "Pago de $6 y ganancia de $3.",
+        "Pago de $14 y ganancia de $11."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $10 son el pago máximo que se alcanza exactamente en $50. Con S final = $54, el perfil ya está descendiendo. El pago cae a $6 y la ganancia a $3.",
+        "Se confundió la prima neta con el pago final. Los contratos producen un pago neto de $6 en este escenario. El costo de $3 se resta después.",
+        "La call de $40 paga $14, las dos de $50 exigen $8 y la de $60 paga cero. El pago neto es 14 − 8 = $6. Restando el costo de $3 queda una ganancia de $3.",
+        "Se contó solo la call inferior. Las dos vendidas están dentro del dinero y cuestan $4 cada una. Hay que restar sus $8 antes de calcular la ganancia."
+      ]
+    },
+    {
+      "id": "c21-q057",
+      "tema": "Opciones individuales y cartera",
+      "dificultad": "avanzada",
+      "pregunta": "Compará una call sobre dos acciones agregadas, con ejercicio K1 + K2, con dos calls individuales de ejercicios K1 y K2. Mismo vencimiento y cantidades, sin fricciones. ¿Qué relación es correcta?",
+      "opciones": [
+        "Ambas pagan lo mismo para cualquier combinación de precios.",
+        "Las calls individuales pagan estrictamente más en cada escenario.",
+        "La suma de calls individuales paga al menos lo mismo y puede valer más.",
+        "La call sobre la cartera siempre paga más por diversificación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad puede darse si los resultados se alinean, pero no es universal. Si una acción sube y otra cae, la opción conjunta netea los cambios. Las individuales pueden mantener un pago positivo mayor.",
+        "La desigualdad no siempre es estricta. Si ambas diferencias son positivas o ambas no positivas, puede haber igualdad. La ventaja aparece cuando la compensación interna reduce el pago conjunto.",
+        "La suma de máximos entre Si − Ki y cero supera o iguala el máximo entre la suma de esas diferencias y cero. En las opciones individuales se descarta cada resultado negativo por separado. En la cartera una caída puede compensar una suba antes de aplicar el piso de cero.",
+        "La diversificación reduce dispersión y no garantiza más valor opcional. Al agregar primero los activos, sus movimientos pueden compensarse. Las opciones separadas permiten aprovechar cada resultado favorable individualmente."
+      ]
+    },
+    {
+      "id": "c21-q058",
+      "tema": "Bono como call sobre utilidades",
+      "dificultad": "intermedia",
+      "pregunta": "Una operadora recibe 10% de las utilidades que superen $20 millones, sin participar en pérdidas. Si genera $35 millones, ¿qué bono cobra y qué perfil tiene?",
+      "opciones": [
+        "−$1,5 millones; una call vendida.",
+        "$1,5 millones; 0,10 × máx(utilidades − 20 millones, 0).",
+        "$3,5 millones; 0,10 × utilidades sin umbral.",
+        "$2 millones; pago fijo igual al 10% del umbral."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La operadora cobra el exceso, no está obligada a pagarlo. El perfil equivale a una call comprada y su pago es no negativo. En este caso recibe $1,5 millones.",
+        "El excedente es $35 − $20 = $15 millones. El 10% de ese excedente da $1,5 millones. El piso cero y la participación por encima del umbral reproducen una fracción de una call sobre utilidades.",
+        "Se aplicó la tasa a todas las utilidades. El contrato solo remunera la parte superior a $20 millones. Hay que restar primero ese umbral.",
+        "El umbral define dónde comienza el pago y no un bono fijo. Si no se supera, no hay bono. Con $35 millones, la remuneración depende de los $15 millones excedentes."
+      ]
+    },
+    {
+      "id": "c21-q059",
+      "tema": "Bono digital",
+      "dificultad": "avanzada",
+      "pregunta": "Un bono paga $10.000 si S final ≥ $80 y cero si S final < $80. ¿Qué afirmación sobre su construcción con calls comunes es correcta?",
+      "opciones": [
+        "Un spread muy estrecho y escalado aproxima el salto, pero dos calls de ejercicios distintos no lo replican exactamente en todo punto.",
+        "Una sola call de ejercicio $80 replica exactamente el bono fijo.",
+        "Cualquier spread de amplitud $20 produce exactamente el salto.",
+        "El bono tiene pago continuo con pendiente constante."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un spread de ancho ε, multiplicado por 10.000/ε, pasa de cero a $10.000 en un intervalo corto. Dentro de ese intervalo tiene una rampa y no un salto. La réplica digital exige un contrato apropiado o una construcción límite, con cuidado especial en el umbral.",
+        "Una call paga S final − $80 cuando esa diferencia es positiva. Su pago sigue creciendo y no queda fijo en $10.000. En S final = $80, además, paga cero.",
+        "Un spread de amplitud amplia crea una rampa amplia. Escalarlo ajusta el máximo pero no elimina el tramo intermedio. No reproduce un salto exacto.",
+        "El contrato salta a $10.000 cuando alcanza el umbral. No tiene un perfil continuo y lineal. Esa discontinuidad explica la limitación de un spread finito de calls comunes."
+      ]
+    },
+    {
+      "id": "c21-q060",
+      "tema": "Financiamiento oculto en una venta",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa vende un terreno por $80 millones, entrega al comprador una put de ejercicio $80 millones y compra una call del mismo ejercicio y vencimiento. Si el valor final es distinto de $80 millones, sin fricciones ni uso intermedio, ¿cómo interpretás el conjunto?",
+      "opciones": [
+        "Es una venta definitiva que elimina toda exposición al terreno.",
+        "Si el terreno cae, la empresa puede rechazar el ejercicio de la put.",
+        "El comprador conserva subas ilimitadas y un piso de $80 millones.",
+        "La empresa recuperará el terreno pagando $80 millones al vencimiento; el paquete se parece a un financiamiento garantizado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La call comprada menos la put vendida mantiene exposición al terreno. Las opciones determinan económicamente su retorno en los escenarios relevantes. La venta aislada no describe el paquete completo.",
+        "La decisión de ejercer la put pertenece al comprador del terreno. La empresa emisora está obligada a cumplir. No puede eliminar la exposición rechazando el ejercicio.",
+        "El comprador vendió una call que entrega las subas superiores al ejercicio. La put protege las bajas y la call elimina el excedente. Su paquete equivale a un pago fijo al vencimiento.",
+        "Si el terreno supera $80 millones, la empresa ejerce su call. Si queda por debajo, el comprador usa la put para devolverlo por $80 millones. El comprador conserva un pago final fijo y el efectivo con las primas debe analizarse como parte del financiamiento."
+      ]
+    },
+    {
+      "id": "c21-q061",
+      "tema": "Compensación ejecutiva e incentivos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos ofertas laborales incluyen igual cantidad de calls con idéntico ejercicio, plazo y precio de la acción. Solo cambia la volatilidad, mayor en una empresa. ¿Qué conclusión combina valuación e incentivos?",
+      "opciones": [
+        "El paquete menos volátil siempre vale más porque cualquier riesgo destruye valor.",
+        "Los paquetes necesariamente valen igual porque coincide su valor intrínseco.",
+        "La mayor volatilidad garantiza un bono realizado mayor.",
+        "El paquete sobre la acción más volátil vale más en el mercado y puede incentivar la toma de riesgos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se aplicó una intuición de descuento de flujos riesgosos sin considerar la asimetría. Mayor dispersión favorece el derecho convexo. Es una propiedad de la opción y no una regla para cualquier inversión.",
+        "El intrínseco no agota la prima antes del vencimiento. La distribución futura modifica el valor temporal. Dos paquetes igualmente fuera del dinero pueden valer distinto.",
+        "Mayor valor de mercado no garantiza mayor resultado realizado. La acción volátil también puede terminar por debajo del ejercicio. La ejecutiva puede quedarse sin pago.",
+        "La convexidad permite aprovechar subas sin pagos negativos contractuales por caídas. Por eso mayor volatilidad eleva el valor de la call a condiciones constantes. La asimetría puede desalinear incentivos, aunque la conveniencia personal dependa también de concentración y restricciones."
+      ]
+    },
+    {
+      "id": "c21-q062",
+      "tema": "Ejercicio anticipado",
+      "dificultad": "avanzada",
+      "pregunta": "Tenés una call americana sobre una acción sin dividendos. Está dentro del dinero y cotiza por encima de su valor intrínseco. Querés cerrar por temor a una baja. ¿Qué decisión preserva mejor el valor?",
+      "opciones": [
+        "Esperar hasta el vencimiento porque estar dentro del dinero elimina el riesgo.",
+        "Ejercer porque la prima nunca puede superar el intrínseco.",
+        "Vender la call en el mercado en lugar de ejercer inmediatamente.",
+        "Ejercer y mantener la acción porque desaparece el riesgo de baja."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Estar dentro del dinero hoy no garantiza seguir así. El valor del derecho puede caer antes del vencimiento. Si se desea cerrar, vender permite hacerlo sin esperar.",
+        "La prima puede superar el intrínseco porque plazo e incertidumbre aportan valor. El enunciado establece que lo supera. Ejercer destruye esa diferencia en lugar de cobrarla.",
+        "Vender permite cobrar el valor intrínseco y el temporal restante. Ejercer realiza solo el intrínseco y adelanta el pago del ejercicio. Bajo los supuestos dados, vender preserva más valor al cerrar.",
+        "Mantener la acción después de ejercer deja exposición directa a su caída. No desaparece el riesgo que motivó la decisión. Además, se sacrifica valor temporal."
+      ]
+    },
+    {
+      "id": "c21-q063",
+      "tema": "Forma de la curva de una call",
+      "dificultad": "intermedia",
+      "pregunta": "Antes del vencimiento, ¿cómo se comporta el valor de una call al aumentar S, manteniendo las demás variables constantes?",
+      "opciones": [
+        "Tiene pendiente mayor que uno para cualquier S.",
+        "Es creciente y convexa; muy dentro del dinero su pendiente se aproxima a uno.",
+        "Es decreciente porque el ejercicio se vuelve más caro.",
+        "Es una línea horizontal igual a la prima inicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una call estándar no gana más de un peso por cada peso de aumento inmediato del activo a condiciones constantes. Muy dentro del dinero se acerca a esa sensibilidad. Fuera del dinero suele tener sensibilidad menor.",
+        "Una suba del activo favorece comprar a precio fijo. La convexidad refleja el piso de cero y la participación en resultados favorables. Con ejercicio casi seguro, la call se aproxima a la acción menos VP(K) y su pendiente tiende a uno.",
+        "K no cambia cuando aumenta S. Una acción más cara vuelve más favorable comprar al precio fijo. El valor de la call aumenta en vez de disminuir.",
+        "La prima inicial es el precio observado en una fecha y un estado. Cambia al modificarse el subyacente. No constituye un pago fijo como el de un bono."
+      ]
+    },
+    {
+      "id": "c21-q064",
+      "tema": "Ejercicio y probabilidad",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál afirmación sobre calls es correcta manteniendo iguales activo, plazo y demás condiciones?",
+      "opciones": [
+        "Un ejercicio menor da un valor al menos igual; S = K no impone universalmente 50% de probabilidad de ejercicio.",
+        "Un ejercicio mayor siempre vale más porque permite pagar más.",
+        "S = K garantiza 50% de probabilidad de ganancia neta.",
+        "Aumentar K beneficia tanto al comprador de una call como al de una put."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Comprar más barato produce un pago igual o mayor en cada escenario. La call de ejercicio menor no puede valer menos bajo condiciones equivalentes. La probabilidad de ejercicio depende de la distribución futura y no de una regla universal de 50%.",
+        "Pagar más por la misma acción es menos favorable para el comprador. El pago máximo entre S final − K y cero cae o queda igual al aumentar K. La prima debe respetar ese orden.",
+        "La probabilidad de ejercicio no equivale a la de ganancia neta. Para ganar hay que recuperar también la prima. Además, la igualdad actual no impone una probabilidad exacta.",
+        "Un ejercicio mayor favorece a la put porque permite vender más caro. Perjudica a la call porque exige comprar más caro. Los efectos tienen signos opuestos."
+      ]
+    },
+    {
+      "id": "c21-q065",
+      "tema": "Dispersión y pagos esperados",
+      "dificultad": "intermedia",
+      "pregunta": "Dos acciones valen $100. En un ejemplo de un período y tasa cero, A termina en $90 o $110 y B en $70 o $130, con probabilidades de 50% por escenario. Para calls de ejercicio $100, ¿cuáles son los pagos esperados, sin asumir una regla general de valuación?",
+      "opciones": [
+        "A: $5; B: $15.",
+        "A: $10; B: $30.",
+        "A: $0; B: $0.",
+        "A: $15; B: $5."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La call sobre A paga cero o $10, con promedio de $5. La de B paga cero o $30, con promedio de $15. La mayor dispersión aumenta aquí el pago esperado, aunque valuar en general también exige tratar correctamente probabilidades y riesgo.",
+        "Estos son solo los pagos en los escenarios alcistas. Cada escenario tiene probabilidad de 50%. Para obtener el promedio hay que ponderar cada pago.",
+        "Se calculó primero el precio esperado de la acción y después el ejercicio. El máximo no es lineal y no puede intercambiarse con el promedio. Hay que calcular pagos por estado antes de promediarlos.",
+        "Se invirtió la relación entre dispersión y pago. Las dos calls tienen un escenario de pago cero. La de B tiene un escenario favorable mayor y por eso mayor promedio."
+      ]
+    },
+    {
+      "id": "c21-q066",
+      "tema": "Spread de puts y deuda",
+      "dificultad": "avanzada",
+      "pregunta": "Tomás prestado VP($40), comprás una put de ejercicio $90 y vendés una put de ejercicio $50. Todo vence junto. ¿Cuál es el pago neto final para S = $30, $70 y $100, respectivamente?",
+      "opciones": [
+        "$40, $20 y $0.",
+        "−$40, −$20 y $0.",
+        "$0, $20 y $40.",
+        "$0, −$20 y −$40."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos son los pagos del spread sin la deuda. El préstamo genera una obligación final y desplaza el perfil $40 hacia abajo. El ingreso inicial no debe confundirse con el pago final.",
+        "Este perfil ubica la pérdida mayor en el precio más bajo. El spread comprado de puts gana al caer la acción. Después de pagar la deuda, la pérdida mayor ocurre cuando las puts no pagan.",
+        "Se invirtió la exposición y se trató la deuda como un ingreso final. El préstamo cobra al vencimiento, mientras el spread pierde valor al subir la acción. Los tres resultados son no positivos.",
+        "La deuda exige pagar $40 al vencimiento. Con S = $30 las puts aportan $60 − $20 = $40; con S = $70 aportan $20 y con S = $100 no pagan. Restando la deuda quedan $0, −$20 y −$40, sin incluir primas ni efectivo inicial."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1184 @@
+{
+  "capitulo": 13,
+  "titulo": "Problemas de agencia, compensación de la administración y medición de resultados",
+  "preguntas": [
+    {
+      "id": "c13-q001",
+      "tema": "Relaciones principal-agente",
+      "dificultad": "basica",
+      "pregunta": "¿Qué papel cumple el director financiero frente a accionistas y gerentes subordinados?",
+      "opciones": [
+        "Es únicamente agente, incluso frente a sus subordinados.",
+        "Es propietario de los activos que administra.",
+        "Es agente de los accionistas y principal frente a los gerentes que supervisa.",
+        "Es únicamente principal, porque aprueba inversiones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ser agente frente a los accionistas no impide delegar funciones en otras personas. Cuando el director encarga tareas y evalúa a un gerente, actúa como principal de ese gerente. La relación depende de quién delega en quién.",
+        "Administrar activos no equivale a tener sus derechos económicos residuales. Esos derechos corresponden a los accionistas, salvo la participación accionaria personal del director. La separación entre propiedad y gestión origina el problema de agencia.",
+        "Los accionistas delegan decisiones en la dirección y esperan que proteja su patrimonio. La dirección delega tareas y decisiones en niveles inferiores. Por eso una misma persona puede ocupar ambos lados de una relación de agencia.",
+        "La autoridad para aprobar inversiones no convierte al director en dueño de los recursos. Esa autoridad fue delegada por quienes aportaron el capital. Frente a ellos sigue siendo un agente con obligaciones de gestión."
+      ]
+    },
+    {
+      "id": "c13-q002",
+      "tema": "Descentralización de inversiones",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué centralizar las inversiones en el director financiero no elimina los problemas de agencia?",
+      "opciones": [
+        "La información está distribuida y muchas inversiones están incorporadas en decisiones operativas.",
+        "Porque las decisiones pequeñas siempre tienen VPN negativo.",
+        "Porque capacitación y publicidad nunca son inversiones económicas.",
+        "Porque el director financiero no tiene conflictos de interés."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La dirección no puede conocer en detalle miles de oportunidades y depende de información de otros niveles. Elegir ubicación, capacidad, inventarios o capacitación compromete recursos con efectos futuros. Además, el propio director puede tener incentivos distintos de los accionistas.",
+        "El tamaño de una decisión no determina el signo de su VPN. Muchas decisiones pequeñas crean valor y muchas otras lo destruyen. Lo relevante es comparar sus beneficios incrementales con sus costos, incluyendo el capital comprometido.",
+        "Un gasto contable puede financiar beneficios que se obtendrán durante varios años. Capacitar personal o desarrollar un mercado puede ser una inversión económica. Que no figure en el presupuesto formal de capital no elimina esa naturaleza.",
+        "Un cargo jerárquico no garantiza coincidencia de intereses con los propietarios. El director también puede preferir comodidad, prestigio o seguridad laboral. Centralizar desplaza decisiones, pero no elimina esos conflictos."
+      ]
+    },
+    {
+      "id": "c13-q003",
+      "tema": "Costos de agencia y esfuerzo",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es un costo de agencia vinculado con la búsqueda de inversiones?",
+      "opciones": [
+        "El costo de capital de un proyecto correctamente evaluado.",
+        "Toda pérdida por un evento imprevisible.",
+        "Todo sueldo fijo, aun con una gestión óptima.",
+        "El valor perdido porque un gerente evita buscar proyectos rentables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El costo de capital es el rendimiento requerido por aportar fondos a una inversión riesgosa. Existe incluso con una gestión perfectamente alineada. No debe confundirse un costo económico normal con una pérdida por conflictos de incentivos.",
+        "Un resultado malo puede ocurrir aunque la decisión inicial haya sido correcta. El riesgo implica diferencias entre flujos realizados y esperados. Un costo de agencia requiere una pérdida vinculada con intereses o acciones desalineados.",
+        "El salario remunera servicios y puede ser necesario para contratar personal competente. Su existencia no demuestra destrucción de valor. El problema aparece cuando el esquema induce conductas perjudiciales para los propietarios.",
+        "Buscar y ejecutar buenos proyectos exige esfuerzo difícil de observar. Si el gerente lo evita, puede dejar pasar oportunidades beneficiosas para los accionistas. La pérdida atribuible a esa divergencia constituye un costo de agencia."
+      ]
+    },
+    {
+      "id": "c13-q004",
+      "tema": "Beneficios privados",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo conviene evaluar un avión corporativo utilizado por la dirección?",
+      "opciones": [
+        "Verificando únicamente que pueda registrarse como activo.",
+        "Comparando costos con el valor del tiempo ahorrado y otros beneficios empresariales.",
+        "Rechazándolo siempre como consumo privado.",
+        "Aprobándolo si mejora la comodidad personal del director."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La clasificación contable no indica cuánto valor crea un desembolso. Un activo reconocido puede tener VPN negativo. La decisión requiere comparar costos y beneficios incrementales, no solo verificar su registro.",
+        "Un beneficio para el directivo también puede generar ventajas empresariales. Ahorrar tiempo o mejorar la seguridad puede justificar el desembolso. Hay que distinguir esos beneficios económicos del consumo privado sin contrapartida suficiente.",
+        "La apariencia de lujo no determina el VPN. Un activo costoso puede justificarse si sus beneficios compensan sus costos. Rechazarlo automáticamente sustituye el análisis económico por una etiqueta.",
+        "La comodidad personal no es por sí sola un beneficio suficiente para los accionistas. Debe evaluarse si mejora productividad, seguridad u otros resultados relevantes. De otro modo puede ser una renta administrativa pagada por la empresa."
+      ]
+    },
+    {
+      "id": "c13-q005",
+      "tema": "Imperios e inversiones afianzadas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué diferencia hay entre edificar un imperio y realizar una inversión afianzada?",
+      "opciones": [
+        "La primera beneficia solo a acreedores y la segunda elimina el monitoreo.",
+        "La primera busca tamaño por interés del gerente; la segunda vuelve más necesarias sus habilidades específicas.",
+        "La primera siempre tiene VPN positivo y la segunda VPN cero.",
+        "La primera reduce activos y la segunda diversifica accionistas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El conflicto señalado involucra a administradores y aportantes de capital. Ninguna conducta garantiza beneficios a los acreedores. Ambas pueden justificar más atención a controles e incentivos.",
+        "El tamaño puede dar prestigio o poder al administrador sin crear valor. Una inversión afianzada aumenta la dependencia respecto de sus capacidades particulares. Ambas pueden inducir sobreinversión o resistencia a desinvertir.",
+        "Estas categorías describen motivaciones, no signos automáticos del VPN. El problema es impulsar proyectos cuyo rendimiento no justifica el capital empleado. No hay una regla que vuelva valiosa toda expansión ni neutral toda inversión afianzada.",
+        "Edificar un imperio normalmente aumenta el alcance del negocio controlado. Afianzarse consiste en volver más necesaria la presencia de un administrador particular. Reducir activos o dispersar la propiedad no define esas conductas."
+      ]
+    },
+    {
+      "id": "c13-q006",
+      "tema": "Flujo de efectivo libre",
+      "dificultad": "basica",
+      "pregunta": "¿Cuándo es más intenso el problema de agencia del flujo de efectivo libre?",
+      "opciones": [
+        "Cuando sobran oportunidades rentables y falta financiamiento.",
+        "Cuando se distribuyen fondos sin usos rentables.",
+        "Cuando cada inversión adicional supera el costo de capital.",
+        "Cuando hay mucho efectivo y pocas oportunidades con VPN positivo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La falta de fondos para buenas oportunidades plantea una restricción de financiamiento. No es la combinación que caracteriza el exceso de recursos para proyectos poco atractivos. El problema del flujo libre se agrava cuando sobra efectivo respecto de los usos valiosos.",
+        "Devolver fondos sin usos rentables limita los recursos disponibles para expansiones destructivas. No garantiza una gestión perfecta, pero reduce este canal de sobreinversión. Confundir distribución con despilfarro invierte el sentido del problema.",
+        "Superar el costo de capital es una señal favorable para las inversiones adicionales. El conflicto surge cuando se invierte pese a no cubrirlo. Tener muchos proyectos rentables no es en sí mismo sobreinvertir.",
+        "El efectivo disponible facilita financiar expansiones sin una prueba económica exigente. Si escasean proyectos rentables, puede invertirse por tamaño o conveniencia personal. La sobreinversión compromete fondos más allá de las oportunidades con VPN positivo."
+      ]
+    },
+    {
+      "id": "c13-q007",
+      "tema": "Incentivos y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo puede el empleo del gerente distorsionar la elección de riesgo?",
+      "opciones": [
+        "Puede inducir prudencia excesiva o apuestas desesperadas si el puesto ya peligra.",
+        "Un salario fijo siempre induce el riesgo óptimo.",
+        "Una amenaza de despido siempre elimina las apuestas riesgosas.",
+        "Los accionistas siempre prefieren el menor riesgo, sin importar el VPN."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El gerente puede rechazar proyectos valiosos por temor a sus pérdidas personales. Si espera ser despedido, una apuesta puede ofrecerle una posibilidad de salvar el puesto con poco costo personal adicional. Los incentivos distorsionan el riesgo en ambas direcciones.",
+        "El salario fijo no transmite automáticamente los beneficios de crear valor. La estabilidad laboral puede pesar más que el interés de accionistas diversificados. Por eso el riesgo elegido puede apartarse de la decisión económicamente conveniente.",
+        "Cuando perder el empleo ya parece probable, el costo personal de otro fracaso puede ser pequeño. Una estrategia riesgosa ofrece una última oportunidad de recuperación. No existe una relación universal entre amenaza de despido y prudencia.",
+        "Un riesgo bajo no compensa por sí solo un VPN inferior. Los accionistas evalúan flujos esperados con un costo de capital apropiado. Un proyecto riesgoso puede ser preferible si crea más valor."
+      ]
+    },
+    {
+      "id": "c13-q008",
+      "tema": "Monitoreo marginal",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo conviene ampliar el monitoreo?",
+      "opciones": [
+        "Nunca, si no elimina todos los conflictos.",
+        "Siempre que quede algún costo de agencia.",
+        "Mientras la reducción marginal esperada de costos de agencia supere el costo marginal del control.",
+        "Hasta conocer con certeza todas las oportunidades futuras."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una herramienta es útil si evita pérdidas mayores que su costo. No necesita eliminar todo el problema para agregar valor. Su imperfección justifica combinarla con incentivos, no descartarla.",
+        "Que quede un costo de agencia no demuestra que convenga gastar más. El siguiente control puede costar más de lo que evita. Confundir pérdidas totales con beneficios marginales lleva a supervisar en exceso.",
+        "El monitoreo utiliza tiempo y recursos costosos. Sus beneficios adicionales suelen disminuir al intensificarlo. La comparación correcta es marginal y puede justificar que quede una pérdida residual.",
+        "Los gerentes conocen detalles que un observador externo no puede reconstruir completamente. Alcanzar certeza total puede ser imposible o demasiado costoso. El criterio debe ser económico y no una exigencia de información perfecta."
+      ]
+    },
+    {
+      "id": "c13-q009",
+      "tema": "Problema del polizón",
+      "dificultad": "basica",
+      "pregunta": "¿Qué significa el problema del polizón entre accionistas dispersos?",
+      "opciones": [
+        "Cada accionista debe pagar personalmente todas las deudas.",
+        "Los accionistas pequeños tienen prohibido investigar.",
+        "El consejo no puede contratar auditores.",
+        "Cada inversor espera que otros paguen el monitoreo cuyos beneficios compartirán todos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La responsabilidad por deudas es otro aspecto societario. El polizón describe incentivos para contribuir poco a una actividad de beneficios compartidos. No se define por la obligación de pagar deudas empresariales.",
+        "El problema no surge de una prohibición. Buscar acciones subvaluadas incluso puede motivar investigación privada. La dificultad es que el control produce beneficios que también reciben otros accionistas.",
+        "Delegar en un consejo y auditores es una respuesta posible al control insuficiente. No hay incompatibilidad entre ambas instituciones. El problema es quién paga el monitoreo y quién recibe sus beneficios.",
+        "La mejor gestión beneficia a todos los propietarios. Un accionista pequeño captura solo parte del beneficio, aunque soporte todo el costo de investigar. Si todos esperan esfuerzo ajeno, el monitoreo resulta insuficiente."
+      ]
+    },
+    {
+      "id": "c13-q010",
+      "tema": "Monitoreo delegado",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué descripción del monitoreo es más precisa?",
+      "opciones": [
+        "Bancos y accionistas siempre tienen intereses idénticos.",
+        "La amistad con el director garantiza independencia del consejo.",
+        "Consejo, auditores y acreedores controlan distintos aspectos, pero sus propios incentivos también importan.",
+        "Una auditoría limpia certifica que se aceptaron todos los proyectos valiosos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El banco puede aportar control útil para los accionistas sin compartir todas sus preferencias. El acreedor busca recuperar su crédito y el accionista recibe el resultado residual. El monitoreo beneficioso no implica identidad total de intereses.",
+        "Conocer al director aporta información, pero también puede generar lealtades personales. Un consejero que evita cuestionar a un amigo puede controlar peor. La independencia depende de capacidad e incentivos para actuar.",
+        "El consejo supervisa la gestión y los auditores examinan la información financiera. Los bancos analizan activos y flujos para proteger sus créditos. Amistad, dependencia económica u otros conflictos pueden debilitar estos controles delegados.",
+        "La auditoría evalúa la presentación de estados financieros bajo criterios contables. No demuestra que se hayan identificado todas las oportunidades de inversión. Estados bien preparados pueden coexistir con decisiones que destruyen valor."
+      ]
+    },
+    {
+      "id": "c13-q011",
+      "tema": "Resultados verificables y riesgos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué suele combinarse remuneración fija y variable?",
+      "opciones": [
+        "Porque un sueldo fijo elimina la necesidad de incentivos.",
+        "Porque el esfuerzo es difícil de observar y los resultados mezclan gestión y factores externos.",
+        "Porque las horas de presencia miden exactamente el esfuerzo real.",
+        "Porque el gerente debe absorber todo el riesgo empresarial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El sueldo fijo protege de fluctuaciones, pero debilita la relación entre recompensa y valor creado. Pueden persistir baja búsqueda de proyectos o expansión por prestigio. Siguen siendo necesarios controles e incentivos.",
+        "Los resultados verificables permiten premiar aportes cuyo esfuerzo no se observa directamente. También varían por recesiones, precios y otros sucesos externos. La combinación busca incentivar sin trasladar todo el riesgo del negocio al administrador.",
+        "La presencia no revela la calidad de las decisiones ni el esfuerzo intelectual. Dos personas pueden trabajar igual cantidad de horas y aportar valores diferentes. Remunerar asistencia no resuelve por sí solo el problema de desempeño.",
+        "El gerente no puede diversificar su empleo como el inversor diversifica una cartera. Cargarle todas las fluctuaciones puede ser costoso y desalentador. El diseño debe equilibrar incentivos con un reparto razonable del riesgo."
+      ]
+    },
+    {
+      "id": "c13-q012",
+      "tema": "Opciones y acciones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué otorga una opción de compra sobre acciones al ejecutivo?",
+      "opciones": [
+        "Un derecho a comprar al precio de ejercicio, sin obligación de hacerlo.",
+        "La propiedad inmediata de las acciones y sus dividendos.",
+        "Una obligación de comprar aunque el mercado cotice más bajo.",
+        "Una ganancia positiva garantizada."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La opción permite adquirir la acción bajo condiciones pactadas. Si al vencimiento el precio de mercado supera el de ejercicio, la diferencia genera un pago positivo. Si no lo supera, el titular puede dejarla vencer sin ejercer.",
+        "La opción no equivale a una acción entregada directamente. Antes de ejercer no concede por sí sola todos los derechos del accionista. Confundirlas lleva a calcular mal pagos y exposición a pérdidas.",
+        "La ausencia de obligación es central en una opción. Comprar por encima del precio de mercado sería inconveniente al vencimiento. El titular puede evitar esa compra y recibir un pago de ejercicio nulo.",
+        "El pago puede ser cero si la acción no supera el ejercicio. Tener valor al otorgarse no garantiza una ganancia realizada. Debe distinguirse la valuación del contrato de su resultado final."
+      ]
+    },
+    {
+      "id": "c13-q013",
+      "tema": "Opciones: valor y contabilidad histórica",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué problema tenía el criterio histórico estadounidense de registrar con costo cero opciones cuyo ejercicio igualaba el precio de la acción al otorgarlas?",
+      "opciones": [
+        "Confundía valor intrínseco inicial nulo con ausencia de valor económico.",
+        "Suponía que la empresa pagaba inmediatamente el ejercicio.",
+        "Registraba dos veces el costo de compensación.",
+        "Cargaba como gasto todo el precio de la acción subyacente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La posibilidad de una suba futura da valor a la opción aunque ejercer hoy no genere ganancia. Omitirlo puede sobrestimar la utilidad informada y ocultar un costo de remuneración. El cambio contable de 2006 descripto para Estados Unidos exigió una valuación más realista como gasto de compensación.",
+        "El ejercicio lo paga quien decide comprar la acción, no la empresa al otorgar la opción. El problema era omitir el valor del derecho entregado. No se trataba de anticipar un desembolso de ejercicio de la emisora.",
+        "Registrar cero no duplica un gasto. Puede dejar sin reconocer una remuneración con valor económico. La dirección del error era subestimar el costo, no reconocerlo dos veces.",
+        "El valor de la opción no equivale al precio completo de la acción. Para recibirla mediante ejercicio se debe pagar el importe pactado. El criterio cuestionado omitía el valor del derecho en lugar de cargar todo el activo subyacente."
+      ]
+    },
+    {
+      "id": "c13-q014",
+      "tema": "Desempeño absoluto y relativo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué busca un precio de ejercicio vinculado con un índice de competidores?",
+      "opciones": [
+        "Convertir la opción en una acción ordinaria.",
+        "Reducir premios por subas generales del sector sin desempeño superior de la empresa.",
+        "Quitarle al gerente toda influencia sobre la inversión.",
+        "Eliminar la necesidad de valuar el contrato."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una opción relativa sigue siendo un derecho condicionado. No otorga automáticamente la propiedad de las acciones. El cambio afecta la referencia de desempeño y no esa diferencia básica.",
+        "Una opción convencional puede pagar porque todo el sector subió. Ajustar el umbral intenta filtrar parte de los factores comunes y premiar desempeño relativo. Para comparar paquetes hay que calibrar su valor, porque modificar el umbral cambia la remuneración esperada.",
+        "El propósito es conservar el incentivo para mejorar la gestión. Se filtran factores comunes, no las diferencias atribuibles al gerente. Quitar toda relación con sus decisiones debilitaría el incentivo buscado.",
+        "El contrato relativo sigue teniendo un valor económico. Puede requerir una cantidad diferente de opciones para ofrecer un paquete comparable. Cambiar la referencia no elimina la necesidad de valuación."
+      ]
+    },
+    {
+      "id": "c13-q015",
+      "tema": "Expectativas incorporadas en precios",
+      "dificultad": "avanzada",
+      "pregunta": "La contratación de una excelente ejecutiva ya elevó la cotización antes de que asumiera. Si después cumple exactamente lo esperado, ¿qué limita una evaluación basada solo en el rendimiento bursátil posterior?",
+      "opciones": [
+        "El precio inicial no puede contener información sobre gestión futura.",
+        "Cumplir expectativas significa que no aportó ningún beneficio.",
+        "Puede omitir parte de su aporte porque la mejora esperada ya estaba en el precio inicial.",
+        "Debe registrar un rendimiento extraordinario posterior por definición."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las cotizaciones reflejan expectativas y no solo resultados observados. La contratación puede cambiar esas expectativas antes del inicio de funciones. Ignorar la anticipación desplaza al periodo posterior una ganancia ya reconocida.",
+        "Cumplir una expectativa alta puede representar una mejora importante del negocio. La ausencia de una sorpresa adicional no implica ausencia de aporte. Deben distinguirse la calidad gerencial y el rendimiento inesperado de la acción.",
+        "El anuncio puede aumentar el precio al mejorar las expectativas de flujos futuros. Cumplir esas expectativas no genera necesariamente otra sorpresa favorable. El rendimiento posterior puede ser normal aunque la ejecutiva aporte mucho frente a la alternativa anterior.",
+        "El precio de compra ya incorpora lo que el inversor espera recibir. Una gestión excelente pero anticipada no exige una nueva suba extraordinaria. Se confunde calidad absoluta con sorpresa respecto de expectativas."
+      ]
+    },
+    {
+      "id": "c13-q016",
+      "tema": "Medidas contables y responsabilidad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué los bonos de gerentes de planta suelen depender más de medidas contables que los de la máxima dirección?",
+      "opciones": [
+        "Porque todas las plantas cotizan por separado.",
+        "Porque las cifras contables no pueden ser influidas por la gestión.",
+        "Porque una planta no utiliza capital de accionistas.",
+        "Permiten medir una unidad específica más cercana a las decisiones del gerente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La mayoría de las plantas no tiene acciones propias negociadas en el mercado. Esa ausencia favorece el uso de indicadores internos. La cotización de toda la compañía puede ser demasiado lejana para evaluar una unidad.",
+        "Mantenimiento, capacitación y políticas contables pueden afectar la utilidad informada. Las cifras internas también pueden incentivar conductas distorsivas. Su capacidad para separar unidades no las hace inmunes a sesgos.",
+        "Inventarios, equipos e instalaciones son capital con costo de oportunidad. Los gerentes operativos influyen en cuánto se utiliza. El EVA busca hacer visible ese costo también en niveles inferiores.",
+        "La cotización total depende de muchas unidades y factores ajenos a una planta. Los resultados internos acercan la evaluación al ámbito de responsabilidad del gerente y muestran desempeño absoluto. Aun así, requieren ajustes y no equivalen automáticamente a rentabilidad económica."
+      ]
+    },
+    {
+      "id": "c13-q017",
+      "tema": "ROI y base de capital",
+      "dificultad": "basica",
+      "pregunta": "Para separar inversión y financiamiento, ¿cómo se calcula el ROI contable de una operación?",
+      "opciones": [
+        "Flujo de caja dividido por capital social nominal.",
+        "Utilidad antes de impuestos dividida solo por caja.",
+        "Utilidad operativa después de impuestos y antes de intereses dividida por capital neto invertido.",
+        "Utilidad después de intereses dividida por ventas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El flujo de caja no equivale a utilidad contable cuando hay depreciación. El capital nominal tampoco mide necesariamente los recursos operativos. Esa combinación no corresponde al ROI de la operación.",
+        "Excluir instalaciones e inventarios deja afuera recursos comprometidos. El numerador también debe ser después de impuestos para mantener consistencia con la tasa utilizada. La caja aislada no representa toda la inversión.",
+        "No deducir intereses permite evaluar la operación sin mezclar su estructura financiera. La base incluye activos operativos netos y capital de trabajo necesario. La comparación exige un costo de capital consistente, normalmente el CPPC después de impuestos.",
+        "Utilidad sobre ventas es un margen y no un rendimiento del capital. Deducir intereses también incorpora una decisión de financiamiento. El ROI analizado utiliza recursos invertidos en la operación como denominador."
+      ]
+    },
+    {
+      "id": "c13-q018",
+      "tema": "Utilidad residual y EVA",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la fórmula del EVA y en qué unidad se expresa?",
+      "opciones": [
+        "ROI − r; en puntos porcentuales.",
+        "Utilidad operativa + r × capital invertido; en dinero.",
+        "Ventas − depreciación; en dinero.",
+        "Utilidad operativa después de impuestos − r × capital invertido; en dinero."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "ROI menos r es el rendimiento neto porcentual. Para obtener EVA falta multiplicarlo por capital invertido. Omitirlo elimina la escala monetaria de la operación.",
+        "El costo de capital es una exigencia y no un ingreso. Sumárselo a la utilidad premiaría usar más fondos sin exigir beneficios. Debe restarse para medir lo que queda después de remunerar al capital.",
+        "Las ventas omiten costos operativos e impuestos. Además, no se descuenta la remuneración del capital utilizado. Restar solo depreciación no mide utilidad residual.",
+        "El capital exige remuneración aunque no aparezca como gasto operativo convencional. Multiplicar su costo porcentual por la inversión da el cargo monetario del periodo. Restarlo de la utilidad produce el excedente residual en la moneda utilizada."
+      ]
+    },
+    {
+      "id": "c13-q019",
+      "tema": "Equivalencia de medidas residuales",
+      "dificultad": "intermedia",
+      "pregunta": "Con bases consistentes, ¿qué relación hay entre EVA y EP = (ROI − r) × capital invertido?",
+      "opciones": [
+        "Coinciden solo si el capital es igual a uno.",
+        "Son expresiones equivalentes de utilidad residual.",
+        "EP mide el VPN total y EVA las ventas.",
+        "EVA es porcentaje y EP dinero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La identidad vale para cualquier capital positivo usado consistentemente. No requiere una base unitaria. Importa que el ROI se haya calculado sobre la misma inversión usada en la fórmula.",
+        "ROI multiplicado por capital recupera la utilidad. Distribuir la multiplicación deja utilidad menos r por capital. Es la misma fórmula del EVA si capital, utilidad y periodo son consistentes.",
+        "EP y EVA son indicadores residuales de un periodo. Ninguno se define como ventas ni como VPN total del proyecto. La equivalencia surge de una identidad algebraica, no de comparar magnitudes distintas.",
+        "Ambas expresiones producen dinero. El porcentaje es ROI menos r antes de multiplicarlo por capital. Confundir ese diferencial con EVA omite el tamaño de la inversión."
+      ]
+    },
+    {
+      "id": "c13-q020",
+      "tema": "Ganancia positiva y valor",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué aumentar la utilidad contable puede destruir valor?",
+      "opciones": [
+        "La ganancia adicional puede no cubrir el costo del capital adicional.",
+        "Toda mayor utilidad reduce necesariamente el efectivo.",
+        "Los accionistas solo exigen recuperar el principal.",
+        "El capital propio es gratuito si no se pagan dividendos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una inversión puede ganar dinero y rendir menos que su costo de oportunidad. El inversor requiere una remuneración por el tiempo y riesgo de sus fondos. El crecimiento de utilidad aislado no demuestra un VPN positivo.",
+        "Utilidad y efectivo pueden diferir, pero no tienen una relación inversa obligatoria. El problema es si la ganancia compensa los fondos comprometidos. Deben evaluarse flujos y costo de capital, no asumir una caída automática de caja.",
+        "Recuperar el capital no compensa tiempo y riesgo. Los accionistas también requieren rendimiento sobre ese capital. Omitirlo hace parecer valiosas inversiones que rinden demasiado poco.",
+        "La retención de utilidades no elimina alternativas de inversión para los accionistas. Dejar fondos en la empresa tiene costo de oportunidad. No pagar dividendos no vuelve gratuito al patrimonio."
+      ]
+    },
+    {
+      "id": "c13-q021",
+      "tema": "Utilidad y depreciación económicas",
+      "dificultad": "intermedia",
+      "pregunta": "Sin aportes adicionales, ¿cómo se define la utilidad económica anual de un activo?",
+      "opciones": [
+        "Flujo de efectivo más depreciación económica positiva.",
+        "Flujo de efectivo más cambio en el valor presente de los flujos remanentes.",
+        "Flujo de efectivo menos toda la inversión inicial cada año.",
+        "Ventas menos valor de venta final."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una depreciación positiva indica pérdida de valor. Esa pérdida se resta del flujo cobrado. Solo una apreciación, equivalente a depreciación negativa, eleva la utilidad por encima del efectivo.",
+        "El inversor cobra efectivo y conserva un activo cuyo valor cambia. Sumar ambos componentes mide su ganancia económica. Una caída de valor es depreciación económica y reduce el resultado.",
+        "La inversión inicial es una base de valor y no un gasto íntegro que se repite cada año. El resultado periódico reconoce la variación de ese valor. Restarla completa reiteradamente distorsiona la recuperación del capital.",
+        "Las ventas no son efectivo neto porque faltan costos. Tampoco corresponde tratar todo el valor final como gasto corriente. La medida económica combina efectivo neto y variación del valor."
+      ]
+    },
+    {
+      "id": "c13-q022",
+      "tema": "Observabilidad del valor económico",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué dificulta medir cada planta con valores económicos?",
+      "opciones": [
+        "Se debe estimar regularmente el valor presente de activos que no cotizan por separado.",
+        "El valor económico siempre es igual al costo histórico.",
+        "Los valores presentes no necesitan supuestos futuros.",
+        "La cotización total determina de manera única el precio de cada máquina."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las plantas normalmente no tienen un precio observable diario. Valuarlas exige flujos futuros y tasas apropiadas, con estimaciones subjetivas. Esto explica la utilidad de registros verificables aunque no midan perfectamente el valor.",
+        "El costo histórico registra un desembolso pasado. El valor económico depende de beneficios futuros y alternativas de uso. Cambios en esas perspectivas pueden separar considerablemente ambas medidas.",
+        "El descuento requiere supuestos sobre flujos, riesgo y tasas. La exactitud aritmética no elimina incertidumbre en esas entradas. La valuación sigue dependiendo de estimaciones.",
+        "La cotización refleja el conjunto del negocio y sus relaciones. No ofrece una asignación única de valor a cada activo. Separar esos valores requiere información y supuestos adicionales."
+      ]
+    },
+    {
+      "id": "c13-q023",
+      "tema": "Depreciación esperada y sesgo",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué puede lograr un esquema contable alineado con la depreciación económica esperada?",
+      "opciones": [
+        "Garantizar el costo de capital como rendimiento realizado anual.",
+        "Eliminar toda necesidad de pronosticar flujos.",
+        "Volver rentables proyectos con VPN negativo.",
+        "Reducir sesgos sistemáticos sin garantizar exactitud si los flujos realizados difieren de los previstos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una convención contable no determina el efectivo generado. Los rendimientos realizados pueden superar o quedar debajo del esperado. Ajustar la medición no asegura una rentabilidad.",
+        "Para estimar depreciación económica primero se prevé cómo variará el valor. Ese valor depende de flujos futuros. El procedimiento usa pronósticos aunque evite recalcularlos completamente en cada cierre.",
+        "La contabilidad distribuye resultados entre periodos, pero no crea efectivo. Si los beneficios descontados son menores al costo, el proyecto destruye valor. Mejorar su medición no cambia ese hecho.",
+        "El esquema intenta seguir el consumo de valor previsto. Con bases iniciales consistentes y previsiones cumplidas, las medidas pueden alinearse. Las sorpresas posteriores todavía producen diferencias entre resultados económicos y contables."
+      ]
+    },
+    {
+      "id": "c13-q024",
+      "tema": "Contexto histórico de compensaciones",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué caracteriza el contexto estadounidense de comienzos de los años 2000 presentado en el capítulo?",
+      "opciones": [
+        "Indemnizaciones elevadas como prueba suficiente de valor creado.",
+        "Ventajas fiscales históricas como prueba de costo económico nulo de las opciones.",
+        "Pagos altos, fuerte componente variable y debate entre competencia por talento y fallas de gobierno corporativo.",
+        "Remuneración exclusivamente fija, sin opciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una indemnización alta puede coexistir con desempeño deficiente. Su monto no demuestra que el contrato premie creación de valor. Hay que analizar condiciones, resultados e incentivos del acuerdo.",
+        "Una ventaja tributaria cambia el costo después de impuestos, pero no vuelve gratuito el derecho. La opción tiene valor para el receptor y puede diluir a propietarios. El tratamiento fiscal histórico no reemplaza la evaluación económica.",
+        "La comparación internacional destaca pagos elevados y peso importante de bonos y opciones. Compiten explicaciones basadas en talento y tamaño empresarial con críticas sobre control insuficiente. Las referencias fiscales y contables pertenecen a ese contexto histórico, sin constituir reglas tributarias actuales.",
+        "Los incentivos variables y de largo plazo son centrales en la descripción. Excluirlos impide entender tanto sus ventajas como sus defectos. El sueldo fijo es solo una parte del paquete."
+      ]
+    },
+    {
+      "id": "c13-q025",
+      "tema": "ROI, diferencial y EVA",
+      "dificultad": "basica",
+      "pregunta": "Una unidad genera utilidad operativa después de impuestos de $60 millones sobre capital inicial de $400 millones. Si r = 12%, ¿cuáles son su ROI, su diferencial neto y su EVA?",
+      "opciones": [
+        "15%; −3 puntos porcentuales; −$12 millones.",
+        "15%; 3 puntos porcentuales; $12 millones.",
+        "15%; 15 puntos porcentuales; $60 millones.",
+        "12%; 3 puntos porcentuales; $48 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El orden de la resta está invertido. Como 15% supera 12%, el diferencial y el EVA son positivos. Un resultado negativo correspondería a ganar menos que el costo de capital.",
+        "El ROI es 60/400 = 15%. Al restar 12% queda un diferencial de 3 puntos porcentuales. El EVA es 60 − 0,12 × 400 = 12 millones, equivalente a 0,03 × 400.",
+        "El 15% es el rendimiento bruto respecto del costo de capital. Falta restar la exigencia de 12% para obtener el diferencial. También debe restarse el cargo de 48 millones antes de llamar EVA a la utilidad.",
+        "El 12% es la tasa requerida y no el rendimiento obtenido. La utilidad de 60 sobre 400 produce 15%. Los 48 millones son el cargo de capital, no el excedente residual."
+      ]
+    },
+    {
+      "id": "c13-q026",
+      "tema": "Utilidad operativa e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta vende $500 millones, tiene costos operativos en efectivo de $300 millones y depreciación de $40 millones. Paga 25% de impuesto operativo, emplea capital inicial de $800 millones y r = 10%. Sin intereses, ¿cuál es su EVA?",
+      "opciones": [
+        "$80 millones.",
+        "$70 millones.",
+        "$120 millones.",
+        "$40 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado surge de restar el cargo de capital a la utilidad antes de impuestos. Los impuestos operativos reducen 160 a 120 millones. El EVA consistente con una tasa después de impuestos es 40 millones.",
+        "Este resultado surge de aplicar 25% al margen de caja de 200 y luego restar 80. Así se omite la depreciación en la determinación de la utilidad operativa gravada. Debe calcularse primero 160 antes de impuestos y luego 120 netos.",
+        "Los 120 millones son utilidad operativa después de impuestos. Todavía falta remunerar los 800 millones empleados al 10%. Al descontar esos 80 queda un EVA de 40 millones.",
+        "La utilidad operativa antes de impuestos es 500 − 300 − 40 = 160. Después de impuestos queda 160 × 0,75 = 120. El cargo de capital es 80 y el EVA resulta 120 − 80 = 40 millones."
+      ]
+    },
+    {
+      "id": "c13-q027",
+      "tema": "Capital de trabajo y activos netos",
+      "dificultad": "intermedia",
+      "pregunta": "Hay equipo con costo original de $200 millones y depreciación acumulada de $80 millones, activo circulante operativo de $50 millones, pasivo circulante operativo sin interés de $20 millones y otros activos operativos de $10 millones. Con utilidad operativa neta de $24 millones y r = 10%, ¿cuál es el EVA? Usá esos saldos como capital inicial.",
+      "opciones": [
+        "−$2 millones.",
+        "$6 millones.",
+        "$8 millones.",
+        "$11 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este valor usa el costo original del equipo sin descontar depreciación acumulada. La pregunta pide una medida contable sobre activos netos. Con equipo neto de 120, el capital total es 160 y no 260 millones.",
+        "Este valor usa 180 millones porque suma todo el activo circulante sin restar el pasivo operativo. Esos pasivos financian parte de la operación y reducen el capital neto comprometido. Debe emplearse capital de trabajo neto de 30 y no bruto de 50.",
+        "El equipo neto vale 200 − 80 = 120 y el capital de trabajo neto es 50 − 20 = 30. Sumando otros activos de 10, el capital empleado es 160. El EVA es 24 − 0,10 × 160 = 8 millones.",
+        "Este valor usa una base de 130 millones y omite el capital de trabajo neto de 30. Los inventarios y créditos operativos también inmovilizan fondos. La base completa es 160 y su cargo es 16 millones."
+      ]
+    },
+    {
+      "id": "c13-q028",
+      "tema": "Equilibrio contable y pérdida económica",
+      "dificultad": "basica",
+      "pregunta": "Una unidad tiene utilidad operativa neta igual a cero, capital de $300 millones y costo de capital de 8%. ¿Cuál es su EVA?",
+      "opciones": [
+        "−$24 millones.",
+        "$0.",
+        "$24 millones.",
+        "−$300 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El cargo de oportunidad es 0,08 × 300 = 24 millones. La utilidad cero no alcanza para pagarlo. El EVA es 0 − 24 = −24 millones, pese al equilibrio contable.",
+        "El equilibrio contable solo indica que se cubrieron gastos reconocidos en la utilidad. No cubre automáticamente el rendimiento requerido sobre el capital. El cargo omitido es de 24 millones.",
+        "Los 24 millones son una exigencia de rendimiento y no un ingreso ganado. Deben restarse de la utilidad cero. Sumarlos cambiaría una insuficiencia económica por una ganancia inexistente.",
+        "No corresponde restar todo el capital como gasto anual. Para este indicador se descuenta el rendimiento requerido del periodo. Ese cargo es 8% de 300, no 100% de la inversión."
+      ]
+    },
+    {
+      "id": "c13-q029",
+      "tema": "Escala y diferencial de rentabilidad",
+      "dificultad": "intermedia",
+      "pregunta": "A tiene capital de $20 millones y ROI de 20%; B tiene capital de $100 millones y ROI de 14%. Ambas usan r = 10%. Según el EVA del periodo, ¿cuál aporta más excedente monetario?",
+      "opciones": [
+        "A, porque su ROI es mayor, aunque su EVA sea menor.",
+        "Ambas: tienen el mismo costo porcentual de capital.",
+        "B: $4 millones frente a $2 millones de A.",
+        "A: $10 millones frente a $4 millones de B."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La pregunta compara excedentes monetarios y no tasas. Un ROI mayor no garantiza un EVA mayor cuando difiere el capital utilizado. El EVA incorpora precisamente esa diferencia de tamaño.",
+        "Compartir la tasa requerida no implica compartir resultado residual. También importan los ROI y los montos invertidos. Con esos datos, las utilidades residuales son 2 y 4 millones.",
+        "Para A, EVA = (0,20 − 0,10) × 20 = 2 millones. Para B, EVA = (0,14 − 0,10) × 100 = 4 millones. B tiene menor diferencial porcentual, pero lo aplica a una base mucho mayor.",
+        "Los 10 puntos de diferencial de A no son 10 millones. Deben multiplicarse por su capital de 20 millones, dando 2. B genera 4 millones con un diferencial menor sobre mayor escala."
+      ]
+    },
+    {
+      "id": "c13-q030",
+      "tema": "Inversión incremental y EVA",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente propone invertir $80 millones adicionales para aumentar en $6 millones anuales la utilidad operativa neta. Con r = 10% y usando esos datos como medida anual, ¿qué efecto tiene sobre el EVA?",
+      "opciones": [
+        "No cambia porque la utilidad adicional es positiva.",
+        "Disminuye $2 millones.",
+        "Aumenta $6 millones.",
+        "Aumenta $2 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La ganancia positiva no vuelve neutral el uso del capital. El rendimiento adicional es 6/80 = 7,5%, inferior al 10% exigido. Ese déficit reduce el EVA.",
+        "Los nuevos fondos exigen 0,10 × 80 = 8 millones anuales. La utilidad adicional es solo 6. El cambio de EVA es 6 − 8 = −2 millones, señal de que el aumento de ganancias no basta.",
+        "Los 6 millones son crecimiento de utilidad antes del cargo por recursos adicionales. Omitir ese cargo trata al capital como gratuito. Después de restar 8, el excedente disminuye 2 millones.",
+        "El valor absoluto de la diferencia es 2, pero su signo es negativo. Se gana menos que el rendimiento requerido. La resta pertinente es utilidad adicional menos cargo adicional, no al revés."
+      ]
+    },
+    {
+      "id": "c13-q031",
+      "tema": "Reducción de capital de trabajo",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta reduce capital de trabajo de $50 a $30 millones mediante entregas más frecuentes. El cambio reduce su utilidad operativa neta anual en $1 millón por mayores costos logísticos. Con r = 10%, ¿cómo cambia el EVA anual, una vez implementado?",
+      "opciones": [
+        "Aumenta $1 millón.",
+        "Aumenta $20 millones.",
+        "Disminuye $1 millón.",
+        "Aumenta $2 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se liberan 20 millones de capital y el cargo anual baja 0,10 × 20 = 2 millones. La utilidad anual cae 1 millón por logística. El cambio neto de EVA es −1 + 2 = 1 millón favorable.",
+        "Los 20 millones liberados son un flujo de fondos y una reducción de capital. No equivalen al cambio anual de utilidad residual. El ahorro de cargo anual es 2 millones y debe compensar el costo logístico de 1.",
+        "Esta respuesta considera el mayor gasto logístico pero ignora el menor capital comprometido. La reducción de cargo anual es de 2 millones. Supera el costo adicional, por lo que el EVA aumenta 1 millón.",
+        "Los 2 millones son el ahorro bruto de cargo de capital. Para medir el cambio de EVA hay que incorporar también la caída de utilidad de 1 millón. El beneficio residual anual es 1 millón."
+      ]
+    },
+    {
+      "id": "c13-q032",
+      "tema": "Valor alternativo y cargo de capital",
+      "dificultad": "avanzada",
+      "pregunta": "Una planta obtiene utilidad operativa neta anual de $7 millones. Su capital contable es $100 millones, pero podría venderse por $120 millones netos. Con r = 10%, si solo reemplazás la base de capital por ese valor alternativo y mantenés la utilidad informada, ¿cómo cambia el indicador residual?",
+      "opciones": [
+        "De −$3 millones a −$1 millón.",
+        "De $7 millones a $12 millones.",
+        "De −$3 millones a $17 millones.",
+        "De −$3 millones a −$5 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La mayor base aumenta el cargo y no lo reduce. El cambio es −0,10 × 20 = −2 millones. Partiendo de −3, el indicador pasa a −5 y no a −1.",
+        "Los 7 millones son utilidad y los 12 son el nuevo cargo requerido. No son indicadores residuales comparables antes y después. Hay que restar cada cargo a la utilidad para obtener −3 y −5.",
+        "La diferencia de 20 entre valores de activos no es una utilidad operativa anual recurrente. La pregunta mantiene la utilidad y modifica únicamente el cargo. Sumar esa diferencia mezcla una potencial venta con el desempeño residual periódico.",
+        "El cargo contable es 10% de 100 = 10 y el indicador es 7 − 10 = −3. Sobre el valor alternativo, el cargo es 12 y el indicador baja a 7 − 12 = −5. Este ajuste parcial muestra el costo de oportunidad omitido, sin reemplazar una valuación completa de vender o continuar."
+      ]
+    },
+    {
+      "id": "c13-q033",
+      "tema": "Intangibles omitidos",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa informa capital operativo de $8 millones y utilidad operativa neta de $1,5 millones. Una patente omitida del balance vale $4 millones. Con r = 10%, ¿cuál es el EVA informado y cuál es el indicador si únicamente agregás la patente a la base, manteniendo la utilidad sin otros ajustes?",
+      "opciones": [
+        "$0,7 millones y $1,1 millones.",
+        "$1,5 millones y $1,1 millones.",
+        "$0,3 millones y $0,7 millones.",
+        "$0,7 millones y $0,3 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Agregar un activo eleva el capital que exige remuneración. El cargo sube 0,4 millones, de modo que el indicador debe bajar en ese importe. Sumárselo a 0,7 invierte el efecto económico.",
+        "Los 1,5 millones son utilidad antes de descontar el cargo de capital. Tampoco corresponde sumar el efecto de incluir la patente. Los excedentes correctos surgen de restar 0,8 y 1,2 respectivamente.",
+        "Los valores están invertidos. Omitir un activo reduce artificialmente el cargo y eleva el indicador residual. Al incorporarlo, el resultado baja de 0,7 a 0,3 millones.",
+        "Con capital de 8, el cargo es 0,8 y el EVA informado es 1,5 − 0,8 = 0,7. Agregar la patente lleva la base a 12 y el cargo a 1,2, dejando 0,3. Es un ajuste parcial: una medición económica completa también revisaría depreciación y utilidad de la patente."
+      ]
+    },
+    {
+      "id": "c13-q034",
+      "tema": "Pago de opciones",
+      "dificultad": "basica",
+      "pregunta": "Un ejecutivo tiene 2.000 opciones que vencen hoy, con ejercicio de $40 por acción. La acción cotiza a $55 y no hay costos de transacción. ¿Cuál es el beneficio bruto de ejercer y vender de inmediato?",
+      "opciones": [
+        "$30.000.",
+        "$110.000.",
+        "$80.000.",
+        "$0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada opción permite comprar por 40 algo que se vende por 55. El beneficio unitario es 15 y el total es 2.000 × 15 = 30.000. Es un pago al ejercicio, distinto del valor que tenían las opciones cuando fueron otorgadas.",
+        "Los 110.000 son el ingreso bruto por vender 2.000 acciones a 55. Para obtenerlas hay que pagar 80.000 de ejercicio. El beneficio neto de esa compra y venta inmediata es 30.000.",
+        "Los 80.000 son el desembolso de ejercicio. No representan la ganancia del ejecutivo. La ganancia es el valor de mercado recibido menos ese desembolso.",
+        "El pago cero corresponde a una opción cuyo ejercicio no resulta conveniente al vencimiento. Aquí la acción vale 15 más que el ejercicio. Hay un beneficio positivo de 30.000 al ejercer todas."
+      ]
+    },
+    {
+      "id": "c13-q035",
+      "tema": "Opciones fuera del dinero",
+      "dificultad": "basica",
+      "pregunta": "Vencen hoy 1.000 opciones de compra con ejercicio de $30; la acción vale $24. Sin obligación de ejercer ni otros derechos, ¿cuál es el pago óptimo del contrato al vencimiento?",
+      "opciones": [
+        "$24.000.",
+        "$0.",
+        "−$6.000.",
+        "$6.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 24.000 son el valor de 1.000 acciones, no el pago de las opciones. El ejecutivo no recibe esas acciones gratuitamente. Como ejercer costaría 30.000, conviene no hacerlo.",
+        "Comprar a 30 una acción que vale 24 sería inconveniente. El titular puede no ejercer porque posee un derecho y no una obligación. El pago es 1.000 × máximo(24 − 30; 0) = 0.",
+        "La pérdida de 6.000 aparecería si se obligara a comprar por encima del mercado. Esa obligación no existe en una opción de compra. Dejarla vencer evita ese desembolso, aunque el contrato haya perdido valor respecto de su otorgamiento.",
+        "La diferencia de 6 tiene signo negativo para una opción de compra. No puede tomarse su valor absoluto como ganancia. El piso del pago al vencimiento es cero."
+      ]
+    },
+    {
+      "id": "c13-q036",
+      "tema": "Opciones indexadas",
+      "dificultad": "intermedia",
+      "pregunta": "Se otorgan 500 opciones cuyo ejercicio inicial de $50 se ajusta por la variación de un índice sectorial. Al vencimiento el índice subió 20% y la acción vale $65. ¿Cuál es el pago total del contrato indexado?",
+      "opciones": [
+        "$5.000.",
+        "$0.",
+        "$2.500.",
+        "$7.500."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 5.000 resultan de multiplicar la suba de 10 del ejercicio por 500. Esa suba modifica el umbral, pero no es el pago. El beneficio depende de los 5 que separan el precio final de 65 del ejercicio ajustado de 60.",
+        "El contrato no exige que el índice caiga para pagar. Exige superar el precio de ejercicio ajustado. Como 65 es mayor que 60, el pago unitario es positivo.",
+        "El ejercicio ajustado es 50 × 1,20 = 60. Cada opción paga máximo(65 − 60; 0) = 5. Las 500 opciones pagan 2.500, premiando la diferencia frente al umbral sectorial.",
+        "Los 7.500 corresponden a mantener el ejercicio fijo en 50. El contrato exige ajustarlo por el índice, elevándolo a 60. Omitir el ajuste remunera también una parte de la suba general del sector."
+      ]
+    },
+    {
+      "id": "c13-q037",
+      "tema": "Rendimiento económico de una acción",
+      "dificultad": "basica",
+      "pregunta": "Una acción comienza el año en $80, paga un dividendo de $4 y termina en $84. Sin reinversión del dividendo, ¿cuál es el rendimiento anual?",
+      "opciones": [
+        "10%.",
+        "5%.",
+        "15%.",
+        "105%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El efectivo cobrado es 4 y la ganancia de precio también es 4. La utilidad total es 8 sobre una inversión inicial de 80. El rendimiento es 8/80 = 10%.",
+        "El 5% considera solo la suba del precio o solo el dividendo. Ambos forman parte del retorno del accionista. Al sumarlos, el rendimiento total es 10%.",
+        "Este resultado agrega una ganancia adicional que no existe en los datos. La suba de cotización ya es 84 − 80 = 4. Con dividendo de 4, el numerador correcto es 8 y no 12.",
+        "El 105% se obtiene comparando el precio final completo con el inicial. Esa razón incluye recuperación del capital y omite el dividendo. El retorno debe medir la ganancia de precio más efectivo, no tratar el precio final como utilidad íntegra."
+      ]
+    },
+    {
+      "id": "c13-q038",
+      "tema": "Depreciación y utilidad económicas",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo vale $500 al inicio y $460 al final, inmediatamente después de generar $90 de efectivo. No hay aportes adicionales. ¿Cuáles son su depreciación económica, utilidad económica y rendimiento?",
+      "opciones": [
+        "$40; $90; 18%.",
+        "−$40; $130; 26%.",
+        "$50; $40; 8%.",
+        "$40; $50; 10%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 90 son flujo de efectivo, no utilidad económica completa. Hay que descontar la pérdida de valor de 40. Ignorarla sobrestima tanto la utilidad como el rendimiento.",
+        "El valor disminuyó y por eso la depreciación es positiva. Usar −40 convierte una pérdida patrimonial en ganancia. La utilidad es 50 y no 130.",
+        "Esta alternativa intercambia depreciación y utilidad. La depreciación se obtiene de comparar valores, no como residuo arbitrario del flujo. Con una caída de 40, la utilidad residual del cobro es 50.",
+        "La caída de valor es 500 − 460 = 40. La utilidad económica es 90 − 40 = 50 porque parte del cobro compensa consumo del activo. El rendimiento es 50/500 = 10%."
+      ]
+    },
+    {
+      "id": "c13-q039",
+      "tema": "Depreciación económica negativa",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto no genera efectivo este año, pero el valor presente de sus flujos remanentes pasa de $200 a $220. Sin nuevos aportes, ¿qué depreciación y utilidad económicas registra?",
+      "opciones": [
+        "Depreciación de −$220 y utilidad de $220.",
+        "Depreciación de −$20 y utilidad de $20.",
+        "Depreciación de $20 y utilidad de −$20.",
+        "Ambas iguales a cero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El cambio de valor es 220 − 200 y no todo el valor final. Tratar el saldo completo como apreciación olvida el capital que ya existía. La ganancia económica es solo 20.",
+        "El valor del activo aumenta en 20. Como depreciación es valor inicial menos valor final, resulta −20. La utilidad es 0 − (−20) = 20, aun sin cobro corriente.",
+        "Esta respuesta usa el signo propio de una pérdida de valor. Aquí hubo apreciación, por lo que la depreciación es negativa. La ganancia patrimonial integra una utilidad económica positiva.",
+        "No cobrar efectivo no significa ausencia de resultado económico. El dueño conserva un activo más valioso. La variación de 20 debe incorporarse a la utilidad del periodo."
+      ]
+    },
+    {
+      "id": "c13-q040",
+      "tema": "Proyecto sin flujo inicial y VPN cero",
+      "dificultad": "avanzada",
+      "pregunta": "Se invierten $100 hoy; no hay cobro al final del año 1 y se cobran $121 al final del año 2, sin valor residual. Con r = 10%, ¿cuáles son el valor al final del año 1 y la utilidad económica del año 1?",
+      "opciones": [
+        "$110 y −$10.",
+        "$110 y $10.",
+        "$121 y $21.",
+        "$100 y $0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El valor de 110 es correcto, pero implica una ganancia respecto de 100. La depreciación es −10 y la utilidad es positiva. Confundir depreciación negativa con pérdida invierte el resultado.",
+        "El VPN inicial es −100 + 121/1,10² = 0. Al final del año 1 falta un año para cobrar, de modo que el valor es 121/1,10 = 110. La utilidad del primer año es 0 + 110 − 100 = 10, con depreciación económica negativa de 10.",
+        "Los 121 se cobran un año después del momento de valuación solicitado. Deben descontarse un periodo para medir el valor al final del año 1. Usar el cobro futuro sin descuento sobrestima el valor y la utilidad del periodo.",
+        "El valor no tiene que permanecer igual solo porque no hubo cobro. El acercamiento de un pago futuro aumenta su valor presente si todo lo demás permanece igual. La utilidad del año 1 es esa apreciación de 10."
+      ]
+    },
+    {
+      "id": "c13-q041",
+      "tema": "Arranque y depreciación lineal",
+      "dificultad": "intermedia",
+      "pregunta": "Una instalación cuesta $120, dura tres años y no tiene rescate. Se deprecia linealmente y genera $24 de flujo neto operativo el primer año; para este ejercicio la utilidad es flujo menos depreciación y no hay otros ajustes. Con r = 10% sobre el capital inicial, ¿cuáles son ROI y EVA contables del año 1?",
+      "opciones": [
+        "20% y $12.",
+        "−13,33% y −$16.",
+        "−20% y −$36.",
+        "−13,33% y −$28."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 20% trata el flujo de 24 como si fuera utilidad. Debe restarse la depreciación de 40 antes de calcular ROI y EVA. La recuperación de una parte de la inversión no es íntegramente ganancia.",
+        "El ROI es correcto, pero −16 es utilidad contable y no EVA. Falta restar 10% de 120 = 12 por el uso del capital. El resultado residual es −28.",
+        "Esta alternativa trata el flujo positivo como una pérdida y omite el cálculo de depreciación. La utilidad correcta es 24 − 40 = −16. Sobre 120 da −13,33%, y después del cargo da −28.",
+        "La depreciación anual es 120/3 = 40 y la utilidad es 24 − 40 = −16. El ROI es −16/120 = −13,33% aproximadamente. El EVA resta además 12 de cargo de capital y resulta −28."
+      ]
+    },
+    {
+      "id": "c13-q042",
+      "tema": "Capital inicial versus final",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo costó $120 y se deprecia $40 anuales. En el segundo año genera flujo de $60, sin otros ajustes entre flujo y utilidad. Usando capital contable al inicio de cada año y r = 10%, ¿cuál es el ROI y EVA contables del año 2?",
+      "opciones": [
+        "16,67% y $8.",
+        "75% y $52.",
+        "25% y $12.",
+        "50% y $16."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta alternativa sigue usando el costo original de 120 como denominador. El activo ya tuvo un año de depreciación y su base inicial del año 2 es 80. Con esa base el ROI es 25% y el cargo es 8.",
+        "El 75% usa flujo de 60 en lugar de utilidad de 20. También por eso calcula un excedente de 52 en lugar de 12. La depreciación debe descontarse del flujo antes de medir estas magnitudes contables.",
+        "Al inicio del segundo año el valor contable es 120 − 40 = 80. La utilidad del año es 60 − 40 = 20, por lo que ROI = 20/80 = 25%. El EVA es 20 − 0,10 × 80 = 12.",
+        "El 50% surge de dividir 20 por el valor final de 40. La consigna exige capital inicial, que es 80. El cargo de capital también debe basarse en 80 y no en 40."
+      ]
+    },
+    {
+      "id": "c13-q043",
+      "tema": "ROI constante y TIR",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto requiere $300 en t = 0 y genera $130, $120 y $110 al cierre de los años 1, 2 y 3, sin rescate adicional. Con depreciación de $100 por año y sin otros ajustes, ¿qué afirmación es correcta?",
+      "opciones": [
+        "El ROI sobre capital inicial es 10% cada año y coincide con la TIR de 10%.",
+        "El ROI es 10%, 20% y 30%, y la TIR es 20%.",
+        "La TIR es 20% porque el excedente total sin descontar es $60.",
+        "El ROI es 10% anual, pero la TIR es cero por agotarse el activo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las utilidades son 30, 20 y 10 sobre capitales iniciales de 300, 200 y 100. Todos los cocientes dan 10%. Además, 130/1,10 + 120/1,10² + 110/1,10³ = 300, verificando una TIR de 10% y el resultado de ROI constante.",
+        "Las utilidades disminuyen junto con la base contable. El segundo cociente es 20/200 y el tercero 10/100, ambos de 10%. No corresponde mantener o cambiar arbitrariamente el numerador para producir tasas crecientes.",
+        "El excedente de caja total es 60, pero dividirlo por 300 ignora duración y fechas. La TIR resuelve una ecuación de valor presente, no una razón acumulada sin descuento. Al descontar los tres flujos a 10% se recuperan exactamente los 300.",
+        "Agotar el valor contable no implica que no haya rentabilidad. Los flujos incluyen recuperación del capital y ganancias durante la vida útil. El descuento a 10% demuestra que la TIR es positiva y coincide con el ROI constante."
+      ]
+    },
+    {
+      "id": "c13-q044",
+      "tema": "Avión: depreciación contable y económica",
+      "dificultad": "avanzada",
+      "pregunta": "Un avión cuesta $100 millones y se deprecia linealmente en diez años hasta un rescate contable de $20 millones. En el primer año genera $20 millones de flujo, sin otros ajustes de utilidad, y su valor de mercado final es $90 millones. ¿Cuáles son ROI contable y rendimiento económico del año 1?",
+      "opciones": [
+        "12% y 10%.",
+        "10% y 12%.",
+        "20% y 10%.",
+        "12% y 20%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La depreciación contable es (100 − 20)/10 = 8 millones y la utilidad contable es 20 − 8 = 12. La depreciación económica es 100 − 90 = 10 y la utilidad económica es 20 − 10 = 10. Al dividir cada utilidad por su base inicial de 100, resultan 12% y 10%.",
+        "Los rendimientos están intercambiados. El registro lineal reconoce una pérdida de valor de 8, menor que la caída económica de 10. Por eso la utilidad y el ROI contables son mayores en este año.",
+        "El 20% usa todo el efectivo como utilidad contable. Parte de ese flujo compensa la depreciación del avión. Al deducir 8, el ROI contable es 12%, mientras el económico sigue siendo 10%.",
+        "El rendimiento económico no es simplemente el flujo dividido por el precio inicial. Debe incluir la caída de valor de mercado de 10 millones. Esa pérdida reduce la utilidad económica a 10 y su tasa a 10%."
+      ]
+    },
+    {
+      "id": "c13-q045",
+      "tema": "Decisión cuantitativa de monitoreo",
+      "dificultad": "intermedia",
+      "pregunta": "Un control cuesta $6 millones y evita pérdidas de agencia esperadas por $10 millones. Ampliarlo cuesta otros $5 millones y evita otros $3 millones. Sin otros efectos, ¿qué conviene?",
+      "opciones": [
+        "No implementar nada, porque el control inicial no elimina todas las pérdidas.",
+        "Implementar solo la ampliación y prescindir del control del que depende.",
+        "Implementar solo el control inicial, con beneficio neto esperado de $4 millones.",
+        "Implementar ambos, porque siempre queda algún beneficio bruto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No hace falta eliminar todo el conflicto para que un control sea conveniente. El primer nivel evita pérdidas mayores que su costo. Rechazarlo por ser imperfecto renuncia a un beneficio esperado de 4 millones.",
+        "La ampliación se presenta como un nivel adicional y depende del control inicial. Además, su beneficio incremental de 3 es menor a su costo de 5. No hay fundamento económico para elegirla aisladamente.",
+        "El control inicial agrega 10 − 6 = 4 millones. La ampliación agrega 3 − 5 = −2 millones. Conviene detenerse en el primer nivel porque la mejora marginal posterior no cubre su costo.",
+        "Los beneficios brutos no son suficientes para justificar un gasto. El paquete completo evita 13 y cuesta 11, dejando 2 millones frente a 4 del control inicial. Añadir la ampliación reduce el valor neto esperado."
+      ]
+    },
+    {
+      "id": "c13-q046",
+      "tema": "Sesgo agregado en estado estable",
+      "dificultad": "avanzada",
+      "pregunta": "Cada tienda cuesta $100 y dura dos años; genera $40 en el año 1 y $77 en el año 2, sin rescate. Se abre una tienda idéntica por año y cada una se deprecia $50 anuales. Sin otros ajustes, con una tienda de cada edad y bases al inicio del año, ¿qué ROI contable agregado se obtiene frente a una rentabilidad económica de 10%?",
+      "opciones": [
+        "5,67%, porque debe dividirse por $300.",
+        "11,33% aproximadamente, por encima de 10%.",
+        "10%, porque mezclar edades siempre elimina sesgos.",
+        "17%, porque debe dividirse por $100."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los costos históricos de las dos tiendas tampoco suman 300. La consigna usa valores netos iniciales y no suma inversiones de periodos inexistentes. La base pertinente es 150 y la tasa es 17/150.",
+        "La tienda joven produce utilidad 40 − 50 = −10 y la vieja 77 − 50 = 27. La utilidad agregada es 17 sobre valores iniciales de 100 + 50 = 150, dando 11,33%. Cada proyecto tiene VPN cero al 10% porque 40/1,10 + 77/1,10² = 100, de modo que la mezcla estable no elimina el sesgo.",
+        "La combinación de edades estabiliza las cifras, pero no garantiza exactitud económica. En este caso la utilidad es 17 y el capital contable inicial es 150. La tasa estable queda por encima de la rentabilidad verdadera.",
+        "La utilidad agregada de 17 es correcta, pero no toda la base es 100. La tienda vieja conserva valor contable de 50 al inicio de su segundo año. Debe sumarse al valor de 100 de la nueva."
+      ]
+    },
+    {
+      "id": "c13-q047",
+      "tema": "Sobrecarga comercial y capital",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente obtiene bonos por crecimiento trimestral de utilidades. Para alcanzarlos ofrece descuentos de fin de trimestre, acumula inventarios y exige horas extras. ¿Qué cambio aborda mejor el incentivo a consumir capital sin medir su costo?",
+      "opciones": [
+        "Premiar solo el volumen vendido, sin mirar inventarios.",
+        "Excluir los almacenes del capital empleado porque no generan ventas por sí mismos.",
+        "Mantener el bono actual y suponer que toda venta adicional crea valor.",
+        "Incorporar utilidad residual con un cargo por inventarios y demás capital operativo, revisando también sus datos contables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El volumen no refleja descuentos, costos adicionales ni capital comprometido. Premiarlo aisladamente puede intensificar el comportamiento señalado. La evaluación debe incorporar rentabilidad y uso de recursos.",
+        "Un almacén permite sostener operaciones aunque no facture directamente. Tener fondos invertidos en él implica un costo de oportunidad. Excluirlo del cargo favorece justamente el exceso de capacidad e inventarios.",
+        "Una venta puede aportar margen positivo y no cubrir sus costos adicionales y de capital. La utilidad trimestral tampoco resume las consecuencias futuras. Debe evaluarse el valor económico de la política comercial completa.",
+        "La expansión de ventas puede inmovilizar inventarios e instalaciones costosas. El EVA hace visible el rendimiento requerido por esos recursos y puede desalentar la sobrecarga comercial. Su utilidad depende de datos correctos y no elimina otros problemas del horizonte de evaluación."
+      ]
+    },
+    {
+      "id": "c13-q048",
+      "tema": "Delegación y responsabilidad por EVA",
+      "dificultad": "intermedia",
+      "pregunta": "La dirección quiere bonificar a un gerente por EVA, pero decide centralmente todos sus inventarios, activos y precios internos. ¿Qué revisión del diseño es prioritaria?",
+      "opciones": [
+        "Alinear la responsabilidad con decisiones que pueda influir y darle autoridad acorde con la evaluación.",
+        "Exigirle el mismo EVA sin revisar su falta de control.",
+        "Eliminar el cargo de capital de toda la empresa.",
+        "Medirlo por la cotización diaria para que deje de importar la planta."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un incentivo funciona mejor cuando quien lo recibe puede actuar sobre sus determinantes. Vincular pago y EVA suele requerir delegar decisiones y distinguir factores controlables. Sin esa coherencia, el indicador puede castigar restricciones impuestas desde arriba.",
+        "La exigencia no crea por sí sola capacidad de decisión. Penalizar resultados sobre los que no puede actuar agrega riesgo sin aportar igual incentivo. Debe revisarse la correspondencia entre autoridad y responsabilidad.",
+        "Eliminar el costo de capital haría invisible un recurso económicamente costoso. El problema no es que exista ese costo, sino atribuir al gerente decisiones que no controla. Conviene ajustar responsabilidades y evaluación.",
+        "La cotización total puede depender todavía menos de sus acciones. Cambiar de indicador sin revisar controlabilidad no resuelve el conflicto. La medida debe acercarse a su contribución efectiva."
+      ]
+    },
+    {
+      "id": "c13-q049",
+      "tema": "EVA y factores externos",
+      "dificultad": "intermedia",
+      "pregunta": "Una recesión reduce el EVA de una división, aunque su gerente mejora procesos y pierde menos ventas que competidores comparables. ¿Cuál es la evaluación más razonable?",
+      "opciones": [
+        "Premiar solo por horas trabajadas, ya que eso mide exactamente el aporte.",
+        "Investigar la contribución gerencial y factores externos antes de atribuir todo el bajo EVA a mala gestión.",
+        "Concluir automáticamente que el gerente destruyó valor por falta de esfuerzo.",
+        "Descartar el EVA porque cualquier factor externo lo vuelve inútil."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las horas son observables, pero no revelan si se tomaron buenas decisiones. Un gerente puede trabajar mucho en actividades de escaso valor. Medir esfuerzo real y aporte exige más que controlar presencia.",
+        "El EVA puede variar por la gestión y por condiciones que el gerente no controla. Comparaciones apropiadas y análisis de decisiones ayudan a separar esos efectos. El bajo valor observado es información relevante, pero no una prueba suficiente de mala administración.",
+        "El resultado absoluto mezcla desempeño y entorno. Un gerente puede mitigar un shock sin impedir por completo una caída. Atribuirle todo el deterioro confunde resultado final con contribución individual.",
+        "La presencia de ruido no hace inútil una medida. Obliga a usarla con contexto y otras evidencias. El cargo de capital sigue aportando información sobre los recursos utilizados."
+      ]
+    },
+    {
+      "id": "c13-q050",
+      "tema": "Investigación, intangibles y arranque",
+      "dificultad": "avanzada",
+      "pregunta": "Un programa farmacéutico registra años de pérdidas porque la investigación se contabiliza como gasto, pero los flujos esperados tras la aprobación justifican un VPN positivo. ¿Qué conclusión es correcta?",
+      "opciones": [
+        "Capitalizar cualquier gasto de investigación garantiza éxito comercial.",
+        "Debe eliminarse la investigación del análisis porque no produce caja inmediata.",
+        "Las pérdidas iniciales pueden representar inversión económica y el EVA sin ajustes puede castigar un proyecto valioso.",
+        "Las pérdidas contables prueban que el proyecto tiene VPN negativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cambiar el registro no cambia la probabilidad de aprobación ni la demanda futura. La capitalización requiere criterios razonables y no reemplaza el análisis de riesgo. Un activo contable reconocido también puede resultar fallido.",
+        "No cobrar inmediatamente no implica ausencia de valor. Muchos proyectos requieren desembolsos antes de producir beneficios. Excluirlos impediría identificar inversiones cuyo valor proviene de flujos lejanos.",
+        "La investigación puede generar beneficios durante muchos años aunque contablemente se reconozca como gasto corriente. Ese tratamiento reduce utilidad y puede omitir capital intangible acumulado. La decisión exige valorar flujos y riesgo, ajustando la medición sin suponer que toda investigación será exitosa.",
+        "El VPN considera todos los flujos relevantes, no solo la utilidad del periodo inicial. Un arranque costoso puede compensarse con beneficios futuros suficientemente grandes. La pérdida contable no determina por sí sola el signo del VPN."
+      ]
+    },
+    {
+      "id": "c13-q051",
+      "tema": "Horizonte de evaluación e inversión",
+      "dificultad": "avanzada",
+      "pregunta": "Una nueva tienda tiene VPN positivo, pero sus primeros años muestran bajo ROI y EVA contables por maduración lenta y depreciación lineal. Un gerente propone rechazarla para preservar su bono anual. ¿Qué respuesta es más adecuada?",
+      "opciones": [
+        "Elegir siempre una alternativa de recupero más corto, aunque tenga menor VPN.",
+        "Aprobarla y declarar que los resultados contables nunca sirven para evaluar nada.",
+        "Evaluar el proyecto por flujos descontados y adaptar la medición del desempeño a su patrón económico esperado.",
+        "Rechazarla porque cualquier EVA inicial negativo implica VPN negativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El recupero rápido puede mejorar cifras inmediatas sin maximizar riqueza. La comparación debe considerar flujos posteriores y su descuento. Preferir siempre plazo corto puede sacrificar proyectos con mayor VPN.",
+        "Las cifras contables aportan información verificable y sirven para seguimiento. El problema es interpretarlas sin reconocer sesgos y horizontes. Corregir su uso no exige descartarlas completamente.",
+        "El bajo resultado inicial puede surgir de reconocer costos antes de alcanzar flujos maduros. El criterio de inversión sigue siendo el VPN con supuestos y riesgos adecuados. El incentivo debe evitar que el gerente gane rechazando oportunidades valiosas, por ejemplo usando un patrón de depreciación más coherente.",
+        "Un indicador anual no resume toda la vida del proyecto. La depreciación contable puede distribuir resultados de forma diferente del consumo económico de valor. No puede inferirse VPN negativo solo por una pérdida residual temprana."
+      ]
+    },
+    {
+      "id": "c13-q052",
+      "tema": "Crecimiento y sesgo estable",
+      "dificultad": "avanzada",
+      "pregunta": "Dos cadenas invierten en réplicas de una misma tienda cuya rentabilidad verdadera es 10%, con baja utilidad contable al comienzo y alta al final. Una no crece y otra aumenta su inversión anual a una tasa compuesta estable de 10%. Bajo las condiciones del modelo, ¿qué se espera?",
+      "opciones": [
+        "El ROI agregado debe igualar la TIR solo cuando no hay crecimiento.",
+        "El crecimiento igual a la rentabilidad verdadera elimina el sesgo del ROI agregado estable; el crecimiento nulo no lo garantiza.",
+        "La mezcla de edades elimina siempre el sesgo en ambas.",
+        "La cadena que crece más tiene necesariamente menor rentabilidad económica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El crecimiento cero no es la condición general de coincidencia. Bajo el modelo, debe igualarse crecimiento y rendimiento verdadero. Una cadena sin crecimiento puede sostener indefinidamente un sesgo contable.",
+        "La composición por edades depende de cuánto se invierte en cada generación de tiendas. En el estado estable del modelo, el sesgo desaparece cuando la inversión crece a la tasa verdadera de rendimiento. Mantener una mezcla estable sin crecimiento puede dejar un ROI contable superior al económico.",
+        "Una mezcla constante estabiliza el indicador, pero no asegura que sea correcto. El peso relativo de proyectos jóvenes y maduros todavía importa. La igualdad entre crecimiento y rendimiento es la condición especial señalada.",
+        "Los proyectos son réplicas con la misma rentabilidad verdadera. Cambiar su peso por edades puede modificar el ROI informado sin cambiar esa rentabilidad. Confundir composición contable con deterioro económico atribuye a la gestión una diferencia de medición."
+      ]
+    },
+    {
+      "id": "c13-q053",
+      "tema": "Patrones de flujo y dirección del sesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa de transporte analiza activos con fuertes cobros iniciales y caída rápida del valor económico, distintos de una tienda de maduración lenta. ¿Cómo debería interpretar el ROI contable bajo depreciación lineal?",
+      "opciones": [
+        "Debe asumir que todo activo joven tiene necesariamente ROI contable inferior al económico.",
+        "Debe asumir que cualquier activo viejo tiene necesariamente ROI contable superior al económico.",
+        "Debe sumar los ROI anuales y dividir por años para obtener siempre la TIR exacta.",
+        "Debe comparar depreciación económica y contable; el sesgo no tiene una dirección universal para todos los activos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La subestimación inicial es típica de ciertos proyectos, pero no una ley independiente de los flujos. Si la depreciación económica inicial supera la contable, el resultado puede invertirse. Hay que analizar el activo concreto.",
+        "La edad por sí sola no identifica el error de medición. Importan base contable, valor económico y flujo de cada periodo. Un patrón de depreciación diferente puede cambiar la dirección del sesgo tardío.",
+        "La TIR no es en general un promedio aritmético de ROI anuales. Su vínculo usa ponderaciones relacionadas con valores contables descontados a la propia TIR. Solo en condiciones especiales, como un ROI constante durante toda la vida, coinciden directamente.",
+        "El signo del sesgo depende de cómo el registro distribuye la pérdida de valor frente al patrón económico. Una caída económica rápida puede superar la depreciación lineal al comienzo y elevar artificialmente la utilidad contable inicial. Por eso no corresponde universalizar el patrón de proyectos de maduración lenta."
+      ]
+    },
+    {
+      "id": "c13-q054",
+      "tema": "Comparaciones sectoriales",
+      "dificultad": "intermedia",
+      "pregunta": "No es viable eliminar todos los sesgos de una división. La dirección propone comparar su ROI contable con empresas exitosas del mismo sector. ¿Qué debe verificar?",
+      "opciones": [
+        "Que usen procedimientos y bases comparables y que el desempeño de referencia sea compatible con cubrir el costo de capital.",
+        "Que cualquier empresa con ganancias positivas ya sea una referencia económica suficiente.",
+        "Que coincida solo el nombre del sector, aunque cambien edades y políticas contables.",
+        "Que el promedio sectorial sea necesariamente igual al costo de capital."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La comparación intenta usar una referencia que contenga sesgos semejantes. Supone prácticas contables comparables y empresas de referencia económicamente exitosas, con atención a diferencias de composición. Es una aproximación práctica, no una eliminación automática de los sesgos.",
+        "Una utilidad positiva no demuestra que se cubra la remuneración del capital. Una referencia que destruye valor puede volver aceptable un mal desempeño. Se necesita un criterio económico adicional.",
+        "Compartir sector no asegura iguales registros o mezcla de activos. Diferencias en depreciación y madurez pueden modificar ROI sin reflejar diferencias reales. La comparación debe revisar esas bases.",
+        "El promedio observado puede incluir rentas, malas decisiones y sesgos. No es una identidad teórica con el costo de oportunidad. Tomarlo como igualdad garantizada evita precisamente la verificación necesaria."
+      ]
+    },
+    {
+      "id": "c13-q055",
+      "tema": "Continuar o abandonar",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta rindió menos de lo esperado y su EVA contable es bajo. Sus activos tienen escaso valor de venta y continuar genera más valor presente neto de costos futuros que abandonarla. ¿Qué decisión corresponde?",
+      "opciones": [
+        "Ignorar los costos futuros porque la planta ya está construida.",
+        "Continuar, aunque la inversión original haya resultado decepcionante.",
+        "Abandonar automáticamente porque el rendimiento pasado fue insuficiente.",
+        "Continuar solo para recuperar por obligación todo el costo histórico."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La construcción pasada no vuelve gratuitos los costos de operar. Mantenimiento, insumos y nuevas inversiones futuras deben incluirse. Solo los costos ya irrecuperables se excluyen de la comparación incremental.",
+        "La decisión actual compara beneficios y costos futuros de continuar con las alternativas disponibles. Un mal resultado histórico no hace conveniente una venta de escaso valor. El costo hundido no debe forzar ni impedir la continuidad.",
+        "Una mala inversión inicial y una mala decisión de continuidad son cosas diferentes. Abandonar puede destruir más valor si las alternativas actuales son peores. Deben compararse opciones desde hoy y no castigar retrospectivamente el pasado.",
+        "El deseo de recuperar el costo histórico no es un criterio económico válido. Ese costo no cambia por la decisión actual. Continuar se justifica por superar alternativas futuras, no por una obligación de recuperar lo ya gastado."
+      ]
+    },
+    {
+      "id": "c13-q056",
+      "tema": "Venta de una unidad rentable",
+      "dificultad": "intermedia",
+      "pregunta": "Una división muestra alto ROI y EVA contables, pero un comprador ofrece un precio neto superior al valor presente de continuar, considerando también efectos sobre otras unidades. ¿Qué debería evaluar la dirección?",
+      "opciones": [
+        "Rechazar cualquier venta de una división con ganancias.",
+        "Vender solo si el precio supera las ventas anuales, sin descontar flujos.",
+        "Mantenerla porque el EVA contable vuelve irrelevante la oferta.",
+        "La venta, porque una operación rentable puede valer más en un uso alternativo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Tener ganancias no implica que conservar sea la opción más valiosa. Un tercero puede utilizar los activos mejor o estar dispuesto a pagar más por ellos. La comparación debe ser entre valores alternativos y no entre ganancia y pérdida contables.",
+        "Las ventas anuales no son el valor de la división. Faltan costos, inversiones, riesgos y flujos de años futuros. El precio debe compararse con un valor presente consistente.",
+        "El EVA puede servir como señal de desempeño, pero no sustituye valorar alternativas. Una oferta cambia el costo de oportunidad de conservar la división. Ignorarla puede hacer perder una oportunidad de mayor valor.",
+        "La rentabilidad contable histórica no determina la mejor alternativa actual. Si la oferta supera el valor de continuar después de todos los efectos relevantes, vender crea más valor. Una unidad puede ser buena operativamente y aun así convenir transferirla."
+      ]
+    },
+    {
+      "id": "c13-q057",
+      "tema": "Gestión real de utilidades",
+      "dificultad": "intermedia",
+      "pregunta": "Para alcanzar la meta anual de utilidades por acción, un director difiere un proyecto con VPN positivo y recorta mantenimiento que habría sido económicamente conveniente. No falsea registros. ¿Cómo se interpreta?",
+      "opciones": [
+        "Es gestión de utilidades mediante decisiones reales que puede sacrificar valor aun con registros contables correctos.",
+        "No puede destruir valor porque no hubo fraude contable.",
+        "Es necesariamente conveniente porque mejora la utilidad del periodo.",
+        "Demuestra que todo gasto de mantenimiento debe eliminarse."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El calendario de operaciones e inversiones modifica la utilidad informada. Posponer beneficios netos o recortar gastos valiosos puede reducir el patrimonio aunque los registros sean fieles. El conflicto no se limita a alterar asientos o incumplir normas.",
+        "La fidelidad de la información y la calidad económica de la decisión son dimensiones distintas. Se puede registrar correctamente una decisión mala. Aquí el sacrificio proviene de cambiar actividades para cumplir una cifra.",
+        "La mejora inmediata no incorpora todas las consecuencias futuras. El mantenimiento puede evitar costos posteriores y el proyecto puede aportar valor desde antes. El criterio debe ser el VPN y no la utilidad de un solo ejercicio.",
+        "Que recortar mantenimiento suba la utilidad actual no significa que sea conveniente. Hay que comparar el ahorro con sus efectos sobre fallas, productividad y vida útil. La decisión descripta recorta precisamente un gasto que valía la pena realizar."
+      ]
+    },
+    {
+      "id": "c13-q058",
+      "tema": "Metas y señalización de problemas",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa queda apenas por debajo del pronóstico de utilidades y su acción cae mucho. ¿Qué interpretación corresponde a la lógica de señalización presentada en el capítulo?",
+      "opciones": [
+        "Los inversores solo valoran el resultado corriente y nunca los flujos futuros.",
+        "La caída demuestra por sí sola que los estados son fraudulentos.",
+        "El pequeño incumplimiento puede interpretarse como indicio de problemas mayores no observados.",
+        "Cada centavo faltante destruye mecánicamente el mismo porcentaje de valor en todas las empresas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Precisamente una caída grande puede reflejar cambios en flujos futuros esperados. El dato corriente funciona como señal de dificultades más amplias. No demuestra que el mercado ignore el largo plazo.",
+        "Un incumplimiento puede deberse a muchas causas legítimas. No prueba falsedad contable ni permite atribuir fraude sin evidencia. La señal se refiere a posibles dificultades económicas subyacentes.",
+        "Si se espera que una empresa sana pueda cumplir o superar levemente las metas, fallar puede transmitir información negativa adicional. El mercado puede revisar más ampliamente las perspectivas futuras. La reacción no necesita equivaler al valor aislado del pequeño desvío corriente.",
+        "No existe una regla universal que convierta centavos de utilidad en un porcentaje fijo de cotización. La reacción depende de qué información nueva se infiera. Lo relevante es la revisión de expectativas, no una penalidad mecánica."
+      ]
+    },
+    {
+      "id": "c13-q059",
+      "tema": "Mercado, crecimiento y horizonte",
+      "dificultad": "avanzada",
+      "pregunta": "Un director sostiene que el mercado siempre ignora el largo plazo, pero observa empresas de crecimiento con relaciones precio-utilidad muy superiores a 1/r del capital propio. ¿Qué objeción es más sólida?",
+      "opciones": [
+        "Toda relación precio-utilidad alta demuestra fraude.",
+        "El precio-utilidad nunca depende de oportunidades de crecimiento.",
+        "La presión por metas trimestrales desaparece si existen empresas con alto precio-utilidad.",
+        "Esas valuaciones pueden reflejar oportunidades futuras valiosas, por lo que no prueban una miopía sistemática del mercado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una valuación alta puede responder a expectativas razonables o equivocadas, sin implicar fraude. Las oportunidades de crecimiento son una explicación económica posible. Se requiere información adicional para juzgar una irregularidad.",
+        "Las inversiones futuras valiosas pueden elevar el precio respecto de la utilidad actual. Esa relación es central para interpretar empresas en crecimiento. Ignorarla confunde el resultado presente con todos los beneficios esperados.",
+        "La valoración de beneficios futuros puede coexistir con reacciones fuertes a incumplimientos de metas. Que el mercado no sea siempre miope no vuelve irrelevante la presión trimestral. Ambas fuerzas pueden operar simultáneamente.",
+        "En la referencia simplificada sin oportunidades valiosas de crecimiento, el precio-utilidad se vincula con 1/r del capital propio. Un valor superior puede reflejar inversiones futuras con VPN positivo. Esto cuestiona la idea de miopía universal, aunque no elimina presiones de corto plazo sobre ejecutivos."
+      ]
+    },
+    {
+      "id": "c13-q060",
+      "tema": "Cotización pública y gobierno corporativo",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa evalúa dejar de cotizar para reducir la presión de reportes frecuentes. ¿Cuál es el análisis más equilibrado?",
+      "opciones": [
+        "La supervisión externa solo tiene costos y nunca beneficios.",
+        "Puede aliviar presiones de corto plazo, pero debe considerar la pérdida de ciertos controles y otros costos de agencia.",
+        "Volverse privada elimina todos los problemas de agencia.",
+        "Reducir reportes garantiza que toda inversión futura tenga VPN positivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El seguimiento externo puede revelar problemas y limitar conductas oportunistas. Su costo no impide que produzca beneficios relevantes. El desafío es equilibrar disciplina con incentivos a crear valor de largo plazo.",
+        "Menor exposición a metas públicas puede facilitar decisiones de largo plazo. Pero analistas, inversores y otros mecanismos externos también disciplinan a la dirección. El cambio de estructura exige ponderar ambas consecuencias y no promete una solución perfecta.",
+        "En una empresa privada también puede haber separación entre propietarios y administradores. Persisten incentivos a esfuerzo insuficiente o beneficios personales. La forma de propiedad modifica los controles, pero no elimina automáticamente los conflictos.",
+        "La calidad de inversión sigue dependiendo de flujos, riesgos y decisiones. Una menor frecuencia informativa no vuelve rentable un proyecto malo. Puede reducir una presión, pero no sustituye el análisis financiero."
+      ]
+    },
+    {
+      "id": "c13-q061",
+      "tema": "Auditoría, independencia y confianza",
+      "dificultad": "intermedia",
+      "pregunta": "El consejo descubre que el auditor depende de honorarios de otros servicios prestados a la misma empresa. Además, una salvedad relevante podría afectar la confianza del mercado. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "Una salvedad demuestra necesariamente que toda la empresa carece de valor.",
+        "Una opinión limpia elimina el riesgo de errores y certifica cada inversión.",
+        "La independencia del auditor importa y una opinión sin salvedades no garantiza ausencia de todo problema económico o irregularidad.",
+        "Los honorarios adicionales garantizan una auditoría más independiente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una salvedad puede revelar un problema importante y afectar confianza. No permite inferir automáticamente que todos los activos valen cero. Hay que evaluar su alcance y efectos sobre flujos y credibilidad.",
+        "La opinión se refiere a los estados y al alcance del trabajo realizado. No es una garantía absoluta de detección ni un certificado del VPN de cada proyecto. Confundir esos alcances genera una confianza excesiva.",
+        "La dependencia económica puede debilitar la disposición a cuestionar a la dirección. Las restricciones históricas a ciertos servicios buscan reducir ese conflicto. La auditoría aporta credibilidad contable, pero sus conclusiones tienen alcance limitado y no garantizan perfección ni buenas inversiones.",
+        "Más honorarios pueden crear incentivos a conservar al cliente aun ante desacuerdos. No prueban independencia y deben analizarse según su naturaleza. El control delegado también tiene sus propios problemas de agencia."
+      ]
+    },
+    {
+      "id": "c13-q062",
+      "tema": "Opciones, información y renegociación",
+      "dificultad": "avanzada",
+      "pregunta": "Un consejo vincula casi todo el pago del director con opciones y promete reemplazarlas por otras de ejercicio menor si la cotización cae. ¿Qué riesgo debe revisar?",
+      "opciones": [
+        "Puede debilitar la exposición a malos resultados y mantener incentivos a ocultar noticias o sostener artificialmente la cotización.",
+        "La reposición garantiza alineación perfecta porque elimina cualquier incertidumbre del ejecutivo.",
+        "Las opciones impiden por definición cualquier manipulación de información.",
+        "El pago basado en acciones vuelve innecesarios consejo y auditoría."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Reponer opciones tras una caída puede reducir el costo personal del mal desempeño y alterar el incentivo original. A la vez, una gran exposición a la cotización puede tentar a ocultar información o posponer inversiones que deprimen ganancias inmediatas. Deben revisarse conjuntamente contrato, información y supervisión.",
+        "Eliminar consecuencias negativas no garantiza decisiones alineadas. Puede convertir una recompensa contingente en una protección frente a pérdidas de valor. Además, no separa resultados gerenciales de shocks externos.",
+        "El precio accionario depende de información disponible y expectativas. Un ejecutivo puede intentar influir en esas expectativas ocultando malas noticias o cambiando decisiones reales. Las opciones no hacen imposible ese comportamiento.",
+        "Los incentivos accionarios son una herramienta, no un reemplazo completo del control. Persisten riesgos de información, expectativas y desempeño ajeno al gerente. Consejo y auditoría siguen cumpliendo funciones complementarias."
+      ]
+    }
+  ]
+}

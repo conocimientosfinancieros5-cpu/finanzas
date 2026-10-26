@@ -1,0 +1,1336 @@
+{
+  "capitulo": 24,
+  "titulo": "Riesgo de crédito y valor de la deuda corporativa",
+  "preguntas": [
+    {
+      "id": "c24-q001",
+      "tema": "Rendimientos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué supuesto usa el rendimiento al vencimiento publicado de un bono corporativo?",
+      "opciones": [
+        "Que todos los pagos se reducen por la pérdida esperada.",
+        "Que solo importa el cupón dividido por el nominal.",
+        "Que se cumplen íntegramente los pagos contractuales.",
+        "Que la empresa nunca puede entrar en dificultades."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esto confunde rendimiento prometido con esperado. La tasa publicada usa flujos contractuales. Para obtener pagos esperados hacen falta probabilidades y recuperaciones.",
+        "Ese cociente es la tasa del cupón. Omite el precio de compra y la devolución del capital. El rendimiento al vencimiento incorpora todos los flujos prometidos y sus fechas.",
+        "La tasa se calcula con el precio y los pagos prometidos. No reemplaza esos pagos por recuperaciones esperadas. Por eso puede superar ampliamente al rendimiento esperado cuando existe riesgo de incumplimiento.",
+        "El cálculo no demuestra solvencia. Solo responde qué tasa se obtendría si se cumple el contrato. Una tasa muy alta puede ser señal de un precio deprimido por riesgo crediticio."
+      ]
+    },
+    {
+      "id": "c24-q002",
+      "tema": "Riesgo diversificable",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo corresponde descontar el pago esperado de un bono riesgoso a la tasa libre de riesgo?",
+      "opciones": [
+        "Cuando el riesgo es totalmente diversificable y no exige prima de mercado.",
+        "Cuando hay muchos acreedores.",
+        "Cuando se descuentan los pagos prometidos sin ajustes.",
+        "Siempre que el cupón sea bajo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Primero se calcula el pago esperado incluyendo la recuperación en incumplimiento. Si no existe riesgo sistemático, no hace falta agregar una prima por ese riesgo. La incertidumbre diversificable no obliga por sí sola a aumentar la tasa de descuento.",
+        "La cantidad de acreedores no elimina la covariación con el mercado. Una deuda repartida entre varios bancos puede seguir siendo muy cíclica. Importa la exposición económica del pago, no cuántas personas lo cobran.",
+        "Los pagos prometidos pueden no cobrarse. Usarlos sin ajustes a la tasa segura ignora la pérdida esperada. La condición del enunciado se refiere a pagos esperados con riesgo diversificable.",
+        "El cupón no determina la exposición al mercado. Un bono con cupón bajo puede tener riesgo sistemático elevado. La tasa debe corresponder al riesgo de los pagos esperados."
+      ]
+    },
+    {
+      "id": "c24-q003",
+      "tema": "Riesgo sistemático",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué el rendimiento esperado exigido a muchos bonos corporativos supera la tasa segura?",
+      "opciones": [
+        "Porque toda incertidumbre exige una prima aunque sea diversificable.",
+        "Porque el Estado garantiza los cupones corporativos.",
+        "Porque el rendimiento prometido es exclusivamente una prima de riesgo.",
+        "Porque los incumplimientos suelen aumentar en recesiones y generan riesgo de mercado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El riesgo diversificable no necesita recibir una prima sistemática. La pérdida esperada sí reduce el precio incluso sin esa prima. Son dos componentes distintos de la valuación.",
+        "La deuda corporativa ordinaria no tiene una garantía pública automática. Si la tuviera, cambiaría su exposición crediticia. La mayor rentabilidad requerida no se explica por esa garantía inexistente.",
+        "El prometido también incluye la tasa base y la compensación por pagos que podrían perderse. Puede incorporar liquidez e impuestos. No debe confundirse toda esa tasa con una prima sistemática.",
+        "Las pérdidas tienden a ocurrir cuando otros activos también tienen malos resultados. Esa exposición no desaparece por diversificar entre muchas empresas cíclicas. El inversor puede exigir una prima adicional por soportarla."
+      ]
+    },
+    {
+      "id": "c24-q004",
+      "tema": "Diferencial de rendimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se define el diferencial crediticio frente a un bono seguro comparable?",
+      "opciones": [
+        "Como el rendimiento esperado de las acciones del emisor.",
+        "Como el rendimiento prometido corporativo menos el rendimiento seguro de referencia.",
+        "Como la suma del cupón y la inflación.",
+        "Como la diferencia entre valores nominales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El capital y la deuda tienen derechos diferentes. La tasa de las acciones no define el diferencial del bono. La comparación solicitada es entre instrumentos de deuda.",
+        "Se comparan tasas de instrumentos con características relevantes semejantes. La diferencia se expresa en puntos porcentuales o puntos básicos. No es automáticamente la rentabilidad adicional que finalmente cobrará el inversor.",
+        "El cupón no resume la rentabilidad cuando el bono no cotiza a la par. Sumar inflación tampoco genera una comparación crediticia. Hace falta restar una tasa segura comparable.",
+        "Los nominales son montos contractuales. Dos títulos con igual nominal pueden tener tasas distintas. El diferencial compara rendimientos y no tamaños de emisión."
+      ]
+    },
+    {
+      "id": "c24-q005",
+      "tema": "Alto rendimiento y rescate",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué la rentabilidad realizada de una cartera de bonos de alto rendimiento puede quedar muy por debajo de la prometida?",
+      "opciones": [
+        "Porque el rendimiento prometido ya descuenta todos los incumplimientos.",
+        "Por incumplimientos y rescates anticipados de emisiones exitosas que interrumpen cupones altos.",
+        "Porque el rescate obliga a pagar todos los cupones hasta la fecha original.",
+        "Porque los cupones altos eliminan el riesgo de capital."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La promesa se calcula con pagos contractuales. Si se ajustaran los cobros por escenarios, se estaría analizando otra magnitud. Las pérdidas explican justamente parte de la distancia entre promesa y realización.",
+        "El rendimiento prometido supone continuidad de los pagos contractuales. El incumplimiento reduce lo cobrado y el rescate puede terminar antes una corriente atractiva. Por eso el diferencial inicial no asegura igual exceso de rentabilidad realizada.",
+        "El rescate extingue anticipadamente la obligación bajo condiciones contractuales. No garantiza cobrar todos los cupones que habrían existido sin rescate. La interrupción puede perjudicar al tenedor de deuda de cupón alto.",
+        "Un cupón elevado puede reflejar un emisor muy riesgoso. Tanto capital como intereses pueden quedar impagos. La tasa contractual no equivale a una garantía."
+      ]
+    },
+    {
+      "id": "c24-q006",
+      "tema": "Funcionamiento del CDS",
+      "dificultad": "basica",
+      "pregunta": "¿Qué recibe el comprador de protección mediante un CDS a cambio de pagar una prima?",
+      "opciones": [
+        "Todos los intereses de cualquier bono emitido por la empresa.",
+        "La obligación de garantizar personalmente la deuda del emisor.",
+        "El derecho a comprar acciones cuando sube su cotización.",
+        "Una compensación si ocurre el evento de incumplimiento cubierto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La protección tiene un alcance contractual específico. No entrega indiscriminadamente todos los cupones de todas las emisiones. Compensa una pérdida cubierta si ocurre el evento previsto.",
+        "Esto invierte los papeles. El comprador adquiere protección y el vendedor asume el riesgo cubierto. No se vuelve garante por comprar cobertura.",
+        "Eso describe otra clase de instrumento. Un CDS no es una call sobre las acciones. Su pago depende de un evento de crédito definido contractualmente.",
+        "El CDS transfiere la exposición crediticia definida por el contrato. El comprador paga una prima periódica y a veces un monto inicial. El vendedor asume el pago contingente por la pérdida cubierta."
+      ]
+    },
+    {
+      "id": "c24-q007",
+      "tema": "CDS y arbitraje",
+      "dificultad": "avanzada",
+      "pregunta": "Sin fricciones, con cobertura perfecta y vendedor solvente, ¿qué vincula el diferencial crediticio con la prima del CDS?",
+      "opciones": [
+        "La equivalencia entre un bono riesgoso protegido y un bono seguro comparable.",
+        "La obligación de que el CDS sea gratuito si el bono paga cupón.",
+        "La igualdad entre prima de CDS y cupón total.",
+        "La posibilidad permanente de ganar más sin riesgo ni costo adicional."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La protección elimina las pérdidas crediticias del bono bajo los supuestos dados. Dos estrategias con iguales pagos deben tener costos consistentes por la ley de un solo precio. El ingreso adicional del bono se utiliza en pagar la cobertura.",
+        "El cupón pertenece al tenedor del bono. El vendedor del CDS asume un riesgo y exige remuneración. Tener ingresos por cupón no vuelve gratuita esa cobertura.",
+        "El cupón incluye la remuneración base por el uso del dinero. El CDS cubre un componente de riesgo específico. Igualar la prima al cupón total omite la tasa segura que integra el rendimiento.",
+        "Una diferencia así permitiría arbitraje en el modelo. Los precios deberían ajustarse hasta eliminarla. La cobertura tiene precisamente un costo que consume el diferencial correspondiente."
+      ]
+    },
+    {
+      "id": "c24-q008",
+      "tema": "Bonos flotantes",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué un bono flotante sin riesgo de incumplimiento suele valer cerca de la par en las fechas de reajuste?",
+      "opciones": [
+        "Porque no paga impuestos ni costos de negociación.",
+        "Porque nunca devuelve el principal.",
+        "Porque el cupón se actualiza con la tasa de referencia.",
+        "Porque su cupón queda fijo para siempre."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tasa variable no concede esas exenciones. Los impuestos y costos pueden seguir afectando su precio. La explicación básica es la adaptación de intereses a la referencia.",
+        "Un flotante puede tener vencimiento y amortización. El reajuste del cupón explica su comportamiento cerca de la par. No hace falta eliminar el reembolso del capital.",
+        "El reajuste adapta el pago de intereses a las condiciones del mercado. Así se reduce la diferencia entre la rentabilidad contractual y la requerida. Bajo condiciones comparables, el precio tiende a mantenerse cerca del nominal al reajustarse.",
+        "Un flotante se caracteriza por actualizar el cupón. Si fuera fijo, los cambios de tasas podrían alejar su precio de la par. Esta opción invierte el mecanismo relevante."
+      ]
+    },
+    {
+      "id": "c24-q009",
+      "tema": "Responsabilidad limitada",
+      "dificultad": "basica",
+      "pregunta": "En el modelo simple, ¿qué derecho económico tienen los accionistas cuando los activos no alcanzan para pagar la deuda al vencimiento?",
+      "opciones": [
+        "Conservar todos los activos y cancelar la deuda gratuitamente.",
+        "Cobrar antes que los bonistas.",
+        "Exigir que el Estado pague el faltante.",
+        "Entregar los activos a los acreedores sin cubrir automáticamente el faltante con patrimonio personal."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El incumplimiento implica ceder los activos a los acreedores en el modelo. No autoriza a conservarlos sin reconocer su prioridad. Esta opción confunde límite de responsabilidad con apropiación sin compensación.",
+        "El capital tiene un derecho residual. Los acreedores cobran primero con los activos disponibles. La responsabilidad limitada establece un piso de cero, no una prioridad del accionista.",
+        "No existe una garantía pública automática. Los acreedores pueden recuperar menos de lo prometido. Una garantía estatal requiere un compromiso separado.",
+        "Los accionistas pueden perder toda su inversión. La responsabilidad limitada impide que el pago residual de las acciones sea negativo en el modelo. Los acreedores anticipan ese derecho al fijar el precio de la deuda."
+      ]
+    },
+    {
+      "id": "c24-q010",
+      "tema": "Capital como call",
+      "dificultad": "basica",
+      "pregunta": "Si V es el valor de los activos al vencimiento y F el único pago de deuda, ¿cuánto reciben los accionistas?",
+      "opciones": [
+        "F en cualquier escenario.",
+        "Mínimo entre V y F.",
+        "Máximo entre V − F y cero.",
+        "V − F, aunque sea negativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "F corresponde a la promesa a los acreedores. Las acciones no ofrecen ese pago fijo. Su resultado depende del valor residual de los activos.",
+        "Ese es el pago a los acreedores en el modelo simple. El capital no tiene un cobro limitado al nominal de la deuda. Su derecho es el excedente después de cancelar F.",
+        "El capital cobra lo que queda después de pagar la deuda. Si no hay excedente, no recibe nada. El perfil coincide con una call sobre los activos con precio de ejercicio F.",
+        "Un pago negativo exigiría un aporte adicional obligatorio. Eso contradice la responsabilidad limitada supuesta. Hay que aplicar un piso de cero al residual."
+      ]
+    },
+    {
+      "id": "c24-q011",
+      "tema": "Deuda y put de incumplimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Sin costos de quiebra y con una única deuda de cupón cero, ¿qué identidad es correcta?",
+      "opciones": [
+        "Deuda riesgosa = valor del pago seguro + valor de la put.",
+        "Deuda riesgosa = valor del pago seguro − valor de la put de incumplimiento.",
+        "Deuda riesgosa = activos + capital.",
+        "Deuda riesgosa = nominal − cupón anual."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La opción de incumplimiento perjudica al acreedor frente al pago seguro. Sumarla haría aumentar el valor de la deuda por poder no pagarse. El signo correcto es negativo.",
+        "La put permite a los accionistas entregar activos que valen menos que la deuda. Ese derecho reduce lo que vale la promesa para el acreedor. Por eso se resta del valor que tendría el mismo pago si fuera seguro.",
+        "Los activos respaldan en conjunto a deuda y capital. Sumar el capital cuenta dos veces parte del valor. La deuda es el valor de activos menos el del capital.",
+        "Esa resta ignora valor temporal y riesgo. Además, un cupón cero no tiene cupón anual que restar. La identidad pertinente utiliza la promesa segura descontada y la opción de incumplimiento."
+      ]
+    },
+    {
+      "id": "c24-q012",
+      "tema": "Paridad put-call",
+      "dificultad": "avanzada",
+      "pregunta": "Con C como call del capital, P como put de incumplimiento, V como activos y VP(F) como pago seguro descontado, ¿cuál es la paridad correcta?",
+      "opciones": [
+        "C + VP(F) = V + P.",
+        "C = V + VP(F) + P.",
+        "C + P = V + VP(F).",
+        "C + V = VP(F) + P."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La call más el pago seguro reproduce el activo más la put. El ejercicio común es el pago de deuda F. Al despejar se obtiene deuda igual a V − C e igual a VP(F) − P.",
+        "El capital no puede superar el valor total de los activos en este modelo con deuda no negativa. El error surge de despejar con el signo incorrecto. La expresión correcta para C es V + P − VP(F).",
+        "Dos opciones compradas no reproducen esa cartera de activo y bono. Sus pagos contingentes no coinciden en todos los estados. La combinación correcta empareja una call con el pago seguro y una put con el activo.",
+        "Se intercambiaron el activo y el pago seguro. Así los dos lados no producen los mismos pagos finales. La paridad exige sumar VP(F) a la call y V a la put."
+      ]
+    },
+    {
+      "id": "c24-q013",
+      "tema": "Put dentro del dinero",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo está dentro del dinero la put de incumplimiento al comparar activos actuales con el ejercicio de la opción?",
+      "opciones": [
+        "Cuando el valor de los activos está por debajo del pago de deuda que actúa como ejercicio.",
+        "Cuando los activos exceden ampliamente el pago prometido.",
+        "Cuando el cupón coincide con la inflación.",
+        "Cuando el capital contable es positivo, cualquiera sea el valor de mercado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una put tiene valor intrínseco si el subyacente vale menos que el ejercicio. Aquí el subyacente son los activos empresariales. Antes del vencimiento, esta condición no obliga a que las acciones valgan cero.",
+        "En ese caso la put está fuera del dinero. Entregar activos muy valiosos para cancelar una obligación menor no sería atractivo al vencimiento. Aun así puede conservar valor por la incertidumbre futura.",
+        "Esa igualdad no determina el valor intrínseco de la put. La comparación relevante enfrenta activos y ejercicio. Las tasas pueden afectar la valuación sin reemplazar esa comparación.",
+        "El modelo trabaja con valores económicos de mercado. Los libros pueden no reflejar lo recuperable de los activos. La posición de la put no depende exclusivamente del capital contable."
+      ]
+    },
+    {
+      "id": "c24-q014",
+      "tema": "Supuestos del modelo simple",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué conjunto permite representar la deuda con una única put terminal de manera más directa?",
+      "opciones": [
+        "Una fórmula de opciones que calcula por sí sola el valor de activos sin datos del subyacente.",
+        "Cupones mensuales y retiros de activos sin restricciones.",
+        "Una deuda de cupón cero con pago final definido, sin distribuciones de activos a accionistas.",
+        "Muchos préstamos con vencimientos distintos y nuevas emisiones irrestrictas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Valuar opciones requiere información sobre el subyacente. La fórmula no crea independientemente el valor total de los activos. Ese dato y su riesgo siguen siendo necesarios.",
+        "Los cupones introducen fechas de posible incumplimiento. Los retiros reducen el respaldo de los acreedores. Ambas características complican la representación simple.",
+        "Una sola fecha concentra la decisión de incumplimiento. La ausencia de distribuciones evita retirar respaldo antes del pago. Con cupones o múltiples emisiones se necesitan ajustes al modelo.",
+        "Surgen decisiones de continuidad y conflictos entre obligaciones. El valor en cada fecha depende de lo que ocurra después. No se resume automáticamente en una sola put terminal."
+      ]
+    },
+    {
+      "id": "c24-q015",
+      "tema": "Volatilidad de activos",
+      "dificultad": "intermedia",
+      "pregunta": "Con valor actual de activos, deuda y demás condiciones constantes, ¿qué efecto tiene más volatilidad en el modelo de opciones?",
+      "opciones": [
+        "Reduce la put y aumenta el valor de la deuda.",
+        "Aumenta la put de incumplimiento y reduce el valor de la deuda.",
+        "No produce cambios porque el promedio sigue igual.",
+        "Garantiza un incumplimiento inmediato."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esto invierte el efecto de volatilidad sobre la opción. La dispersión aumenta el riesgo de recuperaciones insuficientes. El acreedor recibe una obligación menos valiosa bajo los supuestos dados.",
+        "La mayor dispersión vuelve más valiosa la protección de responsabilidad limitada. La deuda es una promesa segura menos esa put. Su menor precio implica un mayor rendimiento prometido.",
+        "Los pagos son no lineales por la responsabilidad limitada. Distribuciones con igual promedio pueden generar valores de deuda distintos. La variabilidad es una variable esencial del modelo.",
+        "Mayor volatilidad no implica que el evento ya ocurrió. Amplía el rango de resultados futuros. Su efecto es contingente y no una certeza de quiebra hoy."
+      ]
+    },
+    {
+      "id": "c24-q016",
+      "tema": "Vencimiento y empresa deteriorada",
+      "dificultad": "avanzada",
+      "pregunta": "Si los activos están muy por debajo de la deuda, ¿cómo puede comportarse el diferencial según el plazo?",
+      "opciones": [
+        "Debe igualarse a la inflación esperada.",
+        "Debe ser cero para todo plazo mayor a un año.",
+        "Siempre debe aumentar, igual que en cualquier emisor sano.",
+        "Puede ser muy alto a corto plazo y menor a largo plazo por la posibilidad de recuperación."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La inflación no resume la solvencia del emisor. El diferencial depende de capacidad de pago y riesgo. Igualar ambas tasas confunde riesgo de crédito con pérdida de poder adquisitivo.",
+        "La recuperación posible no equivale a recuperación segura. Un horizonte mayor no elimina el incumplimiento. El diferencial puede reducirse sin desaparecer.",
+        "La situación inicial cambia la dinámica del riesgo. Para una firma deteriorada, más tiempo también puede significar recuperación. Extrapolar una curva de buena calidad desconoce esa posibilidad.",
+        "Un pago inminente deja poco margen para recuperarse. Un plazo mayor da oportunidades de mejora antes de pagar. Por eso el diferencial no tiene que aumentar siempre con el vencimiento."
+      ]
+    },
+    {
+      "id": "c24-q017",
+      "tema": "Cupones y opciones sucesivas",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué los cupones intermedios complican el tratamiento del capital como opción?",
+      "opciones": [
+        "Porque los cupones dejan de ser exigibles si hay acciones.",
+        "Porque basta ignorar los cupones y usar solo el nominal.",
+        "Porque cumplir cada pago conserva el derecho a continuar hacia las decisiones siguientes.",
+        "Porque cada opción puede valuarse aisladamente sin conocer las posteriores."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El capital no elimina las obligaciones contractuales. Los cupones pueden provocar incumplimiento. Su exigibilidad explica la complejidad adicional.",
+        "Se estarían omitiendo pagos reales. También se perderían posibles fechas de incumplimiento. Una valuación coherente debe reconocer esas obligaciones.",
+        "Cada obligación intermedia abre una decisión de continuidad. No pagar puede hacer perder el control y todas las oportunidades posteriores. El capital se parece a opciones vinculadas en secuencia.",
+        "Las decisiones están conectadas. El valor de seguir hoy depende de las oportunidades que quedan. Ignorar esa dependencia altera el valor de la primera opción."
+      ]
+    },
+    {
+      "id": "c24-q018",
+      "tema": "Liquidez e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué no conviene atribuir todo diferencial corporativo únicamente al incumplimiento?",
+      "opciones": [
+        "Porque el diferencial es exactamente la probabilidad de quiebra.",
+        "Porque también puede compensar iliquidez y desventajas tributarias.",
+        "Porque los pagos seguros no se descuentan.",
+        "Porque la iliquidez siempre eleva el precio del bono."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una diferencia de rendimientos no es una probabilidad. También importan recuperación, riesgo sistemático y otras primas. Igualarlas omite variables esenciales.",
+        "Vender un bono poco negociado puede ser difícil o costoso. Además, el tratamiento impositivo puede diferir del instrumento seguro. Esas desventajas también pueden exigir mayor rendimiento.",
+        "Incluso un cobro seguro futuro tiene valor temporal. Su valor actual depende de la tasa y del plazo. El diferencial se agrega a esa referencia, no elimina la necesidad de descuento.",
+        "La dificultad de vender suele ser una desventaja. Para aceptarla se exige normalmente un precio menor. La prima por iliquidez aumenta el rendimiento requerido, no el atractivo del mismo precio."
+      ]
+    },
+    {
+      "id": "c24-q019",
+      "tema": "Valor de una garantía",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se mide el valor económico de una garantía integral otorgada por un garante seguro?",
+      "opciones": [
+        "Como valor del préstamo con garantía menos valor del mismo préstamo sin garantía.",
+        "Como todo el nominal, cualquiera sea el riesgo.",
+        "Como cero mientras no haya ocurrido un incumplimiento.",
+        "Como la suma de pagos sin descontar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La garantía mejora los pagos contingentes recibidos por los acreedores. Su valor es ese incremento de valor de mercado. En el modelo simple coincide con una put que cubre el faltante.",
+        "El garante solo cubre lo que el deudor no paga. Un préstamo casi seguro puede necesitar una garantía de valor pequeño. El nominal es exposición contractual y no precio de cobertura.",
+        "Una obligación contingente puede tener valor desde su emisión. Los pagos futuros posibles y su riesgo determinan ese costo. Esperar al evento omite el compromiso asumido hoy.",
+        "Esa suma no reconoce recuperaciones ni tiempo. Tampoco compara deuda garantizada y no garantizada. El costo económico requiere comparar sus valores actuales."
+      ]
+    },
+    {
+      "id": "c24-q020",
+      "tema": "Umbral del grado de inversión",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el escalón inferior del grado de inversión en las escalas presentadas?",
+      "opciones": [
+        "C en las tres escalas.",
+        "Solo Aaa o AAA.",
+        "Ba en Moody’s y BB en Standard & Poor’s y Fitch.",
+        "Baa en Moody’s y BBB en Standard & Poor’s y Fitch."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "C pertenece a la zona de baja calidad crediticia. No cumple el umbral de inversión. La escala debe distinguirse de sus categorías más riesgosas.",
+        "Estas son las categorías superiores. Existen varios niveles de grado de inversión por debajo de triple A. No representan el mínimo del grupo.",
+        "Estas categorías ya son especulativas. Confundir Baa con Ba desplaza la frontera. Esa diferencia puede activar restricciones de una cartera.",
+        "Son las categorías mínimas de grado de inversión. Por debajo comienza el segmento especulativo. Las letras cambian entre agencias, pero la frontera económica es comparable."
+      ]
+    },
+    {
+      "id": "c24-q021",
+      "tema": "Ángeles caídos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a un ángel caído de una emisión originalmente especulativa?",
+      "opciones": [
+        "Ambos fueron necesariamente triple A al emitirse.",
+        "El primero perdió su grado de inversión; la segunda nació por debajo de ese umbral.",
+        "Un ángel caído es todo bono cuyo precio baja un día.",
+        "Una emisión especulativa solo puede pertenecer a una empresa ya quebrada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hace falta haber sido triple A para ser ángel caído. Una emisión originalmente especulativa ni siquiera tuvo grado de inversión al inicio. Lo decisivo es la trayectoria frente al umbral.",
+        "Un bono puede entrar al segmento de alto rendimiento por deterioro posterior. También puede emitirse ya con calidad especulativa para financiar operaciones muy apalancadas. Ambos pertenecen al mismo segmento con historias distintas.",
+        "El precio puede bajar por cambios de tasas sin degradación crediticia. El término se refiere a perder el grado de inversión. La cotización diaria no basta para clasificarlo así.",
+        "Empresas operativas pueden emitir deuda de alto riesgo. Ese mercado ha financiado adquisiciones y altos apalancamientos. No exige una quiebra previa."
+      ]
+    },
+    {
+      "id": "c24-q022",
+      "tema": "Juicio de las agencias",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué expresa una calificación de bonos?",
+      "opciones": [
+        "Un juicio sobre solvencia basado en información financiera y de negocio, que puede equivocarse.",
+        "Una razón para ignorar el horizonte del riesgo.",
+        "Una garantía de que el precio no caerá.",
+        "Una fórmula universal dependiente solo del cupón."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cobertura de intereses, apalancamiento y rentabilidad aportan señales. También intervienen perspectivas del negocio y criterio profesional. La calificación no garantiza el pago ni impide revisiones tardías.",
+        "El incumplimiento acumulado depende del plazo. Un riesgo bajo a un año no significa igual riesgo a diez años. La nota debe interpretarse junto con horizonte y contexto.",
+        "El precio puede bajar por tasas o diferenciales. Además, la propia calidad crediticia puede deteriorarse. Una evaluación de solvencia no fija un piso de mercado.",
+        "Dos emisores con igual cupón pueden tener solvencias distintas. La evaluación necesita más información. No existe esa regla universal de calificación."
+      ]
+    },
+    {
+      "id": "c24-q023",
+      "tema": "Indicadores contables",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación suele advertir deterioro financiero en un modelo de crédito basado en balances?",
+      "opciones": [
+        "ROA alto, pasivos sobre activos bajos y UAIIDA sobre pasivos alta.",
+        "Solo un aumento de la cotización bursátil.",
+        "Cupón alto y muchas sucursales.",
+        "ROA bajo, pasivos sobre activos altos y UAIIDA sobre pasivos baja."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este patrón suele mostrar fortaleza financiera. No garantiza solvencia, pero no es la señal típica de deterioro. El riesgo suele aumentar con menor rentabilidad y mayor carga de pasivos.",
+        "Los precios sirven en modelos de mercado. No sustituyen el patrón de razones contables preguntado. La carga de deuda y la generación operativa siguen siendo relevantes.",
+        "El cupón puede reflejar riesgo, pero no mide por sí solo capacidad de pago. La cantidad de sucursales tampoco relaciona generación de fondos con obligaciones. Las razones financieras hacen esa comparación.",
+        "La baja rentabilidad debilita la generación de resultados. Mucha deuda aumenta las obligaciones y poca UAIIDA relativa reduce el respaldo operativo. El patrón conjunto es una señal más sólida que una cifra aislada."
+      ]
+    },
+    {
+      "id": "c24-q024",
+      "tema": "Técnicas de scoring",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué distingue al modelo contable de Beaver y colaboradores del modelo Z de Altman presentados?",
+      "opciones": [
+        "El modelo de Beaver garantiza probabilidades exactas en cualquier país y época.",
+        "El modelo Z clasifica solo por nombre de empresa.",
+        "El primero usa un enfoque de riesgos y el segundo análisis discriminante múltiple.",
+        "Ambos usan exclusivamente opciones y cotizaciones bursátiles."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las relaciones estadísticas pueden cambiar. Una estimación depende de la muestra y del contexto. Siempre requiere validación y criterio para utilizarla.",
+        "El modelo utiliza variables financieras ponderadas. No asigna riesgo por una etiqueta nominal. Su utilidad depende de los datos y la calibración.",
+        "Ambos combinan indicadores para evaluar deterioro financiero. Sus procedimientos estadísticos son distintos. Ninguno garantiza clasificar sin errores fuera de la muestra original.",
+        "Estos modelos parten de razones contables. Los enfoques estructurales de mercado son otra familia. Confundirlos oculta diferencias de datos y método."
+      ]
+    },
+    {
+      "id": "c24-q025",
+      "tema": "Pago esperado",
+      "dificultad": "basica",
+      "pregunta": "Un bono paga $1.200 dentro de un año si cumple, con probabilidad de 80%. Si incumple, paga $600 en esa misma fecha. ¿Cuál es su pago esperado?",
+      "opciones": [
+        "$960.",
+        "$1.200.",
+        "$900.",
+        "$1.080."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe considera solo el escenario de cumplimiento. En incumplimiento todavía se recuperan $600 con probabilidad de 20%. Hay que sumar también $120 de contribución esperada.",
+        "Este es el pago prometido con cumplimiento. Ignora que parte de los escenarios termina en una recuperación menor. El pago esperado debe ponderar ambos resultados.",
+        "Este monto promedia ambos pagos con ponderaciones iguales. Las probabilidades no son 50% y 50%. Deben usarse 80% y 20% para obtener $1.080.",
+        "Se pondera cada pago por su probabilidad. El cálculo es 0,80 × 1.200 + 0,20 × 600 = 960 + 120. El resultado es $1.080, sin descontar todavía al presente."
+      ]
+    },
+    {
+      "id": "c24-q026",
+      "tema": "Precio y riesgo diversificable",
+      "dificultad": "intermedia",
+      "pregunta": "Un título paga $1.100 con probabilidad de 90% y $600 con probabilidad de 10%, todo dentro de un año. Su riesgo es totalmente diversificable y la tasa segura es 5% anual. ¿Cuál es su precio teórico?",
+      "opciones": [
+        "$942,86.",
+        "$1.000.",
+        "$1.050.",
+        "$1.047,62."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este precio surge de descontar solo 0,90 × 1.100. El escenario de incumplimiento no paga cero sino $600. Omitir esa recuperación subestima el valor del título.",
+        "El pago esperado es 0,90 × 1.100 + 0,10 × 600 = $1.050. Al no requerirse prima sistemática, se descuenta a 5%. El precio es 1.050 / 1,05 = $1.000.",
+        "Es el pago esperado dentro de un año. No es su valor actual cuando la tasa segura es positiva. Dividir por 1,05 da el precio de $1.000.",
+        "Este resultado descuenta únicamente el pago prometido de $1.100. Se omite el incumplimiento pese a que está expresamente contemplado. Primero hay que obtener el pago esperado de $1.050 y después descontarlo."
+      ]
+    },
+    {
+      "id": "c24-q027",
+      "tema": "Rendimiento prometido numérico",
+      "dificultad": "basica",
+      "pregunta": "Un bono sin cupones intermedios cuesta $900 hoy y promete $1.080 dentro de un año. ¿Cuál es su rendimiento prometido anual?",
+      "opciones": [
+        "16,67%.",
+        "8%.",
+        "20%.",
+        "120%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado divide la ganancia por el cobro final. La rentabilidad se mide sobre la inversión inicial. La base correcta es $900, no $1.080.",
+        "Ese porcentaje no surge de comparar precio con pago prometido. Puede confundirse una tasa de cupón con una rentabilidad. Sin pagos intermedios, se usa 1.080 / 900 − 1.",
+        "La ganancia prometida es 1.080 − 900 = $180. Se divide por el capital invertido hoy, que es $900. Así, 180 / 900 = 20%, condicionado a cobrar íntegramente la promesa.",
+        "El cociente entre pago final y precio es 1,20. Ese número incluye la devolución del capital. Hay que restar uno para obtener una ganancia de 20%."
+      ]
+    },
+    {
+      "id": "c24-q028",
+      "tema": "Rendimiento esperado numérico",
+      "dificultad": "intermedia",
+      "pregunta": "Pagás $1.000 por un bono a un año. Cobrás $1.100 con probabilidad de 90% o $500 con probabilidad de 10%, sin otros pagos. ¿Cuál es su rendimiento esperado?",
+      "opciones": [
+        "4%.",
+        "0%.",
+        "−1%.",
+        "10%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El cobro esperado es 0,90 − 1.100 + 0,10 − 500 = $1.040. La ganancia esperada es $40 sobre $1.000 invertidos. Por lo tanto, el rendimiento esperado es 4%.",
+        "Restar directamente diez puntos de probabilidad a diez puntos de rendimiento no calcula la pérdida. El impacto depende de cuánto se cobra en cada estado. La recuperación parcial deja un rendimiento esperado positivo de 4%.",
+        "Esta cifra surge de omitir los $50 de recuperación esperada. El incumplimiento no implica cobro nulo en este caso. Sumando ambos estados se obtiene un pago esperado de $1.040.",
+        "Este es el rendimiento si se cumple íntegramente el contrato. No pondera el escenario de recuperación parcial. El rendimiento esperado debe incluir la pérdida posible."
+      ]
+    },
+    {
+      "id": "c24-q029",
+      "tema": "Prima sistemática y precio",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono tiene un único pago esperado de $1.080 en un año. La tasa segura es 4% y se exige una prima de riesgo sistemático de 4 puntos porcentuales. ¿Cuál es su valor?",
+      "opciones": [
+        "$1.038,46.",
+        "$1.080.",
+        "$1.000.",
+        "$925,93."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe descuenta a la tasa segura de 4%. Omite la prima sistemática exigida. La tasa apropiada para este pago esperado es 8%.",
+        "Este es el pago esperado futuro. No reconoce el costo de oportunidad del dinero. El precio debe ser su valor descontado.",
+        "La tasa requerida es 4% + 4% = 8% anual. El pago esperado ya incorpora los resultados de incumplimiento considerados. Su valor es 1.080 / 1,08 = $1.000.",
+        "Ese importe puede surgir de aplicar dos veces el descuento de 8%. Solo transcurre un año. Basta dividir $1.080 una vez por 1,08."
+      ]
+    },
+    {
+      "id": "c24-q030",
+      "tema": "Diferencial en puntos básicos",
+      "dificultad": "basica",
+      "pregunta": "Un bono corporativo ofrece 8,4% anual y el seguro comparable 5,2%. ¿Cuál es el diferencial?",
+      "opciones": [
+        "1.360 puntos básicos.",
+        "3,2 puntos básicos.",
+        "32 puntos básicos.",
+        "320 puntos básicos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe corresponde a sumar las tasas en lugar de restarlas. El diferencial mide el exceso sobre la referencia. No mide la suma de las remuneraciones de ambos títulos.",
+        "Esta respuesta confunde puntos porcentuales con puntos básicos. La resta da 3,2 puntos porcentuales. Hay que multiplicar por 100 para expresarla en puntos básicos.",
+        "Se desplazó incorrectamente la escala decimal. Treinta y dos puntos básicos son solo 0,32 puntos porcentuales. La diferencia observada es diez veces mayor.",
+        "Se restan las tasas: 8,4% − 5,2% = 3,2 puntos porcentuales. Cada punto porcentual equivale a 100 puntos básicos. El diferencial es entonces 320 puntos básicos."
+      ]
+    },
+    {
+      "id": "c24-q031",
+      "tema": "Prima periódica del CDS",
+      "dificultad": "basica",
+      "pregunta": "Un CDS cobra una prima anual de 1,5% sobre un nominal protegido de $2.000.000. Suponé un año completo sin incumplimiento ni pago inicial. ¿Cuánto se paga de prima ese año?",
+      "opciones": [
+        "$30.000.",
+        "$300.000.",
+        "$3.000.",
+        "$0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La prima se aplica al nominal protegido. El cálculo es 2.000.000 × 0,015 = $30.000. La ausencia de incumplimiento no elimina la prima por la protección mantenida durante el año.",
+        "Este importe aplica 15% en vez de 1,5%. El porcentaje debe convertirse a decimal como 0,015. Un error de escala multiplica el costo por diez.",
+        "Este resultado aplica 0,15%. La tasa indicada es diez veces mayor. Con 1,5% sobre $2.000.000 corresponde pagar $30.000.",
+        "La prima remunera estar protegido, aunque no ocurra el evento. No es un pago que aparece solo al incumplir. El contrato del ejemplo exige una prima por el año completo."
+      ]
+    },
+    {
+      "id": "c24-q032",
+      "tema": "Pago del CDS",
+      "dificultad": "intermedia",
+      "pregunta": "Un CDS protege $2.000.000 de nominal. Tras el incumplimiento, el bono vale 35% del nominal; suponé liquidación en efectivo por la diferencia y ausencia de otros ajustes. ¿Cuánto paga el vendedor de protección?",
+      "opciones": [
+        "$600.000.",
+        "$1.300.000.",
+        "$2.000.000.",
+        "$700.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe usa una pérdida de 30% que no surge de los datos. Una recuperación de 35% implica una pérdida de 65%. Ese porcentaje aplicado al nominal produce $1.300.000.",
+        "La recuperación del bono es 0,35 × 2.000.000 = $700.000. La protección cubre la diferencia frente al nominal. El pago es 2.000.000 − 700.000 = $1.300.000.",
+        "Pagar el nominal completo además de conservar la recuperación sobrecompensaría la pérdida. El contrato especifica liquidar solo la diferencia. Deben descontarse los $700.000 de valor recuperado.",
+        "Esta es la recuperación que conserva el bono. El CDS paga la pérdida cubierta, no vuelve a pagar esa recuperación. La diferencia por cubrir es 65% del nominal."
+      ]
+    },
+    {
+      "id": "c24-q033",
+      "tema": "Rendimiento con protección",
+      "dificultad": "intermedia",
+      "pregunta": "Un flotante comprado a la par paga 9% anual y un CDS perfectamente equivalente cuesta 2% anual del mismo nominal. No hay fricciones ni riesgo del vendedor; se considera un año sin evento crediticio. ¿Cuál es el ingreso neto anual sobre el nominal?",
+      "opciones": [
+        "7%.",
+        "11%.",
+        "9%.",
+        "2%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El bono aporta 9% y la cobertura cuesta 2%. El ingreso neto es 9% − 2% = 7%. Bajo los supuestos de equivalencia, esa tasa debe ser consistente con la referencia segura comparable.",
+        "Sumar la prima trata un costo como ingreso. El comprador de protección debe pagarla. La rentabilidad neta se obtiene restando ese costo al ingreso del bono.",
+        "Esta cifra ignora el pago del CDS. La protección no es gratuita. Después de pagar 2% queda 7% del nominal.",
+        "Este es solo el costo de la cobertura. No considera el ingreso por intereses de 9%. El resultado neto surge de combinar ambos flujos."
+      ]
+    },
+    {
+      "id": "c24-q034",
+      "tema": "Pagos a deuda y capital",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene activos por $150 al vencimiento y debe un único pago de $100. Sin otros costos ni obligaciones, ¿cuánto cobran deuda y acciones, respectivamente?",
+      "opciones": [
+        "$50 y $100.",
+        "$100 y $50.",
+        "$75 y $75.",
+        "$150 y $0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta invierte los derechos de deuda y capital. El acreedor no cobra solo el residual. El capital recibe lo que queda tras cancelar la obligación.",
+        "Los acreedores cobran primero hasta el monto prometido. Como los activos alcanzan, reciben $100. Los $50 restantes corresponden al capital.",
+        "El reparto no es igualitario entre las dos clases de títulos. La deuda tiene prioridad contractual. Primero se pagan $100 y luego se entrega el remanente.",
+        "La deuda no tiene derecho a todo el excedente cuando se cumple el contrato. Su cobro está limitado a los $100 prometidos. El residual positivo pertenece a los accionistas."
+      ]
+    },
+    {
+      "id": "c24-q035",
+      "tema": "Faltante y put",
+      "dificultad": "intermedia",
+      "pregunta": "Al vencimiento, los activos valen $60 y el único pago de deuda prometido es $100. Sin costos de quiebra, ¿cuál es el pago de la put de incumplimiento y cuánto recupera la deuda, respectivamente?",
+      "opciones": [
+        "$60 y $40.",
+        "$100 y $0.",
+        "$40 y $60.",
+        "$0 y $100."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se confundió la recuperación con la pérdida. Los activos disponibles valen $60 y eso recupera la deuda. La put representa los $40 que faltan respecto de la promesa.",
+        "El incumplimiento no destruye los activos en este modelo. Los acreedores reciben su valor de $60. La pérdida cubierta por la put es solo la diferencia de $40.",
+        "La put cubre el faltante: máximo entre 100 − 60 y cero, igual a $40. Los acreedores reciben los activos por $60. Ambos importes completan el pago seguro de $100 en la representación del modelo.",
+        "Esto trata como cumplida una obligación sin activos suficientes. La put está dentro del dinero por $40. Sin una garantía externa, los acreedores no reciben los $100 prometidos."
+      ]
+    },
+    {
+      "id": "c24-q036",
+      "tema": "Deuda como activos menos capital",
+      "dificultad": "basica",
+      "pregunta": "En valores de mercado, una empresa tiene activos por $200 y acciones por $70. No hay otros derechos aparte de deuda y capital. ¿Cuánto vale su deuda?",
+      "opciones": [
+        "$200.",
+        "$70.",
+        "$270.",
+        "$130."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese es el valor conjunto de los derechos sobre los activos. Asignarlo íntegramente a deuda deja sin respaldo al capital de $70 observado. La deuda vale solo el remanente de $130.",
+        "El dato corresponde al capital, no a la deuda. Que ambos financien activos no implica que valgan lo mismo. Hay que restar el capital al total de $200.",
+        "Esta cifra suma el capital a los activos. Las acciones ya representan una parte del valor de esos activos. La suma cuenta dos veces esa participación.",
+        "El valor de los activos se reparte entre deuda y capital. Por identidad, deuda = 200 − 70. Así se obtiene $130 sin confundir valor de mercado con nominal prometido."
+      ]
+    },
+    {
+      "id": "c24-q037",
+      "tema": "Precio mediante una put",
+      "dificultad": "avanzada",
+      "pregunta": "Una deuda de cupón cero promete $121 dentro de dos años. La tasa segura efectiva anual es 10% y la put de incumplimiento vale hoy $12. ¿Cuánto vale la deuda riesgosa?",
+      "opciones": [
+        "$109.",
+        "$88.",
+        "$112.",
+        "$98."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se restó la put al nominal futuro sin descontar. Los $121 son de dentro de dos años y los $12 son de hoy. Primero hay que llevar el pago seguro a valor presente.",
+        "El pago seguro vale 121 / 1,10² = $100 hoy. La deuda riesgosa se obtiene restando la put actual. El precio es 100 − 12 = $88.",
+        "Este resultado suma la put al pago seguro actual. La opción de incumplimiento reduce lo que vale la deuda. El signo correcto es negativo.",
+        "Esta cifra surge de descontar el nominal solo un año y restar $12. El plazo indicado es de dos años. La capitalización compuesta exige dividir por 1,10²."
+      ]
+    },
+    {
+      "id": "c24-q038",
+      "tema": "Rendimiento compuesto de cupón cero",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de cupón cero cuesta $80 y promete $100 dentro de dos años. ¿Cuál es su rendimiento prometido efectivo anual, aproximadamente?",
+      "opciones": [
+        "10%.",
+        "12,50%.",
+        "25%.",
+        "11,80%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Dividir la ganancia de $20 por el cobro final y luego por dos usa una base equivocada. La inversión inicial es $80. Además, hay que respetar la capitalización de dos períodos.",
+        "Esta cifra divide linealmente el rendimiento total entre dos. Una tasa efectiva anual debe capitalizar de forma compuesta. La raíz del factor acumulado produce 11,80%.",
+        "El 25% es el rendimiento total prometido de los dos años. No es una tasa efectiva anual. Hay que extraer la raíz cuadrada del factor 1,25.",
+        "La tasa satisface 80 × (1 + y)² = 100. Entonces y = raíz cuadrada de 100 / 80 menos uno. El resultado es aproximadamente 11,80% efectivo anual, suponiendo cumplimiento."
+      ]
+    },
+    {
+      "id": "c24-q039",
+      "tema": "Costo de garantía estatal",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo vale $500 con una garantía integral segura y $420 sin ella. El Estado cobra una comisión actual de $20 y recibe derechos sobre acciones que valen hoy $15. ¿Cuál es su subsidio económico neto?",
+      "opciones": [
+        "$80.",
+        "$465.",
+        "$45.",
+        "$115."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el valor bruto de la garantía. Omite los recursos recibidos por el Estado a cambio. Para calcular el subsidio neto hay que restar comisión y valor de los derechos recibidos.",
+        "Restar las compensaciones a todo el préstamo confunde exposición con costo de cobertura. La garantía no vale necesariamente el nominal o el préstamo completo. Su valor bruto es la diferencia de $80 entre ambas valuaciones.",
+        "La garantía tiene valor bruto de 500 − 420 = $80. El Estado recibe compensaciones actuales por 20 + 15 = $35. El costo neto es 80 − 35 = $45.",
+        "Esta cifra suma las compensaciones al costo de la garantía. Esos cobros reducen el subsidio, no lo aumentan. Se deben restar los $35 del valor bruto de $80."
+      ]
+    },
+    {
+      "id": "c24-q040",
+      "tema": "Impuesto diferencial",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono corporativo a la par paga cupón anual de 8% y su interés soporta un impuesto estatal de 4%; el título seguro comparable está exento. Ignorá impuestos federales y efectos indirectos. ¿Cuál es la carga estatal anual sobre el nominal?",
+      "opciones": [
+        "0,32% del nominal, equivalente a 32 puntos básicos.",
+        "8% del nominal, equivalente a 800 puntos básicos.",
+        "3,2% del nominal, equivalente a 320 puntos básicos.",
+        "4% del nominal, equivalente a 400 puntos básicos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sobre cada $100 de nominal se cobran $8 de interés. El impuesto es 4% de $8, es decir $0,32. Esa carga equivale a 0,32% del nominal y exige aproximadamente esa compensación adicional antes de otros ajustes.",
+        "Este es el cupón completo. El impuesto toma solo el 4% de ese ingreso. No corresponde tratar todo el interés como carga tributaria.",
+        "Esta respuesta desplaza la coma decimal. El producto correcto es 0,08 × 0,04 = 0,0032. Expresado como porcentaje, eso es 0,32% y no 3,2%.",
+        "La alícuota se aplica al interés, no al principal. Aplicarla al nominal exagera la carga. La base gravada es el cupón de 8%."
+      ]
+    },
+    {
+      "id": "c24-q041",
+      "tema": "Razones financieras",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene UAII de $240, intereses de $60, deuda total de $600 y capital de $400. ¿Qué combinación de cobertura de intereses y deuda sobre deuda más capital es correcta?",
+      "opciones": [
+        "25% y 150%.",
+        "4 veces y 150%.",
+        "3 veces y 40%.",
+        "4 veces y 60%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La primera cifra invierte intereses y UAII. La segunda divide deuda por capital en lugar de deuda por deuda más capital. Ambas cambian las definiciones pedidas.",
+        "La cobertura de intereses está bien calculada. El 150% corresponde a deuda sobre capital. La razón solicitada incluye deuda y capital en el denominador y resulta 60%.",
+        "Restar intereses antes de dividir transforma la primera razón. El 40% mide capital sobre financiamiento total. Las definiciones pedidas dan 4 veces y 60%.",
+        "La cobertura es UAII / intereses = 240 / 60 = 4. El apalancamiento indicado es 600 / (600 + 400). Ese cociente es 60%, usando exactamente el denominador solicitado."
+      ]
+    },
+    {
+      "id": "c24-q042",
+      "tema": "Modelo contable: logaritmo de odds",
+      "dificultad": "avanzada",
+      "pregunta": "Usá L = −6,445 − 1,192 × ROA + 2,307 × pasivos/activos − 0,346 × UAIIDA/pasivos. Con ROA = 5%, pasivos/activos = 80% y UAIIDA/pasivos = 20%, ingresados como decimales, ¿cuánto vale L?",
+      "opciones": [
+        "−4,7282.",
+        "165,2350.",
+        "−4,5898.",
+        "−8,4194."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se sustituyen los porcentajes por 0,05; 0,80 y 0,20. Así, L = −6,445 − 0,0596 + 1,8456 − 0,0692. La suma da −4,7282, que es un logaritmo de odds y no una probabilidad negativa.",
+        "Se ingresaron 5, 80 y 20 en lugar de 0,05; 0,80 y 0,20. Los coeficientes están definidos para razones decimales en este ejercicio. Cambiar la escala altera por completo el resultado.",
+        "Este resultado suma la contribución de UAIIDA en vez de restarla. La generación operativa relativa tiene coeficiente negativo. Sustituyendo con el signo correcto, el valor disminuye hasta −4,7282.",
+        "Esta cifra cambia a negativo el efecto de pasivos sobre activos. En la fórmula, ese coeficiente es positivo. Con las demás variables constantes, mayor apalancamiento aumenta el indicador de riesgo."
+      ]
+    },
+    {
+      "id": "c24-q043",
+      "tema": "Odds y probabilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Un modelo entrega odds de quiebra iguales a 0,25, definidas como p / (1 − p). ¿Cuál es la probabilidad p?",
+      "opciones": [
+        "25%.",
+        "20%.",
+        "75%.",
+        "125%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta toma las odds como si fueran una probabilidad. El denominador de las odds es la probabilidad de no quebrar. Para convertirlas debe usarse 0,25 / 1,25.",
+        "Se despeja p = odds / (1 + odds). Entonces p = 0,25 / 1,25 = 0,20. Las odds comparan quiebra con supervivencia y no son directamente el porcentaje de quiebra.",
+        "Restar 0,25 a uno solo serviría si 0,25 fuera la probabilidad complementaria. Aquí es una razón entre probabilidades. La conversión correcta produce 20% de quiebra y 80% de supervivencia.",
+        "Sumar uno a las odds forma parte del denominador de la conversión. No produce una probabilidad por sí solo. Además, una probabilidad no puede superar 100%."
+      ]
+    },
+    {
+      "id": "c24-q044",
+      "tema": "Transiciones crediticias",
+      "dificultad": "intermedia",
+      "pregunta": "Una fila de una matriz a un año para bonos inicialmente A asigna 0,6% a BB, 0,3% a B, 0,1% a CCC y 0,2% a incumplimiento. ¿Qué probabilidad hay de terminar en una categoría especulativa BB, B o CCC sin haber incumplido?",
+      "opciones": [
+        "99%.",
+        "0,6%.",
+        "1%.",
+        "1,2%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el complemento de la probabilidad solicitada. Incluye permanecer fuera de esas tres categorías y otros destinos. La pregunta pide el evento de migración especulativa, no su complemento.",
+        "Solo se consideró el destino BB. También califican los destinos B y CCC. Al sumar las tres categorías se obtiene 1%.",
+        "Las categorías finales indicadas son mutuamente excluyentes. Se suman 0,6% + 0,3% + 0,1% = 1%. El incumplimiento se excluye porque la pregunta pide terminar en una calificación especulativa sin ese evento.",
+        "Este resultado agrega también el incumplimiento. La pregunta lo excluye explícitamente. La migración hacia BB, B o CCC suma solo 1%."
+      ]
+    },
+    {
+      "id": "c24-q045",
+      "tema": "VaR y sensibilidad de precio",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera vale $2.000.000 y tiene duración modificada 6. Para un horizonte de un año, un modelo ubica el aumento de rendimiento de 1 punto porcentual en la cola de 1%. Usá ΔP/P ≈ −Dmod × Δy, sin cupones, convexidad ni otros factores. ¿Qué VaR de precio al 99% resulta de esa aproximación?",
+      "opciones": [
+        "$20.000.",
+        "$12.000.",
+        "$120.000.",
+        "$12.000.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra aplica el cambio de rendimiento directamente al valor. Omite la duración, que multiplica la sensibilidad. Con duración modificada 6, la caída de precio aproximada es 6%.",
+        "Se usó 0,001 como variación de tasa. Un punto porcentual equivale a 0,01. La pérdida aproximada es diez veces mayor bajo los datos del ejercicio.",
+        "El cambio de rendimiento es 0,01 y no 1. La caída aproximada es 6 × 0,01 = 6% del valor. El VaR de precio es 0,06 × 2.000.000 = $120.000 para ese horizonte y nivel.",
+        "Se ingresó 1 en lugar de 0,01 como cambio de rendimiento. La fórmula requiere la variación de tasa en forma decimal. Ese error de escala multiplica la pérdida por cien."
+      ]
+    },
+    {
+      "id": "c24-q046",
+      "tema": "Aversión al riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora financiera observa que los diferenciales de su sector se ampliaron, aunque las estimaciones de incumplimiento casi no cambiaron. ¿Qué explicación es consistente con ese movimiento?",
+      "opciones": [
+        "El diferencial no puede cambiar sin una revisión formal de calificación.",
+        "Los inversores pueden estar exigiendo mayor compensación por asumir riesgo crediticio.",
+        "La ampliación demuestra que el precio de los bonos aumentó.",
+        "La probabilidad de incumplimiento necesariamente se duplicó."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los precios incorporan información y preferencias continuamente. Una nota puede permanecer igual mientras cambia la compensación requerida. La revisión de una agencia no es condición necesaria para que se mueva el mercado.",
+        "El diferencial refleja más que una probabilidad física de incumplimiento. Un aumento de aversión al riesgo puede elevar la prima requerida y bajar los precios. Por eso los diferenciales pueden moverse incluso sin cambios grandes en la frecuencia esperada de impago.",
+        "A igual estructura de flujos, un rendimiento requerido mayor implica un precio menor. Esta respuesta invierte esa relación. La ampliación del diferencial suele perjudicar al tenedor de un bono ya emitido.",
+        "No existe una relación uno a uno fija entre diferencial y probabilidad. También cambian primas de riesgo, liquidez y condiciones de mercado. La evidencia dada no permite afirmar que la probabilidad se duplicó."
+      ]
+    },
+    {
+      "id": "c24-q047",
+      "tema": "Distribuciones a accionistas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa propone pagar un dividendo extraordinario con efectivo que hoy respalda una deuda ya emitida. Sin otros cambios, ¿qué deberían advertir sus bonistas en el modelo estructural?",
+      "opciones": [
+        "Que el dividendo aumenta automáticamente los activos disponibles para pagar deuda.",
+        "Que la responsabilidad limitada deja de existir al pagar dividendos.",
+        "Que el riesgo no cambia mientras el cupón siga igual.",
+        "Que retirar activos puede reducir su protección y elevar el rendimiento requerido."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El pago consume activos de la empresa. No debe confundirse el ingreso del accionista con más respaldo del acreedor. Manteniendo todo lo demás constante, el respaldo disminuye.",
+        "La distribución no convierte automáticamente al accionista en responsable ilimitado. El límite de responsabilidad sigue siendo parte del modelo. El problema es la reducción de activos, no un cambio automático del régimen legal.",
+        "El cupón es una promesa, no una medida suficiente de solvencia. La capacidad de cumplirla depende del respaldo de activos. Una obligación igual puede volverse más riesgosa después de una distribución.",
+        "El dividendo entrega a los accionistas recursos que antes respaldaban la obligación. Quedan menos activos para recuperar si surgen problemas. Por eso los bonos pueden perder valor aunque no haya aumentado su nominal."
+      ]
+    },
+    {
+      "id": "c24-q048",
+      "tema": "Garantía y ajuste por riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Un organismo valúa una garantía estatal descontando pérdidas esperadas calculadas con probabilidades reales a la tasa segura, sin otro ajuste. Los pagos de la garantía se concentran en recesiones. ¿Qué revisión corresponde?",
+      "opciones": [
+        "Incorporar el precio del riesgo mediante equivalentes ciertos, probabilidades neutrales al riesgo o una valuación de opciones coherente.",
+        "Eliminar las recuperaciones para compensar cualquier error de riesgo.",
+        "Valuar siempre la garantía por todo el nominal del préstamo.",
+        "Mantener el cálculo porque toda obligación estatal tiene costo económico libre de riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El garante asume un riesgo que antes soportaban los acreedores. Pagar en estados económicos malos tiene un costo de mercado que la media física no resume. Descontar a la tasa segura es coherente si los flujos ya incorporan el ajuste apropiado por riesgo.",
+        "Las recuperaciones son parte del pago económico y no un ajuste arbitrario. Ignorarlas cambia la exposición que se valía. El riesgo debe incorporarse con un método consistente y no alterando datos reales sin fundamento.",
+        "El garante cubre faltantes y no necesariamente todo el saldo. Las recuperaciones y probabilidades importan. Reconocer una prima de riesgo no exige equiparar precio de garantía con nominal.",
+        "Que el Estado pueda pagar no vuelve seguro el monto que deberá desembolsar. La exposición contingente sigue ligada a la economía. El valor de la garantía debe reconocer ese riesgo transferido."
+      ]
+    },
+    {
+      "id": "c24-q049",
+      "tema": "Restricciones por calificación",
+      "dificultad": "basica",
+      "pregunta": "Un fondo tiene un mandato que solo permite grado de inversión. Su bono pasa de BBB a BB y no hay excepciones en el mandato. ¿Qué debe reconocer el administrador?",
+      "opciones": [
+        "Que ambos niveles son grado de inversión y no hay nada que revisar.",
+        "Que la emisión cruzó al segmento especulativo y debe aplicar las reglas de su mandato.",
+        "Que el bono ya pagó toda su deuda al cambiar de categoría.",
+        "Que la nueva letra garantiza una ganancia mayor por el mismo riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "BB no cumple ese umbral. Confundirlo con BBB omite una frontera relevante para el mandato. El administrador debe evaluar el tratamiento exigido para activos que pierden la elegibilidad.",
+        "BBB está en grado de inversión y BB queda por debajo. La degradación puede obligar a ajustar la tenencia según las reglas del fondo. Eso no significa que toda degradación implique incumplimiento inmediato.",
+        "Una calificación no es un pago. El contrato continúa salvo los eventos que correspondan. La degradación modifica la evaluación del riesgo y la elegibilidad, no extingue la obligación.",
+        "Un rendimiento requerido más alto suele acompañar mayor riesgo y menor precio. No es una ganancia asegurada. Además, la restricción del mandato sigue aplicando aunque el rendimiento resulte atractivo."
+      ]
+    },
+    {
+      "id": "c24-q050",
+      "tema": "Horizonte y tasas históricas",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista encuentra muy pocos incumplimientos a un año entre bonos de alta nota y concluye que son igual de seguros a diez años. ¿Cómo evaluarías su conclusión?",
+      "opciones": [
+        "Es incorrecta solo porque todo bono de alta nota debe quebrar antes del año diez.",
+        "Es correcta si el cupón no cambia.",
+        "Es incorrecta porque la probabilidad acumulada puede crecer y la calidad puede deteriorarse con el tiempo.",
+        "Es correcta porque las probabilidades de distintos horizontes siempre son iguales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La acumulación de riesgo no vuelve seguro el incumplimiento. Muchas emisiones seguirán pagando. La corrección consiste en reconocer una probabilidad mayor posible, no en afirmar una certeza.",
+        "El cupón fijo no congela la solvencia. El negocio y su estructura financiera pueden deteriorarse. La estabilidad contractual no equivale a estabilidad del riesgo.",
+        "El horizonte largo incorpora más oportunidades de incumplimiento. También permite migraciones hacia notas peores antes de un eventual impago. Una frecuencia histórica pequeña a un año no garantiza igual seguridad durante una década.",
+        "El evento de incumplir antes de diez años abarca más tiempo que incumplir antes de uno. Las probabilidades no tienen por qué coincidir. Mantener el plazo explícito es indispensable para interpretar los datos."
+      ]
+    },
+    {
+      "id": "c24-q051",
+      "tema": "Límites de las calificaciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa conserva grado de inversión poco antes de revelar problemas graves. Un tesorero propone usar la nota como única evaluación de sus bonos. ¿Qué decisión es más razonable?",
+      "opciones": [
+        "Complementar la nota con análisis propio y señales contables y de mercado.",
+        "Aceptar la propuesta porque grado de inversión significa pago garantizado.",
+        "Ignorar para siempre toda calificación y todo indicador financiero.",
+        "Comprar más deuda solo porque la nota todavía no cambió."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las agencias pueden equivocarse o reaccionar con demora. Una nota útil no sustituye todo seguimiento de la capacidad de pago. Combinar fuentes permite detectar señales que una calificación todavía no incorpora.",
+        "La nota es una opinión sobre riesgo. No es una póliza ni elimina la posibilidad de incumplimiento. La revelación de problemas muestra por qué no basta como garantía.",
+        "Un error no vuelve inútil toda la información. Las notas y razones pueden seguir aportando señales. Lo correcto es reconocer sus límites y contrastarlas con otras evidencias.",
+        "Una nota sin revisar puede no reflejar las novedades. Aumentar la exposición automáticamente ignora información adversa. La decisión exige actualizar el análisis de riesgo y precio."
+      ]
+    },
+    {
+      "id": "c24-q052",
+      "tema": "Sobreajuste y costo de rechazos",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco ensaya cientos de combinaciones de razones y elige la que mejor predice quiebras pasadas. Luego propone rechazar automáticamente a todo cliente que marque como riesgoso. ¿Qué revisión es prioritaria?",
+      "opciones": [
+        "Eliminar la validación si el modelo usa muchas variables.",
+        "Elegir siempre el modelo que rechace más clientes.",
+        "Aprobar el modelo porque el ajuste histórico prueba validez futura.",
+        "Validar con datos nuevos y considerar las utilidades perdidas por rechazar buenos clientes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Más variables no aseguran mayor generalización. Pueden aumentar la flexibilidad para capturar ruido. La validación es especialmente importante cuando se exploran numerosas combinaciones.",
+        "Rechazar más reduce exposición, pero también ingresos potenciales. La utilidad depende de errores y márgenes, no solo del número de rechazos. La política debe considerar buenos clientes excluidos y malos clientes aceptados.",
+        "Un gran ajuste puede surgir de sobreajuste. La selección entre muchas combinaciones eleva ese peligro. Hace falta evidencia nueva para conocer la capacidad predictiva real.",
+        "Probar muchas fórmulas puede ajustar ruido de la muestra histórica. El desempeño futuro debe evaluarse fuera de los datos usados para seleccionar el modelo. Además, evitar algunos malos préstamos no garantiza una mejora si se pierden demasiados clientes rentables."
+      ]
+    },
+    {
+      "id": "c24-q053",
+      "tema": "Insumos del modelo de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una consultora quiere estimar incumplimiento a partir del valor de mercado de los activos de una firma cotizante. ¿Qué información necesita además del valor actual, en el modelo simple?",
+      "opciones": [
+        "Crecimiento esperado y variabilidad de los activos, junto con monto y vencimiento de la deuda.",
+        "Solo el nombre de la agencia que califica el bono.",
+        "Solo el capital contable del último balance.",
+        "Solo el cupón, sin conocer capital ni vencimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El incumplimiento ocurre cuando los activos terminan debajo de la obligación pertinente. Para estimar ese evento se necesita una distribución futura y un umbral de pago. El crecimiento, la volatilidad y el horizonte determinan cómo evoluciona esa distribución.",
+        "Una agencia puede aportar información, pero su nombre no describe la distribución de activos. Tampoco fija el monto ni la fecha de pago. El modelo necesita variables económicas concretas.",
+        "El capital contable no equivale necesariamente al valor de mercado de los activos. Tampoco especifica su volatilidad o crecimiento futuro. Un único saldo histórico no alcanza para estimar el evento del modelo.",
+        "El cupón aislado no define toda la obligación. El principal y el momento de pago son fundamentales. Además, falta describir la incertidumbre de los activos."
+      ]
+    },
+    {
+      "id": "c24-q054",
+      "tema": "Señales de mercado y fraude",
+      "dificultad": "intermedia",
+      "pregunta": "Los balances de una firma grande ocultan pérdidas, pero sus valores bursátiles caen y el valor estimado de activos se acerca al umbral de incumplimiento. ¿Qué aporta un enfoque de mercado?",
+      "opciones": [
+        "La razón para reemplazar el valor de mercado por el nominal de las acciones.",
+        "Una estimación exacta del día de la quiebra.",
+        "La certeza de que los balances son correctos porque hay negociación bursátil.",
+        "Una señal adicional de deterioro que puede aparecer aunque los estados contables oculten problemas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El nominal no captura la valoración económica del mercado. Ese reemplazo descartaría la señal que el enfoque busca utilizar. La información relevante es el valor y riesgo de los activos inferidos con datos pertinentes.",
+        "Estos modelos ofrecen estimaciones probabilísticas. No revelan con certeza la fecha de un evento futuro. Interpretar una alerta como calendario exacto exagera su precisión.",
+        "La negociación no certifica la contabilidad. Los precios pueden justamente reflejar desconfianza o información distinta. Una señal de mercado no elimina el riesgo de fraude.",
+        "Los precios pueden incorporar expectativas sobre el negocio y la carga de deuda. La cercanía de activos al umbral aumenta la preocupación por incumplimiento. El modelo no es infalible, pero complementa fuentes contables potencialmente distorsionadas."
+      ]
+    },
+    {
+      "id": "c24-q055",
+      "tema": "Límites de estimaciones publicadas",
+      "dificultad": "avanzada",
+      "pregunta": "Un proveedor informa probabilidades anuales limitadas al intervalo entre 0,02% y 20%. Una empresa alcanza el máximo publicado. ¿Qué interpretación corresponde?",
+      "opciones": [
+        "La empresa tiene una garantía de supervivencia de al menos 80%.",
+        "El riesgo no puede cambiar hasta que se anuncie una quiebra.",
+        "La estimación llegó al techo de la escala publicada; no demuestra que el riesgo económico no pueda ser mayor.",
+        "La probabilidad informada es necesariamente 20% para cualquier horizonte."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El techo publicado puede truncar estimaciones o categorías. No asegura que la probabilidad real sea exactamente 20% o menor. Usarlo como garantía convierte una convención del modelo en una promesa inexistente.",
+        "La solvencia puede seguir deteriorándose aunque el reporte no aumente. La escala tiene un máximo, pero el proceso económico no se detiene allí. Hace falta continuar el seguimiento con otras señales.",
+        "El límite responde a la forma de reportar del proveedor. Alcanzarlo señala riesgo elevado dentro de esa escala. No es un límite físico de las probabilidades ni una garantía sobre la verdadera exposición.",
+        "El indicador es anual. Otros horizontes requieren estimaciones propias. El límite de una escala a un año no se extrapola automáticamente."
+      ]
+    },
+    {
+      "id": "c24-q056",
+      "tema": "Múltiples vencimientos y continuidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma tiene poca liquidez para una deuda cercana, pero activos con posibilidades de recuperar valor antes de pagar obligaciones lejanas. ¿Por qué sus accionistas podrían aportar fondos hoy?",
+      "opciones": [
+        "Porque un valor contable positivo vuelve irrelevante el pago cercano.",
+        "Para evitar el incumplimiento cercano y conservar el valor de las opciones futuras de recuperación.",
+        "Porque pagar la deuda cercana elimina todas las obligaciones futuras.",
+        "Porque la responsabilidad limitada siempre los obliga a cubrir todo faltante."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La capacidad de atender el vencimiento exige recursos disponibles o financiamiento. Un saldo contable no equivale a liquidez. El aporte puede ser necesario para conservar la posibilidad de continuar.",
+        "Pagar una obligación actual puede mantener el control de los activos. Así los accionistas preservan el posible excedente después de obligaciones posteriores. El aporte solo conviene si el valor de continuar justifica su costo, no por una obligación ilimitada automática.",
+        "Cancelar un vencimiento no extingue otros contratos. Los pagos posteriores siguen afectando el valor del capital. La decisión depende justamente de esas oportunidades y obligaciones restantes.",
+        "El modelo de responsabilidad limitada no impone ese aporte personal automático. Los accionistas pueden decidir aportar por conveniencia económica. Es distinto preservar una opción valiosa que ser responsable ilimitadamente."
+      ]
+    },
+    {
+      "id": "c24-q057",
+      "tema": "Migración y CreditMetrics",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente afirma que un bono A casi no tiene riesgo durante el próximo año porque el incumplimiento inmediato es poco probable. Piensa venderlo al terminar ese año. ¿Qué falta en su análisis?",
+      "opciones": [
+        "Solo el número de cupones ya cobrados desde la emisión.",
+        "La certeza de que toda degradación implica pérdida total del principal.",
+        "El riesgo de degradación crediticia que eleve el rendimiento requerido y reduzca el precio antes de vender.",
+        "La idea de que una nota A impide cambios de precio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los cupones pasados no resumen el valor al momento de venta. Importan las condiciones y el riesgo de los pagos restantes. La pérdida puede surgir por cambios de calidad durante la tenencia futura.",
+        "Una degradación no equivale a recuperación cero. Puede generar una caída parcial de precio sin incumplimiento. El análisis necesita valorar cada estado, no equiparar todos con una pérdida total.",
+        "No hace falta incumplir para generar una pérdida de mercado. Una peor nota puede ampliar el diferencial y bajar el precio. CreditMetrics vincula probabilidades de transición con valuaciones en los posibles estados finales.",
+        "La nota no fija la cotización. Las tasas y los diferenciales se mueven, y la nota también puede cambiar. Aun con buen crédito inicial existe riesgo de mercado."
+      ]
+    },
+    {
+      "id": "c24-q058",
+      "tema": "Interpretación del VaR",
+      "dificultad": "intermedia",
+      "pregunta": "Una mesa informa un VaR de $50.000 a un día y 99% de confianza. ¿Qué lectura es apropiada dentro del modelo?",
+      "opciones": [
+        "El umbral de pérdida es $50.000 y queda una cola de aproximadamente 1% con pérdidas mayores.",
+        "La pérdida promedio de los peores días es exactamente $50.000.",
+        "La pérdida esperada diaria es $50.000.",
+        "La pérdida máxima posible es $50.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El VaR es un cuantil de la distribución de pérdidas para un horizonte específico. No describe por sí solo cuánto se pierde una vez superado ese umbral. Conviene mantener explícitos el día de horizonte y el 99% de confianza.",
+        "Esa descripción corresponde a una medida de pérdida media en la cola. El VaR solo fija el umbral de entrada a esa región. No determina la gravedad promedio de las pérdidas que lo exceden.",
+        "La media de pérdidas y su cuantil alto son medidas distintas. El VaR no informa el promedio de todos los resultados. Tampoco debe tratarse como una pérdida que ocurre cada día.",
+        "El VaR no limita físicamente las pérdidas. Puede haber resultados peores en la cola. Confundir cuantil con máximo subestima el riesgo extremo."
+      ]
+    },
+    {
+      "id": "c24-q059",
+      "tema": "Factores omitidos en VaR",
+      "dificultad": "avanzada",
+      "pregunta": "Una estimación de riesgo usa solo cambios de calificación y mantiene constantes los diferenciales por categoría y la curva segura. ¿Cómo mejorarla?",
+      "opciones": [
+        "Suponiendo que una nota constante mantiene constante el precio.",
+        "Incorporando cambios de tasas seguras y de diferenciales, además de las migraciones.",
+        "Usando el cupón como único rendimiento para todos los estados.",
+        "Eliminando los escenarios de incumplimiento para no duplicar el riesgo de tasas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La calificación es solo una parte de la información. La tasa base y la prima exigida pueden variar sin revisión de nota. Fijar el precio eliminaría riesgos reales del análisis.",
+        "El precio puede variar aun sin cambios de nota. La aversión al riesgo puede ampliar diferenciales dentro de cada categoría y también puede moverse la curva base. Ignorar ambos factores deja incompleta la distribución de pérdidas.",
+        "El cupón es contractual y no la tasa de descuento de cada escenario. Las rentabilidades requeridas dependen de las condiciones del mercado. Descontar siempre al cupón puede producir precios incorrectos.",
+        "El incumplimiento y los cambios de tasas no son el mismo fenómeno. Ambos pueden afectar el valor y sus relaciones deben modelarse. Eliminar uno no es una corrección válida de la omisión de otros factores."
+      ]
+    },
+    {
+      "id": "c24-q060",
+      "tema": "Correlación de cartera",
+      "dificultad": "intermedia",
+      "pregunta": "Dos bancos tienen préstamos con iguales probabilidades y recuperaciones individuales. Uno presta solo a comercios del mismo polo industrial y el otro a sectores y regiones diversos. ¿Qué debería analizarse para comparar el riesgo conjunto?",
+      "opciones": [
+        "La cantidad de contratos, porque muchos préstamos del mismo lugar garantizan diversificación.",
+        "Solo el promedio de probabilidades, que determina por completo el VaR.",
+        "Solo la suma de nominales, porque la correlación nunca influye.",
+        "La dependencia entre pérdidas, porque la concentración puede hacer que muchos deudores fallen juntos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Más contratos no aseguran independencia. Si responden al mismo shock, pueden deteriorarse a la vez. Importa la diversidad económica y no solo el número de documentos.",
+        "Ese promedio aporta información sobre pérdidas medias con otras condiciones dadas. No determina cómo se agrupan los eventos. El VaR depende también de la distribución conjunta.",
+        "Igual exposición total puede generar colas de pérdida diferentes. La simultaneidad importa para pérdidas extremas. La suma de montos no captura esa dimensión.",
+        "Los riesgos individuales no describen toda la distribución de la cartera. Exposiciones al mismo ciclo local pueden producir incumplimientos simultáneos. Diversificar ayuda cuando reduce esa dependencia, aunque no elimina todo riesgo sistemático."
+      ]
+    },
+    {
+      "id": "c24-q061",
+      "tema": "Riesgo soberano y referencia segura",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo debe interpretarse el uso de deuda del Tesoro estadounidense como referencia sin incumplimiento en este análisis?",
+      "opciones": [
+        "Como prueba de que todo bono soberano es seguro por definición.",
+        "Como prueba de que todo Estado puede emitir cualquier moneda que deba.",
+        "Como afirmación de que un bono seguro no tiene riesgo de precio.",
+        "Como una referencia del modelo, sin afirmar que toda deuda de cualquier gobierno sea siempre segura."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La etiqueta soberana no elimina las restricciones de pago. Existen incumplimientos de gobiernos. Hay que evaluar la moneda y las características del emisor en vez de generalizar la referencia del modelo.",
+        "Un gobierno no controla la creación de moneda extranjera. Endeudarse en ella puede imponer una restricción decisiva. Confundir moneda propia con extranjera subestima el riesgo soberano.",
+        "Seguridad frente al incumplimiento no equivale a precio constante. Los cambios de tasas pueden alterar su valor de mercado. La referencia segura elimina un riesgo específico, no todos los riesgos.",
+        "La capacidad de pago depende de la moneda y de las decisiones del emisor. Un gobierno no puede crear moneda extranjera y puede incumplir obligaciones en ella. Incluso en moneda propia, la posibilidad de emitir no implica una garantía universal de que siempre pagará."
+      ]
+    },
+    {
+      "id": "c24-q062",
+      "tema": "Definición de apalancamiento estructural",
+      "dificultad": "avanzada",
+      "pregunta": "En una representación estructural se define apalancamiento como D/V, con D = VP seguro del nominal y V = valor de mercado de activos. ¿Qué cuidado exige interpretar sus curvas?",
+      "opciones": [
+        "Suponer que toda definición de apalancamiento produce curvas idénticas.",
+        "No confundir D con el valor de mercado de la deuda riesgosa, porque cambiar la definición puede cambiar la forma de las curvas.",
+        "Usar capital contable en lugar de V sin ajustes.",
+        "Tratar D como nominal sin descontar para cualquier plazo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las curvas dependen de qué magnitudes se mantienen constantes. Una razón con deuda de mercado no coincide necesariamente con una razón basada en la promesa segura. Las comparaciones requieren respetar la definición elegida.",
+        "El numerador definido usa el nominal descontado a la tasa segura. La deuda riesgosa incorpora además el descuento por incumplimiento. Fijar una razón u otra no conserva exactamente la misma situación económica al comparar vencimientos.",
+        "V representa activos a valor de mercado. El capital contable no es ni el mismo derecho ni necesariamente el mismo valor económico. Cambiar el denominador altera la medida y la interpretación.",
+        "El valor presente depende del plazo y de la tasa. El nominal futuro y su valor actual no son intercambiables. La definición dada exige aplicar el descuento seguro."
+      ]
+    },
+    {
+      "id": "c24-q063",
+      "tema": "Emisiones recientes y liquidez",
+      "dificultad": "intermedia",
+      "pregunta": "Dos bonos del Tesoro tienen condiciones muy similares, pero uno es una emisión reciente mucho más negociada. ¿Por qué podría rendir algo menos?",
+      "opciones": [
+        "Porque su mayor liquidez puede justificar un precio más alto y un rendimiento menor.",
+        "Porque la mayor liquidez aumenta necesariamente el incumplimiento.",
+        "Porque más transacciones obligan a pagar un cupón mayor.",
+        "Porque la ley de un solo precio prohíbe valorar la liquidez."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los inversores valoran poder operar con facilidad. Incluso entre títulos de crédito muy parecido puede existir una prima de liquidez. Una emisión reciente muy negociada puede cotizar más cara por esa ventaja.",
+        "La facilidad para negociar no implica menor solvencia del emisor. En este caso se trata del mismo tipo de referencia soberana. La diferencia considerada corresponde a condiciones de negociación.",
+        "El cupón es contractual y no cambia automáticamente con el volumen negociado. Un rendimiento menor puede surgir de un precio más alto. Hay que separar tasa de cupón de rendimiento de mercado.",
+        "La equivalencia relevante incluye las características económicas del instrumento. Diferencias de facilidad de negociación pueden tener valor. No se trata de pagos y servicios perfectamente idénticos bajo los mismos costos."
+      ]
+    },
+    {
+      "id": "c24-q064",
+      "tema": "Referencia práctica de CDS",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué precaución corresponde al comparar una prima de CDS con el diferencial de un bono frente al Tesoro?",
+      "opciones": [
+        "Suponer que usar una curva de swaps elimina la prima del CDS.",
+        "Tratar la prima del CDS como una tasa de inflación.",
+        "Revisar la referencia de tasas y los supuestos de equivalencia, porque en la práctica puede usarse la curva de swaps como base.",
+        "Considerar siempre ambas cifras idénticas sin mirar contratos ni referencias."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cambiar la referencia no vuelve gratuita la protección. El vendedor sigue asumiendo un pago contingente. La curva base afecta la comparación y la valuación, no elimina el contrato.",
+        "El CDS remunera la protección crediticia. La inflación mide cambios de poder adquisitivo. No son referencias intercambiables ni cubren el mismo riesgo.",
+        "La igualdad simple surge de comparar estrategias realmente equivalentes. En cotizaciones prácticas, la referencia segura de incumplimiento puede vincularse a tasas de swaps y no directamente al Tesoro. Las diferencias de base y de características deben revisarse antes de concluir que existe arbitraje.",
+        "La igualdad del ejemplo depende de supuestos. Diferentes bases, costos o coberturas pueden romper la comparación directa. Una discrepancia numérica por sí sola no prueba una ganancia libre de riesgo."
+      ]
+    },
+    {
+      "id": "c24-q065",
+      "tema": "Distribución de activos e incumplimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa debe $100 dentro de un año. Sus activos finales pueden valer $60, $90 o $150, con probabilidades de 10%, 20% y 70%. Sin otras obligaciones, ¿cuál es la probabilidad de incumplimiento en el modelo terminal?",
+      "opciones": [
+        "30%.",
+        "10%.",
+        "0%.",
+        "70%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se incumple cuando los activos son inferiores a $100. Eso sucede en los estados de $60 y $90. Sus probabilidades suman 10% + 20% = 30%, aunque el valor esperado de activos sea $129.",
+        "Solo se contó el peor estado de $60. También hay faltante cuando los activos valen $90. Ambos escenarios están debajo del umbral de pago.",
+        "El promedio de activos supera la obligación, pero no todos los resultados lo hacen. El incumplimiento depende de la cola de la distribución. Un promedio suficiente no garantiza capacidad de pago en cada estado.",
+        "Este es el peso del estado solvente de $150. Se confundió la probabilidad de cumplir con la de incumplir. La probabilidad solicitada corresponde a los otros dos estados."
+      ]
+    },
+    {
+      "id": "c24-q066",
+      "tema": "Sensibilidad del modelo contable",
+      "dificultad": "avanzada",
+      "pregunta": "En L = −6,445 − 1,192 × ROA + 2,307 × pasivos/activos − 0,346 × UAIIDA/pasivos, solo pasivos/activos aumenta de 60% a 70%. ¿Cómo cambian L y las odds de quiebra, si odds = e elevado a L?",
+      "opciones": [
+        "L aumenta 0,2307 y la probabilidad sube necesariamente 23,07 puntos porcentuales.",
+        "L cae 0,2307 y las odds se multiplican por 0,79.",
+        "L aumenta 0,2307 y las odds se multiplican aproximadamente por 1,26.",
+        "L aumenta 23,07 y las odds se multiplican por e elevado a 23,07."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cambio de L no es un cambio directo de probabilidad. Primero modifica las odds y luego debe transformarse a p = odds / (1 + odds). El incremento de probabilidad depende de su nivel inicial.",
+        "El coeficiente de pasivos sobre activos es positivo. Un aumento de esa razón eleva L, manteniendo lo demás constante. La respuesta invierte el sentido económico del efecto.",
+        "La razón sube 0,10 en escala decimal. El cambio de L es 2,307 × 0,10 = 0,2307. Como las odds son exponenciales, su factor de aumento es e elevado a 0,2307, aproximadamente 1,26.",
+        "Se ingresaron diez puntos porcentuales como 10 en lugar de 0,10. La fórmula utiliza razones decimales. Ese error exagera cien veces el cambio del logaritmo."
+      ]
+    },
+    {
+      "id": "c24-q067",
+      "tema": "Probabilidad acumulada y condicional",
+      "dificultad": "avanzada",
+      "pregunta": "En una cohorte original, 12% incumplió hasta el año cinco y 24% hasta el año diez. No hay salidas de muestra por otras razones. Entre los que llegaron sin incumplir al año cinco, ¿qué proporción incumple durante los cinco años siguientes?",
+      "opciones": [
+        "12%.",
+        "24%.",
+        "2,4%.",
+        "Aproximadamente 13,64%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La resta da el incremento sobre la cohorte original. La pregunta condiciona a haber sobrevivido cinco años. Hay que dividir por el 88% que seguía expuesto sin incumplir.",
+        "Esta es la probabilidad acumulada desde el inicio hasta el año diez. Incluye eventos anteriores al año cinco. No corresponde al intervalo condicional solicitado.",
+        "Dividir el incremento de 12 puntos por cinco años no calcula la probabilidad del intervalo. Tampoco incorpora la condición de supervivencia. Se requiere el cociente entre incumplimientos adicionales y sobrevivientes iniciales del intervalo.",
+        "Los incumplimientos adicionales representan 24% − 12% = 12% de la cohorte original. Al año cinco sigue sin incumplir 88% de esa cohorte. La probabilidad condicional es 12 / 88 = 13,64% aproximadamente."
+      ]
+    },
+    {
+      "id": "c24-q068",
+      "tema": "Arbitraje con protección",
+      "dificultad": "avanzada",
+      "pregunta": "En un mercado ideal, un flotante corporativo a la par paga 8%, el seguro comparable paga 6% y un CDS perfectamente equivalente cuesta 1%. Suponé igual nominal, vendedor seguro y financiamiento sin fricciones. ¿Qué operación señala la inconsistencia de precios?",
+      "opciones": [
+        "Concluir que no hay diferencia porque la protección cuesta menos que el cupón.",
+        "Comprar el bono corporativo y su protección, financiando la posición a la tasa segura, porque queda un margen neto positivo.",
+        "Comprar protección sin bono y afirmar que eso genera intereses sin costo.",
+        "Comprar solo el bono corporativo y tratar los dos puntos de diferencial como ganancia segura."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Comparar la prima con todo el cupón no es la condición relevante. La referencia segura también remunera la inversión. Hay que comparar 8% menos 1% con 6%, y queda un exceso positivo.",
+        "La cartera protegida produce 8% − 1% = 7% en términos comparables. Su costo de financiamiento es 6% y queda un margen de un punto porcentual bajo los supuestos ideales. Esa oportunidad indica que los precios no son consistentes con la equivalencia postulada.",
+        "Un CDS comprado exige pagar una prima. Sin el activo no produce los cupones de 8% mencionados. La estrategia de arbitraje debe comparar carteras completas con sus costos.",
+        "Sin protección sigue existiendo riesgo de incumplimiento. El diferencial no es una ganancia segura por sí mismo. La inconsistencia del ejemplo aparece al cubrir perfectamente el crédito y comparar el resultado neto con el costo seguro."
+      ]
+    },
+    {
+      "id": "c24-q069",
+      "tema": "Valor temporal del capital deteriorado",
+      "dificultad": "intermedia",
+      "pregunta": "Los activos de una firma valen hoy menos que su deuda, que vence el año próximo. Aun así, sus acciones cotizan a un precio positivo. ¿Qué explicación es compatible con el modelo?",
+      "opciones": [
+        "El capital debe valer cero siempre que los activos actuales sean inferiores al nominal.",
+        "La posibilidad de recuperación antes del vencimiento da valor temporal a la opción de los accionistas.",
+        "La cotización positiva prueba que la deuda es segura.",
+        "Los accionistas tienen prioridad legal sobre los acreedores en el modelo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Eso confunde valor de liquidación inmediata con valor de una opción que aún no vence. Antes del vencimiento puede existir posibilidad de recuperación. La comparación actual no determina por sí sola el valor total del capital.",
+        "No se está liquidando necesariamente la empresa hoy. Si los activos mejoran lo suficiente, habrá un residual para el capital al vencimiento. Esa posibilidad puede dar valor a una call aunque hoy está fuera del dinero.",
+        "Una call puede tener valor aun cuando el incumplimiento sea probable. El alza potencial favorece al capital mientras parte de la baja recae en los acreedores. La existencia de valor accionario no garantiza el pago de la deuda.",
+        "La prioridad sigue correspondiendo a la deuda. El capital cobra únicamente si queda excedente. Su valor positivo surge del potencial futuro y no de cobrar antes."
+      ]
+    },
+    {
+      "id": "c24-q070",
+      "tema": "Ciclo y financiamiento especulativo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa pequeña quiere financiar una gran adquisición con deuda originalmente especulativa. Su director supone que el acceso al mercado será estable aunque se deteriore la economía. ¿Qué advertencia corresponde?",
+      "opciones": [
+        "El alto apalancamiento puede aumentar el riesgo y el mercado de nuevas emisiones puede contraerse en etapas de más incumplimientos.",
+        "La categoría especulativa asegura compradores aun durante una recesión.",
+        "Una empresa pequeña no puede comprar una grande usando deuda.",
+        "La adquisición vuelve automáticamente grado de inversión a la deuda emitida."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda de alto rendimiento ha permitido financiar adquisiciones grandes respecto del tamaño del comprador. Ese acceso no es permanente ni insensible al ciclo. Un deterioro de solvencia y apetito por riesgo puede encarecer o restringir nuevas emisiones.",
+        "La mayor tasa prometida no obliga a los inversores a comprar. La demanda puede caer si aumentan las pérdidas esperadas o la aversión al riesgo. El acceso al mercado debe evaluarse bajo escenarios adversos.",
+        "El financiamiento puede permitir operaciones mayores que el capital previo del comprador. El punto relevante es la capacidad de sostener las obligaciones. No hay una imposibilidad derivada únicamente del tamaño inicial.",
+        "El destino de los fondos no garantiza calidad crediticia. Una compra financiada con mucha deuda puede elevar el riesgo. La calificación depende de la capacidad de pago resultante."
+      ]
+    }
+  ]
+}

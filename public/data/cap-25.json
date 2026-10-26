@@ -1,0 +1,386 @@
+{
+  "capitulo": 25,
+  "titulo": "Las diversas clases de deuda",
+  "preguntas": [
+    {
+      "id": "c25-q001",
+      "tema": "Elecci?n del endeudamiento",
+      "dificultad": "basica",
+      "pregunta": "Una empresa necesita financiar inventarios durante cuatro meses y cobra sus exportaciones en d?lares. ?Qu? criterio deber?a guiar la elecci?n de su deuda?",
+      "opciones": [
+        "Elegir siempre el mayor plazo disponible.",
+        "Elegir la moneda con menor tasa nominal, sin considerar los cobros.",
+        "Ajustar el plazo a la necesidad y evaluar la moneda de los cobros.",
+        "Emitir convertibles porque siempre cuestan menos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un vencimiento largo puede reducir renovaciones, pero tambi?n generar costos innecesarios. La necesidad descrita dura cuatro meses. Debe evaluarse la correspondencia entre financiamiento y uso de fondos.",
+        "La tasa nominal no incorpora el efecto de una variaci?n cambiaria. Una deuda barata en otra moneda puede encarecerse al medirla contra los ingresos. La moneda debe evaluarse junto con el flujo que atender? los pagos.",
+        "Una necesidad transitoria orienta hacia deuda de corto plazo. Endeudarse en la moneda de los cobros puede reducir el descalce cambiario. La elecci?n tambi?n exige comparar costos y condiciones, no solo el cup?n.",
+        "El convertible incorpora una opci?n valiosa para el inversor. Su cup?n reducido remunera la cesi?n de ese derecho. No demuestra que su costo econ?mico total sea menor."
+      ]
+    },
+    {
+      "id": "c25-q002",
+      "tema": "Pasivos fuera del balance",
+      "dificultad": "intermedia",
+      "pregunta": "Un director sostiene que una deuda dej? de ser riesgosa porque la tom? una entidad separada que financia a la matriz. ?Cu?l es la mejor evaluaci?n?",
+      "opciones": [
+        "Hay que analizar garant?as, compromisos y exposici?n econ?mica de la matriz.",
+        "La separaci?n jur?dica elimina cualquier exposici?n econ?mica.",
+        "Solo importan los pasivos que aparecen expresamente en el balance individual.",
+        "Los arrendamientos y las pensiones nunca deben considerarse obligaciones financieras."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La presentaci?n contable no alcanza para medir el riesgo econ?mico. Una entidad separada puede conservar v?nculos contractuales o financieros con la matriz. Tambi?n deben revisarse obligaciones como arrendamientos y compromisos previsionales.",
+        "La separaci?n puede limitar ciertos reclamos, pero no borra las garant?as asumidas. Tambi?n pueden existir compromisos de apoyo u otras exposiciones. Hay que leer los contratos y evaluar los flujos comprometidos.",
+        "El balance individual puede omitir exposiciones que s? importan para el grupo. El an?lisis financiero debe incorporar compromisos y garant?as relevantes. Confundir visibilidad contable con inexistencia econ?mica subestima el endeudamiento.",
+        "Ambos pueden exigir pagos futuros significativos. Sus condiciones difieren de las de un bono, pero afectan la capacidad de pago. Excluirlos por su nombre impide comparar correctamente las obligaciones de la empresa."
+      ]
+    },
+    {
+      "id": "c25-q003",
+      "tema": "Deuda y pensiones",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene un d?ficit previsional de $80 millones. Emite bonos por $50 millones y aporta ?ntegramente ese efectivo al fondo de pensiones; sin otros cambios, ?c?mo var?a la suma de bonos y d?ficit previsional?",
+      "opciones": [
+        "Aumenta $50 millones.",
+        "Disminuye $50 millones.",
+        "Disminuye $80 millones.",
+        "$0: suben los bonos en $50 millones y baja el d?ficit en igual monto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este c?lculo incorpora los nuevos bonos pero omite el aporte al fondo. El aporte reduce el d?ficit de $80 a $30 millones. La obligaci?n agregada no aumenta bajo los supuestos indicados.",
+        "El aporte disminuye la obligaci?n previsional, pero se financia con nueva deuda. Deben sumarse los $30 millones restantes y los $50 millones de bonos. La mejora previsional no es una reducci?n gratuita del pasivo total.",
+        "El d?ficit no se cancela por completo, porque el aporte es de $50 millones. Adem?s, los bonos siguen pendientes. La suma econ?mica permanece en $80 millones.",
+        "Inicialmente el d?ficit representa una obligaci?n de $80 millones. Despu?s quedan $30 millones de d?ficit y aparecen $50 millones de bonos. La suma sigue siendo $80 millones: se sustituy? una obligaci?n por otra."
+      ]
+    },
+    {
+      "id": "c25-q004",
+      "tema": "Bonos nacionales y extranjeros",
+      "dificultad": "basica",
+      "pregunta": "Una empresa argentina emite en el mercado local estadounidense para inversores de ese mercado; otra empresa extranjera hace lo mismo en Jap?n. ?C?mo se conocen habitualmente esas emisiones?",
+      "opciones": [
+        "Bono nacional argentino y eurobono, respectivamente.",
+        "Bono yanqui y bono samur?i, respectivamente.",
+        "Eurobono y bono yanqui, respectivamente.",
+        "Ambas son bonos samur?i por tener emisor extranjero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La nacionalidad del emisor no convierte en local argentina una colocaci?n estadounidense. Tampoco toda colocaci?n fuera del pa?s propio es un eurobono. Importa el mercado en que se ofrece el t?tulo.",
+        "Un bono extranjero se coloca en el mercado nacional de otro pa?s. La denominaci?n yanqui corresponde al mercado estadounidense. La denominaci?n samur?i se asocia al japon?s.",
+        "Un bono colocado dentro del mercado nacional estadounidense no es autom?ticamente un eurobono. Yanqui tampoco identifica una colocaci?n japonesa. Los nombres dependen del mercado receptor.",
+        "Samur?i no es una categor?a gen?rica para toda deuda extranjera. Identifica una colocaci?n en Jap?n por un emisor extranjero. El equivalente para el mercado estadounidense es yanqui."
+      ]
+    },
+    {
+      "id": "c25-q005",
+      "tema": "Eurobonos",
+      "dificultad": "basica",
+      "pregunta": "?Qu? distingue a un eurobono de un bono simplemente denominado en euros?",
+      "opciones": [
+        "Su obligaci?n de pagar exclusivamente en euros.",
+        "Su colocaci?n en el mercado internacional, y no la moneda euro.",
+        "La obligaci?n de que el emisor tenga sede en Europa.",
+        "La ausencia de cualquier contrato o norma aplicable."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El prefijo puede inducir a confundir mercado con moneda. La denominaci?n en euros no es un requisito definitorio. Hay emisiones internacionales en otras divisas.",
+        "La categor?a identifica un mercado internacional de colocaci?n. Un eurobono puede estar denominado en d?lares, yenes u otra moneda. Un bono en euros colocado en un mercado nacional no adquiere por eso la condici?n de eurobono.",
+        "El domicilio europeo del emisor no define el instrumento. Empresas de distintos pa?ses pueden acudir al mercado internacional. La clasificaci?n depende de la estructura de colocaci?n.",
+        "Una colocaci?n internacional sigue teniendo contratos y reglas aplicables. No equivale a un espacio sin obligaciones legales. Debe distinguirse del r?gimen de oferta de un mercado nacional particular."
+      ]
+    },
+    {
+      "id": "c25-q006",
+      "tema": "Bonos globales y colocaciones institucionales",
+      "dificultad": "intermedia",
+      "pregunta": "Un emisor quiere vender simult?neamente en el mercado internacional y mediante una oferta p?blica registrada en Estados Unidos. ?Qu? instrumento corresponde, y qu? diferencia tiene con la v?a institucional 144A descrita para este contexto?",
+      "opciones": [
+        "Un bono al portador; la v?a 144A permite vender sin restricciones a cualquier minorista.",
+        "Un bono samur?i; la v?a 144A obliga a convertirlo en acciones.",
+        "Un bono hipotecario; la v?a 144A garantiza su capital con fondos p?blicos.",
+        "Un bono global; la v?a 144A se dirige a compradores institucionales calificados."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La forma al portador trata sobre acreditar la propiedad. No define una oferta global. La alternativa institucional tampoco equivale a una venta abierta a todo minorista.",
+        "Samur?i identifica el mercado japon?s, ausente en el caso. La conversi?n en acciones es una caracter?stica contractual distinta. Ninguna de esas propiedades se deriva de la v?a institucional mencionada.",
+        "Una hipoteca define una garant?a real. No determina los mercados donde se vende el bono. La v?a institucional tampoco transforma el riesgo del emisor en una obligaci?n estatal.",
+        "La colocaci?n global combina acceso internacional y acceso al mercado estadounidense. La v?a 144A descrita es una alternativa institucional a la oferta p?blica registrada. Esa v?a no supone acceso irrestricto del p?blico minorista ni garant?a estatal."
+      ]
+    },
+    {
+      "id": "c25-q007",
+      "tema": "Origen e integraci?n de mercados",
+      "dificultad": "intermedia",
+      "pregunta": "?Qu? ense?anza econ?mica deja el surgimiento de los eurobonos frente a impuestos y restricciones hist?ricas a los movimientos de capital?",
+      "opciones": [
+        "La regulaci?n puede impulsar mercados alternativos y la competencia tiende a acercar sus costos.",
+        "Un mercado que surge por un impuesto desaparece necesariamente cuando el impuesto se elimina.",
+        "Los mercados nacionales e internacionales deben ofrecer tasas id?nticas en toda circunstancia.",
+        "La innovaci?n solo responde a cambios tecnol?gicos y nunca a impuestos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los participantes buscan estructuras que reduzcan costos y restricciones. Un mercado alternativo puede subsistir cuando desarrolla escala y servicios propios. La competencia aproxima tasas, aunque pueden persistir diferencias de costos y condiciones.",
+        "La eliminaci?n del incentivo inicial no destruye las capacidades creadas. Intermediarios y emisores pueden seguir encontrando ventajas en ese mercado. Su continuidad depende del costo y la utilidad que ofrezca.",
+        "La competencia no elimina autom?ticamente toda diferencia contractual o regulatoria. Los costos de emisi?n y las caracter?sticas de la deuda tambi?n cuentan. Por eso conviene comparar costos completos entre mercados.",
+        "Los impuestos y las normas alteran los incentivos econ?micos. Pueden estimular nuevos mercados e instrumentos. La tecnolog?a facilita su ejecuci?n, pero no es su ?nica causa."
+      ]
+    },
+    {
+      "id": "c25-q008",
+      "tema": "Puntos b?sicos",
+      "dificultad": "basica",
+      "pregunta": "Una emisi?n de $400 millones consigue una tasa anual 15 puntos b?sicos menor en otro mercado. Si el principal permanece constante, ?cu?l es el ahorro anual bruto de intereses?",
+      "opciones": [
+        "$6.000.000.",
+        "$60.000.",
+        "$600.000.",
+        "$60.000.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El resultado aplica una reducci?n de 1,5%. Eso equivale a 150 puntos b?sicos, diez veces la reducci?n indicada. Debe usarse 0,0015 como tasa decimal.",
+        "El resultado corresponde a 1,5 puntos b?sicos. Quince puntos b?sicos representan 0,15% del principal. La multiplicaci?n correcta arroja $600.000.",
+        "Un punto b?sico equivale a 0,01 punto porcentual. Quince puntos b?sicos son 0,15%, es decir, 0,0015. Multiplicar $400 millones por 0,0015 da $600.000 anuales antes de otros costos.",
+        "Este importe interpreta 15 puntos b?sicos como 15%. Confunde dos unidades muy diferentes. La reducci?n real es de apenas 0,15 punto porcentual."
+      ]
+    },
+    {
+      "id": "c25-q009",
+      "tema": "Contrato fiduciario e incumplimiento",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l es la funci?n principal del fiduciario de una emisi?n p?blica de bonos?",
+      "opciones": [
+        "Garantizar con su patrimonio todos los pagos del emisor.",
+        "Elegir los proyectos de inversi?n que maximizan el valor de las acciones.",
+        "Sustituir el prospecto por recomendaciones informales del colocador.",
+        "Representar a los bonistas y vigilar el cumplimiento del contrato, incluso ante un incumplimiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Representar a los tenedores no equivale a asegurarles el cobro. El riesgo de cr?dito sigue dependiendo del emisor y de las garant?as pactadas. Una garant?a del fiduciario requerir?a un compromiso adicional expreso.",
+        "La administraci?n elige las inversiones de la empresa. El fiduciario protege los derechos contractuales de los bonistas. Confundir esas funciones desplaza indebidamente el objetivo de su representaci?n.",
+        "El prospecto resume condiciones relevantes de la emisi?n. El contrato contiene derechos exigibles que no se sustituyen por comentarios comerciales. La funci?n fiduciaria opera dentro de ese marco formal.",
+        "El fiduciario centraliza la representaci?n de numerosos tenedores. Supervisa las obligaciones pactadas y act?a conforme al contrato si hay incumplimiento. Los derechos pueden incluir exigir el vencimiento anticipado bajo condiciones establecidas."
+      ]
+    },
+    {
+      "id": "c25-q010",
+      "tema": "Registro y propiedad",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l es la diferencia entre bonos registrados y bonos al portador?",
+      "opciones": [
+        "Registrado significa necesariamente aprobado como inversi?n sin riesgo.",
+        "En los registrados se lleva un padr?n de propietarios; en los tradicionales al portador, la posesi?n del certificado acredita la titularidad.",
+        "Al portador significa que el fiduciario conoce siempre la identidad de cada tenedor.",
+        "Registrado y cotizado en bolsa significan exactamente lo mismo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El registro de titularidad no es una certificaci?n de solvencia. Un t?tulo registrado puede sufrir incumplimiento. Deben separarse identificaci?n del propietario y calidad crediticia.",
+        "El registro permite identificar a qui?n corresponden intereses y principal. Puede instrumentarse mediante anotaciones electr?nicas sin certificados f?sicos. La forma tradicional al portador descansa en la posesi?n del documento y dificulta rastrear la propiedad.",
+        "La dificultad de identificar a todos los propietarios caracteriza precisamente al sistema al portador. La posesi?n del certificado es la evidencia central. No debe confundirse con un padr?n nominativo.",
+        "La cotizaci?n describe d?nde se negocia un valor. El registro describe c?mo se identifica su titular. Un t?tulo puede ser registrado sin que ambas propiedades sean equivalentes."
+      ]
+    },
+    {
+      "id": "c25-q011",
+      "tema": "Precio limpio e inter?s corrido",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de nominal $1.000 cotiza a 98 y paga un cup?n anual de 6%. Se liquida 60 d?as despu?s del ?ltimo cup?n; usando base 30/360, ?cu?nto paga el comprador?",
+      "opciones": [
+        "$980.",
+        "$1.040.",
+        "$990.",
+        "$1.010."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe solo contempla el precio limpio. El vendedor tambi?n tiene derecho al inter?s acumulado de $10. El comprador paga $990 y despu?s recibe el cup?n completo cuando corresponda.",
+        "Se agreg? el cup?n anual completo de $60. Solo transcurrieron 60 de los 360 d?as de la convenci?n. El inter?s corrido que corresponde es $10.",
+        "La cotizaci?n 98 significa un precio limpio de $980. El inter?s corrido es $1.000 ? 0,06 ? 60/360 = $10. El precio total o sucio es $980 + $10 = $990.",
+        "Se agreg? medio cup?n anual, como si hubieran transcurrido 180 d?as. El enunciado fija 60 d?as. La proporci?n correcta es 60/360, no 1/2."
+      ]
+    },
+    {
+      "id": "c25-q012",
+      "tema": "Margen de colocaci?n",
+      "dificultad": "intermedia",
+      "pregunta": "Una emisi?n tiene nominal total de $20 millones. El p?blico paga 99% y el emisor recibe neto 98%, sin inter?s corrido ni otros gastos; ?cu?nto recibe la empresa y cu?nto retienen los colocadores?",
+      "opciones": [
+        "$19,6 millones y $0,2 millones.",
+        "$19,8 millones y $0,2 millones.",
+        "$19,6 millones y $0,4 millones.",
+        "$20 millones y $0,2 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El p?blico desembolsa $20 millones ? 0,99 = $19,8 millones. El emisor recibe $20 millones ? 0,98 = $19,6 millones. La diferencia de $0,2 millones es el margen de colocaci?n.",
+        "Se atribuye al emisor el importe bruto pagado por los compradores. Falta restar el margen de los colocadores. El neto contractual es 98% del nominal.",
+        "La empresa s? recibe $19,6 millones, pero el margen est? sobredimensionado. La diferencia entre 99% y 98% es un punto del nominal. El descuento adicional respecto de la par no es ingreso del colocador.",
+        "El nominal es la base contractual, no el efectivo que entra al emitir. Una colocaci?n bajo la par produce menos efectivo que ese nominal. Despu?s del margen, entran $19,6 millones."
+      ]
+    },
+    {
+      "id": "c25-q013",
+      "tema": "Cup?n y frecuencia de pago",
+      "dificultad": "basica",
+      "pregunta": "Un bono de nominal $2.000 tiene cup?n anual de 8%, pagadero semestralmente. ?Cu?nto paga en cada semestre?",
+      "opciones": [
+        "$160.",
+        "$40.",
+        "$80.",
+        "$2.080."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es el cup?n de todo el a?o. Pagarlo dos veces producir?a una tasa anual de cup?n de 16%. La frecuencia semestral exige dividir el importe anual entre dos.",
+        "Se dividi? el cup?n anual entre cuatro. Eso corresponder?a a pagos trimestrales iguales. El bono descrito realiza dos pagos al a?o.",
+        "El cup?n anual es $2.000 ? 0,08 = $160. Como hay dos pagos iguales por a?o, cada uno es $160/2 = $80. El capital solo se devuelve cuando lo establezca el contrato.",
+        "Se agreg? el capital al inter?s semestral. El enunciado pregunta por un cup?n, no por el pago final de principal. En un semestre ordinario solo corresponden $80."
+      ]
+    },
+    {
+      "id": "c25-q014",
+      "tema": "Convenciones de rendimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono cotiza un rendimiento nominal anual de 10% con capitalizaci?n semestral. ?Qu? tasa efectiva anual permite compararlo con un instrumento de capitalizaci?n anual?",
+      "opciones": [
+        "10%.",
+        "5%.",
+        "21%.",
+        "10,25%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La cotizaci?n nominal suma dos tasas semestrales. No incorpora el inter?s sobre el inter?s del primer semestre. Para comparar bases hay que capitalizar ambos per?odos.",
+        "El 5% es la tasa de seis meses. Falta incorporar el segundo semestre. La tasa anual efectiva resulta de elevar 1,05 al cuadrado y restar uno.",
+        "El 21% surge de capitalizar 10% dos veces. Eso trata la cotizaci?n anual como si fuera una tasa semestral. Primero debe dividirse el 10% entre dos.",
+        "La tasa por semestre es 10%/2 = 5%. En un a?o se acumula un factor 1,05 ? 1,05 = 1,1025. La tasa efectiva anual es 10,25%."
+      ]
+    },
+    {
+      "id": "c25-q015",
+      "tema": "Cup?n cero y descuento original",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono sin cupones promete $1.210 dentro de dos a?os y exige una rentabilidad efectiva anual de 10%, sin riesgo de impago. ?Cu?l es su precio hoy?",
+      "opciones": [
+        "$1.210.",
+        "$1.000.",
+        "$990.",
+        "$1.100."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se tom? el pago futuro como si estuviera disponible hoy. Falta descontar el costo de oportunidad durante dos a?os. Un cup?n cero no implica rentabilidad nula.",
+        "No hay intereses peri?dicos que sumar al valor presente. El ?nico pago se descuenta dos a?os: $1.210/(1,10)^2 = $1.000. Los $210 de aumento hasta el vencimiento generan la rentabilidad requerida.",
+        "Se restaron dos intereses simples calculados sobre el principal futuro. El descuento compuesto divide por el factor acumulado correspondiente. Ese factor es 1,21 y el precio correcto es $1.000.",
+        "Este valor descuenta un solo a?o. El pago ocurre dentro de dos a?os. Deben aplicarse dos factores de descuento de 1,10."
+      ]
+    },
+    {
+      "id": "c25-q016",
+      "tema": "Promesas de pago especiales",
+      "dificultad": "avanzada",
+      "pregunta": "Sin valor de canje, beneficios externos ni pagos contingentes, ?qu? distingue a un cup?n cero perpetuo de un bono de utilidades?",
+      "opciones": [
+        "El primero no entrega flujos y vale cero; el segundo condiciona los intereses a las ganancias estipuladas.",
+        "Ambos garantizan un cup?n anual fijo aunque no haya ganancias.",
+        "El cup?n cero perpetuo paga necesariamente su nominal el pr?ximo a?o.",
+        "El bono de utilidades es una acci?n com?n con derecho irrestricto de voto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un cup?n cero perpetuo carece tanto de cupones como de una fecha de devoluci?n. Sin otras prestaciones, su valor presente es cero. El bono de utilidades s? puede pagar intereses, pero bajo la condici?n de resultados prevista en su contrato.",
+        "El cup?n cero no promete intereses peri?dicos. En el bono de utilidades, el inter?s depende de una condici?n. Ninguno coincide con un bono ordinario de cup?n fijo incondicional.",
+        "Perpetuo significa que no existe ese vencimiento final. No puede inventarse una devoluci?n al a?o siguiente. La falta de flujos explica el valor cero bajo los supuestos dados.",
+        "Un bono de utilidades conserva naturaleza de deuda bajo condiciones especiales. Vincular un inter?s a resultados no lo convierte autom?ticamente en capital com?n. Los derechos pol?ticos y residuales son distintos."
+      ]
+    },
+    {
+      "id": "c25-q017",
+      "tema": "Tasa flotante con banda",
+      "dificultad": "intermedia",
+      "pregunta": "Una nota paga una referencia anual m?s 1 punto porcentual, con piso de 4% y techo de 7%. En el ajuste la referencia vale 8%; con nominal $1.000 y per?odo de medio a?o, ?cu?nto inter?s corresponde?",
+      "opciones": [
+        "$45.",
+        "$40.",
+        "$20.",
+        "$35."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se utiliz? la tasa de 9% sin aplicar el techo. La banda limita el cup?n aunque la referencia sea alta. Debe calcularse el pago con 7% anual.",
+        "Se tom? la referencia de 8% sin margen ni l?mites. El contrato primero agrega el margen y despu?s aplica la banda. La tasa resultante es 7%, no 8%.",
+        "Este importe utiliza el piso de 4%. El piso act?a cuando la tasa calculada es demasiado baja. Aqu? opera el techo porque la tasa sin l?mite llega a 9%.",
+        "La tasa sin l?mite ser?a 8% + 1% = 9%. El techo la reduce a 7% anual. El pago semestral es $1.000 ? 0,07 ? 1/2 = $35."
+      ]
+    },
+    {
+      "id": "c25-q018",
+      "tema": "Cobertura de tasas y riesgo de cr?dito",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera compara una deuda flotante con techo y otra flotante sin techo acompa?ada por un cap comprado a un banco. ?Qu? evaluaci?n es correcta?",
+      "opciones": [
+        "La tasa flotante asegura siempre recuperar el nominal aunque quiebre el emisor.",
+        "El techo obliga al acreedor a cobrar por encima del m?ximo pactado.",
+        "Pueden limitar de manera similar el inter?s, pero la nota flotante no elimina el riesgo crediticio y el cap agrega exposici?n contractual al banco.",
+        "El cap convierte autom?ticamente la deuda en una obligaci?n de tasa fija."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La actualizaci?n de la tasa reduce exposici?n a movimientos de tasas de mercado. No genera activos con los cuales pagar una deuda insolvente. El riesgo crediticio puede aumentar aunque el cup?n se reajuste.",
+        "El techo establece un m?ximo, no un m?nimo. Su funci?n es contener los pagos del deudor cuando sube la referencia. Cobrar por encima de ese m?ximo contradice la condici?n contractual.",
+        "El cap paga conforme al exceso de la referencia sobre el nivel pactado. Puede reproducir el l?mite de intereses si se alinean nominal, fechas y condiciones. La revisi?n crediticia sigue siendo necesaria y el derivado introduce otra contraparte.",
+        "Debajo del techo la tasa puede seguir variando. El instrumento solo limita ciertos aumentos. Una tasa fija exige que todos los pagos relevantes queden fijados por el contrato o la cobertura."
+      ]
+    },
+    {
+      "id": "c25-q019",
+      "tema": "Garant?a y prioridad",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l es la relaci?n correcta entre deuda prioritaria, subordinada y garantizada?",
+      "opciones": [
+        "La prioridad establece el orden de cobro y la garant?a asigna derechos sobre activos espec?ficos.",
+        "Toda deuda prioritaria tiene necesariamente una hipoteca.",
+        "Toda deuda sin garant?a est? subordinada a las dem?s obligaciones sin garant?a.",
+        "La deuda subordinada cobra despu?s de los accionistas comunes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Son dos dimensiones diferentes del contrato. Una obligaci?n general puede ser prioritaria sin tener garant?a espec?fica. La deuda subordinada se ubica detr?s de acreedores de mayor rango, pero delante del capital.",
+        "Una hipoteca es una forma de garant?a. La prioridad contractual puede existir sin ella. Confundir ambas propiedades impide interpretar correctamente el orden de cobro.",
+        "Entre las obligaciones sin garant?a puede haber deuda prioritaria y subordinada. El contrato define su rango. La falta de un activo afectado no implica autom?ticamente el ?ltimo lugar entre los acreedores.",
+        "El capital com?n es residual respecto de la deuda. La subordinaci?n desplaza al acreedor detr?s de otros acreedores, no detr?s del accionista com?n. Bajo prioridad estricta, los accionistas cobran solo despu?s de atender todas las deudas."
+      ]
+    },
+    {
+      "id": "c25-q020",
+      "tema": "Liquidaci?n con garant?a insuficiente",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa se liquida sin costos: tiene una garant?a que vale $60 millones y otros activos por $60 millones. Debe $100 millones de deuda garantizada y $80 millones de deuda general prioritaria; el faltante garantizado concurre a prorrata como cr?dito general. ?Cu?nto cobra cada clase?",
+      "opciones": [
+        "$100 millones la garantizada y $20 millones la general.",
+        "$80 millones la garantizada y $40 millones la general.",
+        "$60 millones cada una.",
+        "$60 millones la garantizada y $80 millones la general."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La garant?a no asegura cobrar los $100 millones con prioridad sobre cualquier activo. Solo afecta los $60 millones especificados. El faltante compite con la deuda general a prorrata.",
+        "La garant?a entrega primero $60 millones a su acreedor. El faltante de $40 millones comparte los otros $60 millones con cr?ditos generales de $80 millones: recibe un tercio, o $20 millones. La deuda garantizada cobra $80 millones en total y la general $40 millones.",
+        "El acreedor garantizado no pierde su derecho general por el faltante. A sus $60 millones iniciales agrega $20 millones de los activos libres. Repartir por mitades omite esa segunda etapa.",
+        "Esta distribuci?n suma $140 millones, pero solo existen $120 millones. Adem?s de respetar la garant?a, hay que limitar el reparto al patrimonio disponible. Los cr?ditos generales reciben la mitad de sus importes reconocidos."
+      ]
+    }
+  ]
+}
