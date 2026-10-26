@@ -1,0 +1,1222 @@
+{
+  "capitulo": 10,
+  "titulo": "Presupuesto de capital y riesgo",
+  "preguntas": [
+    {
+      "id": "c10-q001",
+      "tema": "Costo de capital de la empresa",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el costo de capital de una empresa?",
+      "opciones": [
+        "La tasa de interés de su último préstamo.",
+        "La rentabilidad contable histórica de sus activos.",
+        "El rendimiento esperado de un portafolio con todos sus títulos, ponderados a valor de mercado.",
+        "El mayor rendimiento exigido entre sus fuentes de fondos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El préstamo es solo una fuente de financiamiento. Los accionistas también exigen remuneración por aportar fondos y soportar riesgo. Hay que ponderar los rendimientos de todas las fuentes pertinentes.",
+        "La rentabilidad contable depende de resultados y valores registrados. El costo de capital refleja rendimientos futuros exigidos por los inversionistas. No debe confundirse una medida histórica con un costo de oportunidad.",
+        "Quien posee todos los títulos recibe en conjunto los flujos de los activos. Su rendimiento esperado mide el costo de oportunidad de invertir en la empresa. Cada título pesa según su valor de mercado.",
+        "El costo conjunto es un promedio ponderado y no un máximo. Elegir la fuente más exigente ignora las demás. Se necesitan sus valores de mercado y rendimientos esperados."
+      ]
+    },
+    {
+      "id": "c10-q002",
+      "tema": "Riesgo promedio",
+      "dificultad": "basica",
+      "pregunta": "¿Cuándo corresponde descontar un proyecto al costo de capital de la empresa?",
+      "opciones": [
+        "Cuando tiene el mismo riesgo sistemático que los activos actuales.",
+        "Cuando requiere poco dinero.",
+        "Cuando se financia exclusivamente con deuda.",
+        "Cuando pertenece a la misma sociedad legal."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa debe reflejar el riesgo del destino de los fondos. Si el proyecto reproduce el riesgo de los activos existentes, la tasa corporativa es apropiada. El monto y la fuente de fondos no reemplazan esa comparación.",
+        "Una inversión pequeña puede tener una beta muy distinta. El monto determina la escala del valor creado, pero no su rendimiento requerido. Hay que estudiar su exposición al mercado.",
+        "El préstamo no convierte en seguros los flujos operativos. Usar el costo de deuda confunde inversión con financiamiento. El costo de oportunidad debe corresponder al riesgo del proyecto.",
+        "Una sociedad puede reunir actividades con riesgos diferentes. La identidad jurídica no iguala sus betas. Cada inversión debe evaluarse por su exposición económica."
+      ]
+    },
+    {
+      "id": "c10-q003",
+      "tema": "Aditividad del valor",
+      "dificultad": "intermedia",
+      "pregunta": "Sin sinergias ni cambios en los flujos, ¿cómo se valúan dos negocios con riesgos distintos?",
+      "opciones": [
+        "Se descuentan ambos a la tasa del negocio más seguro.",
+        "Se usa siempre la tasa del comprador.",
+        "Se agrega un premio por reunirlos bajo una sociedad.",
+        "Se valúa cada uno a su propia tasa y se suman sus valores presentes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La tasa del negocio seguro no remunera el riesgo adicional del otro. Aplicarla a ambos sobrevalúa el componente riesgoso. Hay que descontar cada componente a su costo de oportunidad.",
+        "El comprador puede operar en actividades muy diferentes. Su tasa no determina el riesgo del activo adquirido. En estas condiciones, el valor no debe cambiar por la identidad del propietario.",
+        "La combinación legal no genera flujos adicionales por sí sola. Los accionistas ya pueden diversificar sus inversiones. Sin efectos económicos adicionales, no se justifica ese premio.",
+        "Cada negocio puede analizarse como una inversión independiente. Su valor depende de sus flujos y riesgo. El valor conjunto es la suma de los valores separados."
+      ]
+    },
+    {
+      "id": "c10-q004",
+      "tema": "Empresa sin deuda",
+      "dificultad": "basica",
+      "pregunta": "Una empresa solo emite acciones ordinarias y no tiene deuda. ¿Cómo se relacionan su costo corporativo y su costo de capital propio?",
+      "opciones": [
+        "El costo corporativo es cero.",
+        "Coinciden.",
+        "El costo corporativo es necesariamente la tasa libre de riesgo.",
+        "El costo corporativo es la mitad del costo accionario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El capital propio tiene un costo de oportunidad. Sus aportantes podrían invertir en otras alternativas de riesgo comparable. No pagar intereses no significa obtener fondos gratuitos.",
+        "Las acciones representan todos los derechos sobre los activos. El portafolio de todos los títulos contiene únicamente esas acciones. Por eso ambos rendimientos requeridos coinciden.",
+        "La ausencia de deuda no elimina el riesgo operativo. Los accionistas siguen expuestos a resultados inciertos. Su rendimiento requerido depende del riesgo sistemático del negocio.",
+        "No existe una segunda fuente que justifique dividir el costo. Las acciones pesan el cien por ciento en el financiamiento considerado. Por eso su costo no debe reducirse a la mitad."
+      ]
+    },
+    {
+      "id": "c10-q005",
+      "tema": "Línea del mercado de valores",
+      "dificultad": "basica",
+      "pregunta": "Bajo el CAPM, una inversión convencional ofrece un rendimiento esperado superior al requerido para su beta. ¿Qué indica?",
+      "opciones": [
+        "Que debe rechazarse por estar encima de la línea del mercado de valores.",
+        "Que ofrece una compensación favorable por su riesgo y puede crear valor.",
+        "Que su beta necesariamente es negativa.",
+        "Que solo sirve si supera la tasa del negocio más riesgoso de la empresa."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La posición superior representa una compensación atractiva. Rechazarla invierte el criterio económico de aceptación. Debe compararse con la tasa requerida para esa beta.",
+        "La línea relaciona beta con rendimiento requerido. Estar por encima significa ofrecer más que una alternativa comparable en riesgo. En una inversión convencional, ello es consistente con VPN positivo.",
+        "La ubicación respecto de la línea no determina el signo de beta. Un proyecto con beta positiva puede ofrecer rendimiento excedente. Beta mide exposición y no atractivo relativo.",
+        "Otro negocio puede exigir una prima por riesgos que este proyecto no tiene. Imponer esa tasa descartaría inversiones valiosas. La comparación relevante utiliza el riesgo propio del proyecto."
+      ]
+    },
+    {
+      "id": "c10-q006",
+      "tema": "Costo corporativo como referencia",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué sirve estimar el costo corporativo aunque existan proyectos con riesgos distintos?",
+      "opciones": [
+        "Obliga a usar una tasa única en toda la empresa.",
+        "Elimina la necesidad de revisar el riesgo de cada proyecto.",
+        "Fija un mínimo incluso para flujos ciertos.",
+        "Es apropiado para riesgo promedio y sirve de referencia para ajustar otros proyectos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ser una referencia no significa ser una regla universal. Las actividades pueden tener distintas exposiciones sistemáticas. La valuación debe reconocer esas diferencias.",
+        "La referencia es un punto de partida. Todavía hay que estudiar qué riesgos incorpora cada inversión. Omitir esa revisión puede llevar a decisiones equivocadas.",
+        "Los flujos ciertos no requieren la prima del negocio promedio. Aplicarles ese mínimo reduce indebidamente su valor. Deben descontarse a una tasa compatible con su seguridad y plazo.",
+        "Muchas expansiones mantienen el riesgo de los negocios actuales. Para ellas la tasa corporativa resulta directamente útil. Además proporciona una base para comparar inversiones más seguras o riesgosas."
+      ]
+    },
+    {
+      "id": "c10-q007",
+      "tema": "Ponderaciones de mercado",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué el costo corporativo se calcula con ponderaciones a valor de mercado?",
+      "opciones": [
+        "Porque reflejan el valor actual de los derechos sobre los flujos.",
+        "Porque siempre coinciden con los valores contables.",
+        "Porque vuelven innecesario estimar rendimientos exigidos.",
+        "Porque asignan el mismo peso a cualquier título."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo de oportunidad se refiere a invertir hoy. Las ponderaciones deben representar cuánto vale hoy cada inversión en títulos. Los registros contables pueden diferir mucho de esos importes.",
+        "La coincidencia no está garantizada. Las acciones pueden valer mucho más o menos que su patrimonio contable. Usar valores históricos puede distorsionar la mezcla de financiamiento.",
+        "El valor de mercado determina el peso de cada fuente. Su rendimiento exigido sigue siendo necesario para calcular el promedio. Conocer el peso no revela automáticamente el costo.",
+        "Los títulos representan inversiones de distinto valor. Deben pesar según ese valor relativo. Ponderarlos por igual desconoce cuánto capital aporta cada grupo."
+      ]
+    },
+    {
+      "id": "c10-q008",
+      "tema": "Impuestos y CPPC",
+      "dificultad": "intermedia",
+      "pregunta": "En el CPPC simplificado después de impuestos, ¿cómo se refleja la deducibilidad de intereses?",
+      "opciones": [
+        "Ajustando el costo accionario mediante rE × (1 − Tc).",
+        "Restando Tc directamente de rE.",
+        "Ajustando el costo de deuda mediante rD × (1 − Tc).",
+        "Eliminando la deuda de las ponderaciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El beneficio considerado proviene de los intereses. No corresponde trasladarlo mecánicamente al capital propio. En esta expresión simplificada se ajusta rD.",
+        "La tasa impositiva no es una rebaja directa del rendimiento accionario. El ahorro depende del gasto de intereses y de la deuda. Restarla de rE mezcla magnitudes con funciones diferentes.",
+        "La fórmula es rD × (1 − Tc) × D/V + rE × E/V. El factor refleja el ahorro fiscal sobre intereses deducibles. Su aplicación requiere revisar los supuestos fiscales y de endeudamiento.",
+        "Los acreedores siguen aportando fondos y cobrando rendimiento. El escudo fiscal reduce el costo efectivo de esa fuente, pero no la borra. Su valor debe seguir formando parte del promedio."
+      ]
+    },
+    {
+      "id": "c10-q009",
+      "tema": "Fórmula del CAPM",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la expresión del rendimiento requerido según el CAPM?",
+      "opciones": [
+        "rf + beta × rm.",
+        "beta × (rm − rf), sin agregar rf.",
+        "rf + desviación estándar propia × (rm − rf).",
+        "rf + beta × (rm − rf)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "rm incluye la tasa libre de riesgo. Multiplicarlo directamente por beta no aísla la compensación por riesgo. Debe usarse rm − rf y agregar rf una vez.",
+        "La expresión da solo la prima por riesgo. También debe remunerarse el valor temporal del dinero. Por eso se agrega rf al resultado.",
+        "La desviación estándar propia mide riesgo total. El CAPM remunera exposición al mercado y utiliza beta. El riesgo diversificable no justifica esa sustitución.",
+        "rf remunera el valor temporal del dinero. La prima de mercado se multiplica por la exposición sistemática medida por beta. La suma da el rendimiento requerido."
+      ]
+    },
+    {
+      "id": "c10-q010",
+      "tema": "Regresión para estimar beta",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se estima beta con datos históricos?",
+      "opciones": [
+        "Regresando niveles del precio accionario contra niveles del índice.",
+        "Regresando rendimientos accionarios contra rendimientos del mercado y tomando la pendiente.",
+        "Dividiendo el precio final por el nivel final del índice.",
+        "Usando la dispersión residual como beta."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los niveles pueden compartir tendencias sin una relación válida de rendimientos. Esa regresión puede producir resultados engañosos. Beta se estima sobre variaciones relativas, no sobre niveles.",
+        "La pendiente resume la sensibilidad promedio de los rendimientos al mercado. Las observaciones deben corresponder a períodos comparables. Es preferible medir rendimientos totales que incluyan dividendos.",
+        "El cociente depende de unidades y escalas arbitrarias. Cambiar la base del índice alteraría el resultado. Beta mide sensibilidad de rendimientos y no una relación entre precios absolutos.",
+        "La dispersión residual es la variación no explicada por el mercado. La pendiente mide la respuesta sistemática. Confundirlas mezcla riesgo específico con beta."
+      ]
+    },
+    {
+      "id": "c10-q011",
+      "tema": "R cuadrado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué mide R² en una regresión simple de rendimientos contra el mercado?",
+      "opciones": [
+        "La parte del rendimiento promedio que es libre de riesgo.",
+        "La probabilidad de que la acción suba el próximo mes.",
+        "La proporción de varianza accionaria explicada por el mercado.",
+        "Siempre el cuadrado de beta."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "R² se refiere a varianza y no al rendimiento promedio. La tasa libre de riesgo tiene otra función en el CAPM. No puede inferirse a partir de R².",
+        "Explicar variación histórica no permite predecir automáticamente el signo futuro. Una acción con R² alto puede subir o caer. La probabilidad de suba requiere información adicional.",
+        "R² mide poder explicativo sobre la variabilidad del rendimiento. La proporción restante es variación residual en ese modelo. No descompone directamente el rendimiento esperado.",
+        "En una regresión simple con intercepto, R² es la correlación al cuadrado. Beta también depende de las volatilidades relativas. Por eso ambos cuadrados no coinciden generalmente."
+      ]
+    },
+    {
+      "id": "c10-q012",
+      "tema": "Error estándar de beta",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué informa el error estándar de una beta estimada?",
+      "opciones": [
+        "La incertidumbre estadística del estimador bajo el modelo utilizado.",
+        "El incremento exacto de beta del próximo año.",
+        "La desviación estándar del nivel de precios.",
+        "Que la verdadera beta ya se conoce sin error."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una muestra histórica está sujeta a ruido. El error estándar permite construir intervalos aproximados bajo ciertos supuestos. No garantiza que la estructura del negocio permanezca estable.",
+        "No es un pronóstico del cambio futuro de beta. Describe precisión estadística de la estimación. Los cambios del negocio requieren un análisis adicional.",
+        "Los precios y la beta son magnitudes diferentes. El error estándar de beta proviene de la regresión de rendimientos. No mide directamente la dispersión del nivel de precios.",
+        "Informar un error no elimina la incertidumbre. Precisamente permite cuantificar parte de ella. Tampoco descarta cambios estructurales futuros."
+      ]
+    },
+    {
+      "id": "c10-q013",
+      "tema": "Beta de industria",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué suele ser más precisa la beta de un portafolio de empresas comparables?",
+      "opciones": [
+        "Porque todas tienen exactamente la misma beta.",
+        "Porque desaparece todo el riesgo de mercado.",
+        "Porque parte del ruido específico se compensa entre empresas.",
+        "Porque promediar obliga a que beta sea uno."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Compartir industria no implica idéntica exposición. Pueden variar los productos, costos y deudas. La utilidad del portafolio no exige betas individuales iguales.",
+        "La diversificación reduce principalmente riesgo específico. La exposición común al mercado permanece. Una beta precisa puede ser alta o baja.",
+        "Los shocks particulares no suelen coincidir perfectamente. Al combinar empresas puede reducirse el ruido que afecta a la estimación. Hay que comprobar comparabilidad y correlación de los errores.",
+        "La beta del portafolio es un promedio ponderado. Su valor depende de las betas de sus componentes. No existe una regla que lo fuerce a uno."
+      ]
+    },
+    {
+      "id": "c10-q014",
+      "tema": "Tasa base y horizonte",
+      "dificultad": "avanzada",
+      "pregunta": "Una prima de mercado se midió respecto de letras cortas. Para un proyecto largo, ¿qué mantiene coherencia al elegir la tasa base?",
+      "opciones": [
+        "Estimar el rendimiento esperado de esas letras durante el horizonte del proyecto.",
+        "Usar cualquier rendimiento de bono largo sin revisar la definición de prima.",
+        "Sumar dos veces la prima por plazo.",
+        "Suponer que la tasa corta actual permanecerá necesariamente igual por décadas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa base y la prima deben usar referencias consistentes. Puede aproximarse la tasa esperada de letras quitando una prima por plazo al rendimiento de bonos largos. Si se usan bonos largos directamente, debe revisarse la definición de la prima de mercado.",
+        "El bono largo puede incluir compensación por riesgo de plazo. Combinarlo sin ajustes con una prima medida contra letras cambia la referencia. No debe suponerse que las dos tasas son intercambiables.",
+        "Duplicar la prima por plazo eleva artificialmente la tasa. No representa una exposición adicional identificada del proyecto. Hay que evitar remunerar dos veces el mismo componente.",
+        "La tasa corta actual no garantiza las tasas futuras. En un horizonte largo importa la trayectoria esperada. Su constancia necesita justificación independiente."
+      ]
+    },
+    {
+      "id": "c10-q015",
+      "tema": "Contraste de estimaciones",
+      "dificultad": "intermedia",
+      "pregunta": "El CAPM y un modelo de dividendos arrojan costos de capital muy distintos. ¿Qué conviene hacer?",
+      "opciones": [
+        "Elegir siempre el mayor.",
+        "Promediarlos sin investigar la diferencia.",
+        "Descartar siempre el CAPM por usar historia.",
+        "Revisar supuestos y contrastar resultados, especialmente el crecimiento permanente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El mayor número no es necesariamente el más correcto. Puede provenir de un supuesto poco realista. La prudencia no reemplaza una estimación coherente.",
+        "El promedio puede ocultar errores importantes. Primero hay que entender por qué difieren las estimaciones. La media aritmética no valida sus supuestos.",
+        "La historia ofrece información útil aunque imperfecta. El modelo alternativo también depende de pronósticos inciertos. Deben evaluarse las limitaciones de ambos.",
+        "Ambos modelos dependen de entradas estimadas. Un crecimiento perpetuo exagerado puede distorsionar el modelo de dividendos. La diferencia requiere revisar hipótesis y evidencia."
+      ]
+    },
+    {
+      "id": "c10-q016",
+      "tema": "Pronóstico no sesgado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza al flujo esperado no sesgado?",
+      "opciones": [
+        "Siempre coincide con el resultado más probable.",
+        "Pondera todos los resultados posibles por sus probabilidades.",
+        "Excluye los fracasos y los compensa elevando arbitrariamente la tasa.",
+        "Aplica un recorte fijo de prudencia sin analizar escenarios."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El resultado más probable es la moda. La media depende también de los demás resultados y sus probabilidades. Con asimetría, pueden diferir mucho.",
+        "El valor esperado incorpora escenarios favorables y desfavorables. Los flujos nulos por fracaso también deben promediarse. La media puede diferir del resultado más frecuente.",
+        "Excluir fracasos sobrestima los flujos esperados. Una tasa arbitraria no garantiza compensar ese sesgo. Primero hay que corregir las expectativas.",
+        "Un recorte arbitrario puede exagerar o subestimar el ajuste necesario. No constituye por sí mismo una expectativa bien estimada. La corrección del pronóstico debe distinguirse del precio del riesgo."
+      ]
+    },
+    {
+      "id": "c10-q017",
+      "tema": "Ciclicidad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué característica suele asociarse con una beta de activos elevada?",
+      "opciones": [
+        "Flujos variables pero totalmente independientes del mercado.",
+        "Flujos que empeoran mucho cuando empeora la economía general.",
+        "Inversión inicial grande por sí sola.",
+        "Precio unitario bajo por sí solo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La variabilidad independiente puede diversificarse. No basta para inferir beta alta. Importa la covariación con el mercado.",
+        "Un negocio cíclico tiende a rendir mal cuando otros activos también lo hacen. Esa covariación genera exposición sistemática. Los inversionistas suelen exigir una prima mayor por soportarla.",
+        "El tamaño no determina sensibilidad relativa. Un proyecto grande puede ser defensivo. Hay que analizar la exposición económica de sus flujos.",
+        "El nivel del precio no revela la relación con la economía. Importan demanda, costos y sensibilidad a shocks comunes. La escala monetaria no determina beta."
+      ]
+    },
+    {
+      "id": "c10-q018",
+      "tema": "Betas operativas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué aportan las betas contables o de flujo de efectivo?",
+      "opciones": [
+        "Demuestran que toda variabilidad contable debe remunerarse.",
+        "Son siempre numéricamente idénticas a la beta bursátil.",
+        "Miden exclusivamente demoras de clientes en pagar.",
+        "Relacionan cambios en resultados operativos con resultados agregados y orientan sobre riesgo sistemático."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Parte de la variación contable es específica. Esa parte no necesariamente eleva el rendimiento requerido de un inversionista diversificado. La relación con el conjunto de la economía es lo relevante.",
+        "Las variables medidas no son las mismas. Puede existir una relación económica informativa sin igualdad exacta. No corresponde sustituirlas mecánicamente.",
+        "La morosidad es solo una posible fuente de incertidumbre. Estas betas estudian una sensibilidad operativa más amplia. No se limitan al plazo de cobro.",
+        "Usan medidas operativas en lugar de rendimientos bursátiles. Ayudan a detectar sensibilidad a movimientos económicos generales. Son pistas útiles y no equivalencias numéricas automáticas."
+      ]
+    },
+    {
+      "id": "c10-q019",
+      "tema": "Apalancamiento operativo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué describe un elevado apalancamiento operativo?",
+      "opciones": [
+        "Una carga de costos fijos que amplifica la sensibilidad del flujo neto a los ingresos.",
+        "Una elevada proporción de préstamos.",
+        "Todos los costos proporcionales a ventas.",
+        "Pérdidas inevitables en cualquier escenario."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los costos fijos no caen automáticamente cuando bajan las ventas. El flujo residual absorbe entonces un cambio proporcionalmente mayor. Si los ingresos son cíclicos, esto tiende a elevar la beta del activo.",
+        "Los préstamos generan apalancamiento financiero. El operativo nace de los costos de la actividad. Son mecanismos distintos aunque ambos pueden amplificar riesgos.",
+        "Los costos proporcionales acompañan los ingresos. Eso amortigua la sensibilidad del flujo neto frente a costos fijos comparables. Una estructura enteramente variable no describe alto apalancamiento operativo.",
+        "Un negocio puede cubrir ampliamente sus costos fijos. El concepto describe sensibilidad y no una pérdida segura. La rentabilidad depende también de ingresos y nivel de costos."
+      ]
+    },
+    {
+      "id": "c10-q020",
+      "tema": "Descomposición del activo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué identidad permite descomponer el valor de un activo productivo?",
+      "opciones": [
+        "VP del activo = ingresos anuales menos costos anuales sin descontar.",
+        "VP del activo = VP de ingresos + VP de todos los costos.",
+        "VP del activo = VP de ingresos − VP de costos fijos − VP de costos variables.",
+        "VP del activo = VP de ingresos, porque los costos no cotizan."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La diferencia anual es un flujo y no un valor presente. Faltan los demás períodos y el descuento. Tiempo y riesgo deben incorporarse a cada componente.",
+        "Los costos reducen los recursos disponibles. Sumarlos como ingresos invierte su efecto. Deben restarse sus valores presentes.",
+        "El flujo neto es lo que resta después de pagar costos. La aditividad permite trasladar esa descomposición a valores presentes. Cada componente debe valuarse según su riesgo propio.",
+        "No hace falta que un flujo cotice para que tenga valor económico. Los compromisos de costos afectan a los propietarios. Excluirlos sobrevalúa el activo."
+      ]
+    },
+    {
+      "id": "c10-q021",
+      "tema": "Sensibilidad a tasas",
+      "dificultad": "intermedia",
+      "pregunta": "Además del riesgo operativo, ¿qué puede afectar especialmente el valor de un proyecto con flujos muy lejanos?",
+      "opciones": [
+        "La desaparición del descuento después del primer año.",
+        "Una beta necesariamente nula por tener ingresos estables.",
+        "La imposibilidad de variar su valor si mantiene su flujo esperado.",
+        "Cambios en la tasa libre de riesgo y en la prima de mercado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El descuento se acumula en cada período. Su efecto puede ser muy importante en horizontes largos. No deja de operar luego del primer año.",
+        "Los ingresos estables no eliminan cambios en el rendimiento requerido. El precio puede variar por esa vía. No puede inferirse beta nula solo de la estabilidad operativa.",
+        "Un mismo flujo vale menos si aumenta su costo de oportunidad. La valuación depende también del denominador. Por eso no es necesario cambiar el flujo esperado para alterar el valor.",
+        "El valor depende de flujos y tasas de descuento. Los flujos lejanos suelen ser muy sensibles a cambios en esas tasas. Esa exposición puede importar aun con operaciones estables."
+      ]
+    },
+    {
+      "id": "c10-q022",
+      "tema": "Equivalente cierto",
+      "dificultad": "basica",
+      "pregunta": "¿Qué es un equivalente cierto de un flujo riesgoso?",
+      "opciones": [
+        "El valor presente presentado como cobro futuro sin ajustes.",
+        "Un flujo seguro de la misma fecha y con igual valor presente.",
+        "El escenario más probable.",
+        "Un flujo al que aún debe aplicarse la prima completa por riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El valor presente corresponde a dinero de hoy. El equivalente cierto corresponde a la fecha futura del flujo. Confundir fechas omite o duplica el ajuste temporal.",
+        "El equivalente cierto elimina incertidumbre sin alterar el valor económico. Sigue siendo un monto futuro. Por eso debe descontarse por tiempo a la tasa libre de riesgo.",
+        "El resultado más probable puede seguir siendo riesgoso. El equivalente cierto es una transformación de valuación. No es una previsión del escenario más frecuente.",
+        "El ajuste por riesgo ya está incorporado en el equivalente cierto. Aplicarlo otra vez duplica el castigo. Solo resta descontar por el tiempo."
+      ]
+    },
+    {
+      "id": "c10-q023",
+      "tema": "Riesgo por período",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué supone descontar todos los años a una misma tasa ajustada por riesgo?",
+      "opciones": [
+        "El mismo recorte porcentual total por riesgo en cualquier fecha.",
+        "Que los flujos lejanos son seguros.",
+        "Riesgo por período estable y un ajuste acumulado mayor para flujos más lejanos.",
+        "Que no se ajusta por riesgo después del primer año."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El descuento compuesto depende del horizonte. Con prima positiva, el equivalente cierto representa una fracción decreciente del flujo esperado. El recorte total no es idéntico en todas las fechas.",
+        "La distancia no vuelve seguros los cobros. Bajo este esquema acumulan exposición durante más períodos. La potencia del factor de descuento refleja esa diferencia.",
+        "La relación ECt/E(Ct) = [(1 + rf)/(1 + r)]^t muestra cómo se acumula el ajuste por riesgo. Si r > rf y ambas tasas son constantes, esa relación cae multiplicándose cada año por el mismo factor menor que uno. Así, una beta futura estable implica un recorte acumulado creciente, aunque no se eleve la tasa anual.",
+        "La prima está incluida en el factor de cada período. Los años adicionales siguen ajustados por riesgo. Subir además la tasa solo por lejanía puede duplicar el ajuste."
+      ]
+    },
+    {
+      "id": "c10-q024",
+      "tema": "Referencia internacional",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué determina la beta relevante de una inversión extranjera?",
+      "opciones": [
+        "Su covariación con el portafolio de referencia de los inversionistas.",
+        "Su nacionalidad por sí sola.",
+        "Solo la volatilidad total del país.",
+        "La diferencia nominal entre tasas de dos monedas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El riesgo relevante es el que agrega al portafolio. Un mismo activo puede tener betas distintas frente a mercados diferentes. Si las tenencias son mundiales, la referencia apropiada también cambia.",
+        "La ubicación no mide por sí misma exposición sistemática. Hay que estudiar la relación con las inversiones existentes. Una inversión extranjera puede tener beta baja.",
+        "La beta combina volatilidad relativa y correlación. Mucha volatilidad puede coexistir con poca exposición sistemática. Ignorar la correlación pierde el efecto de diversificación.",
+        "Las tasas están expresadas en monedas distintas y no miden directamente beta. Debe conservarse coherencia monetaria. La covariación de rendimientos aporta la medida de exposición relevante."
+      ]
+    },
+    {
+      "id": "c10-q025",
+      "tema": "Cálculo del CAPM",
+      "dificultad": "basica",
+      "pregunta": "La tasa libre de riesgo es 4%, el rendimiento esperado del mercado es 10% y beta es 1,5. ¿Cuál es el costo de capital propio?",
+      "opciones": [
+        "19%.",
+        "9%.",
+        "13%.",
+        "15%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 19% resulta de sumar 4% a 1,5 × 10%. Eso multiplica por beta el rendimiento total del mercado. Debe multiplicarse únicamente la prima de 6%.",
+        "El 9% es la prima por riesgo de la acción. Todavía falta remunerar el valor temporal del dinero. Al agregar 4% se llega a 13%.",
+        "La prima de mercado es 10% − 4% = 6%. La prima de la acción es 1,5 × 6% = 9%. Sumando la tasa libre de riesgo se obtiene 13%.",
+        "El 15% resulta de multiplicar beta por el rendimiento del mercado. No aplica correctamente la separación entre tasa base y prima. La expresión correcta es 4% + 1,5 × 6%."
+      ]
+    },
+    {
+      "id": "c10-q026",
+      "tema": "Costo corporativo sin impuestos",
+      "dificultad": "basica",
+      "pregunta": "A valores de mercado, una empresa tiene 40% de deuda con costo de 5% y 60% de capital propio con costo de 15%. Sin impuestos, ¿cuál es su costo de capital?",
+      "opciones": [
+        "11%.",
+        "10%.",
+        "15%.",
+        "9%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se pondera cada rendimiento por su participación de mercado. La deuda aporta 0,40 × 5% = 2 puntos y las acciones 0,60 × 15% = 9 puntos. El costo conjunto es 11%.",
+        "El 10% es el promedio simple de 5% y 15%. Las participaciones no son iguales. Deben usarse los pesos de 40% y 60%.",
+        "El 15% considera solamente a los accionistas. La deuda también integra el portafolio de todos los títulos. Al incluirla, el promedio baja a 11%.",
+        "El 9% es solo el aporte ponderado del capital propio. Omite el costo de la deuda. Sus 2 puntos deben sumarse para completar el promedio."
+      ]
+    },
+    {
+      "id": "c10-q027",
+      "tema": "Valor accionario y ponderación",
+      "dificultad": "intermedia",
+      "pregunta": "Hay 2.000 acciones a $30 cada una, deuda con valor de mercado de $40.000 y patrimonio contable de $20.000. Si rD = 6% y rE = 16%, ¿cuál es el costo corporativo sin impuestos?",
+      "opciones": [
+        "9,33%.",
+        "11%.",
+        "16%.",
+        "12%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 9,33% surge al usar el patrimonio contable de $20.000 junto con la deuda de $40.000. Esa mezcla ignora el precio de mercado de las acciones. El capital propio relevante vale $60.000.",
+        "El 11% es el promedio simple de los dos costos. Supone participaciones iguales que no existen. Las ponderaciones correctas dan 12%.",
+        "El 16% es el costo del capital propio. No representa el rendimiento del portafolio completo. Hay que incorporar la deuda con su peso de mercado.",
+        "El capital propio de mercado vale 2.000 × $30 = $60.000. El valor total es $100.000, con pesos de 40% y 60%. El promedio es 0,40 × 6% + 0,60 × 16% = 12%."
+      ]
+    },
+    {
+      "id": "c10-q028",
+      "tema": "Beta de todos los títulos",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene deuda con beta 0 y peso de mercado de 20%, acciones preferentes con beta 0,5 y peso de 20%, y acciones ordinarias con beta 1,5 y peso de 60%. ¿Cuál es la beta de sus activos?",
+      "opciones": [
+        "1,5.",
+        "1,0.",
+        "0,67 aproximadamente.",
+        "0,9."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La beta ordinaria solo describe uno de los títulos. Sus titulares reciben el residuo después de otros pagos. La beta de los activos debe incluir todas las fuentes de financiamiento.",
+        "La beta del portafolio es la media ponderada de sus componentes. Se calcula 0,20 × 0 + 0,20 × 0,5 + 0,60 × 1,5. Los aportes son 0, 0,1 y 0,9, que suman 1,0.",
+        "El 0,67 proviene aproximadamente de promediar las tres betas con igual peso. Los valores de mercado no son iguales. Deben respetarse las participaciones de 20%, 20% y 60%.",
+        "El 0,9 es únicamente el aporte ponderado de las acciones ordinarias. Las preferentes también tienen exposición al mercado. Su aporte de 0,1 completa la beta de 1,0."
+      ]
+    },
+    {
+      "id": "c10-q029",
+      "tema": "CPPC después de impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Con D/V = 40%, E/V = 60%, rD = 8%, rE = 14% y Tc = 25%, ¿cuál es el CPPC simplificado después de impuestos, suponiendo aprovechable la deducción de intereses?",
+      "opciones": [
+        "11,6%.",
+        "10,8%.",
+        "8,7%.",
+        "6%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 11,6% omite el ahorro tributario. Surge de 0,40 × 8% + 0,60 × 14%. Con intereses deducibles debe ajustarse el costo de deuda.",
+        "El costo de deuda ajustado es 8% × 0,75 = 6%. Su aporte ponderado es 2,4 puntos y el de las acciones es 8,4 puntos. El CPPC es 10,8%.",
+        "El 8,7% surge al multiplicar todo el costo antes de impuestos por 0,75. Eso ajusta también el costo accionario como si fuera deducible. El factor corresponde únicamente al componente de deuda.",
+        "El 6% es el costo de deuda después de impuestos. Todavía faltan las ponderaciones y el componente accionario. No es el costo de todos los fondos de la empresa."
+      ]
+    },
+    {
+      "id": "c10-q030",
+      "tema": "Descomposición de varianza",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción tiene desviación estándar anual de 30% y R² = 0,36. Midiendo la varianza en puntos porcentuales al cuadrado, ¿cuáles son las partes de mercado y específica?",
+      "opciones": [
+        "10,8 y 19,2, respectivamente.",
+        "576 y 324, respectivamente.",
+        "900 y 0, respectivamente.",
+        "324 y 576, respectivamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos valores aplican las proporciones a la desviación estándar de 30. La descomposición aditiva corresponde a varianzas. Primero hay que elevar 30 al cuadrado.",
+        "Esta respuesta invierte las participaciones. R² identifica la fracción explicada por el mercado. La fracción específica es 1 − R².",
+        "La varianza total sí es 900. Pero R² menor que uno muestra que no toda está explicada por el mercado. Hay una parte residual de 576.",
+        "La varianza total es 30² = 900. La parte explicada es 0,36 × 900 = 324. El residuo es 0,64 × 900 = 576."
+      ]
+    },
+    {
+      "id": "c10-q031",
+      "tema": "Intervalo aproximado de beta",
+      "dificultad": "intermedia",
+      "pregunta": "Una beta estimada es 1,10 y su error estándar es 0,20. Bajo los supuestos usuales de regresión, ¿qué intervalo aproximado de 95% se obtiene usando dos errores estándar?",
+      "opciones": [
+        "De 0,70 a 1,50.",
+        "De 0,90 a 1,30.",
+        "De 0,20 a 1,10.",
+        "De 0,70 a 1,10."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El margen aproximado es 2 × 0,20 = 0,40. Se resta y se suma ese margen a 1,10. El intervalo resultante es [0,70; 1,50], sin garantizar que la beta futura no cambie.",
+        "Ese intervalo usa un solo error estándar. No corresponde a la aproximación de 95% solicitada. Debe aplicarse un margen de 0,40.",
+        "El error estándar no es el límite inferior. Tampoco la estimación puntual es un límite superior. El intervalo se construye simétricamente alrededor de 1,10.",
+        "Esta respuesta aplica el margen solo hacia abajo. El error de estimación puede tener ambos signos. También debe agregarse 0,40 al extremo superior."
+      ]
+    },
+    {
+      "id": "c10-q032",
+      "tema": "Precisión del promedio",
+      "dificultad": "avanzada",
+      "pregunta": "Nueve estimaciones de beta tienen errores independientes y el mismo error estándar de 0,30. ¿Cuál es el error estándar de su promedio con pesos iguales?",
+      "opciones": [
+        "0,033 aproximadamente.",
+        "0,30.",
+        "0,10.",
+        "0,90."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir el error estándar por nueve confunde desvío con varianza. La varianza del promedio cae en proporción a nueve. Su raíz, el error estándar, cae en proporción a tres.",
+        "Mantener 0,30 ignora la compensación de errores independientes. Ese resultado sería compatible con otro supuesto de correlación extrema. No corresponde a la independencia establecida.",
+        "Con independencia y precisión idéntica, el error estándar del promedio es 0,30/√9. Como √9 = 3, el resultado es 0,10. Si los errores estuvieran correlacionados, esta reducción no estaría garantizada.",
+        "El 0,90 aumenta el error al multiplicar por la raíz del número de observaciones. Para un promedio independiente ocurre lo contrario. La agregación mejora la precisión."
+      ]
+    },
+    {
+      "id": "c10-q033",
+      "tema": "Tasa base consistente",
+      "dificultad": "avanzada",
+      "pregunta": "Un bono largo rinde 6% y se estima una prima por plazo de 1 punto porcentual. Se aproxima la tasa futura de letras restando esa prima. Con beta 0,8 y prima de mercado sobre letras de 5%, ¿qué costo accionario se obtiene?",
+      "opciones": [
+        "10%.",
+        "11%.",
+        "4%.",
+        "9%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 10% utiliza directamente 6% + 0,8 × 5%. Omite quitar la prima por plazo indicada. La referencia coherente en este ejercicio es 5%.",
+        "El 11% surge al sumar la prima por plazo en lugar de restarla. Eso eleva la base a 7%. El procedimiento solicitado exige quitar ese componente del bono largo.",
+        "El 4% es solo la prima accionaria. Falta agregar la tasa base estimada de 5%. El rendimiento total requerido es 9%.",
+        "La tasa base aproximada es 6% − 1% = 5%. La prima accionaria es 0,8 × 5% = 4%. El costo total resulta 9%."
+      ]
+    },
+    {
+      "id": "c10-q034",
+      "tema": "Media de escenarios",
+      "dificultad": "basica",
+      "pregunta": "Los flujos posibles del próximo año son $80 con probabilidad 25%, $120 con 50% y $160 con 25%. ¿Cuál es el flujo esperado?",
+      "opciones": [
+        "$360.",
+        "$120.",
+        "$100.",
+        "$160."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar los tres resultados supone cobrarlos juntos. Son escenarios excluyentes y no pagos acumulables. Deben ponderarse por sus probabilidades.",
+        "Se multiplica cada resultado por su probabilidad. Los aportes son $20, $60 y $40. La suma es $120, que en esta distribución simétrica coincide con la moda.",
+        "El $100 puede surgir de reemplazar el escenario favorable de $160 por otro de $80. Eso calcula 0,25 × 80 + 0,50 × 120 + 0,25 × 80 y subestima el promedio. Deben respetarse los tres resultados originales, que dan una esperanza de $120.",
+        "El $160 es el mejor escenario. No es el promedio porque ocurre solo en una cuarta parte de los casos. Los resultados inferiores reducen la esperanza a $120."
+      ]
+    },
+    {
+      "id": "c10-q035",
+      "tema": "Fracaso y VPN",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto cuesta $90 hoy. Dentro de un año paga $150 si tiene éxito y cero si fracasa, con probabilidad de fracaso de 20%. El fracaso es diversificable y la tasa adecuada para el flujo esperado es 20%. ¿Cuál es el VPN?",
+      "opciones": [
+        "$35.",
+        "$30.",
+        "$10.",
+        "−$4,29 aproximadamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El $35 surge de descontar $150 y restar $90. Eso omite el escenario de fracaso. Primero debe reducirse el flujo al promedio de $120.",
+        "El $30 es la diferencia entre el flujo esperado y la inversión. Falta descontar el cobro de un año. El valor presente del flujo es $100, no $120.",
+        "El flujo esperado es 0,80 × $150 = $120. Su valor presente es $120/1,20 = $100. Al restar la inversión actual de $90, el VPN es $10.",
+        "Este resultado surge de sumar arbitrariamente los 20 puntos de probabilidad de fracaso a la tasa y calcular 120/1,40 − 90. El fracaso ya redujo el flujo esperado de $150 a $120. Como se supone diversificable, repetir ese castigo en la tasa no corresponde."
+      ]
+    },
+    {
+      "id": "c10-q036",
+      "tema": "Beta y costos fijos",
+      "dificultad": "intermedia",
+      "pregunta": "La beta del valor de los ingresos es 0,6. El VP de costos fijos es $40 y el VP del activo es $60. Si los costos fijos tienen beta cero y los variables comparten beta con ingresos, ¿cuál es la beta del activo?",
+      "opciones": [
+        "1,0.",
+        "0,6.",
+        "0,4.",
+        "1,6."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Bajo estos supuestos, beta del activo = beta de ingresos × [1 + VP de costos fijos/VP del activo]. Se obtiene 0,6 × (1 + 40/60). El resultado es 1,0.",
+        "El 0,6 ignora el efecto de los compromisos fijos sobre el residuo. Es la beta de ingresos antes de ese apalancamiento operativo. La carga fija amplifica la exposición del activo neto.",
+        "El 0,4 surge de multiplicar 0,6 por 40/60 solamente. Esa razón mide un incremento relativo y no reemplaza al uno de la fórmula. Debe agregarse la exposición de base.",
+        "El 1,6 puede surgir de sumar 0,6 y uno sin ponderar correctamente. La razón 40/60 no es uno. La estructura indicada lleva a una beta de 1,0."
+      ]
+    },
+    {
+      "id": "c10-q037",
+      "tema": "Beta por componentes operativos",
+      "dificultad": "avanzada",
+      "pregunta": "El VP de ingresos es $500, el de costos variables $200 y el de costos fijos $100. Las betas de ingresos y costos variables son 0,8 y la de costos fijos es cero. ¿Cuál es la beta del activo neto?",
+      "opciones": [
+        "0,8.",
+        "2,0.",
+        "1,2.",
+        "0,48."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 0,8 es la beta común de ingresos y costos variables. Los costos fijos dejan un residuo de menor valor que absorbe la exposición restante. La beta neta sube a 1,2.",
+        "El 2,0 resulta de dividir 0,8 × 500 por 200. Omite restar la exposición de los costos variables. Estos comparten beta con los ingresos y deben descontarse de la exposición neta.",
+        "El valor neto del activo es 500 − 200 − 100 = 200. Su exposición en valor es 0,8 × 500 − 0,8 × 200 − 0 × 100 = 240. Al dividir 240 por 200 se obtiene beta 1,2.",
+        "El 0,48 resulta de dividir la exposición neta de 240 por los ingresos de 500. El denominador correcto es el valor del activo neto. Ese valor es 200."
+      ]
+    },
+    {
+      "id": "c10-q038",
+      "tema": "Equivalente cierto a un año",
+      "dificultad": "intermedia",
+      "pregunta": "Un flujo esperado de $112 se descuenta al 12% y la tasa libre de riesgo es 5%. ¿Cuál es su equivalente cierto dentro de un año?",
+      "opciones": [
+        "$105.",
+        "$100.",
+        "$112.",
+        "$94,64 aproximadamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El flujo riesgoso vale hoy $112/1,12 = $100. Un cobro seguro futuro de igual valor debe ser $100 × 1,05. El equivalente cierto es $105.",
+        "El $100 es el valor presente. El equivalente cierto debe expresarse en la fecha futura del cobro. Por eso hay que capitalizarlo a la tasa libre de riesgo.",
+        "El flujo esperado no es automáticamente seguro. Con una prima positiva, la eliminación de riesgo permite aceptar un monto menor. Ese monto compatible con el valor actual es $105.",
+        "Ese resultado vuelve a descontar el equivalente cierto. Confunde la fecha del monto seguro con su valor actual. El EC se obtiene multiplicando el valor presente por 1,05."
+      ]
+    },
+    {
+      "id": "c10-q039",
+      "tema": "Equivalente cierto a dos años",
+      "dificultad": "intermedia",
+      "pregunta": "Un flujo esperado de $125,44 se cobra al final del año 2. Con r = 12% y rf = 5% anuales constantes, ¿cuál es el equivalente cierto en esa fecha?",
+      "opciones": [
+        "$100.",
+        "$117,60.",
+        "$119,47 aproximadamente.",
+        "$110,25."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El $100 es el valor en el período cero. El equivalente cierto solicitado corresponde al año 2. Debe capitalizarse dos años a la tasa libre de riesgo.",
+        "El $117,60 aplica la razón 1,05/1,12 una sola vez. El horizonte tiene dos períodos. La razón debe elevarse al cuadrado.",
+        "Ese importe surge de dividir 125,44 por 1,05. Usa la tasa libre de riesgo sobre el flujo riesgoso y además solo un período. Se necesita igualar ambos valores presentes a dos años.",
+        "El valor presente es 125,44/(1,12)² = $100. El equivalente cierto del año 2 es 100 × (1,05)². Por eso asciende a $110,25."
+      ]
+    },
+    {
+      "id": "c10-q040",
+      "tema": "VPN y período cero",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten $170 hoy y se esperan $120 al final del año 1 y $144 al final del año 2. La tasa adecuada es 20% anual. ¿Cuál es el VPN?",
+      "opciones": [
+        "$94.",
+        "$30.",
+        "$58,33 aproximadamente.",
+        "$200."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El $94 surge de sumar cobros sin descontarlos y restar la inversión. Omite el costo de oportunidad de esperar. Cada cobro debe llevarse al período cero.",
+        "El primer cobro vale 120/1,20 = $100. El segundo vale 144/(1,20)² = $100. La suma de $200 menos los $170 del período cero deja un VPN de $30.",
+        "Ese valor surge de descontar también la inversión inicial: 200 − 170/1,20. El desembolso ocurre hoy y no debe dividirse por 1,20. Su valor en el período cero ya es $170, por lo que el VPN correcto es $30.",
+        "El $200 es el valor presente de las entradas. Todavía falta restar el desembolso inicial. Confundir VP de cobros con VPN sobrestima el valor creado en $170."
+      ]
+    },
+    {
+      "id": "c10-q041",
+      "tema": "Precio de mercado del riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "En la versión de un período del CAPM con equivalentes ciertos, EC = E(C) − lambda × cov(C, rm). Si la prima de mercado es 0,06, su varianza es 0,04, E(C) = $100 y la covarianza es 10 en unidades compatibles, ¿cuál es EC?",
+      "opciones": [
+        "$115.",
+        "$85.",
+        "$93,33 aproximadamente.",
+        "$15."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La covarianza positiva implica un recorte, no un aumento. El flujo tiende a ser alto cuando el mercado también rinde bien. Por eso el equivalente cierto queda por debajo de la esperanza.",
+        "Lambda es 0,06/0,04 = 1,5. El ajuste por riesgo es 1,5 × 10 = $15. Al restarlo del flujo esperado se obtiene EC = $85.",
+        "Ese resultado invierte la definición de lambda y usa 0,04/0,06. El precio del riesgo es prima dividida por varianza y no al revés. Con lambda = 1,5, el ajuste correcto es $15 y el equivalente cierto es $85.",
+        "El $15 es el tamaño del ajuste por riesgo. No es el flujo seguro equivalente. Debe restarse de los $100 esperados."
+      ]
+    },
+    {
+      "id": "c10-q042",
+      "tema": "Beta de un mercado extranjero",
+      "dificultad": "intermedia",
+      "pregunta": "Un mercado extranjero tiene una desviación estándar tres veces mayor que la del mercado de referencia y correlación 0,20 con él. ¿Cuál es su beta respecto de esa referencia?",
+      "opciones": [
+        "3,00.",
+        "0,04.",
+        "1,80.",
+        "0,60."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 3,00 es solo la razón de volatilidades. Falta multiplicarla por la correlación. La sensibilidad sistemática es menor que la volatilidad relativa.",
+        "El 0,04 es el cuadrado de la correlación. Corresponde al R² de una regresión simple con intercepto. No es la beta, que también utiliza la volatilidad relativa.",
+        "El 1,80 puede surgir de multiplicar 0,20 por nueve. Nueve es la razón de varianzas, no la de desviaciones estándar. La fórmula de beta requiere esta última.",
+        "Beta = correlación × razón de desviaciones estándar. Se calcula 0,20 × 3 = 0,60. La alta volatilidad total queda moderada por la baja correlación."
+      ]
+    },
+    {
+      "id": "c10-q043",
+      "tema": "Coherencia entre tasas reales y nominales",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene tasa nominal requerida de 14,4% anual e inflación esperada de 4%. Bajo el ajuste de Fisher, ¿qué tasa real corresponde a sus flujos expresados en poder adquisitivo constante?",
+      "opciones": [
+        "10%.",
+        "10,4%.",
+        "18,4%.",
+        "13,85% aproximadamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La relación es 1 + r real = (1 + r nominal)/(1 + inflación). Así, 1,144/1,04 = 1,10. La tasa real exacta es 10%.",
+        "Restar 4% a 14,4% es una aproximación. Omite el término compuesto entre inflación y rendimiento real. En este caso la respuesta exacta es 10%.",
+        "Sumar inflación transforma la tasa en sentido equivocado. Para pasar de nominal a real debe quitarse el efecto del aumento de precios. La operación correcta es dividir factores brutos.",
+        "Dividir 14,4% directamente por 1,04 no aplica la identidad completa. Debe dividirse 1,144 y luego restarse uno. La relación de Fisher opera sobre factores, no sobre tasas aisladas."
+      ]
+    },
+    {
+      "id": "c10-q044",
+      "tema": "Valuación por etapas",
+      "dificultad": "avanzada",
+      "pregunta": "Una prueba cuesta $20 hoy y termina en un año. Si tiene éxito, con probabilidad 50%, se podrá invertir $100 en ese momento y recibir $30 anuales a perpetuidad desde el año 2. La etapa operativa exige 10% y el derecho neto esperado al final de la prueba exige 25% durante el primer año. Si el fracaso vale cero, ¿cuál es el VPN actual?",
+      "opciones": [
+        "−$12.",
+        "$80.",
+        "$60.",
+        "$140."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El −$12 surge de aplicar 25% también a toda la perpetuidad operativa. Así se atribuye el riesgo inicial a años posteriores a su resolución. La operación debe valuarse primero al 10% en el año 1.",
+        "El $80 es el VP del derecho futuro. Todavía falta pagar la prueba de $20 hoy. El costo inicial debe restarse sin descuento.",
+        "En el año 1, la operación exitosa vale 30/0,10 = $300 y requiere invertir $100. El derecho neto vale $200 con éxito y cero con fracaso, por lo que su esperanza es $100. Su VP es 100/1,25 = $80 y el VPN actual es $60.",
+        "El $140 surge de descontar el resultado exitoso sin ponderar el fracaso. El derecho de $200 solo existe con probabilidad de 50%. Debe usarse su esperanza antes de traerlo al presente."
+      ]
+    },
+    {
+      "id": "c10-q045",
+      "tema": "Producción, precio y transporte",
+      "dificultad": "avanzada",
+      "pregunta": "Si un pozo funciona, vende 10.000 barriles en el año 1 a $40 y transportarlos cuesta $10 por barril. En el año 2, la producción baja 10%, el precio sube 5% y el costo unitario de transporte permanece fijo. Hay 80% de probabilidad de que funcione, o flujos nulos en ambos años si está seco. ¿Cuál es el flujo neto esperado del año 2, antes de descontar?",
+      "opciones": [
+        "$240.000.",
+        "$288.000.",
+        "$302.400.",
+        "$230.400."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El $240.000 corresponde al flujo esperado del primer año. No incorpora la caída de producción ni el aumento del precio del segundo. Ambos cambios deben aplicarse antes de ponderar por éxito.",
+        "El $288.000 es el flujo neto si el pozo funciona. Falta incluir la posibilidad de un pozo seco. La esperanza es el 80% de ese importe.",
+        "El $302.400 es el ingreso bruto esperado del segundo año. Omite los costos de transporte de los barriles producidos. Debe restarse su esperanza de $72.000.",
+        "La producción del año 2 es 10.000 × 0,90 = 9.000 barriles y el precio es 40 × 1,05 = $42. El margen por barril es 42 − 10 = $32, por lo que el flujo condicionado al éxito es $288.000. Al ponderarlo por 0,80 se obtiene $230.400."
+      ]
+    },
+    {
+      "id": "c10-q046",
+      "tema": "Sesgo de una tasa única",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero impone el costo corporativo a todas las divisiones, aunque unas tienen beta menor y otras mayor que el promedio. ¿Qué sesgo puede generar?",
+      "opciones": [
+        "Aceptar demasiados proyectos seguros y rechazar demasiados riesgosos.",
+        "Rechazar buenos proyectos seguros y aceptar malos proyectos riesgosos.",
+        "Valuar correctamente todos los proyectos porque pertenecen a una empresa.",
+        "Reducir automáticamente el riesgo promedio de las inversiones aceptadas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta invierte los efectos del descuento. Una tasa excesiva perjudica a los proyectos seguros y una insuficiente favorece a los riesgosos. La regla común genera el sesgo contrario.",
+        "Para proyectos seguros, la tasa común puede ser demasiado alta y reducir injustificadamente su VP. Para proyectos riesgosos, puede ser demasiado baja e inflar su VP. Esto puede sesgar la cartera de nuevas inversiones hacia mayor riesgo.",
+        "La pertenencia legal no iguala la exposición económica. Cada división puede requerir una compensación distinta por riesgo. La tasa común solo funciona para el riesgo promedio.",
+        "La selección puede favorecer proyectos de alta beta sobrevaluados. Por eso el riesgo promedio podría subir. No hay una reducción automática por imponer una tasa única."
+      ]
+    },
+    {
+      "id": "c10-q047",
+      "tema": "Destino del capital y financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa alimentaria obtiene un préstamo barato para entrar en maquinaria industrial. El director propone usar la tasa del préstamo porque esos fondos financiarán toda la inversión. ¿Qué corresponde?",
+      "opciones": [
+        "Usar el costo del préstamo para todos los flujos operativos.",
+        "Usar el costo del negocio alimentario porque es la actividad actual.",
+        "Estimar una tasa que refleje el riesgo de los activos del nuevo negocio.",
+        "Usar la menor de esas dos tasas para aprovechar el financiamiento barato."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tasa del préstamo remunera un derecho con prioridad y condiciones propias. No representa necesariamente el riesgo de los flujos operativos completos. Confundir ambas tasas sobrevalúa proyectos riesgosos.",
+        "La experiencia actual ofrece una referencia y no una tasa universal. La nueva actividad debe evaluarse por sus propios determinantes de riesgo. El costo alimentario podría resultar inadecuado.",
+        "El riesgo relevante depende del uso del dinero. La maquinaria industrial puede tener una exposición distinta de la actividad alimentaria. Los comparables del nuevo negocio ayudan a estimar el costo de oportunidad apropiado.",
+        "Elegir la menor tasa aumenta el VP sin justificar el riesgo. Una fuente barata no vuelve seguro el activo financiado. Cualquier efecto adicional del financiamiento debe analizarse con un método coherente."
+      ]
+    },
+    {
+      "id": "c10-q048",
+      "tema": "Comparables y precisión estadística",
+      "dificultad": "avanzada",
+      "pregunta": "La beta individual estimada es mayor que la beta industrial, pero tiene un error estándar amplio. La empresa también está mucho más endeudada que sus comparables. ¿Qué análisis es más razonable?",
+      "opciones": [
+        "Examinar la incertidumbre y ajustar la comparabilidad del endeudamiento antes de elegir una beta.",
+        "Concluir que la diferencia puntual demuestra mayor riesgo operativo.",
+        "Usar el promedio industrial sin mirar el apalancamiento.",
+        "Descartar todo dato histórico porque las estimaciones no coinciden."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La diferencia puede reflejar tanto ruido como apalancamiento financiero. Una beta accionaria elevada no demuestra por sí sola mayor riesgo de los activos. Hay que comparar estructuras y considerar intervalos, estabilidad del negocio y evidencia sectorial.",
+        "El error estándar amplio impide tratar la estimación como exacta. Además, la deuda puede amplificar la beta accionaria. Debe separarse ese efecto del riesgo operativo.",
+        "La beta industrial es útil si las empresas son comparables. Una diferencia importante de deuda dificulta trasladar directamente betas accionarias. Conviene revisar primero la exposición de los activos.",
+        "La discrepancia no vuelve inútil la evidencia. Permite identificar incertidumbres que deben investigarse. Hay que combinar historia con información sobre cambios económicos y estructura financiera."
+      ]
+    },
+    {
+      "id": "c10-q049",
+      "tema": "Activos sin cotización",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa quiere construir oficinas para uso propio y no dispone de una beta directa del edificio. ¿Qué fuente puede ayudar a estimar su riesgo?",
+      "opciones": [
+        "La beta accionaria de la empresa usuaria, sin analizar el inmueble.",
+        "El precio del terreno como único indicador suficiente de beta.",
+        "Índices de inmuebles comerciales, rendimientos de ventas y valuaciones de propiedades comparables.",
+        "Una prima arbitraria por no cotizar en bolsa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El usuario y el inmueble pueden tener exposiciones distintas. La tasa corporativa solo sirve si el riesgo resulta comparable. No debe trasladarse automáticamente por compartir propietario.",
+        "El precio es un nivel de valor y no una sensibilidad al mercado. Para estimar beta hace falta información sobre variaciones y covariación. Un precio aislado no alcanza.",
+        "Los activos comparables pueden aportar evidencia sobre riesgo y rendimiento. No es indispensable que el proyecto específico cotice. Deben revisarse ubicación, uso, estructura contractual y calidad de los datos disponibles.",
+        "La falta de cotización no justifica un recargo arbitrario. Debe buscarse evidencia económica de riesgo sistemático. La incertidumbre de medición no equivale a una prima identificada."
+      ]
+    },
+    {
+      "id": "c10-q050",
+      "tema": "Fracasos, regulación y expropiación",
+      "dificultad": "intermedia",
+      "pregunta": "Una farmacéutica incorpora a los flujos la posibilidad de rechazo regulatorio y un hotel incorpora la de expropiación. Se supone que ambos eventos son diversificables. ¿Qué corresponde hacer con las tasas?",
+      "opciones": [
+        "No agregar primas por esos eventos ya incluidos; revisar por separado la exposición sistemática restante.",
+        "Duplicar la tasa si la probabilidad de fracaso es elevada.",
+        "Excluir los eventos de los flujos y usar cualquier prima de prudencia.",
+        "Descontar necesariamente todos los flujos a la tasa libre de riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los escenarios desfavorables deben reducir la esperanza de cobros. Si son diversificables, no exigen por sí mismos remuneración adicional en la tasa. El resto de la operación puede conservar riesgo de mercado que sí deba remunerarse.",
+        "Una probabilidad no determina un incremento universal de tasa. El efecto depende de fechas y flujos. Duplicar la tasa puede distorsionar la valuación aun con probabilidades bien estimadas.",
+        "Ese enfoque reemplaza un promedio explícito por una corrección opaca. No garantiza el valor correcto en distintos horizontes. Es preferible incorporar los eventos a los escenarios y valorar aparte el riesgo sistemático.",
+        "Que esos eventos sean diversificables no elimina toda exposición del negocio. Ventas, márgenes y valores pueden seguir dependiendo del mercado. La tasa libre de riesgo requiere ausencia de riesgo sistemático relevante en el flujo valorado."
+      ]
+    },
+    {
+      "id": "c10-q051",
+      "tema": "Contrato de costos fijos",
+      "dificultad": "avanzada",
+      "pregunta": "Una fábrica sustituye compras de insumos proporcionales a ventas por un contrato de pago fijo. El flujo esperado inicial no cambia y los ingresos son cíclicos. ¿Qué efecto debe examinar el director?",
+      "opciones": [
+        "La reducción automática de beta porque el costo ahora es previsible.",
+        "La ausencia de cambios de riesgo porque la media del costo no cambió.",
+        "La necesidad de descontar ingresos y costos siempre a una tasa común.",
+        "El aumento del apalancamiento operativo y de la beta del flujo residual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La certeza del pago protege a quien lo recibe. Para el pagador puede aumentar la sensibilidad del residuo a las ventas. No debe confundirse seguridad del acreedor operativo con seguridad del activo neto.",
+        "La media no describe toda la distribución. Cambiar la covariación entre costos e ingresos altera el riesgo residual. Dos diseños con igual flujo esperado pueden tener betas distintas.",
+        "Los componentes pueden tener riesgos diferentes. Un compromiso fijo relativamente seguro no debe recibir automáticamente la tasa de los ingresos cíclicos. La aditividad permite valuarlos por separado.",
+        "El pago fijo deja de acompañar la caída de ingresos. Los propietarios absorben una variación mayor del flujo neto. Al valuar puede separarse el compromiso relativamente seguro de los ingresos y costos expuestos al ciclo."
+      ]
+    },
+    {
+      "id": "c10-q052",
+      "tema": "Moneda, tasas y carry trade",
+      "dificultad": "intermedia",
+      "pregunta": "El director observa una tasa nominal baja en una moneda y propone endeudarse allí para invertir en otra con tasa alta. ¿Qué evaluación es correcta?",
+      "opciones": [
+        "Concluir que la diferencia nominal es una ganancia segura.",
+        "Comparar unidades monetarias y rendimientos reales, y considerar que el carry trade tiene riesgo cambiario.",
+        "Descontar flujos en la moneda de destino usando sin conversión la tasa de la moneda del préstamo.",
+        "Afirmar que una tasa nominal menor demuestra siempre un costo real menor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La moneda de financiamiento puede apreciarse y encarecer la deuda. La diferencia de tasas no elimina esa exposición. Por eso no constituye por sí sola un arbitraje seguro.",
+        "Las tasas nominales en monedas distintas no son directamente comparables. Debe mantenerse coherencia entre moneda de flujos y descuento, y examinar inflación y tipo de cambio. Endeudarse barato e invertir a una tasa mayor no garantiza una ganancia sin riesgo.",
+        "Las tasas expresan precios del dinero en una unidad monetaria concreta. Mezclar una tasa de una moneda con flujos de otra genera una valuación inconsistente. Hay que convertir flujos o tasas con un procedimiento coherente.",
+        "Una inflación distinta puede explicar parte de la diferencia nominal. Comparar costos reales exige corregir ese efecto. Incluso después deben considerarse otros riesgos y segmentaciones."
+      ]
+    },
+    {
+      "id": "c10-q053",
+      "tema": "Sesgo doméstico y mercado mundial",
+      "dificultad": "avanzada",
+      "pregunta": "Dos empresas de países distintos estiman betas diferentes para el mismo proyecto porque sus accionistas concentran inversiones en mercados nacionales diferentes. ¿Qué cambiaría si todos tuvieran el mismo portafolio mundial eficiente, con igual información y condiciones de mercado?",
+      "opciones": [
+        "La beta del proyecto sería necesariamente cero.",
+        "La referencia de riesgo sería común y, en una misma moneda, el rendimiento requerido para el proyecto convergería.",
+        "La empresa del país con tasa nominal menor conservaría siempre una ventaja real.",
+        "Las betas locales seguirían siendo la única referencia válida."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La diversificación no elimina el riesgo mundial común. El proyecto puede seguir covariando con el portafolio global. Una referencia compartida no implica beta nula.",
+        "La beta relevante depende del portafolio respecto del cual se mide el aporte de riesgo. Una cartera mundial común elimina esa diferencia de referencia. Comparando la misma inversión en una moneda común, no se justificarían tasas distintas solo por nacionalidad.",
+        "Las tasas nominales de monedas diferentes no prueban una ventaja real. Debe conservarse coherencia monetaria y de riesgo. La nacionalidad no garantiza un costo de oportunidad menor.",
+        "La referencia debe reflejar las tenencias efectivas de los inversionistas. Si estas son globales, el mercado local deja de representar por sí solo esa cartera. Mantenerlo como única referencia contradice el supuesto del caso."
+      ]
+    },
+    {
+      "id": "c10-q054",
+      "tema": "Beta de país y beta de proyecto",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma alemana analiza una planta extranjera y dispone de la beta del índice bursátil de ese país respecto del mercado estadounidense. ¿Cómo debería usar ese dato?",
+      "opciones": [
+        "Como tasa de descuento directamente aplicable a cualquier proyecto de ese país.",
+        "Como beta exacta de la planta respecto de cualquier mercado.",
+        "Como prueba de que el riesgo político ya está totalmente incorporado en sus flujos.",
+        "Como indicio limitado, revisando tanto la referencia de sus inversionistas como el riesgo específico de la actividad."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Beta es una medida de exposición y no una tasa de descuento. Para obtener una tasa hacen falta una referencia y una prima coherentes. Tampoco cualquier actividad tiene el mismo riesgo que el índice nacional.",
+        "Beta depende del mercado de referencia. También depende de la exposición económica de los activos considerados. Un índice nacional no representa exactamente a toda planta instalada allí.",
+        "La beta no construye por sí sola un pronóstico de flujos. Deben incluirse explícitamente probabilidades de pagos restringidos, expropiación u otros resultados relevantes. La medición de riesgo sistemático no sustituye ese trabajo.",
+        "Un índice reúne actividades y estructuras financieras que pueden diferir de la planta. Además, una beta contra Estados Unidos no es automáticamente una beta contra la cartera relevante de accionistas alemanes. El dato orienta, pero no reemplaza el análisis del proyecto."
+      ]
+    },
+    {
+      "id": "c10-q055",
+      "tema": "Riesgo que cambia por etapas",
+      "dificultad": "intermedia",
+      "pregunta": "Una prueba comercial resolverá gran parte de la incertidumbre de lanzamiento. Si funciona, seguirá una operación madura; si falla, se abandonará. ¿Qué enfoque evita trasladar el riesgo inicial a toda la vida del negocio?",
+      "opciones": [
+        "Valuar la operación futura con su riesgo y luego valuar el derecho condicionado a la prueba.",
+        "Aplicar la tasa alta de lanzamiento a todos los cobros para siempre.",
+        "Aplicar la tasa de operación madura a cualquier etapa sin revisar riesgos.",
+        "Ignorar la inversión posterior porque solo se realiza si hay éxito."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las etapas tienen exposiciones distintas. Primero se calcula el valor neto de continuar en la fecha de resolución de la prueba. Luego se ponderan los resultados y se valúa ese derecho durante la etapa inicial con el ajuste apropiado.",
+        "La tasa alta perpetua puede castigar riesgos que ya estarán resueltos. Eso puede cambiar equivocadamente el signo del VPN. Debe distinguirse el riesgo inicial del operativo posterior.",
+        "La operación madura no representa necesariamente la fase de prueba. Puede existir exposición sistemática adicional durante el desarrollo. La tasa debe corresponder al riesgo de cada segmento.",
+        "La inversión condicionada sigue siendo un desembolso real cuando ocurre el éxito. Debe restarse del valor de continuar en esa fecha. Omitirla sobrevalúa la oportunidad."
+      ]
+    },
+    {
+      "id": "c10-q056",
+      "tema": "Beta negativa y equivalente cierto",
+      "dificultad": "avanzada",
+      "pregunta": "Un activo ofrece cobros especialmente altos cuando el mercado cae y tiene beta negativa. Con prima de mercado positiva y suponiendo 1 + r > 0, ¿qué puede ocurrir con su tasa y su equivalente cierto de un período?",
+      "opciones": [
+        "La tasa debe superar rf porque todo cobro incierto exige prima positiva.",
+        "El equivalente cierto debe ser siempre menor que la esperanza.",
+        "La tasa puede ser menor que rf y el equivalente cierto mayor que el flujo esperado.",
+        "El activo debe rechazarse porque beta negativa implica VPN negativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La prima depende de la covariación y no solo de la incertidumbre. Los activos de cobertura pueden aceptar rendimiento esperado menor. El riesgo total no determina el signo de la prima.",
+        "El recorte habitual supone exposición sistemática positiva. Con una cobertura útil, la transformación puede aumentar el monto equivalente. La relación depende del signo del precio del riesgo del flujo.",
+        "Un cobro que protege en malos estados puede ser valioso para una cartera diversificada. El CAPM le asigna una prima negativa y por ello r < rf. Como EC = E(C) × (1 + rf)/(1 + r), un cobro esperado positivo puede tener EC superior a su esperanza.",
+        "Beta describe exposición al mercado y no valor creado. El VPN también depende del precio o inversión inicial. Un activo con beta negativa puede ser una inversión atractiva."
+      ]
+    },
+    {
+      "id": "c10-q057",
+      "tema": "Signo de los flujos y costos riesgosos",
+      "dificultad": "avanzada",
+      "pregunta": "Una obligación impone un costo incierto que tiende a ser mayor en expansiones y menor en recesiones. ¿Por qué no alcanza con decir que todo costo incierto merece una tasa más alta?",
+      "opciones": [
+        "Porque cualquier costo futuro debe sumarse como ingreso.",
+        "Porque un costo incierto siempre tiene valor presente cero.",
+        "Porque cambiar el signo obliga siempre a descontar a rf.",
+        "Porque hay que valorar la covariación del flujo con su signo y su función de cobertura, no solo su dispersión."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El costo sigue reduciendo los recursos del pagador. Su signo económico no desaparece por ser incierto. La cuestión es cómo valorar esa salida y luego restarla correctamente.",
+        "La incertidumbre no elimina una obligación económica. Los pagos esperados y su distribución tienen valor para quien los recibe. Deben valuarse con tiempo y riesgo adecuados.",
+        "El cambio de signo no elimina la covariación con el mercado. Solo vuelve inadecuado asignar primas mecánicamente a partir de la dispersión. rf corresponde a un flujo seguro o a su equivalente cierto.",
+        "Una salida elevada en buenos estados y baja en malos puede amortiguar el riesgo de otros flujos. Su costo equivalente cierto puede ser menor que el costo esperado, según la covariación pertinente. Conviene valuar el derecho del receptor y restarlo, o usar equivalentes ciertos coherentes con los flujos firmados."
+      ]
+    },
+    {
+      "id": "c10-q058",
+      "tema": "Rendimiento esperado y regresión condicional",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista estimó el rendimiento requerido mediante CAPM. Al observar que el mercado rindió cero en un año, sostiene que la acción necesariamente debió rendir su costo de capital estimado. ¿Qué error comete?",
+      "opciones": [
+        "Olvida que CAPM garantiza el rendimiento requerido todos los años.",
+        "Confunde rendimiento esperado antes del período con rendimiento realizado o condicionado al mercado observado.",
+        "Supone que la regresión puede tener un residuo distinto de cero.",
+        "No reconoce que beta mide una relación exacta en cada observación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "CAPM no elimina resultados inesperados. Una tasa requerida remunera una exposición asumida antes de conocer los estados. No garantiza un rendimiento efectivo anual.",
+        "El rendimiento requerido es una expectativa y no una promesa. Una regresión puede orientar la esperanza condicional mediante su intercepto y pendiente, pero conserva un residuo incierto. Observar el mercado de un año no obliga a la acción a rendir su expectativa inicial.",
+        "La existencia del residuo es precisamente una característica del modelo estadístico. Los shocks específicos separan observaciones de la recta ajustada. Permitirlos no es un error de la analista.",
+        "Beta mide sensibilidad promedio y no una igualdad sin ruido. Los puntos históricos se dispersan alrededor de la recta. Esa dispersión impide una predicción determinista de cada rendimiento."
+      ]
+    },
+    {
+      "id": "c10-q059",
+      "tema": "Minicaso: horizonte y transporte",
+      "dificultad": "avanzada",
+      "pregunta": "Al evaluar un pozo con producción declinante y precio creciente, el director quiere hallar el mínimo número de años para recuperar valor. También hay un compromiso nominal fijo de transporte, con pagos seguros durante la operación y sin salida anticipada. ¿Qué procedimiento corresponde?",
+      "opciones": [
+        "Mantener constante el ingreso del primer año y multiplicarlo por la cantidad de años.",
+        "Descontar el compromiso seguro a la beta alta del flujo residual para que pese menos.",
+        "Proyectar ingresos y costos por año, valuar el compromiso seguro a su tasa apropiada y buscar el primer horizonte con VPN positivo.",
+        "Tratar el costo fijo total como si bajara automáticamente con los barriles producidos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ese procedimiento omite cambios de producción y precio. También ignora descuento, probabilidades y transporte. El horizonte de equilibrio depende de la secuencia completa de flujos netos.",
+        "La beta del residuo puede ser alta precisamente por la obligación fija. Usarla para reducir artificialmente el VP de esa obligación confunde riesgos de componentes. Los pagos seguros deben valuarse como tales.",
+        "La declinación de volumen y la evolución de precios afectan cada año de modo distinto. El compromiso seguro debe separarse de los ingresos riesgosos y los fracasos deben ponderarse en los escenarios pertinentes. Se calcula el VPN para cada horizonte, incluyendo inversión inicial y todos los pagos exigibles.",
+        "Un pago total fijo no se vuelve variable por caer el volumen. Un costo por barril sí depende de producción y requiere otro pronóstico. Hay que respetar la forma contractual del compromiso."
+      ]
+    },
+    {
+      "id": "c10-q060",
+      "tema": "Ajustes duplicados y tasa creciente",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa ya usa equivalentes ciertos adecuados para cada año. El director propone descontarlos a una tasa ajustada por riesgo y aumentarla además para fechas lejanas. ¿Qué corrección corresponde?",
+      "opciones": [
+        "Descontar los equivalentes ciertos a tasas libres de riesgo coherentes con sus fechas.",
+        "Mantener ambos ajustes porque todo flujo lejano necesita dos primas.",
+        "Usar una tasa alta solo si los equivalentes ciertos son positivos.",
+        "No descontar los equivalentes ciertos porque ya están ajustados."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El equivalente cierto ya incorpora el precio del riesgo del flujo. Solo falta reconocer el tiempo hasta el pago, mediante tasas libres de riesgo apropiadas al horizonte. Una prima adicional repetiría el ajuste sin fundamento.",
+        "La fecha lejana ya afecta al descuento temporal y al equivalente cierto calculado. Dos primas no se justifican por la mera distancia. Solo riesgos distintos y explícitos podrían requerir otro tratamiento coherente.",
+        "El signo no determina por sí solo la tasa aplicable. El ajuste por riesgo ya está contenido en el equivalente cierto. Reintroducir una prima para cobros positivos vuelve a contarlo.",
+        "El equivalente cierto sigue siendo un pago futuro. Suprimir el descuento temporal lo confunde con dinero de hoy. Debe llevarse al presente a la tasa libre de riesgo."
+      ]
+    },
+    {
+      "id": "c10-q061",
+      "tema": "Anualización de varianza",
+      "dificultad": "intermedia",
+      "pregunta": "Los rendimientos mensuales son independientes y tienen desviación estándar de 5%. Usando la aproximación aditiva para anualizar su varianza, ¿cuáles son la varianza anual y la desviación estándar anual?",
+      "opciones": [
+        "60 puntos porcentuales al cuadrado y aproximadamente 7,75%.",
+        "3.600 puntos porcentuales al cuadrado y 60%.",
+        "300 puntos porcentuales al cuadrado y aproximadamente 17,32%.",
+        "25 puntos porcentuales al cuadrado y 5%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 60 surge de multiplicar la desviación estándar por doce y tratarla como varianza. Primero debe elevarse 5 al cuadrado. La varianza anual es 300 y su raíz es 17,32%.",
+        "El 60% multiplica linealmente la desviación estándar mensual por doce. Con independencia se suman varianzas y no desvíos. El desvío crece con la raíz del número de períodos.",
+        "La varianza mensual es 5² = 25. Con independencia, la varianza anual aproximada es 12 × 25 = 300. Su raíz cuadrada es aproximadamente 17,32%, por lo que no debe multiplicarse la desviación estándar por doce.",
+        "Esta respuesta conserva los valores mensuales. Omite los doce períodos que componen el año. Bajo el supuesto indicado, la varianza debe multiplicarse por doce."
+      ]
+    },
+    {
+      "id": "c10-q062",
+      "tema": "Construcción de beta industrial",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es un procedimiento adecuado para estimar beta y R² de un portafolio industrial con pesos iguales?",
+      "opciones": [
+        "Construir su serie de rendimientos promediando los rendimientos de las acciones en cada fecha y regresarla contra el mercado.",
+        "Promediar los precios absolutos y regresarlos contra el nivel del índice.",
+        "Usar el promedio de los R² individuales como R² exacto del portafolio.",
+        "Combinar series mensuales y semanales sin alinear sus fechas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La regresión debe trabajar con rendimientos del mismo período. El promedio transversal en cada fecha construye la serie del portafolio con pesos iguales. Su R² se estima sobre esa serie y puede mejorar al reducirse el ruido específico.",
+        "Los precios absolutos dependen de escalas y no miden rendimientos comparables. Tampoco corresponde regresar niveles contra niveles para obtener beta. Primero deben construirse rendimientos por período.",
+        "R² es una razón de varianzas y no se promedia linealmente entre acciones. Las covarianzas entre residuos afectan al portafolio. Debe estimarse el R² de sus rendimientos agregados.",
+        "Los períodos deben ser comparables entre sí y con el mercado. Una semana no equivale a un mes. Cambiar frecuencia o ventana puede servir como contraste, pero requiere series consistentes en cada regresión."
+      ]
+    },
+    {
+      "id": "c10-q063",
+      "tema": "Probabilidades condicionadas y producción",
+      "dificultad": "intermedia",
+      "pregunta": "Un pozo tiene 25% de probabilidad de estar seco. Si produce, entrega 200 barriles diarios con probabilidad condicional 40% o 400 con 60%. Se opera 365 días y el precio es $20 por barril. Sin costos, ¿cuál es el ingreso anual esperado?",
+      "opciones": [
+        "$2.336.000.",
+        "$1.460.000.",
+        "$2.920.000.",
+        "$1.752.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El $2.336.000 usa los 320 barriles diarios condicionados al éxito. Falta incluir el 25% de probabilidad de producción nula. Debe multiplicarse ese ingreso por 0,75.",
+        "El $1.460.000 supone 200 barriles diarios seguros. Ignora tanto el escenario de alta producción como el de pozo seco. El promedio correcto requiere las probabilidades condicionadas y la probabilidad de éxito.",
+        "El $2.920.000 corresponde a producir 400 barriles todos los días con certeza. Selecciona el mejor resultado y elimina los demás escenarios. La esperanza es menor porque no siempre se produce ni siempre se alcanza ese volumen.",
+        "Condicionado a producir, el volumen diario esperado es 0,40 × 200 + 0,60 × 400 = 320 barriles. Incluyendo el pozo seco queda 0,75 × 320 = 240 barriles diarios esperados. El ingreso anual es 240 × 365 × $20 = $1.752.000."
+      ]
+    },
+    {
+      "id": "c10-q064",
+      "tema": "Límite de recargos arbitrarios",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora quiere corregir con un único recargo de tasa la posibilidad diversificable de fracaso inicial en dos proyectos de duración distinta. El fracaso anula todos los cobros futuros, pero no la inversión inicial. ¿Qué le advertirías?",
+      "opciones": [
+        "Que el recargo debe ser idéntico a la probabilidad de fracaso expresada en puntos porcentuales.",
+        "Que debe ponderar los cobros por éxito; un mismo recargo anual no reproduce en general esa reducción para todas las fechas.",
+        "Que basta con reducir también la inversión inicial por la probabilidad de éxito.",
+        "Que un recargo que funciona para el cobro de un año necesariamente funciona para cualquier plazo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una probabilidad no es una tasa de rendimiento. Convertirla directamente en puntos de descuento ignora fechas y estructura de cobros. El ajuste natural de un fracaso diversificable se realiza en las expectativas.",
+        "La posibilidad de fracaso inicial multiplica los cobros condicionados por una probabilidad de éxito. Un recargo anual, en cambio, altera los factores de descuento de forma compuesta y dependiente del plazo. Puede calibrarse para un caso particular, pero no reemplaza en general el promedio explícito de escenarios.",
+        "La inversión inicial se paga también si luego el proyecto fracasa. Reducirla por éxito elimina parte de un desembolso cierto. Solo los flujos condicionados a resultados futuros deben ponderarse de ese modo.",
+        "La equivalencia depende de cuántos períodos se descuente. Un ajuste calibrado para una fecha produce otra reducción acumulada en una fecha distinta. Por eso no hay garantía de que sirva para ambos proyectos."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1298 @@
+{
+  "capitulo": 3,
+  "titulo": "Cómo calcular valores presentes",
+  "preguntas": [
+    {
+      "id": "c03-q001",
+      "tema": "Valor presente y costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el valor presente de un cobro futuro cierto?",
+      "opciones": [
+        "El importe futuro sin ajustes, porque el cobro es seguro.",
+        "El importe que hoy permitiría reproducir ese cobro a una tasa comparable.",
+        "El beneficio contable reconocido cuando se cobre.",
+        "El importe futuro más los intereses que se podrían ganar."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La certeza elimina la incertidumbre del cobro, pero no la espera. El dinero disponible hoy puede producir intereses. Por eso un flujo cierto también se descuenta cuando la tasa es positiva.",
+        "El valor presente traduce el cobro a dinero de hoy. Se busca cuánto habría que invertir ahora para obtenerlo. La tasa debe corresponder al plazo y al riesgo del flujo.",
+        "El beneficio contable depende de criterios de reconocimiento y de costos. El valor presente depende de flujos de efectivo y de su fecha. Un ingreso contable no determina por sí solo el valor del activo.",
+        "Sumar intereses lleva dinero actual hacia una fecha futura. Para traer un cobro futuro al presente se hace la operación inversa. Corresponde dividir por el factor de capitalización."
+      ]
+    },
+    {
+      "id": "c03-q002",
+      "tema": "Descuento de un pago único",
+      "dificultad": "basica",
+      "pregunta": "Vas a cobrar $1.210 dentro de dos años. Si la tasa efectiva anual es 10%, ¿cuál es el VP?",
+      "opciones": [
+        "$1.100",
+        "$1.464,10",
+        "$1.008,33",
+        "$1.000"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$1.100 resulta de descontar un solo año. El cobro ocurre dentro de dos años. Falta descontar el segundo período para llegar a $1.000.",
+        "$1.464,10 resulta de multiplicar $1.210 por 1,10². Esa operación lleva el cobro dos años hacia adelante. Para traerlo al presente corresponde dividir.",
+        "$1.008,33 resulta de dividir por 1 + 2 × 0,10. Eso aplica interés simple. La tasa efectiva anual exige capitalizar y descontar en forma compuesta.",
+        "El factor de acumulación de dos años es 1,10² = 1,21. Se divide $1.210 por 1,21. El resultado es $1.000, que invertido al 10% reproduce el cobro."
+      ]
+    },
+    {
+      "id": "c03-q003",
+      "tema": "Riesgo y costo de capital",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero valúa ingresos comerciales inciertos con una tasa libre de riesgo porque el proyecto se realiza en dólares. ¿Qué debería corregir?",
+      "opciones": [
+        "Eliminar el descuento y comparar sólo cobros y pagos nominales.",
+        "Aumentar todos los cobros hasta compensar el riesgo sin cambiar su naturaleza.",
+        "Mantener la tasa porque toda valuación en dólares es segura.",
+        "Usar un costo de oportunidad que refleje el riesgo de los flujos, además de su moneda y plazo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Eliminar el descuento ignora tanto el tiempo como el costo de oportunidad. La incertidumbre no justifica sumar importes de fechas diferentes. Deben proyectarse los flujos y valuarlos de manera coherente.",
+        "Inflar el pronóstico no corrige la valuación del riesgo. Al contrario, puede sobreestimar todavía más el proyecto. Se necesitan estimaciones razonables y una tasa apropiada para esos flujos.",
+        "Un proyecto puede facturar en dólares y aun así incumplir su pronóstico. El riesgo comercial no desaparece por elegir una moneda. Una tasa segura no remunera automáticamente esa exposición.",
+        "La moneda no determina que un flujo sea seguro. La tasa debe reflejar el rendimiento de una alternativa comparable en riesgo y plazo. Usar una tasa demasiado baja puede convertir artificialmente un VPN negativo en positivo."
+      ]
+    },
+    {
+      "id": "c03-q004",
+      "tema": "Factores de descuento por vencimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Si r₂ es la tasa anual al contado para invertir durante dos años, ¿cuál es el factor de descuento de un cobro en t = 2?",
+      "opciones": [
+        "1/(1 + r₂)²",
+        "1/(1 + r₁ + r₂)",
+        "1/(1 + 2r₂)",
+        "1/(1 + r₂)"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa r₂ es anual y corresponde a todo el plazo de dos años. Un peso crece hasta (1 + r₂)². El factor que revierte ese crecimiento es su inversa.",
+        "Las tasas al contado de distintos plazos no se suman para construir el descuento. Cada una sirve para su vencimiento específico. Para t = 2 se usa exclusivamente (1 + r₂)².",
+        "Esta expresión utiliza interés simple. No incorpora intereses sobre los intereses del primer año. Con capitalización anual hay que elevar (1 + r₂) al cuadrado.",
+        "Esta expresión descuenta un solo año. El vencimiento indicado está a dos años de distancia. Falta incorporar un segundo período de capitalización."
+      ]
+    },
+    {
+      "id": "c03-q005",
+      "tema": "Flujos con tasas al contado",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo paga $110 en un año y $288 en dos años. Las tasas anuales al contado son r₁ = 10% y r₂ = 20%. ¿Cuál es su VP?",
+      "opciones": [
+        "$318,18",
+        "$300",
+        "$340",
+        "$338,02"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$318,18 surge de dividir el segundo cobro por 1,10 × 1,20. Eso interpreta las tasas al contado como tasas sucesivas de un año. La tasa r₂ corresponde al plazo total de dos años.",
+        "El primer cobro vale 110/1,10 = $100. El segundo vale 288/1,20² = $200. La suma de ambos valores presentes es $300.",
+        "$340 surge de usar 288/1,20 = $240 para el segundo cobro. Esa cuenta omite un año de descuento. La tasa de dos años es anual y debe elevarse al cuadrado.",
+        "$338,02 surge de descontar ambos cobros al 10%. La estructura temporal del enunciado no es plana. El pago del segundo año debe usar r₂ = 20%."
+      ]
+    },
+    {
+      "id": "c03-q006",
+      "tema": "Retraso de ingresos y pagos",
+      "dificultad": "intermedia",
+      "pregunta": "Una obra se atrasa un año, pero también se postergan ciertos pagos al contratista. ¿Cómo debería evaluar el efecto el director financiero?",
+      "opciones": [
+        "Suponer que el efecto es nulo porque se atrasan ingresos y pagos.",
+        "Recalcular el VPN con las nuevas fechas de todos los flujos.",
+        "Restar solamente el importe nominal de un año de intereses.",
+        "Rechazar siempre el proyecto aunque el nuevo VPN siga siendo positivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los cambios sólo se compensarían bajo condiciones específicas. Que ambos tipos de flujo se retrasen no asegura igualdad de efectos. Hay que calcular el cambio neto de valor presente.",
+        "Retrasar ingresos reduce su valor presente con tasa positiva. Retrasar desembolsos reduce también el valor presente de los costos. El efecto neto depende de importes y fechas, y se mide con el nuevo VPN.",
+        "Un ajuste nominal único no refleja el calendario completo. Los flujos pueden tener plazos y signos distintos. Debe descontarse cada uno desde su nueva fecha.",
+        "Un retraso puede reducir el valor sin volverlo negativo. Si el VPN actualizado sigue siendo positivo, el proyecto aún puede crear valor. La decisión debe considerar las alternativas relevantes."
+      ]
+    },
+    {
+      "id": "c03-q007",
+      "tema": "Aditividad del valor presente",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué se pueden sumar los valores presentes de distintos cobros?",
+      "opciones": [
+        "Porque todos están expresados en dinero de una misma fecha.",
+        "Porque sumar cobros sin descontar equivale a sumar sus valores presentes.",
+        "Porque descontar elimina las diferencias de moneda.",
+        "Porque todos los flujos futuros tienen necesariamente el mismo riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada descuento lleva el flujo a una fecha común. Así los importes se vuelven comparables en términos temporales. La suma conserva el valor de cada componente correctamente valuado.",
+        "La suma nominal mezcla importes de fechas diferentes. Con tasas positivas, los cobros lejanos valen menos hoy. Sólo se suman directamente después de llevarlos a la misma fecha.",
+        "El descuento corrige la dimensión temporal. No convierte automáticamente pesos, dólares u otras monedas. Antes de sumarlos también debe existir una unidad monetaria coherente.",
+        "La aditividad no exige que todos los flujos tengan el mismo riesgo. Cada componente debe valuarse con una tasa adecuada. Luego se suman sus valores presentes."
+      ]
+    },
+    {
+      "id": "c03-q008",
+      "tema": "VPN con construcción y valor del terreno",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto usa hoy un terreno vendible por $80 y paga $120 de obra hoy, $110 en t = 1 y $121 en t = 2. El activo se vende por $484 en t = 2. Con tasa anual de 10%, ¿cuál es el VPN?",
+      "opciones": [
+        "$0",
+        "$80",
+        "$100",
+        "$121"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El desembolso económico inicial es $200, incluido el terreno. El flujo del año 2 es 484 − 121 = $363. El VPN es −200 − 110/1,10 + 363/1,10² = $0.",
+        "$80 aparece si se omite el valor de oportunidad del terreno. Usarlo impide venderlo hoy. Por eso sus $80 son parte del flujo inicial aunque no se paguen en efectivo.",
+        "$100 aparece si se omite el pago de obra del año 1. Su valor presente es precisamente $100. Todos los desembolsos del calendario deben incluirse.",
+        "$121 aparece si se suman los flujos sin descontarlos. La cuenta nominal es −200 − 110 + 363. Para medir creación de valor hay que llevar todos los importes al presente."
+      ]
+    },
+    {
+      "id": "c03-q009",
+      "tema": "Financiamiento promocional y descuento de contado",
+      "dificultad": "intermedia",
+      "pregunta": "Una concesionaria ofrece cuotas anunciadas como 'sin interés' y otra ofrece un descuento por pago contado para el mismo auto. ¿Qué comparación es pertinente?",
+      "opciones": [
+        "Comparar sólo el valor de la primera cuota con el descuento ofrecido.",
+        "Comparar el anticipo más el VP de las cuotas con el precio de contado descontado.",
+        "Elegir las cuotas porque una tasa contractual cero implica costo económico cero.",
+        "Elegir el precio cuya suma nominal sea menor, cualquiera sea el calendario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La primera cuota no representa el compromiso total. Todas las cuotas y el anticipo afectan el costo. Omitir pagos futuros sesga la comparación.",
+        "El costo económico incluye cuándo se entrega cada peso. Se suma el anticipo y el valor presente de las cuotas usando una tasa de oportunidad pertinente. Luego se compara con el precio efectivo de contado.",
+        "Renunciar a un descuento de contado puede implicar un costo financiero. La etiqueta comercial no determina el valor de la operación. El análisis debe incluir ambas alternativas completas.",
+        "La suma nominal ignora el beneficio de diferir pagos. Una oferta nominalmente más cara podría tener menor valor presente. Hay que poner los calendarios en una fecha común."
+      ]
+    },
+    {
+      "id": "c03-q010",
+      "tema": "Valor presente neto y período cero",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la relación correcta entre VP y VPN si C₀ es el flujo inicial con su signo?",
+      "opciones": [
+        "VPN = VP de los flujos posteriores, sin considerar C₀.",
+        "VPN = C₀ + VP de los flujos posteriores.",
+        "VPN = VP − C₀, aun cuando C₀ ya es negativo.",
+        "VPN = C₀/(1 + r) + VP de los flujos posteriores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta expresión calcula el valor de los flujos posteriores. Omite el sacrificio inicial necesario para obtenerlos. Un activo valioso puede igualmente ser una mala compra si cuesta demasiado.",
+        "El VPN incluye todos los flujos del proyecto. El flujo inicial entra con su signo y sin descuento. Los flujos posteriores se incorporan por su valor presente.",
+        "Si C₀ ya es negativo, restarlo transforma un desembolso en un aporte positivo. Eso sobreestima el valor creado. Hay que sumar el flujo inicial tal como está definido.",
+        "El período cero es la fecha de valuación. Su factor de descuento es uno. Descontarlo un año desplaza artificialmente la inversión inicial."
+      ]
+    },
+    {
+      "id": "c03-q011",
+      "tema": "Perpetuidad con pago inmediato",
+      "dificultad": "basica",
+      "pregunta": "Una fundación pagará $120 hoy y luego $120 al final de cada año para siempre. Si obtiene 6% efectivo anual, ¿cuánto necesita hoy?",
+      "opciones": [
+        "$2.120",
+        "$2.247,20",
+        "$127,20",
+        "$2.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los pagos desde el año 1 forman una perpetuidad de 120/0,06 = $2.000. El pago de hoy no se descuenta. La reserva total es 2.000 + 120 = $2.120.",
+        "$2.247,20 resulta de multiplicar $2.120 por 1,06. El pago inmediato ya fue incorporado al sumar $120. Aplicar otro adelanto cuenta un beneficio temporal que no existe.",
+        "$127,20 equivale a capitalizar una sola cuota al 6%. No financia una secuencia infinita. La reserva debe cubrir el pago inmediato y sostener los pagos posteriores con su rendimiento.",
+        "$2.000 financia sólo los pagos que comienzan dentro de un año. No alcanza para agregar el desembolso inmediato. Hay que sumar otros $120."
+      ]
+    },
+    {
+      "id": "c03-q012",
+      "tema": "Premios equivalentes y elección de renta",
+      "dificultad": "basica",
+      "pregunta": "Una persona puede elegir un premio al contado o una renta anual. Si ambos tienen igual VP con la tasa adecuada, y no hay impuestos ni otras diferencias, ¿qué conclusión es correcta?",
+      "opciones": [
+        "Son financieramente equivalentes bajo los supuestos usados.",
+        "La renta es mejor porque suma más dinero nominal.",
+        "El contado es mejor por definición, aunque el VP coincida.",
+        "La igualdad de VP exige que tengan el mismo número de pagos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor presente permite comparar calendarios diferentes. Si ambos VP coinciden, una alternativa puede reproducir financieramente a la otra con la tasa considerada. La equivalencia depende de que se mantengan los supuestos.",
+        "La renta suele sumar más dinero nominal por la espera. Esa suma no mide riqueza en una misma fecha. La comparación correcta ya incorpora el descuento.",
+        "El contado entrega liquidez inmediata, pero esa ventaja temporal ya está en el VP. No permite afirmar superioridad financiera automática si los valores coinciden. Otras preferencias requerirían diferencias adicionales al enunciado.",
+        "Un único pago y una renta pueden tener el mismo VP. No necesitan coincidir en cantidad ni en fechas. Lo que debe coincidir es la suma de valores descontados."
+      ]
+    },
+    {
+      "id": "c03-q013",
+      "tema": "Estructura temporal plana",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué simplificación permite usar una única tasa r en VP = Σ Cₜ/(1 + r)ᵗ?",
+      "opciones": [
+        "Suponer que todos los cobros ocurren en el mismo momento.",
+        "Suponer una estructura temporal plana para flujos comparables en riesgo.",
+        "Suponer que las tasas al contado siempre aumentan con el plazo.",
+        "Suponer que el costo de oportunidad desaparece al diversificar."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los flujos pueden ubicarse en años diferentes. Cada uno conserva su exponente temporal. La tasa común no cambia el calendario de cobros.",
+        "Una estructura plana asigna la misma tasa anual a todos los vencimientos considerados. El tiempo sigue entrando en el exponente. La comparabilidad de riesgo permite aplicar coherentemente esa tasa común.",
+        "Una estructura creciente requiere tasas diferentes según el plazo. Eso impide reemplazarlas directamente por una única tasa. La simplificación propuesta corresponde a una estructura plana.",
+        "Diversificar no elimina el valor temporal del dinero. Tampoco convierte automáticamente todos los flujos en seguros. La tasa sigue representando una alternativa de inversión comparable."
+      ]
+    },
+    {
+      "id": "c03-q014",
+      "tema": "Perpetuidad diferida",
+      "dificultad": "intermedia",
+      "pregunta": "Un contrato paga $100 por año para siempre y su primer pago ocurre al final del año 3. Con tasa anual de 10%, ¿cuál es su VP aproximado?",
+      "opciones": [
+        "$1.000",
+        "$909,09",
+        "$751,31",
+        "$826,45"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$1.000 sería el valor hoy si el primer pago llegara en t = 1. El contrato comienza dos años más tarde. Ese retraso exige descontar el valor de la perpetuidad.",
+        "$909,09 descuenta $1.000 sólo un año. Eso correspondería a una perpetuidad cuyo primer pago ocurre en t = 2. El contrato indicado empieza en t = 3.",
+        "$751,31 resulta de descontar $1.000 durante tres años. El valor C/r se ubica un período antes del primer pago. Por eso se debe descontar desde t = 2.",
+        "La perpetuidad vale 100/0,10 = $1.000 en t = 2. Esa fecha es un período antes del primer pago. Al descontar dos años, 1.000/1,10² = $826,45."
+      ]
+    },
+    {
+      "id": "c03-q015",
+      "tema": "Comparación de cuotas mensuales y anuales",
+      "dificultad": "intermedia",
+      "pregunta": "Un vendedor afirma que un préstamo mensual es más barato porque doce cuotas suman menos que una cuota anual. ¿Qué falta revisar?",
+      "opciones": [
+        "Si el débito automático reduce por sí mismo el costo financiero.",
+        "Las fechas de pago y las tasas efectivas equivalentes de ambos planes.",
+        "Sólo la diferencia entre las sumas nominales.",
+        "Sólo que haya exactamente doce cuotas por año."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El débito automático es un mecanismo de cobro. No convierte una tasa mensual en una tasa anual más baja. Sólo una condición económica explícita podría reducir el costo.",
+        "Las cuotas mensuales comienzan a cancelar deuda antes que la anual. Por eso la suma nominal puede ser menor aun con una tasa efectiva mayor. Hay que comparar tasas equivalentes y valores presentes.",
+        "Las sumas nominales mezclan pagos realizados en momentos distintos. No captan cuánto capital se mantiene prestado en cada fecha. El análisis financiero requiere considerar el tiempo.",
+        "Contar cuotas no permite evaluar su costo económico. También importan el importe y la fecha de cada pago. La comparación debe usar períodos y tasas coherentes."
+      ]
+    },
+    {
+      "id": "c03-q016",
+      "tema": "Arbitraje y ley de un solo precio",
+      "dificultad": "basica",
+      "pregunta": "Dos títulos generan exactamente los mismos flujos ciertos, en las mismas fechas y moneda. Sin costos de transacción, ¿qué exige la ausencia de arbitraje?",
+      "opciones": [
+        "Que sus precios difieran para remunerar la habilidad del comprador.",
+        "Que tengan el mismo precio sólo si los emite la misma entidad.",
+        "Que el título más caro prometa una ganancia segura adicional.",
+        "Que tengan el mismo precio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La habilidad de detectar un desajuste no justifica mantenerlo en equilibrio. Los inversores intentarían explotar la diferencia. Sus operaciones tenderían a igualar los precios.",
+        "La identidad del emisor no cambia la conclusión cuando los flujos son realmente idénticos y ciertos. Si hubiera diferencias de riesgo, ya no serían títulos equivalentes. Bajo el supuesto dado, sus precios deben coincidir.",
+        "El enunciado fija flujos idénticos. Por eso el título más caro no entrega una compensación futura adicional. Su sobreprecio permitiría una operación de arbitraje.",
+        "Los títulos ofrecen el mismo resultado económico. Si sus precios difirieran, se podría comprar el barato y vender el caro. La diferencia inicial sería una ganancia sin exposición neta a los flujos futuros."
+      ]
+    },
+    {
+      "id": "c03-q017",
+      "tema": "VP de cuotas constantes",
+      "dificultad": "basica",
+      "pregunta": "Un plan exige tres pagos de $100 en los años 1, 2 y 3. Si la tasa es 10% anual, ¿cuál es su costo presente aproximado?",
+      "opciones": [
+        "$225,39",
+        "$300",
+        "$331",
+        "$248,69"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$225,39 resulta de tratar los $300 como un solo pago en el año 3. Dos cuotas se pagan antes de esa fecha. Es necesario descontarlas desde sus vencimientos reales.",
+        "$300 es la suma nominal de las tres cuotas. Ignora que parte del dinero se paga más adelante. Con tasa positiva, el costo presente es menor.",
+        "$331 es el valor futuro de esos depósitos al final del año 3. El problema pide el costo en t = 0. Para hallarlo hay que descontar los pagos.",
+        "Se descuentan los tres pagos a la misma fecha. El VP es 100/1,10 + 100/1,10² + 100/1,10³. La suma es $248,69 y también se obtiene con el factor de anualidad."
+      ]
+    },
+    {
+      "id": "c03-q018",
+      "tema": "Inflación y sostenimiento de gastos",
+      "dificultad": "intermedia",
+      "pregunta": "Una fundación quiere mantener la capacidad de compra de su aporte anual indefinido. Los costos crecen a tasa g y la tasa nominal de descuento es r > g. ¿Qué modelo corresponde?",
+      "opciones": [
+        "Una anualidad de un año, porque después la inflación es incierta.",
+        "Una perpetuidad creciente con denominador r + g.",
+        "Una perpetuidad creciente con primer aporte futuro C₁ y VP = C₁/(r − g).",
+        "Una perpetuidad fija C₁/r, porque el aporte conserva poder de compra automáticamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La incertidumbre obliga a evaluar los supuestos, pero no transforma un compromiso perpetuo en uno anual. Bajo el crecimiento constante planteado se puede modelar toda la serie. El horizonte debe reflejar el compromiso.",
+        "Sumar g al denominador reduciría la reserva al aumentar la inflación esperada. Para sostener gastos más altos hace falta más capital. El denominador correcto es r − g.",
+        "Mantener capacidad de compra exige aumentar los aportes nominales junto con los costos. Si ese aumento es constante, se modela como crecimiento g. Con r > g, la reserva necesaria es C₁/(r − g).",
+        "Un pago nominal fijo compra menos si los precios suben. No sostiene el mismo programa real indefinidamente. Debe incorporarse el crecimiento de los costos."
+      ]
+    },
+    {
+      "id": "c03-q019",
+      "tema": "Factores de descuento y almacenamiento de efectivo",
+      "dificultad": "avanzada",
+      "pregunta": "Si se puede guardar efectivo sin costo y prestar y tomar prestado sin fricciones, ¿qué relación evita arbitraje entre factores de descuento ciertos?",
+      "opciones": [
+        "FD₂ > FD₁ siempre que r₂ < r₁.",
+        "FD₂ = FD₁² aunque la estructura temporal no sea plana.",
+        "FD₂ ≤ FD₁, aunque r₂ pueda ser menor que r₁.",
+        "r₂ ≥ r₁ necesariamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una tasa anual menor no implica un factor de descuento mayor. También importa que el plazo sea más largo. Hay que comparar 1/(1 + r₁) con 1/(1 + r₂)².",
+        "La igualdad propuesta requiere una tasa común para ambos vencimientos. No se deduce solamente de la ausencia de arbitraje. Con estructura no plana, cada factor usa su propia tasa al contado.",
+        "Un peso recibido antes puede guardarse hasta la fecha posterior. Por eso el pago temprano no puede valer menos. Esto restringe factores de descuento, sin exigir tasas al contado crecientes.",
+        "La restricción compara acumulaciones totales de uno y dos años. Una tasa anual de dos años menor puede producir una acumulación total mayor. La ausencia de arbitraje no obliga a ordenar las tasas de ese modo."
+      ]
+    },
+    {
+      "id": "c03-q020",
+      "tema": "VP de anualidad anticipada",
+      "dificultad": "intermedia",
+      "pregunta": "Se cobran tres pagos de $100 en t = 0, t = 1 y t = 2. Con tasa anual de 10%, ¿cuál es el VP aproximado?",
+      "opciones": [
+        "$348,69",
+        "$273,55",
+        "$248,69",
+        "$300"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$348,69 agrega un pago inmediato a tres pagos vencidos. Eso representa cuatro pagos en total. El enunciado establece sólo tres.",
+        "Los tres pagos valen 100 + 100/1,10 + 100/1,10². La suma es $273,55. También equivale al VP de la anualidad vencida de tres pagos multiplicado por 1,10.",
+        "$248,69 corresponde a pagos en los años 1, 2 y 3. Aquí cada cuota llega un año antes. Por eso su valor presente es mayor.",
+        "$300 suma los pagos sin reconocer las fechas. Sólo la cuota de hoy tiene factor de descuento uno. Las otras dos deben descontarse."
+      ]
+    },
+    {
+      "id": "c03-q021",
+      "tema": "Precisión del calendario de flujos",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto recauda pequeñas sumas todos los días, pero el modelo supone que todo se cobra el último día del año. Con tasas positivas, ¿qué criterio es razonable?",
+      "opciones": [
+        "Afirmar que el VP es exacto porque la suma anual no cambia.",
+        "Reemplazar todos los cobros por un único ingreso al inicio del año y llamarlo exacto.",
+        "Reconocer que el supuesto puede subestimar el VP y refinarlo si el efecto es relevante.",
+        "Usar siempre capitalización continua sin convertir la tasa efectiva anual."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad de la suma anual no implica igualdad de valor. El descuento distingue fechas dentro del año. La precisión depende de la tasa y del calendario.",
+        "Concentrar todo al inicio adelanta cobros que todavía no ocurrieron. Puede sobreestimar el valor. Una aproximación útil no debe presentarse como un calendario exacto.",
+        "Los cobros reales llegan antes que el cierre anual. Por eso valen más que si se concentraran al final. Una aproximación continua puede servir cuando su precisión se justifica para la decisión.",
+        "El modelo continuo requiere una tasa continua equivalente. Usar directamente el mismo número de la tasa efectiva cambia la rentabilidad implícita. Debe aplicarse δ = ln(1 + r)."
+      ]
+    },
+    {
+      "id": "c03-q022",
+      "tema": "Arbitraje puro y operaciones riesgosas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué distingue un arbitraje puro de una apuesta a que dos títulos parecidos converjan en precio?",
+      "opciones": [
+        "El arbitraje puro asegura una ganancia sin riesgo neto bajo los supuestos operativos.",
+        "Toda apuesta de convergencia asegura el mismo rendimiento que un arbitraje.",
+        "El arbitraje puro exige acertar la tasa de interés futura.",
+        "Una alta ganancia esperada basta para definir arbitraje puro."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El arbitraje puro explota precios incompatibles de resultados equivalentes. La ganancia no depende de que se cumpla un pronóstico incierto. Una operación entre activos sólo similares puede dejar riesgos abiertos.",
+        "La semejanza no garantiza equivalencia de flujos. Los precios pueden separarse todavía más o no converger. Por eso la apuesta puede perder dinero.",
+        "Si el resultado depende de acertar una tasa futura, existe incertidumbre. Esa dependencia impide considerarlo una ganancia asegurada. Un arbitraje puro debe cerrar sus exposiciones relevantes.",
+        "Una rentabilidad esperada alta puede compensar un riesgo alto. No asegura el resultado realizado. El arbitraje puro se define por la estructura de la operación, no por el optimismo del pronóstico."
+      ]
+    },
+    {
+      "id": "c03-q023",
+      "tema": "Cuota de préstamo amortizable",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo de $210 se cancela con dos cuotas anuales iguales, al final de cada año. La tasa es 10% anual. ¿Cuánto vale cada cuota?",
+      "opciones": [
+        "$115,50",
+        "$126",
+        "$105",
+        "$121"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$115,50 surge de capitalizar todo el préstamo un año y dividir por dos. No reproduce el calendario de dos cuotas. La segunda cuota vence un año después de la primera.",
+        "$126 distribuye en dos cuotas el capital más dos años de interés simple sobre $210. Eso cobra intereses sobre capital ya amortizado. Un crédito amortizable calcula intereses sobre el saldo pendiente.",
+        "$105 divide el capital entre dos sin pagar intereses. El prestamista exige 10% sobre el saldo pendiente. Las cuotas deben cubrir capital e intereses.",
+        "El factor de anualidad es 1/1,10 + 1/1,10² = 1,735537. La cuota es 210/1,735537 = $121. Su valor presente conjunto reproduce los $210 prestados."
+      ]
+    },
+    {
+      "id": "c03-q024",
+      "tema": "Tasas decrecientes por plazo",
+      "dificultad": "avanzada",
+      "pregunta": "Un analista observa r₂ < r₁ y concluye que necesariamente hay arbitraje. ¿Cómo se evalúa esa afirmación bajo el supuesto de poder guardar efectivo sin costo?",
+      "opciones": [
+        "Es incorrecta porque las tasas nunca afectan el arbitraje.",
+        "Es correcta sólo porque la tasa de dos años debe duplicar la de un año.",
+        "Es insuficiente: debe comparar (1 + r₂)² con (1 + r₁).",
+        "Es correcta porque toda estructura descendente permite ganancias seguras."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las tasas determinan precios relativos de dinero entre fechas. Algunas combinaciones sí permiten arbitraje. La conclusión debe basarse en esos precios y en las operaciones disponibles.",
+        "La tasa anual de dos años no necesita ser el doble. Lo que se compara es el rendimiento acumulado del plazo. Una regla de duplicación confunde tasas anualizadas con acumulación total.",
+        "Las tasas están anualizadas y corresponden a plazos diferentes. Aun con r₂ menor, la acumulación de dos años puede superar la de un año. La restricción relevante es que el factor de descuento no aumente con el vencimiento bajo los supuestos dados.",
+        "Una estructura descendente puede ser compatible con ausencia de arbitraje. La comparación entre tasas aisladas ignora los exponentes temporales. Hay que comparar las acumulaciones de cada plazo."
+      ]
+    },
+    {
+      "id": "c03-q025",
+      "tema": "Perpetuidades y bonos consol",
+      "dificultad": "basica",
+      "pregunta": "¿Qué flujo caracteriza a un bono perpetuo de cupón fijo sin obligación de rescate?",
+      "opciones": [
+        "Un único pago final cuyo vencimiento se desconoce.",
+        "Pagos constantes indefinidos, sin devolución contractual del principal en una fecha final.",
+        "Pagos constantes durante un plazo definido y devolución final obligatoria.",
+        "Pagos que necesariamente crecen al ritmo de la inflación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La perpetuidad no consiste en esperar un único cobro. Genera una secuencia recurrente de pagos. La ausencia de vencimiento no implica ausencia de cupones.",
+        "Una perpetuidad fija mantiene el mismo pago durante un horizonte ilimitado. No existe una fecha contractual de vencimiento del principal. Los bonos consol ilustran esa estructura.",
+        "Un plazo definido y un rescate final describen un bono con vencimiento. Su valuación incluye cupones y principal. Esa estructura no es una perpetuidad pura.",
+        "Un cupón fijo no aumenta automáticamente con los precios. La protección contra inflación requeriría otra cláusula. Si los pagos crecen, hay que modelarlos como una serie creciente."
+      ]
+    },
+    {
+      "id": "c03-q026",
+      "tema": "Separación entre interés y amortización",
+      "dificultad": "intermedia",
+      "pregunta": "En el préstamo de $210 al 10% anual con dos cuotas de $121, ¿qué saldo queda inmediatamente después de la primera cuota?",
+      "opciones": [
+        "$89",
+        "$110",
+        "$121",
+        "$21"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$89 resulta de restar toda la cuota al capital inicial. Pero $21 de la cuota pagan intereses. Sólo los $100 restantes reducen el principal.",
+        "El primer año genera 210 × 0,10 = $21 de intereses. De la cuota, 121 − 21 = $100 amortizan capital. El saldo baja de $210 a $110.",
+        "$121 es el importe de la cuota. El saldo pendiente es una magnitud diferente. Luego del primer pago quedan $110, que generan $11 de intereses antes de la segunda cuota.",
+        "$21 es el interés del primer año. No es el saldo del capital después de pagar. El saldo se obtiene restando la amortización al capital inicial."
+      ]
+    },
+    {
+      "id": "c03-q027",
+      "tema": "Tasa forward implícita",
+      "dificultad": "avanzada",
+      "pregunta": "Al comparar invertir dos años con invertir un año y asegurar hoy la reinversión por el segundo, ¿qué representa la tasa forward de ese segundo año?",
+      "opciones": [
+        "La tasa al contado de dos años multiplicada por dos.",
+        "La tasa futura pactada hoy que iguala las acumulaciones de ambas estrategias.",
+        "La tasa que necesariamente se observará en el mercado dentro de un año.",
+        "El promedio aritmético de las tasas al contado de uno y dos años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Multiplicar r₂ por dos ignora la capitalización. La acumulación a dos años es (1 + r₂)². La tasa forward se despeja comparándola con la acumulación del primer año.",
+        "La tasa forward conecta precios actuales de distintos vencimientos. Si f es la del segundo año, debe cumplirse (1 + r₂)² = (1 + r₁)(1 + f). Esa igualdad evita diferencias de rendimiento aseguradas entre estrategias equivalentes.",
+        "Una tasa pactada hoy no garantiza cuál será la tasa al contado futura. Las condiciones del mercado pueden cambiar. La forward expresa una relación de precios actuales.",
+        "Un promedio aritmético no reproduce la acumulación compuesta. La equivalencia se establece multiplicando factores de rendimiento. Por eso se usa una razón de acumulaciones."
+      ]
+    },
+    {
+      "id": "c03-q028",
+      "tema": "Fórmula de perpetuidad",
+      "dificultad": "basica",
+      "pregunta": "Para pagos C al final de cada año desde t = 1, una tasa constante r > 0 y horizonte infinito, ¿cuál es el VP?",
+      "opciones": [
+        "C × r",
+        "C/r",
+        "C/(1 + r)",
+        "C × (1 + r)/r, aunque no haya pago inmediato"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Multiplicar el flujo por la tasa no capitaliza una renta perpetua. Además, haría crecer el precio al aumentar el rendimiento exigido. El valor correcto disminuye cuando sube r.",
+        "La serie descontada infinita converge cuando r es positiva. Su suma es C/r. Esta expresión supone que el primer pago llega dentro de un año.",
+        "C/(1 + r) valúa únicamente el primer pago. Omite todos los cobros siguientes. Una perpetuidad necesita sumar la serie completa.",
+        "El factor adicional (1 + r) corresponde a adelantar toda la serie un período. Aquí no hay pago en t = 0. Aplicarlo agregaría valor por un adelanto inexistente."
+      ]
+    },
+    {
+      "id": "c03-q029",
+      "tema": "Ahorro y valor futuro",
+      "dificultad": "basica",
+      "pregunta": "Depositás $100 al final de cada uno de tres años y ganás 10% anual. ¿Cuánto hay justo después del tercer depósito?",
+      "opciones": [
+        "$248,69",
+        "$364,10",
+        "$331",
+        "$300"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$248,69 es el valor presente de la secuencia de depósitos. No es el saldo de la cuenta al terminar. Para obtener el valor futuro se capitaliza hasta t = 3.",
+        "$364,10 corresponde a adelantar todos los depósitos un período. Eso ocurriría si se depositara al principio de cada año. Los aportes indicados se realizan al final.",
+        "El primer depósito se capitaliza dos años y llega a $121. El segundo llega a $110 y el tercero aporta $100. El saldo final es 121 + 110 + 100 = $331.",
+        "$300 suma los aportes pero omite los intereses. Los primeros dos depósitos ganan rendimiento antes de terminar el plan. El tercero no alcanza a generar intereses."
+      ]
+    },
+    {
+      "id": "c03-q030",
+      "tema": "Crecimiento superior al descuento en plazo finito",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa proyecta ingresos que crecen a g > r, pero sólo durante cuatro años. ¿Qué debería hacer el analista?",
+      "opciones": [
+        "Eliminar el crecimiento porque toda tasa g debe ser menor que r.",
+        "Valuar los cuatro flujos; su VP es finito aunque no pueda usar una perpetuidad creciente convergente.",
+        "Declarar que cualquier flujo con g > r tiene VP infinito.",
+        "Usar C₁/(r − g) y aceptar un valor negativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El crecimiento puede superar al descuento durante un plazo limitado. No hay que alterar el pronóstico sólo para adaptar una fórmula. Hay que elegir la herramienta que corresponda a los flujos.",
+        "La divergencia aparece al sumar infinitos pagos bajo ciertas condiciones. Una secuencia de cuatro cobros es una suma finita. Puede valuarse directamente o con la fórmula finita apropiada.",
+        "Cuatro términos positivos finitos no producen una suma infinita. El problema de convergencia corresponde al horizonte ilimitado. No debe trasladarse a una renta que termina.",
+        "La fórmula C₁/(r − g) requiere convergencia de la perpetuidad. No valúa una secuencia finita cuando g > r. Un VP negativo de cobros positivos revelaría una aplicación incorrecta."
+      ]
+    },
+    {
+      "id": "c03-q031",
+      "tema": "Rendimiento de una perpetuidad",
+      "dificultad": "basica",
+      "pregunta": "Una perpetuidad fija se compra a precio P y paga C por año desde el próximo año. Con precio estable y pagos ciertos, ¿cómo se expresa su rendimiento anual?",
+      "opciones": [
+        "P/C",
+        "(P − C)/P",
+        "C/P",
+        "C/(P + C)"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "P/C mide cuántos pagos representan el precio. No expresa una tasa de rendimiento anual. La tasa requiere dividir el ingreso por el capital invertido.",
+        "Restar el cupón del precio no mide una ganancia anual. Esa expresión se acerca a uno cuando el cupón es pequeño. El rendimiento correcto es la proporción C/P.",
+        "El ingreso anual es C sobre una inversión P. Por eso la tasa es C/P. Es la misma relación que resulta de despejar r en P = C/r.",
+        "El rendimiento se mide sobre el desembolso inicial. Sumar el cobro al denominador cambia esa base sin justificación. Corresponde usar P y no P + C."
+      ]
+    },
+    {
+      "id": "c03-q032",
+      "tema": "Depósitos para alcanzar una meta",
+      "dificultad": "intermedia",
+      "pregunta": "Querés reunir $331 dentro de tres años mediante tres depósitos iguales al final de cada año. Si ganás 10% anual, ¿cuánto tenés que depositar por año?",
+      "opciones": [
+        "$82,89",
+        "$110,33",
+        "$90,91",
+        "$100"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$82,89 surge de descontar la meta tres años y dividir ese VP entre tres. Ese cálculo supone tres aportes disponibles hoy. Los depósitos reales ocurren al final de años diferentes.",
+        "$110,33 divide la meta entre tres e ignora los intereses. Los depósitos iniciales acumulan rendimiento antes del final. Por eso el aporte requerido es menor.",
+        "$90,91 corresponde a depósitos adelantados un año. En ese caso todos ganarían un período adicional de intereses. Como los aportes son vencidos, se requieren $100.",
+        "El factor de valor futuro es (1,10³ − 1)/0,10 = 3,31. Se divide la meta de $331 por 3,31. Cada depósito debe ser de $100."
+      ]
+    },
+    {
+      "id": "c03-q033",
+      "tema": "Planilla financiera y flujo inicial",
+      "dificultad": "intermedia",
+      "pregunta": "Una función de planilla calcula el VP suponiendo que su primer argumento de flujo ocurre en t = 1. ¿Cómo debe armarse el VPN de un proyecto con inversión en t = 0?",
+      "opciones": [
+        "Cambiar el signo de C₀ y sumarlo al VP de los ingresos netos.",
+        "Aplicar la función sólo a los ingresos y omitir los pagos futuros.",
+        "Incluir C₀ como primer flujo de la función y no hacer ajustes.",
+        "Aplicar la función a los flujos desde t = 1 y sumar aparte C₀ con su signo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Si C₀ representa un desembolso, ya tiene signo negativo. Cambiarlo a positivo transforma un costo en un beneficio. Debe sumarse el flujo inicial con su signo económico.",
+        "El VPN incluye todos los flujos, positivos y negativos. Los desembolsos futuros deben descontarse desde sus fechas. Una función de planilla no autoriza omitirlos.",
+        "Incluir C₀ como primer término lo trata como si ocurriera en t = 1. También desplaza los demás flujos un período. Eso no representa el calendario del proyecto.",
+        "La función indicada descuenta su primer flujo un período. La inversión inicial ya está en la fecha de valuación. Por eso se agrega por separado sin descuento y conservando su signo."
+      ]
+    },
+    {
+      "id": "c03-q034",
+      "tema": "Anualidad vencida",
+      "dificultad": "basica",
+      "pregunta": "¿Qué describe una anualidad vencida de n períodos?",
+      "opciones": [
+        "Pagos crecientes que continúan indefinidamente.",
+        "n pagos iguales al final de los períodos 1 a n.",
+        "Un pago único al final del período n.",
+        "n pagos iguales desde el período 0 hasta el período n."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El crecimiento y el horizonte infinito describen una perpetuidad creciente. Una anualidad vencida estándar tiene pagos iguales y plazo limitado. Ambas diferencias cambian su fórmula.",
+        "La anualidad vencida entrega pagos constantes durante un plazo finito. El primero ocurre al terminar el primer período. El último llega al terminar el período n.",
+        "Un pago único no es una renta periódica. Su valor se calcula con un solo factor de descuento. La anualidad suma n pagos en fechas distintas.",
+        "Desde cero hasta n inclusive hay n + 1 pagos. Además, el primero sería inmediato. Eso no coincide con una anualidad vencida de n períodos."
+      ]
+    },
+    {
+      "id": "c03-q035",
+      "tema": "Perpetuidad creciente a partir de C₀",
+      "dificultad": "intermedia",
+      "pregunta": "Una renta acaba de pagar $100, que ya cobró el vendedor. Los pagos futuros crecen 5% anual y la tasa de descuento es 10%. ¿Cuánto vale hoy el derecho a los pagos futuros?",
+      "opciones": [
+        "$1.000",
+        "$2.000",
+        "$2.100",
+        "$700"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$1.000 valúa una perpetuidad constante de $100 al 10%. Ignora el aumento de 5% anual. El crecimiento eleva el valor de los cobros futuros.",
+        "$2.000 usa $100 como si fuera el primer pago futuro. Ese importe corresponde al pago recién realizado. Primero hay que aumentarlo por el crecimiento de un año.",
+        "El pago ya realizado no pertenece al comprador. El primer pago futuro será 100 × 1,05 = $105. El valor del derecho es 105/(0,10 − 0,05) = $2.100.",
+        "$700 resulta de dividir $105 por 0,10 + 0,05. El crecimiento no se suma al rendimiento exigido. La serie se valúa con la diferencia r − g."
+      ]
+    },
+    {
+      "id": "c03-q036",
+      "tema": "Rendimiento implícito de una renta",
+      "dificultad": "avanzada",
+      "pregunta": "Una aseguradora compra a precio P el derecho a una secuencia finita de pagos anuales iguales C. ¿Cómo obtiene el rendimiento implícito de la compra?",
+      "opciones": [
+        "Usando r = C/P como si los pagos fueran perpetuos.",
+        "Dividiendo la suma nominal de cobros por P, sin considerar el plazo.",
+        "Buscando la tasa r que satisface P = C[1 − (1 + r)⁻ⁿ]/r.",
+        "Restando P a una cuota C y dividiendo por la cantidad de pagos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "C/P corresponde al rendimiento de una perpetuidad fija bajo sus supuestos. Una renta finita también devuelve económicamente el capital a través de sus pagos. Ignorar su final suele distorsionar el rendimiento.",
+        "La razón entre cobros totales y precio no es una tasa anual. Omite cuándo se recibe cada cuota. Dos rentas con igual suma y distintos plazos pueden tener rendimientos diferentes.",
+        "El precio es el valor presente de la renta a la tasa implícita. Como r aparece en varios lugares, normalmente se resuelve de forma numérica. El calendario de pagos y la cantidad n deben quedar correctamente definidos.",
+        "Comparar el precio total con una sola cuota mezcla magnitudes de distinto alcance. Tampoco incorpora descuento compuesto. El rendimiento debe igualar el precio con el VP de todos los pagos."
+      ]
+    },
+    {
+      "id": "c03-q037",
+      "tema": "Anualidad como diferencia de perpetuidades",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se construye una anualidad que paga C en los años 1 a n mediante dos perpetuidades?",
+      "opciones": [
+        "Sumando dos perpetuidades que empiezan en 1 y en n + 1.",
+        "Restando C/r sin descontar de otra perpetuidad de igual pago.",
+        "Restando una perpetuidad que empieza en n de otra que empieza en 1.",
+        "Restando una perpetuidad cuyo primer pago es en n + 1 de otra que empieza en 1."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La suma aumenta los pagos desde n + 1. No elimina la cola infinita. Para obtener una renta finita hay que restar esa cola.",
+        "Las dos perpetuidades se valúan en fechas diferentes antes de compararlas. El valor de la diferida debe descontarse hasta hoy. Restar dos importes C/r sin ajuste daría cero.",
+        "Si se cancela desde n, también desaparece el pago del año n. Quedan sólo n − 1 cobros. La segunda perpetuidad debe comenzar un año después del último pago deseado.",
+        "Ambas perpetuidades tienen pagos coincidentes desde n + 1. Al restarlas se cancelan todos esos pagos. Quedan exactamente los cobros de los años 1 a n."
+      ]
+    },
+    {
+      "id": "c03-q038",
+      "tema": "Cálculo de anualidad creciente",
+      "dificultad": "avanzada",
+      "pregunta": "Un contrato paga $110 en el año 1, y cada pago siguiente aumenta 5%. Termina con el pago del año 3. Con tasa de descuento de 10%, ¿cuál es su VP aproximado?",
+      "opciones": [
+        "$2.200",
+        "$300",
+        "$286,57",
+        "$273,55"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$2.200 es 110/(0,10 − 0,05). Ese resultado corresponde a una perpetuidad creciente. El contrato termina después de sólo tres pagos.",
+        "$300 atribuye a cada pago un VP de $100. Eso ocurriría si los pagos crecieran al mismo 10% que la tasa de descuento. Aquí sólo crecen 5%.",
+        "Los pagos son $110, $115,50 y $121,275. Sus VP son $100, $95,4545 y $91,1157. La suma da $286,57 y coincide con la fórmula de anualidad creciente.",
+        "$273,55 valúa tres pagos constantes de $110. Omite los aumentos de los años 2 y 3. Hay que incorporar el crecimiento antes de descontar."
+      ]
+    },
+    {
+      "id": "c03-q039",
+      "tema": "Valor de un activo durante su vida",
+      "dificultad": "intermedia",
+      "pregunta": "Una fábrica genera diez cobros anuales y no tiene valor de rescate. Inmediatamente después de cobrar el año 5, ¿cómo se calcula su valor en esa fecha?",
+      "opciones": [
+        "Como el VP original multiplicado por (1 + r)⁵, sin restar lo ya cobrado.",
+        "Como la suma sin descuento de los diez cobros originales.",
+        "Como el costo de construcción menos cinco décimos de ese costo.",
+        "Como el VP en t = 5 de los cinco cobros que quedan, usando la tasa pertinente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Capitalizar el valor original sin ajustes mantiene también el valor de los cobros distribuidos. Después del año 5 esos importes ya salieron del activo. Deben excluirse para valuar lo que queda.",
+        "Los cobros pasados ya no pertenecen al derecho que se transfiere. Además, los futuros siguen teniendo fechas diferentes. Se deben considerar únicamente los restantes y descontarlos.",
+        "La depreciación contable del costo no determina el valor financiero. El activo vale por los flujos que todavía puede generar. Su precio puede diferir mucho del valor contable.",
+        "El comprador en t = 5 sólo recibe los flujos posteriores. Se descuentan los cobros de los años 6 a 10 hasta esa fecha. Los cinco cobros ya recibidos no forman parte del activo restante."
+      ]
+    },
+    {
+      "id": "c03-q040",
+      "tema": "Factor de anualidad",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué significa aₙ(r) = [1 − (1 + r)⁻ⁿ]/r?",
+      "opciones": [
+        "La tasa anual que iguala una cuota con el capital.",
+        "El VF de recibir una unidad monetaria al final de cada uno de n períodos.",
+        "El VP de una unidad monetaria recibida sólo en el período n.",
+        "El VP de recibir una unidad monetaria al final de cada uno de n períodos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El factor no es una tasa. Relaciona el importe de una cuota con el valor actual de una secuencia. Encontrar una tasa exige resolver otra ecuación.",
+        "El valor futuro lleva los pagos al final del plazo. Su factor es [(1 + r)ⁿ − 1]/r. La expresión dada los lleva al inicio.",
+        "Un único pago en n tiene factor (1 + r)⁻ⁿ. Aquí se suman los pagos de todos los períodos. Confundir ambos factores omite los cobros intermedios.",
+        "El factor suma los descuentos de los n pagos unitarios. Multiplicarlo por una cuota constante da el valor presente de la renta. La tasa r debe corresponder a la duración de cada período."
+      ]
+    },
+    {
+      "id": "c03-q041",
+      "tema": "Comparación numérica de interés simple y compuesto",
+      "dificultad": "basica",
+      "pregunta": "Se invierten $1.000 durante tres años al 10% anual. ¿Cuáles son los saldos finales con interés simple y compuesto, respectivamente?",
+      "opciones": [
+        "$1.300 y $1.331",
+        "$1.300 y $1.300",
+        "$1.100 y $1.331",
+        "$1.331 y $1.300"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con interés simple se agregan $100 por año: 1.000(1 + 0,10 × 3) = $1.300. Con interés compuesto se obtiene 1.000 × 1,10³ = $1.331. La diferencia de $31 proviene de intereses sobre intereses.",
+        "El primer saldo es correcto para interés simple. Aplicarlo también al compuesto omite la reinversión. El segundo régimen produce $1.331.",
+        "$1.100 corresponde a un solo año de interés simple. Durante tres años se generan tres cargos de $100. El segundo importe sí corresponde a tres años de capitalización compuesta.",
+        "Los importes están intercambiados. Con tasa positiva y reinversión, el compuesto supera al simple después del primer período. La cifra mayor corresponde al régimen compuesto."
+      ]
+    },
+    {
+      "id": "c03-q042",
+      "tema": "Salario creciente, ahorro y jubilación",
+      "dificultad": "avanzada",
+      "pregunta": "Una persona ahorra una fracción fija de un salario que aumenta cada año. Al jubilarse quiere retiros constantes durante un plazo finito. ¿Qué secuencia de cálculo corresponde?",
+      "opciones": [
+        "Valuar los salarios completos como perpetuidad y gastar ese VP sin acumularlo.",
+        "Acumular los aportes crecientes hasta la jubilación y dividir ese saldo por el factor de anualidad de los retiros.",
+        "Sumar los aportes nominales y dividirlos por los años de retiro, omitiendo rendimientos.",
+        "Usar una anualidad constante para los aportes aunque el porcentaje ahorrado sea fijo y el salario crezca."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El ahorro es sólo una parte del salario y termina al jubilarse. No corresponde valuar salarios completos para siempre. Además, el fondo disponible debe expresarse en la fecha de inicio del retiro.",
+        "Ahorrar una fracción fija de un salario creciente produce aportes crecientes. Primero se lleva cada aporte a la fecha de jubilación. Ese fondo financia después una anualidad de retiros según su tasa y calendario.",
+        "La suma nominal omite el rendimiento durante ambas etapas. Los aportes tempranos acumulan más que los tardíos. El saldo también puede seguir rindiendo mientras se efectúan los retiros.",
+        "Un porcentaje fijo no implica un importe fijo. Si el salario crece, también crece el aporte monetario. Para los depósitos corresponde una secuencia creciente."
+      ]
+    },
+    {
+      "id": "c03-q043",
+      "tema": "Anualidad anticipada",
+      "dificultad": "basica",
+      "pregunta": "Con igual cuota, tasa positiva y cantidad de pagos, ¿cómo se compara una anualidad anticipada con una vencida?",
+      "opciones": [
+        "Su VP equivale al de la vencida más una cuota completa, sin quitar ningún pago.",
+        "Su VP es el de la vencida multiplicado por (1 + r).",
+        "Su VP coincide porque la suma nominal es igual.",
+        "Su VP es menor porque termina antes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Agregar una cuota sin retirar otra aumenta la cantidad de pagos. La comparación mantiene n pagos en ambas rentas. Se agrega el pago inmediato y se elimina el último pago de la vencida.",
+        "La anticipada desplaza cada pago un período hacia el presente. Cada importe se descuenta una vez menos. Por eso el valor total se multiplica por (1 + r).",
+        "La igualdad nominal no considera las fechas. Dos series con el mismo total pueden tener valores presentes distintos. El adelanto de cada cuota eleva su valor.",
+        "Terminar antes significa que también se empieza antes. Los cobros tempranos valen más con una tasa positiva. La anticipada tiene un valor presente mayor."
+      ]
+    },
+    {
+      "id": "c03-q044",
+      "tema": "Tasa nominal semestral y tasa efectiva",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión ofrece 12% nominal anual capitalizable semestralmente. ¿Cuál es su tasa efectiva anual?",
+      "opciones": [
+        "12%",
+        "6%",
+        "24%",
+        "12,36%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 12% es la tasa nominal informada. No incluye la ganancia sobre los intereses del primer semestre. La efectiva resulta algo mayor.",
+        "El 6% es la tasa de un semestre. El año contiene dos períodos de capitalización. Hay que acumular ambos para obtener la tasa anual.",
+        "Multiplicar por dos la tasa nominal duplica períodos que ya están incluidos. Primero se divide la nominal por las dos capitalizaciones. Después se compone el rendimiento semestral.",
+        "Cada semestre rinde 0,12/2 = 6%. En un año el factor es 1,06² = 1,1236. Al restar uno, la tasa efectiva es 12,36%."
+      ]
+    },
+    {
+      "id": "c03-q045",
+      "tema": "Desplazamiento fraccionario de una renta",
+      "dificultad": "avanzada",
+      "pregunta": "Una renta de n pagos anuales se adelanta seis meses: antes cobraba en 1, 2, …, n y ahora en 0,5; 1,5; …; n − 0,5. Con tasa efectiva anual r constante, ¿cómo cambia su VP?",
+      "opciones": [
+        "Se divide por (1 + r)^0,5.",
+        "Se multiplica por (1 + r).",
+        "Se multiplica por (1 + r)^0,5.",
+        "No cambia porque la cantidad de pagos es la misma."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir por el factor semestral corresponde a retrasar la renta. Aquí los pagos llegan antes. Con r positiva, el valor presente debe subir.",
+        "Multiplicar por (1 + r) corresponde a adelantar un año completo. El cambio de calendario es de seis meses. Usar ese factor exagera el aumento de valor.",
+        "Cada pago se descuenta medio año menos. La corrección temporal es el factor de acumulación de medio año. Con tasa efectiva anual, ese factor es (1 + r)^0,5.",
+        "Mantener la cantidad de pagos conserva la suma nominal. No conserva el valor temporal. Un adelanto de seis meses aumenta el VP cuando la tasa es positiva."
+      ]
+    },
+    {
+      "id": "c03-q046",
+      "tema": "Crédito amortizable",
+      "dificultad": "basica",
+      "pregunta": "En un préstamo con cuotas constantes y tasa fija, ¿qué ocurre normalmente con los intereses y la amortización a lo largo del plazo?",
+      "opciones": [
+        "Toda cuota se destina a intereses hasta la última.",
+        "Los intereses y la amortización permanecen constantes.",
+        "Los intereses bajan y la amortización de capital sube.",
+        "Los intereses suben porque cada vez se pagó más capital."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esa descripción corresponde a un crédito con pago final del principal. En un préstamo amortizable se reduce capital durante el plazo. Cada cuota se reparte entre intereses y amortización.",
+        "La cuota es constante, pero sus componentes cambian. Los intereses dependen del saldo de cada período. Por eso no pueden mantenerse constantes si la deuda se va cancelando.",
+        "Los intereses se calculan sobre el saldo pendiente. A medida que ese saldo baja, el cargo por intereses disminuye. La diferencia hasta la cuota constante amortiza cada vez más capital.",
+        "El capital ya pagado deja de generar intereses para el prestamista. La base de cálculo se reduce con cada amortización. En consecuencia, los intereses bajan."
+      ]
+    },
+    {
+      "id": "c03-q047",
+      "tema": "Conversión de tasa efectiva a mensual",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa efectiva anual es 12,682503%. ¿Qué operación permite obtener la tasa efectiva mensual equivalente?",
+      "opciones": [
+        "0,12682503/12, aproximadamente 1,0569%.",
+        "(1 + 0,12682503)¹² − 1.",
+        "ln(1 + 0,12682503), aproximadamente 11,94% mensual.",
+        "(1 + 0,12682503)^(1/12) − 1, aproximadamente 1%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Dividir por 12 corresponde a una tasa nominal anual bajo esa convención. La tasa dada ya incorpora capitalización. Usar esa división sobreestima la tasa mensual equivalente.",
+        "Elevar a doce acumula doce períodos anuales. La conversión buscada va desde un año hacia un mes. Se requiere una raíz y no una potencia de doce.",
+        "El logaritmo produce la tasa continua anual equivalente. No entrega una tasa efectiva mensual. Para una tasa mensual efectiva corresponde la raíz duodécima.",
+        "Doce acumulaciones mensuales deben reproducir el factor anual. Por eso (1 + i)¹² = 1,12682503. Al despejar con la raíz duodécima se obtiene aproximadamente 1% mensual."
+      ]
+    },
+    {
+      "id": "c03-q048",
+      "tema": "Sensibilidad de reservas y tasas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa debe pagar una renta fija futura y la tasa de descuento pertinente baja, sin cambiar el calendario ni los importes. ¿Qué pasa con la reserva necesaria hoy?",
+      "opciones": [
+        "Aumenta porque los pagos futuros se descuentan menos.",
+        "Disminuye porque pagar intereses se vuelve más barato.",
+        "Permanece igual porque la obligación nominal no cambió.",
+        "Se vuelve cero si la renta no tiene riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La reserva necesaria es el valor presente de los pagos comprometidos. Una tasa menor reduce el rendimiento disponible para financiarlos. Por eso hace falta un aporte inicial mayor.",
+        "El costo de un nuevo préstamo no determina esta reserva. Aquí se busca cuánto capital permite atender una obligación fija. Con menor rendimiento de inversión se necesita más capital.",
+        "La obligación nominal permanece igual, pero su valor actual cambia. El descuento depende de la tasa de oportunidad. La igualdad de importes no impide una variación de VP.",
+        "La certeza no elimina el compromiso de pago. Incluso una renta segura necesita financiación. Con una tasa menor, su valor presente aumenta en lugar de desaparecer."
+      ]
+    },
+    {
+      "id": "c03-q049",
+      "tema": "Valor futuro de una anualidad",
+      "dificultad": "intermedia",
+      "pregunta": "Para depósitos C al final de cada uno de n años, ¿qué fórmula da el saldo inmediatamente después del último depósito?",
+      "opciones": [
+        "C[(1 + r)ⁿ − 1]/r",
+        "C[1 − (1 + r)⁻ⁿ]/r",
+        "nC(1 + r)ⁿ",
+        "C[(1 + r)ⁿ − 1]/[r(1 + r)]"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada depósito se capitaliza hasta el final del año n. El último no gana intereses antes de medir el saldo. La suma de esas acumulaciones es C[(1 + r)ⁿ − 1]/r.",
+        "Esta fórmula calcula el valor presente de los depósitos. Para llegar al saldo final habría que multiplicarla por (1 + r)ⁿ. Confundir fechas produce una cifra menor.",
+        "Esta expresión trata todos los depósitos como si se hicieran hoy. Los aportes reales entran gradualmente. Sólo el primero gana intereses durante n − 1 años.",
+        "Dividir por (1 + r) lleva el saldo final un período hacia atrás. El objetivo es medirlo inmediatamente después del último depósito. No corresponde ese descuento adicional."
+      ]
+    },
+    {
+      "id": "c03-q050",
+      "tema": "Préstamo con cuotas mensuales",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo de $1.200 se paga en 12 cuotas mensuales vencidas. La tasa nominal anual es 12% capitalizable mensualmente. ¿Cuál es la cuota aproximada?",
+      "opciones": [
+        "$106,62",
+        "$100",
+        "$112",
+        "$193,72"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa de cada mes es 12%/12 = 1%. El factor de anualidad es [1 − 1,01⁻¹²]/0,01. Al dividir $1.200 por ese factor se obtiene una cuota de $106,62.",
+        "$100 cancela sólo el principal repartido en doce partes. No cubre intereses sobre los saldos pendientes. La cuota financiera debe superar ese importe.",
+        "$112 reparte el capital más 12% de interés sobre todo el principal durante un año. Ignora que el saldo baja cada mes. Un crédito amortizable cobra intereses sobre el capital todavía adeudado.",
+        "$193,72 surge de usar 12% como tasa mensual en doce cuotas. Confunde la tasa nominal anual con la tasa de cada período. Para meses corresponde dividir esa nominal por doce."
+      ]
+    },
+    {
+      "id": "c03-q051",
+      "tema": "Rentas superpuestas y compensación de flujos",
+      "dificultad": "avanzada",
+      "pregunta": "Un contrato exige aportes anuales durante un plazo y empieza a devolver pagos antes de que termine ese plazo. ¿Cómo se evalúa si conviene?",
+      "opciones": [
+        "Ubicando aportes y cobros en una línea de tiempo, neteando los coincidentes y calculando su VPN.",
+        "Comparando sólo cuántos años se aporta y cuántos años se cobra.",
+        "Cancelando cada aporte con cualquier cobro de igual monto, aunque ocurra años después.",
+        "Suponiendo que los primeros cobros empiezan recién cuando termina el último aporte."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El solapamiento genera entradas y salidas en algunas fechas iguales. Esos importes pueden compensarse en su fecha común. Después se descuenta el flujo neto de cada período para evaluar el contrato.",
+        "La cantidad de años no alcanza para medir rentabilidad. Importan importes, fechas y tasa de oportunidad. También importa si los cobros tienen plazo finito o son perpetuos.",
+        "Dos importes iguales en fechas distintas no son equivalentes con tasa positiva. Cancelarlos sin descuento ignora el tiempo. Sólo se netean directamente los flujos de una misma fecha.",
+        "Desplazar el inicio de los cobros cambia el contrato. Puede alterar sustancialmente su valor. La línea de tiempo debe respetar las fechas reales."
+      ]
+    },
+    {
+      "id": "c03-q052",
+      "tema": "Perpetuidad creciente y primer flujo",
+      "dificultad": "intermedia",
+      "pregunta": "Si una renta crece a tasa g y el primer cobro es C₁ en un año, ¿qué fórmula corresponde cuando r > g?",
+      "opciones": [
+        "VP = C₁(1 + g)/(r − g), aunque C₁ ya sea el pago del año 1.",
+        "VP = C₁/(r + g).",
+        "VP = C₁/(r − g).",
+        "VP = C₁/r, cualquiera sea g."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Multiplicar C₁ por (1 + g) adelanta indebidamente el crecimiento un año. Esa corrección sirve si se parte de C₀. Si ya se conoce C₁, se usa directamente.",
+        "Sumar g al denominador haría disminuir el valor cuando crecen los pagos. Eso contradice la evolución del flujo. El crecimiento se resta de la tasa de descuento.",
+        "El crecimiento eleva cada pago respecto del anterior. Al descontar la serie geométrica, la suma resulta C₁/(r − g). El numerador ya representa el primer pago futuro.",
+        "C₁/r corresponde a pagos constantes. Sólo coincide con la renta creciente cuando g es cero. Ignorar g omite el aumento de los pagos futuros."
+      ]
+    },
+    {
+      "id": "c03-q053",
+      "tema": "Valor futuro con capitalización continua",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten $1.000 a una tasa continua anual de 10% durante dos años. ¿Cuál es el valor futuro aproximado?",
+      "opciones": [
+        "$1.221,40",
+        "$1.210",
+        "$1.105,17",
+        "$1.200"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La acumulación continua usa VF = 1.000e^(0,10 × 2). El factor es e^0,20. El resultado es aproximadamente $1.221,40.",
+        "$1.210 aplica 10% efectivo anual compuesto durante dos años. La tasa del enunciado es continua. Para convertirla a efectiva primero habría que usar e^0,10 − 1.",
+        "$1.105,17 corresponde a un solo año de capitalización continua. El plazo indicado es de dos años. El exponente debe ser 0,20 y no 0,10.",
+        "$1.200 aplica interés simple de $100 por año. La capitalización continua incluye intereses sobre intereses. Su acumulación es exponencial."
+      ]
+    },
+    {
+      "id": "c03-q054",
+      "tema": "Convergencia de una perpetuidad creciente",
+      "dificultad": "avanzada",
+      "pregunta": "Para pagos positivos, r y g no negativos y horizonte infinito, ¿por qué se exige r > g en C₁/(r − g)?",
+      "opciones": [
+        "Porque la razón (1 + g)/(1 + r) debe ser menor que uno para que la serie converja.",
+        "Porque una tasa de crecimiento positiva siempre implica riesgo de incumplimiento.",
+        "Porque una perpetuidad sólo puede durar mientras el crecimiento sea negativo.",
+        "Porque si r = g el VP es cero."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los términos descontados forman una serie geométrica. Si la razón es menor que uno, esos términos disminuyen suficientemente para sumar un valor finito. Con r ≤ g y pagos positivos, la suma no converge.",
+        "El requisito es matemático y se aplica incluso a pagos ciertos. El riesgo puede influir en r, pero no explica la convergencia por sí solo. Lo decisivo es comparar crecimiento y descuento.",
+        "Una perpetuidad puede crecer a una tasa positiva. Basta que esa tasa sea inferior a r. El horizonte infinito no exige una caída de los pagos.",
+        "Si r = g, cada pago descontado tiene el mismo valor. Sumar infinitos términos positivos constantes no produce cero. La serie diverge y la fórmula tiene denominador nulo."
+      ]
+    },
+    {
+      "id": "c03-q055",
+      "tema": "VP con descuento continuo",
+      "dificultad": "intermedia",
+      "pregunta": "Se cobrarán $1.500 dentro de tres años y la tasa continua anual es 10%. ¿Cuál es el VP aproximado?",
+      "opciones": [
+        "$1.126,97",
+        "$2.024,79",
+        "$1.363,64",
+        "$1.111,23"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$1.126,97 proviene de dividir por 1,10³. Eso trata 10% como tasa efectiva anual. Con una tasa continua se usa la función exponencial.",
+        "$2.024,79 capitaliza $1.500 durante tres años. El objetivo es traer el cobro futuro hacia hoy. Por eso el exponente del descuento debe ser negativo.",
+        "$1.363,64 descuenta un año usando una tasa efectiva de 10%. Tanto la duración como el régimen son incorrectos. Se requieren tres años de descuento continuo.",
+        "El descuento continuo aplica el factor e^(−0,10 × 3). El VP es 1.500e^(−0,30). El resultado aproximado es $1.111,23."
+      ]
+    },
+    {
+      "id": "c03-q056",
+      "tema": "Anualidad creciente finita",
+      "dificultad": "avanzada",
+      "pregunta": "Con primer pago C₁ en un período, n pagos y r ≠ g, ¿cuál es el VP de una anualidad creciente?",
+      "opciones": [
+        "C₁[1 − ((1 + g)/(1 + r))ⁿ]/(r − g)",
+        "C₁[1 − (1 + r)⁻ⁿ]/(r − g)",
+        "C₁/(r − g), sin ajuste por n",
+        "C₁[1 − ((1 + r)/(1 + g))ⁿ]/(r − g)"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La fórmula suma n pagos que crecen y se descuentan. La potencia compara simultáneamente crecimiento y descuento. El término entre corchetes elimina la cola posterior al último pago.",
+        "Esta expresión incorpora g sólo en el denominador. Falta ajustar la potencia por el crecimiento de los pagos. Sólo al imponer g = 0 recupera la anualidad constante correcta.",
+        "Esta expresión mantiene pagos para siempre cuando r > g. La anualidad termina en n. Es necesario restar el valor de los pagos que ocurrirían después.",
+        "La razón de la serie descontada es (1 + g)/(1 + r). Invertirla hace crecer términos que deberían reducirse si r > g. Puede incluso producir valores negativos para cobros positivos."
+      ]
+    },
+    {
+      "id": "c03-q057",
+      "tema": "Perpetuidad con entradas continuas",
+      "dificultad": "avanzada",
+      "pregunta": "Una actividad genera $120 por año de manera uniforme y continua para siempre, desde hoy. La tasa efectiva anual es 10%. ¿Cuál es su VP aproximado?",
+      "opciones": [
+        "$1.259,05",
+        "$1.320",
+        "$1.140",
+        "$1.200"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Primero se convierte la tasa a continua: δ = ln(1,10). La corriente perpetua vale C/δ. Así, 120/ln(1,10) = $1.259,05 aproximadamente.",
+        "$1.320 corresponde a pagos discretos anuales adelantados. Una corriente continua no entrega los $120 completos al inicio de cada año. Su valor se ubica entre el de pagos vencidos y el de pagos adelantados.",
+        "$1.140 es menor que el valor de una perpetuidad anual vencida. Adelantar ingresos dentro de cada año no reduce su valor con tasa positiva. La corriente continua vale más que $1.200.",
+        "$1.200 valúa pagos discretos de $120 al final de cada año. Aquí el efectivo comienza a ingresar antes y de forma continua. Debe usarse la tasa continua equivalente."
+      ]
+    },
+    {
+      "id": "c03-q058",
+      "tema": "Anualidad creciente con r igual a g",
+      "dificultad": "avanzada",
+      "pregunta": "Si una anualidad finita paga C₁ en t = 1 y crece a la misma tasa que el descuento, r = g, ¿cuál es su VP?",
+      "opciones": [
+        "nC₁/(1 + r)",
+        "nC₁",
+        "C₁/(r − g), interpretado como infinito.",
+        "C₁/(1 + r)ⁿ"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El pago del año t es C₁(1 + r)ᵗ⁻¹. Al descontarlo queda C₁/(1 + r) en cada uno de los n años. La suma es nC₁/(1 + r).",
+        "Los términos descontados son iguales, pero no iguales a C₁. El primer cobro también ocurre dentro de un período. Hay que dividir cada término por (1 + r).",
+        "La expresión cerrada usual presenta una indeterminación, no una renta finita infinita. Sólo hay n cobros. Se puede sumar cada término o tomar el límite correcto.",
+        "Esa expresión valúa un único pago C₁ al final. La renta tiene n pagos crecientes. El crecimiento compensa parte del descuento y todos deben incluirse."
+      ]
+    },
+    {
+      "id": "c03-q059",
+      "tema": "Anualidad continua",
+      "dificultad": "avanzada",
+      "pregunta": "Un servicio genera ingresos continuos uniformes de $100 por año durante dos años desde hoy. Con tasa continua anual de 10%, ¿cuál es su VP aproximado?",
+      "opciones": [
+        "$163,75",
+        "$1.000",
+        "$181,27",
+        "$200"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$163,75 resulta de llevar los $200 completos al final del segundo año. El flujo entra gradualmente antes de esa fecha. Concentrarlo al final subestima el valor.",
+        "$1.000 es 100/0,10. Ese importe corresponde a una corriente perpetua. El servicio del enunciado termina al cabo de dos años.",
+        "Se usa VP = 100[1 − e^(−0,10 × 2)]/0,10. El factor de descuento integrado es aproximadamente 1,812692. El valor presente es $181,27.",
+        "$200 es el ingreso nominal total de dos años. Omite que la mayor parte se recibe después de hoy. Cada pequeña entrada debe descontarse desde su momento."
+      ]
+    },
+    {
+      "id": "c03-q060",
+      "tema": "Interés simple y compuesto",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la diferencia esencial entre interés simple y compuesto?",
+      "opciones": [
+        "El simple y el compuesto difieren incluso en el primer período con igual tasa.",
+        "El compuesto incorpora intereses al capital que genera nuevos intereses.",
+        "El simple siempre aplica una tasa anual más baja.",
+        "El compuesto paga únicamente sobre el capital inicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Con igual capital y tasa, ambos producen el mismo interés en el primer período. Todavía no existen intereses anteriores para reinvertir. La diferencia aparece desde el segundo período.",
+        "El interés compuesto permite generar intereses sobre intereses. El simple calcula cada interés sobre el capital inicial. Con igual tasa y más de un período, sus trayectorias se separan.",
+        "Ambos regímenes pueden usar la misma tasa numérica. La diferencia está en la base de cálculo. Una tasa menor no define el interés simple.",
+        "Calcular siempre sobre el capital inicial describe el interés simple. En el compuesto, la base aumenta con los intereses acumulados. Esa reinversión explica la diferencia."
+      ]
+    },
+    {
+      "id": "c03-q061",
+      "tema": "Arrendamiento con períodos semestrales",
+      "dificultad": "avanzada",
+      "pregunta": "Un alquiler exige $100 hoy, $100 en seis meses y $100 en un año. La tasa efectiva anual es 21%. ¿Cuál es el VP aproximado?",
+      "opciones": [
+        "$248,69",
+        "$300",
+        "$272,40",
+        "$273,55"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$248,69 corresponde a tres pagos semestrales vencidos, descontados al 10% semestral. El contrato real incluye un pago hoy y termina al cabo de un año. Desplazar toda la renta un semestre hacia adelante reduce indebidamente su valor.",
+        "$300 suma los pagos nominales. Sólo el primero se efectúa hoy. Los pagos de seis y doce meses requieren descuento.",
+        "$272,40 resulta de usar 21%/2 = 10,5% como tasa semestral. Dividir una tasa efectiva anual por dos no conserva la equivalencia compuesta. La tasa semestral correcta es √1,21 − 1 = 10%.",
+        "La tasa semestral equivalente es √1,21 − 1 = 10%. El VP es 100 + 100/1,10 + 100/1,10². La suma da $273,55."
+      ]
+    },
+    {
+      "id": "c03-q062",
+      "tema": "Crecimiento y gráficos semilogarítmicos",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión a interés compuesto constante forma una curva creciente en escala ordinaria. ¿Cómo se interpreta?",
+      "opciones": [
+        "La tasa porcentual aumenta cada año.",
+        "La ganancia monetaria anual permanece constante.",
+        "Una recta semilogarítmica prueba que se aplica interés simple.",
+        "La ganancia monetaria aumenta, pero la tasa porcentual sigue constante; en escala semilogarítmica se ve una recta."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La curvatura en escala ordinaria no prueba una tasa creciente. Puede surgir únicamente de reinvertir intereses a tasa constante. Hay que distinguir variación absoluta de variación porcentual.",
+        "Una ganancia monetaria constante corresponde al interés simple con tasa fija. El compuesto produce incrementos mayores al aumentar la base. Esa diferencia genera la curva observada.",
+        "Una recta semilogarítmica representa crecimiento porcentual constante. El interés simple agrega una cantidad fija de dinero. Su tasa sobre el saldo acumulado disminuye con el tiempo.",
+        "La tasa constante se aplica a un saldo cada vez mayor. Por eso crece el incremento en dinero sin aumentar el porcentaje. El logaritmo de una trayectoria exponencial es lineal en el tiempo."
+      ]
+    },
+    {
+      "id": "c03-q063",
+      "tema": "Ahorro y retiro en dos etapas",
+      "dificultad": "avanzada",
+      "pregunta": "Depositás $100 en t = 1 y $100 en t = 2. Con tasa de 10% anual, al llegar a t = 2 destinás el saldo a dos retiros iguales en t = 3 y t = 4. ¿Cuánto puede ser cada retiro?",
+      "opciones": [
+        "$105",
+        "$133,10",
+        "$121",
+        "$110"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$105 divide el saldo de $210 entre dos sin rendimiento posterior. Pero los fondos siguen invertidos durante la etapa de retiro. Ese rendimiento permite una cuota mayor.",
+        "$133,10 supone que la renta puede desplazarse otro año hacia adelante. Los retiros reales ya están fijados en t = 3 y t = 4. No se debe capitalizar nuevamente la cuota de $121.",
+        "En t = 2 el ahorro acumulado es 100 × 1,10 + 100 = $210. Los dos retiros forman una anualidad vencida valuada en esa fecha. La cuota es 210/[1/1,10 + 1/1,10²] = $121.",
+        "$110 correspondería a adelantar los retiros a t = 2 y t = 3. El enunciado los ubica en t = 3 y t = 4. Esa espera adicional permite retirar $121 cada vez."
+      ]
+    },
+    {
+      "id": "c03-q064",
+      "tema": "Tasa nominal y efectiva",
+      "dificultad": "basica",
+      "pregunta": "Una entidad define su tasa nominal anual como 12 veces la tasa mensual. ¿Qué mide la tasa efectiva anual?",
+      "opciones": [
+        "La diferencia entre el saldo final y el inicial, sin dividir por el capital.",
+        "La tasa nominal dividida por la cantidad de años.",
+        "La tasa mensual multiplicada por 12, sin importar la reinversión.",
+        "El crecimiento acumulado de un año incorporando la capitalización mensual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La diferencia de saldos es un importe monetario. Para medir una tasa hay que relacionarla con el capital inicial. La tasa efectiva es un porcentaje, no una suma de dinero.",
+        "Dividir una tasa nominal por años no produce una tasa efectiva. Hay que conocer la frecuencia de capitalización. Luego se acumula el rendimiento correspondiente al año completo.",
+        "Multiplicar por 12 construye la tasa nominal bajo la convención indicada. No incorpora capitalización dentro del año. Por eso generalmente difiere de la tasa efectiva.",
+        "La tasa efectiva anual refleja lo que ocurre durante los doce meses. Si la tasa mensual es i, se calcula (1 + i)¹² − 1. Incluye los intereses generados por intereses anteriores."
+      ]
+    },
+    {
+      "id": "c03-q065",
+      "tema": "Proyecto con reparación y valor de rescate",
+      "dificultad": "avanzada",
+      "pregunta": "Una máquina cuesta $1.000 hoy y genera $400 netos operativos al final de cada uno de tres años. Requiere una reparación adicional de $100 en t = 2 y se vende por $200 en t = 3. Con tasa de 10%, ¿cuál es su VPN aproximado?",
+      "opciones": [
+        "$145,00",
+        "−$87,90",
+        "$62,36",
+        "$300"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$145,00 omite la reparación del segundo año. Ese desembolso reduce el VP en 100/1,10². Debe incluirse además de los costos operativos ya considerados.",
+        "−$87,90 omite el valor de rescate del tercer año. La venta agrega 200/1,10³ al valor presente. Es un flujo distinto del ingreso operativo.",
+        "Los flujos totales son −1.000, +400, +300 y +600. El VPN es −1.000 + 400/1,10 + 300/1,10² + 600/1,10³. El resultado es aproximadamente $62,36.",
+        "$300 es la suma nominal de todos los flujos. Ignora el descuento de los cobros y de la reparación. El VPN mide valor actual y no excedente nominal."
+      ]
+    },
+    {
+      "id": "c03-q066",
+      "tema": "Frecuencia de capitalización",
+      "dificultad": "intermedia",
+      "pregunta": "Manteniendo fija una tasa nominal anual positiva j, ¿qué sucede al aumentar la frecuencia m de capitalización?",
+      "opciones": [
+        "La tasa efectiva permanece igual a j.",
+        "La tasa efectiva disminuye hasta cero.",
+        "La tasa efectiva aumenta y tiende a eʲ − 1.",
+        "La tasa efectiva aumenta sin límite."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad con j corresponde a capitalización anual. Con más de una capitalización aparecen intereses sobre intereses dentro del año. La tasa efectiva supera entonces a la nominal positiva.",
+        "Cada tasa periódica baja al aumentar m, pero se aplica más veces. El efecto total no lleva el rendimiento a cero. Para j positiva, aumenta hacia el límite continuo.",
+        "La tasa efectiva es (1 + j/m)ᵐ − 1. Capitalizar más seguido permite reinvertir antes los intereses. El límite continuo es finito y vale eʲ − 1.",
+        "La frecuencia puede crecer sin límite, pero el rendimiento no. La expresión converge a eʲ − 1. Confundir cantidad de capitalizaciones con rendimiento lleva a esa conclusión incorrecta."
+      ]
+    },
+    {
+      "id": "c03-q067",
+      "tema": "Capitalización continua",
+      "dificultad": "intermedia",
+      "pregunta": "Si δ es una tasa anual capitalizable continuamente, ¿qué relaciones son correctas?",
+      "opciones": [
+        "VF = VP·e^(δt) y tasa efectiva anual = e^δ − 1.",
+        "VF = VP·(1 + δt) y tasa efectiva anual = δ.",
+        "VF = VP·e^(δ/t) y tasa efectiva anual = e^δ.",
+        "VF = VP·(1 + δ)ᵗ y tasa efectiva anual = ln(1 + δ)."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La capitalización continua es el límite de aumentar la frecuencia indefinidamente. La acumulación durante t años es e^(δt). Al evaluar un año y restar el capital se obtiene e^δ − 1.",
+        "La expresión lineal corresponde a interés simple. No representa el límite de capitalización frecuente. Además, la tasa continua y la efectiva anual no son iguales en general.",
+        "El tiempo multiplica la tasa en el exponente. Dividir por t implicaría acumular menos al invertir durante más tiempo. También falta restar uno para convertir el factor anual en tasa.",
+        "La potencia (1 + δ)ᵗ trata δ como tasa efectiva anual. Una tasa continua se acumula mediante una exponencial. El logaritmo convierte una tasa efectiva a continua, en el sentido inverso."
+      ]
+    },
+    {
+      "id": "c03-q068",
+      "tema": "Flujos continuos y descuento",
+      "dificultad": "avanzada",
+      "pregunta": "Si ingresan C unidades monetarias por año de manera uniforme y continua desde hoy hasta T, con tasa continua δ > 0, ¿cuál es el VP?",
+      "opciones": [
+        "CT·e^(−δT)",
+        "C/δ, cualquiera sea T",
+        "C(1 − e^(−δT))/δ",
+        "C[1 − (1 + δ)⁻ᵀ]/δ"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta expresión concentra todo el ingreso CT al final. Pero el dinero entra durante todo el intervalo. Descontarlo como un único cobro final subestima su valor presente.",
+        "C/δ valúa una corriente continua perpetua. Aquí los ingresos terminan en T. Debe eliminarse el valor de la corriente que comenzaría después de esa fecha.",
+        "Cada pequeña parte del flujo se descuenta desde su instante de recepción. Integrar C·e^(−δt) entre cero y T da la fórmula indicada. La tasa y el flujo usan la misma unidad temporal.",
+        "Esta expresión corresponde a pagos discretos vencidos si δ fuera una tasa periódica efectiva. El enunciado define una tasa continua y entradas distribuidas. Debe usarse el descuento exponencial e^(−δt)."
+      ]
+    }
+  ]
+}

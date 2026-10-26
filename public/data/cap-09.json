@@ -1,0 +1,1336 @@
+{
+  "capitulo": 9,
+  "titulo": "Riesgo y rendimiento",
+  "preguntas": [
+    {
+      "id": "c09-q001",
+      "tema": "Normalidad",
+      "dificultad": "basica",
+      "pregunta": "Si los rendimientos siguen una distribución normal, ¿qué parámetros describen completamente su distribución?",
+      "opciones": [
+        "La beta y el precio de compra.",
+        "El máximo y el mínimo observados.",
+        "La media y la desviación estándar.",
+        "La mediana y la cantidad de acciones emitidas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La beta mide sensibilidad al mercado. El precio de compra es un dato de una transacción, no una medida de dispersión. Una normal se describe con su media y su desviación estándar.",
+        "Los extremos dependen de la muestra disponible. No fijan las probabilidades intermedias ni la dispersión completa de una normal. Deben conocerse la media y la desviación estándar.",
+        "La media ubica el centro de la distribución. La desviación estándar determina su dispersión y su cuadrado es la varianza. Bajo normalidad, estos dos parámetros describen todas las probabilidades de los rendimientos.",
+        "En una normal, la mediana coincide con la media, pero falta la dispersión. La cantidad de acciones emitidas no aporta ese parámetro. Se necesita también la desviación estándar o la varianza."
+      ]
+    },
+    {
+      "id": "c09-q002",
+      "tema": "Horizonte y distribución",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué no conviene trasladar automáticamente una aproximación normal diaria a rendimientos simples de varios años?",
+      "opciones": [
+        "La pérdida simple está limitada al 100%, pero la ganancia no tiene un techo equivalente.",
+        "La normalidad diaria garantiza normalidad del rendimiento simple acumulado.",
+        "El rendimiento simple acumulado nunca supera el 100%.",
+        "La capitalización elimina la incertidumbre."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una inversión sin obligaciones adicionales no puede perder más que todo su valor. Sin embargo, puede multiplicarlo varias veces. Esa asimetría y la capitalización pueden hacer más apropiada una representación lognormal del valor.",
+        "Los rendimientos simples se acumulan multiplicando factores 1+r. Multiplicarlos no equivale a sumar variables normales. La aproximación diaria no garantiza normalidad del rendimiento simple acumulado.",
+        "Una inversión puede duplicar su valor y seguir aumentando. El límite de 100% corresponde a la pérdida simple sin apalancamiento. La ganancia puede superar ese porcentaje, lo que genera asimetría.",
+        "La capitalización transforma el valor acumulado, pero las sorpresas siguen afectándolo. No vuelve ciertos los rendimientos futuros. El horizonte exige revisar la distribución, no eliminar el riesgo del análisis."
+      ]
+    },
+    {
+      "id": "c09-q003",
+      "tema": "Dominancia media-varianza",
+      "dificultad": "basica",
+      "pregunta": "Dos carteras ofrecen el mismo rendimiento esperado. ¿Cuál domina para un inversor que prefiere menor incertidumbre?",
+      "opciones": [
+        "La que tiene mayor desviación estándar.",
+        "La que tiene más títulos, sin importar sus correlaciones.",
+        "La que rindió más ayer.",
+        "La que tiene menor desviación estándar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Más dispersión supone más incertidumbre alrededor de la misma media. Aquí no se recibe un rendimiento esperado adicional que la compense. La cartera de mayor desviación queda dominada.",
+        "La cantidad de títulos no determina por sí sola el riesgo. Sus ponderaciones y correlaciones pueden mantener una gran variabilidad. La comparación se resuelve con la desviación del conjunto.",
+        "El resultado de ayer es una observación realizada. No sustituye una expectativa ni caracteriza la distribución futura. La elección depende del riesgo para una misma media.",
+        "Al ser iguales las expectativas, no existe compensación por soportar más variabilidad. La menor desviación permite alcanzar la misma media con menos riesgo. Esa comparación establece dominancia media-varianza."
+      ]
+    },
+    {
+      "id": "c09-q004",
+      "tema": "Preferencias ante el riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "A ofrece 16% esperado con desviación de 24%; B ofrece 11% con desviación de 12%. ¿Cuál elegiría necesariamente cualquier inversor adverso al riesgo?",
+      "opciones": [
+        "A, por su mayor rendimiento esperado.",
+        "No se determina sin conocer cómo valora la compensación entre riesgo y rendimiento.",
+        "B, porque la aversión al riesgo exige minimizarlo a cualquier costo.",
+        "A, porque más riesgo garantiza más ganancia realizada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Elegir solo por la media omite la mayor dispersión de A. Un inversor muy prudente puede preferir B. La aversión al riesgo exige evaluar ambas dimensiones.",
+        "A ofrece más expectativa y también más incertidumbre. B reduce el riesgo a cambio de resignar rendimiento esperado. Sin conocer la intensidad de la aversión al riesgo, no existe una elección universal.",
+        "Un inversor adverso al riesgo puede aceptar más variabilidad a cambio de suficiente rendimiento esperado. Minimizar el riesgo sin considerar rendimiento es una condición más extrema. Los datos no permiten imponer esa preferencia.",
+        "La expectativa es un promedio probabilístico, no una promesa. A puede terminar rindiendo menos que B. La decisión debe distinguir expectativa de resultado realizado."
+      ]
+    },
+    {
+      "id": "c09-q005",
+      "tema": "Media ponderada",
+      "dificultad": "basica",
+      "pregunta": "Una cartera invierte 30% en A, con rendimiento esperado de 8%, y 70% en B, con 18%. ¿Cuál es su rendimiento esperado?",
+      "opciones": [
+        "13%.",
+        "15%.",
+        "26%.",
+        "10%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 13% es el promedio simple de las tasas. Sería correcto con ponderaciones iguales. El mayor peso en B eleva la expectativa a 15%.",
+        "La expectativa es el promedio ponderado de las expectativas individuales. A aporta 0,30×8%=2,4% y B aporta 0,70×18%=12,6%. La suma es 15%, cualquiera sea la correlación.",
+        "Sumar las tasas ignora las proporciones invertidas. Con ponderaciones positivas que suman uno, la expectativa debe quedar entre 8% y 18%. El promedio ponderado es 15%.",
+        "Diez puntos es la diferencia entre las expectativas. Esa diferencia no es la rentabilidad de la cartera. Deben sumarse los aportes ponderados, que totalizan 15%."
+      ]
+    },
+    {
+      "id": "c09-q006",
+      "tema": "Varianza con correlación cero",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierte 50% en cada una de dos acciones con desviación de 20% y correlación cero. ¿Cuál es la desviación de la cartera?",
+      "opciones": [
+        "20%.",
+        "10%.",
+        "2%.",
+        "Aproximadamente 14,14%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Promediar desviaciones no aplica en general. Con correlación cero existe una reducción por diversificación. Deben sumarse varianzas ponderadas al cuadrado y luego extraer la raíz.",
+        "El 10% es el riesgo ponderado de una sola posición. La segunda también aporta varianza aunque no covaríe con la primera. Al incluir ambas, la desviación resulta 14,14%.",
+        "El 0,02 es la varianza usando rendimientos decimales. No puede leerse directamente como desviación de 2%. Hay que extraer su raíz, que da 14,14%.",
+        "La varianza es 0,5²×0,20²+0,5²×0,20²=0,02. La covarianza desaparece porque la correlación es cero. La raíz de 0,02 es 0,1414, equivalente a 14,14%."
+      ]
+    },
+    {
+      "id": "c09-q007",
+      "tema": "Correlación positiva perfecta",
+      "dificultad": "basica",
+      "pregunta": "Una cartera tiene 50% en una acción con desviación de 10% y 50% en otra con 30%. Con correlación +1, ¿cuál es su desviación?",
+      "opciones": [
+        "20%.",
+        "15,81%.",
+        "10%.",
+        "40%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con correlación +1 y ponderaciones positivas, los riesgos ponderados se suman. El cálculo es 0,5×10%+0,5×30%=20%. No hay reducción respecto del promedio ponderado de desviaciones.",
+        "El 15,81% resulta de omitir la covarianza. Eso supondría correlación cero. Con correlación +1 debe incluirse el término cruzado y el resultado es 20%.",
+        "El 10% es la diferencia absoluta de los riesgos ponderados. Esa operación corresponde a correlación −1. Con correlación +1 se suman y se obtiene 20%.",
+        "El 40% suma riesgos sin ponderar. Cada acción recibe solo la mitad del capital. Al aplicar esas ponderaciones, la desviación conjunta es 20%."
+      ]
+    },
+    {
+      "id": "c09-q008",
+      "tema": "Correlación negativa perfecta",
+      "dificultad": "intermedia",
+      "pregunta": "A tiene desviación de 10% y B de 30%, con correlación −1. ¿Qué combinación sin posiciones cortas anula su variabilidad?",
+      "opciones": [
+        "50% en cada una.",
+        "25% en A y 75% en B.",
+        "75% en A y 25% en B.",
+        "100% en A."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ponderar por mitades deja aportes de 5% y 15%. Su diferencia absoluta es 10%. La cobertura completa exige mayor ponderación de la acción menos volátil.",
+        "Esta combinación deja aportes de 2,5% y 22,5%. Su diferencia absoluta es 20%, por lo que no elimina la variabilidad. Debe invertirse 75% en A, no en B.",
+        "El riesgo es el valor absoluto de w×10%−(1−w)×30%. Para anularlo se exige 10w=30(1−w), de donde w=0,75. Los aportes de volatilidad quedan iguales y se compensan.",
+        "A conserva una desviación de 10% si se mantiene sola. La compensación requiere incluir B en una proporción precisa. Elegir solo la menos volátil no aprovecha la correlación negativa perfecta."
+      ]
+    },
+    {
+      "id": "c09-q009",
+      "tema": "Varianza mínima",
+      "dificultad": "avanzada",
+      "pregunta": "A y B tienen desviaciones de 10% y 20%, respectivamente, y correlación cero. ¿Qué porcentaje en A minimiza la varianza, con el resto en B?",
+      "opciones": [
+        "50%.",
+        "20%.",
+        "100%.",
+        "80%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La igualdad de pesos no minimiza necesariamente el riesgo. B tiene cuatro veces la varianza de A. La minimización asigna menos capital a B y deja 80% en A.",
+        "El 20% es la ponderación óptima de B. Intercambiar los pesos concentra más capital en el título más volátil. La condición de mínimo exige 80% en A.",
+        "Invertir solo en A deja un riesgo de 10%. Una pequeña posición no correlacionada en B puede reducirlo. Con 80% en A, la varianza es 0,008 y la desviación aproximadamente 8,94%.",
+        "La varianza es 0,01w²+0,04(1−w)². Su derivada se anula cuando 0,02w−0,08(1−w)=0, lo que da w=0,80. La segunda derivada es positiva, por lo que es un mínimo."
+      ]
+    },
+    {
+      "id": "c09-q010",
+      "tema": "Diversificación y volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora encuentra una pequeña posición muy volátil dentro de una cartera de mínimo riesgo. ¿Qué explicación puede justificarla?",
+      "opciones": [
+        "Toda acción volátil reduce siempre el riesgo de una cartera.",
+        "La volatilidad individual nunca entra en la fórmula del riesgo.",
+        "Su baja correlación con otras posiciones puede reducir el riesgo conjunto.",
+        "La cartera de mínimo riesgo debe contener solo la acción menos volátil."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La volatilidad alta no produce diversificación por sí misma. Una acción muy correlacionada con el resto puede aumentar el riesgo. Deben evaluarse su covarianza y su ponderación.",
+        "Las varianzas individuales aparecen con ponderaciones al cuadrado. El error sería considerarlas como único criterio. Las covarianzas completan el análisis conjunto.",
+        "La varianza conjunta incluye varianzas individuales y covarianzas. Una posición volátil puede ayudar si compensa movimientos de las demás. La cartera menos riesgosa no se identifica mirando solamente riesgos individuales.",
+        "La acción menos volátil puede combinarse con otras para reducir todavía más el riesgo. Eso depende de las covarianzas. El mínimo de una cartera no necesariamente coincide con un solo título."
+      ]
+    },
+    {
+      "id": "c09-q011",
+      "tema": "Insumos y frontera eficiente",
+      "dificultad": "basica",
+      "pregunta": "¿Qué datos requiere el enfoque media-varianza para construir la frontera eficiente?",
+      "opciones": [
+        "Solo precios de compra y dividendos del último año.",
+        "Rendimientos esperados, desviaciones estándar y correlaciones entre pares.",
+        "Solo betas y número de empleados.",
+        "Solo el máximo rendimiento histórico de cada acción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Precios y dividendos permiten construir rendimientos históricos. No aportan por sí solos expectativas y toda la estructura de covarianzas. La frontera requiere esos parámetros adicionales.",
+        "Las expectativas permiten calcular la media de cada combinación. Las desviaciones y correlaciones permiten construir su varianza. Con esos insumos y las restricciones se busca el mayor rendimiento para cada riesgo.",
+        "Las betas no describen por sí solas todas las covarianzas entre acciones. El número de empleados tampoco caracteriza sus distribuciones. Se necesitan expectativas, riesgos y movimientos conjuntos.",
+        "El máximo histórico es una observación extrema. No estima toda la distribución ni los movimientos entre títulos. Usarlo como único insumo no permite construir una frontera media-varianza."
+      ]
+    },
+    {
+      "id": "c09-q012",
+      "tema": "Programación cuadrática",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué minimizar la varianza con restricciones de rendimiento y ponderaciones es un problema de programación cuadrática?",
+      "opciones": [
+        "Porque la varianza incluye productos de ponderaciones y ponderaciones al cuadrado.",
+        "Porque el rendimiento esperado es el cuadrado del realizado.",
+        "Porque deben comprarse exactamente dos acciones.",
+        "Porque todas las correlaciones deben ser positivas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La varianza es una suma de términos wᵢwⱼCov(rᵢ,rⱼ). En la diagonal aparecen términos wᵢ²σᵢ². Esa dependencia cuadrática explica el procedimiento de optimización.",
+        "El rendimiento esperado es una media ponderada de expectativas. No se obtiene elevando al cuadrado un resultado realizado. La parte cuadrática proviene de la varianza.",
+        "El problema puede incluir cientos de títulos. La palabra cuadrática describe una forma matemática. No establece el número de acciones que se pueden comprar.",
+        "Las correlaciones pueden ser positivas, nulas o negativas. Sus valores forman parte de la función de varianza. El carácter cuadrático no exige un signo determinado."
+      ]
+    },
+    {
+      "id": "c09-q013",
+      "tema": "Ventas en corto",
+      "dificultad": "intermedia",
+      "pregunta": "Si una gestora habilita posiciones cortas sin cambiar otros supuestos, ¿qué pasa con las oportunidades antes disponibles?",
+      "opciones": [
+        "El conjunto factible necesariamente se achica.",
+        "Todas las carteras pasan a tener riesgo cero.",
+        "Se conservan y el conjunto factible puede ampliarse.",
+        "Ya no hace falta estimar correlaciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Quitar una restricción no invalida soluciones que ya cumplían con ella. No puede achicar el conjunto factible por sí solo. Puede agregar combinaciones antes excluidas.",
+        "Una posición corta no crea una cobertura perfecta automáticamente. La compensación depende de las exposiciones conjuntas. También puede aumentar el riesgo de manera importante.",
+        "Permitir pesos negativos elimina una restricción. Las carteras antes permitidas siguen siendo factibles y pueden agregarse otras. La frontera puede mejorar o mantenerse, aunque las posiciones cortas pueden aumentar apalancamiento y pérdidas.",
+        "Las covarianzas siguen determinando el riesgo con pesos negativos. El signo modifica los términos cruzados. Las correlaciones siguen siendo insumos necesarios."
+      ]
+    },
+    {
+      "id": "c09-q014",
+      "tema": "Combinación con activo libre de riesgo",
+      "dificultad": "basica",
+      "pregunta": "Se invierte 40% en una cartera con 14% esperado y desviación de 25%, y 60% libre de riesgo al 4%. ¿Cuál es la expectativa y la desviación del conjunto?",
+      "opciones": [
+        "8% y 10%.",
+        "8% y 15%.",
+        "14% y 10%.",
+        "10% y 8%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La expectativa es 0,40×14%+0,60×4%=8%. El activo libre de riesgo no aporta varianza ni covarianza. La desviación queda en 0,40×25%=10%.",
+        "La expectativa de 8% es correcta. El riesgo de 15% usa por error el peso del activo libre de riesgo. La posición riesgosa pesa 40% y su desviación escalada es 10%.",
+        "El 14% es la expectativa de la cartera riesgosa aislada. Colocar 60% al 4% reduce la media del conjunto. La media ponderada correcta es 8%.",
+        "Se intercambian los resultados de dos cálculos. La media ponderada es 8%. La desviación se obtiene escalando 25% por 40% y da 10%."
+      ]
+    },
+    {
+      "id": "c09-q015",
+      "tema": "Endeudamiento y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Con $100 propios, un inversor toma $50 al 4% e invierte $150 en una cartera con 12% esperado y desviación de 20%. ¿Qué expectativa y desviación tiene sobre su capital propio?",
+      "opciones": [
+        "12% y 20%.",
+        "18% y 30%.",
+        "8% y 10%.",
+        "16% y 30%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esos valores describen la cartera sin apalancamiento. Los $100 propios soportan ahora fluctuaciones de una inversión de $150. La expectativa neta y el riesgo pasan a 16% y 30%.",
+        "El 18% es el rendimiento bruto esperado de $150 sobre $100 propios. Falta descontar $2 de intereses. El rendimiento neto esperado es $16, equivalente a 16%.",
+        "Esta respuesta reduce exposición como si se prestara parte del capital. En realidad se toma deuda para comprar más activos riesgosos. La desviación aumenta a 30% y la expectativa neta a 16%.",
+        "La exposición riesgosa sobre el patrimonio es 1,5 y la posición de deuda es −0,5. La expectativa neta es 1,5×12%−0,5×4%=16%. La desviación aumenta a 1,5×20%=30%."
+      ]
+    },
+    {
+      "id": "c09-q016",
+      "tema": "Razón de Sharpe",
+      "dificultad": "basica",
+      "pregunta": "Una cartera ofrece 13% esperado, la tasa libre de riesgo es 5% y su desviación es 16%. ¿Cuál es su razón de Sharpe?",
+      "opciones": [
+        "0,8125.",
+        "0,50.",
+        "2,00.",
+        "0,08."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 0,8125 divide el rendimiento total por la desviación. Falta restar la tasa que se obtiene sin asumir riesgo. La razón correcta utiliza una prima de 8% y da 0,50.",
+        "La prima de riesgo es 13%−5%=8%. Se divide esa prima por la desviación de 16%. La razón resulta 8/16=0,50.",
+        "El 2,00 invierte el cociente. Sharpe expresa prima por unidad de riesgo, no riesgo por unidad de prima. Aquí corresponde calcular 8/16.",
+        "El 0,08 es la prima expresada en decimales. Todavía debe dividirse por la desviación de 0,16. El cociente completo es 0,50."
+      ]
+    },
+    {
+      "id": "c09-q017",
+      "tema": "Selección de la cartera tangente",
+      "dificultad": "intermedia",
+      "pregunta": "Con tasa libre de riesgo de 4%, A ofrece media y desviación de (10%, 12%), B de (14%, 16%) y C de (16%, 24%). ¿Cuál conviene combinar con préstamos y deuda al 4%?",
+      "opciones": [
+        "A, por su menor desviación.",
+        "B, por su Sharpe de 0,625.",
+        "C, por su mayor rendimiento esperado.",
+        "C, por su Sharpe de 1,50."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La menor desviación no basta si puede ajustarse la exposición con el activo libre de riesgo. Una combinación de B con ese activo puede reducir su riesgo. Su mayor Sharpe permite más expectativa para un mismo riesgo.",
+        "Los Sharpe son 6/12=0,50 para A, 10/16=0,625 para B y 12/24=0,50 para C. B ofrece más prima por unidad de desviación. Permite la recta de asignación de mayor pendiente entre estas alternativas.",
+        "La expectativa más alta viene acompañada de mayor variabilidad. C ofrece menos prima por unidad de riesgo que B. Debe maximizarse Sharpe y no solo la media.",
+        "El 1,50 no es el Sharpe de C. Su prima es 16%−4%=12% y su desviación es 24%. Su Sharpe es 0,50, inferior al de B."
+      ]
+    },
+    {
+      "id": "c09-q018",
+      "tema": "Riesgo objetivo",
+      "dificultad": "intermedia",
+      "pregunta": "La cartera tangente ofrece 16% esperado y desviación de 24%; la tasa libre de riesgo es 4%. Para una desviación de 18%, ¿qué combinación sin posiciones negativas corresponde?",
+      "opciones": [
+        "75% riesgoso y 25% libre de riesgo; expectativa de 12%.",
+        "25% riesgoso y 75% libre de riesgo; expectativa de 7%.",
+        "133,33% riesgoso y deuda de 33,33%; expectativa de 20%.",
+        "75% riesgoso y 25% libre de riesgo; expectativa de 13%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El peso riesgoso alcanza el riesgo objetivo. Pero 12% cuenta solo el aporte riesgoso y omite el interés del resto. Ese interés agrega un punto y lleva la expectativa a 13%.",
+        "La expectativa corresponde a esos pesos. Sin embargo, la desviación sería 0,25×24%=6%. Para alcanzar 18% se necesita 75% en la cartera riesgosa.",
+        "Se invirtió el cociente entre el riesgo deseado y el de la cartera. Esa exposición daría una desviación de 32% y exigiría deuda. El objetivo de 18% requiere solo 75% riesgoso.",
+        "La exposición cumple w×24%=18%, por lo que w=0,75. El resto se coloca al 4%. La expectativa es 0,75×16%+0,25×4%=13%."
+      ]
+    },
+    {
+      "id": "c09-q019",
+      "tema": "Separación de decisiones",
+      "dificultad": "basica",
+      "pregunta": "Con iguales expectativas y acceso a prestar y endeudarse a la misma tasa libre de riesgo, ¿cómo influye la aversión al riesgo?",
+      "opciones": [
+        "Cambia cuánto se invierte en la cartera tangente, no su composición óptima.",
+        "Exige que cada persona elija una composición riesgosa distinta.",
+        "Desaparece y todos deben invertir más del 100% en acciones.",
+        "Permite elegir sin estimar rendimientos ni covarianzas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Primero se selecciona la cartera con máxima razón de Sharpe. Después se ajusta su escala con préstamos o endeudamiento. Con insumos comunes, las preferencias modifican la exposición total y no la composición tangente.",
+        "Con los mismos insumos existe la misma oportunidad tangente. La tolerancia se refleja en cuánto se mantiene de ella. No obliga a cambiar sus proporciones internas.",
+        "La aversión al riesgo sigue determinando la exposición total. Una persona prudente puede mantener gran parte del patrimonio libre de riesgo. Poder endeudarse no obliga a hacerlo.",
+        "La separación requiere conocer la mejor cartera riesgosa. Para identificarla hacen falta expectativas, varianzas y covarianzas. La financiación no reemplaza esos insumos."
+      ]
+    },
+    {
+      "id": "c09-q020",
+      "tema": "Equilibrio y cartera de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Si todos comparten expectativas y oportunidades, ¿por qué la cartera riesgosa común coincide con el mercado en equilibrio?",
+      "opciones": [
+        "Porque todas las acciones tienen igual volatilidad.",
+        "Porque todos compran idéntica cantidad de acciones de cada empresa.",
+        "Porque la suma de sus tenencias debe absorber la oferta de activos riesgosos.",
+        "Porque el activo libre de riesgo tiene beta uno."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las volatilidades individuales pueden ser distintas. La conclusión surge de expectativas comunes y equilibrio de tenencias. No depende de igualar los riesgos de las acciones.",
+        "Igual cantidad de acciones no significa igual valor invertido. La cartera de mercado pondera por valor de los activos. El equilibrio no impone comprar el mismo número de títulos de cada empresa.",
+        "Las evaluaciones comunes llevan a elegir la misma composición riesgosa. Al agregar las tenencias deben aparecer las ponderaciones por valor de los activos disponibles. El equilibrio identifica así la cartera común con la de mercado.",
+        "El activo libre de riesgo tiene beta cero. La cartera de mercado tiene beta uno respecto de sí misma. Cambiar esas referencias no explica cómo se absorbe la oferta de activos."
+      ]
+    },
+    {
+      "id": "c09-q021",
+      "tema": "Información superior",
+      "dificultad": "intermedia",
+      "pregunta": "Una gestora tiene un pronóstico fundamentado más favorable que el mercado para una acción. ¿Qué análisis corresponde antes de aumentar su peso?",
+      "opciones": [
+        "Concentrar todo en ella porque desapareció el riesgo específico.",
+        "Mantener necesariamente los pesos del mercado aunque sus expectativas difieran.",
+        "Decidir solo por la ganancia respecto de su precio de compra.",
+        "Revisar su expectativa y su aporte al riesgo y a las covarianzas de la cartera."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un mejor pronóstico no elimina las sorpresas de la empresa. Concentrarse puede aumentar mucho el riesgo específico. La información nueva no vuelve innecesaria la diversificación.",
+        "La conclusión de mantener el mercado utiliza evaluaciones comunes. Esa premisa puede fallar con información superior. Corresponde recalcular la cartera con los nuevos insumos.",
+        "El precio de compra no determina el rendimiento futuro desde el precio actual. Tampoco mide la contribución al riesgo. La elección debe mirar expectativas actuales y covarianzas.",
+        "Una expectativa distinta puede cambiar la cartera tangente de la gestora. El peso adecuado también depende del riesgo y las covarianzas. La opinión favorable debe evaluarse dentro de la cartera completa."
+      ]
+    },
+    {
+      "id": "c09-q022",
+      "tema": "Geometría de la asignación",
+      "dificultad": "avanzada",
+      "pregunta": "En un plano de rendimiento esperado y desviación, ¿qué recta de combinaciones de un activo libre de riesgo y una cartera riesgosa ofrece la mejor expectativa para cada riesgo positivo?",
+      "opciones": [
+        "La que pasa por el origen aunque la tasa libre de riesgo sea positiva.",
+        "La que llega al título de mayor desviación individual.",
+        "La de mayor pendiente factible desde la tasa libre de riesgo, tangente a la frontera.",
+        "La más horizontal desde la tasa libre de riesgo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una posición de riesgo cero rinde la tasa libre de riesgo. Si esa tasa es positiva, la recta no parte del origen. Hacerla pasar por cero omite ese rendimiento disponible.",
+        "Mayor volatilidad individual no garantiza mejor prima por unidad de riesgo. Una cartera diversificada puede ofrecer mayor pendiente. El punto relevante es la tangencia con la frontera.",
+        "La pendiente es la prima de la cartera dividida por su desviación. Maximizarla equivale a maximizar Sharpe. La tangencia identifica la mejor recta de combinaciones permitidas.",
+        "Una recta más horizontal agrega menos expectativa por unidad de riesgo. Para un mismo riesgo ofrece un rendimiento esperado menor. La elección busca la mayor pendiente factible."
+      ]
+    },
+    {
+      "id": "c09-q023",
+      "tema": "Riesgo específico y sistemático",
+      "dificultad": "basica",
+      "pregunta": "¿Qué riesgo sigue presente en una cartera ampliamente diversificada de acciones?",
+      "opciones": [
+        "Todo el riesgo específico de cada empresa, sin reducción.",
+        "El asociado a factores comunes del mercado.",
+        "Solo el riesgo de una falla aislada en una fábrica.",
+        "Ningún riesgo, porque diversificar garantiza el capital."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los sucesos propios de empresas distintas pueden compensarse en una cartera amplia. Por eso su impacto conjunto suele reducirse. El riesgo que persiste es el de las influencias comunes.",
+        "Los movimientos comunes afectan muchas posiciones simultáneamente. No se compensan simplemente agregando más empresas. La diversificación elimina o reduce el riesgo específico, pero conserva la exposición sistemática.",
+        "Una falla aislada es un ejemplo de riesgo específico. En una cartera amplia su impacto puede ser pequeño. La exposición que no se elimina es la vinculada a movimientos comunes.",
+        "Diversificar no garantiza el valor final del capital. Una recesión o una caída general del mercado puede afectar todas las posiciones. La cartera conserva riesgo sistemático."
+      ]
+    },
+    {
+      "id": "c09-q024",
+      "tema": "Beta y contribución al riesgo",
+      "dificultad": "basica",
+      "pregunta": "En el CAPM, ¿qué mide principalmente la beta de una acción?",
+      "opciones": [
+        "Su contribución al riesgo de mercado de una cartera diversificada.",
+        "Su desviación estándar total sin considerar otros activos.",
+        "La probabilidad exacta de que la empresa quiebre.",
+        "La ganancia mínima que asegura al accionista."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Beta mide sensibilidad a las variaciones del mercado. Esa sensibilidad determina cómo contribuye la acción al riesgo de la cartera de mercado. Por eso es pertinente para un inversor diversificado, aunque no describa toda la volatilidad individual.",
+        "La desviación total incluye riesgo específico y sistemático. Beta se concentra en la parte relacionada con movimientos del mercado. Dos acciones con igual desviación pueden tener betas diferentes.",
+        "Beta no es una probabilidad de incumplimiento. Se estima a partir de movimientos conjuntos de rendimientos. La solvencia de una empresa requiere otros análisis.",
+        "Beta no garantiza un rendimiento mínimo. Describe una sensibilidad y se usa para estimar un rendimiento requerido. El resultado realizado puede quedar muy por debajo de esa expectativa."
+      ]
+    },
+    {
+      "id": "c09-q025",
+      "tema": "CAPM y prima de mercado",
+      "dificultad": "basica",
+      "pregunta": "La tasa libre de riesgo es 3% y el rendimiento esperado del mercado es 9%. Para beta 1,5, ¿qué rendimiento requiere el CAPM?",
+      "opciones": [
+        "13,5%.",
+        "9%.",
+        "12%.",
+        "6%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 13,5% multiplica beta por el rendimiento total del mercado. CAPM multiplica beta por la prima de mercado. Luego agrega una sola vez la tasa libre de riesgo.",
+        "El 9% es la prima requerida de esta acción, no su rendimiento total. Falta sumar el 3% libre de riesgo. El rendimiento requerido completo es 12%.",
+        "La prima de mercado es 9%−3%=6%. La acción requiere una prima de 1,5×6%=9%. Al sumar la tasa libre de riesgo se obtiene 12%.",
+        "El 6% es la prima de mercado. Todavía debe ajustarse por beta y sumarse la tasa libre de riesgo. Esas operaciones llevan a 12%."
+      ]
+    },
+    {
+      "id": "c09-q026",
+      "tema": "Beta implícita",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción tiene rendimiento requerido de 13%, la tasa libre de riesgo es 4% y la prima de mercado es 6%. Si vale el CAPM, ¿cuál es su beta?",
+      "opciones": [
+        "1,5.",
+        "2,1667.",
+        "0,6667.",
+        "0,09."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se despeja beta de 13%−4%=beta×6%. La prima propia es 9%. Entonces beta=9/6=1,5.",
+        "Dividir 13 por 6 omite descontar la tasa libre de riesgo. La sensibilidad explica la prima y no el rendimiento total. Hay que dividir 9 por 6.",
+        "El 0,6667 invierte el cociente. Se divide la prima de la acción por la del mercado. El resultado correcto es 1,5.",
+        "El 0,09 es la prima de la acción en decimales. Una prima no es una beta. Para obtener beta debe dividirse por 0,06."
+      ]
+    },
+    {
+      "id": "c09-q027",
+      "tema": "Beta negativa",
+      "dificultad": "intermedia",
+      "pregunta": "Con tasa libre de riesgo de 4%, prima de mercado de 8% y beta de −0,25, ¿qué rendimiento esperado implica el CAPM?",
+      "opciones": [
+        "6%.",
+        "−2%.",
+        "4%.",
+        "2%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 6% trata la beta negativa como positiva. Su contribución sistemática tiene signo contrario al mercado. Debe restarse una prima de dos puntos, no sumarla.",
+        "El −2% es la prima de riesgo, no el rendimiento total. Falta sumar el 4% libre de riesgo. La expectativa completa es positiva e igual a 2%.",
+        "El 4% correspondería a beta cero. Aquí la beta negativa produce una prima negativa. Bajo CAPM, la expectativa queda dos puntos por debajo de la tasa libre de riesgo.",
+        "La prima de la acción es −0,25×8%=−2%. Sumada al 4% libre de riesgo, da 2%. Una beta negativa puede aportar cobertura frente a caídas del mercado y justificar una expectativa inferior a la tasa libre de riesgo."
+      ]
+    },
+    {
+      "id": "c09-q028",
+      "tema": "Beta cero y riesgo total",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción con beta cero tiene gran volatilidad específica. Si vale el CAPM, ¿qué rendimiento esperado corresponde?",
+      "opciones": [
+        "Cero, porque beta cero implica rendimiento cero.",
+        "La tasa libre de riesgo, aunque la acción no sea individualmente libre de riesgo.",
+        "Una prima proporcional a toda su desviación estándar.",
+        "El rendimiento del mercado, porque sigue siendo una acción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se confunde una prima nula con un rendimiento total nulo. CAPM siempre suma la tasa libre de riesgo. Beta cero no elimina esa parte del rendimiento.",
+        "Con beta cero, la prima CAPM es cero. El rendimiento total sigue siendo la tasa libre de riesgo. La acción puede tener riesgo específico, pero ese riesgo no se remunera en una cartera diversificada.",
+        "CAPM no remunera toda la volatilidad individual. El riesgo específico puede diversificarse. La prima requerida depende de beta y aquí es nula.",
+        "La condición de ser una acción no fija su beta en uno. El rendimiento de mercado corresponde a beta uno. Una beta cero implica una expectativa igual a la tasa libre de riesgo."
+      ]
+    },
+    {
+      "id": "c09-q029",
+      "tema": "Beta de cartera",
+      "dificultad": "basica",
+      "pregunta": "Se invierten $40.000 en letras libres de riesgo y $60.000 en la cartera de mercado. ¿Cuál es la beta del conjunto?",
+      "opciones": [
+        "1,50.",
+        "0,60.",
+        "1,00.",
+        "0,40."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 1,50 divide la inversión de mercado por las letras. Las ponderaciones deben calcularse sobre el patrimonio total. La exposición al mercado es 60%, no 150%.",
+        "Las ponderaciones son 0,40 y 0,60 sobre un patrimonio de $100.000. Las letras tienen beta cero y el mercado beta uno. La beta conjunta es 0,40×0+0,60×1=0,60.",
+        "Beta uno correspondería a invertir todo en el mercado. El 40% libre de riesgo reduce la sensibilidad conjunta. El promedio ponderado de betas da 0,60.",
+        "El 0,40 es el peso de las letras. Como esas letras tienen beta cero, no aportan sensibilidad al mercado. La beta viene del 60% invertido en el mercado."
+      ]
+    },
+    {
+      "id": "c09-q030",
+      "tema": "Estimación de beta",
+      "dificultad": "intermedia",
+      "pregunta": "La correlación entre una acción y el mercado es 0,6; sus desviaciones son 30% y 15%, respectivamente. ¿Cuál es la beta de la acción?",
+      "opciones": [
+        "0,3.",
+        "0,6.",
+        "2,0.",
+        "1,2."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 0,3 usa la razón de desviaciones invertida. La desviación de la acción debe ir en el numerador. La operación correcta es 0,6×30/15.",
+        "La correlación sola no es beta salvo que las desviaciones coincidan. Aquí la acción tiene el doble de volatilidad del mercado. Esa escala eleva beta de 0,6 a 1,2.",
+        "El 2,0 es solo la razón entre desviaciones. Falta multiplicarla por la correlación de 0,6. Ese ajuste lleva la beta a 1,2.",
+        "Beta es Cov(rᵢ,rₘ)/Var(rₘ), equivalente a correlación×σᵢ/σₘ. Se calcula 0,6×30/15=1,2. Esta medida incorpora tanto la correlación como la volatilidad relativa."
+      ]
+    },
+    {
+      "id": "c09-q031",
+      "tema": "Beta y sorpresas de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción tiene beta 1,4. Si el rendimiento del mercado resulta 5 puntos porcentuales menor que lo esperado, ¿qué efecto estima el modelo lineal sobre el rendimiento de la acción, manteniendo lo demás constante?",
+      "opciones": [
+        "Una sorpresa de −7 puntos porcentuales atribuible al mercado.",
+        "Una pérdida realizada total necesariamente igual a 7%.",
+        "Una sorpresa de −3,57 puntos porcentuales.",
+        "Una sorpresa positiva de 7 puntos porcentuales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La sensibilidad multiplica la sorpresa del mercado. El efecto estimado es 1,4×(−5)=−7 puntos. Es un componente del rendimiento inesperado y pueden existir otras sorpresas específicas.",
+        "El producto estima un cambio respecto de la expectativa. No fija el rendimiento realizado total, que también incorpora el nivel esperado y sucesos específicos. Por eso no garantiza una pérdida total de 7%.",
+        "Dividir la sorpresa por beta invierte el significado de sensibilidad. Una beta mayor que uno amplifica la exposición al mercado. El efecto estimado es −7 puntos y no −3,57.",
+        "Una beta positiva transmite la sorpresa con el mismo signo. Si el mercado sorprende negativamente, su aporte también es negativo. El producto correcto da −7 puntos."
+      ]
+    },
+    {
+      "id": "c09-q032",
+      "tema": "Línea del mercado de valores",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se distingue la línea del mercado de valores del CAPM de la recta de combinaciones entre mercado y activo libre de riesgo?",
+      "opciones": [
+        "Ambas usan desviación estándar y valoran cualquier acción individual de igual manera.",
+        "La primera usa el precio de compra y la segunda el dividendo.",
+        "La primera usa beta; la segunda usa desviación estándar y describe esas combinaciones eficientes.",
+        "La primera solo sirve para activos con riesgo específico nulo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una acción individual puede tener mucho riesgo específico. Por eso no debe ubicarse automáticamente sobre la recta eficiente de rendimiento y desviación. CAPM la evalúa mediante beta.",
+        "Ni el precio de compra ni el dividendo son los ejes de esas relaciones. Se comparan rendimiento esperado y medidas de riesgo. Los ejes pertinentes son beta o desviación, según la recta.",
+        "La línea del mercado de valores relaciona rendimiento requerido con beta para activos y carteras. La recta de asignación con el mercado relaciona rendimiento y desviación de combinaciones específicas. Confundir ambos ejes lleva a remunerar incorrectamente riesgo total.",
+        "CAPM también establece un rendimiento requerido para acciones con riesgo específico. Ese componente no recibe prima en el modelo. La condición relevante es su exposición sistemática, no la ausencia de volatilidad propia."
+      ]
+    },
+    {
+      "id": "c09-q033",
+      "tema": "Alfa y desajuste de precios",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción de beta 0,8 ofrece 11% esperado. Con tasa libre de riesgo de 4% y prima de mercado de 5%, ¿cómo se interpreta bajo CAPM?",
+      "opciones": [
+        "Tiene alfa negativo de 3 puntos y parece sobrevaluada.",
+        "Está exactamente sobre la línea del mercado de valores.",
+        "Es libre de riesgo porque su beta es menor que uno.",
+        "Tiene alfa positivo de 3 puntos y parece subvaluada según esas expectativas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El signo del alfa se calcula como esperado menos requerido. Aquí es 11%−8%=3%, no −3%. Una expectativa superior a la requerida sugiere subvaluación según el modelo.",
+        "Para estar en la línea debería ofrecer 8%. Los tres puntos adicionales son una diferencia respecto de CAPM. Esa diferencia debe interpretarse como una posible oportunidad o un error de estimación.",
+        "Una beta de 0,8 todavía implica exposición al mercado. Además puede existir riesgo específico. Ser menos sensible que el mercado no equivale a carecer de riesgo.",
+        "El rendimiento requerido es 4%+0,8×5%=8%. La expectativa de 11% supera ese valor en tres puntos. Si los pronósticos son correctos, el precio parece bajo respecto de los flujos esperados y el riesgo."
+      ]
+    },
+    {
+      "id": "c09-q034",
+      "tema": "Ajuste de precios al equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción ofrece un rendimiento esperado menor al requerido para su beta. Si los flujos previstos no cambian y los inversores comparten esa evaluación, ¿qué ajuste la acercaría al equilibrio?",
+      "opciones": [
+        "Una suba del precio que eleve su rendimiento esperado.",
+        "Una caída de los flujos esperados que eleve su rendimiento esperado.",
+        "Una caída del precio que eleve su rendimiento esperado.",
+        "Un aumento automático de su beta hasta cero."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Con los mismos flujos, pagar más reduce la rentabilidad esperada. Eso agrava la insuficiencia frente al rendimiento requerido. El ajuste apropiado es una baja del precio.",
+        "Cobros menores a igual precio reducen la rentabilidad esperada. No corrigen una expectativa que ya era insuficiente. La explicación de equilibrio mantiene los flujos y ajusta el precio.",
+        "La acción está debajo de la línea del mercado de valores. Con los mismos cobros esperados, pagar menos aumenta la rentabilidad esperada. La presión vendedora puede reducir el precio hasta alinearla con el rendimiento requerido.",
+        "Beta no se transforma automáticamente para corregir el precio. Es una medida de sensibilidad al mercado. Además, pasar de una beta positiva a cero no sería un aumento."
+      ]
+    },
+    {
+      "id": "c09-q035",
+      "tema": "Costo de oportunidad del capital",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa evalúa un proyecto con el mismo riesgo de activos financieros que requieren 10%. ¿Por qué ese 10% sirve como costo de oportunidad, si se omiten impuestos y diferencias de financiación?",
+      "opciones": [
+        "Porque todo proyecto debe usar la tasa de su deuda bancaria.",
+        "Porque los accionistas podrían invertir los fondos en alternativas de riesgo equivalente.",
+        "Porque la empresa nunca puede devolver dinero a los accionistas.",
+        "Porque los rendimientos pasados garantizan el rendimiento futuro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa bancaria remunera el riesgo del préstamo, no necesariamente el de los activos del proyecto. Usarla para cualquier inversión puede subestimar el costo de capital. El riesgo equivalente determina la comparación correcta.",
+        "Invertir en el proyecto implica renunciar a otras inversiones disponibles. La comparación pertinente es con activos de riesgo equivalente. Ese rendimiento requerido mide el costo de oportunidad de comprometer los fondos.",
+        "La empresa podría devolver fondos o evitar captarlos. Los accionistas podrían destinarlos a otros activos. Esa alternativa es justamente la fuente del costo de oportunidad.",
+        "Los datos históricos ayudan a estimar parámetros, pero no garantizan resultados. El costo de capital es un rendimiento requerido para un riesgo. No es una promesa de rentabilidad realizada."
+      ]
+    },
+    {
+      "id": "c09-q036",
+      "tema": "CAPM y valor presente neto",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto cuesta $100 hoy y promete un flujo esperado de $112 dentro de un año. Su beta es 1, la tasa libre de riesgo 4% y la prima de mercado 6%. Sin otros ajustes, ¿cuál es su VPN?",
+      "opciones": [
+        "Aproximadamente $1,82 positivo.",
+        "$12 positivo.",
+        "Cero.",
+        "Aproximadamente $1,82 negativo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "CAPM exige 4%+1×6%=10%. El valor presente del flujo es 112/1,10=$101,82. Al restar los $100 iniciales queda un VPN de aproximadamente $1,82.",
+        "Los $12 son la diferencia sin descontar. Ese cálculo ignora el costo de oportunidad del capital durante el año. Descontar al 10% deja un excedente presente de $1,82.",
+        "Un VPN nulo requeriría un flujo esperado de $110 con esa tasa. El proyecto ofrece $112. Por eso su valor presente supera el desembolso inicial.",
+        "El valor presente del cobro supera el costo. Restar inversión a valor presente produce un signo positivo. Invertir el orden de la resta cambia erróneamente el signo del VPN."
+      ]
+    },
+    {
+      "id": "c09-q037",
+      "tema": "Cambio de tasa libre de riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "El rendimiento esperado del mercado permanece en 10%. Si la tasa libre de riesgo sube de 2% a 4%, ¿cómo cambia el rendimiento CAPM de una acción con beta 1,5?",
+      "opciones": [
+        "Sube de 14% a 16%.",
+        "Permanece en 14%.",
+        "Baja de 14% a 13%.",
+        "Baja de 12% a 9%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar dos puntos al resultado anterior mantendría fija la prima de mercado. El enunciado mantiene fijo el rendimiento total del mercado. La prima baja de 8% a 6%, por lo que el requerido queda en 13%.",
+        "El cambio de tasa altera tanto el término libre de riesgo como la prima. Con beta 1,5 esos efectos no se cancelan. Se cancelan para beta uno, no para esta acción.",
+        "Inicialmente es 2%+1,5×(10%−2%)=14%. Después es 4%+1,5×(10%−4%)=13%. Como el mercado permanece fijo, su prima disminuye y, con beta mayor que uno, ese efecto domina.",
+        "Los niveles propuestos no salen de aplicar CAPM a los datos. Debe calcularse primero la prima de mercado en cada escenario. Los rendimientos resultantes son 14% y 13%."
+      ]
+    },
+    {
+      "id": "c09-q038",
+      "tema": "Descuento, horizonte y deuda",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora usa la beta accionaria de una empresa muy endeudada y una tasa de letras a un mes para descontar un proyecto operativo de veinte años. ¿Qué revisión corresponde?",
+      "opciones": [
+        "Revisar el efecto de la deuda sobre beta y la coherencia del horizonte de la tasa libre de riesgo.",
+        "Aceptar ambos datos porque toda beta mide únicamente riesgo operativo.",
+        "Usar cero como tasa porque veinte años permiten diversificar todo riesgo.",
+        "Multiplicar la tasa mensual por veinte sin revisar unidades."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La beta accionaria incorpora la exposición que genera el apalancamiento financiero. Además, una tasa muy corta puede no representar el costo de oportunidad de un horizonte largo. La aplicación requiere coherencia entre riesgo de activos, financiación y plazos.",
+        "La deuda amplifica el riesgo que soportan los accionistas. Por eso su beta no debe trasladarse mecánicamente a un activo operativo. También debe revisarse la madurez de la referencia libre de riesgo.",
+        "El plazo largo no elimina la exposición a riesgos comunes. Diversificar entre empresas tampoco garantiza todos los flujos de un proyecto. Una tasa nula carece de fundamento en estos datos.",
+        "Veinte años y una tasa mensual usan unidades distintas. Además, multiplicar tasas sin atender a capitalización no asegura coherencia. Primero hay que definir horizonte, tasa comparable y riesgo pertinente."
+      ]
+    },
+    {
+      "id": "c09-q039",
+      "tema": "Flujos corporativos sin riesgo e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa recibe un flujo cierto dentro de un año. Si la tasa de referencia antes de impuestos es 8% y el impuesto sobre el ingreso por intereses es 25%, ¿qué tasa de oportunidad después de impuestos corresponde, bajo esos supuestos?",
+      "opciones": [
+        "8%.",
+        "10,67%.",
+        "2%.",
+        "6%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 8% es una tasa antes de impuestos. La empresa no conserva todo ese interés en la alternativa financiera. La referencia neta dada por el enunciado es 6%.",
+        "El 10,67% surge de dividir por 1−0,25. Esa operación convierte una tasa neta en una bruta, pero aquí se pide el sentido inverso. Hay que multiplicar 8% por 0,75.",
+        "El 2% es el impuesto sobre el interés de referencia. No es el rendimiento que conserva la empresa. Al restarlo del 8% se obtiene la tasa neta de 6%.",
+        "El interés alternativo de 8% deja 8%×(1−0,25)=6% después de impuestos. Esa es la rentabilidad neta que la empresa sacrifica en la comparación planteada. Los flujos y la tasa deben tratar los impuestos de manera coherente."
+      ]
+    },
+    {
+      "id": "c09-q040",
+      "tema": "Riesgo diversificable y fusiones",
+      "dificultad": "intermedia",
+      "pregunta": "Dos empresas proponen fusionarse únicamente para diversificar riesgos específicos, sin sinergias ni otros efectos. ¿Por qué eso no asegura crear valor para accionistas diversificados?",
+      "opciones": [
+        "Porque toda fusión elimina los riesgos macroeconómicos.",
+        "Porque los accionistas pueden diversificar sus carteras sin necesitar la fusión.",
+        "Porque el riesgo específico debe recibir una prima adicional en CAPM.",
+        "Porque una fusión siempre duplica el valor presente de los flujos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una recesión puede seguir afectando a la empresa fusionada. Combinar negocios no elimina automáticamente los factores comunes. La diversificación empresarial no garantiza la desaparición del riesgo sistemático.",
+        "Los accionistas pueden combinar acciones de ambas empresas por su cuenta. Reducir solo un riesgo que ya podían diversificar no agrega necesariamente un beneficio económico. Para crear valor hacen falta efectos adicionales sobre flujos o costos relevantes.",
+        "CAPM remunera exposición sistemática, no riesgo específico diversificable. Darle una prima adicional contradice esa lógica. Una fusión puramente diversificadora no genera valor por ese mecanismo.",
+        "Sumar negocios no multiplica sus flujos por dos respecto de lo que ya poseían los accionistas. Sin sinergias, el valor agregado no aparece automáticamente. Deben compararse beneficios concretos y costos de la operación."
+      ]
+    },
+    {
+      "id": "c09-q041",
+      "tema": "Modelo y evidencia histórica",
+      "dificultad": "intermedia",
+      "pregunta": "Una investigadora encuentra que las carteras de beta alta rindieron más, pero menos de lo que predice la pendiente CAPM. ¿Qué conclusión es más cuidadosa?",
+      "opciones": [
+        "El CAPM queda confirmado en todos sus detalles.",
+        "Hay apoyo a una relación positiva, pero la proporcionalidad exacta del modelo queda cuestionada.",
+        "Beta nunca puede relacionarse con el rendimiento esperado.",
+        "El rendimiento realizado de cada año debe coincidir exactamente con CAPM."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Confirmar una dirección general no confirma una pendiente exacta. La distancia entre ambas es parte de la evaluación empírica. También importa el ruido de las realizaciones.",
+        "Una relación positiva es consistente con parte de la intuición del modelo. Una pendiente más plana contradice su predicción cuantitativa simple en esos datos. Además, los rendimientos realizados contienen sorpresas y no observan directamente las expectativas.",
+        "La evidencia descrita sí muestra una relación positiva. No permite concluir que beta sea irrelevante en cualquier contexto. La crítica se refiere a cuánto explica y con qué precisión.",
+        "CAPM se refiere a rendimientos esperados. Un resultado anual incorpora noticias imprevistas. Exigir coincidencia exacta en cada realización confunde expectativa con observación."
+      ]
+    },
+    {
+      "id": "c09-q042",
+      "tema": "Mercado observable y ponderación",
+      "dificultad": "avanzada",
+      "pregunta": "Al evaluar CAPM, una investigadora usa un índice accionario equiponderado en lugar del mercado total ponderado por valor. ¿Qué precaución debe tomar?",
+      "opciones": [
+        "El índice representa necesariamente todos los activos riesgosos, incluido capital humano.",
+        "Equiponderar elimina todo posible sesgo en la prima de mercado.",
+        "Cualquier índice produce idénticas betas y primas.",
+        "El índice omite otras clases de activos y su ponderación puede sobreponderar empresas pequeñas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un índice accionario no incluye automáticamente bonos, inmuebles y capital humano. Esa diferencia dificulta probar el modelo teórico. Debe reconocerse el carácter aproximado de la referencia.",
+        "Equiponderar modifica las exposiciones, no garantiza ausencia de sesgo. Si pequeñas y grandes tuvieron rendimientos distintos, la prima estimada puede cambiar. La ponderación debe explicitarse al comparar resultados.",
+        "Las betas son relativas a una referencia concreta. Cambiar sus componentes y pesos puede cambiar covarianzas y rendimiento del índice. No hay garantía de resultados idénticos.",
+        "El mercado teórico abarca más que una muestra de acciones. Incluye otras inversiones riesgosas y plantea dificultades de medición. Además, equiponderar asigna más peso relativo a empresas pequeñas y puede cambiar la prima histórica observada."
+      ]
+    },
+    {
+      "id": "c09-q043",
+      "tema": "Efectos tamaño y valor",
+      "dificultad": "basica",
+      "pregunta": "¿Qué patrones históricos motivan ampliar el CAPM con factores de tamaño y valor?",
+      "opciones": [
+        "Rendimientos distintos asociados a capitalización y razón contable/mercado que beta no explica completamente.",
+        "Que toda empresa pequeña tenga siempre menor riesgo que una grande.",
+        "Que las acciones de crecimiento garanticen más rendimiento que las de valor.",
+        "Que el precio nominal por acción determine por sí solo la prima de riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los datos históricos mostraron diferencias entre pequeñas y grandes y entre acciones de valor y crecimiento. Esas diferencias no quedaban plenamente explicadas por beta de mercado. Eso motivó investigar factores adicionales, sin convertir el patrón histórico en una garantía futura.",
+        "El tamaño reducido no implica automáticamente menor riesgo. Puede asociarse con vulnerabilidades comunes o dificultades de financiación. El patrón estudiado se refiere a rendimientos y exposiciones, no a esa regla universal.",
+        "Las acciones de crecimiento no garantizan rendimiento superior. El patrón histórico que motivó el factor valor fue una ventaja promedio de acciones con alta razón contable/mercado. Ninguna de ambas categorías asegura superar a la otra en cada período.",
+        "El precio de una acción depende también de cuántas acciones se emitieron. No equivale a capitalización ni a razón contable/mercado. El valor nominal aislado no define una prima de riesgo."
+      ]
+    },
+    {
+      "id": "c09-q044",
+      "tema": "Acciones de valor y crecimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a una acción de valor en el uso de los modelos de factores?",
+      "opciones": [
+        "Una razón de valor contable a valor de mercado relativamente baja.",
+        "Un precio por acción necesariamente mayor que el de cualquier acción de crecimiento.",
+        "Una razón de valor contable a valor de mercado relativamente alta.",
+        "Una garantía de que la empresa no tiene problemas financieros."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una razón baja caracteriza al grupo usualmente llamado de crecimiento. Invertir el cociente o confundir las etiquetas cambia la clasificación. El grupo de valor tiene una razón contable/mercado alta.",
+        "El precio unitario no permite comparar el valor económico de empresas con distinta cantidad de acciones. La clasificación usa una razón entre valores comparables. No exige un precio nominal alto.",
+        "La clasificación compara el patrimonio contable con el valor de mercado. Una razón alta identifica el grupo llamado de valor. Puede reflejar precios deprimidos y dificultades, por lo que no garantiza calidad ni rendimiento.",
+        "Una empresa puede cotizar poco respecto de su patrimonio contable porque atraviesa problemas. Esas dificultades pueden volverla vulnerable a una recesión. La etiqueta de valor no asegura solvencia."
+      ]
+    },
+    {
+      "id": "c09-q045",
+      "tema": "Interpretación económica de los factores",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora observa que empresas de valor caen juntas cuando empeora la economía y también cae el ingreso de los inversores. ¿Qué interpretación respalda una prima adicional?",
+      "opciones": [
+        "Todo resultado histórico alto demuestra una oportunidad sin riesgo.",
+        "La razón contable/mercado elimina cualquier exposición macroeconómica.",
+        "Solo importa que la empresa tenga muchos activos físicos.",
+        "Esas acciones pueden agravar el riesgo en estados en que los inversores más necesitan recursos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un promedio histórico alto no prueba ausencia de riesgo. Puede ser justamente una compensación por malos resultados en estados adversos. También puede contener ruido y errores de estimación.",
+        "Una razón contable/mercado alta puede estar asociada a dificultades económicas. No elimina la sensibilidad a recesiones. Debe analizarse qué riesgo común representa.",
+        "Los activos físicos no determinan por sí solos la prima. Importa cómo se comportan los rendimientos frente a condiciones relevantes. La interpretación propuesta se basa en vulnerabilidad común en estados adversos.",
+        "Una pérdida que coincide con menor ingreso o consumo puede ser especialmente costosa. Si muchas empresas comparten esa vulnerabilidad, no se elimina fácilmente diversificando entre ellas. Los inversores pueden exigir compensación por soportarla."
+      ]
+    },
+    {
+      "id": "c09-q046",
+      "tema": "Minería de datos",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista prueba miles de reglas y presenta solo la que más rindió en la misma muestra histórica. ¿Cuál es el problema principal?",
+      "opciones": [
+        "Muchas pruebas garantizan identificar una relación causal verdadera.",
+        "Una estrategia ganadora históricamente no necesita una explicación económica.",
+        "Puede haber seleccionado una coincidencia que no se repita fuera de la muestra.",
+        "El sesgo desaparece si se omite informar las reglas descartadas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La cantidad de pruebas también aumenta las oportunidades de hallar coincidencias. No reemplaza la identificación de un mecanismo causal. Debe considerarse el proceso de selección de la regla.",
+        "El éxito histórico puede reflejar exposición a riesgo, casualidad o una verdadera oportunidad. Sin investigar esas alternativas no se conoce su significado. La explicación económica complementa la comprobación estadística.",
+        "Al probar muchas reglas, algunas pueden funcionar bien por azar. Seleccionar solo la mejor exagera la evidencia a su favor. La estabilidad en otras muestras y una explicación económica ayudan a evaluar si existe una relación genuina.",
+        "Ocultar las reglas descartadas empeora la interpretación de los resultados. Hace parecer única una prueba que fue elegida entre muchas. El sesgo exige transparencia y evaluación fuera de la muestra."
+      ]
+    },
+    {
+      "id": "c09-q047",
+      "tema": "Activo seguro nominal y real",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera afirma que una letra sin riesgo de incumplimiento garantiza poder de compra al vencimiento. ¿Qué objeción corresponde?",
+      "opciones": [
+        "La ausencia de incumplimiento garantiza inflación nula.",
+        "Un pago nominal seguro todavía puede tener rendimiento real incierto por inflación.",
+        "Toda letra nominal tiene riesgo real cero cualquiera sea el horizonte.",
+        "La inflación solo afecta a las acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La solvencia del emisor no determina la evolución de precios de la economía. Puede pagarse íntegramente y aun así perderse poder adquisitivo. La incertidumbre inflacionaria debe analizarse por separado.",
+        "La letra fija un pago en unidades monetarias. El poder de compra de ese pago depende del nivel de precios futuro. Por eso seguridad nominal y seguridad real son conceptos diferentes.",
+        "El rendimiento real depende de la inflación durante el período. Un contrato nominal no la fija automáticamente. El horizonte puede cambiar la magnitud de esa incertidumbre, pero no eliminarla por definición.",
+        "La inflación cambia el poder de compra de todos los cobros nominales. Las letras también están expuestas a ese efecto. Ser libre de incumplimiento no implica estar protegido frente a precios crecientes."
+      ]
+    },
+    {
+      "id": "c09-q048",
+      "tema": "Tasas distintas para prestar y endeudarse",
+      "dificultad": "avanzada",
+      "pregunta": "Una inversora presta al 4%, pero debe pagar 9% para endeudarse. ¿Qué afirmación sobre la recta única de combinaciones debe revisar?",
+      "opciones": [
+        "La extensión apalancada ya no tiene necesariamente la misma pendiente que el tramo de préstamo.",
+        "Puede usar siempre 4% como costo real de su deuda.",
+        "El apalancamiento no tiene costo porque la cartera es eficiente.",
+        "La tasa de deuda deja de importar al calcular rendimientos netos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La recta única supone la misma tasa para ambas operaciones. Endeudarse al 9% reduce el rendimiento neto frente a financiarse al 4%. La oportunidad apalancada cambia y puede requerir revisar la cartera riesgosa óptima.",
+        "El 4% es el rendimiento de lo que presta, no la tasa que paga. Aplicarlo al préstamo recibido subestima el costo. Debe utilizarse el 9% en la parte financiada con deuda.",
+        "La eficiencia de una cartera no elimina intereses contractuales. El rendimiento sobre capital propio debe descontarlos. Un costo de endeudamiento mayor puede reducir la ventaja de apalancar.",
+        "Los intereses modifican directamente los flujos que quedan para la inversora. Omitirlos sobreestima su expectativa neta. Por eso la tasa de deuda sigue siendo esencial."
+      ]
+    },
+    {
+      "id": "c09-q049",
+      "tema": "Hábitos y aversión a pérdidas",
+      "dificultad": "intermedia",
+      "pregunta": "Un inversor evalúa una acción por si está por encima de su precio de compra y teme no sostener su nivel de vida habitual. ¿Qué limita la representación simple centrada solo en riqueza final?",
+      "opciones": [
+        "Demuestra que la diversificación aumenta siempre el riesgo.",
+        "Prueba que el precio de compra determina el rendimiento requerido de equilibrio.",
+        "No recoge explícitamente todos esos puntos de referencia y hábitos de consumo.",
+        "Implica que toda pérdida realizada es un error de cálculo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esas preferencias no cambian la identidad matemática de la varianza de cartera. La diversificación puede seguir reduciendo riesgo específico. El límite señalado se refiere a cómo se describen las preferencias.",
+        "El precio de compra puede ser una referencia psicológica. No determina por sí solo los flujos futuros ni una tasa de equilibrio. Confundir ambos planos transforma una conducta individual en una regla de valoración injustificada.",
+        "Las personas pueden valorar resultados respecto de una referencia y de hábitos adquiridos. Una pequeña ganancia o pérdida puede afectar su satisfacción más allá de la riqueza final. Esos comportamientos motivan modelos que amplían la representación simple.",
+        "Una pérdida puede ser una realización adversa de un riesgo correctamente evaluado. No demuestra por sí sola un cálculo incorrecto. La observación trata sobre preferencias, no sobre certeza de los resultados."
+      ]
+    },
+    {
+      "id": "c09-q050",
+      "tema": "CAPM de consumo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué exposición considera central el CAPM de consumo?",
+      "opciones": [
+        "La sensibilidad del rendimiento a cambios en el consumo de los inversores.",
+        "La cantidad de productos que vende la empresa.",
+        "La sensibilidad al precio al que el inversor compró la acción.",
+        "Solo la variación del índice accionario usado como referencia."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El propósito de invertir es trasladar recursos hacia consumo futuro. El riesgo relevante es el que obliga a reducirlo en estados desfavorables. El modelo conecta directamente los rendimientos con esa incertidumbre mediante una beta de consumo.",
+        "Las ventas de la empresa no equivalen al consumo del inversor. Una compañía puede vender mucho y aun así tener una exposición particular a estados adversos. El modelo se refiere a covariación con el consumo, no a unidades vendidas.",
+        "El precio de compra puede influir como referencia psicológica. No define la beta de consumo. La exposición se mide frente a variaciones del consumo relevante.",
+        "La beta de mercado es la referencia del CAPM original. La variante de consumo busca evitar depender de identificar toda la cartera de mercado. Sustituye esa exposición por una vinculada directamente al consumo."
+      ]
+    },
+    {
+      "id": "c09-q051",
+      "tema": "Cobertura del consumo",
+      "dificultad": "avanzada",
+      "pregunta": "Dos activos ofrecen pagos esperados similares. Uno tiende a pagar más justamente cuando cae el consumo agregado; ¿por qué podría aceptarse una rentabilidad esperada menor en ese activo?",
+      "opciones": [
+        "Porque todo activo de menor rendimiento esperado tiene menor desviación estándar.",
+        "Porque pagar durante una recesión elimina cualquier riesgo de incumplimiento.",
+        "Porque el consumo no influye en la utilidad de los inversores.",
+        "Porque sus pagos ayudan en estados en que el consumo y los recursos son especialmente escasos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una media baja no determina una dispersión baja. La utilidad de cobertura depende de cuándo se producen los pagos. Puede existir aunque la volatilidad individual sea elevada.",
+        "El patrón de pagos no garantiza solvencia contractual. Deben mantenerse los supuestos de cada activo al evaluar sus riesgos. La explicación de menor prima proviene de su relación con estados de consumo adversos.",
+        "El modelo de consumo parte justamente de que consumir genera utilidad. Los pagos se valoran según su aporte en distintos estados. Negar esa relación elimina el fundamento de la explicación.",
+        "Los recursos adicionales son más valiosos cuando el consumo está deprimido. Un activo que paga en esos estados puede servir como seguro. Esa utilidad de cobertura puede elevar su precio y reducir su rentabilidad esperada."
+      ]
+    },
+    {
+      "id": "c09-q052",
+      "tema": "Medición del consumo y prima accionaria",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué combinación resume una ventaja y una dificultad práctica del CAPM de consumo?",
+      "opciones": [
+        "Identifica automáticamente el consumo de cada hogar y garantiza estimaciones precisas.",
+        "Evita identificar toda la cartera de mercado, pero medir consumo y explicar la prima accionaria con su baja volatilidad observada es difícil.",
+        "No necesita ningún dato observable ni supuestos de preferencias.",
+        "Su problema central es que el consumo agregado observado fluctúa más que todos los precios accionarios."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El consumo no se observa perfectamente en cada período. Servicios de vivienda, durables y seguros requieren decisiones de medición. Esa dificultad impide garantizar una beta precisa.",
+        "El modelo vincula rendimientos con consumo sin exigir un índice que abarque todos los activos riesgosos. Pero medir servicios de bienes durables y otros consumos requiere imputaciones. La suavidad del consumo medido también dificulta explicar primas accionarias altas sin una aversión al riesgo muy grande.",
+        "La aplicación requiere datos de consumo y una representación de preferencias. Cambiar el riesgo de referencia no elimina la necesidad de estimación. Sin esos insumos no se puede cuantificar el rendimiento requerido.",
+        "El desafío señalado es la suavidad del consumo agregado medido frente a la volatilidad financiera. No una variación sistemáticamente mayor del consumo. Esa baja volatilidad complica la explicación de primas históricas elevadas."
+      ]
+    },
+    {
+      "id": "c09-q053",
+      "tema": "Estructura de la APT",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo representa la APT las fuentes de variación de un rendimiento individual?",
+      "opciones": [
+        "Como una cantidad fija sin sorpresas.",
+        "Como una parte vinculada a factores comunes y un componente específico de la empresa.",
+        "Como un efecto exclusivo del dividendo pasado.",
+        "Como una función del riesgo específico que excluye toda influencia macroeconómica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un modelo de rendimientos no elimina las realizaciones inciertas. Los factores y el ruido generan sorpresas. La APT se apoya en esa estructura para estudiar primas de equilibrio.",
+        "El modelo factorial escribe el rendimiento con un término constante, sensibilidades a factores y ruido específico. Los factores captan influencias compartidas por muchos activos. La diversificación reduce el componente específico, pero no las exposiciones comunes.",
+        "El dividendo pasado no resume shocks de tasas, actividad o energía. La estructura contempla varias influencias comunes posibles. También permite sorpresas propias de la empresa.",
+        "La APT destaca precisamente los riesgos comunes que no se diversifican. El componente específico existe, pero no fundamenta la prima de una cartera diversificada. Excluir la macroeconomía invierte su lógica."
+      ]
+    },
+    {
+      "id": "c09-q054",
+      "tema": "Factores no identificados por la teoría",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista quiere aplicar APT. ¿Qué debe resolver porque la teoría no lo especifica por sí sola?",
+      "opciones": [
+        "Cómo imponer que el mercado nunca sea un factor.",
+        "Cómo asegurar que todos los factores tengan prima positiva.",
+        "Cómo reemplazar las exposiciones por el nombre de cada industria.",
+        "Qué factores usar, qué primas estimar y qué sensibilidades tiene cada activo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El rendimiento del mercado puede ser un factor. La APT no exige incluirlo ni prohíbe hacerlo. Su estructura admite distintas representaciones factoriales.",
+        "Una prima puede ser positiva, negativa o nula según la definición y valoración del factor. No corresponde imponer un signo universal. Deben respetarse los signos al combinar exposiciones y primas.",
+        "Pertenecer a una industria puede orientar una hipótesis sobre exposición. No mide cuantitativamente la sensibilidad a cada factor. Esa sensibilidad debe estimarse o estar dada por el modelo.",
+        "La aplicación exige seleccionar factores comunes relevantes. Luego deben estimarse sus primas esperadas y las sensibilidades de los activos. La teoría de ausencia de arbitraje establece una relación entre esos elementos, pero no proporciona una lista única."
+      ]
+    },
+    {
+      "id": "c09-q055",
+      "tema": "Cálculo multifactorial",
+      "dificultad": "intermedia",
+      "pregunta": "En una APT, la tasa libre de riesgo es 3% y las primas de dos factores son 4% y 2%. Una acción tiene sensibilidades de 1,5 y −0,5. ¿Cuál es su rendimiento esperado?",
+      "opciones": [
+        "8%.",
+        "5%.",
+        "10%.",
+        "12%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La prima conjunta es 1,5×4%+(−0,5)×2%=6%−1%=5%. Esa es la compensación neta por los factores. Al agregar el 3% libre de riesgo, el rendimiento esperado es 8%.",
+        "El 5% es la prima de riesgo conjunta. Para obtener el rendimiento total falta sumar la tasa libre de riesgo. El resultado completo es 8%.",
+        "El 10% reemplaza la sensibilidad negativa por positiva. El segundo factor debe restar un punto a la prima. Respetando su signo, el rendimiento esperado baja a 8%.",
+        "El 12% puede surgir de sumar primas y exposiciones sin aplicar la fórmula. Las sensibilidades multiplican cada prima y no se agregan como puntos porcentuales. La suma ponderada más la tasa libre de riesgo da 8%."
+      ]
+    },
+    {
+      "id": "c09-q056",
+      "tema": "Signos de primas factoriales",
+      "dificultad": "avanzada",
+      "pregunta": "La prima del factor energía es −2%, una acción tiene exposición −1,5 a ese factor y no tiene otras exposiciones. Con tasa libre de riesgo de 4%, ¿qué expectativa implica APT?",
+      "opciones": [
+        "1%.",
+        "3%.",
+        "7%.",
+        "4%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 1% resta tres puntos a la tasa libre de riesgo. Esa resta ignora que tanto exposición como prima son negativas. Su producto es positivo y debe sumarse.",
+        "El 3% es solo la prima factorial de la acción. Falta agregar la tasa libre de riesgo de 4%. El rendimiento total es 7%.",
+        "El aporte factorial es (−1,5)×(−2%)=+3%. Dos signos negativos producen una contribución positiva. Al sumar 4% libre de riesgo, la expectativa es 7%.",
+        "La exposición no es cero y el factor tiene prima distinta de cero. Por eso existe una contribución factorial de tres puntos. No corresponde asignar solamente la tasa libre de riesgo."
+      ]
+    },
+    {
+      "id": "c09-q057",
+      "tema": "Exposiciones de cartera y posiciones cortas",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera tiene pesos 1,2 en A, −0,4 en B y 0,2 en letras. Las exposiciones (factor 1, factor 2) son A=(1; 0,5), B=(0,5; 1) y letras=(0; 0). ¿Qué exposiciones tiene la cartera?",
+      "opciones": [
+        "(1,4; 1).",
+        "(1,5; 1,5).",
+        "(0,8; −0,2).",
+        "(1; 0,2)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta respuesta trata la posición corta de B como una compra. Una posición negativa resta su exposición. Respetando ese signo se obtiene (1; 0,2).",
+        "Se sumaron exposiciones individuales sin usar ponderaciones. El riesgo depende del tamaño y del signo de cada posición. Aplicar los pesos da (1; 0,2).",
+        "Estos valores no surgen de los productos ponderados dados. Los pesos suman uno, pero eso no obliga a que cada exposición coincida con una diferencia de pesos. Deben calcularse por separado los aportes a cada factor.",
+        "Las exposiciones se promedian con pesos que incluyen sus signos. Para el factor 1: 1,2×1−0,4×0,5=1. Para el factor 2: 1,2×0,5−0,4×1=0,2; las letras no aportan exposición."
+      ]
+    },
+    {
+      "id": "c09-q058",
+      "tema": "Arbitraje con exposición nula",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera bien diversificada tiene exposición nula a todos los factores, riesgo residual despreciable y rendimiento de 7%; se puede prestar y endeudarse al 4%. En la idealización APT, ¿qué operación explota el desajuste?",
+      "opciones": [
+        "Vender la cartera y colocar el dinero al 4%.",
+        "Comprar cualquier acción individual con beta cero, sin revisar riesgo residual.",
+        "Endeudarse al 4% para comprar la cartera que rinde 7%.",
+        "No operar porque una prima de tres puntos con riesgo nulo es de equilibrio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta operación renuncia al rendimiento alto y conserva el bajo. En el sentido planteado tendría un diferencial desfavorable. Corresponde comprar la cartera y financiarla a la tasa menor.",
+        "Una acción individual de beta cero puede conservar riesgo específico importante. Eso impide tratarla como un arbitraje seguro. El argumento requiere una cartera diversificada sin exposiciones ni residual relevante.",
+        "La cartera ofrece tres puntos más que la financiación sin aportar riesgo factorial. Comprar financiándose al 4% captura ese diferencial en la idealización dada. La presión sobre precios debería eliminarlo; la diversificación y el residual despreciable son esenciales para el argumento.",
+        "La APT asigna prima nula a esa cartera ideal sin riesgo. Un exceso de tres puntos genera incentivos de arbitraje. No es un rendimiento de equilibrio bajo los supuestos dados."
+      ]
+    },
+    {
+      "id": "c09-q059",
+      "tema": "Arbitraje y carteras equivalentes",
+      "dificultad": "avanzada",
+      "pregunta": "A y B están bien diversificadas y tienen exactamente las mismas exposiciones factoriales, sin riesgo residual relevante. A ofrece 9% y B 7%. Si se permiten ventas en corto, ¿qué estrategia aprovecha el desajuste?",
+      "opciones": [
+        "Comprar B y vender A por igual importe.",
+        "Comprar A y vender B por igual importe.",
+        "Comprar ambas por igual importe sin financiación.",
+        "Vender ambas y concluir que no hay que comparar sensibilidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta dirección deja una rentabilidad de 7%−9%=−2% sobre el importe de cada tramo. Las exposiciones se cancelarían, pero el diferencial sería desfavorable. Para aprovecharlo debe comprarse A y venderse B.",
+        "La compra de A y venta de B cancelan las exposiciones iguales. Los importes iniciales se compensan y queda un diferencial esperado de dos puntos sobre el importe de cada tramo. En la idealización sin residual relevante, esa diferencia contradice la ausencia de arbitraje.",
+        "Comprar ambas mantiene y suma exposiciones factoriales. No aísla el diferencial entre rendimientos. El argumento requiere posiciones opuestas para cancelar los riesgos comunes.",
+        "Vender ambas no cancela sus exposiciones entre sí. La comparación de sensibilidades es justamente lo que permite construir la cobertura. Omitirla impide establecer el arbitraje descrito."
+      ]
+    },
+    {
+      "id": "c09-q060",
+      "tema": "Riesgo residual y validez del arbitraje",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente encuentra una sola acción sin exposición a los factores elegidos y con rendimiento esperado superior al libre de riesgo. ¿Por qué eso no prueba automáticamente un arbitraje?",
+      "opciones": [
+        "Puede conservar riesgo específico relevante o depender de factores omitidos.",
+        "Toda acción sin exposición factorial tiene pagos ciertos.",
+        "La APT remunera necesariamente cada accidente propio de la empresa.",
+        "La diversificación es irrelevante para el argumento de arbitraje."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Exposición nula a los factores elegidos no significa ausencia de toda incertidumbre. Una acción individual puede conservar mucho riesgo específico y el modelo puede omitir factores. Debe comprobarse la estructura de riesgo antes de afirmar que hay una ganancia sin riesgo.",
+        "Los pagos pueden variar por sucesos de la empresa. Además, una lista incompleta de factores puede ocultar exposición común. Cero en las sensibilidades estimadas no garantiza certeza.",
+        "El riesgo específico diversificable no fundamenta una prima en la APT. Su presencia sí impide interpretar una operación individual como segura. Son dos afirmaciones diferentes que deben mantenerse separadas.",
+        "La diversificación permite que el componente específico sea pequeño en el argumento. Sin ella, las diferencias esperadas pueden venir acompañadas de riesgo residual. Por eso no es un detalle prescindible."
+      ]
+    },
+    {
+      "id": "c09-q061",
+      "tema": "APT y CAPM: coincidencias y diferencias",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuándo pueden coincidir las primas que predicen APT y CAPM?",
+      "opciones": [
+        "Solo cuando no existen factores macroeconómicos.",
+        "Siempre, porque APT obliga a usar exclusivamente el mercado.",
+        "Cuando las primas de los factores son consistentes con sus betas de mercado y la representación factorial es compatible.",
+        "Nunca, porque una teoría usa riesgo y la otra no."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las influencias comunes pueden existir en ambos enfoques. La coincidencia depende de cómo se valoran sus exposiciones. No exige eliminar los riesgos macroeconómicos.",
+        "APT no impone al mercado como único factor. Admite una estructura con varios factores y no identifica una lista universal. Esa flexibilidad puede generar predicciones diferentes de CAPM.",
+        "Ambas teorías excluyen como fuente de prima el riesgo específico diversificable. Si las primas de las carteras factoriales se alinean con sus betas de mercado, la combinación de exposiciones puede reproducir CAPM. Fuera de esas condiciones, las predicciones pueden diferir.",
+        "Las dos teorías relacionan rendimiento esperado con exposición a riesgo común. Sus fundamentos y referencias difieren, pero no la importancia del riesgo. Por eso pueden coincidir bajo condiciones compatibles."
+      ]
+    },
+    {
+      "id": "c09-q062",
+      "tema": "Factores de Fama y French",
+      "dificultad": "basica",
+      "pregunta": "¿Qué tres rendimientos factoriales utiliza el modelo de Fama y French tratado aquí?",
+      "opciones": [
+        "Mercado menos tasa libre de riesgo; pequeñas menos grandes; alto contable/mercado menos bajo contable/mercado.",
+        "Mercado total; grandes menos pequeñas; bajo contable/mercado menos alto contable/mercado, sin cambiar signos.",
+        "Inflación, depreciación contable y dividendos pasados de una sola empresa.",
+        "Tres rendimientos libres de riesgo de distintos bancos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer factor es el exceso de rendimiento del mercado. El segundo compara empresas pequeñas con grandes y el tercero acciones de valor con crecimiento. Esas orientaciones fijan el significado de los signos de sensibilidades y primas.",
+        "Se omite descontar la tasa libre de riesgo del primer factor y se invierten los otros dos. Invertir un factor exige ajustar coherentemente sensibilidades y primas. Sin esos cambios no se mantiene la definición indicada.",
+        "Esas variables no son los tres rendimientos de carteras utilizados por este modelo. Pueden orientar otros modelos macroeconómicos. Fama y French usa mercado, tamaño y contable/mercado con definiciones específicas.",
+        "Los factores buscan capturar exposiciones riesgosas comunes. Tres depósitos libres de riesgo no reproducen esas diferencias de rendimientos accionarios. Tampoco identifican los efectos tamaño y valor."
+      ]
+    },
+    {
+      "id": "c09-q063",
+      "tema": "Cálculo con tres factores",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa libre de riesgo es 4% y las primas de mercado, tamaño y valor son 6%, 2% y 4%. Con sensibilidades 1,2; 0,5 y −0,5, ¿qué rendimiento esperado resulta?",
+      "opciones": [
+        "6,2%.",
+        "14,2%.",
+        "12,2%.",
+        "10,2%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 6,2% es la prima conjunta. El rendimiento total también incluye la tasa libre de riesgo. Sumar ese 4% lleva a 10,2%.",
+        "El 14,2% usa un aporte positivo de dos puntos para valor. La sensibilidad a ese factor es negativa. Su aporte correcto es −2%, por lo que el total baja a 10,2%.",
+        "El 12,2% omite el factor valor y conserva solo mercado y tamaño. Hay que restar los dos puntos de su exposición negativa. La expectativa completa es 10,2%.",
+        "La prima es 1,2×6%+0,5×2%−0,5×4%=7,2%+1%−2%=6,2%. Esa suma respeta el signo negativo de la exposición a valor. Al agregar 4% libre de riesgo resulta 10,2%."
+      ]
+    },
+    {
+      "id": "c09-q064",
+      "tema": "Interpretación de sensibilidad negativa",
+      "dificultad": "intermedia",
+      "pregunta": "Una industria tiene sensibilidad de −0,8 al factor alto contable/mercado menos bajo contable/mercado. Si ese factor sorprende con +3 puntos, manteniendo los otros factores constantes, ¿qué interpretación corresponde?",
+      "opciones": [
+        "Un rendimiento realizado total necesariamente de −2,4%.",
+        "Un aporte de −2,4 puntos al rendimiento inesperado de la industria.",
+        "Un aporte de +2,4 puntos porque las acciones de valor mejoraron.",
+        "Un aporte de −0,8 puntos cualquiera sea el cambio del factor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El cálculo representa solo un componente inesperado. El rendimiento total incluye su expectativa y otras sorpresas. Por eso no puede fijarse necesariamente en −2,4%.",
+        "El aporte de una sorpresa se obtiene multiplicándola por la sensibilidad. Aquí es −0,8×3=−2,4 puntos. La industria tiende a rendir relativamente peor cuando el factor valor tiene una sorpresa positiva, sin que eso determine todo su rendimiento.",
+        "La sensibilidad negativa indica exposición en sentido contrario. Una sorpresa positiva del factor produce una contribución negativa. Usar el mismo signo ignora el coeficiente dado.",
+        "El coeficiente expresa respuesta por cada punto del factor. No es un aporte fijo independiente de la sorpresa. Debe multiplicarse por tres y da −2,4 puntos."
+      ]
+    },
+    {
+      "id": "c09-q065",
+      "tema": "Estimación de betas en distintos modelos",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista obtiene beta de mercado distinta al estimar una regresión simple y una regresión con mercado, tamaño y valor. ¿Debe concluir que necesariamente cometió un error?",
+      "opciones": [
+        "Sí; toda beta debe ser idéntica en cualquier regresión.",
+        "No; los coeficientes pueden cambiar al controlar otros factores relacionados con el mercado.",
+        "Sí; agregar factores obliga a que beta sea uno.",
+        "No, porque los coeficientes se eligen libremente para que dé el rendimiento deseado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los coeficientes dependen de la especificación y los datos. Una beta simple no tiene por qué coincidir con el coeficiente parcial de mercado. Deben revisarse metodología y significado antes de declarar un error.",
+        "La regresión simple mide una relación sin controlar los otros factores. La múltiple separa los efectos considerando las demás variables incluidas. Si los factores están relacionados, los coeficientes de mercado pueden diferir sin un error de cálculo.",
+        "Beta uno es la referencia del mercado respecto de sí mismo. Agregar factores no impone ese valor a cada acción. La regresión estima exposiciones a partir de sus covariaciones.",
+        "Los coeficientes deben estimarse con una metodología consistente. Ajustarlos para obtener una respuesta deseada invalida el análisis. La diferencia legítima surge de controlar factores, no de elegir números arbitrarios."
+      ]
+    },
+    {
+      "id": "c09-q066",
+      "tema": "Primas estimadas y utilidad del modelo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora debe decidir entre CAPM y tres factores para estimar el costo de capital de una industria. ¿Qué actitud es razonable?",
+      "opciones": [
+        "Elegir siempre el modelo que dé la menor tasa para aprobar más proyectos.",
+        "Tratar las primas históricas como pagos futuros contractuales.",
+        "Suponer que agregar factores elimina todo error de estimación.",
+        "Reconocer la incertidumbre de primas y sensibilidades, y explicar por qué el modelo elegido representa el riesgo relevante."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una tasa menor aumenta valores presentes, pero no por eso es adecuada. Elegirla por conveniencia puede aprobar inversiones que no compensan su riesgo. El criterio es representar el costo de oportunidad pertinente.",
+        "Una prima histórica resume realizaciones de un período. No es una promesa de rendimientos futuros. Usarla como estimación requiere juicio y admitir incertidumbre.",
+        "Más factores no garantizan datos perfectos ni estabilidad futura. También pueden aumentar la incertidumbre de parámetros. Debe evaluarse la utilidad del modelo y no solamente su complejidad.",
+        "Las primas esperadas y sensibilidades se estiman con error. Un modelo adicional puede captar riesgos omitidos, pero también introduce nuevos parámetros. La elección debe apoyarse en coherencia económica y reconocer la imprecisión del costo de capital."
+      ]
+    },
+    {
+      "id": "c09-q067",
+      "tema": "Administración activa e indexación",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo diversificado tiene correlación muy alta con un índice. Su director concluye que eso prueba que la gestión activa no aporta valor. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "La correlación alta es esperable con exposición común; el valor agregado requiere comparar rendimientos ajustados por riesgo y costos.",
+        "La correlación alta demuestra que la beta del fondo es exactamente uno.",
+        "La correlación alta garantiza que el fondo tiene alfa positivo.",
+        "La única forma de agregar valor es eliminar toda correlación con el mercado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un fondo de acciones diversificado suele compartir los movimientos del mercado. Eso no revela por sí solo si supera una referencia apropiada después de costos. Hay que evaluar el rendimiento esperado o realizado ajustado por exposiciones, sin confundir correlación con alfa.",
+        "Beta también depende de la razón entre volatilidades. Incluso una correlación muy alta puede coexistir con beta distinta de uno. Deben considerarse ambas magnitudes.",
+        "La correlación mide movimiento conjunto y no exceso de rendimiento. Un fondo caro puede seguir muy de cerca al índice y rendir menos. Un alfa positivo requiere otra comparación.",
+        "Un fondo puede agregar valor manteniendo una exposición importante al mercado. Eliminar correlación puede cambiar su mandato y no garantiza buena rentabilidad. Lo relevante es el resultado adicional para los riesgos y costos asumidos."
+      ]
+    },
+    {
+      "id": "c09-q068",
+      "tema": "Cantidad de covarianzas e insumos",
+      "dificultad": "avanzada",
+      "pregunta": "Para optimizar una cartera de 100 acciones sin estructura factorial simplificadora, ¿cuántas varianzas y covarianzas distintas deben estimarse, sin contar rendimientos esperados?",
+      "opciones": [
+        "100 varianzas y 10.000 covarianzas distintas.",
+        "Una varianza y 100 covarianzas.",
+        "100 varianzas y 4.950 covarianzas distintas.",
+        "100 varianzas y 100 covarianzas distintas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una matriz de 100 por 100 tiene 10.000 celdas en total. Pero incluye las varianzas diagonales y repite cada covarianza dos veces. El número de covarianzas diferentes es 4.950.",
+        "Una sola varianza no describe los riesgos de 100 títulos. Cada acción necesita su riesgo individual y cada par una relación conjunta. Sin simplificar la estructura se requieren 100 varianzas y 4.950 covarianzas.",
+        "Hay una varianza por acción, por lo que son 100. Cada par distinto aporta una covarianza y hay 100×99/2=4.950 pares. La simetría evita contar dos veces cada relación y explica la carga de insumos del problema.",
+        "La cantidad de pares crece aproximadamente con el cuadrado del número de títulos. No existe solamente una covarianza por acción. Para 100 acciones se cuentan 4.950 pares distintos."
+      ]
+    },
+    {
+      "id": "c09-q069",
+      "tema": "Anualización del riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista estima una desviación mensual de √3%, aproximadamente 1,732%. Si los rendimientos mensuales no están autocorrelacionados y tienen igual varianza, ¿qué desviación anual aproximada obtiene con la regla de agregación de varianzas?",
+      "opciones": [
+        "20,78%.",
+        "3%.",
+        "1,732%.",
+        "6%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 20,78% multiplica aproximadamente 1,732% por 12. Esa regla suma desviaciones como si las sorpresas mensuales fueran perfectamente correlacionadas. Bajo el supuesto dado se suman varianzas y el resultado es 6%.",
+        "El 3 es el valor numérico de la varianza mensual al medir rendimientos en puntos porcentuales. No es una desviación anual. Deben agregarse doce varianzas y extraer la raíz, lo que da 6%.",
+        "El 1,732% conserva el riesgo mensual sin ajustar el horizonte. Un año contiene doce períodos con incertidumbre. Bajo los supuestos dados, su desviación agregada es mayor e igual a 6%.",
+        "Las varianzas de doce períodos no correlacionados se suman. Por eso la desviación se multiplica por √12, no por 12. El resultado es √3%×√12=√36%=6%, bajo la aproximación de agregación indicada."
+      ]
+    },
+    {
+      "id": "c09-q070",
+      "tema": "Factor con prima nula y estabilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora identifica un factor común que mueve muchas acciones, pero cuya prima esperada es cero. Además, sus exposiciones cambian con el tiempo. ¿Qué conclusión es correcta?",
+      "opciones": [
+        "Toda influencia común debe tener una prima positiva y estable.",
+        "La prima nula demuestra que no puede mover los rendimientos.",
+        "El factor puede aportar variabilidad sin aportar prima esperada, y la inestabilidad de exposiciones dificulta usar el modelo.",
+        "La ausencia de arbitraje garantiza que las sensibilidades futuras sean constantes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una influencia puede no ser valorada como un riesgo que requiera compensación. Su prima tampoco tiene que ser positiva según cómo se defina el factor. La teoría no garantiza estabilidad temporal de esos parámetros.",
+        "La prima describe compensación esperada y no amplitud de las sorpresas. Un factor con prima nula puede seguir variando y afectar acciones. Confundir expectativa con volatilidad lleva a excluirlo sin fundamento.",
+        "La contribución a la prima es sensibilidad multiplicada por prima factorial. Si esta última es cero, el aporte esperado es cero aunque el factor genere variación de rendimientos. La relación de valoración puede ser válida y aun así resultar poco útil si las exposiciones no se pueden estimar de forma estable.",
+        "La ausencia de arbitraje restringe relaciones de precios y rendimientos para exposiciones dadas. No obliga a que las empresas mantengan siempre el mismo negocio o sensibilidad. Una aplicación práctica debe revisar cambios de parámetros."
+      ]
+    }
+  ]
+}

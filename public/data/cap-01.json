@@ -1,0 +1,1146 @@
+{
+  "capitulo": 1,
+  "titulo": "Las finanzas y el director financiero",
+  "preguntas": [
+    {
+      "id": "c01-q001",
+      "tema": "Decisiones financieras",
+      "dificultad": "basica",
+      "pregunta": "¿Cuáles son las dos decisiones financieras centrales de una empresa?",
+      "opciones": [
+        "Qué productos vender y qué colores usar en el envase.",
+        "Cómo aumentar ventas y evitar siempre cualquier deuda.",
+        "En qué activos invertir y cómo financiarlos.",
+        "Cómo aumentar el tamaño y repartir todo el efectivo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esas elecciones comerciales pueden afectar los resultados, pero no resumen las decisiones financieras. También hay que determinar qué recursos comprometer y cómo obtenerlos. La estrategia comercial no reemplaza el análisis de inversión y financiamiento.",
+        "Vender más no garantiza crear valor si los recursos cuestan más que los beneficios que generan. Además, la deuda es una fuente posible de financiamiento. El objetivo financiero exige evaluar activos y fuentes de fondos sin descartar una categoría de antemano.",
+        "La inversión determina qué recursos productivos se incorporan a la empresa. El financiamiento establece de dónde proviene el dinero para pagarlos. Ambas decisiones deben contribuir a aumentar el valor para los accionistas.",
+        "Una empresa más grande puede destruir valor si invierte mal. Repartir todo el efectivo tampoco es siempre conveniente cuando existen buenas oportunidades y obligaciones pendientes. Las decisiones deben relacionar inversión, financiamiento y creación de valor."
+      ]
+    },
+    {
+      "id": "c01-q002",
+      "tema": "Formas de organización",
+      "dificultad": "basica",
+      "pregunta": "¿Qué rasgo distingue a una corporación de una empresa individual y de una sociedad de personas?",
+      "opciones": [
+        "Su personalidad jurídica separada de los accionistas.",
+        "La obligación de que todos sus dueños trabajen en ella.",
+        "La prohibición de emitir acciones.",
+        "La necesidad de tener miles de accionistas desde su creación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La corporación es una entidad legal diferente de quienes poseen sus acciones. Una empresa individual pertenece directamente a una persona y una sociedad de personas reúne socios bajo otra forma organizativa. Tener varios propietarios no basta para constituir una corporación.",
+        "Los accionistas pueden aportar capital sin intervenir en la operación. La gestión suele delegarse en administradores profesionales. La separación entre propietarios y administradores es precisamente una característica importante de la corporación.",
+        "Las acciones representan participaciones en la propiedad de la corporación. Emitirlas permite reunir aportes de distintos inversores. La prohibición propuesta elimina uno de los mecanismos característicos de esta forma de organización.",
+        "Una corporación puede comenzar con pocos propietarios. La cantidad de accionistas no determina por sí sola su personalidad jurídica. Puede permanecer cerrada aunque crezca considerablemente."
+      ]
+    },
+    {
+      "id": "c01-q003",
+      "tema": "Corporación cerrada y pública",
+      "dificultad": "basica",
+      "pregunta": "En este contexto, ¿qué caracteriza a una corporación pública frente a una cerrada?",
+      "opciones": [
+        "Pertenece necesariamente al gobierno.",
+        "Debe operar obligatoriamente en varios países.",
+        "Tiene que ser administrada por sus clientes.",
+        "Sus acciones se ofrecen al público inversionista."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La palabra pública no describe aquí la propiedad estatal. Describe que las acciones están abiertas al público inversionista. Una empresa privada en cuanto a sus dueños puede ser pública en este sentido financiero.",
+        "El alcance geográfico no determina cómo se ofrecen las acciones. Una empresa internacional puede continuar cerrada. Para distinguir ambas categorías hay que mirar el acceso al capital accionario.",
+        "Los clientes no adquieren funciones de administración por comprar productos. El gobierno societario corresponde a sus órganos y la gestión a quienes se designen. La apertura al público se refiere a invertir en acciones, no a dirigir el negocio como cliente.",
+        "La distinción se refiere al acceso del público a las acciones. Una corporación cerrada conserva su capital en un grupo restringido de inversores. Ser pública en este sentido no equivale a pertenecer al Estado ni a tener una gran cantidad de fábricas."
+      ]
+    },
+    {
+      "id": "c01-q004",
+      "tema": "Gobierno y directorio",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo ejercen normalmente los accionistas el gobierno de una corporación grande?",
+      "opciones": [
+        "Cada uno aprueba personalmente todas las compras operativas.",
+        "Eligen un directorio que designa y supervisa a los principales ejecutivos.",
+        "El banco principal elige siempre al directorio en nombre de todos.",
+        "Solo pueden elegir directores que ya sean empleados."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La participación cotidiana de miles de propietarios haría impracticable la gestión. Por eso se delega autoridad en órganos y administradores. Poseer una acción no obliga a aprobar cada compra de insumos.",
+        "Los propietarios delegan funciones de gobierno en un directorio elegido mediante votación. Este representa sus intereses y controla a la alta administración. Puede integrar tanto ejecutivos como miembros que no trabajan en la compañía.",
+        "Un banco tiene los derechos que surgen de su relación contractual como acreedor. Eso no lo convierte automáticamente en representante de los accionistas. La elección del directorio corresponde normalmente a los propietarios mediante sus votos.",
+        "El directorio puede incluir integrantes externos a la plantilla de la empresa. Su función es gobernar y supervisar, no necesariamente ejecutar tareas operativas. Excluir a los miembros no ejecutivos confunde gobierno y empleo."
+      ]
+    },
+    {
+      "id": "c01-q005",
+      "tema": "Continuidad y transferencia de propiedad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ventaja ofrece separar la propiedad de la administración?",
+      "opciones": [
+        "Permite reemplazar dueños o gerentes sin terminar necesariamente la empresa.",
+        "Garantiza que la empresa nunca quiebre.",
+        "Impide vender acciones mientras existan proyectos en marcha.",
+        "Obliga al fundador a administrar durante toda su vida."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La identidad jurídica de la corporación continúa aunque cambien personas. Un accionista puede vender su participación y un gerente puede ser reemplazado sin liquidar los activos. Esto también permite contratar administradores profesionales para proyectos de larga duración.",
+        "La continuidad jurídica no impide pérdidas ni insolvencia. Una corporación puede fracasar económicamente. La ventaja es que un cambio de dueño o administrador no obliga por sí mismo a cerrar el negocio.",
+        "La transferencia de participaciones facilita la continuidad de los proyectos. El nuevo comprador sustituye al vendedor como propietario sin retirar una parte de la planta. Impedir toda venta no es el fundamento de esta ventaja corporativa.",
+        "La corporación puede sobrevivir al retiro de su fundador. También puede designar profesionales con capacidades distintas. La permanencia de la entidad no exige la permanencia de una persona en su administración."
+      ]
+    },
+    {
+      "id": "c01-q006",
+      "tema": "Responsabilidad limitada",
+      "dificultad": "basica",
+      "pregunta": "Un accionista no otorgó garantías personales. ¿Qué significa que su responsabilidad sea limitada?",
+      "opciones": [
+        "La empresa le garantiza recuperar el precio de sus acciones.",
+        "La corporación solo debe pagar una fracción fija de sus préstamos.",
+        "Puede perder su inversión, pero no debe pagar con su patrimonio personal las deudas corporativas.",
+        "Los acreedores no pueden reclamar contra los activos corporativos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La responsabilidad limitada no asegura el valor de las acciones. Los acreedores pueden absorber todo el valor disponible en una insolvencia. El accionista conserva la protección de su patrimonio personal, pero puede perder lo invertido.",
+        "La corporación sigue obligada por sus deudas completas. La limitación se refiere al patrimonio personal de los accionistas. No reduce automáticamente los importes pactados con los acreedores.",
+        "Las obligaciones corresponden a la corporación como entidad separada. La participación del accionista puede perder todo su valor si el negocio fracasa. La protección no asegura recuperar la inversión, sino que evita exigirle aportes personales adicionales por esas deudas.",
+        "Los activos de la entidad respaldan sus obligaciones. Lo protegido es el patrimonio personal separado del accionista sin garantías adicionales. Confundir ambos patrimonios elimina indebidamente los derechos de los acreedores."
+      ]
+    },
+    {
+      "id": "c01-q007",
+      "tema": "Personalidad jurídica y estatutos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación es correcta sobre la constitución y las capacidades legales de una corporación?",
+      "opciones": [
+        "Los estatutos pueden dejar sin efecto cualquier ley de la jurisdicción.",
+        "Sus estatutos deben ajustarse a la ley aplicable y la entidad puede contratar, demandar y ser demandada.",
+        "Debe constituirse donde realiza la mayor cantidad de ventas.",
+        "Su personalidad separada le impide recomprar acciones o fusionarse."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los documentos internos no habilitan a ignorar el marco legal aplicable. Deben organizar la entidad respetando esas normas. Tener personalidad jurídica genera capacidades y obligaciones, no inmunidad legal.",
+        "La corporación actúa como persona jurídica separada. Sus documentos constitutivos regulan aspectos como las acciones autorizadas y los órganos de gobierno dentro del marco legal. El lugar de constitución puede diferir del lugar donde se concentra su actividad comercial.",
+        "El domicilio de constitución no coincide necesariamente con el principal mercado de ventas. Una empresa puede elegir una jurisdicción de registro dentro de las posibilidades legales. Después debe cumplir también las normas que correspondan a sus operaciones.",
+        "La entidad puede realizar operaciones sobre su capital y participar en combinaciones empresariales dentro de la ley. La personalidad jurídica no prohíbe por sí sola esas transacciones. Permite que la propia corporación actúe como parte de contratos y reorganizaciones."
+      ]
+    },
+    {
+      "id": "c01-q008",
+      "tema": "Costos de la forma corporativa",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación identifica dos posibles desventajas de organizarse como corporación?",
+      "opciones": [
+        "Responsabilidad personal ilimitada y prohibición de captar capital accionario.",
+        "Imposibilidad de contratar gerentes y cierre obligatorio si un accionista fallece.",
+        "Ausencia de personalidad jurídica y de obligaciones tributarias.",
+        "Costos legales y de comunicación con accionistas, y posible doble imposición sobre utilidades distribuidas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La responsabilidad limitada y la captación mediante acciones son características de la corporación. Esta alternativa las presenta invertidas. Las desventajas relevantes incluyen costos de estructura y posibles efectos fiscales, no esa combinación.",
+        "La corporación puede contratar administradores profesionales. Su existencia tampoco depende de la vida de cada propietario. Esas posibilidades explican ventajas de continuidad, no restricciones inherentes a la forma corporativa.",
+        "La corporación tiene personalidad jurídica separada. Además, puede pagar impuestos por sus propios resultados. La tributación sucesiva de utilidades y dividendos es justamente uno de los costos posibles del sistema descrito.",
+        "Mantener la estructura societaria y relacionarse con los propietarios demanda recursos. En un régimen sin integración, la utilidad puede tributar en la empresa y el dividendo en manos del accionista. La carga concreta depende del sistema fiscal y no debe universalizarse a todos los países."
+      ]
+    },
+    {
+      "id": "c01-q009",
+      "tema": "Activos reales",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál de estos conjuntos contiene únicamente activos reales?",
+      "opciones": [
+        "Una acción, un pagaré y un bono.",
+        "Una marca, un terreno y un depósito bancario.",
+        "Una planta, una patente y la experiencia técnica de un equipo.",
+        "Una máquina, un edificio y un bono corporativo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Estos instrumentos representan derechos financieros. Su titular participa en una entidad o tiene un derecho de cobro. No deben confundirse con los recursos productivos que la entidad utiliza para desarrollar su actividad.",
+        "La marca y el terreno son activos reales. El depósito bancario es un derecho de cobro frente al banco y, por eso, un activo financiero. El conjunto combina ambas categorías en lugar de incluir solo recursos reales.",
+        "Los activos reales sostienen la producción de bienes o servicios. Incluyen recursos físicos y capacidades intangibles que contribuyen a generar flujos futuros. Su clasificación no depende de que puedan tocarse ni de cómo aparezcan registrados contablemente.",
+        "La máquina y el edificio son recursos físicos productivos. El bono constituye un derecho contractual frente a su emisor. Financiar activos reales no convierte al título en un activo real para su tenedor."
+      ]
+    },
+    {
+      "id": "c01-q010",
+      "tema": "Activos financieros y perspectiva",
+      "dificultad": "basica",
+      "pregunta": "Desde el punto de vista de quien los posee, ¿qué tienen en común una acción, un préstamo otorgado y un saldo en cuenta bancaria?",
+      "opciones": [
+        "Son activos financieros, aunque sus derechos y riesgos sean distintos.",
+        "Son deudas del titular frente al emisor.",
+        "Son recursos materiales que producen bienes directamente.",
+        "Garantizan exactamente el mismo rendimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La acción representa una participación y los otros instrumentos representan derechos de cobro. Esa relación con otra entidad los convierte en activos financieros para su titular. No implica que prometan iguales pagos, garantías o vencimientos.",
+        "Para quien posee el derecho constituyen activos. En un préstamo, la obligación de devolver corresponde al prestatario, no al prestamista. La clasificación exige identificar desde qué participante se observa el instrumento.",
+        "Los tres son derechos financieros, no equipos de producción. Su valor se vincula con pagos o participaciones en otra entidad. Los recursos que permiten fabricar o prestar servicios se clasifican como activos reales.",
+        "Una acción no promete necesariamente pagos fijos como un préstamo. Los depósitos también pueden tener condiciones diferentes. La categoría común no elimina diferencias de riesgo, prioridad o rentabilidad."
+      ]
+    },
+    {
+      "id": "c01-q011",
+      "tema": "Circuito de fondos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué secuencia describe el circuito básico entre inversores y operaciones de la empresa?",
+      "opciones": [
+        "Generar todas las ventas antes de obtener cualquier activo necesario.",
+        "Contar cada préstamo recibido como efectivo generado por la producción.",
+        "Repartir todo ingreso y dejar de cumplir los pagos de deuda.",
+        "Captar fondos, comprar activos reales, generar efectivo y reinvertirlo o devolverlo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La operación requiere recursos para producir y vender. El esquema identifica primero la obtención de fondos y su aplicación en activos reales. No puede suponerse que los activos iniciales se financian con ventas que todavía no pueden generarse.",
+        "El préstamo es una entrada de financiamiento. No constituye una venta ni una generación operativa de fondos. Distinguir origen y destino permite reconocer los compromisos que acompañan a los recursos obtenidos.",
+        "La elección entre reinvertir y distribuir no es completamente libre. Los préstamos generan obligaciones de devolución e intereses. Ignorarlas confunde fondos disponibles con fondos que pueden repartirse sin restricciones.",
+        "La colocación de derechos financieros permite obtener dinero. La empresa lo aplica a recursos productivos que pueden generar efectivo mediante la operación. Después decide sus usos, respetando obligaciones con acreedores y otras restricciones."
+      ]
+    },
+    {
+      "id": "c01-q012",
+      "tema": "Separación de decisiones",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué significa analizar por separado una inversión y su financiamiento?",
+      "opciones": [
+        "Aceptar cualquier proyecto que un banco quiera financiar.",
+        "Evaluar primero si el proyecto vale más que su costo y luego estudiar cómo obtener fondos.",
+        "Ignorar las alternativas de inversión de los accionistas.",
+        "Conseguir primero la mayor deuda posible y buscar después dónde gastarla."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El banco puede estar protegido por garantías o por otros flujos del prestatario. Su disposición a prestar no asegura que el proyecto beneficie a los accionistas. Hace falta evaluar el valor de los activos frente al costo de adquirirlos.",
+        "La calidad económica de la inversión no se demuestra por conseguir un préstamo. Primero se analiza si los activos crean valor y luego cómo financiarlos. Los mercados siguen siendo relevantes porque brindan alternativas con las que comparar el rendimiento.",
+        "Los accionistas pueden colocar sus recursos fuera de la empresa. Esas alternativas permiten juzgar si el rendimiento corporativo resulta adecuado. Separar inversión y financiamiento no elimina el costo de oportunidad.",
+        "Disponer de dinero no justifica comprar cualquier activo. Esa conducta puede inducir inversiones que destruyen valor. El punto de partida debe ser una oportunidad económicamente atractiva y después su financiamiento."
+      ]
+    },
+    {
+      "id": "c01-q013",
+      "tema": "Rendimiento adecuado",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es la referencia adecuada para evaluar el rendimiento ofrecido a los accionistas por un proyecto?",
+      "opciones": [
+        "Alternativas de mercado de riesgo y plazo comparables.",
+        "Cualquier tasa positiva, aunque sea inferior a una alternativa equivalente.",
+        "Siempre la tasa del instrumento más seguro, sin considerar el proyecto.",
+        "Un importe de ganancia idéntico para todas las inversiones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los accionistas pueden invertir su dinero en otros activos. La empresa debe ofrecer una compensación coherente con esas oportunidades comparables. Un resultado positivo no basta si remunera insuficientemente el capital, el tiempo y el riesgo asumidos.",
+        "Ganar dinero no demuestra que convenga mantenerlo dentro de la empresa. Una alternativa comparable puede generar un rendimiento mayor. El análisis debe incorporar esa oportunidad que se abandona al elegir el proyecto.",
+        "Una alternativa muy segura puede exigir una compensación menor que un proyecto riesgoso. Usarla sin considerar diferencias subestima el rendimiento requerido. La comparación debe mantener condiciones de riesgo y plazo razonablemente equivalentes.",
+        "La misma ganancia puede ser elevada para un capital pequeño e insuficiente para uno grande. El plazo y el riesgo también importan. Por eso se necesita una referencia comparable, no una cantidad monetaria fija para todos los proyectos."
+      ]
+    },
+    {
+      "id": "c01-q014",
+      "tema": "Mercados de dinero y capital",
+      "dificultad": "basica",
+      "pregunta": "En sentido estricto, ¿cómo se distinguen el mercado de dinero y el mercado de capital?",
+      "opciones": [
+        "El primero negocia solo billetes y el segundo máquinas.",
+        "El primero es solo para empresas cerradas y el segundo solo para públicas.",
+        "El primero atiende financiamiento de menos de un año y el segundo financiamiento de largo plazo.",
+        "El primero no tiene riesgo y el segundo siempre produce pérdidas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ambos se refieren a instrumentos y fuentes de financiamiento. Las máquinas corresponden a los activos reales. La palabra dinero no limita el mercado a intercambiar efectivo físico.",
+        "Una empresa puede utilizar fuentes de corto y largo plazo cualquiera sea esa clasificación. El acceso concreto depende de sus condiciones e instrumentos. La distinción conceptual entre estos mercados responde al vencimiento.",
+        "La distinción se basa en el horizonte del financiamiento. La expresión mercados financieros puede abarcar ambas categorías. No depende de que el pago se haga con billetes, transferencias o documentos electrónicos.",
+        "Ninguna categoría garantiza por sí sola un resultado. El riesgo depende del emisor y del instrumento. El plazo permite clasificarlos, pero no promete seguridad absoluta ni pérdidas inevitables."
+      ]
+    },
+    {
+      "id": "c01-q015",
+      "tema": "Liquidez y canalización del ahorro",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación describe funciones importantes de los mercados financieros?",
+      "opciones": [
+        "Garantizar que cualquier proyecto financiado resulte exitoso.",
+        "Canalizar ahorro hacia inversiones y facilitar que los inversores negocien sus títulos.",
+        "Obligar a cerrar una fábrica cada vez que un accionista vende.",
+        "Asegurar el mismo precio a todos los compradores y vendedores para siempre."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Conseguir fondos no elimina los riesgos operativos o comerciales. Una inversión puede fracasar aun después de acceder al mercado. Canalizar ahorro es una función del sistema, no una promesa de rentabilidad universal.",
+        "La captación de fondos conecta a quienes ahorran con inversiones productivas. La negociación de títulos permite ajustar carteras sin liquidar los activos de la empresa. La liquidez facilita vender, pero no garantiza conservar el precio de compra.",
+        "En una venta entre inversores cambia el dueño del título. Los activos de la corporación pueden seguir operando sin modificación. Esa separación permite que el inversor tenga liquidez sin exigir la liquidación del proyecto.",
+        "Las cotizaciones cambian con expectativas e información. Poder negociar no implica vender al precio histórico. Confundir liquidez con precio garantizado oculta el riesgo de mercado de los títulos."
+      ]
+    },
+    {
+      "id": "c01-q016",
+      "tema": "Diversificación y riesgos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué consecuencia tiene que los accionistas puedan diversificar por su cuenta?",
+      "opciones": [
+        "Desaparece cualquier riesgo de mercado para los accionistas.",
+        "Hay que comprar negocios distintos aunque cuesten más de lo que valen.",
+        "Se pueden ignorar los riesgos que paralizan la producción.",
+        "La empresa no necesita diversificarse solo para reproducir una cartera que sus dueños pueden armar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La diversificación compensa parte de los riesgos particulares de las inversiones. No elimina movimientos comunes que afectan al conjunto del mercado. Por eso una cartera diversificada no es automáticamente una cartera sin riesgo.",
+        "La variedad de negocios no justifica destruir valor. Los propietarios pueden diversificar sin imponer una adquisición sobrevaluada a la empresa. La inversión corporativa debe conservar el criterio de beneficio económico para los accionistas.",
+        "La diversificación personal no evita que una interrupción dañe la operación. La empresa puede necesitar coberturas para proteger pagos y continuidad. El manejo de riesgos debe evaluarse por sus efectos sobre el funcionamiento y el valor.",
+        "Los inversores pueden repartir su dinero entre distintos títulos. Así reducen riesgos específicos sin exigir que cada corporación opere en muchos negocios. Subsisten riesgos de mercado y puede seguir siendo útil cubrir riesgos que amenazan la operación de la empresa."
+      ]
+    },
+    {
+      "id": "c01-q017",
+      "tema": "Instituciones e información financiera",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué uso de instituciones y mercados es razonable para un director financiero?",
+      "opciones": [
+        "Suponer que todos los fondos de pensiones tienen prohibido comprar acciones.",
+        "Tratar a cualquier banco como proveedor obligatorio de capital sin evaluar la solicitud.",
+        "Consultar tasas y cotizaciones, y buscar asesoramiento especializado para emitir valores o negociar una fusión.",
+        "Reemplazar toda evaluación de proyectos por mirar una sola cotización."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los fondos de pensiones pueden ser importantes inversores institucionales. También pueden aportar capital otros fondos, bancos y aseguradoras mediante distintos instrumentos. Excluirlos por definición reduce incorrectamente el conjunto de fuentes financieras.",
+        "Las instituciones analizan condiciones, riesgos y necesidades antes de comprometer fondos. El director financiero debe entender cómo será evaluada su propuesta. La existencia de un intermediario no obliga a aceptar cualquier pedido de crédito.",
+        "Los mercados brindan información sobre tasas, materias primas y valores de empresas. Las instituciones también ofrecen financiamiento y servicios, como apoyo en emisiones y fusiones. La cotización puede aportar señales sobre la gestión, pero requiere interpretación y no reemplaza todo análisis interno.",
+        "Un precio de mercado sintetiza información y expectativas, pero no explica automáticamente cada proyecto. Los datos internos y los supuestos siguen siendo necesarios. La información del mercado complementa el juicio profesional en lugar de sustituirlo."
+      ]
+    },
+    {
+      "id": "c01-q018",
+      "tema": "Finanzas internacionales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué la actividad internacional amplía las responsabilidades financieras?",
+      "opciones": [
+        "Porque exige coordinar inversiones y fondos bajo monedas, inflación, tasas e impuestos diferentes.",
+        "Porque obliga a pedir todos los préstamos al banco de la ciudad de origen.",
+        "Porque vender en muchos países elimina la administración de efectivo.",
+        "Porque todos los países aplican iguales tasas e impuestos a una multinacional."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los activos y los proveedores de fondos pueden estar distribuidos entre varios países. Esto afecta la evaluación de inversiones y la gestión cotidiana de cobros y pagos. La ubicación de la sede no resume todas las condiciones económicas y fiscales relevantes.",
+        "Las empresas pueden recurrir a fuentes financieras internacionales. Los préstamos y los títulos no están necesariamente limitados por la frontera de la sede. El análisis debe considerar alternativas de fondos además de la ubicación de los activos.",
+        "La cantidad de cobros, pagos y monedas suele aumentar la complejidad de la tesorería. La expansión no elimina la necesidad de coordinar disponibilidades. Puede hacer más importante el seguimiento de los flujos por país y por moneda.",
+        "Las condiciones financieras y fiscales pueden variar entre jurisdicciones. La empresa debe identificar esas diferencias para evaluar sus decisiones. Ser multinacional no homogeneiza los entornos donde opera."
+      ]
+    },
+    {
+      "id": "c01-q019",
+      "tema": "Responsabilidad financiera compartida",
+      "dificultad": "basica",
+      "pregunta": "¿Quién puede participar en decisiones de inversión fuera del área financiera?",
+      "opciones": [
+        "Solo el tesorero, porque ningún otro cargo puede proponer activos.",
+        "Solo los accionistas que además sean empleados.",
+        "Nadie fuera del directorio puede analizar proyectos.",
+        "Un ingeniero que diseña una planta y un gerente de marketing que impulsa una campaña con beneficios futuros."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las inversiones suelen requerir conocimientos de varias áreas. Producción y marketing pueden definir recursos y beneficios esperados. El tesorero tiene responsabilidades específicas, pero no concentra toda decisión de inversión.",
+        "Ser dueño no exige trabajar en la operación. Los especialistas y administradores actúan por delegación dentro de sus atribuciones. La capacidad de proponer una inversión no depende de reunir simultáneamente ambas condiciones.",
+        "El directorio puede reservarse la aprobación final de inversiones importantes. Eso no impide que distintas áreas preparen y evalúen las propuestas. Confundir análisis con autorización final elimina una colaboración necesaria.",
+        "El diseño de la planta determina activos reales que la empresa incorporará. Una campaña puede construir un recurso intangible que genere ventas futuras. La naturaleza financiera depende del compromiso de recursos y sus consecuencias, no del nombre del departamento."
+      ]
+    },
+    {
+      "id": "c01-q020",
+      "tema": "Tesorero, contralor y CFO",
+      "dificultad": "basica",
+      "pregunta": "¿Qué reparto de funciones corresponde a una corporación grande?",
+      "opciones": [
+        "Tesorero: impuestos; contralor: captar capital; CFO: solo registrar facturas.",
+        "Tesorero: fondos y bancos; contralor: contabilidad e impuestos; CFO: política financiera y planeamiento.",
+        "Tesorero: elegir el directorio; contralor: declarar dividendos por sí solo; CFO: representar a los clientes.",
+        "Tesorero: producción; contralor: publicidad; CFO: exclusivamente ventas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La alternativa intercambia las especialidades del tesorero y el contralor. Además, reduce el papel estratégico del CFO a una tarea de registro. La coordinación de la política financiera exige una responsabilidad más amplia.",
+        "El tesorero obtiene y administra capital y mantiene relaciones con inversores y bancos. El contralor prepara información contable y atiende obligaciones fiscales. El CFO supervisa esas funciones y participa en decisiones de política y planeamiento corporativo.",
+        "Elegir el directorio corresponde a los accionistas y declarar dividendos es una atribución de gobierno societario. No son decisiones personales del tesorero o del contralor. El CFO tiene responsabilidades financieras y administrativas, no una representación automática de clientes.",
+        "Esas áreas pueden influir en las inversiones, pero no definen estos cargos financieros. El tesorero administra fondos y el contralor información contable y fiscal. El CFO articula esas funciones con la política y el planeamiento de la empresa."
+      ]
+    },
+    {
+      "id": "c01-q021",
+      "tema": "Agencia y partes interesadas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué descripción identifica correctamente relaciones de agencia y conflictos de intereses?",
+      "opciones": [
+        "Los accionistas delegan en gerentes; también hay agencia con empleados y conflictos posibles con acreedores.",
+        "Solo hay agencia cuando se demuestra un delito del gerente.",
+        "Los accionistas y los bancos siempre prefieren exactamente las mismas decisiones.",
+        "Un propietario que administra elimina todos los conflictos con cualquier tercero."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los accionistas son principales y los gerentes actúan como agentes en la relación central. La alta dirección también delega tareas en empleados y pasa a ser principal en esa relación. Acreedores, trabajadores y Estado tienen intereses en los recursos de la empresa que no siempre coinciden con los de los dueños.",
+        "La divergencia de intereses puede producir pérdidas sin constituir un delito. También puede requerir gastos de supervisión para prevenir decisiones inconvenientes. El concepto económico es más amplio que el fraude comprobado.",
+        "En dificultades financieras pueden discrepar sobre cuánto riesgo asumir. Los acreedores buscan proteger sus cobros y los accionistas pueden tener incentivos diferentes. Incluso los propios acreedores pueden competir por una mejor prioridad de pago.",
+        "La coincidencia entre dueño y gerente elimina ese conflicto específico de delegación. No elimina automáticamente diferencias con empleados o prestamistas. Es necesario identificar cada relación antes de concluir que no existen problemas de agencia."
+      ]
+    },
+    {
+      "id": "c01-q022",
+      "tema": "Contratos incompletos e información",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué un contrato detallado no elimina automáticamente todos los problemas de agencia?",
+      "opciones": [
+        "Porque los contratos bancarios no pueden fijar tasas ni fechas de pago.",
+        "Porque cualquier información diferente demuestra una mentira.",
+        "No puede prever toda contingencia y las partes suelen tener información diferente.",
+        "Porque una cláusula escrita no genera ninguna obligación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esas son condiciones centrales que sí pueden pactarse. El problema no es la imposibilidad de escribir obligaciones básicas. La dificultad reside en cubrir todas las contingencias y verificar toda la información relevante.",
+        "Los administradores pueden conocer detalles internos que los inversores no observan, incluso actuando honestamente. Esa diferencia es una asimetría informativa. El desafío es transmitir información creíble sin suponer que toda ventaja informativa implica engaño.",
+        "El contrato puede fijar intereses, vencimientos y restricciones sobre deuda o dividendos. Sin embargo, no anticipa todas las decisiones y circunstancias futuras. La información desigual vuelve necesarios mecanismos de supervisión, incentivos y credibilidad adicionales.",
+        "Los contratos establecen obligaciones y derechos importantes. Que sean incompletos no significa que carezcan de efectos. Su límite es no resolver por adelantado todas las situaciones ni alinear necesariamente todos los incentivos."
+      ]
+    },
+    {
+      "id": "c01-q023",
+      "tema": "Áreas del trabajo financiero",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conjunto reúne áreas de decisión financiera además de la inversión inicial?",
+      "opciones": [
+        "Solo registrar hechos pasados, porque las expectativas no importan.",
+        "Deuda y dividendos, opciones, gestión de riesgos, capital de trabajo y control corporativo.",
+        "Eliminar todos los riesgos, sin considerar su costo.",
+        "Solo aprobar fusiones, porque cobrar a clientes no tiene efecto financiero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las decisiones financieras comprometen recursos a cambio de consecuencias futuras. Los registros históricos aportan información, pero no reemplazan los pronósticos y la evaluación de riesgos. Limitar el campo a registrar operaciones omite inversión, financiamiento y planeamiento.",
+        "La política financiera incluye endeudamiento y pagos a accionistas. Las opciones pueden integrar títulos o inversiones reales, y el corto plazo exige gestionar efectivo, valores temporales y cuentas por cobrar. Las fusiones, el gobierno y las diferencias institucionales entre países también forman parte del campo.",
+        "La empresa debe distinguir riesgos que conviene asumir de aquellos que conviene reducir. Eliminar toda incertidumbre puede ser imposible o demasiado caro. La gestión de riesgos debe relacionarse con la continuidad operativa y el valor.",
+        "Las cuentas por cobrar inmovilizan recursos y afectan las necesidades de fondos. Las fusiones son una parte de las decisiones corporativas, no su totalidad. La administración financiera abarca tanto decisiones estratégicas como necesidades cotidianas de liquidez."
+      ]
+    },
+    {
+      "id": "c01-q024",
+      "tema": "Juicio profesional y sesgos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué actitud profesional resulta adecuada al tomar decisiones financieras?",
+      "opciones": [
+        "Aplicar reglas memorizadas sin revisar las circunstancias.",
+        "Tomar el entusiasmo del gerente como evidencia suficiente de rentabilidad.",
+        "Suponer que ya existe una respuesta exacta para toda situación.",
+        "Combinar herramientas, información especializada y juicio, reconociendo sesgos y problemas aún abiertos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los proyectos difieren en sus riesgos, plazos y condiciones. Una regla aplicada mecánicamente puede ignorar datos decisivos. El análisis financiero requiere interpretar información y revisar supuestos, además de dominar herramientas.",
+        "La convicción personal no demuestra que los ingresos justifiquen la inversión. El optimismo excesivo puede sesgar las estimaciones. Es necesario contrastar los pronósticos con evidencia y alternativas relevantes.",
+        "Hay cuestiones financieras abiertas y decisiones bajo incertidumbre. El conocimiento disponible no constituye un manual infalible. La investigación y el juicio siguen siendo importantes para enfrentar problemas nuevos.",
+        "Las herramientas ordenan el análisis, pero no sustituyen toda la experiencia y el criterio profesional. La información de medios especializados y la investigación ayudan a revisar supuestos desde perspectivas diferentes. Reconocer el exceso de confianza y los límites del conocimiento evita tratar un pronóstico como una certeza."
+      ]
+    },
+    {
+      "id": "c01-q025",
+      "tema": "Participación accionaria y dividendos",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene 120.000 acciones iguales en circulación y distribuye $240.000 en dividendos. Una inversora posee 3.000 acciones. ¿Cuánto recibe, sin impuestos?",
+      "opciones": [
+        "$2.400.",
+        "$60.000.",
+        "$6.000.",
+        "$240.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe equivale al 1% del dividendo total, pero la inversora posee el 2,5%. Se debe dividir su cantidad de acciones por el total en circulación. La distribución proporcional arroja $6.000.",
+        "Este resultado atribuye una participación del 25%, diez veces la real. Las 3.000 acciones sobre 120.000 representan el 2,5%. Multiplicar esa proporción por $240.000 da $6.000.",
+        "Su participación es 3.000 / 120.000 = 2,5%. El dividendo por acción es $240.000 / 120.000 = $2. Aplicando cualquiera de los dos caminos, recibe 3.000 × $2 = $6.000.",
+        "El total distribuido corresponde al conjunto de los accionistas. La inversora no posee todas las acciones. Su derecho proporcional es del 2,5%, equivalente a $6.000."
+      ]
+    },
+    {
+      "id": "c01-q026",
+      "tema": "Votos y concentración accionaria",
+      "dificultad": "basica",
+      "pregunta": "Hay 80.000 acciones con un voto cada una. Un fondo posee 12.000 y una persona posee 400. ¿Qué porcentaje de votos tiene cada uno?",
+      "opciones": [
+        "El fondo tiene 15% y la persona 0,5%.",
+        "Ambos tienen 50% porque hay dos propietarios identificados.",
+        "El fondo tiene 12% y la persona 4%.",
+        "El fondo tiene 30% y la persona 1%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El fondo reúne 12.000 / 80.000 = 15% de los votos. La persona reúne 400 / 80.000 = 0,5%. Con acciones de igual derecho, la proporción de votos coincide con la proporción de acciones.",
+        "El voto se asigna por acción en el supuesto indicado, no por persona. Los demás títulos siguen existiendo aunque no se identifique a sus dueños. Las proporciones se calculan sobre las 80.000 acciones y son 15% y 0,5%.",
+        "Los números de acciones no se convierten directamente en porcentajes. Hay que dividir cada tenencia por el total de 80.000. Ese denominador produce 15% para el fondo y 0,5% para la persona.",
+        "Ambas proporciones duplican las verdaderas, como si solo hubiera 40.000 acciones. El total informado es 80.000. Por eso corresponde atribuir 15% y 0,5% de los votos, respectivamente."
+      ]
+    },
+    {
+      "id": "c01-q027",
+      "tema": "Insolvencia y responsabilidad limitada",
+      "dificultad": "intermedia",
+      "pregunta": "Una corporación debe $900.000 y sus activos se liquidan por $600.000, sin costos adicionales. Un accionista había invertido $20.000 y no dio garantías personales. ¿Qué pierde y cuánto debe aportar adicionalmente por esas deudas?",
+      "opciones": [
+        "Pierde $20.000 y debe pagar personalmente los $300.000 faltantes.",
+        "Recupera $20.000 porque la responsabilidad limitada asegura el capital.",
+        "Conserva un tercio de su inversión porque la deuda supera a los activos en un tercio.",
+        "Pierde los $20.000 invertidos y no debe aportar fondos personales adicionales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado desconoce la responsabilidad limitada. La insuficiencia de activos no convierte automáticamente al accionista en deudor personal. Sin garantías adicionales, arriesga su inversión, pero no debe cubrir el faltante corporativo.",
+        "La protección no garantiza el reembolso de las acciones. Los $600.000 disponibles son menores que los $900.000 adeudados. Sin remanente después de atender a los acreedores, su participación pierde el valor invertido.",
+        "La pérdida de la acción no se calcula prorrateando el faltante sobre su inversión. Primero se atienden los derechos de los acreedores con los activos disponibles. Como no queda remanente, las acciones valen cero en esta liquidación.",
+        "Los activos no alcanzan para cubrir la deuda y no queda remanente para las acciones. El accionista pierde el valor de su inversión de $20.000. La diferencia de $300.000 pertenece a la insolvencia de la entidad y no se traslada a su patrimonio personal bajo el supuesto indicado."
+      ]
+    },
+    {
+      "id": "c01-q028",
+      "tema": "Responsabilidad personal ilimitada",
+      "dificultad": "intermedia",
+      "pregunta": "Para este ejercicio, el dueño de una empresa individual responde ilimitadamente. El negocio debe $300.000 y sus activos cubren $220.000. Si tiene patrimonio personal suficiente, ¿qué faltante puede reclamársele?",
+      "opciones": [
+        "$0, porque toda forma de empresa tiene responsabilidad limitada.",
+        "$80.000.",
+        "$220.000, porque ese es el valor de los activos.",
+        "$300.000 adicionales, sin usar los activos del negocio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La responsabilidad limitada no se aplica indistintamente a todas las formas organizativas. El ejercicio establece expresamente responsabilidad ilimitada. Por eso los $80.000 no cubiertos por los activos del negocio pueden alcanzar al dueño.",
+        "El faltante es $300.000 − $220.000 = $80.000. Bajo el supuesto de responsabilidad ilimitada, puede reclamarse ese saldo al patrimonio personal del titular. A diferencia del accionista protegido por responsabilidad limitada, no arriesga únicamente los recursos asignados al negocio.",
+        "Ese importe ya está disponible dentro del negocio para cubrir deudas. La responsabilidad personal adicional se refiere al saldo que permanece impago. Al restar activos de deuda, el faltante es $80.000.",
+        "Los activos empresariales aportan $220.000 al pago indicado. Exigir nuevamente la deuda completa ignoraría esa cobertura. El saldo que puede alcanzar al titular es la diferencia de $80.000."
+      ]
+    },
+    {
+      "id": "c01-q029",
+      "tema": "Doble imposición",
+      "dificultad": "intermedia",
+      "pregunta": "Una corporación gana $100.000 antes de impuestos. En un régimen hipotético sin créditos fiscales, paga 30% y distribuye todo el remanente; el accionista paga 20% sobre el dividendo. ¿Cuánto conserva finalmente?",
+      "opciones": [
+        "$56.000.",
+        "$50.000.",
+        "$70.000.",
+        "$80.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La corporación paga $30.000 y puede distribuir $70.000. El accionista paga 20% de $70.000, es decir $14.000. Conserva $56.000 y la carga total sobre la ganancia original es $44.000.",
+        "Este resultado suma directamente las tasas de 30% y 20%. La segunda tasa se aplica sobre $70.000, no sobre los $100.000 iniciales. La imposición sucesiva deja $56.000, equivalente al 56% de la utilidad original.",
+        "Este importe solo descuenta el impuesto corporativo. Falta aplicar el 20% sobre el dividendo recibido por el accionista. Después de pagar $14.000 adicionales, el dinero neto es $56.000.",
+        "Este resultado solo considera el impuesto personal sobre la utilidad inicial. Omite que primero la corporación paga $30.000. El dividendo es de $70.000 y el neto final del accionista es $56.000."
+      ]
+    },
+    {
+      "id": "c01-q030",
+      "tema": "Crédito fiscal por impuesto corporativo",
+      "dificultad": "avanzada",
+      "pregunta": "Un régimen hipotético permite imputar íntegramente el impuesto corporativo. Sobre una utilidad de $100.000 la empresa paga $30.000 y distribuye $70.000; el accionista calcula un impuesto total de 35% sobre la utilidad bruta de $100.000 y acredita los $30.000 ya pagados. ¿Cuánto efectivo neto conserva?",
+      "opciones": [
+        "$45.500.",
+        "$35.000.",
+        "$65.000.",
+        "$70.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este cálculo aplica 35% al dividendo de $70.000 y omite el mecanismo de crédito especificado. La base indicada es la utilidad bruta de $100.000. Después de acreditar $30.000, solo se pagan $5.000 adicionales y quedan $65.000.",
+        "Esta alternativa resta de los $70.000 el impuesto total de $35.000 sin usar el crédito. Eso vuelve a cobrar una parte que el régimen reconoce como ya pagada. La obligación adicional es $5.000 y el neto es $65.000.",
+        "El impuesto total calculado para el accionista es $35.000. El crédito de $30.000 deja solo $5.000 adicionales por pagar. Al restarlos del dividendo en efectivo de $70.000, conserva $65.000 y se evita sumar íntegramente ambos impuestos.",
+        "El crédito no cubre toda la obligación calculada al 35%. Los $35.000 de impuesto total exceden en $5.000 lo ya pagado por la empresa. Ese saldo reduce el dividendo neto a $65.000."
+      ]
+    },
+    {
+      "id": "c01-q031",
+      "tema": "Captación y uso de fondos",
+      "dificultad": "basica",
+      "pregunta": "Una empresa emite acciones por $500.000 y recibe un préstamo por $300.000. Compra equipos por $650.000 y conserva el resto en el banco, sin otros movimientos. ¿Cuánto queda en la cuenta?",
+      "opciones": [
+        "$800.000.",
+        "$150.000.",
+        "$450.000.",
+        "−$150.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este resultado cuenta los fondos captados, pero omite la compra de equipos. El efectivo se reduce al adquirir activos reales. Después de ese pago quedan $150.000 en el banco.",
+        "Las entradas de financiamiento suman $500.000 + $300.000 = $800.000. La compra de equipos utiliza $650.000. El saldo bancario es $150.000 y no debe confundirse con una utilidad operativa.",
+        "Este saldo surge de no tratar correctamente una de las entradas o la salida. Tanto la emisión de acciones como el préstamo aportan efectivo. El cálculo completo es $500.000 + $300.000 − $650.000 = $150.000.",
+        "Este resultado omite el préstamo de $300.000 y compara solo acciones con equipos. El préstamo también integra los recursos recibidos. Al incluir todas las entradas, la cuenta conserva un saldo positivo de $150.000."
+      ]
+    },
+    {
+      "id": "c01-q032",
+      "tema": "Reinversión y devolución de fondos",
+      "dificultad": "intermedia",
+      "pregunta": "La operación genera $240.000 disponibles. La empresa debe pagar $70.000 de capital de deuda y $10.000 de intereses, y decide distribuir $60.000 en dividendos. Sin otros usos, ¿cuánto puede reinvertir?",
+      "opciones": [
+        "$170.000.",
+        "$180.000.",
+        "$110.000.",
+        "$100.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado solo resta la amortización de capital. Omite los intereses y el dividendo acordado. Para identificar lo reinvertible deben deducirse todos los usos indicados, lo que deja $100.000.",
+        "Aquí solo se descuenta el dividendo de $60.000. La devolución a los accionistas no sustituye los pagos obligatorios a acreedores. Después de atender también capital e intereses quedan $100.000.",
+        "Este importe resta el capital y los dividendos, pero olvida $10.000 de intereses. Los intereses son otro uso del efectivo disponible. Su inclusión reduce el saldo reinvertible a $100.000.",
+        "Los pagos a acreedores suman $70.000 + $10.000 = $80.000. Los dividendos usan otros $60.000. Del efectivo generado quedan $240.000 − $80.000 − $60.000 = $100.000 para reinvertir."
+      ]
+    },
+    {
+      "id": "c01-q033",
+      "tema": "Obligaciones de deuda",
+      "dificultad": "basica",
+      "pregunta": "Una empresa recibe hoy un préstamo de $200.000 por un año al 10%, con capital e interés pagaderos al vencimiento. Sin comisiones ni otros cargos, ¿cuánto debe devolver entonces?",
+      "opciones": [
+        "$20.000.",
+        "$200.000.",
+        "$220.000.",
+        "$180.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este es solo el importe de los intereses. El contrato también exige devolver el principal. Sumando ambos componentes, el compromiso al vencimiento asciende a $220.000.",
+        "Este resultado devuelve el principal, pero no remunera el préstamo. La tasa pactada exige otros $20.000 al cabo del año. El pago completo es $220.000.",
+        "El interés anual es $200.000 × 10% = $20.000. Al vencimiento también se devuelve el capital de $200.000. El pago total de $220.000 muestra que captar fondos crea obligaciones futuras y no ingresos gratuitos.",
+        "Restar el interés al principal invierte el sentido del compromiso. El prestatario debe pagar intereses al prestamista, no descontarlos del capital al vencer. Por eso la devolución es $200.000 más $20.000."
+      ]
+    },
+    {
+      "id": "c01-q034",
+      "tema": "Creación de valor de una inversión",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto requiere $400.000 y una evaluación económica ya realizada estima que sus flujos futuros valen hoy $460.000. Sin efectos adicionales de financiamiento, ¿cuánto valor agrega?",
+      "opciones": [
+        "$60.000.",
+        "$460.000.",
+        "$860.000.",
+        "−$60.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor actual de los beneficios ya está dado y es $460.000. Para medir lo creado se resta el desembolso de $400.000. La diferencia de $60.000 favorece la inversión, sin necesidad de volver a descontar la cifra informada.",
+        "Este importe representa los beneficios valuados hoy, no el valor neto creado. Para obtenerlos hay que comprometer $400.000. El incremento neto es la diferencia de $60.000.",
+        "Sumar costo y beneficios trata un desembolso como si fuera una ganancia. La inversión consume fondos para obtener los flujos futuros. El valor creado se calcula restando el costo y resulta $60.000.",
+        "Este signo aparece si se invierte el orden de la comparación. Los beneficios valen más que el desembolso requerido. Por eso el proyecto agrega $60.000 en lugar de destruirlos."
+      ]
+    },
+    {
+      "id": "c01-q035",
+      "tema": "Proyecto destructivo pese al crédito",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina cuesta $300.000 y el valor económico actual de sus beneficios, ya calculado, es $270.000. Un banco ofrece prestar los $300.000. Sin subsidios ni otros efectos, ¿qué conclusión corresponde?",
+      "opciones": [
+        "La inversión agrega $300.000 porque el banco entrega ese dinero.",
+        "La inversión queda exactamente equilibrada porque todo se financia con deuda.",
+        "La inversión agrega $30.000 porque el precio supera a los beneficios.",
+        "La inversión destruye $30.000 de valor; disponer del préstamo no corrige esa diferencia."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El dinero prestado no es una ganancia para los accionistas. Va acompañado por un compromiso de devolución. La comparación relevante de inversión sigue siendo $270.000 menos $300.000, que arroja −$30.000.",
+        "Financiar el costo completo evita un aporte inicial de acciones, pero no elimina el costo económico. La máquina sigue valiendo menos que lo que se paga por ella. Sin otros efectos, se destruyen $30.000 de valor.",
+        "Pagar más de lo que valen los beneficios perjudica al comprador. La diferencia favorable exigiría beneficios mayores que el costo. Aquí el saldo es negativo en $30.000.",
+        "Los beneficios valen $270.000 y obtenerlos cuesta $300.000. La diferencia es una pérdida de valor de $30.000. El préstamo provee fondos, pero también genera obligaciones y no transforma por sí solo la calidad económica del activo."
+      ]
+    },
+    {
+      "id": "c01-q036",
+      "tema": "Rendimiento y alternativa de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto usa $200.000 y devuelve en total $224.000 al cabo de un año. Una alternativa de igual riesgo y plazo rinde 10%. ¿Cuál es la comparación correcta?",
+      "opciones": [
+        "El proyecto rinde 112% y supera a la alternativa en $204.000.",
+        "El proyecto rinde 12% y devuelve $4.000 más que la alternativa.",
+        "El proyecto rinde 10% porque esa es la tasa de mercado.",
+        "El proyecto rinde 2% porque se resta 10 a 12."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 112% incluye la recuperación del capital y no es la tasa de ganancia. El rendimiento se calcula sobre el excedente de $24.000. La tasa correcta es 12% y la diferencia final es $4.000.",
+        "La ganancia es $224.000 − $200.000 = $24.000, equivalente al 12% del capital. La alternativa produciría $220.000 al final del año. Para el mismo desembolso, el proyecto ofrece $4.000 adicionales bajo las condiciones comparables indicadas.",
+        "La tasa de mercado es la referencia de comparación, no una sustitución de los flujos del proyecto. Los flujos propios generan $24.000 sobre $200.000. Su rendimiento es 12%, superior al 10% comparable.",
+        "Los dos puntos porcentuales expresan la ventaja sobre la referencia. No representan el rendimiento total del proyecto. Este es 12%, y esa ventaja equivale a $4.000 sobre $200.000 durante el año."
+      ]
+    },
+    {
+      "id": "c01-q037",
+      "tema": "Ganancia positiva y costo de oportunidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $500.000 devuelve $530.000 dentro de un año. Otra de igual riesgo y plazo devolvería $540.000. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "Rinde 6%, frente a 8% de la alternativa, y deja de generar $10.000 al final del año.",
+        "Es necesariamente conveniente porque genera $30.000 de ganancia.",
+        "Rinde 8% porque esa es la mejor tasa disponible.",
+        "Tiene una pérdida monetaria de $10.000 sobre el capital invertido."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El proyecto gana $30.000 sobre $500.000, es decir 6%. La alternativa gana $40.000, equivalente al 8%. Aunque el proyecto tenga ganancia positiva, ofrece $10.000 menos para el mismo capital, plazo y riesgo.",
+        "La ganancia positiva no basta para evaluar el uso de los fondos. La alternativa comparable genera $40.000. Elegir el proyecto implica renunciar a $10.000 adicionales al final del mismo período.",
+        "La rentabilidad del proyecto se deriva de sus propios flujos. Su ganancia es $30.000, no $40.000. La tasa de 8% pertenece a la alternativa y sirve para mostrar la insuficiencia del 6% ofrecido.",
+        "El proyecto devuelve el capital y agrega $30.000. Los $10.000 son una desventaja frente a otra oportunidad, no una pérdida nominal del principal. Conviene distinguir ganancia monetaria de costo de oportunidad."
+      ]
+    },
+    {
+      "id": "c01-q038",
+      "tema": "Retener o distribuir fondos",
+      "dificultad": "avanzada",
+      "pregunta": "Hay $100.000 disponibles sin obligaciones pendientes. Reinvertirlos dejaría $105.000 en un año; distribuirlos permitiría a los accionistas obtener $110.000 en una alternativa de igual riesgo y plazo. Sin impuestos ni otros efectos, ¿qué opción conviene?",
+      "opciones": [
+        "Reinvertirlos, porque los fondos propios no tienen costo de oportunidad.",
+        "Reinvertirlos, porque una ganancia de $5.000 siempre es suficiente.",
+        "Distribuirlos, porque la alternativa ofrece $5.000 más al final del año.",
+        "Ambas decisiones son equivalentes porque comienzan con $100.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El dinero retenido pertenece económicamente a los accionistas. Estos podrían obtener un rendimiento fuera de la empresa. La oportunidad de ganar 10% constituye una referencia aunque no se paguen intereses explícitos por usar esos fondos.",
+        "El importe positivo debe compararse con las alternativas disponibles. Aquí otro uso comparable genera $10.000. Retener los fondos reduce en $5.000 el resultado final que podrían obtener los accionistas.",
+        "La reinversión interna rinde 5% y la alternativa de los accionistas rinde 10%. Para el mismo capital y condiciones, la alternativa produce $5.000 adicionales. La empresa no debería retener fondos solo para ampliar su tamaño cuando remunera insuficientemente a los dueños.",
+        "Compartir el desembolso inicial no implica compartir los beneficios finales. Los resultados de $105.000 y $110.000 son distintos. La diferencia relevante es de $5.000 al mismo plazo y riesgo."
+      ]
+    },
+    {
+      "id": "c01-q039",
+      "tema": "Nueva emisión y participación",
+      "dificultad": "intermedia",
+      "pregunta": "Una corporación tiene 80.000 acciones. Emite 20.000 nuevas a $10 cada una, sin costos, y un accionista conserva sus 8.000 acciones sin comprar más. ¿Cuánto capta la empresa y qué porcentaje tiene luego ese accionista?",
+      "opciones": [
+        "Capta $1.000.000 y el accionista conserva 10%.",
+        "Capta $200.000 y el accionista pasa a tener 8%.",
+        "Capta $200.000 y el accionista pasa a tener 40%.",
+        "No capta fondos porque las emisiones son siempre ventas entre accionistas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Solo las acciones nuevas generan la entrada de esta emisión. Además, la participación debe recalcularse sobre las 100.000 acciones totales. La empresa capta $200.000 y el porcentaje del accionista es 8%.",
+        "La colocación aporta 20.000 × $10 = $200.000. Después hay 100.000 acciones en circulación. Las 8.000 acciones representan 8% del nuevo total, sin que esa caída porcentual pruebe por sí sola una pérdida de riqueza.",
+        "El 40% surge de dividir 8.000 por las 20.000 acciones nuevas. La participación se mide sobre todas las acciones después de la emisión. Ese total es 100.000 y produce una participación de 8%.",
+        "Una emisión primaria coloca títulos nuevos y aporta recursos al emisor. No debe confundirse con la negociación de acciones ya existentes. En este caso ingresan $200.000 a la corporación."
+      ]
+    },
+    {
+      "id": "c01-q040",
+      "tema": "Negociación secundaria y liquidez",
+      "dificultad": "basica",
+      "pregunta": "Una accionista vende a otro inversor 1.000 acciones ya existentes a $30 cada una, sin costos. ¿Cuánto efectivo recibe la empresa por esa operación?",
+      "opciones": [
+        "$30.000, porque toda compraventa de acciones financia directamente al emisor.",
+        "$15.000, porque el dinero se divide por mitades entre empresa y vendedora.",
+        "−$30.000, porque vender acciones obliga a la empresa a reembolsarlas.",
+        "$0; los $30.000 los recibe la vendedora."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La captación directa ocurre cuando la empresa coloca títulos propios nuevos u obtiene otros fondos. Aquí quien vende es una accionista y el pago le corresponde a ella. La corporación recibe $0 en esta transacción.",
+        "No se ha establecido una distribución de ese tipo. La accionista transmite su derecho y recibe el precio acordado. Sin costos ni participación del emisor en la venta, los $30.000 son para la vendedora.",
+        "Una venta entre inversores no es un rescate ni una recompra corporativa. La empresa no paga al vendedor en esta operación. El comprador aporta el efectivo y la empresa conserva sus recursos.",
+        "La transacción cambia el propietario de títulos ya emitidos. El comprador entrega 1.000 × $30 = $30.000 a la accionista que vende. La empresa no emite acciones nuevas ni recibe dinero por esta negociación secundaria."
+      ]
+    },
+    {
+      "id": "c01-q041",
+      "tema": "Clasificación cuantitativa de activos",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa posee una planta valuada en $400.000, una patente en $100.000, un depósito bancario de $80.000 y bonos de otra empresa por $20.000. ¿Cuánto corresponde a activos reales y cuánto a financieros?",
+      "opciones": [
+        "$400.000 reales y $200.000 financieros.",
+        "$580.000 reales y $20.000 financieros.",
+        "$500.000 reales y $100.000 financieros.",
+        "$600.000 reales y ningún activo financiero."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta clasificación trata la patente como financiera por ser intangible. Lo intangible también puede ser un activo real si contribuye a producir beneficios. Al incluir la patente con la planta, los activos reales suman $500.000.",
+        "El depósito no es un recurso productivo físico ni una capacidad intangible. Es un derecho frente al banco y debe clasificarse como financiero. Por eso los derechos financieros suman $100.000, no solo los bonos.",
+        "La planta y la patente son recursos productivos, aunque solo la primera sea tangible. Sus valores suman $500.000. El depósito y los bonos son derechos financieros y suman $100.000.",
+        "La propiedad de un activo no determina que sea real. Los depósitos y los bonos son derechos sobre pagos de otras entidades. Se deben separar $500.000 de recursos reales y $100.000 de activos financieros."
+      ]
+    },
+    {
+      "id": "c01-q042",
+      "tema": "Necesidad de fondos de corto plazo",
+      "dificultad": "intermedia",
+      "pregunta": "La tesorería comienza el mes con $40.000, cobrará $90.000 y deberá pagar $160.000. Todos los cobros ocurren antes de los pagos y el saldo final mínimo deseado es cero. ¿Cuál es el financiamiento mínimo necesario?",
+      "opciones": [
+        "$30.000.",
+        "$70.000.",
+        "$160.000.",
+        "$0, porque los cobros son positivos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los recursos disponibles son $40.000 + $90.000 = $130.000. Los pagos superan ese importe en $30.000. Dado que no hay un desfasaje intramensual adicional, ese financiamiento alcanza para terminar con saldo cero.",
+        "Este importe compara pagos y cobros del mes, pero ignora el efectivo inicial. Los $40.000 disponibles también pueden atender obligaciones. La necesidad neta es $160.000 − $90.000 − $40.000 = $30.000.",
+        "El total de pagos no es igual a la necesidad de financiamiento externo. La tesorería ya cuenta con efectivo y recibirá cobros antes de pagar. Al utilizar ambos recursos, solo necesita $30.000 adicionales.",
+        "Tener entradas no garantiza poder cubrir todas las salidas. El efectivo inicial más los cobros suma $130.000 frente a $160.000 de pagos. El faltante de $30.000 requiere una fuente adicional de fondos."
+      ]
+    },
+    {
+      "id": "c01-q043",
+      "tema": "Costos de agencia y supervisión",
+      "dificultad": "avanzada",
+      "pregunta": "Sin conflictos, una empresa valdría $2.000.000. Las decisiones oportunistas causan una pérdida de valor de $100.000. Un control cuyo costo total en valor actual es $20.000 reduciría esa pérdida a $30.000. Sin otros efectos, ¿qué mejora neta genera implementarlo?",
+      "opciones": [
+        "$70.000.",
+        "$20.000.",
+        "$100.000.",
+        "$50.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese es el ahorro bruto al reducir la pérdida de $100.000 a $30.000. Falta descontar el costo del control de $20.000. La mejora neta para los propietarios es $50.000.",
+        "El costo de supervisión no es el beneficio de aplicarla. Hay que compararlo con la pérdida que logra evitar. Se ahorran $70.000 y se gastan $20.000, por lo que el beneficio neto es $50.000.",
+        "El mecanismo no elimina toda la pérdida y tampoco es gratuito. Quedan $30.000 de pérdida residual y se agregan $20.000 de supervisión. La mejora neta frente a la situación inicial es $50.000.",
+        "Sin control se pierden $100.000 respecto del valor potencial. Con control, el costo conjunto es $30.000 de pérdida residual más $20.000 de supervisión, es decir $50.000. El valor neto mejora en $50.000, de $1.900.000 a $1.950.000."
+      ]
+    },
+    {
+      "id": "c01-q044",
+      "tema": "Costo de agencia de privilegios",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente elige una oficina de lujo que cuesta $50.000 más que otra funcionalmente equivalente. Ese costo adicional reduce el valor para los accionistas y solo aporta comodidad personal al gerente. ¿Qué costo de agencia identifica el caso?",
+      "opciones": [
+        "$0, porque toda compra autorizada por un gerente crea valor.",
+        "$50.000 por una decisión que favorece al agente a costa de los propietarios.",
+        "$100.000, porque hay que contar el costo dos veces.",
+        "Una ganancia de $50.000 para la empresa porque aumenta la comodidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Tener autoridad no garantiza alinear los intereses con los propietarios. El ejercicio establece que el gasto adicional no mejora la actividad. La pérdida de $50.000 surge justamente del uso de esa autoridad en beneficio personal.",
+        "Las dos oficinas ofrecen la misma utilidad empresarial según el supuesto. El desembolso adicional beneficia personalmente al administrador y reduce el valor de los dueños. Por eso los $50.000 constituyen una pérdida atribuible al conflicto de intereses.",
+        "El costo incremental informado es de $50.000 y ya mide el efecto sobre el valor. No corresponde duplicarlo por aparecer en una decisión del gerente y en el patrimonio de los accionistas. Son dos perspectivas del mismo perjuicio.",
+        "La comodidad privada del gerente no equivale al valor recibido por los accionistas. El supuesto excluye beneficios empresariales adicionales. La empresa soporta una reducción de valor de $50.000, no una ganancia."
+      ]
+    },
+    {
+      "id": "c01-q045",
+      "tema": "Balance entre monitoreo y pérdida residual",
+      "dificultad": "avanzada",
+      "pregunta": "Sin supervisión, un conflicto genera una pérdida esperada de valor de $50.000. Un plan de monitoreo cuesta $40.000 y deja una pérdida residual de $20.000, todos importes en valor actual. Sin otros beneficios, ¿conviene implementarlo?",
+      "opciones": [
+        "No: eleva el costo total de agencia a $60.000, unos $10.000 más.",
+        "Sí: toda reducción de la pérdida residual mejora el valor.",
+        "Sí: ahorra $30.000 porque la pérdida baja de $50.000 a $20.000.",
+        "Es indiferente: el monitoreo cuesta menos que la pérdida original."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sin monitoreo el costo es $50.000. Con el plan hay $40.000 de supervisión más $20.000 de pérdida residual, totalizando $60.000. La reducción de la conducta perjudicial no compensa el costo del mecanismo propuesto.",
+        "La pérdida residual baja, pero el control consume recursos. Ignorar ese gasto lleva a recomendar mecanismos demasiado caros. El costo conjunto aumenta de $50.000 a $60.000 y reduce el valor en $10.000.",
+        "Los $30.000 son el beneficio bruto del monitoreo. Para obtenerlos hay que pagar $40.000. El efecto neto es una pérdida de $10.000 frente a no aplicar ese plan.",
+        "Comparar solo $40.000 con $50.000 omite la pérdida que todavía queda. Con el control se mantienen $20.000 de perjuicio residual. El total de $60.000 supera al escenario inicial y no es indiferente."
+      ]
+    },
+    {
+      "id": "c01-q046",
+      "tema": "Atribuciones del directorio",
+      "dificultad": "intermedia",
+      "pregunta": "El tesorero propone declarar dividendos y lanzar una oferta pública de acciones sin elevar las decisiones a ningún otro órgano. Según el esquema de gobierno corporativo presentado, ¿qué corresponde?",
+      "opciones": [
+        "Permitirlo porque manejar efectivo otorga toda autoridad societaria.",
+        "Pedir al contralor que lo autorice únicamente porque registra las operaciones.",
+        "Someter esas decisiones a la autorización del directorio según sus atribuciones.",
+        "Pedir autorización a cada cliente antes de decidir."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Administrar fondos es una responsabilidad operativa especializada. No transfiere automáticamente el poder de declarar dividendos o autorizar emisiones públicas. Es necesario distinguir preparación y ejecución de una operación de su aprobación institucional.",
+        "Registrar y controlar información no sustituye la competencia del directorio. El contralor puede informar sobre consecuencias contables y fiscales. La decisión societaria debe seguir el proceso de autorización correspondiente.",
+        "El tesorero puede preparar alternativas y organizar la captación de fondos. Eso no equivale a asumir por sí solo las atribuciones del órgano de gobierno. La declaración de dividendos y la autorización de una emisión pública requieren la intervención del directorio en el esquema planteado.",
+        "Los clientes no forman por esa condición el órgano de gobierno corporativo. Su relación comercial no les asigna la autorización de dividendos y emisiones. El esquema distribuye esas atribuciones entre propietarios, directorio y administradores."
+      ]
+    },
+    {
+      "id": "c01-q047",
+      "tema": "Presupuesto de capital y coordinación",
+      "dificultad": "avanzada",
+      "pregunta": "Una multinacional evalúa construir una planta en otro país. El CFO pretende aprobarla usando solo un informe de deuda local, sin consultar a producción, marketing ni especialistas fiscales. ¿Qué enfoque mejora la decisión?",
+      "opciones": [
+        "Aprobarla si el préstamo cubre todo el costo, sin otro análisis.",
+        "Coordinar una evaluación conjunta del proyecto y de las condiciones económicas y fiscales de su ubicación.",
+        "Excluir a marketing porque sus estimaciones no afectan los flujos futuros.",
+        "Aplicar automáticamente los impuestos y la inflación de la sede."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cobertura financiera no demuestra que la planta cree valor. Pueden faltar demanda, eficiencia productiva o una evaluación fiscal adecuada. Se debe analizar primero la calidad económica de la inversión y coordinar después su financiamiento.",
+        "El CFO organiza el presupuesto de capital, pero necesita aportes técnicos y comerciales para estimar recursos y beneficios. La ubicación internacional agrega monedas, inflación, tasas e impuestos que no se resumen en una tasa de préstamo. Una inversión grande también debe elevarse al órgano que tenga la atribución de aprobarla.",
+        "La demanda y las decisiones comerciales influyen en los ingresos del proyecto. Separar las áreas no elimina esa interdependencia. El análisis conjunto permite relacionar capacidad productiva, ventas y recursos comprometidos.",
+        "El país donde opera el proyecto puede tener condiciones diferentes. Usar los parámetros de la sede sin verificar su pertinencia distorsiona los flujos y los riesgos. La evaluación debe reflejar el entorno relevante para la inversión."
+      ]
+    },
+    {
+      "id": "c01-q048",
+      "tema": "Funciones en una empresa pequeña",
+      "dificultad": "basica",
+      "pregunta": "Una empresa pequeña tiene un único ejecutivo financiero que administra caja, busca préstamos y mantiene relaciones con bancos. ¿Qué cargo describe mejor esas tareas?",
+      "opciones": [
+        "Contralor, porque su función principal es conseguir capital.",
+        "Director no ejecutivo, porque realiza pagos cotidianos.",
+        "Accionista, porque solo un propietario puede negociar préstamos.",
+        "Tesorero."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La obtención de capital se asocia principalmente con el tesorero. El contralor se concentra en información contable, control e impuestos. Que una empresa reúna tareas en pocas personas no elimina la distinción conceptual entre funciones.",
+        "Un director no ejecutivo integra el gobierno de la empresa sin trabajar como ejecutivo en ella. La gestión diaria del efectivo es una función operativa. La descripción corresponde a tesorería, no a ese rol de supervisión.",
+        "La negociación puede delegarse en administradores. Ser propietario no es un requisito conceptual para gestionar los fondos de la empresa. El puesto que mejor representa esas tareas es el de tesorero.",
+        "Las tareas se concentran en obtener y administrar fondos. La relación con bancos también es una responsabilidad típica de tesorería. En una empresa pequeña esas funciones pueden quedar reunidas en un único ejecutivo financiero."
+      ]
+    },
+    {
+      "id": "c01-q049",
+      "tema": "Expansión y problema de agencia",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente quiere adquirir un negocio poco atractivo porque administrar una compañía más grande aumentaría su prestigio. Reconoce que la operación reduciría el valor para los accionistas. ¿Cuál es el diagnóstico central?",
+      "opciones": [
+        "Una inversión conveniente, porque el tamaño mide siempre el éxito financiero.",
+        "Un problema exclusivamente contable, sin conflicto de objetivos.",
+        "Un conflicto de agencia: el agente busca un beneficio propio a costa del principal.",
+        "Una prueba de que toda adquisición destruye valor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El tamaño no indica cuánto valen los beneficios frente a su costo. La operación puede ampliar la empresa y perjudicar a sus dueños. El caso establece expresamente esa reducción de valor y un incentivo personal del gerente.",
+        "La contabilidad puede registrar la compra, pero el origen del problema está en los incentivos. El gerente y los accionistas persiguen resultados diferentes. Esa divergencia caracteriza la relación de agencia en esta decisión.",
+        "El gerente toma decisiones por delegación de los propietarios. En el caso propuesto, privilegia prestigio personal aunque admite una pérdida para ellos. Expandirse solo para construir poder o tamaño no cumple el objetivo de incrementar el valor.",
+        "El caso no permite generalizar a todas las adquisiciones. Una compra puede ser conveniente cuando sus beneficios superan el costo. Aquí el problema concreto es aceptar una pérdida para obtener prestigio personal."
+      ]
+    },
+    {
+      "id": "c01-q050",
+      "tema": "Agencia dentro de la organización",
+      "dificultad": "intermedia",
+      "pregunta": "La dirección encarga a un equipo reducir errores de facturación, pero sus integrantes ocultan fallas para cobrar un premio. ¿Quién es principal y quién es agente en esa relación específica?",
+      "opciones": [
+        "La dirección es principal y el equipo es agente.",
+        "El equipo es principal porque conoce mejor los errores.",
+        "Solo los accionistas pueden ser principales en cualquier relación.",
+        "No hay agencia porque todos reciben sueldo de la misma empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La dirección delegó una tarea y espera un resultado verificable. Los integrantes del equipo actúan como agentes al ejecutarla. Su incentivo a ocultar errores muestra que los problemas de agencia también aparecen dentro de la organización, no solo entre accionistas y gerentes.",
+        "Tener más información no convierte automáticamente a alguien en principal. El principal es quien delega la tarea en la relación analizada. La ventaja informativa del equipo puede agravar el conflicto, pero no invierte los roles.",
+        "La condición depende de qué relación de delegación se considere. Un gerente puede ser agente de los accionistas y principal frente a sus subordinados. Aquí la dirección delega y el equipo ejecuta.",
+        "Compartir empleador no asegura compartir incentivos. El premio puede inducir al equipo a proteger su ingreso a costa del objetivo asignado. El ocultamiento de errores evidencia una divergencia relevante entre quien delega y quien actúa."
+      ]
+    },
+    {
+      "id": "c01-q051",
+      "tema": "Accionistas y acreedores en dificultades",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa cercana a la insolvencia considera una estrategia muy riesgosa. Los accionistas la apoyan por su posibilidad de recuperación, mientras que el banco teme perder lo que todavía puede cobrar. ¿Qué explica la diferencia?",
+      "opciones": [
+        "El banco se convierte automáticamente en accionista por existir dificultades.",
+        "Los accionistas tienen obligación personal de pagar toda pérdida del banco.",
+        "Todo proyecto riesgoso es necesariamente malo para todas las partes.",
+        "Las distintas exposiciones y derechos pueden generar un conflicto entre accionistas y acreedores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La insolvencia potencial no cambia por sí sola la naturaleza del préstamo. El banco mantiene los derechos que correspondan a su crédito. El desacuerdo surge por sus incentivos de cobro y riesgo, no por una conversión automática de títulos.",
+        "Esa afirmación ignora la responsabilidad limitada bajo los supuestos habituales del accionista sin garantías. La posibilidad de perder su inversión no equivale a cubrir cualquier deuda con patrimonio personal. Justamente los derechos diferentes pueden producir preferencias distintas por el riesgo.",
+        "El riesgo no determina por sí solo el valor de una estrategia. Hay que evaluar beneficios, costos y distribución de resultados. El caso muestra un conflicto de preferencias entre grupos, no una regla universal que prohíba asumir riesgo.",
+        "En situaciones normales ambos grupos suelen beneficiarse de que la compañía prospere. Cerca de la insolvencia, una apuesta riesgosa puede cambiar de manera desigual sus posibilidades de cobro. La separación entre derechos accionarios y deuda ayuda a entender por qué no siempre prefieren la misma estrategia."
+      ]
+    },
+    {
+      "id": "c01-q052",
+      "tema": "Acreedores y contratos incompletos",
+      "dificultad": "avanzada",
+      "pregunta": "Dos prestamistas de una empresa en crisis discuten quién cobra primero. Uno pide nuevas restricciones a dividendos y deuda adicional. ¿Qué lectura es más adecuada?",
+      "opciones": [
+        "Los acreedores siempre tienen idéntica prioridad y no pueden discrepar.",
+        "También puede haber conflictos entre acreedores, y las cláusulas buscan proteger derechos sin prever toda contingencia.",
+        "Una restricción de dividendos convierte al prestamista en dueño de todas las acciones.",
+        "Un contrato más largo garantiza resolver cualquier situación futura."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La prioridad depende de las condiciones y derechos de cada crédito. Cuando aumenta el riesgo de impago, esas diferencias adquieren relevancia económica. Por eso pueden surgir conflictos incluso entre quienes prestaron dinero a la misma empresa.",
+        "Los acreedores no forman necesariamente un bloque con intereses idénticos. La prioridad de pago importa cuando los recursos pueden resultar insuficientes. Las restricciones contractuales ayudan a proteger sus posiciones, pero no eliminan todos los desacuerdos futuros.",
+        "Una cláusula puede limitar conductas sin transferir la propiedad accionaria. Su función es proteger los derechos pactados del acreedor. No debe confundirse control contractual de ciertos riesgos con titularidad de la empresa.",
+        "La extensión del documento no permite anticipar todas las circunstancias. Las cláusulas pueden reducir conflictos, pero los contratos siguen siendo incompletos. También son importantes los acuerdos, los incentivos y la información disponibles cuando surge una dificultad."
+      ]
+    },
+    {
+      "id": "c01-q053",
+      "tema": "Asimetría informativa y emprendimiento",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa desarrolla un tratamiento médico. Sus directivos conocen en detalle los ensayos, pero los posibles inversores solo reciben un resumen y dudan de los pronósticos. ¿Cuál es el problema financiero central?",
+      "opciones": [
+        "Existe asimetría informativa que dificulta evaluar la credibilidad de las perspectivas.",
+        "La duda demuestra que el tratamiento no funciona.",
+        "La duda desaparece si el gerente repite su pronóstico con mayor entusiasmo.",
+        "Solo hay un problema de elección de moneda, sin relación con información."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los directivos disponen de información interna que los inversores no observan con igual profundidad. La duda puede persistir aunque la administración actúe honestamente. Para obtener fondos conviene mejorar la verificabilidad y la credibilidad de los datos, no limitarse a pedir confianza.",
+        "La desconfianza sobre la información no demuestra un resultado técnico negativo. El caso solo establece una diferencia en el conocimiento disponible. Los inversores necesitan evaluar la evidencia antes de aceptar o rechazar las perspectivas.",
+        "La repetición de una afirmación no añade evidencia verificable. La información desigual sigue existiendo aunque el emisor se muestre convencido. La credibilidad exige mecanismos más sólidos que la confianza verbal.",
+        "No se plantea ninguna dificultad monetaria específica. El obstáculo es que las partes conocen detalles distintos del proyecto. Confundirlo con un problema cambiario impide abordar la causa de la incertidumbre del inversor."
+      ]
+    },
+    {
+      "id": "c01-q054",
+      "tema": "Señales y compromiso de los administradores",
+      "dificultad": "avanzada",
+      "pregunta": "Para respaldar sus pronósticos, los fundadores de una empresa invierten una parte importante de su propio patrimonio en ella. ¿Cómo deberían interpretar ese hecho los inversores externos?",
+      "opciones": [
+        "Como una garantía de recuperar todo el dinero invertido.",
+        "Como una prueba definitiva de que los pronósticos son exactos.",
+        "Como una señal potencial de confianza y alineación, que no garantiza el éxito.",
+        "Como un hecho sin ninguna posible relevancia informativa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los fundadores pueden equivocarse aun cuando arriesguen fondos propios. Su inversión no asegura pagos futuros a los demás accionistas. La señal aporta información potencial, pero no transforma la participación en un instrumento garantizado.",
+        "Un compromiso económico puede ser compatible con errores sinceros de estimación. También pueden subsistir información incompleta y riesgos externos. Lo razonable es incorporar la señal al análisis sin tratarla como demostración infalible.",
+        "El compromiso patrimonial expone a los fundadores a consecuencias económicas si sus expectativas fallan. Eso puede hacer más creíble la información que transmiten y acercar sus intereses a los de otros accionistas. No elimina el riesgo del negocio ni sustituye el análisis de la evidencia.",
+        "Arriesgar patrimonio propio puede decir algo sobre la convicción y los incentivos de quienes administran. No es equivalente a una promesa sin consecuencias personales. Su relevancia debe evaluarse junto con otras pruebas, sin exagerarla ni descartarla automáticamente."
+      ]
+    },
+    {
+      "id": "c01-q055",
+      "tema": "Exceso de confianza y optimismo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora financiera descarta escenarios adversos porque afirma que su experiencia le permite acertar siempre. No aporta evidencia que respalde esa certeza. ¿Qué sesgo conviene revisar?",
+      "opciones": [
+        "Diversificación, porque está considerando demasiados resultados.",
+        "Exceso de confianza, posiblemente acompañado de optimismo excesivo.",
+        "Responsabilidad limitada, porque su experiencia protege a los accionistas.",
+        "Liquidez perfecta, porque el proyecto no tiene incertidumbre."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La directora está descartando resultados, no distribuyendo inversiones entre activos. Diversificar se refiere a combinar exposiciones para reducir ciertos riesgos. El problema descrito es la confianza injustificada en un único pronóstico.",
+        "La experiencia puede mejorar el análisis, pero no vuelve infalibles los pronósticos. Afirmar certeza absoluta sin evidencia sugiere sobrevalorar la propia capacidad y subestimar resultados desfavorables. Conviene revisar supuestos y escenarios antes de comprometer recursos.",
+        "La responsabilidad limitada es una característica jurídica de la posición del accionista. No valida pronósticos ni evita pérdidas de inversión. El sesgo relevante se encuentra en la valoración que la directora hace de su propia capacidad.",
+        "La afirmación de la directora no elimina la incertidumbre real. La liquidez se refiere a la posibilidad de negociar o disponer de fondos, no a acertar siempre. Aquí corresponde cuestionar la confianza y los supuestos del pronóstico."
+      ]
+    },
+    {
+      "id": "c01-q056",
+      "tema": "Peso excesivo de experiencias recientes",
+      "dificultad": "intermedia",
+      "pregunta": "Después de un mes excepcional de ventas, un gerente proyecta que todos los años siguientes repetirán ese ritmo e ignora varios años de resultados más moderados. ¿Qué problema muestra?",
+      "opciones": [
+        "Aplica correctamente una regla que obliga a usar solo el último dato.",
+        "Elimina el problema de agencia porque las ventas fueron buenas.",
+        "Demuestra que los mercados financieros dejaron de ofrecer información útil.",
+        "Da un peso excesivo a una experiencia reciente al formar sus expectativas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "No hay una regla general que vuelva suficiente la observación más reciente. Los antecedentes y las circunstancias ayudan a interpretar si hubo un cambio duradero. Extrapolar sin ese análisis puede sobreestimar los flujos futuros.",
+        "Un resultado comercial positivo no elimina conflictos de intereses. Además, el caso se centra en cómo se forma una expectativa, no en quién delegó autoridad. El error específico es extrapolar una observación excepcional sin fundamento suficiente.",
+        "La conducta del gerente no prueba nada semejante sobre los mercados. Podría contrastar su proyección con información económica y comercial adicional. El sesgo aparece al seleccionar y ponderar la evidencia disponible.",
+        "Un dato reciente puede ser relevante sin representar un patrón sostenible. Ignorar la historia y las causas del resultado excepcional sesga el pronóstico. La proyección debe evaluar si existen fundamentos para que ese desempeño se mantenga."
+      ]
+    },
+    {
+      "id": "c01-q057",
+      "tema": "Insistencia en proyectos fallidos",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto perdió atractivo. Las nuevas estimaciones muestran que cualquier aporte adicional tendría costos superiores a sus beneficios, pero el gerente insiste en continuar para justificar lo ya gastado. ¿Qué decisión corresponde?",
+      "opciones": [
+        "Continuar hasta recuperar contablemente todos los desembolsos anteriores.",
+        "Continuar siempre que se consiga deuda nueva.",
+        "No aportar más solo para justificar el pasado; evaluar los costos y beneficios futuros de continuar.",
+        "Abandonar cualquier proyecto que haya tenido un gasto inicial alto, sin mirar su futuro."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los desembolsos previos no garantizan que haya una vía rentable de recuperación. Gastar más en una oportunidad desfavorable puede agravar el daño. Justificar el pasado no sustituye la evaluación económica del aporte adicional.",
+        "Un préstamo aporta efectivo, pero crea obligaciones futuras. No corrige por sí mismo que los beneficios adicionales sean inferiores a los costos. La decisión de inversión debe evaluarse antes de tomar la disponibilidad de financiamiento como justificación.",
+        "El dinero ya gastado no se recupera automáticamente al invertir más. Si el nuevo aporte cuesta más de lo que permite obtener, profundiza la pérdida según los datos del caso. La decisión debe apoyarse en las consecuencias que todavía pueden modificarse.",
+        "Un desembolso pasado alto tampoco demuestra que convenga abandonar. Podría ser razonable continuar si los beneficios futuros superaran los costos adicionales. En este caso se rechaza el aporte por su perspectiva desfavorable, no simplemente por lo ya invertido."
+      ]
+    },
+    {
+      "id": "c01-q058",
+      "tema": "Horizontes personales y liquidez",
+      "dificultad": "avanzada",
+      "pregunta": "Una accionista necesita dinero el año próximo, pero la empresa tiene una inversión atractiva que durará diez años. Supongamos que puede vender sus acciones en un mercado suficientemente líquido. ¿Qué razonamiento es adecuado?",
+      "opciones": [
+        "La empresa puede evaluar el proyecto por su valor y la accionista ajustar su horizonte vendiendo sus títulos.",
+        "La empresa debe limitar todos sus proyectos a un año.",
+        "La accionista está obligada a esperar diez años porque no puede vender antes que termine el proyecto.",
+        "La empresa debe garantizarle que venderá al mismo precio que pagó."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El plazo de los activos corporativos no tiene que coincidir con el de cada cartera personal. El mercado permite transferir la participación sin exigir liquidar la inversión real. La venta estará sujeta a un precio de mercado, de modo que liquidez no equivale a capital garantizado.",
+        "Ese límite impondría la necesidad personal de una accionista a toda la política de inversión. Con un mercado líquido, puede obtener una salida mediante la venta de su participación. El criterio empresarial puede seguir siendo maximizar valor y no igualar todos los horizontes.",
+        "La negociación de títulos separa el horizonte del inversor del plazo del activo real. Bajo el supuesto de liquidez, la participación puede transferirse antes. Eso no obliga a la empresa a vender la planta o cancelar el proyecto.",
+        "La liquidez permite negociar, pero no fija la cotización futura. El precio puede subir o bajar con las perspectivas del negocio y del mercado. La separación de horizontes no crea una garantía de rendimiento."
+      ]
+    },
+    {
+      "id": "c01-q059",
+      "tema": "Cobertura de riesgos operativos",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa cuyos accionistas ya están diversificados teme que una fuerte variación en una materia prima interrumpa la producción. Evalúa una cobertura financiera. ¿Qué análisis es correcto?",
+      "opciones": [
+        "Nunca debe cubrirse porque los accionistas diversificados no sufren interrupciones productivas.",
+        "Debe cubrir todos los riesgos a cualquier precio.",
+        "Debe comprar empresas no relacionadas aunque sea más caro que la cobertura.",
+        "La cobertura puede tener sentido si protege el funcionamiento y su beneficio justifica su costo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Diversificar carteras no impide físicamente que una planta deje de producir. Una interrupción puede afectar pagos, clientes y valor de la empresa. La cobertura debe juzgarse por esos efectos y por su costo, no descartarse automáticamente.",
+        "Reducir riesgo puede consumir más recursos que el daño que evita. La gestión financiera distingue qué exposiciones conviene asumir y cuáles reducir. Se necesita una comparación de beneficios y costos vinculada con la actividad y el valor.",
+        "Ampliar negocios no garantiza resolver una exposición operativa concreta. Además, los accionistas pueden diversificar sus propias carteras. La solución debe evaluarse por su eficacia y su costo, sin imponer adquisiciones que puedan destruir valor.",
+        "La diversificación de los dueños no evita necesariamente que un riesgo dañe la operación de una empresa. Los mercados pueden ofrecer instrumentos para compensar ciertas exposiciones. Debe evaluarse qué problema operativo resuelve la cobertura y cuánto cuesta, sin suponer que toda reducción de riesgo es gratuita."
+      ]
+    },
+    {
+      "id": "c01-q060",
+      "tema": "Crecimiento y elección de organización",
+      "dificultad": "intermedia",
+      "pregunta": "Una sociedad de profesionales crece y necesita captar capital de muchos inversores sin exigirles participar de la gestión. Considera convertirse en corporación. ¿Qué evaluación es adecuada?",
+      "opciones": [
+        "La conversión garantiza por sí sola inversiones rentables.",
+        "La forma corporativa puede facilitar reunir capital y delegar la gestión, aunque agrega costos legales y posibles efectos fiscales.",
+        "La conversión exige que cada inversor apruebe todas las decisiones diarias.",
+        "La sociedad de personas y la corporación son idénticas en continuidad, responsabilidad y gobierno."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una forma jurídica no asegura que los proyectos creen valor. La empresa seguirá necesitando evaluar activos, riesgos y financiamiento. La corporación facilita ciertos mecanismos de organización y capital, pero no elimina el juicio económico.",
+        "La emisión de acciones permite incorporar inversores con participaciones de distintos tamaños. La separación entre propiedad y administración facilita que no todos deban gestionar la actividad. Esas ventajas deben compararse con costos de estructura, problemas de agencia y el régimen tributario aplicable.",
+        "Una ventaja corporativa es delegar la administración. Exigir intervención cotidiana de todos los accionistas frustraría la incorporación de muchos inversores. El gobierno se organiza mediante los órganos societarios y los administradores designados.",
+        "Las formas organizativas pueden diferir precisamente en esos aspectos. La corporación separa la entidad de los accionistas y permite responsabilidad limitada bajo los supuestos descritos. La elección requiere valorar ventajas y costos, no suponer equivalencia total."
+      ]
+    }
+  ]
+}

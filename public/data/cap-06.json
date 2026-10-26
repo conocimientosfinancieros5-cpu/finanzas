@@ -1,0 +1,1222 @@
+{
+  "capitulo": 6,
+  "titulo": "Por qué el valor presente neto conduce a mejores decisiones de inversión que otros criterios",
+  "preguntas": [
+    {
+      "id": "c06-q001",
+      "tema": "Fundamentos del VPN",
+      "dificultad": "basica",
+      "pregunta": "¿Qué mide el valor presente neto de una inversión?",
+      "opciones": [
+        "La utilidad contable acumulada durante la vida del activo.",
+        "El aumento de riqueza, en dinero de hoy, después de cubrir la inversión y el rendimiento exigido por su riesgo.",
+        "La suma de los cobros futuros sin considerar el desembolso inicial.",
+        "La cantidad de años necesarios para recuperar el capital."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La utilidad contable distribuye ciertos costos mediante reglas de reconocimiento y depreciación. Esa distribución no coincide necesariamente con los movimientos de caja. El VPN se calcula con flujos de efectivo y su costo de oportunidad.",
+        "El VPN resta a los flujos descontados todos los desembolsos pertinentes. El descuento incorpora el rendimiento disponible en alternativas de riesgo equivalente. El excedente expresa cuánto valor agrega hoy la inversión.",
+        "Los cobros por sí solos no miden creación de valor. Hay que restar los desembolsos y reconocer cuándo ocurre cada flujo. El VPN hace ambas cosas al expresar los importes en valor presente.",
+        "Los años hasta recuperar el capital corresponden al período de recuperación. Esa medida no cuantifica la riqueza creada. El VPN expresa un importe monetario actual, no una duración."
+      ]
+    },
+    {
+      "id": "c06-q002",
+      "tema": "Costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "¿De dónde debe surgir la tasa utilizada para descontar un proyecto?",
+      "opciones": [
+        "De la tasa más alta disponible en cualquier activo financiero.",
+        "Del rendimiento contable histórico promedio de la empresa.",
+        "De la rentabilidad deseada por el gerente, cualquiera sea el riesgo.",
+        "Del rendimiento esperado de activos financieros con riesgo equivalente al proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una tasa más alta puede compensar un riesgo mucho mayor. Comparar rendimientos sin igualar riesgos confunde rentabilidad con atractivo económico. El referente debe ofrecer un riesgo comparable al del proyecto.",
+        "El rendimiento contable histórico resume inversiones pasadas y convenciones contables. No identifica necesariamente la remuneración actual exigida por el riesgo del proyecto. La tasa pertinente proviene de alternativas financieras comparables.",
+        "Una aspiración del gerente no determina el precio de mercado del riesgo. Una tasa arbitraria puede rechazar inversiones valiosas o aceptar inversiones perjudiciales. Debe usarse el rendimiento esperado de oportunidades de riesgo equivalente.",
+        "Los fondos podrían distribuirse a los accionistas para invertirlos en el mercado. El costo de oportunidad representa el rendimiento sacrificado en una alternativa comparable. La comparación exige equivalencia de riesgo."
+      ]
+    },
+    {
+      "id": "c06-q003",
+      "tema": "Valor de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa vale $8 millones, incluidos $2 millones de efectivo. Invierte ese efectivo en un proyecto cuyo VP es $2,6 millones, sin otros efectos. ¿Cuánto pasa a valer?",
+      "opciones": [
+        "$8 millones.",
+        "$10,6 millones.",
+        "$6,6 millones.",
+        "$8,6 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La empresa no conserva el mismo valor cuando compra un activo por debajo de su VP. El proyecto cuesta $2 millones y vale $2,6 millones. Bajo los supuestos indicados, esa diferencia aumenta el valor en $0,6 millones.",
+        "Este resultado suma el VP del proyecto sin descontar el efectivo utilizado. Los $2 millones dejan de estar disponibles cuando se invierten. El incremento neto es solamente 2,6 − 2 = 0,6 millones.",
+        "Este importe no suma correctamente los activos que permanecen. Los otros activos valen $6 millones y el nuevo proyecto vale $2,6 millones. Su suma es $8,6 millones, no $6,6 millones.",
+        "Los otros activos siguen valiendo 8 − 2 = 6 millones. El efectivo gastado se reemplaza por un proyecto de 2,6 millones. El valor total es 6 + 2,6 = 8,6 millones, un incremento igual al VPN de 0,6 millones."
+      ]
+    },
+    {
+      "id": "c06-q004",
+      "tema": "Cálculo del VPN",
+      "dificultad": "basica",
+      "pregunta": "Un proyecto paga $1.000 hoy y cobra $1.210 al final del año 2. Con costo de capital anual de 10%, ¿cuál es su VPN?",
+      "opciones": [
+        "$210.",
+        "$0.",
+        "$100.",
+        "−$90,91."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los $210 son la diferencia nominal entre cobro y desembolso. Esa resta omite los dos años de espera. Descontado correctamente, el cobro vale $1.000 hoy y no genera excedente.",
+        "El cobro ocurre dentro de dos años y se descuenta por 1,10². Su VP es 1.210/1,21 = 1.000. Al restar los $1.000 de hoy, el VPN resulta cero.",
+        "Este resultado descuenta el cobro por un solo año. El enunciado lo ubica al final del segundo año. Debe utilizarse 1,10² y el VPN es cero.",
+        "Este valor podría surgir de descontar durante un año adicional. No hay un tercer año entre la inversión y el cobro. La cantidad correcta de períodos de descuento es dos."
+      ]
+    },
+    {
+      "id": "c06-q005",
+      "tema": "Aditividad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué pueden sumarse los VPN de proyectos independientes?",
+      "opciones": [
+        "Porque los riesgos de todos los proyectos tienen que ser idénticos.",
+        "Porque todas las TIR también pueden sumarse.",
+        "Porque la contabilidad obliga a usar la misma depreciación.",
+        "Porque están expresados en dinero de la misma fecha y recogen los flujos incrementales de cada proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La equivalencia de riesgo se exige entre cada proyecto y su referencia de mercado. Los proyectos de una cartera pueden tener riesgos diferentes. Sus VPN siguen siendo sumables si se calcularon correctamente y no hay interacciones omitidas.",
+        "Una TIR es un porcentaje implícito de una corriente de caja. No tiene la propiedad aditiva de los valores monetarios actuales. Sumar TIR no permite calcular la riqueza creada por una cartera.",
+        "La depreciación contable no es la razón de la aditividad. Los VPN suman porque representan valores monetarios de una fecha común. Unificar criterios contables no convierte rendimientos contables en medidas aditivas de valor.",
+        "El descuento convierte flujos de distintas fechas en importes comparables de hoy. Si no hay efectos cruzados, el valor del conjunto es la suma de los valores individuales. Cada proyecto puede descontarse a la tasa apropiada para su riesgo."
+      ]
+    },
+    {
+      "id": "c06-q006",
+      "tema": "Paquetes de proyectos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos proyectos independientes tienen VPN de $900 y −$250. No hay restricciones ni sinergias. ¿Qué conviene hacer?",
+      "opciones": [
+        "Aceptar ambos porque el paquete agrega $650.",
+        "Aceptar solamente el primero, que agrega $900.",
+        "Rechazar ambos porque uno destruye valor.",
+        "Aceptar solamente el segundo porque cuesta menos riqueza."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Que el paquete tenga VPN positivo no implica que sea la mejor elección. El segundo proyecto destruye $250 de valor que podrían evitarse. El primero solo genera un VPN superior al conjunto.",
+        "Sin interacciones ni restricciones, cada proyecto se evalúa por separado. Incorporar el segundo reduce el VPN del paquete de $900 a $650. Aceptar solamente el primero maximiza el valor agregado.",
+        "El proyecto perjudicial no vuelve negativo al proyecto independiente que crea valor. La aditividad permite identificar cuánto aporta cada uno. Rechazar también el primero sacrifica un VPN de $900.",
+        "Un VPN negativo representa una pérdida económica. No hay razón para elegir esa pérdida cuando el otro proyecto agrega valor y puede hacerse solo. La decisión correcta es conservar el aporte positivo y excluir el negativo."
+      ]
+    },
+    {
+      "id": "c06-q007",
+      "tema": "Rendimiento contable",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la definición de tasa de rendimiento contable que usa este análisis?",
+      "opciones": [
+        "La tasa que iguala a cero el VPN.",
+        "Flujo de caja descontado dividido por el precio bursátil.",
+        "Cobros nominales divididos por la inversión, menos uno.",
+        "Utilidad contable dividida por el valor contable de los activos considerado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La tasa que anula el VPN es la TIR. Se obtiene a partir de flujos de efectivo y sus fechas. El rendimiento contable se basa en utilidad y valor en libros.",
+        "Esta razón combina magnitudes que no definen el rendimiento contable del proyecto. La medida contable utiliza utilidad y activos registrados. El flujo de caja descontado corresponde a un análisis de valor diferente.",
+        "La razón entre un pago final y una inversión inicial puede medir un rendimiento de un período. No es la definición de rendimiento contable. Además, al haber múltiples fechas, esa razón omite la distribución temporal de los flujos.",
+        "La medida relaciona una utilidad registrada con una base contable de activos. Esa base puede especificarse al inicio del año o como promedio. Por eso deben aclararse el período y el denominador antes de comparar resultados."
+      ]
+    },
+    {
+      "id": "c06-q008",
+      "tema": "Contabilidad y caja",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos ni cambios en los flujos de caja, una empresa acelera la depreciación contable. ¿Qué efecto económico directo produce?",
+      "opciones": [
+        "Aumenta necesariamente el VPN porque reconoce costos antes.",
+        "Convierte automáticamente una salida de inversión en un cobro.",
+        "Reduce siempre el costo de oportunidad del capital.",
+        "Puede cambiar la utilidad y el rendimiento contable, pero no el VPN."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Reconocer antes un costo no equivale a generar efectivo. Sin efectos fiscales ni otros cambios de caja, los flujos descontados son los mismos. Por lo tanto, la modificación contable no aumenta el VPN.",
+        "La depreciación no es una entrada de dinero. El desembolso por comprar el activo ya ocurrió o está previsto como inversión. Cambiar su reconocimiento contable no invierte el signo de esa salida.",
+        "El costo de oportunidad depende del riesgo y de las alternativas de mercado. Un cambio puramente contable no reduce ese rendimiento exigido. El análisis debe separar la presentación contable de la realidad económica.",
+        "La depreciación distribuye contablemente el costo de un activo. Si no cambia ningún flujo ni la tasa pertinente, el VPN permanece igual. Los indicadores contables sí pueden cambiar por la nueva distribución del gasto."
+      ]
+    },
+    {
+      "id": "c06-q009",
+      "tema": "Contabilidad y caja",
+      "dificultad": "basica",
+      "pregunta": "Un equipo cuesta $600, dura tres años y no tiene valor residual. Cada año cobra $350 y paga $100 de costos operativos en efectivo; no hay impuestos ni capital de trabajo. Con depreciación lineal, ¿cuáles son la utilidad y el flujo operativo anuales?",
+      "opciones": [
+        "Utilidad $50 y flujo operativo $50.",
+        "Utilidad $250 y flujo operativo $50.",
+        "Utilidad $50 y flujo operativo $250.",
+        "Utilidad $250 y flujo operativo $450."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El flujo de caja no debe restar otra vez una depreciación que no se paga en efectivo. Los cobros netos de costos operativos suman $250. El desembolso de $600 se registra por separado en el momento de la inversión.",
+        "Los importes están intercambiados. Los $250 son caja antes de depreciación y los $50 son utilidad después de depreciación. La depreciación reduce utilidad pero no implica un pago operativo anual.",
+        "La depreciación anual es 600/3 = $200. La utilidad es 350 − 100 − 200 = $50. El flujo operativo es 350 − 100 = $250, equivalente a sumar la depreciación a la utilidad.",
+        "Los $250 no son utilidad porque falta descontar la depreciación de $200. Tampoco corresponde sumarla a un flujo que ya excluye ese gasto. La combinación correcta es utilidad de $50 y flujo de $250."
+      ]
+    },
+    {
+      "id": "c06-q010",
+      "tema": "Tasa mínima aceptable",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa obtiene históricamente 22% contable. Un proyecto convencional ofrece TIR de 14% y su costo de oportunidad es 10%; no hay restricciones. ¿Qué debería hacer el director financiero?",
+      "opciones": [
+        "Aceptarlo si los flujos estimados son válidos, aunque reduzca el promedio contable.",
+        "Rechazarlo porque no alcanza el 22% histórico.",
+        "Reemplazar el costo de capital por 22% sin analizar el riesgo.",
+        "Aceptar únicamente si el rendimiento contable del primer año supera 14%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En una inversión convencional, una TIR superior al costo de capital implica VPN positivo. El promedio contable histórico no es el costo de oportunidad de la nueva inversión. Rechazarla para proteger ese promedio sacrificaría valor.",
+        "El 22% mezcla resultados pasados y reglas contables. No establece lo que hoy exige el mercado por el riesgo del proyecto. Con TIR de 14% y costo pertinente de 10%, el proyecto convencional agrega valor.",
+        "Cambiar la tasa de descuento para mantener un promedio histórico carece de fundamento económico. Deben buscarse alternativas de riesgo equivalente en el mercado. La nueva inversión se compara con ese rendimiento exigido, no con éxitos anteriores.",
+        "El rendimiento contable del primer año no resume toda la caja del proyecto. Puede ser bajo por la depreciación sin que exista destrucción de valor. La evaluación debe considerar todos los flujos y su costo de oportunidad."
+      ]
+    },
+    {
+      "id": "c06-q011",
+      "tema": "Recuperación simple",
+      "dificultad": "basica",
+      "pregunta": "Un proyecto invierte $900 hoy y cobra $300 al final de cada uno de los cuatro años siguientes. ¿En qué fecha recupera nominalmente la inversión?",
+      "opciones": [
+        "En el momento inicial.",
+        "Al final del año 3.",
+        "Al final del año 4.",
+        "Al final del año 2."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "En el momento inicial hay una salida de $900. No se recibió todavía ningún cobro compensatorio. La recuperación exige acumular entradas posteriores suficientes.",
+        "La caja acumulada es $300 al año 1 y $600 al año 2. Al final del año 3 alcanza los $900 invertidos. La recuperación simple no descuenta los cobros.",
+        "El año 4 agrega caja posterior a la recuperación. El desembolso ya quedó cubierto con los tres primeros cobros. Confundir vida total con período de recuperación prolonga indebidamente el plazo.",
+        "Dos cobros de $300 suman solamente $600. Todavía faltan $300 para cubrir la inversión inicial. El tercer cobro completa la recuperación nominal."
+      ]
+    },
+    {
+      "id": "c06-q012",
+      "tema": "Recuperación simple",
+      "dificultad": "basica",
+      "pregunta": "¿Qué dos omisiones caracterizan al período de recuperación simple?",
+      "opciones": [
+        "Ignora la inversión inicial y descuenta todos los cobros.",
+        "Usa solamente utilidades contables y omite los cobros.",
+        "Ignora el valor temporal dentro del plazo y los flujos posteriores al corte.",
+        "Considera todos los flujos, pero usa siempre una tasa demasiado alta."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La inversión inicial sí es esencial porque es el importe que debe recuperarse. Los cobros no se descuentan en la versión simple. El problema consiste en la ponderación temporal y el recorte del horizonte.",
+        "El período de recuperación se obtiene con caja acumulada. No requiere calcular la utilidad contable. Su debilidad persiste incluso cuando los flujos de efectivo se estiman correctamente.",
+        "La recuperación simple suma importes nominales hasta cubrir el desembolso. No distingue correctamente entre un cobro temprano y otro tardío dentro del plazo. Tampoco valora lo que ocurre después del corte fijado para aceptar proyectos.",
+        "La recuperación simple no aplica una tasa de descuento. Además, no utiliza todos los flujos para decidir si se cumple el corte. Por eso sus defectos no se corrigen bajando una supuesta tasa alta."
+      ]
+    },
+    {
+      "id": "c06-q013",
+      "tema": "Sesgo del plazo de corte",
+      "dificultad": "intermedia",
+      "pregunta": "El director exige recuperar cualquier inversión en dos años, sin importar su vida útil. ¿Cuál es el riesgo de esta política?",
+      "opciones": [
+        "Eliminar la necesidad de estimar los cobros de los primeros años.",
+        "Favorecer proyectos breves y descartar inversiones largas que crean mucho valor.",
+        "Asegurar que todos los proyectos aceptados tengan VPN positivo.",
+        "Elegir siempre los proyectos de mayor VPN total."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La política sigue dependiendo de los cobros tempranos pronosticados. Si esos pronósticos son erróneos, también lo será el plazo calculado. La simplicidad del criterio no elimina la necesidad de estimar caja.",
+        "Un corte común penaliza las entradas que llegan después del segundo año. Puede admitir proyectos que recuperan nominalmente rápido pero no cubren el costo de capital. También puede excluir inversiones con beneficios lejanos y VPN elevado.",
+        "La recuperación nominal no garantiza cubrir el costo de oportunidad. Un proyecto puede devolver el monto invertido dentro del plazo y aun tener VPN negativo. Se necesita descontar la caja para evaluar creación de valor.",
+        "El VPN total incorpora el valor de toda la vida del proyecto. El corte de dos años descarta parte de esa información. Por eso no puede asegurar el máximo valor agregado."
+      ]
+    },
+    {
+      "id": "c06-q014",
+      "tema": "Recuperación descontada",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten $1.000 y se cobran $550 al año 1 y $605 al año 2. La tasa anual es 10%. ¿Cuándo se recupera la inversión en términos descontados?",
+      "opciones": [
+        "Al final del año 1.",
+        "Al final del año 2.",
+        "Nunca, porque el descuento impide recuperar inversiones.",
+        "A los 1,82 años, aunque todos los cobros ocurren al cierre."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El primer cobro no cubre la inversión ni en términos nominales ni descontados. Su VP es solamente $500. Hace falta el segundo cobro para completar los $1.000 actuales.",
+        "El primer cobro vale 550/1,10 = $500 hoy. El segundo vale 605/1,10² = $500 hoy. La suma llega a $1.000 al final del año 2, de modo que el VPN total es cero.",
+        "El descuento no impide la recuperación cuando los cobros son suficientes. En este caso, sus valores presentes suman exactamente el desembolso. No queda excedente, pero sí se recupera el capital con su rendimiento exigido.",
+        "Esta fracción supone entradas dentro del segundo año que el enunciado no contempla. Los $605 se reciben íntegramente al cierre. Con cobros discretos al final de cada año, la recuperación ocurre al cierre del año 2."
+      ]
+    },
+    {
+      "id": "c06-q015",
+      "tema": "Límites de recuperación descontada",
+      "dificultad": "avanzada",
+      "pregunta": "Con una salida inicial seguida solo de entradas no negativas, ¿qué puede afirmarse sobre la recuperación descontada con un corte anterior al final de la vida?",
+      "opciones": [
+        "Es idéntica a la recuperación simple para cualquier tasa.",
+        "Acepta todos los proyectos de VPN positivo y ninguno de VPN negativo.",
+        "Puede aceptar VPN negativo porque nunca descuenta la inversión inicial.",
+        "No acepta proyectos de VPN negativo, pero puede rechazar proyectos de VPN positivo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Con una tasa positiva, los cobros futuros valen menos que sus importes nominales. Por eso la recuperación descontada puede demorar más o no producirse. La coincidencia con la recuperación simple es un caso especial, no una identidad general.",
+        "La exclusión de proyectos con VPN negativo no garantiza aceptar todos los positivos. Un proyecto puede tener cobros grandes después del plazo permitido. El corte todavía impone una restricción que el VPN no necesita.",
+        "La inversión inicial está en dinero de hoy y no requiere descuento adicional. El método sí compara esa inversión con entradas descontadas. Bajo el patrón de signos indicado, recuperar implica que el VPN total no es negativo.",
+        "Si la caja descontada ya cubre el desembolso dentro del corte, los cobros no negativos posteriores no pueden reducir el VPN. Sin embargo, parte de un VPN positivo puede provenir de cobros después del corte. Esos proyectos pueden quedar rechazados por recuperar demasiado tarde."
+      ]
+    },
+    {
+      "id": "c06-q016",
+      "tema": "Recuperación y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Una gerente usa un plazo corto porque desconfía de los pronósticos lejanos. ¿Cuál es la evaluación más adecuada?",
+      "opciones": [
+        "El plazo corto convierte en ciertos los cobros tempranos.",
+        "La recuperación aporta información de liquidez, pero no reemplaza un análisis explícito del riesgo y del VPN.",
+        "Descartar todos los flujos lejanos mide exactamente su riesgo.",
+        "Todo proyecto de recuperación corta tiene mayor valor que uno largo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los cobros cercanos también pueden incumplirse. Un plazo de corte no transforma pronósticos en garantías. La calidad de las estimaciones debe evaluarse de manera independiente.",
+        "El plazo de recuperación resume cuándo vuelve la caja invertida. Puede servir como indicador complementario de exposición o liquidez. Pero ignorar flujos no equivale a valorarlos correctamente ni a medir su incertidumbre.",
+        "Asignar valor cero a cualquier cobro posterior al corte es una regla arbitraria. Flujos lejanos con riesgos diferentes quedan tratados como si fueran iguales. Su evaluación requiere estimaciones y tasas apropiadas, no una eliminación automática.",
+        "La velocidad de recuperación no determina el excedente económico total. Un proyecto largo puede tener beneficios descontados muy superiores a su costo. Comparar valor exige calcular VPN y considerar las restricciones pertinentes."
+      ]
+    },
+    {
+      "id": "c06-q017",
+      "tema": "Definición de TIR",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ecuación define la TIR para flujos anuales C0, C1, ..., CT?",
+      "opciones": [
+        "Utilidad contable/activos contables = 0.",
+        "C0 + Σ desde t=1 hasta T de Ct/(1 + TIR)^t = 0.",
+        "Σ desde t=0 hasta T de Ct = TIR.",
+        "C0 + Σ desde t=1 hasta T de Ct × (1 + TIR)^t = 0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La razón utilidad sobre activos es un rendimiento contable. Hacerla igual a cero no identifica la tasa que equilibra flujos de caja. La TIR utiliza importes de efectivo y sus fechas.",
+        "La TIR es una tasa que anula el VPN de la corriente de caja. Cada flujo futuro se divide por el factor compuesto correspondiente a su fecha. El flujo inicial ya está en valor presente y conserva su signo.",
+        "Sumar flujos nominales no obtiene una tasa de rendimiento. La suma tiene unidades monetarias y omite cuándo llega el dinero. La TIR surge de una ecuación de descuento, no de una suma directa.",
+        "Multiplicar los flujos futuros por factores compuestos los lleva todavía más adelante. Para calcular VPN deben traerse al momento inicial. Por eso los factores aparecen como divisores."
+      ]
+    },
+    {
+      "id": "c06-q018",
+      "tema": "TIR de un período",
+      "dificultad": "basica",
+      "pregunta": "Se invierten $800 hoy y se reciben $1.000 dentro de un año. ¿Cuál es la TIR?",
+      "opciones": [
+        "125%.",
+        "20%.",
+        "25%.",
+        "10%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 125% es la relación entre pago e inversión antes de restar la unidad. Esa relación incluye la devolución del capital original. El rendimiento neto del período es 125% − 100% = 25%.",
+        "El 20% surge de dividir la ganancia de $200 por el cobro de $1.000. La base de rendimiento es el capital invertido, no el monto recuperado. La razón correcta es 200/800 = 25%.",
+        "La tasa de un período es pago dividido por inversión, menos uno. El cálculo es 1.000/800 − 1 = 0,25. A esa tasa, 1.000/1,25 equivale a los $800 iniciales.",
+        "El enunciado no proporciona ninguna tasa de mercado de 10%. La TIR se determina con los flujos propios del proyecto. El aumento de $800 a $1.000 en un año representa 25%."
+      ]
+    },
+    {
+      "id": "c06-q019",
+      "tema": "TIR de varios períodos",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene flujos −$1.000 hoy, $600 al año 1 y $720 al año 2. ¿Cuál es su TIR anual?",
+      "opciones": [
+        "20%.",
+        "32%.",
+        "10%.",
+        "60%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "A 20%, el primer cobro vale 600/1,20 = $500. El segundo vale 720/1,20² = $500. Los dos VP suman los $1.000 invertidos y anulan el VPN.",
+        "El 32% resulta de sumar los cobros y comparar el excedente nominal con la inversión. Esa operación no reconoce dos fechas de cobro distintas. La TIR exige descontar cada flujo a su propio plazo.",
+        "A 10%, los VP son aproximadamente $545,45 y $595,04. Su suma supera $1.000, de modo que el VPN todavía es positivo. En este proyecto convencional hay que elevar la tasa hasta 20% para anularlo.",
+        "El 60% divide solo el primer cobro por la inversión sin distinguir devolución y rendimiento. También deja de lado el segundo cobro. La TIR considera ambos flujos y resulta 20%."
+      ]
+    },
+    {
+      "id": "c06-q020",
+      "tema": "TIR y costo de capital",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la diferencia entre TIR y costo de oportunidad del capital?",
+      "opciones": [
+        "Ambos se fijan libremente para que el VPN resulte positivo.",
+        "La TIR depende de los flujos del proyecto; el costo de capital es el rendimiento exigido por alternativas comparables.",
+        "La TIR se obtiene del mercado y el costo de capital solo de la depreciación.",
+        "Son necesariamente iguales para cualquier proyecto aceptable."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Alterar tasas para forzar un resultado elimina el sentido de la evaluación. La TIR se resuelve a partir de una corriente de caja dada. El costo de capital se estima según el riesgo y las oportunidades de mercado.",
+        "La TIR resume la rentabilidad implícita en los importes y fechas de caja. El costo de oportunidad fija el estándar externo con que se valía esa caja. Compararlos permite decidir en proyectos convencionales, pero no los vuelve el mismo concepto.",
+        "La asignación está invertida y además introduce la depreciación sin fundamento. La TIR proviene de la caja del proyecto y el costo de oportunidad de alternativas financieras comparables. La depreciación contable por sí sola no determina ninguno de los dos.",
+        "La igualdad implica VPN cero para una TIR válida y esa tasa de descuento. Los proyectos convencionales con VPN positivo tienen TIR superior al costo de capital. Por lo tanto, ser aceptable no exige igualdad."
+      ]
+    },
+    {
+      "id": "c06-q021",
+      "tema": "Cálculo numérico de TIR",
+      "dificultad": "intermedia",
+      "pregunta": "Para una salida inicial seguida solo de cobros positivos, el VPN es positivo a 12% y negativo a 18%. ¿Cómo se busca la TIR?",
+      "opciones": [
+        "Se elige 18% porque un VPN negativo confirma esa TIR.",
+        "Se suman 12% y 18% para obtener una TIR de 30%.",
+        "Se prueba una tasa entre 12% y 18% y se refina hasta que el VPN sea prácticamente cero.",
+        "Se toma siempre 15% como TIR exacta."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una TIR exige VPN cero, no negativo. El resultado a 18% indica que esa tasa está por encima de la raíz en este caso. La búsqueda debe continuar dentro del intervalo identificado.",
+        "Las tasas de prueba no representan rendimientos de partes independientes. Sumarlas no resuelve la ecuación del VPN. Hay que buscar la tasa que hace coincidir el VP de los cobros con la inversión.",
+        "En este patrón convencional, el VPN disminuye al aumentar la tasa. Los signos opuestos ubican la raíz entre ambas tasas. Un procedimiento iterativo o una herramienta numérica permite aproximarla con la precisión buscada.",
+        "El punto medio puede servir como nueva prueba. No es necesariamente la raíz porque el VPN no suele ser lineal en la tasa. Debe calcularse el VPN a 15% antes de seguir refinando."
+      ]
+    },
+    {
+      "id": "c06-q022",
+      "tema": "Equivalencia entre TIR y VPN",
+      "dificultad": "basica",
+      "pregunta": "¿En qué situación funciona directamente la regla de aceptar cuando TIR supera al costo de capital?",
+      "opciones": [
+        "En un préstamo recibido, aceptando siempre la tasa implícita más alta.",
+        "En cualquier corriente de caja, aunque incluya varias TIR.",
+        "Al elegir entre alternativas de distinta escala, tomando siempre la TIR mayor.",
+        "En una inversión convencional con salida inicial y entradas posteriores, usando un costo de capital pertinente y único."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Recibir dinero y devolverlo después es financiamiento. Una tasa implícita alta representa un costo mayor, no una rentabilidad más atractiva. La regla usual debe invertirse para ese patrón de caja.",
+        "Con varios cambios de signo, el VPN puede cruzar cero varias veces. Una TIR aislada no determina dónde el VPN es positivo. En esos casos hay que analizar la función o calcular directamente el VPN.",
+        "Una TIR mayor no garantiza mayor creación de riqueza. La escala y las fechas pueden invertir el orden por VPN. Para alternativas excluyentes corresponde comparar VPN o examinar los flujos incrementales.",
+        "Con una salida inicial y entradas posteriores, el VPN decrece con la tasa. Si la TIR supera el costo pertinente, el VPN calculado a ese costo es positivo. Esto resuelve aceptación o rechazo, no cualquier jerarquización entre alternativas."
+      ]
+    },
+    {
+      "id": "c06-q023",
+      "tema": "Prestar o endeudarse",
+      "dificultad": "intermedia",
+      "pregunta": "Se reciben $1.000 hoy y se pagan $1.100 dentro de un año. Con costo de oportunidad de 15%, ¿qué indican el VPN y la decisión?",
+      "opciones": [
+        "VPN de $150; aceptar porque se multiplica el ingreso inicial por 15%.",
+        "VPN de $43,48; aceptar este financiamiento bajo los supuestos del análisis.",
+        "VPN de −$100; rechazar por la diferencia nominal.",
+        "VPN de −$43,48; rechazar porque la TIR es menor que 15%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El VPN no se obtiene aplicando la tasa al ingreso inicial. Hay que descontar el pago comprometido y restarlo del dinero recibido hoy. Ese procedimiento produce $43,48, no $150.",
+        "El VPN es 1.000 − 1.100/1,15 = $43,48 aproximadamente. La tasa implícita del financiamiento es 10%, inferior al 15% de referencia. En una corriente de endeudamiento, pagar una tasa menor resulta favorable.",
+        "La diferencia nominal de −$100 no reconoce cuándo se paga. El desembolso del año siguiente vale menos que $1.100 hoy. A 15%, su VP es $956,52 y queda un beneficio actual de $43,48.",
+        "Este resultado cambia indebidamente el signo de los flujos. El ingreso inicial es positivo y el pago futuro es negativo. Una TIR inferior al costo de oportunidad es favorable para este financiamiento, no motivo de rechazo."
+      ]
+    },
+    {
+      "id": "c06-q024",
+      "tema": "Perfil del VPN de financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo cambia el VPN de una operación con un cobro inicial y un único pago futuro cuando aumenta la tasa de descuento?",
+      "opciones": [
+        "Disminuye siempre, igual que en cualquier inversión.",
+        "Se vuelve igual a la utilidad contable.",
+        "Permanece constante porque la TIR no cambia.",
+        "Aumenta, porque disminuye el valor presente del pago futuro."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La pendiente depende del patrón de signos de los flujos. En un financiamiento simple se descuenta una salida futura. Una tasa más alta reduce el peso de esa salida y eleva el VPN.",
+        "El cambio de tasa modifica una valoración de caja. No convierte esa valoración en una medida contable. La utilidad depende de reglas de reconocimiento diferentes.",
+        "La TIR puede permanecer fija mientras cambia el VPN calculado a otras tasas. Una describe la raíz de la función y el otro su valor en un punto elegido. Son objetos distintos y no tienen que moverse juntos.",
+        "El cobro inicial no se modifica porque ya está en la fecha de valuación. Al subir la tasa, se reduce el VP del pago negativo futuro. Restar un importe menor aumenta el VPN."
+      ]
+    },
+    {
+      "id": "c06-q025",
+      "tema": "Múltiples TIR",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene flujos −$100, +$230 y −$132 en los años 0, 1 y 2. ¿Qué tasas anulan su VPN?",
+      "opciones": [
+        "10% y 20%.",
+        "Solo 10%.",
+        "Solo 20%.",
+        "0% y 30%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con x = 1 + r, la ecuación es 100x² − 230x + 132 = 0. Se factoriza como (10x − 11)(10x − 12) = 0. Las raíces x = 1,10 y x = 1,20 corresponden a TIR de 10% y 20%.",
+        "El 10% sí anula el VPN, pero no es la única solución. El flujo cambia dos veces de signo y permite otra raíz. Al descontar a 20% también se obtiene −100 + 191,6667 − 91,6667 = 0.",
+        "El 20% es una raíz válida, pero no elimina la raíz de 10%. La ecuación cuadrática tiene dos factores lineales distintos. Reportar solo una tasa oculta la ambigüedad de este proyecto.",
+        "A 0%, la suma de caja es −100 + 230 − 132 = −$2. A 30%, el VPN también es negativo y no es cero. Las tasas que satisfacen la ecuación son 10% y 20%."
+      ]
+    },
+    {
+      "id": "c06-q026",
+      "tema": "Intervalos de aceptación",
+      "dificultad": "avanzada",
+      "pregunta": "Para los flujos −$100, +$230 y −$132 en los años 0, 1 y 2, las TIR son 10% y 20%. ¿Qué pasa con costo de capital de 15%?",
+      "opciones": [
+        "Se acepta: el VPN es $32 porque se suman los cobros.",
+        "Se rechaza: 15% supera la menor TIR y eso siempre basta.",
+        "Se acepta: el VPN es aproximadamente $0,19.",
+        "El VPN es cero porque 15% es el promedio de las TIR."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La aceptación es correcta pero la justificación y el importe son falsos. El último flujo es una salida, no un cobro, y todos los futuros se descuentan. El excedente actual es aproximadamente $0,19.",
+        "Con dos raíces, no puede aplicarse mecánicamente la comparación con una sola TIR. El signo del VPN debe verificarse al costo relevante. A 15% resulta positivo y corresponde aceptar bajo los supuestos dados.",
+        "El cálculo es −100 + 230/1,15 − 132/1,15². Da aproximadamente $0,189, que es positivo. En esta corriente, el VPN es positivo entre las dos raíces, aunque no exista una regla de TIR única.",
+        "El promedio de dos raíces no es necesariamente otra raíz. Aquí, al sustituir 15%, queda un pequeño excedente positivo. El VPN solo se anula en 10% y 20%."
+      ]
+    },
+    {
+      "id": "c06-q027",
+      "tema": "Cambios de signo",
+      "dificultad": "avanzada",
+      "pregunta": "Una corriente de caja tiene tres cambios de signo. ¿Qué puede concluirse sobre sus TIR económicamente admisibles, con r mayor que −100%?",
+      "opciones": [
+        "Debe descartarse sin calcular su VPN.",
+        "Tiene exactamente tres TIR positivas.",
+        "No puede tener ninguna TIR negativa.",
+        "Puede tener varias TIR, pero los tres cambios no garantizan tres raíces distintas admisibles."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La ambigüedad de la TIR no implica destrucción de valor. Un proyecto con varias TIR puede tener VPN positivo al costo correcto. Se descarta o acepta por su contribución económica, no por la dificultad de resumirlo en una tasa.",
+        "Los cambios de signo no garantizan igualdad entre su cantidad y el número de TIR positivas. Algunas soluciones pueden ser complejas, repetidas o asociadas a tasas negativas. Se debe resolver y verificar la ecuación en el dominio pertinente.",
+        "Una raíz con factor 1 + r entre cero y uno implica una TIR negativa. Los cambios de signo no la prohíben. La validez económica y la decisión deben analizarse con los flujos y el costo de oportunidad.",
+        "Los cambios de signo dan un límite para las raíces positivas del factor de descuento o de capitalización. No aseguran que todas existan, sean distintas o correspondan a tasas positivas. El VPN al costo pertinente sigue permitiendo evaluar la corriente."
+      ]
+    },
+    {
+      "id": "c06-q028",
+      "tema": "Ausencia de TIR",
+      "dificultad": "avanzada",
+      "pregunta": "Una operación ofrece +$100 hoy, −$100 en un año y +$100 en dos años. ¿Qué ocurre con la TIR real para r mayor que −100%?",
+      "opciones": [
+        "Es 0% porque los pagos intermedios se compensan.",
+        "No puede calcularse el VPN si no existe TIR.",
+        "Es 100% porque el último cobro iguala al inicial.",
+        "No existe; el VPN es positivo en todo ese dominio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "A 0%, la suma de los flujos es 100 − 100 + 100 = $100. No queda un VPN nulo. Compensar dos importes no permite ignorar el tercero.",
+        "El VPN solo requiere una tasa de descuento pertinente y la corriente de caja. La existencia de una TIR no es un requisito. Precisamente, el VPN permite analizar operaciones que no admiten esa medida de rentabilidad.",
+        "A 100%, el VPN es 100 − 50 + 25 = $75. Sigue siendo positivo y no define una TIR. La igualdad nominal entre cobros de fechas distintas no fija por sí sola un rendimiento.",
+        "Con x = 1 + r positivo, el VPN es 100(x² − x + 1)/x². El numerador puede escribirse como 100[(x − 0,5)² + 0,75], siempre positivo. Por eso no hay una tasa real que anule el VPN en el dominio indicado."
+      ]
+    },
+    {
+      "id": "c06-q029",
+      "tema": "Costos finales y TIR",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora evalúa una mina con ingresos operativos y un pago grande de cierre ambiental. ¿Cómo debe tratar ese pago?",
+      "opciones": [
+        "Sumarlo como ingreso por tratarse de una obligación futura.",
+        "Excluirlo porque sucede después de recuperar la inversión.",
+        "Incluirlo como flujo negativo final y comprobar el VPN, porque puede generar varios cambios de signo.",
+        "Ignorarlo si el software devuelve una TIR positiva."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una obligación de pago reduce caja y tiene signo negativo. Su lejanía modifica el descuento, no su naturaleza. Tratarla como ingreso invierte su efecto económico.",
+        "Recuperar el desembolso inicial no elimina las obligaciones posteriores. Ignorar el cierre sobrestima la riqueza creada. El VPN debe recoger toda la vida económica y sus costos asociados.",
+        "El cierre es una consecuencia económica de emprender el proyecto. Su pago debe incluirse en la fecha correspondiente. Al volver negativa la caja final, puede generar varias TIR y hacer especialmente útil el VPN.",
+        "Un algoritmo puede encontrar una raíz sin informar otras. Una TIR positiva tampoco demuestra que el cierre está correctamente incorporado. Hay que revisar los flujos completos y descontarlos al costo pertinente."
+      ]
+    },
+    {
+      "id": "c06-q030",
+      "tema": "TIR modificada",
+      "dificultad": "avanzada",
+      "pregunta": "Se tienen flujos −$100 hoy, +$150 al año 1 y −$55 al año 2. Se descuenta el pago final al año 1 usando 10% y se combina con el cobro de ese año. ¿Qué TIR tiene la corriente modificada?",
+      "opciones": [
+        "10%.",
+        "50%.",
+        "−5%.",
+        "0%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 10% es la tasa utilizada para trasladar el pago, no el resultado de la nueva ecuación. La tasa modificada se calcula sobre −100 y +100. Esos importes implican una rentabilidad de 0%.",
+        "El 50% usa el cobro de $150 e ignora por completo el pago final. La modificación busca incorporar ese costo antes de calcular la tasa. Después de descontarlo, el cobro neto relevante es $100.",
+        "El −5% surge de restar nominalmente 55 a 150 y comparar $95 con $100. El procedimiento indicado exige descontar los $55 un año. Su valor en el año 1 es $50 y la tasa modificada resulta cero.",
+        "El pago del año 2 vale 55/1,10 = $50 en el año 1. Al combinarlo con el cobro de $150 queda una entrada neta de $100. La corriente modificada es −100 hoy y +100 al año 1, cuya TIR es 0%."
+      ]
+    },
+    {
+      "id": "c06-q031",
+      "tema": "Interpretación de TIR modificada",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué limitación persiste cuando se construye una TIR modificada descontando pagos finales al costo de capital?",
+      "opciones": [
+        "Demuestra que la corriente original tenía una sola TIR.",
+        "Recupera siempre la propiedad aditiva de las tasas.",
+        "Permite ignorar el riesgo al elegir la tasa de transformación.",
+        "Depende de una tasa externa y del procedimiento de transformación, por lo que no sustituye la claridad del VPN."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La cantidad de raíces de la corriente original no cambia por redefinir la medida. La transformación crea otra serie sobre la que se calcula una tasa. Eso no demuestra unicidad en los flujos originales.",
+        "La transformación no vuelve sumables los porcentajes de rendimiento. Dos proyectos con tasas modificadas dadas no tienen una tasa conjunta igual a su suma. La aditividad sigue siendo una propiedad de los valores presentes monetarios.",
+        "El costo utilizado para trasladar flujos debe respetar su riesgo. Elegirlo arbitrariamente altera la corriente y el resultado. La modificación no elimina la necesidad de una tasa económicamente justificada.",
+        "La corriente modificada ya incorpora una tasa escogida externamente. Otras transformaciones pueden producir medidas distintas. El VPN evita esa ambigüedad al valorar directamente los flujos originales al costo apropiado."
+      ]
+    },
+    {
+      "id": "c06-q032",
+      "tema": "Escala de proyectos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos proyectos excluyentes duran un año. A cuesta $100 y paga $150; B cuesta $1.000 y paga $1.300. Con tasa de 10% y fondos suficientes, ¿cuál conviene?",
+      "opciones": [
+        "A, porque su TIR de 50% supera la de B.",
+        "B, cuyo VPN es $181,82 aunque su TIR sea menor.",
+        "A y B a la vez, porque ambos tienen VPN positivo.",
+        "Ninguno, porque la inversión más grande tiene menor porcentaje de rendimiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La TIR compara rendimientos porcentuales sobre bases diferentes. El 50% de una inversión pequeña puede agregar menos valor que el 30% de una grande. Con exclusión mutua y fondos suficientes, manda el mayor VPN.",
+        "El VPN de A es −100 + 150/1,10 = $36,36. El de B es −1.000 + 1.300/1,10 = $181,82. B crea más riqueza, aunque su TIR de 30% sea menor que el 50% de A.",
+        "El enunciado prohíbe hacer ambos proyectos simultáneamente. Que los dos sean aceptables individualmente no elimina esa restricción. Debe elegirse B por su mayor aporte de valor.",
+        "Una TIR menor no significa VPN negativo. B supera el costo de capital y crea más valor absoluto que A. Rechazar ambos desperdiciaría una inversión económicamente atractiva."
+      ]
+    },
+    {
+      "id": "c06-q033",
+      "tema": "TIR incremental",
+      "dificultad": "intermedia",
+      "pregunta": "A cuesta $200 y paga $260 al año 1. B cuesta $500 y paga $620 al año 1; son excluyentes. ¿Cuál es la TIR de pasar de A a B?",
+      "opciones": [
+        "20%.",
+        "24%.",
+        "30%.",
+        "140%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Pasar de A a B exige 500 − 200 = $300 adicionales hoy. A cambio se reciben 620 − 260 = $360 adicionales al año 1. La TIR incremental es 360/300 − 1 = 20%.",
+        "El 24% es la TIR de B considerado aisladamente. No mide el rendimiento de los $300 extra necesarios para reemplazar A. La decisión incremental exige restar ambos flujos antes de calcular la tasa.",
+        "El 30% es la TIR individual de A. Describe la alternativa de menor inversión, no el cambio hacia B. El flujo incremental de −300 y +360 rinde 20%.",
+        "Este porcentaje no proviene de comparar correctamente importes incrementales. Deben restarse también las entradas futuras, no solo las inversiones. El cociente relevante es 360/300 y después se resta uno."
+      ]
+    },
+    {
+      "id": "c06-q034",
+      "tema": "Decisión incremental",
+      "dificultad": "intermedia",
+      "pregunta": "En el caso A: −$200 y +$260; B: −$500 y +$620, ambos de un año, el costo de capital es 25%. ¿Qué alternativa excluyente conviene?",
+      "opciones": [
+        "B, porque su TIR de 24% es suficiente aunque el costo sea 25%.",
+        "B, porque el cobro de $620 es mayor.",
+        "A, porque su VPN es positivo y el incremento hacia B tiene VPN negativo.",
+        "Rechazar A porque su inversión es menor que la de B."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una TIR de 24% está por debajo del costo de 25% en un proyecto convencional. Eso implica VPN negativo para B. La alternativa A sí supera el costo y aporta $8 de valor.",
+        "El mayor cobro requiere una inversión adicional. Esos $300 extra no recuperan el rendimiento exigido de 25%. Comparar solo los cobros ignora el costo económico del cambio.",
+        "El VPN de A es −200 + 260/1,25 = $8. El incremento B − A vale −300 + 360/1,25 = −$12. Por eso B tendría VPN de −$4 y conviene quedarse con A.",
+        "El tamaño no determina por sí solo la conveniencia. A genera un rendimiento suficiente sobre su inversión y tiene VPN positivo. Rechazarlo por ser pequeño sacrifica riqueza sin justificación."
+      ]
+    },
+    {
+      "id": "c06-q035",
+      "tema": "Calendario y tasa de cruce",
+      "dificultad": "avanzada",
+      "pregunta": "Dos alternativas cuestan $100 hoy. A paga $121 al año 1 y B paga $144 al año 2, sin otros flujos. ¿A qué tasa anual tienen igual VPN?",
+      "opciones": [
+        "Exactamente 44%.",
+        "Exactamente 21%.",
+        "Exactamente 20%.",
+        "Aproximadamente 19,01%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 44% es el incremento nominal total de B sobre su inversión durante dos años. No es una tasa anual ni una tasa de cruce. Deben compararse los cobros de fechas diferentes mediante descuento compuesto.",
+        "El 21% es la TIR individual de A. La tasa de cruce debe igualar los valores presentes de ambos cobros. Ese cálculo produce 19,01%, no 21%.",
+        "El 20% es la TIR anual de B, ya que 144/1,20² = 100. No es la tasa que iguala B con A. A 20%, A todavía tiene un VPN de aproximadamente $0,83 y B tiene VPN cero.",
+        "Como la inversión inicial es igual, basta igualar 121/(1+r) con 144/(1+r)². Al multiplicar por (1+r)² queda 121(1+r) = 144. Entonces r = 144/121 − 1 = 19,0083% aproximadamente."
+      ]
+    },
+    {
+      "id": "c06-q036",
+      "tema": "Calendario de cobros",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora compara un proyecto de cobros tempranos con otro de cobros más lejanos y mayor monto total. ¿Qué puede pasar al aumentar el costo de capital?",
+      "opciones": [
+        "Puede pasar a convenir el de cobros tempranos, aunque el otro tenga mayor VPN con tasas bajas.",
+        "El orden por VPN nunca cambia si la inversión inicial es igual.",
+        "Siempre pasa a convenir el que tenga más cobros nominales.",
+        "La TIR del proyecto largo aumenta automáticamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los cobros lejanos son más sensibles al aumento de la tasa. Por eso dos perfiles de VPN pueden cruzarse. La elección debe hacerse al costo de capital relevante, no por una comparación de TIR aisladas.",
+        "Una inversión inicial igual no hace iguales las fechas futuras. Diferentes calendarios generan distinta sensibilidad al descuento. El orden por VPN puede cambiar al variar la tasa.",
+        "Un importe nominal mayor puede valer menos hoy si llega mucho más tarde. Una tasa alta intensifica esa penalización temporal. Deben compararse valores actuales, no totales sin descontar.",
+        "La TIR depende de los flujos, no de la tasa externa usada para valorarlos. Si los flujos no cambian, su TIR tampoco cambia. Lo que cambia al subir el costo de capital es el VPN calculado a ese costo."
+      ]
+    },
+    {
+      "id": "c06-q037",
+      "tema": "Reinversión y elección",
+      "dificultad": "avanzada",
+      "pregunta": "Un gerente afirma que una TIR mayor permite elegir una alternativa excluyente porque después reinvertirá sus cobros en otro proyecto independiente. Sin restricciones de capital, ¿cómo corresponde razonar?",
+      "opciones": [
+        "Rechazar el VPN porque exige reinvertir físicamente cada cobro al costo de capital.",
+        "Suponer que todos los cobros pueden reinvertirse siempre a la TIR original.",
+        "Evaluar cada alternativa y la oportunidad futura por su VPN, sin atribuir una reinversión automática a la TIR.",
+        "Sumar la TIR del proyecto inicial con la de la oportunidad futura."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El descuento es una valoración de oportunidad, no una orden de reinvertir todos los cobros. La empresa puede distribuirlos a los accionistas. El VPN sigue siendo válido sin una reinversión física al costo de capital.",
+        "La TIR original es una propiedad de una corriente de caja, no una garantía sobre inversiones futuras. Las nuevas oportunidades pueden ofrecer tasas diferentes. Elegir por esa supuesta reinversión puede sacrificar riqueza actual.",
+        "El VPN valora cada flujo a su costo de oportunidad sin exigir una reinversión material específica. Una oportunidad independiente debe evaluarse por separado y puede financiarse si hay acceso a capital. No debe usarse para justificar una alternativa inicial de menor VPN.",
+        "Los porcentajes de proyectos independientes no son aditivos. Para valorar un programa deben sumarse los VPN pertinentes. Sumar TIR mezcla escalas y fechas sin una interpretación económica válida."
+      ]
+    },
+    {
+      "id": "c06-q038",
+      "tema": "Estructura temporal de tasas",
+      "dificultad": "avanzada",
+      "pregunta": "Se pagan $200 hoy y se cobran $110 al año 1 y $121 al año 2. Las tasas spot anuales son 10% a un año y 21% a dos años. ¿Cuál es el VPN aproximado?",
+      "opciones": [
+        "−$9,09.",
+        "$0.",
+        "−$17,36.",
+        "$31."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe no surge de aplicar correctamente las dos tasas spot a sus plazos. El cobro de dos años se descuenta con 1,21². Sumado al VP de $100 del primer cobro, deja un déficit de $17,36.",
+        "El resultado cero utiliza 10% para ambos vencimientos o divide el segundo cobro solo por 1,21. La tasa a dos años está expresada anualmente y debe elevarse al cuadrado. Con la curva indicada, el VPN es negativo.",
+        "El primer cobro vale 110/1,10 = $100. El segundo vale 121/1,21² = $82,64 aproximadamente, porque 21% es la tasa spot anual a dos años. El VPN es −200 + 100 + 82,64 = −$17,36.",
+        "Los $31 son el excedente nominal de 110 + 121 sobre 200. Ese cálculo omite el valor temporal de ambos cobros. Con tasas diferenciadas por vencimiento, cada flujo requiere su propio factor de descuento."
+      ]
+    },
+    {
+      "id": "c06-q039",
+      "tema": "TIR y curva de tasas",
+      "dificultad": "avanzada",
+      "pregunta": "Si las tasas relevantes cambian con el vencimiento, ¿cómo se evalúa mejor una TIR única?",
+      "opciones": [
+        "Se ignoran las tasas por plazo porque la TIR ya refleja el riesgo de mercado.",
+        "Se compara siempre con la tasa spot más baja.",
+        "Se compara con el promedio aritmético simple de las tasas, cualquiera sea la caja.",
+        "Conviene calcular VPN con las tasas por plazo; una comparación mediante rendimiento exige un título de riesgo y calendario equivalentes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La TIR se calcula con la caja proyectada y no incorpora automáticamente el precio de mercado del riesgo. Las tasas externas siguen siendo necesarias para valorar. Una curva no plana no desaparece por calcular una tasa interna.",
+        "La tasa más baja no representa necesariamente los costos de todos los vencimientos. Aplicarla a toda la corriente puede sobrevalorar los flujos lejanos. Lo correcto es respetar los factores de descuento de cada fecha.",
+        "Un promedio simple ignora cuánto dinero llega en cada fecha y la capitalización compuesta. No produce en general el costo comparable con una TIR. El VPN por plazos evita imponer ese promedio arbitrario.",
+        "Cada vencimiento puede tener un costo de oportunidad diferente. Una sola tasa interna no indica por sí misma qué referencia externa usar. La comparación con un título equivalente requiere igualar tanto riesgo como secuencia temporal de caja."
+      ]
+    },
+    {
+      "id": "c06-q040",
+      "tema": "Incentivos y calidad de pronósticos",
+      "dificultad": "intermedia",
+      "pregunta": "La dirección exige a sus gerentes maximizar la TIR de los proyectos propuestos. ¿Qué sesgo puede generar y cómo conviene corregirlo?",
+      "opciones": [
+        "Garantiza encontrar el máximo VPN porque un porcentaje mayor siempre agrega más dinero.",
+        "Hace innecesaria la revisión de pronósticos si la TIR supera mucho al costo de capital.",
+        "Elimina el incentivo a adelantar cobros o reducir la escala.",
+        "Puede favorecer inversiones pequeñas y breves; conviene exigir propuestas orientadas a crear valor y revisar sus pronósticos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un porcentaje de rendimiento no informa por sí solo la riqueza agregada. Importan también la escala y el calendario de los flujos. El máximo de TIR no coincide necesariamente con el máximo de VPN.",
+        "Una TIR alta calculada con caja exagerada sigue siendo engañosa. Ninguna técnica reemplaza datos confiables. Los supuestos deben revisarse aunque el indicador aparente amplio margen sobre el costo de capital.",
+        "Adelantar cobros y reducir la inversión inicial puede elevar la TIR. Esa modificación no garantiza aumentar el valor absoluto creado. Por eso el incentivo puede distorsionar incluso el diseño de las propuestas.",
+        "Una tasa muy alta puede obtenerse sobre una base reducida y aportar poco dinero. El incentivo puede excluir variantes de mayor escala o vida que generen más VPN. Revisar la caja y orientar la selección hacia el valor reduce ese sesgo."
+      ]
+    },
+    {
+      "id": "c06-q041",
+      "tema": "Margen ante errores",
+      "dificultad": "intermedia",
+      "pregunta": "Dos propuestas tienen el mismo VPN positivo, pero una exige cien veces más inversión y su TIR apenas supera el costo de capital. ¿Qué debería considerar la directora?",
+      "opciones": [
+        "La igualdad de VPN garantiza idéntica tolerancia porcentual a errores.",
+        "La propuesta grande tiene menor margen relativo ante errores; corresponde revisar sus pronósticos y los costos de decidir o esperar.",
+        "La propuesta grande es necesariamente fraudulenta.",
+        "La TIR cercana al costo demuestra que el VPN está mal calculado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La igualdad de VPN informa el mismo valor neto bajo los pronósticos utilizados. No iguala escalas ni sensibilidad a desviaciones porcentuales. La propuesta grande puede perder su excedente con una variación relativa mucho menor.",
+        "Un mismo excedente monetario representa una protección relativa menor sobre una base grande. Pequeños errores porcentuales pueden eliminar el VPN de esa propuesta. La revisión de estimaciones y la posibilidad de obtener información adicional son relevantes para decidir.",
+        "Un margen estrecho no prueba fraude ni manipulación. Puede tratarse de una inversión genuina cuyo rendimiento apenas excede el requerido. Lo adecuado es verificar las estimaciones y evaluar la incertidumbre.",
+        "Una TIR ligeramente superior al costo puede coexistir perfectamente con VPN positivo pequeño. No hay contradicción matemática. La cuestión es si ese excedente justifica los riesgos y costos de evaluación."
+      ]
+    },
+    {
+      "id": "c06-q042",
+      "tema": "Racionamiento de capital",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el objetivo cuando el presupuesto impide realizar todos los proyectos de VPN positivo?",
+      "opciones": [
+        "Repartir el dinero por igual entre todos los proyectos.",
+        "Elegir siempre el proyecto con mayor TIR individual.",
+        "Elegir el conjunto factible con mayor VPN agregado.",
+        "Minimizar la inversión aunque queden oportunidades rentables financiables."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un reparto igualitario no tiene relación necesaria con el valor generado. Puede destinar recursos a usos inferiores e incluso ser imposible si las inversiones son indivisibles. La asignación debe responder al VPN y a las restricciones.",
+        "La TIR más alta puede corresponder a una inversión pequeña que deja fondos mal utilizados. Tampoco refleja dependencias o restricciones en años posteriores. Se debe comparar el valor de los paquetes factibles.",
+        "La restricción modifica el conjunto de decisiones posibles. Dentro de las combinaciones permitidas, se sigue buscando la mayor creación de riqueza. Por eso la función objetivo es el VPN total y no una tasa individual.",
+        "Gastar menos no es un fin si impide crear más valor con recursos disponibles. El límite es un máximo de inversión, no una orden de minimizarla. Conviene usar fondos adicionales cuando aumentan el VPN de manera factible."
+      ]
+    },
+    {
+      "id": "c06-q043",
+      "tema": "índice de rentabilidad",
+      "dificultad": "intermedia",
+      "pregunta": "En este banco se define el índice de rentabilidad neto como VPN/inversión inicial. Un proyecto cuesta $400 y sus cobros tienen VP de $500. ¿Cuál es ese índice?",
+      "opciones": [
+        "4,00.",
+        "1,25.",
+        "0,25.",
+        "0,80."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 4,00 resulta de dividir inversión por VPN. Es la razón inversa de la solicitada. La medida pedida expresa valor neto por peso invertido, no pesos invertidos por unidad de valor.",
+        "El 1,25 surge de dividir VP de cobros por inversión. Esa es otra convención, equivalente al índice neto más uno en este caso. El enunciado pide expresamente VPN/inversión y por eso corresponde 0,25.",
+        "Primero se obtiene el VPN: 500 − 400 = $100. Luego se divide por la inversión inicial de $400. El índice neto es 100/400 = 0,25 de valor creado por cada peso invertido.",
+        "El 0,80 divide la inversión por el VP de los cobros. Invierte una razón bruta y no utiliza el VPN en el numerador. El índice neto pertinente es $100/$400."
+      ]
+    },
+    {
+      "id": "c06-q044",
+      "tema": "Convenciones del índice",
+      "dificultad": "basica",
+      "pregunta": "Con una única salida inicial y entradas posteriores, ¿qué relación hay entre VPN/inversión y VP de cobros/inversión?",
+      "opciones": [
+        "La segunda razón es siempre el doble de la primera.",
+        "Son iguales porque VP y VPN significan lo mismo.",
+        "La primera acepta proyectos si supera uno y la segunda si supera cero.",
+        "La segunda razón es igual a la primera más uno y conserva su ordenamiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La diferencia es aditiva, no multiplicativa. Un índice neto de 0,20 corresponde a una razón bruta de 1,20. No existe un factor dos válido para todos los proyectos.",
+        "El VP de los cobros todavía no resta la inversión inicial. El VPN sí la descuenta del valor obtenido. Confundirlos desplaza el índice en una unidad y lleva a interpretar mal su umbral.",
+        "Los umbrales están intercambiados. El índice neto debe ser positivo para indicar VPN positivo y la razón bruta debe superar uno. Ambos criterios reflejan que el VP de cobros excede el desembolso.",
+        "El VPN es el VP de cobros menos la inversión inicial. Al dividir ambos lados por la inversión, el índice neto es la razón bruta menos uno. Sumar una constante no altera el ordenamiento entre proyectos bajo estos supuestos."
+      ]
+    },
+    {
+      "id": "c06-q045",
+      "tema": "índice con desembolsos futuros",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto paga $100 hoy y $110 al final del año 1; cobra $363 al año 2. La tasa anual es 10%. Si el índice neto es VPN/VP de desembolsos, ¿cuánto vale?",
+      "opciones": [
+        "1,50.",
+        "1,00.",
+        "0,50.",
+        "0,80."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 1,50 es la razón bruta entre VP de cobros y VP de desembolsos. El índice solicitado tiene VPN en el numerador. Debe restarse una unidad a la razón bruta para obtener 0,50.",
+        "El 1,00 resulta de dividir el VPN por los $100 del momento inicial solamente. Eso omite el otro desembolso necesario para el proyecto. La base correcta incluye todos los pagos de inversión a valor presente.",
+        "El VP de los desembolsos es 100 + 110/1,10 = $200. El VP del cobro es 363/1,10² = $300, por lo que el VPN es $100. El índice neto es 100/200 = 0,50.",
+        "No corresponde mezclar desembolsos nominales de fechas diferentes con valores descontados. Tanto la inversión como los cobros deben expresarse en la misma fecha. Al hacerlo, la base de costos es $200 y el VPN es $100."
+      ]
+    },
+    {
+      "id": "c06-q046",
+      "tema": "Selección de un paquete",
+      "dificultad": "intermedia",
+      "pregunta": "Hay $100 de presupuesto y proyectos indivisibles independientes: A cuesta $100 y aporta VPN de $40; B cuesta $50 y aporta $25; C cuesta $50 y aporta $20. ¿Qué paquete conviene?",
+      "opciones": [
+        "B y C, con VPN total de $45.",
+        "A, porque tiene el mayor VPN individual.",
+        "A y B, con VPN total de $65.",
+        "Solo B, porque tiene el mayor índice neto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "B y C cuestan juntos $100, por lo que cumplen el presupuesto. Su VPN agregado es 25 + 20 = $45. Superan los $40 que agrega A utilizando la misma cantidad de recursos.",
+        "El mayor VPN individual no garantiza el mejor conjunto con fondos limitados. Dos alternativas más pequeñas pueden sumar más valor. Aquí, B y C aportan $45 frente a los $40 de A.",
+        "La suma de VPN sería $65, pero esa combinación cuesta $150. Viola el límite de $100 y no es factible. Antes de comparar valores hay que comprobar que cada paquete respete el presupuesto.",
+        "B tiene el mayor índice, pero todavía queda dinero después de aceptarlo. C cabe en el saldo y agrega otros $20 de valor. Elegir solo B deja sin aprovechar una oportunidad factible y positiva."
+      ]
+    },
+    {
+      "id": "c06-q047",
+      "tema": "Indivisibilidad y fondos sobrantes",
+      "dificultad": "avanzada",
+      "pregunta": "Con presupuesto de $100 hay tres proyectos indivisibles: A cuesta $60 y tiene VPN $36; B cuesta $50 y tiene VPN $29; C cuesta $50 y tiene VPN $29. ¿Qué conviene?",
+      "opciones": [
+        "El 100% de A y el 80% de B.",
+        "B y C, con VPN de $58.",
+        "A y B, porque ambos tienen índice positivo.",
+        "A, porque su índice neto de 0,60 es el mayor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La propuesta utiliza exactamente $100, pero contradice la indivisibilidad del enunciado. No puede comprarse una fracción de B. Esa solución solo podría evaluarse si se permitieran inversiones parciales proporcionales.",
+        "A tiene el mayor índice neto, pero deja $40 que no permiten completar B ni C. B y C usan exactamente $100 y generan 29 + 29 = $58. Esto supera los $36 de A y muestra el límite del ordenamiento simple con indivisibilidades.",
+        "A y B requieren $110. Que sus índices sean positivos no elimina la restricción presupuestaria. Una combinación que excede los fondos disponibles debe excluirse de la selección.",
+        "El índice de A supera al 0,58 de B y C, pero el dinero sobrante importa. No se puede invertir parcialmente en los otros proyectos. Comparar paquetes completos muestra que B y C crean más riqueza."
+      ]
+    },
+    {
+      "id": "c06-q048",
+      "tema": "Proyectos divisibles",
+      "dificultad": "intermedia",
+      "pregunta": "A cuesta $60 y tiene VPN $30; B cuesta $80 y tiene VPN $24. Son divisibles proporcionalmente, independientes y solo hay una restricción de $100 hoy. ¿Cómo se maximiza el VPN?",
+      "opciones": [
+        "Hacer todo A y la mitad de B, con VPN total de $42.",
+        "Hacer todo B y un tercio de A, con VPN total de $34.",
+        "Hacer la mitad de cada uno, con VPN total de $27.",
+        "Hacer todo A y todo B, con VPN total de $54."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El índice neto de A es 30/60 = 0,50 y el de B es 24/80 = 0,30. Se destinan primero $60 a completar A y los $40 restantes a la mitad de B. El VPN total es 30 + 0,5 × 24 = $42.",
+        "Esta combinación es factible pero comienza por el proyecto menos productivo por peso. Todo B y un tercio de A generan 24 + 10 = $34. Reasignar fondos hacia A aumenta el VPN hasta $42.",
+        "La mitad de cada proyecto usa $70 y genera $27. Todavía quedan $30 que podrían invertirse con VPN positivo. No hay motivo para dejar ese saldo cuando las fracciones proporcionales están permitidas.",
+        "Completar ambos proyectos requiere $140. La suma de sus VPN no hace factible el gasto. El presupuesto obliga a realizar solo una parte del proyecto de menor índice."
+      ]
+    },
+    {
+      "id": "c06-q049",
+      "tema": "Restricciones en varios años",
+      "dificultad": "avanzada",
+      "pregunta": "Hay $100 disponibles hoy y $20 adicionales al año 1; los cobros del año 1 pueden reinvertirse. A cuesta $100 hoy, cobra $80 al año 1 y tiene VPN $20. B cuesta $100 hoy, no cobra al año 1 y tiene VPN $30. D cuesta $100 al año 1 y tiene VPN actual $25. Son indivisibles; ¿qué paquete conviene?",
+      "opciones": [
+        "Solo B, porque tiene el mayor VPN entre A y B.",
+        "A y D, con VPN actual total de $45.",
+        "B y D, con VPN actual total de $55.",
+        "A y B, para diversificar los cobros."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La comparación aislada omite la oportunidad que habilita la caja temprana de A. A y D forman un conjunto factible y agregan $45. Las restricciones de varios años exigen evaluar el programa completo.",
+        "A usa el presupuesto inicial y genera $80 en el año 1. Junto con los $20 adicionales, permite financiar D por $100. El VPN total, ya medido hoy, es 20 + 25 = $45 y supera los $30 de B solo.",
+        "B no genera caja en el año 1, de modo que solo habría $20 disponibles para D. Su costo de $100 no puede cubrirse. El paquete tiene un VPN atractivo en papel, pero no satisface la restricción temporal.",
+        "A y B cuestan juntos $200 hoy y solo hay $100. La diversificación no permite violar el presupuesto. Primero se verifica factibilidad y después se compara el VPN agregado."
+      ]
+    },
+    {
+      "id": "c06-q050",
+      "tema": "Exclusión y dependencia",
+      "dificultad": "avanzada",
+      "pregunta": "En un modelo binario, xA, xB, xG y xD valen 0 o 1. A y B usan el mismo terreno; G solo puede hacerse si se hace D. ¿Qué restricciones corresponden?",
+      "opciones": [
+        "xA + xB ≤ 1 y xG ≤ xD.",
+        "xA + xB ≥ 1 y xD ≤ xG.",
+        "xA = xB y xG + xD ≤ 1.",
+        "xA + xB ≤ 2 y xG ≥ xD."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La primera desigualdad permite elegir como máximo uno entre A y B. La segunda impide que G valga uno si D vale cero. D puede realizarse sin G, que es lo que significa una dependencia en una sola dirección.",
+        "La primera condición obliga a elegir al menos uno y permite elegir ambos. La segunda invierte la dependencia, exigiendo G cuando se hace D. Ninguna representa correctamente las condiciones del enunciado.",
+        "Igualar A y B obliga a elegirlos juntos o descartarlos juntos. Además, la exclusión entre G y D impediría realizar el complemento con su base. Se necesitan una exclusión para A y B y una implicación de G hacia D.",
+        "Con variables binarias, permitir una suma de hasta dos no restringe A y B. La desigualdad de dependencia también está invertida. Las restricciones correctas son xA + xB ≤ 1 y xG ≤ xD."
+      ]
+    },
+    {
+      "id": "c06-q051",
+      "tema": "Programación de inversiones",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué función objetivo debe usar un modelo de selección de proyectos con presupuestos y restricciones operativas?",
+      "opciones": [
+        "Maximizar Σ VPNi × xi, sujeto a los límites de recursos y a las relaciones entre proyectos.",
+        "Maximizar la suma de las TIR individuales sin ponderar.",
+        "Minimizar la suma de los VPN positivos.",
+        "Maximizar solamente el dinero desembolsado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada variable indica cuánto de un proyecto se selecciona. Su VPN mide el aporte a la riqueza y permite sumar contribuciones compatibles. Los límites presupuestarios y las relaciones de exclusión o dependencia definen las combinaciones factibles.",
+        "Las TIR no tienen una propiedad aditiva de valor. Su suma puede favorecer muchos proyectos pequeños sobre otro que cree más riqueza. El objetivo económico requiere importes monetarios presentes.",
+        "Minimizar los VPN positivos conduce a dejar oportunidades valiosas sin realizar. La restricción define cuánto puede invertirse, pero no cambia el objetivo de crear riqueza. Debe buscarse el mayor VPN factible.",
+        "Gastar más puede financiar proyectos de poco valor o incluso destructivos. El desembolso es consumo de recursos, no creación de riqueza. El objetivo debe ser el excedente de valor actual que producen esos recursos."
+      ]
+    },
+    {
+      "id": "c06-q052",
+      "tema": "Dominio de las variables",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuándo corresponde usar variables binarias en lugar de permitir cualquier fracción entre 0 y 1?",
+      "opciones": [
+        "Cuando cada proyecto debe hacerse completo o no hacerse.",
+        "Cuando se quiere que el modelo produzca siempre un VPN mayor.",
+        "Cuando todos los proyectos son perfectamente divisibles.",
+        "Cuando se pretende eliminar la necesidad de restricciones presupuestarias."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una variable binaria representa una decisión de sí o no. Las fracciones continuas solo son válidas si los proyectos pueden escalarse como supone el modelo. Con indivisibilidades, se necesita programación entera o mixta y no basta la relajación lineal.",
+        "La elección del dominio representa posibilidades reales, no una preferencia por resultados mayores. Restringir variables a cero o uno puede reducir el máximo frente al modelo fraccionario. Ese resultado menor puede ser el único económicamente realizable.",
+        "Si la divisibilidad proporcional es genuina, pueden usarse variables continuas acotadas. Imponer binariedad eliminaría soluciones realizables. El dominio se elige según la tecnología y los contratos del proyecto.",
+        "Las variables binarias no limitan por sí solas cuánto dinero se gasta. Todavía deben sumarse los consumos de recursos y compararse con los presupuestos. El dominio de decisión y las restricciones cumplen funciones distintas."
+      ]
+    },
+    {
+      "id": "c06-q053",
+      "tema": "Precio sombra",
+      "dificultad": "avanzada",
+      "pregunta": "En el óptimo, el VPN máximo sube de $80 a $82 cuando el presupuesto aumenta de $100 a $101, sin cambiar el tramo marginal de la solución. ¿Cuál es el precio sombra del presupuesto?",
+      "opciones": [
+        "2% de TIR adicional.",
+        "$2 de VPN por cada peso adicional de presupuesto.",
+        "$82 por cada peso de presupuesto.",
+        "$1,25 de inversión por peso de VPN."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El objetivo está expresado en dinero actual, no en una tasa interna. No corresponde transformar el incremento de VPN en puntos de TIR. La unidad del precio sombra es VPN por unidad del recurso restringido.",
+        "El precio sombra mide el cambio marginal del objetivo al relajar una restricción. Aquí, un peso adicional permite aumentar el VPN en dos pesos. La interpretación es local y puede cambiar cuando se modifica el conjunto de restricciones activas.",
+        "Los $82 son el nivel final del VPN máximo. El precio sombra mide una variación, no el valor total del objetivo. La variación relevante es 82 − 80 = $2 por un peso adicional.",
+        "La razón entre niveles de inversión y VPN no mide la mejora marginal. Debe compararse cuánto cambia el VPN óptimo cuando se agrega una unidad de presupuesto. En este caso, el cociente de cambios es 2/1 = 2."
+      ]
+    },
+    {
+      "id": "c06-q054",
+      "tema": "Costo del límite presupuestario",
+      "dificultad": "intermedia",
+      "pregunta": "Cuatro proyectos independientes e indivisibles tienen inversiones y VPN: A ($60; $24), B ($40; $20), C ($40; $18) y D ($20; $6). Con presupuesto de $100, ¿cuánto VPN se pierde frente a financiar todos?",
+      "opciones": [
+        "$24.",
+        "$20.",
+        "$18.",
+        "$6."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sin límite, el VPN total sería 24 + 20 + 18 + 6 = $68. Con $100, B + C + D genera $44, igual que A + B y mayor que los demás paquetes factibles. La pérdida de valor por el límite es 68 − 44 = $24.",
+        "Los $20 son el VPN de B, pero la pérdida no se identifica con cualquier proyecto aislado. Hay que comparar el mejor programa restringido con todos los proyectos positivos. La diferencia correcta es $24.",
+        "Los $18 corresponden a C, no al valor sacrificado total. Si se elige A + B, también queda afuera D y la pérdida conjunta es 18 + 6. Otra solución óptima excluye A y pierde igualmente $24.",
+        "Excluir solo D no alcanza para cumplir el presupuesto. A, B y C juntos costarían $140. La restricción obliga a sacrificar más valor que los $6 de D."
+      ]
+    },
+    {
+      "id": "c06-q055",
+      "tema": "Datos para optimizar",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué limita el uso práctico de modelos complejos de racionamiento de capital?",
+      "opciones": [
+        "La garantía de que cualquier pronóstico se vuelve correcto al optimizarlo.",
+        "La calidad de los datos, la complejidad y el hecho de que las oportunidades futuras se descubren continuamente.",
+        "La falta de una función objetivo monetaria.",
+        "La imposibilidad matemática de incorporar más de un presupuesto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Optimizar datos sesgados produce una elección óptima respecto de esos datos, no respecto de los resultados reales. Una herramienta matemática no corrige automáticamente errores de pronóstico. La confiabilidad de la información sigue siendo indispensable.",
+        "El modelo resuelve un problema definido con los datos disponibles. No garantiza que esos datos sean confiables ni que incluyan oportunidades todavía desconocidas. Por eso la sofisticación de la optimización debe acompañarse de una evaluación de sus supuestos.",
+        "El VPN agregado ofrece una función objetivo monetaria clara. Es posible maximizarlo sujeto a recursos y relaciones entre proyectos. La dificultad no es carecer de objetivo, sino modelar de manera útil la realidad.",
+        "Los modelos pueden incluir presupuestos de varios períodos. Precisamente, esa capacidad supera el ordenamiento simple por índices. El problema práctico está en representar bien las restricciones y estimar los datos."
+      ]
+    },
+    {
+      "id": "c06-q056",
+      "tema": "Racionamiento débil",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza al racionamiento débil de capital?",
+      "opciones": [
+        "Un límite interno de inversión usado como instrumento de planificación y control.",
+        "La imposibilidad de la empresa y de sus accionistas de acceder al mercado financiero.",
+        "La obligación de aceptar cualquier proyecto con TIR positiva.",
+        "Un costo de oportunidad del capital igual a cero."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El límite se impone dentro de la organización y no necesariamente refleja falta de fondos externos. Puede obligar a las divisiones a priorizar propuestas o moderar el crecimiento. Si sacrifica oportunidades importantes, corresponde revisar su conveniencia.",
+        "La falta efectiva de acceso externo corresponde a una restricción de otra naturaleza. El racionamiento débil puede existir aunque la empresa consiga fondos. Se trata de una regla administrativa, no de una imposibilidad financiera general.",
+        "Una TIR positiva puede estar por debajo del costo de capital. Además, la TIR no selecciona por sí sola el mejor conjunto restringido. Un límite interno no elimina el criterio de maximizar VPN factible.",
+        "La disponibilidad de financiamiento no vuelve gratuito al capital. Los accionistas todavía tienen alternativas con rendimientos exigidos por riesgo y plazo. Esos costos siguen siendo pertinentes bajo una restricción interna."
+      ]
+    },
+    {
+      "id": "c06-q057",
+      "tema": "Control interno y recursos reales",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede financiarse, pero limita la inversión de una división por falta de gerentes experimentados y por pronósticos sistemáticamente optimistas. ¿Cómo interpretar la decisión?",
+      "opciones": [
+        "El presupuesto puede aproximar una restricción organizativa y disciplinar propuestas, pero no corrige por sí solo los pronósticos.",
+        "Es una prueba de que el mercado de capitales está cerrado.",
+        "La disponibilidad de dinero garantiza que sobran todos los demás recursos.",
+        "Un modelo de optimización elimina automáticamente el sesgo de los gerentes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El tiempo directivo y las capacidades operativas pueden ser escasos aunque haya fondos. Un techo de gasto también puede forzar prioridades ante propuestas exageradas. Sin embargo, las estimaciones sesgadas requieren revisión propia para que la selección sea confiable.",
+        "El enunciado afirma que la empresa sí puede obtener financiamiento. La limitación surge de decisiones internas y recursos organizativos. No demuestra una barrera externa de acceso al capital.",
+        "Financiar un proyecto no garantiza contar con personal, equipos o capacidad de gestión. Esos recursos pueden limitar el crecimiento de manera independiente. Deben reflejarse en la elección del programa de inversión.",
+        "El modelo utiliza los datos que recibe. Si todos los flujos están inflados, puede optimizar sobre una imagen equivocada de las oportunidades. La disciplina presupuestaria no reemplaza la validación de pronósticos."
+      ]
+    },
+    {
+      "id": "c06-q058",
+      "tema": "Racionamiento fuerte",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué implica un racionamiento fuerte de capital?",
+      "opciones": [
+        "Que nunca pueda usarse el VPN para decidir.",
+        "Cualquier presupuesto anual aprobado por un directorio.",
+        "Una barrera efectiva para obtener fondos externos, cuya relevancia para el VPN depende también del acceso de los accionistas al mercado.",
+        "Que la TIR se vuelva aditiva y reemplace al VPN."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La barrera puede afectar solo a la empresa y dejar a sus accionistas acceso a mercados competitivos. En ese caso, maximizar el VPN factible sigue siendo coherente. Hay que analizar la naturaleza de la imperfección antes de descartar el criterio.",
+        "Un presupuesto aprobado puede ser una regla interna revisable. Eso corresponde al racionamiento débil si no existe una barrera externa efectiva. La clasificación depende del origen de la restricción, no del documento que la formaliza.",
+        "La restricción fuerte refleja una imperfección o barrera real de financiamiento. Eso no invalida automáticamente el objetivo de maximizar riqueza. Importa si los accionistas conservan acceso a mercados competitivos para ajustar sus carteras.",
+        "La escasez de fondos no cambia las propiedades matemáticas de las tasas internas. Las TIR continúan sin ser sumables como valores monetarios. El problema se resuelve eligiendo paquetes factibles y valorándolos correctamente."
+      ]
+    },
+    {
+      "id": "c06-q059",
+      "tema": "Acceso de los accionistas",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa no puede obtener más financiamiento, pero sus accionistas pueden comprar, vender, prestar y endeudarse en mercados competitivos. ¿Qué objetivo de inversión mantiene fundamento?",
+      "opciones": [
+        "Aceptar primero cualquier proyecto de recuperación nominal más rápida.",
+        "Elegir proyectos según las necesidades personales de consumo de cada gerente.",
+        "Maximizar el VPN agregado dentro de los fondos disponibles.",
+        "Usar una tasa de descuento nula porque la empresa está aislada."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La recuperación rápida no garantiza mayor riqueza ni el mejor paquete factible. Puede ser relevante para restricciones temporales concretas, que deben modelarse. La decisión general continúa orientada al VPN agregado.",
+        "Las necesidades de los gerentes no definen el objetivo económico de los propietarios. Los accionistas pueden acomodar sus preferencias mediante transacciones personales. La empresa debe procurar el mayor valor agregado disponible.",
+        "Los accionistas pueden ajustar sus carteras y consumo mediante el mercado. La empresa les aporta valor al aumentar su riqueza con los recursos que controla. La barrera corporativa por sí sola no destruye el fundamento de maximizar VPN factible.",
+        "La ausencia de fondos corporativos adicionales no elimina las oportunidades alternativas de los accionistas. El dinero sigue teniendo costo temporal y de riesgo. Una tasa cero sobrevaloraría injustificadamente los cobros futuros."
+      ]
+    },
+    {
+      "id": "c06-q060",
+      "tema": "Propietario aislado del mercado",
+      "dificultad": "avanzada",
+      "pregunta": "El dueño concentra casi toda su riqueza en una empresa, no consigue crédito y no puede vender su participación a un precio que considere razonable. ¿Qué advertencia corresponde?",
+      "opciones": [
+        "El costo de oportunidad de mercado puede dejar de representar sus alternativas personales y se debilita el fundamento habitual del VPN.",
+        "La tasa de mercado sigue representando exactamente sus oportunidades por definición.",
+        "Debe aceptar toda inversión con un cobro futuro positivo.",
+        "Su riqueza concentrada garantiza que la TIR sea la mejor medida de bienestar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El argumento habitual supone que el propietario puede ajustar libremente su cartera en mercados competitivos. Si está efectivamente aislado, sus alternativas y restricciones personales pueden ser distintas. Esto exige analizar la imperfección y no aplicar mecánicamente el estándar de mercado.",
+        "La tasa de mercado representa oportunidades disponibles en ese mercado. Si el dueño no puede acceder a ellas, la equivalencia deja de ser automática. Justamente por eso importa distinguir barreras corporativas de restricciones personales.",
+        "Un cobro futuro positivo puede exigir costos mayores o comprometer recursos esenciales. La falta de acceso financiero no elimina la necesidad de comparar sacrificios y beneficios. Tampoco convierte cualquier entrada futura en una mejora de bienestar.",
+        "La concentración patrimonial no concede a la TIR una propiedad nueva. Siguen existiendo problemas de escala, calendario y raíces múltiples. La evaluación requiere considerar las alternativas realmente disponibles para ese propietario."
+      ]
+    },
+    {
+      "id": "c06-q061",
+      "tema": "Minicaso: flujos y elección",
+      "dificultad": "intermedia",
+      "pregunta": "Dos procesos excluyentes cuestan $300 hoy y no tienen valor residual. Rápido genera $130 anuales durante tres años; Lento genera $100 anuales durante cinco años. Sin impuestos y con tasa de 10%, ¿cuál conviene?",
+      "opciones": [
+        "Rápido: basta con que recupere antes y genere más caja por año.",
+        "Rápido: VPN aproximado de $90, frente a $200 de Lento.",
+        "Lento: VPN aproximado de $79,08, frente a $23,29 de Rápido.",
+        "Son equivalentes porque la inversión inicial es la misma."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Rápido efectivamente entrega más caja anual y recupera nominalmente antes. Sin embargo, Lento mantiene sus cobros durante dos años adicionales. El valor descontado de ese horizonte compensa su menor flujo anual.",
+        "Los importes $90 y $200 son excedentes nominales sin descuento. Incluso esos totales no justifican elegir Rápido. La comparación correcta considera el valor presente de todos los años de caja.",
+        "El VP de Rápido es 130 × [1 − 1/1,10³]/0,10 = $323,29 aproximadamente. El de Lento es 100 × [1 − 1/1,10⁵]/0,10 = $379,08. Restando $300 en ambos casos, Lento crea más valor con VPN de $79,08.",
+        "La igualdad de desembolso no implica igualdad de beneficios presentes. Las entradas tienen distinta duración y monto. Al descontarlas, Lento aporta aproximadamente $55,79 más de VPN."
+      ]
+    },
+    {
+      "id": "c06-q062",
+      "tema": "Minicaso: activos y rendimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo de $240 se deprecia linealmente en cuatro años hasta cero. La utilidad anual es $24. Usando el valor contable al inicio de cada año, ¿qué rendimientos contables tienen los años 1 y 4?",
+      "opciones": [
+        "10% y 40%, aunque la utilidad no cambie.",
+        "10% y 10%, porque la utilidad es constante.",
+        "40% y 10%, porque la base contable crece.",
+        "20% y 20%, porque siempre debe usarse el activo promedio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La depreciación anual es 240/4 = $60. Los valores iniciales de los años 1 y 4 son $240 y $60. Las razones 24/240 y 24/60 dan 10% y 40%, mostrando el efecto de una base contable decreciente.",
+        "La utilidad es constante, pero el denominador no lo es. La depreciación reduce el valor en libros cada año. Por eso el rendimiento calculado sobre la base inicial aumenta hasta 40% en el año 4.",
+        "El activo no crece bajo depreciación lineal sin nuevas inversiones. Su valor contable inicial baja de $240 a $60. La secuencia propuesta invierte el efecto de esa disminución.",
+        "Una utilidad de $24 sobre una inversión promedio de $120 daría 20%. Pero el enunciado exige la base al inicio de cada año. Cambiar el denominador responde una pregunta diferente y oculta la evolución anual."
+      ]
+    },
+    {
+      "id": "c06-q063",
+      "tema": "Minicaso: promedio contable",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $500 se deprecia linealmente a cero y genera utilidad anual constante de $40. Si la tasa contable promedio se define como utilidad anual dividida por inversión promedio, ¿cuánto vale?",
+      "opciones": [
+        "125%.",
+        "8%.",
+        "16%.",
+        "40%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 125% no relaciona correctamente utilidad y activos. La utilidad anual de $40 es mucho menor que la inversión promedio de $250. La razón correcta es 40/250 y no su inversa ni un cociente de unidades incompatibles.",
+        "El 8% utiliza $500 como denominador. Esa es la inversión inicial, no la inversión promedio solicitada. Con depreciación lineal hasta cero, la base promedio especificada es $250.",
+        "La inversión promedio entre el valor inicial y el residual es (500 + 0)/2 = $250. Dividir la utilidad anual de $40 por esa base da 0,16. El 16% es una medida contable y no sustituye al VPN.",
+        "No existe una base de $100 que justifique dividir 40 por 100 en este caso. La base debe construirse con los valores contables informados. Su promedio es $250 y el rendimiento es 16%."
+      ]
+    },
+    {
+      "id": "c06-q064",
+      "tema": "Criterios complementarios",
+      "dificultad": "basica",
+      "pregunta": "Un comité informa VPN, TIR, recuperación y rendimiento contable para cada propuesta. ¿Cómo debería usar esas medidas?",
+      "opciones": [
+        "Usar el VPN como guía de creación de valor y las demás como información complementaria, entendiendo sus límites.",
+        "Elegir por votación de indicadores, aunque el VPN sea negativo.",
+        "Suponer que cuatro indicadores sustituyen cualquier revisión de los flujos estimados.",
+        "Rechazar el VPN si la TIR resulta más fácil de comunicar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las medidas responden preguntas diferentes y pueden ayudar a describir una inversión. El VPN compara costos y beneficios descontados para medir valor agregado. Los indicadores complementarios requieren interpretación y no corrigen estimaciones deficientes.",
+        "Los indicadores no son votos independientes de igual validez. Varias medidas defectuosas pueden coincidir en una decisión que destruye riqueza. Las discrepancias deben explicarse por sus supuestos, no resolverse contando mayorías.",
+        "Todos los indicadores pueden depender de la misma caja mal pronosticada. Multiplicar métricas no mejora automáticamente esos datos. La revisión económica de supuestos y estimaciones sigue siendo necesaria.",
+        "La facilidad de comunicación no garantiza una decisión correcta. La TIR es útil si se conocen sus dificultades y se aplica de manera compatible con el VPN. El comité debe explicar los resultados sin sustituir valor por comodidad."
+      ]
+    }
+  ]
+}

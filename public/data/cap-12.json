@@ -1,0 +1,1450 @@
+{
+  "capitulo": 12,
+  "titulo": "Inversi?n, estrategia y rentas econ?micas",
+  "preguntas": [
+    {
+      "id": "c12-q001",
+      "tema": "Pron?sticos y falsos positivos",
+      "dificultad": "basica",
+      "pregunta": "?Por qu? un VPN calculado positivo no alcanza, por s? solo, para recomendar una inversi?n?",
+      "opciones": [
+        "Puede reflejar una ventaja econ?mica real o errores en los flujos proyectados.",
+        "Demuestra que la empresa puede conseguir financiamiento barato.",
+        "Garantiza rentas econ?micas permanentes.",
+        "El descuento elimina autom?ticamente los errores de estimaci?n."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El VPN depende de los flujos que se ingresan al modelo. Un resultado positivo puede surgir tanto de una ventaja real como de proyecciones equivocadas. Por eso hay que investigar qu? permite ganar m?s que el costo de capital.",
+        "Conseguir fondos y crear valor son problemas distintos. Un pr?stamo accesible no demuestra que los ingresos del proyecto est?n bien estimados. La recomendaci?n requiere evaluar sus flujos y su ventaja competitiva.",
+        "Un VPN positivo no informa cu?nto durar? la ventaja. La entrada de rivales puede reducir precios y eliminar las rentas futuras. La duraci?n debe justificarse dentro del pron?stico.",
+        "Descontar reconoce el tiempo y el riesgo de los flujos. No corrige ingresos exagerados ni costos omitidos. Una f?rmula bien aplicada a datos malos sigue produciendo una valuaci?n poco confiable."
+      ]
+    },
+    {
+      "id": "c12-q002",
+      "tema": "Selecci?n de proyectos y errores",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa analiza cientos de proyectos con pron?sticos honestos y errores de media cero. ?Qu? problema aparece si elige solamente los VPN estimados m?s altos?",
+      "opciones": [
+        "Los errores se compensan necesariamente dentro de los proyectos elegidos.",
+        "La selecci?n puede concentrar proyectos cuyos flujos fueron sobreestimados.",
+        "La honestidad de los pronosticadores vuelve exactos los VPN.",
+        "Analizar m?s proyectos garantiza que todos los elegidos creen valor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La compensaci?n puede existir en la poblaci?n completa. Al excluir proyectos con estimaciones bajas, tambi?n pueden excluirse muchos errores negativos. No hay motivo para esperar compensaci?n dentro de la selecci?n.",
+        "Una media cero describe el conjunto de errores antes de seleccionar. Los valores estimados extremos pueden combinar oportunidades buenas con errores muy favorables. Elegir esos extremos puede sesgar hacia arriba el VPN del grupo aprobado.",
+        "Honestidad significa que no hay una distorsi?n deliberada. Aun as?, demanda, precios y costos futuros son inciertos. El pron?stico puede ser sincero y estar equivocado.",
+        "Una b?squeda m?s amplia puede encontrar buenas oportunidades. Tambi?n aumenta la posibilidad de observar errores positivos excepcionalmente grandes. Hace falta contrastar los resultados con evidencia econ?mica independiente."
+      ]
+    },
+    {
+      "id": "c12-q003",
+      "tema": "Precios de mercado como referencia",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l es el punto de partida m?s ?til para valuar un activo homog?neo que se negocia en un mercado competitivo?",
+      "opciones": [
+        "Una nueva valuaci?n de cada pieza, ignorando las transacciones observadas.",
+        "Su costo hist?rico actualizado por la inflaci?n acumulada.",
+        "Su precio de mercado, ajustado por diferencias relevantes para la empresa.",
+        "El valor contable neto de depreciaci?n."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Reconstruir todo el valor puede agregar errores sin aportar informaci?n nueva. Si el activo es comparable y el mercado competitivo, existe una referencia directa. La estimaci?n propia debe concentrarse en las diferencias relevantes.",
+        "El costo hist?rico describe una compra pasada. No necesariamente refleja las oportunidades ni los precios actuales. Para decidir hoy importa el valor de mercado y su costo de oportunidad.",
+        "El precio observado resume c?mo otros participantes valoran ese activo. Sirve como referencia y evita volver a estimar informaci?n ya incorporada por el mercado. Luego se investigan diferencias de calidad, costos o usos que generen valor adicional.",
+        "La depreciaci?n contable distribuye un costo seg?n reglas de registro. No mide necesariamente cu?nto se obtiene vendiendo el activo. Un activo totalmente depreciado puede conservar un valor econ?mico importante."
+      ]
+    },
+    {
+      "id": "c12-q004",
+      "tema": "Valuaci?n residual de un paquete",
+      "dificultad": "basica",
+      "pregunta": "Un paquete incluye una m?quina est?ndar y una capacitaci?n exclusiva por $82.000. M?quinas id?nticas se venden por $75.000 en un mercado competitivo. ?Cu?nto se paga impl?citamente por la capacitaci?n?",
+      "opciones": [
+        "$82.000.",
+        "$75.000.",
+        "$157.000.",
+        "$7.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $82.000 incluyen tanto la m?quina como la capacitaci?n. Atribuir el total a la capacitaci?n ignora el activo que tambi?n se recibe. Hay que restar el precio competitivo de la m?quina.",
+        "Los $75.000 corresponden a la m?quina sola. No representan el servicio adicional. La capacitaci?n se identifica por la diferencia entre el paquete y ese precio.",
+        "Sumar ambos precios cuenta la m?quina dos veces. El objetivo es aislar un componente dentro del paquete. Por eso corresponde una resta y no una suma.",
+        "La m?quina ya tiene un precio de referencia de $75.000. El componente adicional del paquete cuesta $82.000 ? $75.000 = $7.000. Ese importe debe compararse con el beneficio particular de la capacitaci?n."
+      ]
+    },
+    {
+      "id": "c12-q005",
+      "tema": "Informaci?n p?blica y privada",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista obtiene informaci?n privada leg?tima sobre una mejora operativa todav?a desconocida. ?C?mo se conecta la analog?a del activo est?ndar y el beneficio adicional con su valuaci?n?",
+      "opciones": [
+        "Parte del precio burs?til y estima el valor incremental de la informaci?n nueva.",
+        "Vuelve a sumar al precio todo el valor de la informaci?n p?blica.",
+        "Supone que cualquier noticia privada duplica el valor de las acciones.",
+        "Reemplaza el precio de mercado por el patrimonio contable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio sirve como referencia para la informaci?n que el mercado ya conoce. La tarea adicional consiste en estimar qu? cambia con la mejora operativa. Esto exige evitar que los mismos beneficios se cuenten dos veces.",
+        "El precio ya incorpora la valoraci?n de la informaci?n p?blica disponible. Sumarla otra vez duplica componentes del valor. Solo corresponde ajustar por informaci?n o interpretaciones verdaderamente nuevas.",
+        "La condici?n de privada no determina la magnitud del efecto. Una noticia puede ser valiosa, irrelevante o negativa. Hay que estimar sus flujos incrementales y descontarlos de manera apropiada.",
+        "El patrimonio contable no reemplaza la valoraci?n de los flujos futuros. Puede omitir capacidades, crecimiento y otros activos econ?micos. La informaci?n nueva debe evaluarse en t?rminos de valor incremental."
+      ]
+    },
+    {
+      "id": "c12-q006",
+      "tema": "Separar operaci?n e inmueble",
+      "dificultad": "intermedia",
+      "pregunta": "Una cadena presenta un local con VPN positivo basado principalmente en una fuerte reventa del edificio. La empresa no tiene conocimientos inmobiliarios especiales. ?Qu? revisi?n corresponde?",
+      "opciones": [
+        "Aprobar porque cualquier reventa elevada valida la operaci?n comercial.",
+        "Evaluar el comercio pagando un alquiler de mercado y analizar el inmueble por separado.",
+        "Eliminar el valor del inmueble de todos los an?lisis.",
+        "Reducir arbitrariamente la tasa hasta que el comercio resulte rentable."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una ganancia inmobiliaria no demuestra que el comercio use bien el edificio. Podr?a ser mejor comprarlo y alquilarlo a otro operador. La operaci?n debe compararse con ese uso alternativo.",
+        "Separar los negocios permite identificar de d?nde sale el valor. El local debe justificar el uso del inmueble frente a alternativas que pagan un alquiler de mercado. La decisi?n de asumir exposici?n inmobiliaria se analiza por su cuenta.",
+        "El inmueble tiene valor y un costo de oportunidad real. Ignorarlo tambi?n distorsiona la decisi?n. Lo correcto es reconocerlo separadamente y evitar que oculte una operaci?n d?bil.",
+        "La tasa debe reflejar el riesgo del flujo correspondiente. Cambiarla para obtener una aprobaci?n no aporta evidencia econ?mica. Primero deben revisarse los flujos y las alternativas de uso."
+      ]
+    },
+    {
+      "id": "c12-q007",
+      "tema": "Alquiler y costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "Un edificio propio puede alquilarse a terceros por $900.000 anuales netos. Un comercio de la empresa genera $700.000 anuales antes de reconocer el uso del edificio. Si todo lo dem?s es igual, ?cu?l es el resultado incremental anual de usarlo para ese comercio?",
+      "opciones": [
+        "$700.000.",
+        "$200.000.",
+        "?$200.000.",
+        "$1.600.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este importe es el flujo comercial antes del costo del inmueble. Omite el ingreso que podr?a obtenerse con el uso alternativo. La comparaci?n debe descontar los $900.000 sacrificados.",
+        "La diferencia de magnitudes es $200.000, pero el signo est? invertido. El comercio genera menos que el alquiler alternativo. Por eso utilizar el edificio de esa manera destruye valor relativo.",
+        "Operar el comercio obliga a renunciar al alquiler de terceros. El flujo incremental es $700.000 ? $900.000 = ?$200.000. Tener el edificio en propiedad no elimina ese costo de oportunidad.",
+        "Sumar los dos ingresos supone que se pueden obtener simult?neamente. En este caso los usos son excluyentes. La comparaci?n correcta resta el alquiler sacrificado al flujo del comercio."
+      ]
+    },
+    {
+      "id": "c12-q008",
+      "tema": "Perpetuidad creciente inmobiliaria",
+      "dificultad": "intermedia",
+      "pregunta": "Un inmueble genera un alquiler neto de $600.000 al final del a?o 1, con crecimiento perpetuo del 2% anual. La tasa adecuada es 8%. ?Cu?l es su valor hoy?",
+      "opciones": [
+        "$7,5 millones.",
+        "$30 millones.",
+        "$10,2 millones.",
+        "$10 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$7,5 millones resulta de dividir $600.000 por 8%. Esa f?rmula supone un alquiler perpetuo constante. Aqu? el alquiler crece y ese crecimiento debe reconocerse.",
+        "$30 millones surge de dividir el alquiler por el crecimiento. El crecimiento no es la tasa de capitalizaci?n. La diferencia relevante es entre rendimiento requerido y crecimiento.",
+        "$10,2 millones aplica otro 2% al alquiler antes de capitalizarlo. El enunciado ya entrega el alquiler del a?o 1. Aumentarlo otra vez desplaza indebidamente el flujo inicial.",
+        "Para una perpetuidad creciente se usa VP = alquiler del a?o 1 dividido por r ? g. El c?lculo es $600.000 / (0,08 ? 0,02) = $10 millones. La f?rmula requiere que la tasa sea mayor que el crecimiento."
+      ]
+    },
+    {
+      "id": "c12-q009",
+      "tema": "Rendimiento inmobiliario",
+      "dificultad": "intermedia",
+      "pregunta": "Un inmueble vale $10 millones y se espera que valga $10,2 millones dentro de un a?o, inmediatamente despu?s de cobrar el alquiler. Si el rendimiento requerido es 8%, ?qu? alquiler neto al cierre del a?o es compatible con ese valor?",
+      "opciones": [
+        "$600.000.",
+        "$800.000.",
+        "$200.000.",
+        "$1.000.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento total requerido es $10 millones ? 8% = $800.000. La apreciaci?n esperada aporta $200.000 de ese rendimiento. El alquiler debe completar los $600.000 restantes.",
+        "$800.000 reconoce el rendimiento requerido pero omite la ganancia de capital. El inversor tambi?n espera recibir una propiedad m?s valiosa. Contar ambas fuentes exige reducir el alquiler necesario.",
+        "$200.000 es solamente la apreciaci?n del inmueble. No alcanza para completar el rendimiento total del 8%. Se necesita un alquiler adicional de $600.000.",
+        "$1 mill?n suma la apreciaci?n al rendimiento requerido. La apreciaci?n ya es parte del rendimiento total. Por eso se resta de los $800.000 que exige el inversor."
+      ]
+    },
+    {
+      "id": "c12-q010",
+      "tema": "Vida econ?mica del local",
+      "dificultad": "intermedia",
+      "pregunta": "Un comercio genera $120.000 por a?o antes del alquiler. El alquiler alternativo es $100.000 al final del a?o 1 y sube 10% anual. Sin costos de cierre ni otros efectos, ?desde qu? a?o conviene dejar de usar el inmueble para ese comercio?",
+      "opciones": [
+        "Desde el a?o 1.",
+        "Desde el a?o 3.",
+        "Desde el a?o 2.",
+        "Desde el a?o 4."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "En el a?o 1 el comercio genera $20.000 m?s que el alquiler alternativo. Por lo tanto, todav?a justifica utilizar el edificio. La comparaci?n debe repetirse cuando cambien los alquileres.",
+        "El alquiler alternativo es $100.000, $110.000 y $121.000 en los tres primeros a?os. En el a?o 3 supera por primera vez los $120.000 del comercio. Desde entonces conviene destinar el edificio al uso alternativo.",
+        "En el a?o 2 el alquiler es $110.000. Todav?a queda una ventaja comercial de $10.000. El cambio de uso corresponde reci?n cuando el alquiler supera el flujo comercial.",
+        "Esperar hasta el a?o 4 conserva el comercio durante un a?o ya desfavorable. El alquiler supera sus ingresos en el a?o 3. La vida f?sica del inmueble no obliga a mantener el mismo uso econ?mico."
+      ]
+    },
+    {
+      "id": "c12-q011",
+      "tema": "Sensibilidad al valor terminal",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto vende su inmueble al final del a?o 2. Si el precio de venta previsto baja de $1.210.000 a $968.000 y la tasa adecuada es 10%, ?cu?nto disminuye el VPN, manteniendo todo lo dem?s constante?",
+      "opciones": [
+        "$242.000.",
+        "$220.000.",
+        "$200.000.",
+        "$968.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$242.000 es la reducci?n en la fecha de venta. No es su impacto en el valor de hoy. Falta descontar los dos a?os hasta el cobro.",
+        "$220.000 descuenta $242.000 durante un solo a?o. El enunciado ubica la venta al final del a?o 2. Deben reconocerse los dos per?odos completos.",
+        "La reducci?n del cobro final es $1.210.000 ? $968.000 = $242.000. Su valor presente es $242.000 / 1,10? = $200.000. El VPN cae por ese importe actual.",
+        "$968.000 es el nuevo precio total de venta. El cambio del VPN depende de la diferencia entre ambos precios. Adem?s, esa diferencia debe expresarse a valor presente."
+      ]
+    },
+    {
+      "id": "c12-q012",
+      "tema": "Propiedad y alquiler posterior",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa es muy buena operando tiendas, pero quiere reducir su exposici?n a los precios inmobiliarios. ?Qu? alternativa permite separar ambas decisiones?",
+      "opciones": [
+        "Cerrar una tienda rentable ?nicamente porque podr?a caer el inmueble.",
+        "Conservar el inmueble y dejar de comparar usos alternativos.",
+        "Comprar m?s inmuebles para compensar el riesgo del primero.",
+        "Vender el inmueble y seguir operando mediante un alquiler a condiciones de mercado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La ca?da del inmueble y la rentabilidad comercial son apuestas distintas. Una tienda puede seguir creando valor pagando alquiler de mercado. Cerrar sin separar esas decisiones puede sacrificar una operaci?n buena.",
+        "La propiedad no elimina el costo de oportunidad. Mientras exista un uso alternativo mejor, conservar el local comercial puede destruir valor. Comparar con alquileres de mercado sigue siendo necesario.",
+        "Comprar otros inmuebles aumenta la inversi?n en el sector. No separa el comercio de la exposici?n inmobiliaria original. La decisi?n buscada requiere cambiar la forma de disponer del edificio.",
+        "Vender y alquilar permite mantener el negocio comercial sin conservar la misma exposici?n patrimonial al inmueble. El alquiler pasa a ser un costo expl?cito de la operaci?n. La conveniencia concreta depende de condiciones, impuestos y costos de la transacci?n."
+      ]
+    },
+    {
+      "id": "c12-q013",
+      "tema": "Oro y valor presente de ingresos",
+      "dificultad": "intermedia",
+      "pregunta": "Una mina entregar? con certeza 20.000 onzas de oro por a?o durante cinco a?os. El oro vale hoy US$1.800 por onza; supon? mercado competitivo, sin costos de almacenamiento ni rendimiento por conveniencia. ?Cu?l es el VP de sus ingresos brutos usando la referencia del oro actual?",
+      "opciones": [
+        "US$180 millones.",
+        "US$36 millones.",
+        "US$900 millones.",
+        "US$180 millones menos la inversi?n inicial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La producci?n total es 20.000 ? 5 = 100.000 onzas. Bajo los supuestos indicados, el VP del precio de cada onza futura es su precio actual. Los ingresos brutos valen 100.000 ? US$1.800 = US$180 millones.",
+        "US$36 millones considera solamente las onzas de un a?o. La mina entrega esa cantidad durante cinco a?os. El valor de referencia debe incluir toda la producci?n segura.",
+        "US$900 millones multiplica por cinco una producci?n que ya incluye los cinco a?os. Ese procedimiento cuenta varias veces las mismas onzas. Primero se obtiene el total f?sico y luego se multiplica por el precio actual.",
+        "Restar la inversi?n ayuda a calcular el VPN, pero no el VP de ingresos brutos solicitado. Tambi?n faltar?an los costos de extracci?n para llegar al VPN. Cada componente debe mantenerse separado."
+      ]
+    },
+    {
+      "id": "c12-q014",
+      "tema": "Supuestos de la referencia del oro",
+      "dificultad": "avanzada",
+      "pregunta": "?Qu? conjunto de condiciones justifica tomar el precio actual del oro como VP del precio de una onza entregada en el futuro?",
+      "opciones": [
+        "Cualquier mercader?a, siempre que haya inflaci?n positiva.",
+        "Mercado competitivo, ausencia de pagos intermedios y almacenamiento y conveniencia despreciables.",
+        "Un precio futuro esperado igual al precio actual, cualquiera sea el riesgo.",
+        "Una tasa corporativa ?nica para ingresos y costos de cualquier proyecto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Otros bienes pueden tener almacenamiento costoso, escasez estacional o beneficios de disponibilidad f?sica. Esos factores alteran la relaci?n entre precio actual y entrega futura. La inflaci?n por s? sola no valida la equivalencia.",
+        "La comparaci?n usa un activo negociable que puede mantenerse sin costos o beneficios intermedios relevantes. As?, su precio actual refleja el valor descontado de su precio futuro. Para valorar ingresos de una mina tambi?n hay que tratar correctamente el riesgo de cantidad.",
+        "No hace falta que el precio futuro esperado sea igual al actual. Puede crecer seg?n el rendimiento requerido por el mercado. Lo que se iguala al precio actual es su valor presente ajustado por riesgo.",
+        "Ingresos y costos pueden tener riesgos diferentes. Una tasa corporativa com?n puede distorsionar ambos componentes. La referencia de mercado permite evitar precisamente una elecci?n arbitraria de la tasa de los ingresos."
+      ]
+    },
+    {
+      "id": "c12-q015",
+      "tema": "VPN de una mina",
+      "dificultad": "intermedia",
+      "pregunta": "Una mina requiere US$40 millones hoy. El VP de sus ingresos es US$90 millones y sus costos ciertos son US$11 millones al final de cada uno de los pr?ximos dos a?os. Si estos costos se descuentan al 10%, ?cu?l es el VPN?",
+      "opciones": [
+        "US$28 millones.",
+        "US$50 millones.",
+        "US$30,91 millones.",
+        "US$70 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "US$28 millones surge de restar los US$22 millones de costos sin descontar. Los pagos ocurren en los a?os 1 y 2. Sus valores actuales son menores que sus importes futuros.",
+        "US$50 millones resta la inversi?n a los ingresos pero omite todos los costos de extracci?n. La referencia de mercado no vuelve gratuita la producci?n. Esos costos deben deducirse con su descuento apropiado.",
+        "El VP de los costos es 11/1,10 + 11/1,10? = 19,09 millones. El VPN es ?40 + 90 ? 19,09 = 30,91 millones. Los ingresos ya est?n expresados a valor presente y no se descuentan nuevamente.",
+        "US$70 millones puede surgir de sumar costos como si fueran beneficios. La extracci?n requiere pagos, por lo que reduce el valor. El VPN resta tanto inversi?n como costos futuros actualizados."
+      ]
+    },
+    {
+      "id": "c12-q016",
+      "tema": "Separaci?n entre extracci?n y precio",
+      "dificultad": "intermedia",
+      "pregunta": "Una minera tiene costos bajos, pero su directora cree que el oro va a bajar. Hay contratos de venta futura confiables para toda la producci?n segura. ?Qu? deber?a analizar?",
+      "opciones": [
+        "Rechazar la mina autom?ticamente por el pron?stico bajista.",
+        "Descontar los ingresos contractuales seguros a una tasa m?s alta por pesimismo.",
+        "Ignorar los costos porque el mercado ya val?a el metal.",
+        "La extracci?n y la exposici?n al precio por separado, considerando fijar los ingresos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El pron?stico sobre el precio no determina por s? solo la conveniencia de extraer. Un contrato puede asegurar ingresos suficientes para cubrir todos los costos y crear valor. Primero hay que evaluar esa alternativa.",
+        "Un flujo contractual realmente seguro se descuenta como seguro. El pesimismo personal no cambia su riesgo una vez fijado el pago. Elevar la tasa arbitrariamente subestima ese ingreso.",
+        "El mercado val?a el producto, no realiza gratuitamente la extracci?n. El VPN sigue dependiendo de inversi?n y costos operativos. La ventaja de costos es justamente lo que debe investigarse.",
+        "La ventaja de producir barato puede crear valor aunque no se quiera apostar al precio. Fijar ventas futuras permite separar esa operaci?n de la exposici?n al metal. Deben verificarse precios contractuales, solvencia y cumplimiento de la producci?n."
+      ]
+    },
+    {
+      "id": "c12-q017",
+      "tema": "Equivalentes ciertos y futuros",
+      "dificultad": "intermedia",
+      "pregunta": "Se pueden vender con certeza 10.000 toneladas dentro de un a?o mediante un contrato a US$1.050 por tonelada, pagadero al entregar. El comprador es solvente y la tasa libre de riesgo es 5%. ?Cu?l es el VP del ingreso asegurado?",
+      "opciones": [
+        "US$10 millones.",
+        "US$10,5 millones.",
+        "US$9,375 millones usando una tasa de 12%.",
+        "US$11,025 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El cobro seguro ser? 10.000 ? US$1.050 = US$10,5 millones al final del a?o. Se descuenta a la tasa libre de riesgo porque cantidad y pago est?n asegurados. El VP es 10,5/1,05 = US$10 millones.",
+        "US$10,5 millones es el monto que se cobra dentro de un a?o. Falta reconocer el valor temporal del dinero. Un contrato de entrega futura no implica cobrar hoy.",
+        "Aplicar 12% a un ingreso ya convertido en seguro mezcla m?todos. La prima de riesgo no corresponde al cobro contractual bajo los supuestos dados. Debe usarse 5%.",
+        "US$11,025 millones capitaliza el cobro futuro en lugar de descontarlo. Para pasar de una fecha futura a hoy se divide por 1,05. Multiplicar traslada el valor en la direcci?n equivocada."
+      ]
+    },
+    {
+      "id": "c12-q018",
+      "tema": "Dos m?todos de valuaci?n del riesgo",
+      "dificultad": "basica",
+      "pregunta": "?Qu? combinaci?n es coherente al valuar un flujo riesgoso?",
+      "opciones": [
+        "Equivalente cierto con tasa ajustada por riesgo y otra reducci?n por incertidumbre.",
+        "Flujo esperado con tasa ajustada por riesgo, o equivalente cierto con tasa libre de riesgo.",
+        "Flujo esperado con tasa libre de riesgo en cualquier circunstancia.",
+        "Flujo m?s favorable posible con la tasa de inflaci?n."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El equivalente cierto ya reduce el flujo para reflejar su riesgo. Agregar nuevamente una prima en la tasa penaliza dos veces la misma incertidumbre. Debe descontarse a la tasa libre de riesgo.",
+        "El riesgo puede reconocerse en la tasa o mediante un ajuste del flujo a su equivalente cierto. Los dos m?todos deben ser consistentes y producir el mismo valor. No corresponde cargar el mismo riesgo dos veces.",
+        "Un flujo esperado puede contener riesgo sistem?tico. Descontarlo siempre a la tasa libre de riesgo ignora la compensaci?n requerida por ese riesgo. La excepci?n necesita una justificaci?n espec?fica.",
+        "El mejor resultado posible no es el flujo esperado ni su equivalente cierto. La inflaci?n tampoco mide el rendimiento requerido para ese riesgo. Esta combinaci?n sobreval?a sistem?ticamente los beneficios."
+      ]
+    },
+    {
+      "id": "c12-q019",
+      "tema": "CAPM y precio esperado de una mercader?a",
+      "dificultad": "avanzada",
+      "pregunta": "El precio contractual equivalente cierto de una tonelada a un a?o es US$1.050. La tasa libre de riesgo es 5%, el rendimiento esperado del mercado es 15% y la beta del ingreso por la tonelada es 0,5. Usando CAPM, ?qu? precio esperado es consistente con ese contrato?",
+      "opciones": [
+        "US$1.050.",
+        "US$1.155.",
+        "US$1.100.",
+        "US$1.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El precio contractual es un equivalente cierto, no necesariamente el precio esperado. Con prima de riesgo positiva, el precio esperado debe ser mayor. Ambos producen el mismo VP cuando se usan sus tasas correspondientes.",
+        "US$1.155 aplica 10% directamente al precio contractual. Ese precio ya est? ubicado al final del a?o. Primero debe descontarse a la tasa libre de riesgo para obtener una base actual com?n.",
+        "La tasa para el ingreso esperado es 5% + 0,5 ? (15% ? 5%) = 10%. El VP del equivalente cierto es 1.050/1,05 = US$1.000. Por consistencia, el precio esperado es 1.000 ? 1,10 = US$1.100.",
+        "US$1.000 es el VP del ingreso por tonelada. La pregunta pide el precio esperado dentro de un a?o. Falta capitalizar ese VP a la tasa ajustada por riesgo del 10%."
+      ]
+    },
+    {
+      "id": "c12-q020",
+      "tema": "L?mites de los mercados de futuros",
+      "dificultad": "basica",
+      "pregunta": "?Por qu? los futuros no resuelven autom?ticamente toda la valuaci?n de una mina de larga duraci?n?",
+      "opciones": [
+        "Porque los precios contractuales no contienen ninguna informaci?n de mercado.",
+        "Porque todo ingreso cubierto debe descontarse al rendimiento accionario esperado.",
+        "Porque un contrato elimina los costos de extracci?n.",
+        "Puede faltar liquidez para plazos lejanos y seguir existiendo riesgo de producci?n."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los precios contractuales reflejan transacciones y condiciones de mercado. Por eso aportan una referencia valiosa. Sus l?mites son de cobertura, plazo y riesgos, no de ausencia total de informaci?n.",
+        "Una cobertura puede volver seguro un ingreso y cambiar la tasa pertinente. No corresponde imponer el rendimiento accionario a todo flujo. La tasa debe seguir al riesgo que efectivamente queda.",
+        "La cobertura fija condiciones de venta. No elimina pagos por personal, energ?a, extracci?n o inversi?n. Esos costos siguen siendo componentes esenciales del VPN.",
+        "Los contratos disponibles pueden concentrarse en vencimientos cercanos. Adem?s, fijar un precio no garantiza que la mina produzca la cantidad prometida. Las entregas lejanas y los riesgos residuales requieren an?lisis adicional."
+      ]
+    },
+    {
+      "id": "c12-q021",
+      "tema": "Flexibilidad operativa de la mina",
+      "dificultad": "intermedia",
+      "pregunta": "Una mina puede aumentar la extracci?n cuando el precio sube y reducirla cuando baja. ?Qu? limitaci?n tiene valorarla como si su calendario de producci?n fuera fijo?",
+      "opciones": [
+        "Puede omitir el valor de una opci?n operativa.",
+        "Siempre sobreestima el valor de la flexibilidad.",
+        "Demuestra que toda la producci?n debe descontarse a tasa cero.",
+        "Permite ignorar las restricciones t?cnicas de producci?n."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La capacidad de adaptar decisiones permite aprovechar condiciones favorables y limitar p?rdidas. Un calendario fijo no representa ese beneficio contingente. Si la flexibilidad es importante, conviene incorporar t?cnicas de opciones reales.",
+        "El problema habitual es no representar la adaptaci?n, no asignarle autom?ticamente un valor excesivo. La flexibilidad disponible ampl?a las alternativas de decisi?n. Su valor depende de volatilidad, costos y restricciones.",
+        "Poder modificar la extracci?n no elimina el valor temporal ni el riesgo. Los flujos siguen necesitando una valuaci?n consistente. Una tasa cero no surge de la existencia de opciones.",
+        "Las restricciones determinan qu? decisiones son posibles. Ignorarlas puede atribuir una flexibilidad inexistente. Una opci?n operativa solo vale en la medida en que realmente pueda ejercerse."
+      ]
+    },
+    {
+      "id": "c12-q022",
+      "tema": "Principio de Hotelling",
+      "dificultad": "avanzada",
+      "pregunta": "Bajo rendimientos constantes de extracci?n y los dem?s supuestos del argumento de Hotelling, ?qu? variable deber?a crecer a una tasa igual al costo de capital?",
+      "opciones": [
+        "El precio bruto, sin importar los costos de extracci?n.",
+        "El precio neto de los costos de extracci?n.",
+        "La cantidad f?sica de reservas.",
+        "El costo contable depreciado de la maquinaria."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El precio bruto no mide lo que queda despu?s de producir. Costos de extracci?n cambiantes alteran la conveniencia de esperar. El argumento se refiere al precio menos esos costos.",
+        "La decisi?n de extraer hoy o conservar el recurso compara su valor neto. En equilibrio, el aumento esperado de ese precio neto compensa el costo de mantener el recurso sin extraer. Si creciera m?s r?pido, habr?a incentivo a postergar la extracci?n.",
+        "Las reservas son una magnitud f?sica, no un rendimiento financiero. Extraer normalmente las reduce. La condici?n de equilibrio compara valores netos entre fechas.",
+        "La depreciaci?n contable no determina el atractivo de conservar el recurso natural. El argumento depende del costo de oportunidad y del ingreso neto de extracci?n. El valor de libros puede ser completamente distinto."
+      ]
+    },
+    {
+      "id": "c12-q023",
+      "tema": "Mercado secundario y arrendamiento de aviones",
+      "dificultad": "intermedia",
+      "pregunta": "Una aerol?nea eval?a una nueva ruta con aviones propios que otra divisi?n podr?a usar. Existe un mercado activo de alquiler de aviones equivalentes. ?C?mo deber?a plantear la evaluaci?n?",
+      "opciones": [
+        "Tratar los aviones como gratuitos porque ya pertenecen a la empresa.",
+        "Rechazar la ruta porque otra divisi?n podr?a necesitar aviones en el futuro.",
+        "Cargar a la ruta el alquiler de mercado y agregar sus inversiones y costos incrementales.",
+        "Cargar a la ruta el precio original completo de los aviones como nuevo desembolso."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Poseer los aviones no vuelve gratuito su uso. Podr?an alquilarse, venderse o asignarse a otra actividad. La ruta debe cubrir el valor de la alternativa sacrificada.",
+        "La necesidad futura de otra divisi?n debe analizarse, pero no constituye un veto autom?tico. Si existen alquileres competitivos, puede contratar aviones cuando los requiera. Hay que comparar costos, disponibilidad y plazos.",
+        "El alquiler de mercado mide el costo de oportunidad de utilizar los aviones. Tambi?n deben incluirse terminales, entrenamiento, publicidad y compromisos de la nueva ruta. El mercado permite evaluar por separado c?mo abastecer a la otra divisi?n.",
+        "El precio original es un costo hundido de una decisi?n anterior. No representa un desembolso nuevo provocado por abrir la ruta. La evaluaci?n debe usar el valor actual de la alternativa sacrificada."
+      ]
+    },
+    {
+      "id": "c12-q024",
+      "tema": "Comparables y ajustes espec?ficos",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo comparable se vende hoy por $5 millones. El de la empresa requiere una reparaci?n inmediata de $400.000 para quedar en condiciones equivalentes; no hay otras diferencias. ?Qu? valor neto de referencia corresponde?",
+      "opciones": [
+        "$5,4 millones.",
+        "$5 millones sin ajustes.",
+        "$400.000.",
+        "$4,6 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sumar la reparaci?n trata una desventaja como una mejora gratuita. El comprador debe pagarla para obtener la misma utilidad que el comparable. Por eso reduce el valor del activo en su estado actual.",
+        "Usar precios de mercado no significa ignorar diferencias materiales. El comparable est? en mejores condiciones que el activo evaluado. El ajuste por reparaci?n evita una sobrevaluaci?n.",
+        "$400.000 es el costo de reparar, no el valor total del activo. La referencia sigue siendo el precio de mercado del comparable. Se resta ese costo para obtener el valor neto.",
+        "El precio comparable es la referencia para un activo ya equivalente. Como hacen falta $400.000 para alcanzar esa condici?n, se deducen de $5 millones. El valor neto es $4,6 millones, antes de otros costos que aqu? no existen."
+      ]
+    },
+    {
+      "id": "c12-q025",
+      "tema": "Definici?n de renta econ?mica",
+      "dificultad": "basica",
+      "pregunta": "?Qu? significa que una inversi?n genere renta econ?mica?",
+      "opciones": [
+        "Que produce beneficios por encima de lo necesario para remunerar el costo de oportunidad del capital.",
+        "Que registra cualquier utilidad contable positiva.",
+        "Que cobra alquileres por un inmueble.",
+        "Que recupera exactamente la remuneraci?n exigida por sus inversores."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La renta econ?mica es un excedente sobre la remuneraci?n normal del capital. Obtener ganancias no alcanza si son insuficientes para el riesgo y los recursos comprometidos. Una inversi?n con VPN positivo anticipa ese tipo de excedentes.",
+        "La utilidad contable no reconoce necesariamente todo el costo de oportunidad del capital. Puede ser positiva y aun as? no alcanzar el rendimiento requerido. La renta exige superar esa referencia econ?mica.",
+        "La palabra renta no se limita aqu? al alquiler inmobiliario. Puede surgir de patentes, marcas, eficiencia u otros recursos escasos. Lo que la define es el excedente sobre el costo de capital.",
+        "Remunerar exactamente el costo de capital representa rentabilidad normal. El VPN de una nueva inversi?n en esas condiciones es cero. No queda un excedente econ?mico adicional."
+      ]
+    },
+    {
+      "id": "c12-q026",
+      "tema": "Cuantificaci?n de renta econ?mica",
+      "dificultad": "basica",
+      "pregunta": "Una inversi?n mantiene $5 millones de capital econ?mico y genera $700.000 anuales netos, sin depreciaci?n econ?mica ni crecimiento. Si el costo de capital es 10%, ?qu? renta econ?mica anual obtiene?",
+      "opciones": [
+        "$700.000.",
+        "$200.000.",
+        "$500.000.",
+        "?$200.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$700.000 es el beneficio total antes de reconocer el costo del capital. Una parte remunera normalmente a los inversores. Solo el excedente sobre esa remuneraci?n constituye renta econ?mica.",
+        "La remuneraci?n normal del capital es $5 millones ? 10% = $500.000 anuales. El excedente es $700.000 ? $500.000 = $200.000. Ese excedente constituye la renta econ?mica bajo los supuestos indicados.",
+        "$500.000 es el rendimiento requerido, no el excedente. La inversi?n genera $200.000 adicionales. Confundir costo de capital con renta omite precisamente la ganancia extraordinaria.",
+        "El signo ser?a negativo si la ganancia fuera inferior al costo de capital. Aqu? $700.000 supera a $500.000. Por lo tanto, la renta es positiva."
+      ]
+    },
+    {
+      "id": "c12-q027",
+      "tema": "Equilibrio competitivo de largo plazo",
+      "dificultad": "basica",
+      "pregunta": "Con libre entrada, tecnolog?a replicable y ausencia de ventajas especiales, ?qu? cabe esperar de una nueva inversi?n marginal en el equilibrio competitivo de largo plazo?",
+      "opciones": [
+        "VPN negativo como condici?n necesaria para que existan competidores.",
+        "VPN positivo permanente para todos los entrantes.",
+        "VPN cero y rendimiento igual al costo de capital.",
+        "Ingresos iguales a cero porque desaparecen las rentas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un VPN negativo desalentar?a una inversi?n nueva voluntaria. En equilibrio, el proyecto marginal cubre su costo de oportunidad. Las p?rdidas no son una condici?n necesaria de la competencia.",
+        "Los excedentes permanentes atraer?an nuevas inversiones si nada impide entrar. Esa expansi?n presionar?a precios o m?rgenes. La hip?tesis de libre entrada contradice rentas permanentes para todos.",
+        "La entrada ampl?a la oferta mientras existan oportunidades de rentabilidad extraordinaria. El ajuste contin?a hasta que invertir deja de generar excedentes. VPN cero significa remunerar normalmente al capital, no operar sin ingresos.",
+        "La eliminaci?n de rentas no elimina la actividad econ?mica. Los ingresos siguen cubriendo costos operativos y remuneraci?n normal del capital. El excedente econ?mico es lo que se reduce a cero."
+      ]
+    },
+    {
+      "id": "c12-q028",
+      "tema": "Rentas transitorias por demanda",
+      "dificultad": "intermedia",
+      "pregunta": "La demanda crece inesperadamente y una empresa puede ampliar su capacidad un a?o antes que sus rivales. ?Qu? interpretaci?n es m?s razonable?",
+      "opciones": [
+        "La sorpresa garantiza una barrera de entrada permanente.",
+        "La competencia elimina cualquier beneficio desde el primer instante.",
+        "El crecimiento vuelve innecesaria la inversi?n en capacidad.",
+        "Puede obtener rentas temporales hasta que la oferta de los rivales alcance a la demanda."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una ventaja de velocidad no equivale necesariamente a una exclusividad duradera. Los competidores pueden reproducir la capacidad con tiempo. La duraci?n de la renta debe estimarse, no suponerse infinita.",
+        "La competencia necesita mecanismos y tiempo para ajustar la oferta. Una restricci?n temporal de capacidad puede permitir excedentes. El equilibrio de largo plazo no describe cada momento de transici?n.",
+        "El crecimiento de la demanda puede requerir precisamente m?s capacidad. La oportunidad depende de cu?nto cuesta expandirla y cu?nto dura el beneficio. No convierte los recursos productivos en gratuitos.",
+        "La capacidad de responder antes permite aprovechar temporalmente precios o ventas favorables. Los rivales pueden tardar en construir e instalar capacidad. Cuando completen esa respuesta, el excedente puede desaparecer."
+      ]
+    },
+    {
+      "id": "c12-q029",
+      "tema": "Fuentes duraderas de ventaja",
+      "dificultad": "basica",
+      "pregunta": "?Qu? conjunto contiene posibles fuentes de rentas econ?micas duraderas?",
+      "opciones": [
+        "Patentes defendibles, reputaci?n dif?cil de replicar y econom?as de escala inaccesibles a rivales.",
+        "Un presupuesto detallado, una utilidad contable y una depreciaci?n acelerada.",
+        "Precios altos actuales, entusiasmo directivo y crecimiento sectorial.",
+        "Abundancia de competidores id?nticos y entrada sin costos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Estos factores pueden dificultar que otros reproduzcan la propuesta de la empresa. Su capacidad de sostener rentas depende de alcance, duraci?n y sustitutos. No son garant?as autom?ticas, pero ofrecen una explicaci?n econ?mica plausible.",
+        "Un presupuesto describe proyecciones y la utilidad registra resultados. Ninguno crea por s? solo una barrera frente a la competencia. Una regla contable tampoco demuestra una ventaja productiva duradera.",
+        "Precios altos y crecimiento pueden atraer nuevos oferentes. El entusiasmo no impide esa entrada. Hace falta explicar qu? protege los m?rgenes cuando los rivales respondan.",
+        "La igualdad de recursos y la entrada f?cil favorecen la imitaci?n. Eso tiende a eliminar excedentes sostenidos. Es el escenario opuesto al de una ventaja dif?cil de reproducir."
+      ]
+    },
+    {
+      "id": "c12-q030",
+      "tema": "Activos estrat?gicos y ferrocarriles",
+      "dificultad": "intermedia",
+      "pregunta": "Sube el precio del combustible y aumenta la carga a transportar. Una red ferroviaria dif?cil de ampliar usa menos combustible por tonelada que los camiones. ?Cu?ndo puede generar mayores rentas?",
+      "opciones": [
+        "Siempre, aunque otra v?a id?ntica pueda construirse inmediatamente sin costo.",
+        "Cuando esa eficiencia y la escasez de v?as permiten captar valor frente a las alternativas disponibles.",
+        "Solo si desaparecen por completo los camiones.",
+        "Nunca, porque una suba de un costo afecta por igual a todos los transportes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una r?plica inmediata y gratuita eliminar?a la escasez del activo. Nuevos operadores podr?an competir por la misma carga. La dificultad de reproducci?n es parte central del argumento estrat?gico.",
+        "La ventaja depende de costos relativos y de la dificultad de reproducir la red. El combustible caro puede perjudicar m?s al cami?n y mejorar la posici?n del tren. La competencia de otras v?as y la flexibilidad del transporte vial siguen limitando las rentas.",
+        "No hace falta que desaparezca todo sustituto. Una alternativa m?s cara puede dejar espacio para rentas ferroviarias. Su existencia limita el precio que puede cobrar el tren.",
+        "Los transportes tienen consumos y estructuras de costos distintos. Una misma suba del combustible puede alterar sus ventajas relativas. El an?lisis requiere comparar esos efectos, no suponer que se cancelan."
+      ]
+    },
+    {
+      "id": "c12-q031",
+      "tema": "Capacidades distintivas",
+      "dificultad": "basica",
+      "pregunta": "?C?mo deber?a comenzar una empresa a buscar mercados donde crear valor seg?n el enfoque de capacidades distintivas?",
+      "opciones": [
+        "Eligiendo primero cualquier mercado de moda y suponiendo que aprender? todo gratis.",
+        "Enumerando habilidades deseables como si ya estuvieran disponibles.",
+        "Identificando fortalezas que ya posee y d?nde aportan m?s valor.",
+        "Copiando todas las actividades del competidor m?s grande."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un sector de moda puede atraer mucha competencia. Entrar sin capacidades relevantes puede exigir inversiones costosas y arriesgadas. La popularidad no sustituye una ventaja propia.",
+        "Una capacidad deseada no equivale a una capacidad existente. Construirla requiere tiempo, inversi?n y ejecuci?n. Confundir ambas cosas sobreestima la posici?n competitiva actual.",
+        "Las capacidades distintivas son fortalezas reales, como v?nculos, experiencia, reputaci?n o innovaci?n. La estrategia busca mercados donde esas fortalezas sean especialmente valiosas. As? conecta recursos concretos con oportunidades de rentas.",
+        "Imitar actividades no garantiza reproducir sus relaciones ni su eficiencia. Adem?s, una actividad puede ser valiosa para otro competidor y no para la empresa. Debe evaluarse la coherencia con los recursos propios."
+      ]
+    },
+    {
+      "id": "c12-q032",
+      "tema": "Cinco fuerzas competitivas",
+      "dificultad": "basica",
+      "pregunta": "?Cu?l enumera las cinco fuerzas utilizadas para analizar la capacidad de una industria de sostener rentas?",
+      "opciones": [
+        "Inflaci?n, devaluaci?n, impuestos, depreciaci?n y dividendos.",
+        "Ventas, costos, activos, pasivos y patrimonio neto.",
+        "Costo, calidad, publicidad, log?stica y dise?o.",
+        "Rivalidad, entrada potencial, sustitutos, poder de proveedores y poder de compradores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esas variables pueden afectar resultados financieros. Sin embargo, no constituyen el marco de las cinco fuerzas. El marco se centra en la estructura competitiva y el reparto del valor.",
+        "Estos son rubros comerciales o contables. No representan los mecanismos que disciplinan los m?rgenes de la industria. La estructura competitiva requiere analizar rivales, sustitutos y negociaci?n.",
+        "Estos aspectos pueden formar parte de una estrategia empresarial. No son las cinco fuerzas de estructura industrial. Confundir acciones internas con presiones externas dificulta el diagn?stico.",
+        "Las cinco fuerzas describen presiones sobre el valor que puede capturar una industria. Incluyen tanto competencia directa y potencial como sustitutos y negociaci?n vertical. Ayudan a evaluar la sostenibilidad de los m?rgenes."
+      ]
+    },
+    {
+      "id": "c12-q033",
+      "tema": "Poder de negociaci?n y sustitutos",
+      "dificultad": "intermedia",
+      "pregunta": "Una industria tiene pocos rivales, pero depende de un proveedor exclusivo y sus clientes pueden cambiar f?cilmente a otra soluci?n. ?Qu? conclusi?n corresponde?",
+      "opciones": [
+        "La concentraci?n de vendedores no basta para asegurar rentas altas.",
+        "Los pocos rivales garantizan m?rgenes elevados para siempre.",
+        "El proveedor exclusivo reduce necesariamente el costo de los insumos.",
+        "Una soluci?n distinta no compite si tiene otro nombre comercial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El proveedor puede apropiarse de parte del margen mediante sus precios. Los sustitutos tambi?n limitan lo que los clientes aceptan pagar. Las fuerzas deben analizarse conjuntamente, aunque haya pocos rivales directos.",
+        "La rivalidad es solo una de las fuerzas. Poder de proveedores y sustitutos pueden absorber o limitar los beneficios. Contar competidores no alcanza para inferir rentabilidad.",
+        "La exclusividad puede aumentar el poder del proveedor. Si no hay alternativas, los compradores del insumo pueden tener menor capacidad de negociar. No existe una reducci?n autom?tica del costo.",
+        "La competencia econ?mica depende de la necesidad que resuelve el producto. Una soluci?n con otra tecnolog?a o nombre puede ser un sustituto cercano. Ignorarla puede llevar a proyectar precios excesivos."
+      ]
+    },
+    {
+      "id": "c12-q034",
+      "tema": "Posicionamiento competitivo",
+      "dificultad": "basica",
+      "pregunta": "?Cu?les son las tres v?as de posicionamiento competitivo que se destacan en el cap?tulo?",
+      "opciones": [
+        "M?s deuda, menos dividendos y mayor depreciaci?n.",
+        "Liderazgo en costos, diferenciaci?n y enfoque en un segmento.",
+        "Integraci?n contable, arbitraje cambiario y cobertura de tasas.",
+        "Crecimiento de ventas, tama?o del balance y antig?edad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estas son decisiones financieras o contables. Pueden influir en el negocio, pero no describen esas tres v?as de posicionamiento. No explican por s? mismas por qu? el cliente elegir?a la oferta.",
+        "Una empresa puede competir por costos, por atributos valorados o atendiendo especialmente a un segmento. Las v?as orientan c?mo crear una posici?n defendible dentro de la industria. Su aplicaci?n debe ser coherente con las capacidades disponibles.",
+        "Estos instrumentos o pr?cticas no conforman el marco estrat?gico indicado. Cubrir riesgos no crea necesariamente una propuesta competitiva distinta. El posicionamiento se vincula con costos, atributos y foco.",
+        "Crecer, tener activos o ser antiguo no asegura una ventaja. Una empresa grande puede perder dinero frente a competidores m?s eficientes. Las tres v?as explican c?mo competir, no solo cu?nto tama?o tener."
+      ]
+    },
+    {
+      "id": "c12-q035",
+      "tema": "Combinaci?n coherente de estrategias",
+      "dificultad": "intermedia",
+      "pregunta": "Una muebler?a ofrece dise?o reconocible, productos para clientes j?venes sensibles al precio y entrega desarmada que reduce costos. ?C?mo conviene interpretar su estrategia?",
+      "opciones": [
+        "Es imposible que tenga ventaja porque las tres v?as nunca pueden combinarse.",
+        "Solo compite por publicidad porque el armado no afecta los costos.",
+        "Combina diferenciaci?n, enfoque y liderazgo en costos mediante actividades compatibles.",
+        "Su segmento objetivo elimina toda amenaza de sustitutos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las v?as pueden combinarse si las actividades se refuerzan. El ejemplo muestra atributos y decisiones de costo compatibles. La dificultad consiste en sostener esa coherencia frente a la imitaci?n.",
+        "El armado y el transporte afectan costos reales. Trasladar algunas tareas al comprador puede reducir el precio necesario. La propuesta tambi?n incluye dise?o y elecci?n de clientes.",
+        "El dise?o puede diferenciar la oferta y el segmento define un foco. La entrega desarmada puede reducir costos log?sticos y de servicio. La ventaja proviene de una combinaci?n coherente, no de una etiqueta aislada.",
+        "Especializarse en un segmento no elimina otras formas de satisfacer sus necesidades. Los clientes todav?a pueden elegir muebles usados u otros proveedores. El foco debe evaluarse junto con las presiones competitivas."
+      ]
+    },
+    {
+      "id": "c12-q036",
+      "tema": "Ventaja competitiva como control del VPN",
+      "dificultad": "intermedia",
+      "pregunta": "El productor de menor costo en un mercado rentable y en expansi?n obtiene un VPN negativo para ampliar capacidad. ?Qu? deber?a hacer antes de concluir?",
+      "opciones": [
+        "Cambiar el VPN a positivo sin revisar los datos.",
+        "Suponer que toda expansi?n de un l?der siempre es rentable.",
+        "Ignorar su ventaja porque la aritm?tica nunca puede contener errores.",
+        "Revisar costos, precios, inversi?n y restricciones para explicar la contradicci?n."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La estrategia no autoriza modificar el resultado a voluntad. Debe identificarse el error o explicar la limitaci?n econ?mica. Un VPN positivo necesita flujos y costos defendibles.",
+        "La ventaja actual puede no extenderse a la nueva capacidad. El costo marginal de crecer puede ser alto o la demanda insuficiente. La rentabilidad del l?der no sustituye la evaluaci?n incremental.",
+        "Un c?lculo puede ser exacto en sus operaciones y estar basado en supuestos incorrectos. La ventaja competitiva aporta evidencia para revisar esos supuestos. Ignorarla elimina un control ?til.",
+        "La posici?n competitiva ofrece una se?al para contrastar el c?lculo. Puede haber errores, pero tambi?n costos de expansi?n o restricciones que expliquen el resultado. La contradicci?n exige investigaci?n y no una aprobaci?n autom?tica."
+      ]
+    },
+    {
+      "id": "c12-q037",
+      "tema": "Diferencial competitivo y transporte",
+      "dificultad": "intermedia",
+      "pregunta": "Una qu?mica local proyecta m?rgenes altos durante diez a?os, pero competidores extranjeros pueden usar la misma tecnolog?a y evitan su costo de transporte. ?Qu? revisi?n es prioritaria?",
+      "opciones": [
+        "Calcular el diferencial que hace cero el VPN de los rivales y estimar cu?ndo entrar?n.",
+        "Mantener el margen actual porque hoy la oferta es escasa.",
+        "Suponer que los rivales pagan el mismo transporte aunque produzcan cerca del cliente.",
+        "Reemplazar el an?lisis de competencia por una depreciaci?n m?s lenta."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los rivales con menores costos pueden tener incentivos fuertes a ampliar capacidad. Su entrada presionar? el diferencial entre producto e insumo. Estimar su VPN y sus plazos permite construir un pron?stico de m?rgenes m?s cre?ble.",
+        "La escasez actual puede producir rentas temporales. No demuestra que la oferta siga limitada durante diez a?os. Los incentivos de entrada deben incluirse en el pron?stico.",
+        "Igualar artificialmente los costos oculta una desventaja concreta. La localizaci?n puede hacer que los rivales requieran un margen menor. El an?lisis debe reflejar su verdadera estructura de costos.",
+        "Una regla de depreciaci?n no evita la expansi?n rival. Sin impuestos, ni siquiera cambia directamente los flujos de efectivo. La presi?n competitiva debe resolverse en precios y costos econ?micos."
+      ]
+    },
+    {
+      "id": "c12-q038",
+      "tema": "Precio competitivo de nueva capacidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta de vida indefinida cuesta $12 millones y produce 200.000 unidades anuales. El costo operativo es $14 por unidad y el costo de capital es 10%. Sin impuestos ni crecimiento, ?qu? precio hace cero el VPN de una nueva planta?",
+      "opciones": [
+        "$14 por unidad.",
+        "$20 por unidad.",
+        "$60 por unidad.",
+        "$26 por unidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$14 solo cubre los costos operativos. Un entrante tambi?n debe recuperar la inversi?n y su costo de oportunidad. Sin margen para el capital, el VPN de construir ser?a negativo.",
+        "La inversi?n por unidad de capacidad es $12 millones / 200.000 = $60. Su remuneraci?n anual es $60 ? 10% = $6 por unidad. El precio competitivo es $14 + $6 = $20.",
+        "$60 es la inversi?n por unidad de capacidad. No es un precio anual de equilibrio. Debe convertirse en una carga anual y sumarse al costo operativo.",
+        "$26 no surge de los costos especificados. La carga anual de capital es $6, no $12. La tasa se aplica a la inversi?n por unidad de capacidad, no al importe total en millones."
+      ]
+    },
+    {
+      "id": "c12-q039",
+      "tema": "Diferencial de equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "Un competidor fabrica 100.000 unidades anuales indefinidamente con inversi?n de $2 millones. Sus otros costos son $400.000 por a?o y exige 10%. El diferencial es precio de venta menos materia prima por unidad. ?Qu? diferencial hace cero su VPN?",
+      "opciones": [
+        "$4 por unidad.",
+        "$20 por unidad.",
+        "$6 por unidad.",
+        "$2 por unidad."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$4 por unidad solo cubre los otros costos anuales. No deja remuneraci?n para los $2 millones invertidos. El equilibrio de entrada debe cubrir ambos componentes.",
+        "$20 es la inversi?n por unidad de capacidad. No corresponde cobrarla ?ntegramente cada a?o si la planta dura indefinidamente. La carga anual de capital es $2 por unidad.",
+        "La remuneraci?n anual del capital es $2 millones ? 10% = $200.000. El diferencial total debe cubrir $400.000 + $200.000 = $600.000 al a?o. Dividir por 100.000 unidades da $6 por unidad.",
+        "$2 por unidad cubre solamente la remuneraci?n anual del capital. Omite los $400.000 de otros costos. El diferencial tiene que financiar tambi?n esos pagos."
+      ]
+    },
+    {
+      "id": "c12-q040",
+      "tema": "Duraci?n del diferencial y revisi?n del VPN",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto requiere $100 hoy. Genera $40 al final de los a?os 1 y 2; por entrada rival, luego genera $10 anuales desde el a?o 3 indefinidamente. Con tasa de 10%, ?cu?l es su VPN aproximado?",
+      "opciones": [
+        "$300.",
+        "?$21,07.",
+        "$65,29.",
+        "$52,07."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$300 supone que el flujo de $40 contin?a para siempre. Eso ignora la reducci?n competitiva desde el a?o 3. Las rentas temporales deben limitarse a los a?os en que realmente existen.",
+        "El resultado negativo omite o reduce indebidamente el valor posterior al a?o 2. Aunque el margen cae, sigue habiendo una perpetuidad de $10. Su valor en el a?o 2 es $100.",
+        "$65,29 ubica la perpetuidad demasiado cerca de hoy. Como el primer flujo de $10 ocurre en el a?o 3, su valor de $100 corresponde al a?o 2. Debe descontarse durante dos per?odos.",
+        "En el a?o 2 la perpetuidad posterior vale $10/0,10 = $100. El VP total es 40/1,10 + (40 + 100)/1,10? = $152,07. Restar los $100 iniciales da un VPN de $52,07."
+      ]
+    },
+    {
+      "id": "c12-q041",
+      "tema": "Supuestos del modelo tecnol?gico",
+      "dificultad": "intermedia",
+      "pregunta": "?Por qu? deben explicitarse supuestos como demanda constante, vida f?sica indefinida, ausencia de otra generaci?n tecnol?gica y ausencia de impuestos en un modelo como el de Marvin?",
+      "opciones": [
+        "Porque sostienen las proyecciones de precios, flujos y valores terminales del modelo.",
+        "Porque aseguran que los pron?sticos se cumplir?n exactamente.",
+        "Porque permiten ignorar la entrada de competidores.",
+        "Porque vuelven equivalentes la vida f?sica y la vida econ?mica en cualquier circunstancia."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada supuesto delimita qu? mecanismos se incluyen y cu?les podr?an cambiar el resultado. La vida indefinida permite usar perpetuidades y la tecnolog?a estable define los costos futuros. La decisi?n debe revisarse si esas condiciones dejan de ser razonables.",
+        "Explicitar un supuesto no lo convierte en un hecho. Un modelo organiza escenarios y relaciones, pero no elimina incertidumbre. La robustez depende de entender qu? pasa cuando cambian sus condiciones.",
+        "La entrada competitiva sigue siendo central aun con tecnolog?a estable. Los rivales pueden copiar una generaci?n ya disponible y ampliar capacidad. Eso determina cu?ndo desaparecen las rentas.",
+        "Una m?quina f?sicamente utilizable puede volverse econ?micamente inconveniente. Precios m?s bajos o mejores usos alternativos pueden justificar su retiro. La vida indefinida no garantiza operaci?n perpetua."
+      ]
+    },
+    {
+      "id": "c12-q042",
+      "tema": "Demanda y precio inicial tras expandir",
+      "dificultad": "intermedia",
+      "pregunta": "En un mercado la demanda anual es Q = 100 ? (10 ? P), con Q en miles de unidades. La capacidad pasa de 300 a 450 mil unidades y toda se ofrece inicialmente. ?Qu? precio absorber?a esa producci?n antes de cualquier retiro?",
+      "opciones": [
+        "$7.",
+        "$5,50.",
+        "$4,50.",
+        "$6."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$7 es el precio compatible con las 300 mil unidades iniciales. Mantenerlo ignora la capacidad adicional. La expansi?n requiere un precio menor si toda la producci?n se vende.",
+        "La demanda debe igualar las 450 mil unidades ofrecidas. Resolver 450 = 100 ? (10 ? P) da 4,5 = 10 ? P. Por lo tanto, P = $5,50, antes de ajustar la capacidad por posibles salidas.",
+        "$4,50 es Q dividido por 100. Ese resultado equivale a 10 ? P, no al precio. Falta restarlo de 10 para despejar P.",
+        "$6 absorbe 400 mil unidades seg?n la demanda. Podr?a ser relevante despu?s de retirar capacidad, pero no para una oferta inicial de 450 mil. La pregunta distingue ambos momentos."
+      ]
+    },
+    {
+      "id": "c12-q043",
+      "tema": "Retiro y valor de rescate",
+      "dificultad": "intermedia",
+      "pregunta": "Una m?quina antigua puede venderse hoy por $10 por unidad de capacidad. Produce una unidad anual indefinidamente con costo de $5 y precio esperado constante de $5,50; la tasa es 10%. ?Cu?l es el VPN de conservarla frente a venderla?",
+      "opciones": [
+        "$5 por unidad de capacidad.",
+        "$10 por unidad de capacidad.",
+        "?$5 por unidad de capacidad.",
+        "$0,50 por unidad de capacidad."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$5 es el VP de los m?rgenes, antes del costo de oportunidad. Conservar obliga a renunciar a $10 de rescate. Por eso el valor incremental es negativo.",
+        "$10 es lo que se obtiene al vender la m?quina. No es el beneficio incremental de conservarla. El uso productivo debe compararse con ese ingreso alternativo.",
+        "El margen anual de operar es $5,50 ? $5 = $0,50. Su VP es $0,50/0,10 = $5, pero se sacrifica una venta inmediata de $10. El VPN de conservar frente a vender es $5 ? $10 = ?$5.",
+        "$0,50 es un flujo de un solo a?o. La decisi?n enfrenta una corriente perpetua con una venta actual. Hay que capitalizar el margen y restar el rescate sacrificado."
+      ]
+    },
+    {
+      "id": "c12-q044",
+      "tema": "Precio de indiferencia de equipos existentes",
+      "dificultad": "intermedia",
+      "pregunta": "Una m?quina existente tiene costo variable de $5 por unidad anual y valor de rescate de $10 por unidad de capacidad. Con vida indefinida y tasa de 10%, ?qu? precio constante vuelve indiferente operar o vender?",
+      "opciones": [
+        "$5.",
+        "$15.",
+        "$5,10.",
+        "$6."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$5 cubre ?nicamente el costo variable. No remunera los $10 que podr?an cobrarse vendiendo el equipo. El precio de retiro debe incluir ese costo de oportunidad.",
+        "$15 suma todo el valor de rescate al costo de un a?o. El rescate es un stock de valor y debe convertirse en una carga anual. Con 10%, esa carga es $1, no $10.",
+        "$5,10 aplica la tasa a una base de $1 en vez de $10. La rentabilidad anual sacrificada al no vender es $10 ? 10% = $1. Eso eleva el precio necesario hasta $6.",
+        "La indiferencia exige que el VP del margen iguale el rescate. Entonces (P ? 5)/0,10 = 10 y P ? 5 = 1. El precio es $6 por unidad."
+      ]
+    },
+    {
+      "id": "c12-q045",
+      "tema": "Ajuste de capacidad por salida",
+      "dificultad": "intermedia",
+      "pregunta": "La demanda es Q = 100 ? (10 ? P), con Q en miles. Despu?s de una expansi?n hay 450 mil unidades de capacidad; los equipos antiguos se retiran hasta sostener un precio de $6. Si hay suficiente capacidad antigua disponible para retirar, ?cu?nto debe salir?",
+      "opciones": [
+        "50 mil unidades de capacidad.",
+        "400 mil unidades de capacidad.",
+        "150 mil unidades de capacidad.",
+        "Ninguna capacidad: el precio necesariamente queda en $5,50."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "A un precio de $6 se demandan 100 ? (10 ? 6) = 400 mil unidades. La capacidad inicial posterior a la expansi?n es 450 mil. Deben retirarse 450 ? 400 = 50 mil unidades para alcanzar ese equilibrio.",
+        "400 mil es la capacidad que queda operando, no la que sale. Retirarla dejar?a solamente 50 mil unidades. La salida se calcula como exceso sobre la capacidad compatible con el precio.",
+        "150 mil puede ser la expansi?n respecto de una base de 300 mil. Pero no toda expansi?n debe ser compensada por retiros. El mercado absorbe parte de la capacidad nueva mediante un precio menor.",
+        "El precio de $5,50 surge de suponer que todos siguen operando. Si a ese precio vender equipos es m?s rentable, la oferta disminuye. La conducta de los productores modifica el equilibrio inicial."
+      ]
+    },
+    {
+      "id": "c12-q046",
+      "tema": "Entrada con nueva tecnolog?a",
+      "dificultad": "intermedia",
+      "pregunta": "Una tecnolog?a replicable cuesta $20 por unidad de capacidad anual, opera indefinidamente y tiene costo de producci?n de $3 por unidad. Con costo de capital de 10% y libre entrada, ?cu?les son el precio de largo plazo y la cantidad si Q = 100 ? (10 ? P), en miles?",
+      "opciones": [
+        "Precio $3 y cantidad 700 mil.",
+        "Precio $5 y cantidad 500 mil.",
+        "Precio $6 y cantidad 400 mil.",
+        "Precio $20 y cantidad cero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$3 cubre la operaci?n pero no la inversi?n inicial. A ese precio el VPN de construir es ?$20 por unidad de capacidad. No puede sostener la entrada de equilibrio.",
+        "La entrada se detiene cuando ?20 + (P ? 3)/0,10 = 0. Eso exige P = $5, que cubre costos operativos y capital. La demanda correspondiente es 100 ? (10 ? 5) = 500 mil unidades.",
+        "$6 deja un margen anual de $3 sobre una inversi?n de $20. Su rendimiento de 15% supera el 10% requerido y atrae entrada. Por eso no es el equilibrio final bajo libre acceso tecnol?gico.",
+        "$20 confunde inversi?n por capacidad con precio de venta por unidad. La inversi?n se remunera a lo largo del tiempo. El precio competitivo se obtiene anualizando el capital y sumando el costo de producci?n."
+      ]
+    },
+    {
+      "id": "c12-q047",
+      "tema": "Continuidad de tecnolog?a intermedia",
+      "dificultad": "intermedia",
+      "pregunta": "Tras la difusi?n de una tecnolog?a nueva, el precio queda en $5. Una planta intermedia existente tiene costo de $4 por unidad, vida indefinida y rescate de $5 por unidad de capacidad; r = 10%. ?Cu?l es la decisi?n econ?micamente correcta?",
+      "opciones": [
+        "Retirarla necesariamente porque ya no es la tecnolog?a m?s nueva.",
+        "Seguir operando ?nicamente si su valor contable es cero.",
+        "Seguir operando: el VP del margen es $10 y supera el rescate de $5.",
+        "Retirarla porque una planta existente debe recuperar otra vez su costo original."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La antig?edad tecnol?gica no determina por s? sola el retiro. Importan los flujos futuros y la mejor alternativa disponible. Una planta intermedia puede seguir siendo rentable a los precios nuevos.",
+        "El valor contable no cambia el ingreso operativo ni el rescate bajo estos supuestos. La decisi?n depende de valores econ?micos actuales. No exige que el activo est? totalmente depreciado.",
+        "La planta obtiene un margen de $1 anual por unidad. Su valor de uso es $1/0,10 = $10 frente a $5 de venta. Aunque no sea la tecnolog?a m?s eficiente, conservarla crea m?s valor que liquidarla.",
+        "El costo original ya fue incurrido. Exigir recuperarlo otra vez puede llevar a rechazar un uso actual conveniente. La comparaci?n relevante es entre continuar y el valor de rescate sacrificado."
+      ]
+    },
+    {
+      "id": "c12-q048",
+      "tema": "Valor terminal y ubicaci?n temporal",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto paga $10 anuales desde el a?o 6 indefinidamente. Con r = 10%, ?en qu? fecha vale $100 esa perpetuidad?",
+      "opciones": [
+        "Hoy, sin descontar.",
+        "Al final del a?o 6, incluyendo el cobro de ese a?o.",
+        "Al final del a?o 1.",
+        "Al final del a?o 5."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El importe de $100 no est? autom?ticamente ubicado en el presente. La perpetuidad empieza varios a?os despu?s. Omitir ese retraso sobreval?a sus pagos.",
+        "Al final del a?o 6, despu?s de cobrar, valen $100 los pagos que empiezan en el a?o 7. Si adem?s se incluye el cobro del a?o 6, el total en esa fecha es $110. Por eso no es la ubicaci?n correcta de los $100 para la corriente original.",
+        "El a?o 1 tampoco precede inmediatamente al primer pago. La ubicaci?n depende del inicio de los flujos, no de una convenci?n arbitraria. Debe elegirse el a?o 5 y luego descontar hasta hoy.",
+        "La f?rmula C/r da el valor un per?odo antes del primer pago. Como el primer cobro llega al final del a?o 6, $10/0,10 = $100 se ubica al final del a?o 5. Para obtener su valor hoy se divide por 1,10?."
+      ]
+    },
+    {
+      "id": "c12-q049",
+      "tema": "VPN con renta temporal y flujo normal",
+      "dificultad": "avanzada",
+      "pregunta": "Una planta cuesta $100 hoy y produce $15 anuales en los a?os 1 a 5 y $10 anuales desde el a?o 6 para siempre. Con tasa de 10%, ?cu?l es su VPN aproximado?",
+      "opciones": [
+        "$18,95.",
+        "$50.",
+        "?$43,14.",
+        "$56,86."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La corriente puede separarse en $10 perpetuos m?s $5 adicionales durante cinco a?os. El VP base es $100 y el de la renta temporal es $5 ? 3,790787 = $18,95. Tras restar la inversi?n de $100, el VPN es $18,95.",
+        "$50 supone que el flujo de $15 contin?a indefinidamente. Eso transforma una ventaja temporal en permanente. Desde el a?o 6 la planta solo genera $10.",
+        "?$43,14 considera ?nicamente los primeros cinco cobros y resta la inversi?n. Omite todo el valor posterior, aunque la planta sigue operando. Hay que incluir la perpetuidad que comienza en el a?o 6.",
+        "$56,86 es el VP de los primeros cinco flujos de $15. No es el VPN del proyecto completo. Faltan el valor posterior y la deducci?n de la inversi?n inicial."
+      ]
+    },
+    {
+      "id": "c12-q050",
+      "tema": "Canibalizaci?n de planta existente",
+      "dificultad": "intermedia",
+      "pregunta": "Una expansi?n reduce $4 anuales los flujos de una planta existente durante los pr?ximos cinco a?os. Luego, ambos escenarios producen los mismos flujos. Con r = 10%, ?qu? ajuste corresponde al VPN de la expansi?n?",
+      "opciones": [
+        "Restar $20.",
+        "Restar $15,16.",
+        "Sumar $15,16.",
+        "Restar $40."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$20 suma los cinco perjuicios sin descontarlos. Como ocurren en fechas futuras, su impacto actual es menor. El an?lisis incremental requiere valores presentes.",
+        "El perjuicio incremental es una anualidad de $4 por cinco a?os. Su VP es $4 ? [1 ? 1/1,10?]/0,10 = $15,16. Debe restarse porque es una p?rdida causada por la expansi?n.",
+        "El importe tiene la magnitud actual correcta, pero el signo es incorrecto. La planta existente pierde flujos por causa de la expansi?n. Ese efecto reduce el valor total.",
+        "$40 convierte la p?rdida en una perpetuidad de $4. El enunciado limita el perjuicio a cinco a?os. Despu?s no hay diferencias entre los escenarios."
+      ]
+    },
+    {
+      "id": "c12-q051",
+      "tema": "VPN total de una expansi?n",
+      "dificultad": "basica",
+      "pregunta": "Una planta nueva tiene VPN de $50 millones y reduce en $18 millones el VP de las plantas actuales de la misma empresa. No hay otros efectos. ?Cu?l es el VPN total de expandirse?",
+      "opciones": [
+        "$50 millones.",
+        "$68 millones.",
+        "$32 millones.",
+        "?$18 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$50 millones considera solamente la planta nueva. Omite una consecuencia econ?mica atribuible a su construcci?n. La unidad de decisi?n es la empresa afectada, no una planta aislada.",
+        "$68 millones suma una p?rdida como si fuera un beneficio. El valor de las plantas actuales disminuye. Ese cambio tiene signo negativo en el c?lculo total.",
+        "El VPN total incorpora el proyecto y sus efectos sobre otros activos. El c?lculo es $50 ? $18 = $32 millones. La reducci?n de valor de las plantas actuales es un costo incremental de la decisi?n.",
+        "?$18 millones refleja ?nicamente el perjuicio en las plantas actuales. Tambi?n existe un VPN positivo de $50 millones en la nueva instalaci?n. Ambos efectos deben integrarse."
+      ]
+    },
+    {
+      "id": "c12-q052",
+      "tema": "Escenario sin proyecto y canibalizaci?n",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa introduce una tecnolog?a hoy; si no lo hiciera, un rival la introducir?a dentro de tres a?os. ?C?mo debe medir el perjuicio sobre su negocio actual?",
+      "opciones": [
+        "Comparando introducir hoy con precios actuales perpetuos, aunque la entrada rival sea inevitable.",
+        "Ignorando todo perjuicio porque los rivales tambi?n innovan.",
+        "Incluyendo toda ca?da hist?rica de utilidades, aunque ya haya ocurrido.",
+        "Comparando introducir hoy con el escenario realista de entrada rival dentro de tres a?os."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un escenario sin competencia no representa la alternativa disponible. Puede exagerar la canibalizaci?n atribuible a la inversi?n. Hay que incorporar las acciones rivales previsibles en ambos escenarios.",
+        "Que exista entrada futura no elimina las p?rdidas causadas antes por innovar hoy. El calendario afecta el valor presente del negocio existente. Deben medirse esas diferencias concretas.",
+        "Las p?rdidas pasadas no cambian con la decisi?n actual. Incorporarlas como costo incremental mezcla historia con efectos futuros. Solo entran flujos que cambian entre las alternativas desde hoy.",
+        "El costo incremental se mide frente a lo que suceder?a sin la decisi?n. Si un rival tambi?n reduce precios m?s adelante, ese efecto com?n no debe atribuirse ?ntegramente al proyecto propio. La diferencia relevante incluye el adelanto del da?o y cualquier otro cambio causado por innovar hoy."
+      ]
+    },
+    {
+      "id": "c12-q053",
+      "tema": "Escala ?ptima de expansi?n",
+      "dificultad": "intermedia",
+      "pregunta": "Los planes A, B y C tienen VPN de planta nueva de 80, 100 y 110 millones, y cambios en el VP del negocio actual de ?10, ?20 y ?50 millones, respectivamente. Si son excluyentes y no hay restricciones adicionales, ?cu?l conviene?",
+      "opciones": [
+        "B, con VPN total de 80 millones.",
+        "C, porque maximiza el VPN de la planta nueva.",
+        "A, porque tiene la menor canibalizaci?n.",
+        "Los tres son equivalentes porque todos tienen VPN positivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los VPN totales son A: 80 ? 10 = 70; B: 100 ? 20 = 80; C: 110 ? 50 = 60. El plan B maximiza la creaci?n de valor conjunta. La escala se elige por ese total, no por un componente aislado.",
+        "C tiene el mayor VPN aislado de la planta nueva. Pero su mayor da?o al negocio actual reduce el total a 60 millones. Ignorar ese efecto conduce a una escala excesiva.",
+        "A protege m?s al negocio actual, pero crea 70 millones en total. B crea 80 millones aun con una p?rdida algo mayor en plantas existentes. Minimizar canibalizaci?n no es lo mismo que maximizar valor.",
+        "Un VPN positivo significa que un plan supera la alternativa de no invertir. No hace equivalentes proyectos excluyentes con distintos VPN. Debe elegirse el que m?s valor total aporta."
+      ]
+    },
+    {
+      "id": "c12-q054",
+      "tema": "Poder de mercado y precio uniforme",
+      "dificultad": "avanzada",
+      "pregunta": "Una innovadora controla temporalmente la tecnolog?a y todos los compradores pagan el mismo precio. ?Por qu? su escala ?ptima puede ser menor que la cantidad final de libre competencia?",
+      "opciones": [
+        "Porque la libre competencia siempre vende menos que un productor con poder de mercado.",
+        "Porque producir m?s puede reducir el precio de todas sus ventas y perjudicar su negocio existente.",
+        "Porque cualquier capacidad adicional carece de costos de inversi?n.",
+        "Porque un monopolista debe igualar su producci?n con la de cada rival individual."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La relaci?n propuesta est? invertida en este argumento. La restricci?n de oferta puede sostener un precio mayor durante la ventaja tecnol?gica. La libre entrada elimina ese incentivo a preservar rentas extraordinarias.",
+        "Con precio uniforme, una expansi?n puede bajar el ingreso de unidades que ya se vend?an. La empresa considera ese efecto al maximizar su valor conjunto. Cuando la tecnolog?a se difunde, la entrada puede llevar a mayor producci?n y menor precio.",
+        "La capacidad adicional exige inversi?n y tiene costos econ?micos. Incluso si fueran bajos, la reducci?n de precios sobre ventas existentes seguir?a importando. No puede suponerse expansi?n gratuita.",
+        "No existe esa regla de igualaci?n. La escala depende de demanda, costos y conducta competitiva. La comparaci?n relevante es el efecto de cada expansi?n sobre el valor total."
+      ]
+    },
+    {
+      "id": "c12-q055",
+      "tema": "Valor de activos existentes",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene capacidad de 20.000 unidades anuales. Sin nuevas tecnolog?as, el precio ser?a $7 y el costo operativo $4 por unidad para siempre; r = 10%. Sin impuestos ni inversiones adicionales, ?cu?nto valen esos activos operativos?",
+      "opciones": [
+        "$60.000.",
+        "$1.400.000.",
+        "$600.000.",
+        "$800.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$60.000 es el flujo de un solo a?o. El activo entrega ese flujo indefinidamente. Hay que capitalizarlo con la tasa del 10%.",
+        "$1.400.000 capitaliza los ingresos brutos de $140.000. Omite los costos anuales de $80.000. El valor operativo depende del flujo neto.",
+        "El flujo anual es 20.000 ? ($7 ? $4) = $60.000. Al ser constante y perpetuo, su VP es $60.000/0,10 = $600.000. Este importe val?a los activos existentes bajo ese escenario espec?fico.",
+        "$800.000 es el VP de los costos, no de los beneficios netos. Esos costos deben restarse de los ingresos. La diferencia capitalizada vale $600.000."
+      ]
+    },
+    {
+      "id": "c12-q056",
+      "tema": "VPOC y sorpresa burs?til",
+      "dificultad": "intermedia",
+      "pregunta": "Antes de un anuncio, las acciones valen $700 millones y el valor atribuido a activos existentes es $600 millones. Despu?s del anuncio, los activos existentes valen $500 millones y el proyecto nuevo agrega un VPN de $260 millones. Sin otros activos o pasivos, ?cu?l es el cambio de riqueza de los accionistas originales?",
+      "opciones": [
+        "Aumenta $260 millones.",
+        "Aumenta $160 millones.",
+        "Disminuye $100 millones.",
+        "Aumenta $60 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El VPN del proyecto nuevo no es toda la sorpresa burs?til. Tambi?n cambian los activos existentes y ya hab?a expectativas incorporadas. La riqueza aumenta por la diferencia entre los valores totales posterior y previo.",
+        "$160 millones compara $760 millones con los $600 millones de activos existentes. Pero los accionistas ya ten?an acciones cotizadas en $700 millones. Omitir el crecimiento anticipado exagera la ganancia del anuncio.",
+        "La p?rdida de $100 millones en activos existentes es solo un componente. El nuevo proyecto agrega $260 millones de VPN. El resultado burs?til requiere integrar todos los componentes y comparar con el precio previo.",
+        "El valor posterior de los accionistas originales es $500 + $260 = $760 millones. Frente al precio previo de $700 millones, el aumento es $60 millones. Los $100 millones de crecimiento ya anticipados estaban incorporados en la cotizaci?n inicial."
+      ]
+    },
+    {
+      "id": "c12-q057",
+      "tema": "Nueva emisi?n y riqueza de accionistas originales",
+      "dificultad": "intermedia",
+      "pregunta": "Despu?s de un anuncio, las acciones originales valen $760 millones. La empresa emite acciones a precio justo para recibir $400 millones y no hay costos de emisi?n. ?Qu? ocurre inmediatamente con el valor total accionario y la riqueza agregada de los accionistas originales?",
+      "opciones": [
+        "El total pasa a $1.160 millones y los originales conservan $760 millones de valor agregado.",
+        "El total pasa a $1.160 millones y los originales ganan $400 millones adicionales.",
+        "El total sigue en $760 millones porque el aporte no es ingreso operativo.",
+        "Los originales pierden necesariamente $400 millones por diluci?n."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El aporte agrega $400 millones de efectivo y los nuevos inversores reciben t?tulos de igual valor. El total pasa a $760 + $400 = $1.160 millones. Una emisi?n a precio justo no transfiere por s? misma riqueza entre ambos grupos.",
+        "Los nuevos $400 millones pertenecen econ?micamente a quienes los aportan a cambio de acciones. No son un regalo a los accionistas anteriores. El incremento del total no equivale a ganancia de los originales.",
+        "El efectivo recibido es un activo aunque no sea ingreso operativo. Por eso aumenta el valor total accionario antes de invertirlo. La contrapartida es una participaci?n de los nuevos accionistas.",
+        "La participaci?n porcentual puede bajar sin p?rdida de valor agregado. Con precio justo, la empresa tambi?n recibe activos por el monto emitido. La diluci?n porcentual no implica autom?ticamente destrucci?n de riqueza."
+      ]
+    },
+    {
+      "id": "c12-q058",
+      "tema": "Depreciaci?n contable y competencia",
+      "dificultad": "basica",
+      "pregunta": "Un gerente afirma que una planta totalmente depreciada puede resistir cualquier tecnolog?a nueva porque ya no tiene costo de capital. ?Cu?l es la objeci?n principal?",
+      "opciones": [
+        "Una planta depreciada siempre debe cerrar inmediatamente.",
+        "Conservarla sacrifica su valor de venta o uso alternativo, aunque su valor contable sea cero.",
+        "La depreciaci?n contable representa un pago de efectivo anual inevitable.",
+        "La nueva tecnolog?a no puede competir con equipos cuyo costo hist?rico ya se pag?."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estar depreciada tampoco obliga a cerrar. Si los flujos futuros superan el valor de la mejor alternativa, puede convenir operarla. El criterio es econ?mico, no su antig?edad contable.",
+        "La decisi?n actual depende de flujos futuros y costos de oportunidad. Si el equipo puede venderse o emplearse de otra manera, conservarlo tiene un costo econ?mico. La depreciaci?n pasada no ofrece protecci?n frente a precios m?s bajos.",
+        "La depreciaci?n es una asignaci?n contable del costo. No es por s? misma un desembolso de caja de ese per?odo. Puede importar por impuestos, pero no justifica la afirmaci?n del gerente.",
+        "Los compradores comparan precios y productos actuales. Un rival eficiente puede reducir los precios aunque los equipos existentes est?n pagados. El costo hist?rico no establece un piso competitivo."
+      ]
+    },
+    {
+      "id": "c12-q059",
+      "tema": "Productor marginal y rentas de eficiencia",
+      "dificultad": "avanzada",
+      "pregunta": "En un equilibrio competitivo, ?c?mo se relacionan las rentas de un activo eficiente con el productor marginal y con su eventual retiro?",
+      "opciones": [
+        "Son siempre iguales a sus ventas totales.",
+        "Desaparecen necesariamente para todos los activos cuando el entrante marginal tiene VPN cero.",
+        "Reflejan el ahorro de costo total que aporta frente a la alternativa marginal necesaria para reemplazarlo.",
+        "Dependen exclusivamente de la depreciaci?n registrada por su due?o."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las ventas incluyen importes destinados a cubrir insumos, operaci?n y capital. La renta es un excedente, no un ingreso bruto. Se necesita comparar costos y alternativas.",
+        "VPN cero para el entrante marginal no exige que todos los recursos existentes sean id?nticos. Un activo escaso de menor costo puede seguir obteniendo renta. La competencia capitaliza ese beneficio en el valor del activo.",
+        "Un activo escaso y eficiente puede reducir el costo total de atender la demanda. Si se retira, se necesita una alternativa m?s costosa para producir lo mismo. Ese ahorro ayuda a explicar su renta, aun cuando la nueva inversi?n marginal solo remunere el capital.",
+        "La depreciaci?n contable no determina el costo de reemplazar la contribuci?n productiva. Importan eficiencia, escasez y usos alternativos. Un mismo registro contable puede acompa?ar rentas econ?micas muy distintas."
+      ]
+    },
+    {
+      "id": "c12-q060",
+      "tema": "Innovaci?n, canibalizaci?n y rivales",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa demora una innovaci?n para proteger utilidades de su producto actual. Un rival puede lanzar un sustituto pronto. ?Qu? evaluaci?n corresponde?",
+      "opciones": [
+        "Demorar siempre, porque la canibalizaci?n propia nunca conviene.",
+        "Innovar siempre, aunque el VPN total sea negativo en todos los escenarios.",
+        "Evaluar ?nicamente los flujos del producto actual y excluir la conducta rival.",
+        "Comparar la protecci?n temporal con el riesgo de perder el mercado ante el rival."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La canibalizaci?n es un costo, pero puede quedar compensada por beneficios mayores. Adem?s, el rival puede destruir igualmente los m?rgenes actuales. Proteger el pasado no siempre preserva valor.",
+        "La innovaci?n tampoco tiene valor positivo por definici?n. Deben considerarse inversi?n, canibalizaci?n y competencia. Lanzar un proyecto que destruye valor en todos los escenarios no se justifica por ser nuevo.",
+        "La conducta rival modifica los flujos futuros del producto actual. Excluirla supone una protecci?n que quiz? no existe. El an?lisis debe usar alternativas realistas.",
+        "La demora puede conservar m?rgenes, pero tambi?n ceder la oportunidad a un competidor. El escenario sin innovaci?n propia debe incluir esa respuesta rival. La decisi?n exige comparar el valor total y el momento de actuar."
+      ]
+    },
+    {
+      "id": "c12-q061",
+      "tema": "Crecimiento sectorial y rentabilidad",
+      "dificultad": "basica",
+      "pregunta": "Un sector transforma la sociedad y sus ventas se multiplican. ?Por qu? eso no garantiza buenos rendimientos para sus accionistas?",
+      "opciones": [
+        "La competencia puede trasladar los beneficios de la innovaci?n a los consumidores.",
+        "Porque el crecimiento de ventas reduce necesariamente todos los flujos de efectivo.",
+        "Porque una industria importante no puede tener barreras de entrada.",
+        "Porque los accionistas reciben autom?ticamente todo el beneficio social."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El crecimiento mide actividad y no qui?n captura su valor. La entrada, las guerras de precios y la obsolescencia pueden consumir los excedentes de los productores. Para invertir importa la ventaja de cada empresa y cu?nto tiempo puede sostenerla.",
+        "El crecimiento puede mejorar o empeorar los flujos seg?n inversi?n, m?rgenes y competencia. No existe una relaci?n negativa necesaria. El error consiste en equiparar crecimiento con rentabilidad sin analizar sus causas.",
+        "Una industria importante s? puede tener patentes, redes u otras barreras. Su impacto social no determina por s? solo su estructura competitiva. Hay que estudiar cada caso.",
+        "El beneficio social tambi?n puede quedar en consumidores, empleados o proveedores. Los accionistas capturan solo la parte que la empresa puede convertir en flujos netos. Ese reparto depende de la competencia y la negociaci?n."
+      ]
+    },
+    {
+      "id": "c12-q062",
+      "tema": "Opciones de expansi?n",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede preparar hoy una instalaci?n para agregar otra l?nea en el futuro a bajo costo. Sus rivales deber?an construir una f?brica completa. ?D?nde puede estar la fuente de valor?",
+      "opciones": [
+        "En la obligaci?n de expandirse aunque la demanda caiga.",
+        "En la opci?n de expandirse con menor costo si la demanda lo justifica.",
+        "En contabilizar hoy como seguras todas las ventas futuras posibles.",
+        "En suponer que la l?nea adicional no requerir? ning?n gasto operativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una opci?n permite elegir, no obliga a invertir. La capacidad de no expandirse en un escenario malo es parte de su valor. Convertirla en obligaci?n elimina esa protecci?n.",
+        "La preparaci?n crea una posibilidad de actuar m?s adelante en condiciones ventajosas. Si la demanda resulta favorable, la empresa puede crecer m?s barato que sus rivales. El valor de esa opci?n debe compararse con el costo de dejarla disponible.",
+        "Las ventas potenciales dependen de escenarios y de decisiones futuras. Tratarlas como seguras exagera el beneficio. La opci?n se val?a considerando cu?ndo conviene ejercerla.",
+        "Expandirse puede ser m?s barato sin ser gratuito. Seguir?n existiendo inversi?n, personal, insumos y otros costos. La ventaja es relativa al costo de las alternativas."
+      ]
+    },
+    {
+      "id": "c12-q063",
+      "tema": "Patente y capacidad de vida finita",
+      "dificultad": "avanzada",
+      "pregunta": "Cuando venza una patente, los entrantes podr?n construir plantas de cinco a?os de vida, sin rescate. La inversi?n es $100 por unidad de capacidad anual, el costo operativo es $20 por unidad y r = 10%. Sin impuestos ni cambio tecnol?gico, ?qu? precio constante de entrada competitiva corresponde?",
+      "opciones": [
+        "$30 por unidad.",
+        "$40 por unidad.",
+        "Aproximadamente $46,38 por unidad.",
+        "$120 por unidad."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$30 usa una carga de capital de $10, como si la planta durara para siempre. Aqu? la inversi?n solo genera cinco a?os de producci?n. Adem?s de remunerar el capital, hay que recuperar su desgaste econ?mico.",
+        "$40 suma $20 de costo operativo y $20 de amortizaci?n simple de la inversi?n. Esa divisi?n omite el costo de oportunidad del capital. La recuperaci?n debe calcularse con una anualidad descontada.",
+        "El factor de anualidad de cinco a?os al 10% es 3,790787. La carga anual de capital es $100/3,790787 = $26,38 por unidad. Al sumar el costo operativo de $20 se obtiene $46,38, el precio que hace cero el VPN del entrante.",
+        "$120 carga toda la inversi?n a cada unidad de un solo a?o. La planta produce durante cinco a?os y el desembolso debe distribuirse econ?micamente entre ellos. El costo anual equivalente evita esa sobreestimaci?n."
+      ]
+    },
+    {
+      "id": "c12-q064",
+      "tema": "Reducci?n tecnol?gica del costo de nuevas plantas",
+      "dificultad": "avanzada",
+      "pregunta": "Despu?s del vencimiento de una patente, el costo de construir plantas nuevas cae cada a?o, mientras el costo operativo unitario permanece constante. ?Qu? consecuencia deber?a investigarse al valuar la planta instalada?",
+      "opciones": [
+        "Un precio competitivo necesariamente constante porque el costo operativo no cambia.",
+        "Un aumento autom?tico del valor de todas las plantas antiguas.",
+        "La desaparici?n de cualquier costo de capital para los futuros entrantes.",
+        "La presi?n descendente sobre el precio competitivo y el valor de la capacidad existente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El precio competitivo tambi?n remunera la inversi?n. Una ca?da del costo de construir altera esa parte del precio requerido. Mirar solo costos operativos omite una fuente de presi?n competitiva.",
+        "La tecnolog?a m?s barata puede perjudicar a quienes ya pagaron instalaciones costosas. El efecto no es un aumento autom?tico del valor existente. Deben compararse sus flujos futuros con las alternativas nuevas.",
+        "Un costo de construcci?n menor sigue siendo una inversi?n. Los nuevos inversores todav?a requieren compensaci?n por tiempo y riesgo. La mejora tecnol?gica no vuelve cero el costo de oportunidad.",
+        "Los entrantes futuros pueden necesitar menores m?rgenes para recuperar su inversi?n. Eso puede reducir los precios y los flujos de las plantas ya construidas. La valuaci?n debe modelar esa trayectoria y no imponer un margen constante sin justificaci?n."
+      ]
+    },
+    {
+      "id": "c12-q065",
+      "tema": "Recuperaci?n de metales e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Un equipo recupera metal que se vende por $100.000 al a?o. El mantenimiento cuesta $40.000 y la depreciaci?n fiscal es $20.000 anual; la tasa del impuesto es 30% y hay utilidades suficientes para usar las deducciones. ?Cu?l es el flujo operativo anual despu?s de impuestos, antes de inversiones?",
+      "opciones": [
+        "$48.000.",
+        "$28.000.",
+        "$42.000.",
+        "$60.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La utilidad imponible es $100.000 ? $40.000 ? $20.000 = $40.000. El impuesto es $12.000 y el flujo de caja es $100.000 ? $40.000 ? $12.000 = $48.000. Equivalentemente, se suma la depreciaci?n de $20.000 a la utilidad neta de $28.000.",
+        "$28.000 es la utilidad neta contable. La depreciaci?n redujo esa utilidad pero no fue un desembolso del a?o. Hay que volver a sumarla para obtener el flujo operativo.",
+        "$42.000 aplica el impuesto al margen antes de depreciaci?n. Omite el ahorro fiscal de $20.000 ? 30% = $6.000. Con las deducciones utilizables, ese ahorro aumenta el flujo.",
+        "$60.000 es el margen de caja antes de impuestos. Existe una utilidad imponible positiva y debe pagarse $12.000. Ignorar ese pago sobreestima el flujo disponible."
+      ]
+    },
+    {
+      "id": "c12-q066",
+      "tema": "Coherencia nominal, real y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Al valuar un equipo que recupera plata, una directora re?ne crecimiento hist?rico real del metal, una tasa corporativa real y una tasa nominal libre de riesgo. ?Qu? deber?a hacer antes de combinarlos?",
+      "opciones": [
+        "Aplicar el crecimiento hist?rico a todos los flujos y descontarlos con cualquier tasa disponible.",
+        "Usar informaci?n actual de mercado y mantener coherencia de moneda, inflaci?n y riesgo para cada flujo.",
+        "Descontar ingresos nominales con una tasa real porque ambas est?n expresadas como porcentajes.",
+        "Usar la tasa libre de riesgo para todos los costos y cantidades aunque sean inciertos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ingresos, mantenimiento y beneficios fiscales pueden seguir procesos distintos. Un crecimiento pasado no sirve como regla universal. La tasa debe corresponder al flujo modelado y a su riesgo.",
+        "El crecimiento hist?rico no determina por s? solo el precio futuro ni su equivalente cierto. Los precios negociados aportan referencias actuales, y cada componente debe descontarse con una tasa compatible. Tambi?n hay que separar flujos reales de nominales e incluir impuestos y deducciones correctamente.",
+        "Una tasa real excluye la compensaci?n por inflaci?n que contienen los flujos nominales. Mezclarlos suele sobrevalorar el proyecto. Debe trabajarse ?ntegramente en t?rminos reales o ?ntegramente nominales para cada c?lculo comparable.",
+        "Fijar el precio del metal no elimina riesgos de cantidad ni de operaci?n. Los costos tambi?n pueden tener incertidumbre relevante. La tasa libre de riesgo corresponde a componentes realmente seguros o convertidos en equivalentes ciertos."
+      ]
+    },
+    {
+      "id": "c12-q067",
+      "tema": "Liquidaci?n inmobiliaria con costos espec?ficos",
+      "dificultad": "intermedia",
+      "pregunta": "Un inmueble terminado y comparable vale hoy $2 millones. Para vender el de la empresa en condiciones equivalentes debe pagarse hoy una adecuaci?n de $200.000; la venta es inmediata y la comisi?n es 5% del precio bruto. Sin impuestos ni otros costos, ?cu?l es el valor neto de liquidaci?n?",
+      "opciones": [
+        "$2 millones.",
+        "$1,8 millones.",
+        "$1,7 millones.",
+        "$1,71 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$2 millones corresponde al precio bruto del inmueble comparable terminado. No reconoce lo que debe pagar la empresa para obtener ese ingreso. El valor de liquidaci?n solicitado es neto.",
+        "$1,8 millones resta la adecuaci?n pero omite la comisi?n. Ambos pagos reducen el efectivo recibido. El 5% debe calcularse sobre el precio bruto de $2 millones.",
+        "La comisi?n es 5% ? $2 millones = $100.000. Se restan esa comisi?n y los $200.000 de adecuaci?n del precio bruto. El neto es $2 millones ? $100.000 ? $200.000 = $1,7 millones.",
+        "$1,71 millones calcula la comisi?n despu?s de restar la adecuaci?n. El enunciado establece que se cobra sobre el precio bruto de venta. La base correcta es $2 millones, no $1,8 millones."
+      ]
+    },
+    {
+      "id": "c12-q068",
+      "tema": "Inmuebles, demoras y doble contabilizaci?n",
+      "dificultad": "avanzada",
+      "pregunta": "Una propiedad se vender? despu?s de acondicionarla; mientras espera comprador se alquila. El valor comparable ya representa un inmueble operativo con sus rentas futuras. ?C?mo debe evitarse duplicar beneficios?",
+      "opciones": [
+        "Sumar al precio de venta una perpetuidad de alquileres que cobrar? el comprador.",
+        "Restar nuevamente todos los impuestos inmobiliarios futuros del precio comparable aunque ya est?n incorporados.",
+        "Ignorar la fecha de venta porque un comparable actual elimina el valor temporal del dinero.",
+        "Contar los alquileres netos cobrados antes de la venta y el precio neto de venta en su fecha, sin agregar rentas posteriores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El comprador paga por recibir el activo y sus rentas futuras. Agregar esas mismas rentas al ingreso del vendedor las cuenta dos veces. Solo corresponden los alquileres que el vendedor efectivamente conserva.",
+        "El comparable operativo ya refleja cargas normales que afectan el valor del inmueble. Deducirlas nuevamente como una perpetuidad puede duplicar costos. S? deben reconocerse pagos espec?ficos que afronta el vendedor durante su tenencia.",
+        "El precio actual es una referencia valiosa, pero no borra una demora. Los cobros y pagos ocurren en fechas diferentes. Deben valorarse consistentemente con esas fechas y con el riesgo correspondiente.",
+        "Los alquileres previos pertenecen al vendedor y son flujos separados. Despu?s de vender, las rentas pertenecen al comprador y su valor ya est? reflejado en el precio del activo. Adecuaci?n, impuestos durante la tenencia, comisi?n y demora deben ubicarse en sus fechas pertinentes."
+      ]
+    },
+    {
+      "id": "c12-q069",
+      "tema": "Valuaci?n por r?plica de un pago indexado",
+      "dificultad": "avanzada",
+      "pregunta": "Un t?tulo paga dentro de dos a?os $200 ? (I?/I?), donde I? se fija dentro de un a?o. El ?ndice se puede replicar, no paga dividendos y no hay costos ni riesgo de incumplimiento. Con tasa libre de riesgo de 5% anual, ?cu?nto vale hoy?",
+      "opciones": [
+        "$190,48.",
+        "$181,41.",
+        "$200.",
+        "No puede valuarse sin pronosticar el rendimiento esperado del ?ndice."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Dentro de un a?o, $200 invertidos en el ?ndice replican exactamente el pago del a?o 2. Por lo tanto, el t?tulo valdr? $200 en la fecha en que se fija I?. Hoy vale $200/1,05 = $190,48, porque se descuenta un a?o hasta ese costo de r?plica conocido.",
+        "$181,41 descuenta $200 durante dos a?os como si el cobro final fuera fijo. El pago final var?a con el ?ndice durante el segundo a?o. El costo cierto de r?plica es $200 en el a?o 1.",
+        "$200 es el valor en la fecha de fijaci?n del ?ndice base. Esa fecha todav?a est? a un a?o. El valor actual debe reconocer la financiaci?n necesaria hasta entonces.",
+        "La r?plica permite valuar sin estimar el rendimiento esperado del ?ndice. Los supuestos de ausencia de dividendos y replicabilidad son decisivos. Con dividendos u otras fricciones habr?a que ajustar la estrategia."
+      ]
+    },
+    {
+      "id": "c12-q070",
+      "tema": "Asignaci?n eficiente de aviones escasos",
+      "dificultad": "avanzada",
+      "pregunta": "Hay dos rutas, X e Y, que requieren un avi?n cada una. Solo hay un avi?n A; opera por $1 mill?n anual en cualquiera de las rutas. Hay aviones B suficientes: cuestan $3 millones en X y $2 millones en Y; el resto de las caracter?sticas es id?ntico. ?Qu? asignaci?n minimiza costos y orienta la renta del avi?n A?",
+      "opciones": [
+        "A en Y y B en X: A debe ir donde B es m?s barato.",
+        "A en X y B en Y: A ahorra m?s frente a la alternativa en X.",
+        "Es indiferente, porque A cuesta lo mismo en ambas rutas.",
+        "A debe quedar ocioso porque B puede cubrir ambas rutas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta asignaci?n desaprovecha el mayor ahorro relativo de A. El costo total ser?a $1 mill?n en Y m?s $3 millones en X. La ventaja debe medirse frente al sustituto de cada ruta.",
+        "En X, A ahorra $3 ? $1 = $2 millones anuales frente a B. En Y solo ahorra $2 ? $1 = $1 mill?n. Asignar A a X permite un costo total de $3 millones frente a $4 millones con la asignaci?n inversa.",
+        "El costo propio de A es igual, pero sus alternativas no lo son. La escasez exige considerar el costo de oportunidad de asignarlo a cada ruta. Por eso importa el ahorro relativo y no solo el costo absoluto.",
+        "Dejar A ocioso obliga a operar con dos B y gastar $5 millones. Usarlo en X reduce ese total a $3 millones. La disponibilidad de sustitutos no elimina el valor de un recurso m?s eficiente."
+      ]
+    },
+    {
+      "id": "c12-q071",
+      "tema": "Rescate variable y decisi?n de esperar",
+      "dificultad": "avanzada",
+      "pregunta": "Una m?quina puede venderse hoy por $60.000 o funcionar un a?o m?s, generar $8.000 netos al cierre del a?o y venderse entonces por $55.000. Con tasa de 10%, sin impuestos, ?qu? conviene?",
+      "opciones": [
+        "Esperar: $8.000 es mayor que cero y alcanza para justificar conservarla.",
+        "Esperar: los $63.000 futuros superan los $60.000 actuales.",
+        "Vender hoy: operar y vender despu?s vale aproximadamente $57.273 hoy.",
+        "Es indiferente porque el costo hist?rico ya es hundido."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un flujo positivo no basta cuando se sacrifica una venta valiosa. Adem?s de cubrir operaci?n, conservar debe compensar el costo del capital y la p?rdida de rescate. La comparaci?n de valores presentes favorece vender hoy.",
+        "Comparar importes de distintas fechas sin descuento confunde valor nominal con valor econ?mico. Los $63.000 llegan un a?o despu?s. A una tasa del 10% equivalen a menos de $60.000 hoy.",
+        "Conservar permite recibir $8.000 + $55.000 = $63.000 dentro de un a?o. Su VP es $63.000/1,10 = $57.272,73, menor que los $60.000 actuales. El margen operativo no compensa la ca?da del rescate y el costo de oportunidad.",
+        "Que el costo hist?rico sea hundido no elimina las alternativas actuales. Hoy puede cobrarse $60.000 o conservar la m?quina. Esas opciones tienen valores presentes distintos."
+      ]
+    },
+    {
+      "id": "c12-q072",
+      "tema": "Incentivos fiscales y activos existentes",
+      "dificultad": "avanzada",
+      "pregunta": "El gobierno permite depreciaci?n fiscal inmediata solo para plantas nuevas en una industria competitiva con demanda dada. Las plantas existentes conservan su r?gimen anterior. ?Por qu? la medida podr?a reducir el valor de estas ?ltimas?",
+      "opciones": [
+        "Porque toda reducci?n de impuestos aumenta por igual el valor de cada empresa existente.",
+        "Porque la depreciaci?n fiscal cambia f?sicamente la eficiencia de las m?quinas antiguas.",
+        "Porque los nuevos inversores pueden sostener rentas extraordinarias sin atraer competencia.",
+        "Porque abarata la entrada, presiona precios y puede adelantar el retiro de plantas antiguas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los beneficios fiscales no se distribuyen necesariamente igual. La medida favorece directamente a inversi?n nueva y puede trasladarse a menores precios. El efecto sobre plantas instaladas depende de ese ajuste competitivo.",
+        "La regla tributaria cambia flujos despu?s de impuestos, no la productividad f?sica del equipo. La obsolescencia econ?mica puede adelantarse aunque la m?quina siga funcionando igual. El mecanismo es financiero y competitivo.",
+        "Con libre entrada, una ventaja accesible a todos los nuevos inversores tiende a incorporarse al equilibrio. No asegura rentas permanentes a cada entrante. Parte del beneficio puede terminar en los consumidores.",
+        "El ahorro fiscal reduce el ingreso necesario para justificar nuevas plantas. La entrada puede bajar precios que tambi?n cobran los productores existentes. Si estos no reciben la misma ventaja fiscal, pueden perder valor o cerrar antes."
+      ]
+    },
+    {
+      "id": "c12-q073",
+      "tema": "Embotelladora: flujo y escudo fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Una embotelladora vende 40 millones de litros al a?o a $0,50 por litro. El costo variable es $0,20 por litro y los costos fijos de caja son $4 millones anuales. La depreciaci?n fiscal es $2 millones y el impuesto 25%; hay base imponible suficiente. ?Cu?l es el flujo operativo anual despu?s de impuestos?",
+      "opciones": [
+        "$6,5 millones.",
+        "$4,5 millones.",
+        "$6 millones.",
+        "$8 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los ingresos son $20 millones y los costos de caja suman $8 + $4 = $12 millones. La utilidad imponible es $20 ? $12 ? $2 = $6 millones y el impuesto $1,5 millones. El flujo es $20 ? $12 ? $1,5 = $6,5 millones.",
+        "$4,5 millones es la utilidad neta despu?s de depreciaci?n e impuestos. Para obtener caja se suman los $2 millones de depreciaci?n no desembolsada. El flujo operativo resulta $6,5 millones.",
+        "$6 millones aplica 25% al margen de caja de $8 millones. Ignora el escudo fiscal de $2 millones ? 25% = $0,5 millones. La deducci?n utilizable aumenta el flujo a $6,5 millones.",
+        "$8 millones es el margen operativo antes de impuestos. La utilidad imponible de $6 millones genera un pago fiscal de $1,5 millones. Ese pago debe restarse aunque la depreciaci?n no consuma caja."
+      ]
+    },
+    {
+      "id": "c12-q074",
+      "tema": "Opci?n de esperar e informaci?n",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede esperar un a?o antes de construir una gran embotelladora. La espera revelar?a si existe demanda suficiente, pero tambi?n postergar?a cobros. Sin considerar todav?a rivales, ?qu? comparaci?n corresponde?",
+      "opciones": [
+        "Esperar siempre, porque toda informaci?n adicional es gratuita.",
+        "El valor de decidir con mejor informaci?n frente a los flujos y oportunidades sacrificados al esperar.",
+        "Invertir siempre que el VPN de actuar hoy sea positivo, sin valorar alternativas.",
+        "Comparar ?nicamente las ventas del primer a?o y omitir la inversi?n."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La informaci?n puede llegar sin un pago expl?cito pero tener costo de demora. Durante la espera pueden perderse flujos valiosos. Por eso no es correcto postergar autom?ticamente.",
+        "Esperar permite evitar una inversi?n mala si la demanda resulta d?bil. Sin embargo, retrasa beneficios y puede tener otros costos. La decisi?n requiere comparar estrategias completas, no solamente el VPN de invertir inmediatamente.",
+        "Un VPN positivo indica que invertir hoy puede crear valor. No demuestra que sea mejor que esperar con flexibilidad. Las alternativas excluyentes deben compararse por el valor que generan.",
+        "La escala de inversi?n y los flujos posteriores son esenciales. Mirar solo las primeras ventas puede confundir aprendizaje con rentabilidad. La opci?n de esperar se eval?a sobre el proyecto completo."
+      ]
+    },
+    {
+      "id": "c12-q075",
+      "tema": "Entrada rival y ventaja de actuar primero",
+      "dificultad": "avanzada",
+      "pregunta": "Dos embotelladoras con costos similares consideran entrar en un mercado limitado. Cada proyecto luce rentable si act?a solo, pero ambos tendr?an exceso de capacidad si entran juntos. ?Qu? debe cambiar en la evaluaci?n?",
+      "opciones": [
+        "Sumar los VPN de monopolio y suponer que ambos siguen siendo v?lidos.",
+        "Suponer que actuar primero impide legalmente cualquier entrada posterior.",
+        "Incorporar la decisi?n probable del rival y revisar precios, ventas y el valor de esperar o anticiparse.",
+        "Aprobar por capacidad instalada aunque las ventas no cubran costos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los VPN como ?nico oferente dependen de escenarios incompatibles entre s?. Si ambas entran, no pueden vender cada una como si la otra no existiera. Debe calcularse el resultado del escenario conjunto.",
+        "La prioridad temporal no crea por s? misma un derecho de exclusividad. Puede haber ventajas de distribuci?n o marca, pero deben demostrarse. Suponer una barrera inexistente sobreestima las rentas.",
+        "La entrada rival cambia el escenario que sostiene cada pron?stico individual. Puede repartir ventas, reducir precios y alterar el atractivo de esperar. Actuar primero puede ayudar, pero solo si hay un mecanismo cre?ble para sostener esa ventaja.",
+        "La capacidad es una posibilidad de producir, no una garant?a de demanda rentable. El exceso puede aumentar costos y presionar m?rgenes. La decisi?n debe apoyarse en flujos realizables y competencia."
+      ]
+    },
+    {
+      "id": "c12-q076",
+      "tema": "Integraci?n de estrategia y presupuesto de capital",
+      "dificultad": "intermedia",
+      "pregunta": "Un comit? recibe una propuesta con VPN alto, rentas perpetuas, crecimiento acelerado y una nueva tecnolog?a copiable. ?Qu? conjunto de preguntas aporta el control m?s completo?",
+      "opciones": [
+        "Si la planilla tiene suficientes decimales y si la utilidad del primer a?o es positiva.",
+        "Si el sector aparece seguido en las noticias y la empresa puede endeudarse.",
+        "Si el costo hist?rico de los equipos actuales ya fue depreciado por completo.",
+        "Qu? ventaja crea el excedente, cu?nto dura, c?mo reaccionan los rivales y qu? otros activos de la empresa se ven afectados."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La precisi?n num?rica no valida los supuestos econ?micos. Un beneficio temprano tampoco prueba una renta perpetua. Hace falta investigar competencia, duraci?n e impactos conjuntos.",
+        "Popularidad y acceso al cr?dito no garantizan creaci?n de valor. Un sector atractivo puede tener competencia intensa y m?rgenes insuficientes. La evaluaci?n debe identificar flujos y ventajas defendibles.",
+        "La depreciaci?n hist?rica no determina si conviene innovar o conservar capacidad. Importan valores actuales y consecuencias futuras. Centrar el control en libros contables deja sin revisar el origen del VPN.",
+        "La ventaja explica el origen del valor y su duraci?n limita las rentas proyectadas. La respuesta rival permite construir precios y vol?menes coherentes con la competencia. Los efectos sobre otros activos completan los flujos incrementales de la decisi?n."
+      ]
+    }
+  ]
+}

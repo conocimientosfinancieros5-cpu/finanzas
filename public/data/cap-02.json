@@ -1,0 +1,1146 @@
+{
+  "capitulo": 2,
+  "titulo": "Valores presentes, objetivos de la empresa y gobierno corporativo",
+  "preguntas": [
+    {
+      "id": "c02-q001",
+      "tema": "Activos reales y presupuesto de capital",
+      "dificultad": "basica",
+      "pregunta": "¿Qué busca una decisión de inversión en activos reales?",
+      "opciones": [
+        "Comprar únicamente bienes físicos, porque una patente no es un activo real.",
+        "Aumentar la cantidad de activos aunque no agreguen valor.",
+        "Adquirir activos tangibles o intangibles cuyo valor supere su costo.",
+        "Elegir el mayor precio de reventa sin considerar el desembolso."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Confunde activo real con activo exclusivamente físico. Una patente o la capacitación también pueden contribuir a producir bienes y servicios. Su evaluación económica exige comparar beneficios y costos, igual que con una máquina.",
+        "Incorrecta. El tamaño de los activos no mide por sí solo el éxito financiero. Comprar algo que cuesta más de lo que vale reduce la riqueza. La expansión debe justificarse por el valor que agrega.",
+        "Correcta. Una planta y una patente pueden generar beneficios económicos aunque solo la primera tenga forma física. El presupuesto de capital compara su valor con los recursos que requieren. La inversión crea riqueza cuando el valor supera el costo.",
+        "Incorrecta. Un cobro de reventa elevado no garantiza una buena inversión. También importan el costo inicial, la fecha del ingreso y el riesgo. La decisión debe considerar el valor neto de todos esos elementos."
+      ]
+    },
+    {
+      "id": "c02-q002",
+      "tema": "Valuación y comparables",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué observar ventas de activos parecidos puede ser insuficiente para valuar un proyecto corporativo?",
+      "opciones": [
+        "El valor siempre coincide con el costo histórico.",
+        "Los precios de mercado nunca aportan información útil.",
+        "Puede haber pocos comparables y ventajas de gestión que modifiquen los flujos.",
+        "Un mismo activo genera idénticos flujos para cualquier propietario."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. El costo histórico registra un desembolso pasado. No determina los ingresos futuros ni las alternativas disponibles hoy. La valuación económica se apoya en esos beneficios futuros y en su riesgo.",
+        "Incorrecta. Las operaciones frecuentes sí aportan evidencia útil sobre precios. El problema es que pueden faltar comparables adecuados o existir características particulares. No corresponde descartar toda información de mercado.",
+        "Correcta. Los mercados de instalaciones especializadas pueden registrar pocas operaciones. Además, un operador puede obtener mejores resultados que otro con el mismo activo. Por eso hay que estimar los flujos propios y no depender exclusivamente de comparables.",
+        "Incorrecta. La capacidad de gestión y las complementariedades pueden cambiar ingresos y costos. Dos propietarios pueden obtener resultados distintos con el mismo edificio. Esa diferencia puede justificar valuaciones diferentes."
+      ]
+    },
+    {
+      "id": "c02-q003",
+      "tema": "Valor del dinero en el tiempo",
+      "dificultad": "basica",
+      "pregunta": "Con una tasa positiva, ¿por qué un cobro seguro hoy vale más que el mismo importe seguro dentro de un año?",
+      "opciones": [
+        "Porque descontar aumenta el importe nominal del cobro.",
+        "Porque la inflación es la única causa del descuento.",
+        "Porque el dinero disponible hoy puede invertirse y generar rendimiento.",
+        "Porque todo cobro futuro necesariamente tiene riesgo de incumplimiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Descontar no altera el importe contractual futuro. Calcula su equivalente económico hoy. Con una tasa positiva, ese equivalente es menor que el cobro futuro.",
+        "Incorrecta. El valor temporal también puede existir sin inflación. Una tasa real positiva remunera la postergación del consumo o el uso del capital. La inflación no es la única justificación del descuento.",
+        "Correcta. Cobrar hoy permite invertir antes de la fecha del cobro alternativo. Al final del año se conserva el capital y se suma su rendimiento. Por eso los dos importes nominales no representan la misma oportunidad económica.",
+        "Incorrecta. El enunciado establece que ambos cobros son seguros. Aun sin incumplimiento existe una diferencia por el tiempo. El rendimiento disponible explica esa diferencia."
+      ]
+    },
+    {
+      "id": "c02-q004",
+      "tema": "Tasa y factor de descuento",
+      "dificultad": "basica",
+      "pregunta": "Para un cobro dentro de un año, ¿qué relación entre tasa y factor de descuento es correcta?",
+      "opciones": [
+        "La tasa es r y el factor es 1/(1+r).",
+        "El factor es 1−r para cualquier tasa.",
+        "El factor es 1+r.",
+        "La tasa es 1/(1+r) y el factor es r."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. La tasa r mide el rendimiento exigido durante el año. El factor indica el valor actual de una unidad monetaria futura. Multiplicar un cobro por 1/(1+r) equivale a dividirlo por 1+r.",
+        "Incorrecta. Restar la tasa no invierte exactamente la capitalización. El descuento correcto requiere 1/(1+r). La diferencia entre las expresiones puede ser importante cuando aumenta la tasa.",
+        "Incorrecta. Uno más la tasa es el factor de capitalización. Sirve para llevar dinero de hoy al final del año. Para hacer el recorrido inverso hay que dividir por ese factor.",
+        "Incorrecta. Intercambia dos conceptos diferentes. La tasa expresa una rentabilidad y el factor convierte un flujo a valor presente. Esa conversión usa el inverso de uno más la tasa."
+      ]
+    },
+    {
+      "id": "c02-q005",
+      "tema": "Flujo inicial y VPN",
+      "dificultad": "basica",
+      "pregunta": "C0 es el flujo firmado de hoy y C1 el cobro dentro de un año. ¿Cuál es la fórmula correcta?",
+      "opciones": [
+        "VPN = C1/(1+r), sin incluir la inversión.",
+        "VPN = (C0+C1)/(1+r), descontando ambos flujos.",
+        "VPN = −C0 + C1/(1+r), con C0 ya negativo.",
+        "VPN = C0 + C1/(1+r), con C0 negativo si se invierte."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Esa expresión es el valor presente del cobro. No mide la riqueza neta creada porque omite el costo inicial. Para obtener el VPN hay que incorporar ese desembolso.",
+        "Incorrecta. C0 ocurre hoy y no requiere descuento. Dividirlo por 1+r reduce indebidamente su costo presente. Solo el flujo del final del año debe descontarse un período.",
+        "Incorrecta. Si C0 ya es negativo, cambiarle el signo convierte el desembolso en un supuesto ingreso. Eso infla artificialmente el VPN. Debe sumarse el flujo inicial con su signo original.",
+        "Correcta. El desembolso inicial se registra con signo negativo. El cobro futuro se convierte a dinero de hoy mediante el descuento. Su suma mide el valor agregado después de considerar el costo de invertir."
+      ]
+    },
+    {
+      "id": "c02-q006",
+      "tema": "Costo de oportunidad del capital",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el costo de oportunidad del capital de un proyecto?",
+      "opciones": [
+        "El rendimiento esperado de inversiones disponibles con riesgo equivalente.",
+        "La rentabilidad que desea la gerencia sin mirar el mercado.",
+        "La tasa del préstamo más barato disponible, cualquiera sea el proyecto.",
+        "El promedio histórico de rentabilidad de todos los activos de la empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Invertir en el proyecto implica renunciar a otras oportunidades. La comparación pertinente utiliza alternativas sujetas a riesgos equivalentes. Su rendimiento esperado constituye la compensación que debe ofrecer el proyecto.",
+        "Incorrecta. Una aspiración interna no determina el costo económico del capital. La referencia son las oportunidades disponibles para los inversores. Una meta arbitraria puede aceptar proyectos que destruyen riqueza.",
+        "Incorrecta. El préstamo puede reflejar garantías y la solvencia de otros negocios. Eso no necesariamente representa el riesgo de los nuevos flujos. La tasa de evaluación debe corresponder al riesgo del proyecto.",
+        "Incorrecta. Los activos existentes pueden tener riesgos diferentes. Su rentabilidad pasada tampoco determina las oportunidades actuales. El costo de oportunidad exige una comparación relevante para la nueva inversión."
+      ]
+    },
+    {
+      "id": "c02-q007",
+      "tema": "Riesgo y valor presente",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se incorpora el riesgo al valuar un cobro futuro incierto en el enfoque utilizado en este capítulo?",
+      "opciones": [
+        "Se descuenta el flujo esperado con el rendimiento esperado de títulos de riesgo equivalente.",
+        "Se usa siempre la tasa libre de riesgo sin otros ajustes.",
+        "Se aumenta el valor presente para premiar la aceptación del riesgo.",
+        "Se sustituye el flujo esperado por el peor resultado posible."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. El flujo esperado resume los resultados ponderados por sus probabilidades. La tasa comparable refleja la compensación exigida por asumir ese riesgo. Si supera la tasa segura, un mismo importe esperado tiene un valor presente menor.",
+        "Incorrecta. Descontar un flujo esperado riesgoso a la tasa segura omite la compensación por riesgo. Eso puede sobrevaluar el activo. En este enfoque se utiliza la rentabilidad esperada de títulos comparables.",
+        "Incorrecta. Confunde recompensa esperada con precio actual. Para que un mismo cobro esperado ofrezca mayor rendimiento, su precio debe bajar. Una tasa exigida superior reduce el valor presente.",
+        "Incorrecta. El peor resultado no es el valor esperado. Reemplazar uno por otro cambia el pronóstico central sin una justificación de valuación. El riesgo se incorpora usando una tasa consistente con el flujo esperado."
+      ]
+    },
+    {
+      "id": "c02-q008",
+      "tema": "Flujo esperado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué significa un flujo de efectivo esperado?",
+      "opciones": [
+        "El cobro que necesariamente ocurrirá.",
+        "El resultado más frecuente, sin considerar otros escenarios.",
+        "El escenario más optimista defendido por la gerencia.",
+        "Un promedio de resultados posibles ponderado por sus probabilidades."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Un promedio no elimina la incertidumbre. El cobro realizado puede quedar por encima o por debajo del esperado. Tratarlo como seguro subestima el riesgo.",
+        "Incorrecta. El resultado más frecuente es la moda. No necesariamente coincide con el promedio ponderado. Los demás escenarios también aportan a la esperanza según sus probabilidades.",
+        "Incorrecta. El optimismo no define la esperanza de un flujo. Omitir escenarios desfavorables sesga la estimación. Deben ponderarse todos los resultados relevantes.",
+        "Correcta. Cada resultado contribuye según su probabilidad. El promedio puede no coincidir con ningún cobro que efectivamente se observe. Es un pronóstico central, no una garantía."
+      ]
+    },
+    {
+      "id": "c02-q009",
+      "tema": "Valor presente y mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Si compradores y analista coinciden en flujos y riesgo, ¿cómo se interpreta el VP calculado a tasas de mercado?",
+      "opciones": [
+        "Como el precio actual coherente con las alternativas comparables.",
+        "Como una ganancia íntegra adicional al capital desembolsado.",
+        "Como el costo de construcción, cualquiera sea el ingreso.",
+        "Como un precio necesariamente mayor que el cobro futuro."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. La tasa comparable permite calcular cuánto cuesta obtener una exposición equivalente en el mercado. Ese importe orienta lo que un comprador pagaría hoy. La interpretación supone acuerdo sobre flujos y riesgo.",
+        "Incorrecta. El VP representa el valor bruto de los cobros considerados. No es enteramente riqueza nueva porque hubo una inversión inicial. La contribución neta se mide mediante el VPN.",
+        "Incorrecta. Costo y valor son magnitudes diferentes. Un activo puede valer más o menos que los recursos necesarios para construirlo. Esa diferencia permite identificar oportunidades con VPN positivo.",
+        "Incorrecta. Con una tasa positiva, el VP de un cobro único es menor que su importe futuro. Un precio demasiado alto ofrecería un rendimiento insuficiente. El comprador puede acudir a alternativas comparables."
+      ]
+    },
+    {
+      "id": "c02-q010",
+      "tema": "Equivalencia de reglas",
+      "dificultad": "intermedia",
+      "pregunta": "Para invertir I>0 hoy y cobrar C1 en un año, con r>−1, ¿cuándo es positivo el VPN?",
+      "opciones": [
+        "Cuando la tasa de rendimiento iguala r.",
+        "Cuando C1/I supera r, sin restar uno.",
+        "Cuando C1 supera I, cualquiera sea r.",
+        "Cuando (C1−I)/I supera r."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La igualdad de tasas produce VPN cero. El proyecto remunera exactamente la oportunidad sacrificada. Para crear riqueza adicional debe superar esa tasa.",
+        "Incorrecta. C1/I incluye tanto la recuperación del capital como la ganancia. Para obtener el rendimiento hay que restar uno. Omitirlo exagera la tasa en cien puntos porcentuales.",
+        "Incorrecta. Cobrar más de lo invertido solo asegura una ganancia nominal. Puede no compensar la alternativa a la que se renuncia. El rendimiento debe superar el costo de oportunidad.",
+        "Correcta. VPN positivo exige C1/(1+r)>I. Multiplicar por 1+r y dividir por I produce C1/I−1>r. Esa expresión es la tasa de rendimiento del proyecto a un año."
+      ]
+    },
+    {
+      "id": "c02-q011",
+      "tema": "Alcance de la regla de rendimiento",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué precaución corresponde al extender la equivalencia entre VPN y tasa de rendimiento?",
+      "opciones": [
+        "La demostración de un desembolso y un cobro no resuelve todos los casos con múltiples flujos.",
+        "Toda tasa positiva crea valor aunque sea inferior al costo de capital.",
+        "El VPN deja de considerar el tiempo si hay varios cobros.",
+        "Siempre debe elegirse la mayor tasa porcentual entre proyectos excluyentes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. La equivalencia sencilla corresponde a una estructura específica de flujos. Con múltiples movimientos pueden aparecer discrepancias en reglas basadas en tasas. El VPN sigue midiendo directamente la contribución a la riqueza.",
+        "Incorrecta. El umbral relevante no es cero sino la rentabilidad comparable. Un rendimiento positivo puede ser insuficiente. Ganar menos que la alternativa de igual riesgo implica destruir valor.",
+        "Incorrecta. El VPN sigue expresando los flujos en una fecha común. Varios cobros requieren descuentos correspondientes a sus fechas. La existencia de más flujos no elimina el valor temporal.",
+        "Incorrecta. Una tasa alta sobre un monto pequeño puede crear menos riqueza que otra tasa sobre un monto mayor. Entre proyectos excluyentes importa el valor agregado. La equivalencia para aceptar un proyecto no garantiza el mismo orden entre proyectos."
+      ]
+    },
+    {
+      "id": "c02-q012",
+      "tema": "Separación entre inversión y consumo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué accionistas con preferencias de consumo diferentes pueden apoyar las mismas inversiones con VPN positivo?",
+      "opciones": [
+        "Porque deben consumir los dividendos en cuanto los reciben.",
+        "Porque la empresa satisface exactamente los gustos de cada propietario.",
+        "Porque pueden ajustar personalmente el momento del consumo mediante mercados competitivos.",
+        "Porque el VPN positivo elimina toda necesidad de ahorro o endeudamiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Un dividendo puede ahorrarse en lugar de consumirse. También es posible obtener liquidez sin esperar todos los cobros del proyecto. Esa flexibilidad permite conciliar preferencias diferentes.",
+        "Incorrecta. La separación evita depender del conocimiento de cada gusto personal. La empresa aumenta la riqueza y cada accionista organiza su consumo. Coordinar directamente todos los planes individuales sería impracticable.",
+        "Correcta. Crear riqueza amplía las posibilidades de consumo de cada accionista. Cada uno puede prestar, endeudarse o negociar títulos para distribuirla entre fechas. La inversión empresarial puede así concentrarse en agregar valor.",
+        "Incorrecta. El VPN positivo crea recursos adicionales pero no fija cuándo consumirlos. Ahorrar o endeudarse puede seguir siendo necesario. Los mercados permiten transformar la riqueza en el plan preferido."
+      ]
+    },
+    {
+      "id": "c02-q013",
+      "tema": "Supuestos de mercados competitivos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué supuesto sostiene la demostración de acuerdo entre quien quiere consumir hoy y quien prefiere ahorrar?",
+      "opciones": [
+        "Cada uno enfrenta tasas diferentes y ninguno puede negociar títulos.",
+        "La empresa garantiza idéntico consumo para todos los accionistas.",
+        "Los impuestos y los costos de transacción deben ser elevados.",
+        "Ambos acceden al mercado y pueden prestar y endeudarse a la misma tasa en el modelo simple."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Tasas diferentes y restricciones de negociación pueden impedir ajustar el consumo. Entonces los accionistas podrían discrepar sobre las inversiones. Eso debilita la demostración de unanimidad.",
+        "Incorrecta. El acuerdo se refiere a crear riqueza, no a consumir cantidades iguales. Cada propietario conserva sus gustos. Los mercados permiten elegir planes personales distintos a partir de una inversión conveniente.",
+        "Incorrecta. Esas fricciones pueden limitar el ajuste individual del consumo. No son una condición favorable para la demostración simple. Deben analizarse como imperfecciones que pueden modificar sus conclusiones.",
+        "Correcta. La tasa común permite intercambiar recursos entre fechas en condiciones consistentes. Con acceso compartido, el valor creado amplía las posibilidades de ambos inversores. Es un supuesto del argumento y no una descripción perfecta de toda situación real."
+      ]
+    },
+    {
+      "id": "c02-q014",
+      "tema": "Frontera de consumo",
+      "dificultad": "avanzada",
+      "pregunta": "Con consumo actual en el eje horizontal y futuro en el vertical, ¿qué hace un proyecto seguro con VPN positivo si la tasa de mercado no cambia?",
+      "opciones": [
+        "Vuelve vertical la recta porque invertir impide consumir hoy.",
+        "Cambia su pendiente por el rendimiento del proyecto.",
+        "Desplaza la recta de posibilidades hacia afuera y mantiene su pendiente −(1+r).",
+        "Desplaza la recta hacia adentro porque todo desembolso destruye riqueza."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. En el modelo se puede pedir prestado contra un ingreso futuro seguro. Invertir no obliga a renunciar a todo consumo actual. La recta sigue mostrando combinaciones de consumo entre fechas.",
+        "Incorrecta. El rendimiento del proyecto determina cuánto valor agrega la inversión. La pendiente de la recta posterior depende de la tasa de préstamo y ahorro. Son relaciones distintas que no deben confundirse.",
+        "Correcta. El mercado convierte una unidad ahorrada hoy en 1+r unidades futuras. Esa relación determina la pendiente. El proyecto agrega riqueza y aumenta los interceptos sin cambiar la tasa de intercambio del mercado.",
+        "Incorrecta. El desembolso entrega recursos a cambio de un activo. Si el activo vale más que su costo, el patrimonio aumenta. Por eso un VPN positivo amplía las posibilidades de consumo."
+      ]
+    },
+    {
+      "id": "c02-q015",
+      "tema": "Preferencia temporal individual",
+      "dificultad": "avanzada",
+      "pregunta": "En un óptimo interior de consumo con curvas de indiferencia, ¿qué condición aparece en mercados sin fricciones?",
+      "opciones": [
+        "La pendiente de la curva de indiferencia debe ser cero.",
+        "El gusto personal determina por sí solo el precio de mercado del proyecto.",
+        "La pendiente de la curva de indiferencia iguala en valor absoluto 1+r.",
+        "Todas las personas eligen consumir únicamente en el futuro."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Una pendiente nula no representa el intercambio de mercado entre fechas. En una solución interior debe igualarse la valoración marginal personal con la tasa de transformación disponible. Esta última es 1+r en el modelo.",
+        "Incorrecta. Las preferencias determinan el punto elegido en la recta de consumo. La valuación empresarial utiliza flujos y rendimientos comparables de mercado. Separar ambos problemas permite delegar la inversión.",
+        "Correcta. La elección interior ocurre en una tangencia con la recta presupuestaria. La relación personal de intercambio marginal coincide con la disponible en el mercado. Esa relación de mercado tiene valor absoluto 1+r.",
+        "Incorrecta. Ahorrar todo es solo una preferencia posible. Otras personas eligen consumir hoy o distribuir el consumo. El mercado admite decisiones distintas según los gustos individuales."
+      ]
+    },
+    {
+      "id": "c02-q016",
+      "tema": "Objetivo financiero y riesgo personal",
+      "dificultad": "intermedia",
+      "pregunta": "Con acceso adecuado a los mercados, ¿qué debe priorizar el director financiero frente a accionistas de distinta tolerancia al riesgo?",
+      "opciones": [
+        "Elegir solo proyectos seguros para satisfacer al más conservador.",
+        "Adaptar todas las inversiones al accionista con mayor patrimonio.",
+        "Administrar el consumo y la cartera personal completa de cada propietario.",
+        "Aumentar el valor de sus participaciones con proyectos de VPN positivo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La seguridad por sí sola no garantiza creación de valor. Un proyecto riesgoso también puede tener VPN positivo. El accionista conservador puede ajustar su exposición mediante su cartera personal.",
+        "Incorrecta. El patrimonio de una persona no define el criterio financiero común. La meta es aumentar el valor de las participaciones. Privilegiar gustos particulares no reemplaza la evaluación económica.",
+        "Incorrecta. Esas decisiones corresponden a cada propietario. Los mercados permiten adaptar consumo y riesgo sin dirigir todos los proyectos de la empresa. La tarea empresarial central es crear riqueza.",
+        "Correcta. La creación de riqueza beneficia a los propietarios aunque tengan preferencias diferentes. Ellos pueden ajustar el riesgo comprando o vendiendo títulos. La gerencia debe evaluar cada inversión con una tasa adecuada a su riesgo."
+      ]
+    },
+    {
+      "id": "c02-q017",
+      "tema": "Mercados imperfectos y propiedad",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué relación se plantea entre mercados de capital poco desarrollados y estructura de propiedad?",
+      "opciones": [
+        "Las dificultades para ajustar consumo y riesgo pueden favorecer desacuerdos y una propiedad más concentrada.",
+        "La ausencia de mercados obliga a tener miles de accionistas dispersos.",
+        "Las imperfecciones garantizan que todos valoren igual cualquier proyecto.",
+        "La propiedad familiar elimina la necesidad de evaluar las inversiones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Sin acceso fluido al mercado, las circunstancias personales pesan más en las decisiones empresariales. Eso puede dificultar el acuerdo entre muchos accionistas. Puede acompañarse de mayor concentración del control y presencia familiar o estatal.",
+        "Incorrecta. Una propiedad dispersa requiere mecanismos para coordinar intereses y negociar participaciones. Mercados débiles pueden reducir su atractivo. No existe una obligación económica de dispersar el capital.",
+        "Incorrecta. Las restricciones hacen más relevantes las preferencias individuales. Por eso pueden surgir desacuerdos sobre una misma oportunidad. La unanimidad del modelo depende de condiciones que aquí se debilitan.",
+        "Incorrecta. Una familia también enfrenta riesgo, costos y oportunidades alternativas. Concentrar el control no convierte en conveniente cualquier gasto. La evaluación económica sigue siendo necesaria."
+      ]
+    },
+    {
+      "id": "c02-q018",
+      "tema": "Limitaciones de maximizar utilidades",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué maximizar utilidades contables es una meta financiera incompleta?",
+      "opciones": [
+        "Porque una empresa rentable nunca puede tener VPN positivo.",
+        "Porque el VPN solo considera ingresos y omite desembolsos.",
+        "Porque obliga a distribuir todos los fondos como dividendos.",
+        "No precisa el horizonte, puede ignorar el rendimiento requerido y depende de criterios contables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La utilidad contable y el VPN positivo pueden coexistir. El problema es que la primera no mide por sí sola la riqueza creada. Hay que considerar fechas, flujos y oportunidades sacrificadas.",
+        "Incorrecta. El VPN incorpora tanto salidas como entradas de efectivo. También incluye la inversión inicial y el descuento temporal. Esa visión neta permite medir la contribución económica del proyecto.",
+        "Incorrecta. Una empresa puede retener ganancias y reinvertirlas. Eso no garantiza que la inversión convenga a sus propietarios. Debe evaluarse si el rendimiento compensa el costo de oportunidad.",
+        "Correcta. Una mejora de este año puede perjudicar períodos posteriores. Retener fondos puede aumentar utilidades sin remunerar adecuadamente el capital. Además, distintos criterios contables pueden cambiar las ganancias informadas sin modificar los flujos."
+      ]
+    },
+    {
+      "id": "c02-q019",
+      "tema": "Principal y agente",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el problema de agencia básico en una corporación con propiedad dispersa?",
+      "opciones": [
+        "La delegación garantiza incentivos perfectamente coincidentes.",
+        "Los clientes deben decidir todas las inversiones diarias.",
+        "Los gerentes pueden favorecer sus propios intereses a costa de los accionistas.",
+        "Los gerentes y los accionistas son necesariamente la misma persona."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Delegar facilita la especialización pero no elimina diferencias de interés. Los controles pueden reducirlas sin alcanzar perfección. Suponer coincidencia automática ignora el problema de agencia.",
+        "Incorrecta. Los clientes influyen mediante sus compras y vínculos comerciales. No reemplazan a los propietarios en la estructura de control. El conflicto analizado enfrenta a quienes aportan capital con quienes lo administran.",
+        "Correcta. Los propietarios delegan decisiones y no observan cada acción de los gerentes. Estos pueden perseguir beneficios personales en lugar de agregar valor. El gobierno corporativo busca limitar ese conflicto.",
+        "Incorrecta. En una corporación grande suelen estar separados propiedad y control. Esa separación permite contratar administración especializada. También genera la necesidad de incentivos y supervisión."
+      ]
+    },
+    {
+      "id": "c02-q020",
+      "tema": "Consejo de administración",
+      "dificultad": "basica",
+      "pregunta": "¿Qué función cumple el consejo de administración?",
+      "opciones": [
+        "Ejecutar personalmente cada operación cotidiana.",
+        "Representar a los accionistas, supervisar la gestión y actuar ante desempeño deficiente.",
+        "Impedir cualquier votación que modifique su composición.",
+        "Garantizar que ninguna inversión tendrá un resultado negativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Supervisar no equivale a administrar todas las tareas diarias. Los consejeros tienen límites de tiempo e información. La gerencia necesita conservar capacidad operativa.",
+        "Correcta. Los accionistas eligen representantes para vigilar la conducción. El consejo puede exigir una recuperación creíble o reemplazar a la gerencia. Así permite delegar sin que cada propietario controle cada operación.",
+        "Incorrecta. La elección de consejeros es un mecanismo de control de los propietarios. Los accionistas descontentos pueden intentar cambiar representantes. Bloquear ese proceso debilitaría la rendición de cuentas.",
+        "Incorrecta. Ninguna supervisión elimina toda incertidumbre. Un proyecto bien evaluado puede tener un resultado desfavorable. El consejo debe promover decisiones e información responsables, no prometer resultados seguros."
+      ]
+    },
+    {
+      "id": "c02-q021",
+      "tema": "Compensación con opciones",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo deben evaluarse los incentivos gerenciales vinculados al precio de las acciones?",
+      "opciones": [
+        "Las opciones de compra siempre aumentan de valor cuando baja la acción.",
+        "No guardan relación con la riqueza de los accionistas.",
+        "Pueden alinear intereses, pero también estimular manipulaciones o decisiones de corto plazo.",
+        "Eliminan completamente todo conflicto de agencia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Una opción de compra permite adquirir a un precio de ejercicio fijado. Una caída de la acción normalmente reduce su atractivo. Eso es distinto de fijar retroactivamente un precio de ejercicio menor.",
+        "Incorrecta. El precio de las acciones se relaciona con el valor de las participaciones. Vincular la remuneración a ese precio crea una conexión económica. Esa conexión puede ser útil aunque sea imperfecta.",
+        "Correcta. Vincular la compensación a las acciones permite que los gerentes compartan parte del resultado de los propietarios. Sin embargo, puede estimular aumentos transitorios del precio o alteraciones oportunistas de las opciones. El diseño y la supervisión siguen siendo necesarios.",
+        "Incorrecta. Compartir parte de los resultados no vuelve idénticos todos los intereses. Los gerentes pueden tener horizontes y exposiciones diferentes. Los incentivos no reemplazan todos los controles."
+      ]
+    },
+    {
+      "id": "c02-q022",
+      "tema": "ética, confianza y reputación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué vínculo hay entre creación de valor y trato responsable a clientes, empleados y proveedores?",
+      "opciones": [
+        "Toda decisión legal es necesariamente ética y conveniente.",
+        "La reputación no importa si no hay una multa inmediata.",
+        "Crear valor exige perjudicar sistemáticamente a los otros participantes.",
+        "La confianza puede sostener flujos y valor, sin volver aceptable cualquier conducta rentable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La legalidad no agota las normas de conducta. También existen compromisos implícitos y expectativas de honestidad. Una acción permitida puede dañar la confianza y el valor.",
+        "Incorrecta. Los clientes pueden retirar fondos o evitar nuevas operaciones aunque no haya sanción. Esas reacciones afectan los flujos futuros. Medir el daño solo por las multas omite la reputación.",
+        "Incorrecta. Muchas relaciones comerciales generan beneficios para ambas partes. Perjudicar a las contrapartes puede destruir confianza y oportunidades. La creación de valor no exige esa conducta.",
+        "Correcta. Clientes satisfechos y empleados comprometidos pueden fortalecer los ingresos futuros. La confianza sostiene relaciones duraderas y facilita transacciones. Además, el objetivo financiero no autoriza el fraude ni elimina obligaciones éticas."
+      ]
+    },
+    {
+      "id": "c02-q023",
+      "tema": "Interesados y diferencias internacionales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué interpretación corresponde a las diferencias internacionales de gobierno corporativo presentadas?",
+      "opciones": [
+        "Todos los países asignan idéntica prioridad exclusiva a los accionistas.",
+        "Hay modelos con mayor peso de otros interesados y presiones del capital global por crear valor accionario.",
+        "La globalización vuelve innecesario definir una meta financiera.",
+        "Considerar a empleados y clientes implica necesariamente un valor accionario bajo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. La comparación histórica distingue orientaciones institucionales entre países. En algunos modelos tienen mayor peso empleados, clientes y comunidades. No corresponde suponer una estructura universal idéntica.",
+        "Correcta. La comparación histórica muestra más prioridad accionaria en Estados Unidos y el Reino Unido y mayor peso de otros interesados en Japón, Alemania y Francia. En el modelo alemán descrito, los trabajadores de grandes empresas eligen la mitad del consejo de supervisión; la orientación japonesa ilustrada por Toyota combina crecimiento duradero con atención a diversos participantes. Competir por capital global genera a la vez presión para crear riqueza accionaria. Esa diversidad exige explicitar la meta financiera y los compromisos asumidos.",
+        "Incorrecta. El acceso al capital internacional exige explicar cómo se crea valor. Una empresa puede asumir otros objetivos, pero necesita conocer su costo financiero. La globalización no decide esos compromisos por sí sola.",
+        "Incorrecta. Atender a empleados y clientes puede fortalecer la actividad y beneficiar a los propietarios. No hay una contradicción inevitable entre esos resultados. Los efectos deben evaluarse en cada decisión."
+      ]
+    },
+    {
+      "id": "c02-q024",
+      "tema": "Límites de la protección al inversor",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué una protección cada vez más estricta del inversor no garantiza siempre mayor valor?",
+      "opciones": [
+        "Porque la protección nunca facilita conseguir capital.",
+        "Porque los intereses personales vuelven inútil cualquier control.",
+        "Puede sumar costos, limitar la discreción útil y desalentar el capital humano.",
+        "Porque los accionistas observan sin costo todas las decisiones diarias."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. La protección favorece la confianza necesaria para aportar fondos. Sin ella puede temerse la apropiación o el desvío de recursos. El debate se refiere a su grado y costo, no a negar su utilidad.",
+        "Incorrecta. Los intereses personales también pueden motivar esfuerzo productivo. Los incentivos buscan orientarlos hacia resultados compartidos. Una alineación imperfecta no significa que todos los mecanismos sean inútiles.",
+        "Correcta. La supervisión ayuda a evitar abusos, pero no es gratuita. Una rigidez excesiva puede impedir decisiones útiles y desalentar el aporte de conocimiento. El diseño debe equilibrar costos y beneficios, con posibles rendimientos decrecientes del control. La protección también debe contemplar riesgos de apropiación de recursos por administradores o de intervención estatal excesiva.",
+        "Incorrecta. Los propietarios dispersos carecen de tiempo e información para vigilar cada decisión. Incluso el consejo enfrenta límites. Esa dificultad justifica la delegación y cierta discreción gerencial."
+      ]
+    },
+    {
+      "id": "c02-q025",
+      "tema": "Valor futuro a un año",
+      "dificultad": "basica",
+      "pregunta": "Se invierten $60.000 durante un año al 8% anual, sin impuestos ni comisiones. ¿Cuánto se recibe al final?",
+      "opciones": [
+        "$55.555,56.",
+        "$4.800.",
+        "$64.800.",
+        "$60.008."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Ese importe surge de dividir $60.000 por 1,08. Esa operación trae un cobro futuro al presente. Aquí se pide capitalizar un importe actual durante un año.",
+        "Incorrecta. Esa cifra representa solamente el interés ganado. El cobro final también incluye la devolución del capital. Por eso deben sumarse $60.000 y $4.800.",
+        "Correcta. El interés es $60.000 × 0,08 = $4.800. Se suma ese interés al capital de $60.000. El valor futuro es $64.800, equivalente a multiplicar el capital por 1,08.",
+        "Incorrecta. Una tasa del 8% no significa sumar ocho unidades monetarias. El porcentaje debe aplicarse al capital. El interés correcto es $4.800 y el total es $64.800."
+      ]
+    },
+    {
+      "id": "c02-q026",
+      "tema": "Valor presente de un cobro seguro",
+      "dificultad": "basica",
+      "pregunta": "Un cobro seguro de $88.000 llegará dentro de un año. Si la tasa segura comparable es 10% anual, ¿cuál es su VP?",
+      "opciones": [
+        "$96.800.",
+        "$80.000.",
+        "$79.200.",
+        "$88.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Multiplicar por 1,10 capitaliza en lugar de descontar. Esa operación desplaza el dinero hacia una fecha posterior. Para traerlo a hoy corresponde dividir y obtener $80.000.",
+        "Correcta. El cobro debe dividirse por 1,10 para expresarlo hoy. Así, $88.000/1,10 = $80.000. La comprobación es que $80.000 invertidos al 10% producen exactamente $88.000.",
+        "Incorrecta. Restar el 10% del cobro futuro no invierte correctamente la capitalización. El interés se calcula sobre el capital presente, no sobre el importe final. El descuento correcto es $88.000/1,10.",
+        "Incorrecta. Mantener el importe nominal ignora el año de espera. Con una tasa positiva, el dinero actual puede generar rendimiento. El equivalente de hoy es menor que $88.000."
+      ]
+    },
+    {
+      "id": "c02-q027",
+      "tema": "Factor de descuento numérico",
+      "dificultad": "basica",
+      "pregunta": "La tasa de descuento anual es 25%. ¿Cuánto vale hoy cada $1 que se cobrará dentro de un año?",
+      "opciones": [
+        "$0,80.",
+        "$0,25.",
+        "$1,25.",
+        "$0,75."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. El factor a un año es 1/(1+0,25). Dividir uno por 1,25 da 0,80. Invertir $0,80 al 25% permite obtener $1 dentro de un año.",
+        "Incorrecta. Ese importe confunde la tasa con el factor. La tasa es 0,25, pero el valor presente de una unidad se obtiene con 1/(1+r). El resultado correcto es 0,80.",
+        "Incorrecta. Ese número es el factor de capitalización. Indica cuánto produce un peso actual después de un año. El factor de descuento debe hacer la operación inversa.",
+        "Incorrecta. Restar 0,25 de uno no es el descuento exacto. El rendimiento se aplica al capital presente. Debe usarse el inverso de 1,25, que es 0,80."
+      ]
+    },
+    {
+      "id": "c02-q028",
+      "tema": "Tasa implícita",
+      "dificultad": "intermedia",
+      "pregunta": "Un pago seguro de $90.000 dentro de un año tiene un VP de $72.000. ¿Qué tasa anual está implícita?",
+      "opciones": [
+        "125%.",
+        "80%.",
+        "20%.",
+        "25%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. El cociente entre cobro futuro y VP es 1,25. Ese cociente incluye el capital inicial. Restar uno permite aislar el rendimiento de 25%.",
+        "Incorrecta. El 80% es la relación entre VP y cobro futuro. Esa relación es el factor de descuento, no la tasa de rendimiento. Hay que invertir el factor y restar uno.",
+        "Incorrecta. Dividir $18.000 por $90.000 produce el 20%. Ese cálculo toma el importe futuro como base. El rendimiento debe medirse sobre los $72.000 invertidos hoy.",
+        "Correcta. La relación es $72.000 × (1+r) = $90.000. Entonces r = $90.000/$72.000 − 1 = 0,25. El aumento de $18.000 representa el 25% del capital presente."
+      ]
+    },
+    {
+      "id": "c02-q029",
+      "tema": "VPN positivo",
+      "dificultad": "basica",
+      "pregunta": "Un proyecto exige $90.000 hoy y paga $110.000 dentro de un año. El costo de oportunidad adecuado es 10%. ¿Cuál es su VPN?",
+      "opciones": [
+        "$10.000.",
+        "$20.000.",
+        "$9.090,91.",
+        "$100.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. El VP del cobro es $110.000/1,10 = $100.000. Se resta la inversión actual de $90.000. El VPN de $10.000 mide el aumento de riqueza expresado hoy.",
+        "Incorrecta. Esa es la diferencia nominal entre cobro y desembolso. Omite el rendimiento de mercado sacrificado durante el año. El cobro debe descontarse antes de compararlo con el costo actual.",
+        "Incorrecta. Ese resultado aparece si se descuenta también la inversión que ya ocurre hoy. El flujo de la fecha cero no se desplaza un año. Solo corresponde descontar los $110.000 futuros.",
+        "Incorrecta. Esa cifra es el valor presente bruto. Todavía falta deducir el desembolso necesario. Restar $90.000 deja una contribución neta de $10.000."
+      ]
+    },
+    {
+      "id": "c02-q030",
+      "tema": "VPN negativo con ganancia nominal",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión cuesta $100.000 y entrega $108.000 al año. Alternativas de riesgo equivalente rinden 20%. ¿Cuál es el VPN?",
+      "opciones": [
+        "−$12.000.",
+        "+$10.000.",
+        "+$8.000.",
+        "−$10.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Los $12.000 son la diferencia futura entre $120.000 y $108.000. El VPN debe expresarse hoy. Descontar esa desventaja un año al 20% da $10.000 negativos.",
+        "Incorrecta. El valor presente es menor que el costo, no mayor. La diferencia es $90.000 − $100.000. Cambiar el signo invierte equivocadamente la conclusión de inversión.",
+        "Incorrecta. Los $8.000 son una ganancia nominal, no un VPN. Falta descontar el flujo futuro a la tasa del 20%. El costo de oportunidad hace que el valor económico neto sea negativo.",
+        "Correcta. El VP de $108.000 al 20% es $90.000. Al restar los $100.000 invertidos se obtiene −$10.000. La ganancia nominal no compensa el rendimiento disponible en alternativas comparables."
+      ]
+    },
+    {
+      "id": "c02-q031",
+      "tema": "Tasa de rendimiento",
+      "dificultad": "basica",
+      "pregunta": "Se pagan $80.000 por un activo y se cobran $92.000 al año, sin otros flujos. ¿Cuál es la tasa de rendimiento?",
+      "opciones": [
+        "15%.",
+        "13,04% aproximadamente.",
+        "12%.",
+        "115%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. La ganancia es $92.000 − $80.000 = $12.000. Se divide por la inversión inicial de $80.000. El cociente es 0,15, equivalente al 15%.",
+        "Incorrecta. Ese porcentaje divide la ganancia por el cobro final. El rendimiento se mide sobre el dinero comprometido inicialmente. La base correcta es $80.000 y no $92.000.",
+        "Incorrecta. Los $12.000 de ganancia no equivalen automáticamente a 12%. Es necesario dividirlos por el capital invertido. Esa operación produce una tasa del 15%.",
+        "Incorrecta. El cociente $92.000/$80.000 incluye la recuperación del capital. Para medir la ganancia relativa hay que restar uno. El rendimiento es 15%, no 115%."
+      ]
+    },
+    {
+      "id": "c02-q032",
+      "tema": "Cobro de equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto requiere $90.000 hoy y un único cobro seguro al año. Si la tasa adecuada es 20%, ¿qué cobro hace que su VPN sea cero?",
+      "opciones": [
+        "$90.000.",
+        "$75.000.",
+        "$112.500.",
+        "$108.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Recuperar solo el capital nominal no remunera el año de espera. El mercado permite obtener un 20% adicional. El cobro de equilibrio debe incluir esa compensación.",
+        "Incorrecta. Ese importe surge de descontar el costo inicial. Aquí se busca un cobro futuro que compense la inversión de hoy. Por eso hay que multiplicar por 1,20.",
+        "Incorrecta. Dividir por 0,80 confunde descuento con resta de porcentajes. Una tasa del 20% transforma $90.000 en $108.000. Ese es el monto que iguala valor y costo.",
+        "Correcta. Para que el VPN sea cero, el VP del cobro debe igualar $90.000. Se capitaliza esa inversión por 1,20. El cobro requerido es $108.000 y su descuento recupera exactamente el costo."
+      ]
+    },
+    {
+      "id": "c02-q033",
+      "tema": "Esperanza con probabilidades",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto paga $60.000 con probabilidad 25%, $100.000 con probabilidad 50% y $140.000 con probabilidad 25%. ¿Cuál es el cobro esperado?",
+      "opciones": [
+        "$300.000.",
+        "$100.000.",
+        "$120.000.",
+        "$140.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Sumar los tres cobros supone recibir resultados mutuamente excluyentes a la vez. Cada uno debe ponderarse por su probabilidad. La esperanza es un promedio, no una suma de escenarios completos.",
+        "Correcta. Los aportes ponderados son $15.000, $50.000 y $35.000. Su suma es $100.000. La probabilidad total es uno, por lo que el cálculo utiliza todos los escenarios.",
+        "Incorrecta. Ese importe no resulta de aplicar las probabilidades informadas. Los resultados bajo y alto tienen el mismo peso y se compensan alrededor de $100.000. El escenario central concentra además la mitad de la probabilidad.",
+        "Incorrecta. Ese es el mejor resultado posible. Tiene solo 25% de probabilidad y no representa el promedio. Los otros escenarios deben incluirse en el flujo esperado."
+      ]
+    },
+    {
+      "id": "c02-q034",
+      "tema": "VPN de flujos probabilísticos",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto cuesta $75.000 y paga al año $40.000, $80.000 o $120.000 con probabilidades 20%, 50% y 30%. La tasa comparable es 20%. ¿Cuál es su VPN?",
+      "opciones": [
+        "+$9.000.",
+        "+$25.000.",
+        "−$5.000.",
+        "−$8.333,33 aproximadamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Esa diferencia compara el flujo esperado de $84.000 con el costo sin descontar. Ignora el costo de oportunidad durante el año. El cobro esperado debe dividirse por 1,20 antes de restar la inversión.",
+        "Incorrecta. Ese importe no surge de ponderar y descontar correctamente los escenarios. El mejor cobro no debe tratarse como garantizado. La valuación usa la esperanza de $84.000 y la tasa de 20%.",
+        "Correcta. El cobro esperado es $8.000 + $40.000 + $36.000 = $84.000. Su VP al 20% es $70.000. Al deducir $75.000 resulta un VPN de −$5.000.",
+        "Incorrecta. Ese resultado usa el promedio simple de los tres escenarios. Las probabilidades no son iguales, por lo que el promedio pertinente es $84.000. Descontarlo y restar el costo produce −$5.000."
+      ]
+    },
+    {
+      "id": "c02-q035",
+      "tema": "Efecto del riesgo en el VP",
+      "dificultad": "intermedia",
+      "pregunta": "Dos cobros de $132.000 al año tienen el mismo importe esperado. Uno es seguro y se descuenta al 10%; el otro tiene riesgo y su tasa comparable es 20%. ¿En cuánto es menor el VP del riesgoso?",
+      "opciones": [
+        "$12.000.",
+        "$22.000.",
+        "$10.000.",
+        "$13.200."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Aplicar directamente diez puntos porcentuales al VP seguro no reproduce el nuevo descuento. La tasa cambia el denominador de 1,10 a 1,20. El cálculo exacto reduce el VP en $10.000.",
+        "Incorrecta. Esa cifra compara el cobro nominal con el VP riesgoso. Incluye el efecto conjunto del tiempo y del riesgo. La pregunta pide solo la diferencia frente al VP seguro.",
+        "Correcta. El VP seguro es $132.000/1,10 = $120.000. El VP riesgoso es $132.000/1,20 = $110.000. La diferencia entre ambos valores presentes es $10.000.",
+        "Incorrecta. Multiplicar el cobro por la diferencia de tasas no calcula la diferencia de VP. Cada tasa actúa en un denominador distinto. Hay que obtener ambos valores presentes y luego restarlos."
+      ]
+    },
+    {
+      "id": "c02-q036",
+      "tema": "Replicación y costo de oportunidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción sin dividendos cuesta $80 y pagará $72, $88 o $104 al año, con igual probabilidad. Un proyecto cuesta $85.000 y sus cobros equivalen exactamente a 1.000 acciones en cada escenario. ¿Cuál es su VPN?",
+      "opciones": [
+        "+$8.000.",
+        "−$5.000.",
+        "$0.",
+        "+$3.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Los $8.000 son el beneficio esperado de comprar mil acciones a precio de mercado. No representan el VPN del proyecto. La valuación debe comparar el costo de este último con los $80.000 que vale su réplica.",
+        "Correcta. La acción tiene cobro esperado de $88 y rendimiento esperado de 10%. Mil acciones cuestan $80.000 y replican todos los cobros del proyecto. El proyecto vale por eso $80.000, de modo que su VPN es $80.000 − $85.000 = −$5.000.",
+        "Incorrecta. La equivalencia de cobros no implica equivalencia de costos. La cartera replicante cuesta $80.000 y el proyecto exige $85.000. Esa diferencia hace negativo el VPN del proyecto.",
+        "Incorrecta. Los $3.000 comparan el cobro esperado de $88.000 con el costo sin descontar. Eso ignora una alternativa que produce exactamente los mismos resultados por menos dinero. Debe usarse el rendimiento de mercado de 10%."
+      ]
+    },
+    {
+      "id": "c02-q037",
+      "tema": "VPN de un título a precio justo",
+      "dificultad": "intermedia",
+      "pregunta": "Un título seguro cuesta $50.000 y devuelve $54.000 al año. Los títulos equivalentes rinden 8% y no hay impuestos ni costos. ¿Cuál es su VPN?",
+      "opciones": [
+        "+$4.000.",
+        "$0.",
+        "+$50.000.",
+        "−$4.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Los $4.000 son el interés nominal obtenido. Ese rendimiento compensa exactamente la oportunidad sacrificada. Un VPN cero no significa ausencia de intereses.",
+        "Correcta. El cobro de $54.000 descontado al 8% vale $50.000. Ese VP coincide con el precio pagado. El título remunera el capital a la tasa de mercado sin crear riqueza adicional.",
+        "Incorrecta. Esa cifra es el VP bruto del cobro. Falta restar los $50.000 desembolsados hoy. El resultado neto no agrega patrimonio.",
+        "Incorrecta. El descuento no constituye una pérdida adicional sobre el capital. Convierte el cobro futuro a un equivalente presente de $50.000. Al restar el precio, el saldo neto es cero."
+      ]
+    },
+    {
+      "id": "c02-q038",
+      "tema": "Costo total de una construcción",
+      "dificultad": "intermedia",
+      "pregunta": "Comprar un terreno cuesta $20.000 y construir cuesta $60.000, ambos hoy. El inmueble se venderá al año por $99.000 y la tasa adecuada es 10%. ¿Cuál es el VPN?",
+      "opciones": [
+        "$30.000.",
+        "$19.000.",
+        "$90.000.",
+        "$10.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Ese importe omite el costo del terreno. Ambos desembolsos son necesarios para obtener el inmueble. El costo inicial relevante es $80.000 y no solo $60.000.",
+        "Incorrecta. Esa es la diferencia nominal entre precio de venta y costo total. Omite que el cobro llega un año después. Primero debe descontarse a $90.000.",
+        "Incorrecta. Ese es el VP del inmueble terminado. No es el valor agregado después de invertir. Para hallar el VPN hay que deducir los $80.000 iniciales.",
+        "Correcta. La inversión inicial total es $20.000 + $60.000 = $80.000. El cobro descontado vale $99.000/1,10 = $90.000. Restar el costo completo da un VPN de $10.000."
+      ]
+    },
+    {
+      "id": "c02-q039",
+      "tema": "Proyectos mutuamente excluyentes",
+      "dificultad": "avanzada",
+      "pregunta": "Solo puede elegirse un proyecto y no hay restricción de fondos. A cuesta $10.000 y paga $13.200 al año; B cuesta $50.000 y paga $60.500. Ambos tienen tasa adecuada de 10%. ¿Cuál agrega más riqueza?",
+      "opciones": [
+        "A, porque su rendimiento de 32% supera el 21% de B.",
+        "A, porque exige menos desembolso, independientemente de los cobros.",
+        "B, con VPN de $5.000, aunque A tenga mayor tasa de rendimiento.",
+        "Ambos agregan lo mismo porque tienen igual tasa de descuento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. Las tasas de 32% y 21% están bien calculadas. El error consiste en usar ese ranking como sustituto del valor creado. El mayor tamaño de B permite obtener un VPN superior.",
+        "Incorrecta. Un desembolso menor no implica un mayor beneficio económico. Los cobros también cambian y deben descontarse. La comparación pertinente es entre VPN de $2.000 y $5.000.",
+        "Correcta. A tiene VP de $12.000 y VPN de $2.000. B tiene VP de $55.000 y VPN de $5.000. Con exclusión mutua y fondos disponibles, B aumenta más la riqueza aunque su rendimiento porcentual sea menor.",
+        "Incorrecta. Una misma tasa de descuento solo establece una referencia común de riesgo y tiempo. No iguala los flujos ni los costos de los proyectos. Sus contribuciones netas son distintas."
+      ]
+    },
+    {
+      "id": "c02-q040",
+      "tema": "Venta inmediata o pago diferido",
+      "dificultad": "intermedia",
+      "pregunta": "Por un activo ofrecen $59.000 hoy o $10.000 hoy más $55.000 seguros dentro de un año. La tasa segura es 10%. ¿Qué alternativa tiene mayor valor actual?",
+      "opciones": [
+        "La oferta inmediata, por $6.000 más de VP.",
+        "La oferta diferida, por $6.000 más de VP.",
+        "Son equivalentes porque la espera no altera un pago seguro.",
+        "La oferta diferida, por $1.000 más de VP."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La oferta inmediata no tiene mayor VP con estos datos. El cobro diferido se transforma en $50.000 presentes y se suma a los $10.000 actuales. El total comparable es $60.000.",
+        "Incorrecta. Los $6.000 comparan sumas nominales de fechas diferentes. Los $55.000 futuros no equivalen a $55.000 hoy. Tras descontarlos, la ventaja se reduce a $1.000.",
+        "Incorrecta. La seguridad elimina incertidumbre, pero no el costo de esperar. A una tasa positiva, un pago seguro también debe descontarse. Las ofertas solo serían equivalentes si sus VP coincidieran.",
+        "Correcta. Los $55.000 futuros tienen VP de $50.000. Al sumar los $10.000 inmediatos, la oferta diferida vale $60.000. Supera en $1.000 los $59.000 de la oferta al contado."
+      ]
+    },
+    {
+      "id": "c02-q041",
+      "tema": "Consumo y ahorro",
+      "dificultad": "basica",
+      "pregunta": "Una persona tiene $100.000 hoy, consume $20.000 y coloca el resto al 10% anual. No tiene otros ingresos. ¿Cuánto podrá consumir dentro de un año?",
+      "opciones": [
+        "$80.000.",
+        "$88.000.",
+        "$110.000.",
+        "$90.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Ese es el monto ahorrado hoy. Falta sumar el rendimiento que genera durante el año. Capitalizarlo al 10% produce $88.000.",
+        "Correcta. Después del consumo quedan $80.000 para invertir. El interés anual es $8.000. Al final podrá consumir el capital más el interés, es decir $88.000.",
+        "Incorrecta. Ese importe supone invertir la totalidad de los $100.000. La persona ya consumió $20.000. No puede obtener intereses sobre dinero que dejó de ahorrar.",
+        "Incorrecta. Ese cálculo capitaliza todo el patrimonio y luego resta el consumo actual sin ajustar su fecha. Consumir $20.000 hoy también implica renunciar a sus $2.000 de interés. El monto futuro correcto es $88.000."
+      ]
+    },
+    {
+      "id": "c02-q042",
+      "tema": "Consumo actual respaldado por un proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona invierte todos sus $50.000 en un proyecto que paga $66.000 seguros al año. Puede pedir prestado al 10% contra ese cobro y desea consumir todo hoy. ¿Cuál es su consumo máximo actual?",
+      "opciones": [
+        "$50.000.",
+        "$60.000.",
+        "$10.000.",
+        "$66.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Esa cifra corresponde al patrimonio inicial sin aprovechar el proyecto. El proyecto agrega $10.000 de VPN. El préstamo permite consumir hoy tanto el patrimonio inicial como ese valor adicional.",
+        "Correcta. Puede endeudarse por $66.000/1,10 = $60.000. Al año, ese préstamo exige exactamente $66.000 y se cancela con el proyecto. Así transforma el valor de la inversión en consumo actual.",
+        "Incorrecta. Esa cifra mide únicamente el VPN del proyecto. El consumo máximo también incluye el valor del patrimonio inicial invertido. El total disponible hoy es $60.000.",
+        "Incorrecta. Ese es el cobro del año próximo, no su equivalente actual. Pedir esa cantidad hoy generaría una deuda superior al cobro futuro. El máximo préstamo cancelable con $66.000 es $60.000."
+      ]
+    },
+    {
+      "id": "c02-q043",
+      "tema": "Financiar íntegramente un proyecto seguro",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto exige $40.000 hoy y paga $48.400 seguros al año. Se financia íntegramente con un préstamo al 10%, que es también la tasa segura de mercado. ¿Cuánto queda al año después de cancelar la deuda?",
+      "opciones": [
+        "$0.",
+        "$4.000.",
+        "$8.400.",
+        "$4.400."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Financiar toda la inversión no implica que todo el cobro pertenezca al prestamista. La deuda tiene una obligación de $44.000. Como el proyecto paga más, queda un excedente.",
+        "Incorrecta. Los $4.000 son el VPN del proyecto expresado hoy. La pregunta pide el remanente al final del año. Capitalizar ese VPN al 10% da $4.400.",
+        "Incorrecta. Ese importe descuenta solo el principal de la deuda. También deben pagarse los intereses de $4.000. El remanente neto futuro se reduce a $4.400.",
+        "Correcta. El préstamo exige devolver $40.000 × 1,10 = $44.000. Se resta esa obligación de los $48.400 cobrados. Quedan $4.400 futuros, cuyo VP es $4.000."
+      ]
+    },
+    {
+      "id": "c02-q044",
+      "tema": "Consumo igual en dos fechas",
+      "dificultad": "avanzada",
+      "pregunta": "Una persona tiene $84.000 hoy y quiere consumir lo mismo hoy y dentro de un año. Puede ahorrar al 10%, sin otros ingresos ni costos. ¿Cuánto consume en cada fecha?",
+      "opciones": [
+        "$42.000.",
+        "$44.000.",
+        "$46.200.",
+        "$40.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Dividir el patrimonio por dos ignora el interés del ahorro. Ahorrar $42.000 generaría $46.200 y no el mismo consumo futuro. Debe resolverse la igualdad entre el consumo actual y el ahorro capitalizado.",
+        "Correcta. Si consume x hoy, ahorra $84.000−x y cobra 1,10 × ($84.000−x) al año. Igualar ese cobro a x da 2,10x = $92.400. Por eso consume $44.000 hoy, ahorra $40.000 y consume $44.000 al año.",
+        "Incorrecta. Ese importe es el cobro futuro de ahorrar la mitad del patrimonio. No puede consumirse también hoy bajo ese mismo plan. La igualdad correcta exige un consumo de $44.000 en cada fecha.",
+        "Incorrecta. Ese es el ahorro necesario en la solución correcta. El consumo actual es el patrimonio menos ese ahorro. Los $40.000 invertidos generan $44.000, que coinciden con el consumo de hoy."
+      ]
+    },
+    {
+      "id": "c02-q045",
+      "tema": "Proyecto y consumo uniforme",
+      "dificultad": "avanzada",
+      "pregunta": "Una persona tiene $84.000 e invierte todo en un proyecto que paga $101.640 seguros al año. Puede endeudarse al 10% y quiere igual consumo en ambas fechas. ¿Qué plan es factible?",
+      "opciones": [
+        "Consumir $48.400 hoy con un préstamo y $48.400 al año después de cancelarlo.",
+        "Consumir $44.000 en cada fecha porque el proyecto no cambia la riqueza.",
+        "Consumir $84.000 hoy y $101.640 al año, sin deuda.",
+        "Consumir $50.820 en cada fecha, dividiendo el cobro futuro por dos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Si pide x hoy, al año devuelve 1,10x. La igualdad de consumos exige x = $101.640−1,10x, de modo que x = $48.400. La deuda se cancela con $53.240 y quedan otros $48.400 para consumir.",
+        "Incorrecta. Ese era el consumo uniforme posible invirtiendo solo en el mercado al 10%. El proyecto tiene VP de $92.400 y VPN de $8.400. Ese aumento de riqueza permite elevar ambos consumos a $48.400.",
+        "Incorrecta. Los $84.000 ya fueron invertidos y no pueden consumirse simultáneamente. Obtener liquidez hoy requiere endeudarse contra el cobro futuro. La deuda reduce lo que queda disponible al año.",
+        "Incorrecta. Dividir el cobro futuro por dos omite los intereses del préstamo que permite consumir hoy. Pedir $50.820 exigiría devolver $55.902. Quedarían solo $45.738 para el consumo futuro."
+      ]
+    },
+    {
+      "id": "c02-q046",
+      "tema": "Financiamiento barato y riesgo del proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Un director quiere aprobar un proyecto porque su rendimiento esperado supera la tasa de un préstamo respaldado por los negocios actuales. Sin embargo, el proyecto rinde menos que títulos de riesgo equivalente. ¿Cómo debería evaluarlo?",
+      "opciones": [
+        "Aprobarlo porque cualquier diferencia positiva respecto del préstamo crea valor.",
+        "Descontarlo a la tasa del préstamo aunque no refleje el riesgo de sus flujos.",
+        "Usar una tasa cero porque el banco aporta el dinero inicial.",
+        "Rechazarlo por su VPN negativo a la tasa comparable del proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. Una diferencia positiva frente al préstamo no identifica la mejor utilización de los recursos. El mismo acceso a fondos podría aprovecharse con una alternativa comparable de mayor rendimiento. Hay que evaluar el costo de oportunidad del proyecto.",
+        "Incorrecta. Esa elección mezcla el riesgo del préstamo con el de la inversión. Los negocios existentes pueden respaldar deuda barata para un proyecto mucho más riesgoso. La tasa de descuento debe ser consistente con los flujos evaluados.",
+        "Incorrecta. Que un banco aporte fondos no hace gratuito el capital. Hay obligaciones de pago y oportunidades alternativas. Usar una tasa cero elimina indebidamente el valor temporal y la compensación por riesgo.",
+        "Correcta. La tasa del préstamo refleja las condiciones del deudor y sus garantías. No reemplaza el rendimiento que se sacrifica en una inversión de riesgo equivalente al proyecto. Si el rendimiento del proyecto queda por debajo de esa referencia, el financiamiento barato no corrige su VPN negativo."
+      ]
+    },
+    {
+      "id": "c02-q047",
+      "tema": "Accionista jubilada y proyecto de largo plazo",
+      "dificultad": "intermedia",
+      "pregunta": "Una jubilada necesita liquidez y otro accionista ahorra para su hija. La empresa propone un proyecto de largo plazo con VPN positivo. Ambos acceden a mercados competitivos. ¿Qué recomendación es consistente?",
+      "opciones": [
+        "La jubilada debe oponerse porque cualquier inversión larga reduce su riqueza.",
+        "La empresa debe elegir proyectos de VPN negativo si pagan dividendos antes.",
+        "Ambos pueden apoyarlo y adaptar por su cuenta el momento del consumo.",
+        "Solo el accionista joven puede beneficiarse del valor creado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. La fecha de cobro no determina por sí sola si una inversión destruye riqueza. El descuento ya incorpora el tiempo y el riesgo. Con acceso al mercado, la necesidad de liquidez no obliga a rechazar valor adicional.",
+        "Incorrecta. Un pago temprano no justifica destruir riqueza. Los propietarios pueden reorganizar el consumo mediante el mercado. El criterio empresarial debe centrarse en el valor de los flujos netos.",
+        "Correcta. El VPN positivo aumenta el valor de sus participaciones hoy aunque los flujos lleguen después. La jubilada puede obtener liquidez negociando parte de sus títulos o usando el mercado. El otro accionista puede mantener su inversión y posponer el consumo.",
+        "Incorrecta. La valorización de las acciones beneficia también a quien necesita consumir antes. Puede transformar parte de esa riqueza en dinero actual. Confundir fecha del flujo del proyecto con fecha de consumo elimina esa posibilidad."
+      ]
+    },
+    {
+      "id": "c02-q048",
+      "tema": "Restricción de endeudamiento",
+      "dificultad": "avanzada",
+      "pregunta": "Una accionista necesita consumir hoy, no puede endeudarse ni vender su participación y la empresa quiere inmovilizar sus fondos en un proyecto rentable. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La preferencia de consumo deja de importar porque el proyecto tiene una ganancia nominal.",
+        "La accionista puede obtener de todos modos cualquier préstamo a la tasa del mercado.",
+        "La restricción demuestra que todo VPN positivo se convierte en negativo para la empresa.",
+        "La restricción puede impedir que el acuerdo de todos los accionistas se deduzca del modelo simple."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Incorrecta. La ganancia nominal no resuelve una necesidad urgente de liquidez. Tampoco prueba que una inversión tenga VPN positivo. El caso exige reconocer las fricciones del mercado y sus consecuencias.",
+        "Incorrecta. Esa afirmación contradice expresamente el caso. No puede resolverse el problema suponiendo un acceso al crédito que se ha excluido. La limitación es justamente lo que debilita el argumento de separación.",
+        "Incorrecta. Una restricción personal no cambia automáticamente el signo del VPN calculado. Lo que cuestiona es la posibilidad de transformar libremente la riqueza entre fechas. Deben distinguirse valuación del proyecto y bienestar bajo restricciones.",
+        "Correcta. La demostración de unanimidad supone que cada persona puede ajustar el consumo mediante el mercado. La accionista enfrenta una limitación que impide hacerlo. Eso puede generar desacuerdo sin negar el cálculo económico del VPN bajo su tasa de referencia."
+      ]
+    },
+    {
+      "id": "c02-q049",
+      "tema": "Retención de dividendos y creación de valor",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente propone retener dividendos para expandirse y promete más utilidades futuras. La expansión rinde menos que alternativas de igual riesgo. ¿Qué objeción es correcta?",
+      "opciones": [
+        "Puede aumentar las utilidades y aun así destruir valor por no cubrir el costo de oportunidad.",
+        "Retener dividendos siempre perjudica a los accionistas, cualquiera sea el proyecto.",
+        "Si la inversión se paga con fondos propios, su costo de oportunidad es cero.",
+        "Toda expansión que aumente las utilidades futuras crea valor automáticamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Reinvertir permite aumentar el volumen de ganancias sin garantizar una remuneración adecuada. Los propietarios podrían obtener más con alternativas comparables. El proyecto debe evaluarse por sus flujos descontados y no solo por el crecimiento de utilidades.",
+        "Incorrecta. Retener fondos puede ser conveniente si financia proyectos con VPN positivo. El problema no es la retención en sí. Importa si el uso del dinero crea más valor que las alternativas disponibles.",
+        "Incorrecta. Los fondos propios también tienen usos alternativos. Podrían distribuirse para que los accionistas invirtieran en el mercado. No pagar un interés contractual no vuelve gratuito ese capital.",
+        "Incorrecta. Más ganancias pueden exigir una inversión demasiado grande o poco rentable. El aumento absoluto de utilidades no mide el sacrificio de capital. La rentabilidad debe superar el costo de oportunidad."
+      ]
+    },
+    {
+      "id": "c02-q050",
+      "tema": "Utilidad contable y horizonte de decisión",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora propone recortar mantenimiento e investigación para elevar la utilidad del próximo ejercicio. Un análisis consistente muestra que el ahorro actual no compensa la caída posterior de flujos. Además, otro criterio contable muestra una utilidad distinta sin cambiar el efectivo. ¿Qué conviene priorizar?",
+      "opciones": [
+        "La mayor utilidad del próximo ejercicio, sin mirar años posteriores.",
+        "Los flujos y su VPN, rechazando el recorte que reduce el valor.",
+        "El criterio contable que muestre la cifra más alta, aunque no cambie el efectivo.",
+        "La suma nominal de ganancias informadas, sin considerar sus fechas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Esa regla privilegia un horizonte arbitrario. La mejora inmediata puede comprarse a costa de daños posteriores mayores. La evaluación debe incluir los efectos relevantes de todos los períodos.",
+        "Correcta. El VPN compara el ahorro actual con las pérdidas futuras descontadas. Si el saldo es negativo, el recorte reduce la riqueza aunque mejore una utilidad anual. Cambiar la presentación contable sin modificar flujos no crea valor económico.",
+        "Incorrecta. Elegir una presentación favorable no modifica los cobros ni los pagos del negocio. La riqueza no aumenta solo por cambiar una cifra contable. El análisis financiero se centra en los flujos.",
+        "Incorrecta. Sumar importes nominales mezcla fechas con oportunidades económicas distintas. También puede ocultar las diferencias entre utilidad y efectivo. El descuento permite expresar los flujos en una base comparable."
+      ]
+    },
+    {
+      "id": "c02-q051",
+      "tema": "Batalla por el poder",
+      "dificultad": "intermedia",
+      "pregunta": "Accionistas disconformes quieren reemplazar consejeros y buscan que otros propietarios les deleguen sus votos. ¿Qué mecanismo están utilizando?",
+      "opciones": [
+        "Una batalla por el poder para cambiar la representación en el consejo.",
+        "La Ruta de Wall Street, que consiste en reunir votos sin vender.",
+        "Una emisión de deuda para pagar a los administradores.",
+        "Una adquisición hostil necesariamente consumada desde que solicitan votos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Los disidentes intentan reunir apoyo electoral para cambiar consejeros. Así buscan influir en la estrategia y en la supervisión de la gerencia. Estas campañas pueden ser costosas y difíciles de ganar.",
+        "Incorrecta. La Ruta de Wall Street consiste en vender las acciones ante el descontento. No describe la búsqueda de delegaciones de voto. La campaña del caso procura intervenir en el gobierno de la empresa.",
+        "Incorrecta. El caso no implica pedir dinero prestado. Trata de derechos de voto y elección de representantes. La financiación con deuda es una decisión diferente.",
+        "Incorrecta. Solicitar votos no equivale por sí mismo a adquirir el control mediante una compra. Una adquisición hostil suele implicar obtener participaciones de control sin apoyo de la administración. Aquí el mecanismo descrito es electoral."
+      ]
+    },
+    {
+      "id": "c02-q052",
+      "tema": "Venta de acciones y disciplina externa",
+      "dificultad": "intermedia",
+      "pregunta": "Muchos inversores venden por una gestión deficiente y el precio baja. ¿Qué combinación de efectos puede disciplinar a los gerentes?",
+      "opciones": [
+        "Aumento automático del valor de sus opciones y desaparición de todo comprador potencial.",
+        "Deterioro de su reputación y remuneración accionaria, más la amenaza de una adquisición que los reemplace.",
+        "Pérdida de los derechos de voto de todos los accionistas que permanecen.",
+        "Cancelación automática de las deudas de la empresa por la baja bursátil."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Una caída de la acción normalmente perjudica una opción de compra ya otorgada. Además, un precio bajo por mala gestión puede atraer compradores que detectan mejoras posibles. El efecto disciplinario va en la dirección contraria.",
+        "Correcta. Una caída del precio puede reducir el valor de incentivos ligados a las acciones. También puede facilitar que otro grupo compre el control y cambie la gestión. Ese riesgo de reemplazo agrega disciplina a la supervisión interna.",
+        "Incorrecta. Quienes siguen siendo propietarios conservan los derechos asociados a sus acciones. La venta de otros inversores no elimina automáticamente esos derechos. El efecto señalado opera mediante precio, reputación y mercado de control.",
+        "Incorrecta. La caída del precio accionario no cancela contratos de deuda. Los acreedores conservan sus derechos de cobro. No debe confundirse valor de mercado del capital con obligaciones contractuales."
+      ]
+    },
+    {
+      "id": "c02-q053",
+      "tema": "Manipulación de incentivos con opciones",
+      "dificultad": "avanzada",
+      "pregunta": "Un ejecutivo altera retroactivamente la fecha de una concesión de opciones para usar un día de precio accionario bajo, sin informar el beneficio. ¿Qué problema revela?",
+      "opciones": [
+        "El incentivo puede ser manipulado para aumentar su beneficio privado sin crear valor para los accionistas.",
+        "La gerencia necesariamente mejoró el flujo operativo del negocio.",
+        "La fecha elegida vuelve irrelevantes los controles y la transparencia.",
+        "El menor precio de ejercicio prueba que desapareció el conflicto de agencia."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. Un precio de ejercicio menor hace más favorable la opción para el ejecutivo. Cambiarlo oportunistamente puede transferir valor sin mejorar el negocio. Los incentivos accionarios requieren información transparente y supervisión.",
+        "Incorrecta. Modificar las condiciones de la remuneración no genera por sí mismo ventas ni ahorros operativos. El ejecutivo puede enriquecerse sin que mejoren los flujos de la empresa. Hay que distinguir compensación personal de creación de valor.",
+        "Incorrecta. La manipulación refuerza la necesidad de controles. Los accionistas necesitan conocer las condiciones y el costo de la remuneración. La discreción no justifica ocultar cambios favorables al administrador.",
+        "Incorrecta. Un beneficio privado obtenido alterando condiciones puede ser una manifestación del conflicto. No demuestra alineación perfecta. El diseño original del incentivo puede quedar desvirtuado."
+      ]
+    },
+    {
+      "id": "c02-q054",
+      "tema": "Información asimétrica y compromisos implícitos",
+      "dificultad": "intermedia",
+      "pregunta": "Una intermediaria conoce mejor que su cliente la calidad de un activo. Un gerente propone aprovechar una ambigüedad para incumplir un compromiso comercial y obtener una ganancia puntual. ¿Qué análisis es más sólido?",
+      "opciones": [
+        "Suponer que todo compromiso no escrito carece de consecuencias económicas.",
+        "Considerar el deber de honestidad y el daño a la confianza, incluso más allá de cláusulas escritas.",
+        "Concluir que la ventaja informativa justifica cualquier forma de engaño.",
+        "Evaluar solo la ganancia inmediata porque la reputación no afecta los flujos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Las expectativas y compromisos implícitos influyen en las relaciones comerciales. Incumplirlos puede destruir confianza y oportunidades aunque no se analice aquí su exigibilidad jurídica. La falta de un texto no elimina el costo económico.",
+        "Correcta. La asimetría de información abre oportunidades de abuso. Las relaciones duraderas y la reputación de integridad ayudan a sostener la confianza. Una decisión debe considerar esas obligaciones y los efectos futuros, no solo el beneficio inmediato.",
+        "Incorrecta. Saber más no autoriza a engañar a la contraparte. El abuso puede perjudicar al cliente y deteriorar la confianza en el intermediario. La creación de valor no elimina las obligaciones de conducta.",
+        "Incorrecta. Una reputación dañada puede reducir operaciones futuras y aumentar costos comerciales. Esos efectos forman parte de los flujos del negocio. Limitarlos al resultado de una operación subestima el perjuicio."
+      ]
+    },
+    {
+      "id": "c02-q055",
+      "tema": "Sincronización y precios desactualizados",
+      "dificultad": "avanzada",
+      "pregunta": "Un fondo internacional permite a algunos operadores comprar a precios que aún no reflejan noticias ocurridas después del cierre de los mercados extranjeros. Al conocerse el trato, clientes retiran su dinero. ¿Qué enseñanza corresponde?",
+      "opciones": [
+        "El aprovechamiento de precios desactualizados puede dañar la confianza y reducir ingresos futuros además de generar sanciones.",
+        "Los retiros no afectan al administrador porque el patrimonio del fondo nunca influye en sus comisiones.",
+        "El acceso privilegiado prueba que no existe ningún problema de trato entre inversores.",
+        "La pérdida de valor del administrador debe limitarse exactamente al monto de la multa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. El desfase horario puede dejar valuaciones que no incorporan información reciente. Favorecer a ciertos operadores a esos precios puede perjudicar la confianza de los demás. Los retiros reducen fondos administrados y comisiones, ampliando el daño más allá de las sanciones.",
+        "Incorrecta. La escala de fondos administrados suele ser relevante para los ingresos por comisiones. Retiros importantes pueden reducir ingresos y beneficios futuros. No debe tratarse el patrimonio administrado como irrelevante para el negocio.",
+        "Incorrecta. Un acceso favorable para algunos puede afectar a los demás participantes. La confianza depende de reglas de trato consistentes. La ventaja de ciertos operadores no demuestra ausencia de conflicto.",
+        "Incorrecta. La multa es solo un componente del costo. La pérdida de clientes y de reputación puede afectar muchos períodos. El valor presente del daño total puede superar ampliamente el pago sancionatorio."
+      ]
+    },
+    {
+      "id": "c02-q056",
+      "tema": "Controles internos y oportunidades de crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Tras malas prácticas, un banco enfrenta una prohibición temporal de grandes adquisiciones hasta mejorar sus controles. Sus ganancias actuales cambian poco. ¿Cómo puede afectar esto su valor?",
+      "opciones": [
+        "Solo puede modificar el valor contable de los edificios del banco.",
+        "Puede reducirlo al limitar oportunidades futuras de crecimiento y dañar la reputación.",
+        "Debe aumentarlo porque toda restricción elimina automáticamente el riesgo.",
+        "No puede afectarlo porque solo importan las ganancias del último ejercicio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. El efecto descrito no se limita a inmuebles ni a su registro contable. Afecta la estrategia y las perspectivas económicas del banco. Esas perspectivas influyen en el valor de mercado de las acciones.",
+        "Correcta. El valor incorpora flujos esperados futuros, no solo resultados actuales. Una restricción puede impedir adquisiciones que formaban parte de la estrategia de crecimiento. El daño reputacional puede añadir efectos comerciales aunque la ganancia inmediata cambie poco.",
+        "Incorrecta. Una restricción puede reducir ciertos riesgos y también destruir oportunidades. Su impacto no tiene un signo positivo automático. Hay que analizar los beneficios y costos esperados.",
+        "Incorrecta. Las ganancias de un ejercicio no resumen todas las oportunidades del negocio. Perder acceso a inversiones futuras puede reducir los flujos esperados. La valuación debe incorporar ese efecto."
+      ]
+    },
+    {
+      "id": "c02-q057",
+      "tema": "Fraude y valor fundamental",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa infló sus resultados, alcanzó una capitalización muy alta y luego quebró al descubrirse el fraude. ¿Por qué la caída bursátil no equivale necesariamente a igual destrucción de riqueza real durante el descubrimiento?",
+      "opciones": [
+        "Parte del precio anterior podía reflejar beneficios inexistentes, aunque las malas inversiones sí hayan generado pérdidas reales.",
+        "Porque los accionistas no sufren ninguna pérdida si el precio previo era engañoso.",
+        "Porque la capitalización mide el efectivo disponible en caja.",
+        "Porque un fraude nunca modifica la asignación real de recursos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Correcta. La capitalización es el precio de cada acción multiplicado por las acciones en circulación. Si el precio incorporaba utilidades ficticias, parte de esa valoración no tenía respaldo económico. La pérdida de los accionistas es real para ellos, pero no debe confundirse íntegramente con recursos productivos destruidos al revelarse el fraude.",
+        "Incorrecta. Quien compró o conservó acciones a precios inflados puede sufrir una pérdida patrimonial importante. Que el valor fundamental fuera menor no borra esa pérdida. La distinción se refiere a cómo interpretar el daño económico agregado.",
+        "Incorrecta. La capitalización es una valuación de mercado del capital accionario. No equivale al saldo de caja ni al total de activos. Puede incorporar expectativas verdaderas o equivocadas sobre el futuro.",
+        "Incorrecta. El fraude puede ocultar inversiones malas y desviar financiación. Eso sí puede destruir recursos reales y perjudicar la confianza. Distinguir precio inflado de valor fundamental no implica minimizar esos daños."
+      ]
+    },
+    {
+      "id": "c02-q058",
+      "tema": "SOX y responsabilidad por la información",
+      "dificultad": "intermedia",
+      "pregunta": "En el contexto histórico de las reformas posteriores a Enron y WorldCom, un consejo propone depender solo de declaraciones informales de los gerentes. ¿Qué alternativa refleja mejor los mecanismos de SOX tratados?",
+      "opciones": [
+        "Eliminar la responsabilidad de los directores financieros porque los auditores la asumen por completo.",
+        "Mayor responsabilidad de directores independientes, certificación personal del ejecutivo y del director financiero y evaluación anual de controles.",
+        "Reemplazar todo control interno por la cotización diaria de la acción.",
+        "Garantizar por ley que ningún proyecto tendrá pérdidas económicas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. El enfoque descrito refuerza la responsabilidad de la dirección. No permite trasladarla por completo a terceros. La auditoría y la supervisión no sustituyen la rendición de cuentas gerencial.",
+        "Correcta. Las reformas descritas reforzaron el papel de los directores independientes. También exigieron certificación personal de los estados financieros por los máximos responsables ejecutivo y financiero. La Sección 404 incorporó una evaluación anual detallada de controles internos para detectar debilidades en la información.",
+        "Incorrecta. El precio puede basarse en información equivocada si existen fallas o fraude. Observarlo no reemplaza producir estados confiables y controles adecuados. La reforma buscaba precisamente mejorar esa base informativa.",
+        "Incorrecta. La regulación de información no elimina el riesgo de negocio. Una empresa transparente también puede invertir y perder. El objetivo de estos mecanismos es reducir deficiencias y engaños, no garantizar rentabilidad."
+      ]
+    },
+    {
+      "id": "c02-q059",
+      "tema": "Competencia internacional y regulación",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa evalúa hacer su primera oferta pública fuera de su país. Una plaza exige controles detallados costosos y otra aplica un enfoque más flexible basado en principios. ¿Qué análisis corresponde al debate presentado?",
+      "opciones": [
+        "Llamar internacional a la oferta solo si los compradores son extranjeros, aunque cotice únicamente en su país de origen.",
+        "Elegir siempre la norma más detallada porque cualquier costo adicional mejora el desempeño.",
+        "Comparar protección, confianza y costos de cumplimiento, considerando también el financiamiento privado.",
+        "Elegir siempre la plaza de menor costo porque la protección del inversor no tiene valor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incorrecta. La definición utilizada se refiere a dónde se realiza la emisión inicial. La nacionalidad de los compradores no basta por sí sola. Una emisión exclusivamente local no se vuelve internacional por esa sola característica.",
+        "Incorrecta. Más detalle normativo puede aumentar costos y rigidez sin beneficios equivalentes. No se deduce que cada requisito adicional eleve el valor. El debate consiste en encontrar un equilibrio razonable.",
+        "Correcta. Una oferta pública inicial internacional se realiza en un mercado situado fuera del país de origen del emisor. La regulación puede atraer capital al protegerlo y también imponer costos que influyen en la elección de plaza. El debate incluye el atractivo relativo de mercados públicos, otras plazas y financiamiento privado.",
+        "Incorrecta. La protección contribuye a que los inversores están dispuestos a financiar empresas. Ahorrar en controles puede tener costos de confianza o acceso al capital. La elección requiere valorar ambos lados."
+      ]
+    },
+    {
+      "id": "c02-q060",
+      "tema": "Protección, discreción y capital humano",
+      "dificultad": "avanzada",
+      "pregunta": "Para proteger al inversor, un grupo exige autorizar previamente cada decisión gerencial y dejar todo el poder en manos del capital financiero. ¿Qué respuesta es consistente con el análisis del gobierno corporativo?",
+      "opciones": [
+        "Aceptar porque la protección absoluta es factible y no tiene costos.",
+        "Supervisar y alinear incentivos, preservando discreción útil y el aporte de capital humano.",
+        "Rechazar cualquier supervisión porque los gerentes siempre actúan correctamente.",
+        "Concluir que toda empresa pública puede lograr alineación perfecta sin modificar la separación entre propiedad y control."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Incorrecta. Los accionistas no pueden observar y decidir cada operación a costo cero. Incluso los consejeros tienen tiempo e información limitados. Una protección absoluta también podría perjudicar la capacidad de conducir el negocio.",
+        "Correcta. Los trabajadores y gerentes aportan conocimientos y esfuerzo, además del capital financiero de los inversores. Una intervención excesiva puede desalentar ese capital humano y paralizar decisiones útiles. El control debe proteger contra abusos sin suponer vigilancia perfecta ni eliminar la administración. Idealmente, los mercados deberían movilizar suficiente capital para financiar todos los proyectos con VPN positivo.",
+        "Incorrecta. Los gerentes pueden enfrentar conflictos de interés. Por eso son necesarios incentivos, supervisión y mecanismos de reemplazo. Reconocer los límites del control no justifica eliminarlo.",
+        "Incorrecta. En una empresa pública persisten diferencias entre quienes gestionan y quienes aportan capital. La coincidencia de una única persona como propietario y administrador elimina esa separación básica en el caso simple. Ese caso no es replicable para todos los accionistas dispersos de una corporación pública."
+      ]
+    }
+  ]
+}

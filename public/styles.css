@@ -1,0 +1,28 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; background: #f3f6f4; color: #172b23; --card: #fff; --line: #cad7ce; --muted: #52675c; --accent: #146341; --good: #d9f5df; --bad: #ffe2df; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: max(24px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) max(28px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left)); }
+main, #storage-status { max-width: 640px; margin: auto; }
+h1 { font-size: clamp(1.6rem, 6vw, 2.2rem); line-height: 1.2; }
+h2 { font-size: 1.25rem; }
+p { line-height: 1.6; }
+button { font: inherit; min-height: 48px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); color: inherit; cursor: pointer; touch-action: manipulation; text-align: left; overflow-wrap: anywhere; }
+button:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+button:disabled { cursor: default; }
+.chapters, .options { display: grid; gap: 12px; margin: 24px 0; }
+.chapter { width: 100%; }
+.chapter strong, .chapter span { display: block; }
+.chapter span, .meta { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+.chapter:disabled { opacity: .75; }
+.panel { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 20px; margin: 20px 0; }
+.toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin: 20px 0; }
+[aria-pressed="true"], .primary { background: var(--accent); color: white; }
+.correct { background: var(--good); border: 2px solid #218142; }
+.wrong { background: var(--bad); border: 2px solid #b53a30; }
+.options button:disabled { color: inherit; opacity: 1; }
+#feedback { overflow-wrap: anywhere; }
+#feedback:empty { display: none; }
+#feedback p { white-space: pre-wrap; }
+.primary { width: 100%; text-align: center; }
+progress { width: 100%; height: 12px; accent-color: var(--accent); }
+#storage-status { color: var(--muted); padding-top: 16px; }
+@media (prefers-color-scheme: dark) { :root { background: #111c17; color: #e9f3ed; --card: #1c2c23; --line: #40594a; --muted: #afc6b7; --accent: #267c51; --good: #164c2c; --bad: #582823; } }

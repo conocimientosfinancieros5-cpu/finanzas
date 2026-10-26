@@ -1,0 +1,1336 @@
+{
+  "capitulo": 11,
+  "titulo": "Análisis de proyectos",
+  "preguntas": [
+    {
+      "id": "c11-q001",
+      "tema": "Presupuesto de capital",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el presupuesto de capital anual?",
+      "opciones": [
+        "Una lista exclusiva de compras de maquinaria depreciable.",
+        "Una lista de inversiones previstas para el próximo año, sujetas a autorización específica.",
+        "Una autorización irrevocable para ejecutar todos los proyectos incluidos.",
+        "Un registro de ingresos y gastos operativos del año pasado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El alcance económico de la inversión excede la maquinaria. La investigación y el lanzamiento de productos también pueden generar beneficios futuros. Su tratamiento contable no elimina la necesidad de evaluarlos como inversiones.",
+        "El presupuesto permite anticipar desembolsos y coordinar inversiones. Incluir un proyecto no suele autorizar automáticamente su ejecución. La aprobación específica requiere evaluar su propuesta detallada.",
+        "Esta opción confunde planificación con autorización de fondos. Un proyecto previsto puede necesitar una revisión específica. La empresa puede modificarlo o rechazarlo antes de comprometer recursos.",
+        "Ese registro describe resultados históricos. El presupuesto de capital organiza inversiones futuras y sus necesidades de recursos. Su orientación es prospectiva y sirve para planificar."
+      ]
+    },
+    {
+      "id": "c11-q002",
+      "tema": "Planeamiento e iniciativas",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo deberían combinarse las propuestas de las plantas con el planeamiento estratégico?",
+      "opciones": [
+        "Aceptando únicamente propuestas de las plantas.",
+        "Reemplazando todo análisis operativo por decisiones de la dirección.",
+        "Ordenando los proyectos por tamaño, independientemente de la estrategia.",
+        "Integrando conocimiento operativo de abajo hacia arriba y visión estratégica de arriba hacia abajo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El conocimiento local no garantiza una visión del conjunto. Una planta puede no proponer su cierre aunque una consolidación genere valor. La dirección debe incorporar esas interdependencias.",
+        "La estrategia necesita información concreta para convertirse en inversiones viables. Ignorar costos y restricciones locales puede producir propuestas irreales. Las dos perspectivas son complementarias.",
+        "El tamaño no mide creación de valor. Una inversión pequeña puede ser rentable y una grande destruir riqueza. La selección debe considerar flujos, riesgos y vínculos estratégicos.",
+        "Las plantas conocen oportunidades y restricciones concretas. La dirección puede detectar sinergias y consolidaciones que exceden una unidad. Integrar ambas perspectivas evita perder proyectos por una mirada parcial."
+      ]
+    },
+    {
+      "id": "c11-q003",
+      "tema": "Supuestos consistentes",
+      "dificultad": "intermedia",
+      "pregunta": "Dos divisiones usan pronósticos incompatibles sobre la misma economía. ¿Qué debería hacer la dirección financiera antes de comparar sus proyectos?",
+      "opciones": [
+        "Acordar supuestos macroeconómicos comunes y justificar las diferencias propias de cada negocio.",
+        "Elegir automáticamente la propuesta más optimista.",
+        "Promediar los VPN sin revisar sus supuestos.",
+        "Exigir el mismo crecimiento de ventas en ambas divisiones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una base común evita comparar proyectos bajo mundos económicos incompatibles. Eso no exige ventas idénticas en todas las divisiones. Las diferencias operativas deben justificarse dentro de un entorno coherente.",
+        "El optimismo no demuestra mayor valor económico. Puede inflar ingresos y ocultar dificultades. Primero corresponde revisar los supuestos que generan cada resultado.",
+        "Promediar resultados no corrige hipótesis incompatibles. Las diferencias pueden provenir del entorno supuesto y no de los proyectos. Hay que revisar los pronósticos antes de compararlos.",
+        "Compartir una economía no implica vender productos idénticos. Cada industria responde de manera diferente al mismo entorno. Deben ser consistentes los supuestos comunes, no todos los resultados."
+      ]
+    },
+    {
+      "id": "c11-q004",
+      "tema": "Solicitud de asignación de fondos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué información debería respaldar la autorización de una inversión importante?",
+      "opciones": [
+        "Solo la utilidad contable del primer año.",
+        "Una promesa de rentabilidad garantizada del responsable comercial.",
+        "Pronósticos detallados, análisis de flujos descontados y evidencia que sustente los supuestos.",
+        "Solo el importe total porque ya figura en el presupuesto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una inversión puede comprometer recursos por muchos años. La utilidad inicial omite la secuencia completa de flujos y su costo de oportunidad. No basta para justificar un compromiso importante.",
+        "Una promesa no elimina incertidumbre. La dirección debe examinar evidencia y posibilidades de fracaso. Centralizar la aprobación tampoco vuelve seguros los pronósticos recibidos.",
+        "La autorización específica exige comprender desembolsos y beneficios. Los flujos descontados permiten evaluar el aporte de valor. El respaldo es especialmente necesario cuando la dirección depende de información preparada por los promotores.",
+        "El importe no muestra cuándo llegan los beneficios. La inclusión presupuestaria no sustituye la autorización particular. Una decisión informada necesita flujos, supuestos y respaldo."
+      ]
+    },
+    {
+      "id": "c11-q005",
+      "tema": "Sesgos e incentivos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué pueden sobrestimarse los beneficios de un proyecto aun sin fraude deliberado?",
+      "opciones": [
+        "Porque el recupero más rápido siempre implica el mayor VPN.",
+        "Porque descontar flujos siempre aumenta su valor.",
+        "Por optimismo y por incentivos que favorecen tamaño o resultados inmediatos sobre creación de valor.",
+        "Porque una división grande necesariamente crea más valor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El recupero rápido puede sacrificar beneficios de largo plazo. Concentrarse en él puede perjudicar inversiones más valiosas. El VPN considera todos los flujos relevantes y su oportunidad.",
+        "Con una tasa positiva, descontar reduce el valor de un flujo futuro. El sesgo proviene de estimaciones o incentivos, no de esa operación. Conviene distinguir errores de pronóstico de reglas de valuación.",
+        "El compromiso con una propuesta puede llevar a subestimar obstáculos sinceramente. Los premios por tamaño pueden estimular expansiones improductivas. Los incentivos de corto plazo también pueden desplazar inversiones de mayor VPN.",
+        "La escala no garantiza rentabilidad económica. Premiar tamaño puede promover proyectos con VPN negativo. El criterio relevante es el valor agregado y no solo el volumen administrado."
+      ]
+    },
+    {
+      "id": "c11-q006",
+      "tema": "Recargos arbitrarios en la tasa",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora eleva la tasa mínima para compensar pronósticos optimistas. ¿Cuál es la crítica principal?",
+      "opciones": [
+        "No corrige el origen del sesgo y los promotores pueden volver a ajustar sus estimaciones para superar el umbral.",
+        "La tasa mayor eleva mecánicamente todos los VPN.",
+        "El recargo equivale siempre a reducir todos los flujos en el mismo porcentaje.",
+        "Toda tasa debería ser cero para evitar manipulación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El recargo no identifica ingresos exagerados ni costos omitidos. Los promotores pueden adaptar sus proyecciones al nuevo requisito. Es mejor revisar los flujos y usar un costo de capital fundamentado en el riesgo.",
+        "Una tasa mayor reduce el valor de flujos futuros positivos. Esa no es la causa de la crítica al recargo. El problema es tratar errores de estimación mediante un ajuste sin relación con su origen.",
+        "El efecto del recargo se compone con el plazo. Una reducción proporcional de flujos tiene otro patrón temporal. No existe una equivalencia general entre ambos ajustes.",
+        "Eso ignoraría el costo de oportunidad del dinero. La alternativa al recargo arbitrario es una tasa sustentada en el riesgo pertinente. Los sesgos deben corregirse directamente en las proyecciones."
+      ]
+    },
+    {
+      "id": "c11-q007",
+      "tema": "Efecto temporal del descuento",
+      "dificultad": "intermedia",
+      "pregunta": "Un flujo de $110 se cobrará al final del año 2. ¿Cuánto cae su valor presente si la tasa sube del 10% al 20%?",
+      "opciones": [
+        "Aproximadamente $8,33.",
+        "Exactamente $11.",
+        "Aproximadamente $33,61.",
+        "Aproximadamente $14,52."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese sería el efecto sobre un flujo cobrado al final del año 1. Aquí el cobro ocurre un período después. Hay que comparar valores con exponentes de dos períodos.",
+        "Ese resultado aplica diez puntos porcentuales al importe nominal. El descuento no consiste en restar un porcentaje fijo. Deben compararse 90,91 y 76,39 de valor presente.",
+        "Esta cifra compara el nominal de 110 con su valor al 20%. La pregunta pide el cambio entre dos valores presentes. La base inicial de comparación es 90,91.",
+        "Al 10%, el valor presente es 110 / 1,10² = 90,91. Al 20%, pasa a 110 / 1,20² = 76,39. La caída es 14,52 y refleja dos períodos de descuento."
+      ]
+    },
+    {
+      "id": "c11-q008",
+      "tema": "Auditorías de proyectos",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el aporte central de auditar un proyecto poco después de iniciar operaciones?",
+      "opciones": [
+        "Aislar sin error el beneficio de cada activo.",
+        "Detectar problemas, contrastar pronósticos y aprender para futuras inversiones.",
+        "Garantizar que el proyecto recuperará la inversión.",
+        "Reemplazar la evaluación previa por datos reales posteriores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los beneficios de activos complementarios pueden ser inseparables. Una mejora logística puede depender conjuntamente de software y camiones. La auditoría debe reconocer esa limitación.",
+        "La auditoría ayuda a corregir dificultades de ejecución. También revela supuestos que debieron examinarse antes de invertir. Su principal utilidad es mejorar las decisiones siguientes.",
+        "La auditoría produce información. No modifica retroactivamente la demanda ni garantiza beneficios. Puede orientar correcciones y mejorar decisiones futuras.",
+        "Cuando llegan los datos reales, parte del desembolso ya es irreversible. Esperar para analizar puede permitir pérdidas evitables. La auditoría complementa la evaluación previa."
+      ]
+    },
+    {
+      "id": "c11-q009",
+      "tema": "Auditoría e interdependencia",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa renueva camiones, software y un centro logístico a la vez. ¿Qué conclusión es más defendible al auditar el software?",
+      "opciones": [
+        "La mejora debe dividirse en tres partes iguales.",
+        "Se pueden verificar costos y funcionamiento, aunque quizá no aislar exactamente su aporte a la mejora total.",
+        "Toda la mejora debe asignarse al software.",
+        "El software carece de beneficios si no pueden separarse exactamente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Contar inversiones no mide contribuciones económicas. Cada activo puede aportar de manera diferente. Un reparto igualitario sería una convención sin evidencia causal.",
+        "Las inversiones se complementan. No se observa directamente qué habría sucedido sin cada una. Conviene distinguir costos verificables de beneficios cuya atribución individual es incierta.",
+        "Que el software organice entregas no explica todo el resultado. Los camiones y el centro también aportan capacidad. Esa atribución omite las complementariedades.",
+        "La dificultad de medir no prueba ausencia de beneficios. Una inversión puede crear valor junto con otras. Debe evaluarse el conjunto y reconocer la incertidumbre de atribución."
+      ]
+    },
+    {
+      "id": "c11-q010",
+      "tema": "Análisis de sensibilidad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a la sensibilidad convencional de un proyecto?",
+      "opciones": [
+        "Cambiar conjuntamente todas las variables para representar una recesión.",
+        "Sortear miles de trayectorias con distribuciones probabilísticas.",
+        "Elegir la tasa más alta que permita aprobar el proyecto.",
+        "Cambiar una variable por vez y recalcular el VPN manteniendo las demás en su caso base."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Eso corresponde a un escenario. La sensibilidad convencional aísla una variable cada vez. Las técnicas son complementarias y responden preguntas distintas.",
+        "Ese procedimiento corresponde a Monte Carlo. La sensibilidad puede usar pocos valores alternativos por variable. No requiere muestras aleatorias.",
+        "Buscar una tasa crítica no estudia todas las causas del flujo. La sensibilidad también examina precios, volumen y costos. Limitarla al descuento ocultaría riesgos operativos.",
+        "La técnica vincula el resultado con sus supuestos fundamentales. Permite identificar errores de estimación que afectarían mucho el valor. Por sí sola no determina probabilidades ni todos los efectos conjuntos."
+      ]
+    },
+    {
+      "id": "c11-q011",
+      "tema": "Modelo de ventas y costos",
+      "dificultad": "basica",
+      "pregunta": "El mercado es de 200.000 unidades anuales y la participación prevista es 5%. Con precio de $80 y costo variable unitario de $50, ¿cuáles son ingresos y costos variables anuales?",
+      "opciones": [
+        "$800.000 y $500.000, respectivamente.",
+        "$16.000.000 y $10.000.000, respectivamente.",
+        "$800.000 y $250.000, respectivamente.",
+        "$300.000 y $500.000, respectivamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El proyecto vende 200.000 × 0,05 = 10.000 unidades. Los ingresos son 10.000 × 80 = 800.000. Los costos variables son 10.000 × 50 = 500.000.",
+        "Esas cifras usan todo el mercado como si fuera propio. La empresa solo capta el 5%. Primero debe calcular sus unidades y después aplicar importes unitarios.",
+        "El ingreso es correcto, pero el costo no corresponde al volumen. Cada una de las 10.000 unidades cuesta 50. Por eso el costo variable total es 500.000.",
+        "Los 300.000 son margen de contribución. Surgen de restar costo variable a ingresos. No deben confundirse con los ingresos brutos de 800.000."
+      ]
+    },
+    {
+      "id": "c11-q012",
+      "tema": "Flujo operativo e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene ingresos de $1.000, costos de efectivo de $600 y depreciación anual de $100. Con impuesto del 30% y sin otras partidas, ¿cuál es su flujo operativo anual?",
+      "opciones": [
+        "$280.",
+        "$400.",
+        "$310.",
+        "$210."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Aplica el impuesto al margen de efectivo de 400. Omite la deducción fiscal de la depreciación. El escudo fiscal de 30 eleva el flujo a 310.",
+        "Este es el margen antes de impuestos. La empresa paga 90 sobre una utilidad imponible de 300. El efectivo disponible queda en 310.",
+        "La utilidad imponible es 1.000 − 600 − 100 = 300. El impuesto es 90 y la utilidad neta es 210. Al agregar la depreciación no desembolsada de 100, el flujo es 310.",
+        "Esta cifra es la utilidad neta. Incluye una deducción por depreciación que no fue un pago de efectivo. Debe sumarse nuevamente esa depreciación para obtener 310."
+      ]
+    },
+    {
+      "id": "c11-q013",
+      "tema": "VPN del caso base",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $200 hoy genera $121 al final de cada uno de los próximos dos años. Con tasa del 10% y sin otros flujos, ¿cuál es el VPN?",
+      "opciones": [
+        "$20.",
+        "$210.",
+        "$10.",
+        "$42."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Descuenta los dos flujos como si llegaran en el año 1. El segundo requiere otro período de descuento. Su valor presente es 100 y no 110.",
+        "Es el valor presente de los ingresos futuros. Falta restar el desembolso del período cero. El VPN mide el excedente después de cubrir también esa inversión.",
+        "El primer cobro vale 121 / 1,10 = 110 hoy. El segundo vale 121 / 1,10² = 100. De los 210 de valor presente se restan 200 de inversión y queda 10.",
+        "Es la suma nominal de cobros menos inversión. Omite el valor temporal del dinero. El descuento correcto reduce el excedente a 10."
+      ]
+    },
+    {
+      "id": "c11-q014",
+      "tema": "Sensibilidad al precio",
+      "dificultad": "intermedia",
+      "pregunta": "Se venden 1.000 unidades por año durante dos años. El precio cae $5, los costos no cambian y el impuesto es 20%, con utilidades suficientes para aprovechar el ahorro fiscal. Con tasa 0%, ¿cuánto cae el VPN?",
+      "opciones": [
+        "$8.000.",
+        "$10.000.",
+        "$4.000.",
+        "$2.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los ingresos caen 1.000 × 5 = 5.000 por año. Después del ahorro de impuestos, el flujo cae 5.000 × 0,80 = 4.000. Dos años sin descuento implican 8.000 de pérdida de VPN.",
+        "Es la pérdida de ingresos antes de impuestos. Al caer la utilidad, también cae el impuesto. El efecto neto es el 80% de esa reducción.",
+        "Ese es el efecto neto de un año. El problema establece dos años afectados. Sin descuento, las dos pérdidas de 4.000 se suman.",
+        "Ese es el ahorro fiscal acumulado. No es la caída neta de efectivo. La empresa pierde 10.000 de ingresos y recupera 2.000 en menores impuestos."
+      ]
+    },
+    {
+      "id": "c11-q015",
+      "tema": "Riesgos omitidos",
+      "dificultad": "intermedia",
+      "pregunta": "La sensibilidad es favorable, pero nadie verificó una patente necesaria para fabricar. ¿Qué debería hacer el director financiero?",
+      "opciones": [
+        "Ignorar la patente porque el caso base tiene VPN positivo.",
+        "Aumentar las ventas proyectadas para compensar el problema.",
+        "Agregar iteraciones de simulación para que aparezca el riesgo faltante.",
+        "Revisar la viabilidad legal y operativa porque el modelo puede omitir un riesgo decisivo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El VPN depende de que los flujos sean realizables. Sin el derecho necesario, producir podría ser imposible. El resultado numérico no sustituye una verificación de viabilidad.",
+        "Elevar ingresos sin fundamento agrava el sesgo. No resuelve una restricción legal. Corresponde investigar consecuencias y soluciones posibles.",
+        "La computadora no descubre restricciones ausentes. Más iteraciones exploran mejor los supuestos existentes. Primero hay que identificar e incorporar el riesgo.",
+        "Una planilla solo evalúa lo que contiene. Un impedimento omitido puede invalidar todos los flujos. Identificar estos riesgos permite investigar o rediseñar antes de comprometer capital."
+      ]
+    },
+    {
+      "id": "c11-q016",
+      "tema": "Valor de una prueba técnica",
+      "dificultad": "intermedia",
+      "pregunta": "Una prueba cuesta $10 hoy. Con probabilidad del 20%, detectará un defecto y permitirá evitar una pérdida de valor presente de $100; fuera de eso no cambia nada. ¿Cuál es su beneficio neto esperado?",
+      "opciones": [
+        "−$10.",
+        "$10.",
+        "$90.",
+        "$20."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Solo contempla el desembolso de investigar. Omite la pérdida evitable cuando se detecta el defecto. Esa posibilidad agrega un beneficio esperado de 20.",
+        "La pérdida evitable esperada es 0,20 × 100 = 20. El costo cierto de la prueba es 10. Como todo está expresado hoy, el beneficio neto esperado es 20 − 10 = 10.",
+        "Resta el costo a la pérdida como si el defecto fuera seguro. Solo aparece con probabilidad del 20%. Hay que ponderar el beneficio antes de restar el costo.",
+        "Es el beneficio esperado bruto. Falta pagar la prueba. El resultado incremental neto es 10."
+      ]
+    },
+    {
+      "id": "c11-q017",
+      "tema": "Información perfecta",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene VPN de $80 en un mercado bueno y de −$40 en uno malo, con probabilidades del 50%. Son valores actuales comparables. Una investigación perfecta permite invertir solo si el mercado es bueno. ¿Cuánto vale como máximo esa información?",
+      "opciones": [
+        "$80.",
+        "$20.",
+        "$40.",
+        "$60."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Es el resultado favorable y no un beneficio seguro. Investigar no convierte todos los estados en buenos. Solo permite actuar de forma diferente según el estado revelado.",
+        "Sin investigar, el VPN esperado es 0,50 × 80 − 0,50 × 40 = 20. Con información gratuita, se invierte solo en el estado bueno y el valor esperado es 40. La mejora sobre la mejor decisión sin información es 40 − 20 = 20.",
+        "Es el valor esperado con información gratuita. No es el aporte incremental de investigar. Ya existía una alternativa sin información que valía 20.",
+        "La mitad del rango entre resultados no mide el valor de información. La investigación permite evitar la pérdida del estado malo. Esa pérdida evitable esperada es 0,50 × 40 = 20."
+      ]
+    },
+    {
+      "id": "c11-q018",
+      "tema": "Priorización de estudios",
+      "dificultad": "intermedia",
+      "pregunta": "La demanda pesimista aún produce VPN positivo, pero una falla técnica plausible lo haría negativo. ¿Qué criterio debería guiar dónde investigar primero?",
+      "opciones": [
+        "Siempre estudiar la variable con mayor dispersión física.",
+        "Siempre estudiar demanda porque todo ingreso depende del mercado.",
+        "Nunca investigar cuando el caso base es positivo.",
+        "La mejora esperada de decisiones o diseño que permite cada estudio, comparada con su costo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La dispersión no mide por sí sola importancia económica. Puede no cambiar ninguna decisión. El estudio debe aportar beneficios concretos mayores que su costo.",
+        "Ese criterio ignora riesgos técnicos decisivos. Una falla puede destruir valor aun con buenas ventas. La prioridad depende del efecto económico y de la utilidad de aprender.",
+        "Un caso base favorable no descarta pérdidas evitables. Una investigación puede permitir cancelar o rediseñar. Deben compararse beneficios esperados y costos incrementales.",
+        "La sensibilidad ayuda a detectar información potencialmente útil. Su valor depende de las acciones que permitiría cambiar. También importan precisión del estudio, probabilidades y costo de obtenerlo."
+      ]
+    },
+    {
+      "id": "c11-q019",
+      "tema": "Interpretación de extremos",
+      "dificultad": "intermedia",
+      "pregunta": "Marketing y producción usan «pesimista» con significados probabilísticos distintos. ¿Qué problema genera?",
+      "opciones": [
+        "Los rangos de sensibilidad no son directamente comparables como medidas de riesgo.",
+        "Se vuelve imposible calcular cualquier VPN.",
+        "Cada extremo pasa a tener probabilidad del 50%.",
+        "Los VPN individuales deben sumarse para obtener la pérdida conjunta."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un extremo puede ser muy improbable y otro relativamente frecuente. La amplitud mezcla importancia económica con criterios distintos de elección de límites. Definir percentiles comunes mejora la comparación, aunque estimarlos siga siendo difícil.",
+        "Los cálculos siguen siendo posibles para cada supuesto. Lo ambiguo es interpretar su gravedad y probabilidad. Hay que separar cálculo condicional de significado estadístico.",
+        "La palabra pesimista no asigna una probabilidad. Tampoco la inconsistencia entre áreas convierte el extremo en mediana. Los límites necesitan definiciones explícitas.",
+        "Cada VPN incluye el proyecto completo bajo un cambio individual. Sumarlos duplica componentes. Tampoco representa adecuadamente la dependencia entre variables."
+      ]
+    },
+    {
+      "id": "c11-q020",
+      "tema": "Alcance de la sensibilidad",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuándo puede la sensibilidad de una sola variable describir todo el rango posible del VPN?",
+      "opciones": [
+        "Cuando se elige el mayor VPN de cualquier prueba aislada.",
+        "Cuando se usa una tasa de descuento muy alta.",
+        "Cuando esa es la única fuente de incertidumbre y se recorre todo su rango con un modelo adecuado.",
+        "Siempre que todas las variables se prueben separadamente en dos extremos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ese máximo solo refleja una combinación particular. No garantiza el máximo conjunto ni su probabilidad. Hay que considerar todas las fuentes de incertidumbre relevantes.",
+        "La tasa no elimina la incertidumbre de precios o costos. Tampoco revela dependencias. El alcance del análisis depende de las variables del modelo.",
+        "Si las demás variables son conocidas, cada valor de la variable incierta determina el VPN. Recorrer su rango da el rango de resultados. Para asignar probabilidades se necesita además su distribución.",
+        "Los extremos individuales no muestran todas las combinaciones. Varias variables pueden reforzarse o compensarse. La sensibilidad separada no reconstruye el riesgo conjunto."
+      ]
+    },
+    {
+      "id": "c11-q021",
+      "tema": "Análisis de escenarios",
+      "dificultad": "basica",
+      "pregunta": "¿Qué aporta el análisis de escenarios frente a cambiar una variable por vez?",
+      "opciones": [
+        "Obliga a acumular todos los peores valores individuales.",
+        "Asigna igual probabilidad a todos los escenarios elegidos.",
+        "Permite combinar cambios simultáneos compatibles con un mismo entorno.",
+        "Elimina la necesidad de proyectar flujos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un escenario busca coherencia económica. Algunos extremos individuales pueden ser incompatibles. Su ocurrencia conjunta debe justificarse.",
+        "Seleccionar escenarios no fija probabilidades. Una recesión severa puede ser menos probable que un crecimiento moderado. Cualquier ponderación necesita fundamentos adicionales.",
+        "Un escenario reúne variaciones vinculadas de demanda, precios y costos. Así se estudian sus efectos conjuntos sobre el VPN. Normalmente cubre combinaciones seleccionadas y no toda la distribución.",
+        "Cada escenario necesita ingresos, costos e inversiones. Sin esos datos no puede estimarse su valor. La técnica organiza supuestos, pero no reemplaza el modelo financiero."
+      ]
+    },
+    {
+      "id": "c11-q022",
+      "tema": "Energía y recesión",
+      "dificultad": "intermedia",
+      "pregunta": "Una suba del petróleo favorece vehículos eléctricos, reduce el mercado total y eleva costos. ¿Cómo evaluar el proyecto de un fabricante?",
+      "opciones": [
+        "Modelando conjuntamente mercado, participación, precios y costos antes de concluir sobre el VPN.",
+        "Dar por seguro que el VPN aumenta por sustituir combustible.",
+        "Dar por seguro que el VPN cae porque hay recesión.",
+        "Sumar tamaño de mercado y participación para obtener unidades."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Mayor participación no asegura más unidades si el mercado cae. Mayores ingresos tampoco aseguran mejores márgenes. Deben cuantificarse todos los efectos compatibles del escenario.",
+        "La sustitución favorece parte de la demanda. La recesión y los costos pueden contrarrestarla. El efecto neto exige calcular el escenario conjunto.",
+        "Una recesión no afecta igual a todos los productos. La sustitución puede favorecer a algunos fabricantes. El resultado depende del balance de efectos.",
+        "Las unidades surgen de multiplicar mercado por participación. Sumar esas magnitudes no representa ventas. Después deben aplicarse precios y costos para proyectar flujos."
+      ]
+    },
+    {
+      "id": "c11-q023",
+      "tema": "Flujo en un escenario conjunto",
+      "dificultad": "intermedia",
+      "pregunta": "El mercado es de 10.000 unidades y el proyecto capta 20%. El precio es $50, el costo variable $30 por unidad, el costo fijo de efectivo $10.000 y la depreciación $5.000 anuales. Con impuesto del 20%, ¿cuál es el flujo operativo anual?",
+      "opciones": [
+        "$20.000.",
+        "$30.000.",
+        "$24.000.",
+        "$25.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Es la utilidad neta de impuestos. La depreciación deducida no representa un pago del año. Agregar sus 5.000 lleva al flujo de 25.000.",
+        "Es el margen de efectivo antes de impuestos. Todavía deben pagarse 5.000 de impuesto sobre una base de 25.000. El flujo neto queda en 25.000.",
+        "Aplica impuesto al margen de efectivo de 30.000. Omite deducir la depreciación fiscal de 5.000. El escudo fiscal de 1.000 eleva el flujo correcto a 25.000.",
+        "Se venden 2.000 unidades con margen unitario de 20 y contribución total de 40.000. La utilidad imponible es 40.000 − 10.000 − 5.000 = 25.000 y el impuesto es 5.000. La utilidad neta de 20.000 más depreciación da 25.000 de efectivo."
+      ]
+    },
+    {
+      "id": "c11-q024",
+      "tema": "Equilibrio financiero y contable",
+      "dificultad": "basica",
+      "pregunta": "¿Qué condición define el punto de equilibrio financiero de ventas de un proyecto?",
+      "opciones": [
+        "Que la suma nominal de cobros supere el desembolso inicial.",
+        "Que el valor presente de sus entradas sea igual al de todas sus salidas, incluida la inversión inicial.",
+        "Que los ingresos anuales cubran solo costos variables.",
+        "Que la utilidad después de depreciación sea cero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La suma nominal ignora las fechas de cobro. También puede omitir costos posteriores. Deben compararse valores presentes de todos los flujos relevantes.",
+        "La igualdad de valores presentes implica VPN cero. Los flujos cubren costos y remuneran el capital a la tasa utilizada. No basta con mostrar utilidad contable nula.",
+        "Eso deja sin cubrir costos fijos e inversión. Tampoco remunera el capital comprometido. El equilibrio financiero exige incluir todas las salidas relevantes y descontarlas.",
+        "Esa condición define un equilibrio contable bajo los supuestos habituales. Recuperar la inversión mediante depreciación no remunera necesariamente su costo de oportunidad. Por eso puede coexistir con VPN negativo."
+      ]
+    },
+    {
+      "id": "c11-q025",
+      "tema": "Cálculo del equilibrio contable",
+      "dificultad": "basica",
+      "pregunta": "El precio es $20, el costo variable $12, los costos fijos de efectivo $1.600 y la depreciación $800 por año. ¿Cuántas unidades anuales permiten utilidad antes de impuestos igual a cero?",
+      "opciones": [
+        "100 unidades.",
+        "300 unidades.",
+        "200 unidades.",
+        "120 unidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Solo cubre la depreciación mediante el margen unitario. Los costos fijos de efectivo continúan sin cubrir. Hay que incluir ambos conceptos en el numerador.",
+        "La contribución unitaria es 20 − 12 = 8. Para que la utilidad sea cero, debe cubrir 1.600 + 800 = 2.400. Dividir 2.400 por 8 da 300 unidades.",
+        "Cubre únicamente los costos fijos de efectivo. Omite la depreciación de 800. El equilibrio contable requiere cubrir también ese cargo.",
+        "Resulta de dividir costos fijos y depreciación por el precio de 20. Esa división ignora el costo variable de cada venta. Debe utilizarse la contribución unitaria de 8."
+      ]
+    },
+    {
+      "id": "c11-q026",
+      "tema": "Cálculo del equilibrio financiero",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $1.000 dura cinco años, sin impuestos ni rescate. El factor de valor presente de sus cinco flujos anuales es 2,5. El precio es $10, el costo variable $5 y los costos fijos de efectivo $100 anuales. ¿Qué volumen constante da VPN cero?",
+      "opciones": [
+        "60 unidades anuales.",
+        "80 unidades anuales.",
+        "20 unidades anuales.",
+        "100 unidades anuales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Es el equilibrio contable si la depreciación lineal es 200 por año. Solo produce 200 de flujo anual y no los 400 requeridos financieramente. Confunde recuperación contable con remuneración del capital.",
+        "Genera contribución anual de 400 antes del costo fijo. Al restar 100, quedan solo 300 de flujo. Debe cubrirse ese costo además del flujo anual requerido.",
+        "Es el equilibrio de efectivo de la operación. Cubre costos fijos de 100 con contribución de 5 por unidad. No genera nada para recuperar la inversión inicial.",
+        "Para recuperar financieramente 1.000 se necesita un flujo anual de 1.000 / 2,5 = 400. Ese flujo es 5 × Q − 100. Igualar ambas expresiones da Q = (400 + 100) / 5 = 100."
+      ]
+    },
+    {
+      "id": "c11-q027",
+      "tema": "Costo de oportunidad omitido",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $1.000 se deprecia linealmente en cinco años y no tiene rescate ni impuestos. En el equilibrio contable genera $200 anuales de flujo. Si el factor de anualidad es 3,8, ¿cuál es su VPN?",
+      "opciones": [
+        "−$240.",
+        "$0.",
+        "$760.",
+        "−$800."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor presente de los flujos es 200 × 3,8 = 760. Al restar la inversión inicial de 1.000 queda −240. Aunque se recupera nominalmente el desembolso, falta remunerar el costo de oportunidad.",
+        "La utilidad contable cero no garantiza VPN cero. Los 200 anuales recuperan el costo histórico en cinco años sin remunerar el tiempo. Descontarlos muestra un faltante de valor de 240.",
+        "Es el valor presente de las entradas. No se ha restado la inversión del período cero. Al hacerlo, el resultado es negativo en 240.",
+        "Este cálculo considera un único flujo de 200 sin valorar la serie. Hay cinco cobros y su factor conjunto es 3,8. Su valor presente total es 760."
+      ]
+    },
+    {
+      "id": "c11-q028",
+      "tema": "Umbral de precio",
+      "dificultad": "intermedia",
+      "pregunta": "Para que un proyecto tenga VPN cero necesita un flujo operativo de $500 anuales. Vende 100 unidades al año, con costo variable unitario de $4 y costos fijos de efectivo de $200 anuales. Sin impuestos, ¿cuál es el precio de equilibrio financiero?",
+      "opciones": [
+        "$7 por unidad.",
+        "$6 por unidad.",
+        "$11 por unidad.",
+        "$9 por unidad."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Confunde la contribución unitaria requerida con el precio. Cada venta también debe cubrir el costo variable de 4. El precio total necesario es 11.",
+        "Ese precio cubre exactamente los costos operativos de efectivo. No deja flujo para remunerar la inversión. El equilibrio financiero exige además los 500 anuales requeridos.",
+        "El flujo es 100 × (precio − 4) − 200. Para obtener 500 se necesita contribución total de 700. La contribución unitaria debe ser 7 y el precio debe ser 4 + 7 = 11.",
+        "Ese precio genera contribución de 500 antes de los costos fijos. Después de pagarlos solo quedan 300. El flujo requerido es 500 neto de esos costos."
+      ]
+    },
+    {
+      "id": "c11-q029",
+      "tema": "Pérdidas y aprovechamiento fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene ingresos de $100, costos de efectivo de $140 y depreciación de $20. La tasa fiscal es 25% y sus pérdidas se compensan inmediatamente con ganancias de otros negocios. ¿Cuál es su flujo operativo?",
+      "opciones": [
+        "−$45.",
+        "−$55.",
+        "−$25.",
+        "−$40."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Es la pérdida contable después de impuestos. Todavía contiene una depreciación de 20 que no consume efectivo. Sumarla conduce a un flujo de −25.",
+        "Agrega 15 como impuesto cuando en realidad es un ahorro. La compensación de pérdidas reduce lo pagado por otros negocios. El efecto fiscal mejora el flujo y no lo empeora.",
+        "La pérdida fiscal es 100 − 140 − 20 = −60. Compensarla permite ahorrar 60 × 0,25 = 15 de impuestos. El déficit operativo de efectivo de 40 se reduce a 25.",
+        "Es el déficit de efectivo antes de impuestos. Omite el ahorro fiscal inmediato especificado. Al incorporar los 15 ahorrados, el déficit queda en 25."
+      ]
+    },
+    {
+      "id": "c11-q030",
+      "tema": "Apalancamiento operativo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué significa un mayor apalancamiento operativo, manteniendo constantes los demás factores relevantes?",
+      "opciones": [
+        "Mayor exposición de los resultados a cambios de ventas por la presencia de costos fijos.",
+        "Mayor deuda bancaria respecto del patrimonio.",
+        "Mayor proporción de costos variables y ausencia de costos fijos.",
+        "Garantía de menor punto de equilibrio en cualquier tecnología."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los costos fijos no bajan proporcionalmente cuando cae el volumen. Por eso una misma variación de ventas puede causar una variación mayor de utilidad. Este efecto es operativo y no requiere deuda financiera.",
+        "Esa relación describe apalancamiento financiero. El operativo surge de la estructura de costos de producción. Puede ser alto incluso en una empresa sin deuda.",
+        "Los costos variables se ajustan con el volumen y amortiguan caídas de ventas. Los costos fijos generan la exposición que caracteriza al apalancamiento operativo. No deben invertirse ambos conceptos.",
+        "El umbral depende de costos fijos, margen unitario e inversión. Una tecnología puede elevar el VPN previsto y también el umbral de ventas. El apalancamiento no garantiza una reducción de ese punto."
+      ]
+    },
+    {
+      "id": "c11-q031",
+      "tema": "Grado de apalancamiento operativo",
+      "dificultad": "intermedia",
+      "pregunta": "La contribución anual es $800, los costos fijos de efectivo $300 y la depreciación $100. Definiendo el apalancamiento como sensibilidad de la utilidad antes de impuestos a las ventas, ¿cuál es su grado?",
+      "opciones": [
+        "1,6.",
+        "1.",
+        "0,5.",
+        "2."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese cociente divide 800 por el resultado antes de depreciación de 500. La pregunta mide utilidad después de depreciación. El denominador correspondiente es 400.",
+        "Ese valor omite el efecto amplificador de los costos fijos. Aquí existen 400 de costos fijos incluyendo depreciación. La contribución duplica la utilidad y el grado es 2.",
+        "Es el cociente inverso, utilidad sobre contribución. La elasticidad buscada usa contribución sobre utilidad. Invertirlo oculta la amplificación de los cambios de ventas.",
+        "La utilidad antes de impuestos es 800 − 300 − 100 = 400. El grado es contribución / utilidad = 800 / 400 = 2. También se obtiene como 1 + (300 + 100) / 400."
+      ]
+    },
+    {
+      "id": "c11-q032",
+      "tema": "Apalancamiento y nivel de actividad",
+      "dificultad": "avanzada",
+      "pregunta": "El precio es $10, el costo variable $6, los costos fijos de efectivo $400 y la depreciación $200. ¿Cómo cambia el apalancamiento de la utilidad antes de impuestos cuando las ventas suben de 200 a 300 unidades?",
+      "opciones": [
+        "Baja de 2 a 1.",
+        "Baja de 4 a 2.",
+        "Sube de 2 a 4.",
+        "Permanece en 4 porque los costos fijos no cambian."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estas cifras omiten la depreciación en el costo fijo total. La utilidad pedida es después de depreciación. Hay que restar 600 de la contribución en ambos niveles.",
+        "Con 200 unidades, la contribución es 800 y la utilidad es 200, de modo que el grado es 4. Con 300 unidades, son 1.200 y 600, y el grado es 2. Al alejarse del equilibrio, los costos fijos pesan menos en relación con la utilidad.",
+        "Invierte los resultados. Cerca del equilibrio, una utilidad pequeña amplifica la variación porcentual. El mayor volumen aumenta la utilidad relativa a los costos fijos y reduce el grado.",
+        "Los costos fijos son iguales, pero la utilidad del denominador cambia. El apalancamiento se mide en un nivel de ventas específico. No es una constante de la tecnología independiente de la actividad."
+      ]
+    },
+    {
+      "id": "c11-q033",
+      "tema": "Elección de tecnología",
+      "dificultad": "intermedia",
+      "pregunta": "La tecnología A cuesta $1.000 fijos al año más $6 por unidad. La B cuesta $3.000 fijos más $2 por unidad. Sin otras diferencias, ¿a partir de qué volumen B tiene menor costo anual total?",
+      "opciones": [
+        "A cualquier volumen porque su costo variable es menor.",
+        "Por encima de 500 unidades.",
+        "Por encima de 250 unidades.",
+        "Por debajo de 500 unidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El costo variable es solo una parte del costo total. B empieza con 2.000 adicionales de costo fijo. Necesita suficientes unidades para compensarlos.",
+        "La igualdad de costos es 1.000 + 6Q = 3.000 + 2Q. Reordenar da 4Q = 2.000 y Q = 500. Por encima de ese volumen, el ahorro variable de B supera su costo fijo adicional.",
+        "Usar 250 implica atribuir un ahorro unitario de 8. El ahorro real es la diferencia de 6 y 2, igual a 4. Se necesitan 500 unidades para cubrir los 2.000 fijos adicionales.",
+        "Invierte el lado favorable del umbral. A bajo volumen pesan más los costos fijos adicionales de B. B mejora al aumentar las unidades que generan ahorro variable."
+      ]
+    },
+    {
+      "id": "c11-q034",
+      "tema": "Tecnología, VPN y riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Una automatización eleva el VPN calculado con la tasa anterior, pero aumenta mucho los costos fijos y la sensibilidad a ventas. ¿Qué debería revisar el director financiero?",
+      "opciones": [
+        "Aceptar automáticamente porque cualquier VPN mayor implica menor riesgo.",
+        "Sumar un recargo fijo a la tasa por cada máquina comprada.",
+        "Usar solo el punto de equilibrio contable para elegir.",
+        "Si el cambio de riesgo del negocio modifica el costo de capital, además del VPN y del umbral de ventas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor esperado y el riesgo son dimensiones distintas. Una tecnología puede mejorar el caso base y agravar las pérdidas con ventas bajas. Hay que revisar ambos efectos y la tasa aplicable.",
+        "La cantidad de máquinas no mide riesgo sistemático. Un recargo automático carece de fundamento económico. Corresponde evaluar cómo cambia la exposición del negocio.",
+        "Ese umbral no remunera necesariamente el capital. También omite resultados por encima y debajo del equilibrio. La elección requiere flujos, riesgo y flexibilidad de las alternativas.",
+        "Un mejor margen previsto puede venir acompañado de mayor exposición operativa. Si cambia el riesgo sistemático, la tasa pertinente también puede cambiar. La revisión debe fundarse en ese riesgo y no en un castigo arbitrario a la tecnología."
+      ]
+    },
+    {
+      "id": "c11-q035",
+      "tema": "Gráfico del equilibrio financiero",
+      "dificultad": "basica",
+      "pregunta": "En un gráfico de valores presentes de entradas y salidas contra unidades vendidas, ¿cómo se interpreta la intersección?",
+      "opciones": [
+        "Es el volumen de VPN cero y puede obtenerse también con ingresos y costos anuales equivalentes consistentes.",
+        "Es el volumen de utilidad contable máxima.",
+        "Es el volumen en que desaparecen todos los costos fijos.",
+        "Es un volumen cuya probabilidad es necesariamente del 50%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En la intersección, los valores presentes de entradas y salidas coinciden. Por lo tanto, el excedente financiero es nulo. Convertir ambos lados con el mismo factor de anualidad conserva la igualdad y el volumen crítico.",
+        "La igualdad de valores presentes no maximiza utilidad contable. Identifica un umbral financiero. El máximo requeriría analizar restricciones y comportamiento de ingresos y costos.",
+        "Los costos fijos no desaparecen en ese punto. Las ventas generan suficiente valor para cubrirlos junto con otras salidas. El equilibrio se refiere al resultado total y no a eliminar costos.",
+        "El gráfico muestra valores condicionales a ventas. No contiene por sí mismo una distribución probabilística de volumen. La probabilidad de estar por encima requiere información adicional."
+      ]
+    },
+    {
+      "id": "c11-q036",
+      "tema": "Etapas de Monte Carlo",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la secuencia adecuada para una simulación financiera de Monte Carlo?",
+      "opciones": [
+        "Fijar todas las variables en su promedio y repetir el mismo cálculo.",
+        "Elegir solo el mejor y el peor escenario y asignarles certeza.",
+        "Modelar relaciones, especificar distribuciones, muestrear y calcular flujos, y finalmente valorar los flujos esperados.",
+        "Sortear VPN y luego inventar variables que los justifiquen."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Repetir un caso fijo no genera incertidumbre. Monte Carlo requiere muestrear resultados de distribuciones. Además, las dependencias y no linealidades pueden hacer que el promedio del resultado difiera del resultado con promedios.",
+        "Dos extremos no describen una distribución completa. Tampoco pueden ser ambos seguros simultáneamente. La simulación necesita probabilidades y muchas realizaciones posibles.",
+        "Primero se define cómo las variables generan flujos. Después se asignan distribuciones y dependencias para producir muchas trayectorias. Los resultados permiten estimar flujos esperados y descontarlos con un tratamiento coherente del riesgo.",
+        "Eso invierte el razonamiento del modelo. Los resultados deben provenir de supuestos económicos y relaciones explícitas. Ajustar variables después para justificar números impide evaluar el proyecto de manera transparente."
+      ]
+    },
+    {
+      "id": "c11-q037",
+      "tema": "Distribuciones de errores",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo debería elegirse la distribución de una variable en una simulación?",
+      "opciones": [
+        "Usando una uniforme porque siempre produce pronósticos más exactos.",
+        "Utilizando únicamente un máximo y un mínimo sin probabilidades.",
+        "Según evidencia y supuestos defendibles sobre sus resultados posibles, sin imponer normalidad automáticamente.",
+        "Usando una normal para cualquier variable porque todas admiten valores negativos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La uniforme expresa un supuesto particular de igual densidad. No es más exacta por naturaleza. Su adecuación depende de la información disponible y del fenómeno modelado.",
+        "Los límites solos no determinan cómo se distribuyen los resultados internos. Pueden existir muchas distribuciones con los mismos extremos. Para muestrear se necesita una especificación probabilística.",
+        "Una distribución uniforme supone igual densidad dentro de un intervalo. Una normal concentra resultados cerca de su media y tiene colas distintas. La elección debe representar el problema y sus límites económicos.",
+        "Muchas variables económicas no pueden ser negativas. Una normal sin ajustes puede generar valores imposibles. La forma elegida debe ser compatible con la variable y con su incertidumbre."
+      ]
+    },
+    {
+      "id": "c11-q038",
+      "tema": "Calibración de una distribución",
+      "dificultad": "intermedia",
+      "pregunta": "Se adopta la aproximación de que un intervalo de ±15% cubre tres desviaciones estándar de un error normal centrado en cero. ¿Qué desviación estándar debe usarse?",
+      "opciones": [
+        "5 puntos porcentuales.",
+        "15 puntos porcentuales.",
+        "30 puntos porcentuales.",
+        "45 puntos porcentuales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El semiancho de 15 puntos representa tres desviaciones. Dividir 15 por 3 da 5 puntos porcentuales. Se trata de una aproximación de cobertura cercana al 99%, no de un límite absoluto de una normal.",
+        "Confunde el semiancho del intervalo con una desviación. El supuesto indica que allí caben tres. La desviación requerida es 5 puntos.",
+        "Es el ancho total entre −15% y +15%. No representa una desviación estándar. El ancho equivale a seis desviaciones bajo el supuesto indicado.",
+        "Multiplica el semiancho por tres en lugar de dividirlo. Ya se informó que 15 puntos corresponden a tres desviaciones. Una sola equivale a 5 puntos."
+      ]
+    },
+    {
+      "id": "c11-q039",
+      "tema": "Dependencia entre períodos",
+      "dificultad": "intermedia",
+      "pregunta": "Un mercado inicial de 1.000 unidades sigue la regla M(t) = M(t−1) × (1 + error del año). Los errores de los años 1 y 2 son −10% y +10%. ¿Cuál es el mercado del año 2?",
+      "opciones": [
+        "1.000 unidades.",
+        "1.100 unidades.",
+        "900 unidades.",
+        "990 unidades."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Suma los dos porcentajes y supone cancelación exacta. El modelo es multiplicativo y usa la base del año anterior. La caída y recuperación dejan un efecto acumulado de −1%.",
+        "Aplica el segundo error a la base inicial y olvida el primero. La regla utiliza el mercado efectivamente alcanzado en el año anterior. Esa base es 900.",
+        "Es el resultado del primer año. Falta aplicar el crecimiento del segundo. El modelo exige actualizar la trayectoria período a período.",
+        "Después del primer error quedan 1.000 × 0,90 = 900 unidades. El segundo crecimiento se aplica sobre 900 y da 900 × 1,10 = 990. Los porcentajes opuestos no se cancelan porque operan sobre bases diferentes."
+      ]
+    },
+    {
+      "id": "c11-q040",
+      "tema": "Dependencia entre variables",
+      "dificultad": "intermedia",
+      "pregunta": "El precio inicial es $200 y la regla es precio nuevo = 200 × (1 + 0,4 × error del mercado). Si el error del mercado es +10%, ¿cuál es el nuevo precio?",
+      "opciones": [
+        "$200,04.",
+        "$208.",
+        "$220.",
+        "$280."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Suma directamente 0,04 como si fuera un importe monetario. Es una variación proporcional del precio. Debe multiplicarse por la base de 200.",
+        "El efecto sobre el precio es 0,4 × 0,10 = 0,04. Por eso aumenta 4% sobre 200. Multiplicar 200 por 1,04 da 208.",
+        "Aplica al precio todo el aumento del mercado. La regla indica una respuesta de solo el 40% de ese error. El aumento correcto del precio es 4% y no 10%.",
+        "Interpreta el coeficiente 0,4 como un aumento autónomo del 40%. En realidad debe multiplicarlo por el error del 10%. El producto es 4%."
+      ]
+    },
+    {
+      "id": "c11-q041",
+      "tema": "Persistencia de errores",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué implica que el pronóstico de cada año se actualice a partir del resultado real del año anterior?",
+      "opciones": [
+        "El riesgo futuro es cero si el primer pronóstico era correcto en promedio.",
+        "Los errores pueden persistir y acumularse, aumentando la dispersión de niveles futuros.",
+        "Todos los errores se cancelan exactamente al finalizar el proyecto.",
+        "Cada año vuelve necesariamente al mismo nivel inicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ser correcto en promedio no elimina dispersión. Las trayectorias pueden diferir aunque el error esperado sea cero. Hay que modelar tanto probabilidades como dependencias temporales.",
+        "Un error cambia la base desde la cual se proyecta el siguiente período. Aun con innovaciones anuales centradas en cero, la trayectoria incorpora los desvíos previos. No debe suponerse que todos desaparecen automáticamente al año siguiente.",
+        "Una media de error cero no garantiza cancelación en cada trayectoria. La dependencia transmite los resultados anteriores a nuevas bases. Las realizaciones particulares pueden alejarse mucho del pronóstico inicial.",
+        "Eso requeriría un mecanismo de reversión diferente. La actualización indicada usa el resultado observado. No contiene una vuelta automática al nivel inicial."
+      ]
+    },
+    {
+      "id": "c11-q042",
+      "tema": "Media, moda y asimetría",
+      "dificultad": "basica",
+      "pregunta": "Una simulación produce una distribución con cola larga a la derecha. ¿Qué distinción es relevante para valorar el proyecto?",
+      "opciones": [
+        "La moda es siempre igual a la media en cualquier distribución.",
+        "Una cola derecha significa que el resultado máximo es el más probable.",
+        "Debe descontarse solo el mínimo porque la media es optimista por definición.",
+        "La media puede superar a la moda y la valuación debe basarse en flujos esperados, no solo en el resultado más frecuente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esa igualdad no es general. La asimetría puede separar ambas medidas. Usar el pico como si fuera el promedio puede subestimar los flujos esperados.",
+        "La cola suele contener resultados extremos poco frecuentes. Su presencia no vuelve más probable el máximo. Lo relevante es cuánto contribuyen esos valores al promedio.",
+        "La media no es una postura optimista, sino una esperanza probabilística. Elegir el mínimo cambia la pregunta económica. El riesgo se trata de forma coherente y no sustituyendo arbitrariamente el flujo esperado.",
+        "La cola derecha contiene resultados altos que pueden elevar el promedio. El resultado modal es el más frecuente y no incorpora ese peso de la misma manera. Para valorar se utilizan esperanzas ponderadas por probabilidades con el ajuste de riesgo adecuado."
+      ]
+    },
+    {
+      "id": "c11-q043",
+      "tema": "Flujo esperado de una distribución",
+      "dificultad": "basica",
+      "pregunta": "Un flujo anual puede ser $0 con probabilidad 25%, $100 con probabilidad 50% o $400 con probabilidad 25%. ¿Cuál es su valor esperado?",
+      "opciones": [
+        "$150.",
+        "$100.",
+        "Aproximadamente $166,67.",
+        "$500."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se pondera cada importe por su probabilidad. El cálculo es 0,25 × 0 + 0,50 × 100 + 0,25 × 400 = 150. El resultado más frecuente es 100, pero no coincide con la media.",
+        "Es la moda porque tiene la mayor probabilidad individual. No incluye el peso económico del resultado de 400. La media ponderada es 150.",
+        "Es el promedio simple de los tres importes. Supone incorrectamente que son equiprobables. Deben usarse las probabilidades de 25%, 50% y 25%.",
+        "Es la suma de resultados mutuamente excluyentes. El proyecto no cobra todos a la vez. El valor esperado pondera cada uno por su probabilidad."
+      ]
+    },
+    {
+      "id": "c11-q044",
+      "tema": "Precisión de Monte Carlo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora afirma que un millón de simulaciones garantiza pronósticos correctos aunque las distribuciones estén sesgadas. ¿Qué corresponde responder?",
+      "opciones": [
+        "Conviene usar una sola iteración para evitar sesgos estadísticos.",
+        "Basta elegir siempre el resultado mediano.",
+        "Más iteraciones reducen error de muestreo, pero no corrigen un modelo o unas probabilidades equivocados.",
+        "La afirmación es correcta porque la aleatoriedad elimina todos los sesgos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una iteración no representa adecuadamente la distribución. Reducir muestras aumenta la variabilidad de la estimación. Tampoco soluciona un sesgo del modelo.",
+        "Cambiar la medida resumen no corrige relaciones incorrectas. La mediana tampoco sustituye al flujo esperado para valorar. La validación debe dirigirse al modelo y a sus entradas.",
+        "La simulación reproduce los supuestos introducidos. Muchas iteraciones pueden estimar con precisión el resultado de un modelo incorrecto. Hay que validar relaciones, distribuciones y posibles sesgos de quienes las preparan.",
+        "La aleatoriedad no cambia la distribución de origen elegida. Si esa distribución es sesgada, las muestras la reproducen. Se necesita mejorar los supuestos y no solo aumentar repeticiones."
+      ]
+    },
+    {
+      "id": "c11-q045",
+      "tema": "Simulación y desarrollo farmacéutico",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué debería distinguir una simulación de investigación y desarrollo de medicamentos?",
+      "opciones": [
+        "Solo aprobación regulatoria porque luego la demanda está garantizada.",
+        "Todos los costos futuros como obligatorios aun después de un fracaso concluyente.",
+        "Incertidumbre científica y regulatoria, incertidumbre comercial y decisiones de seguir o detener cada fase.",
+        "Solo ventas finales porque todos los compuestos llegan al mercado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La aprobación habilita vender, pero no asegura éxito comercial. Pueden aparecer competidores o precios insuficientes. Deben separarse viabilidad técnica y rentabilidad de mercado.",
+        "Esa hipótesis elimina la posibilidad de abandonar. Una empresa puede detener el desarrollo cuando la información lo aconseja. Los costos futuros deben depender de las decisiones y resultados de cada etapa.",
+        "Superar ensayos o recibir aprobación no garantiza ventas rentables. La competencia, los precios y la comercialización agregan otras fuentes de riesgo. La posibilidad de detener etapas debe representarse para no suponer gastos futuros inevitables.",
+        "Muchos compuestos no superan etapas científicas o regulatorias. Ignorarlo exageraría los ingresos y omitiría costos de desarrollos fallidos. El modelo debe representar probabilidades y decisiones por fase."
+      ]
+    },
+    {
+      "id": "c11-q046",
+      "tema": "Costo y comprensión de la simulación",
+      "dificultad": "intermedia",
+      "pregunta": "Una consultora entrega una simulación sofisticada que la dirección no entiende y que costó más que los errores que podría evitar. ¿Qué evaluación es más razonable?",
+      "opciones": [
+        "Revisar su utilidad económica y hacer comprensibles las relaciones decisivas antes de basar decisiones en ella.",
+        "Aceptarla porque más ecuaciones garantizan mayor valor.",
+        "Eliminar todo análisis de incertidumbre de manera permanente.",
+        "Delegar también la decisión final para evitar entender los supuestos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Modelar incertidumbre puede ser útil, pero consume recursos y exige comprensión. Una simulación inaccesible puede no orientar ninguna decisión. Su complejidad debe justificarse por la información y las mejoras de acción que aporta.",
+        "La cantidad de ecuaciones no mide calidad económica. Un modelo complejo puede tener relaciones mal estimadas. Debe juzgarse por su validez, comprensión y utilidad para decidir.",
+        "Que un modelo sea inadecuado no vuelve inútiles todas las herramientas. Un escenario o una sensibilidad bien planteados pueden ser suficientes. La respuesta es ajustar el esfuerzo al problema.",
+        "La responsabilidad de asignar capital requiere comprender los factores decisivos. Delegar la construcción técnica no elimina esa necesidad. Una decisión basada en una caja opaca puede ignorar riesgos importantes."
+      ]
+    },
+    {
+      "id": "c11-q047",
+      "tema": "Beta cero e incertidumbre",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene beta de activos igual a cero. ¿Sigue siendo útil analizar su sensibilidad?",
+      "opciones": [
+        "No, porque todos sus flujos futuros son conocidos con certeza.",
+        "No, porque ningún proyecto con beta cero puede tener VPN negativo.",
+        "Sí, pero debe descontarse a una tasa arbitraria para crear riesgo.",
+        "Sí, porque puede existir incertidumbre específica y errores de pronóstico aunque no haya exposición sistemática medida por beta."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Beta describe covariación con el mercado y no certeza absoluta. Un proyecto puede sufrir fallas técnicas propias. Esas incertidumbres siguen siendo relevantes para modelar flujos y decisiones.",
+        "El VPN también depende del precio de entrada y los flujos esperados. Pagar demasiado puede destruir valor aunque beta sea cero. La ausencia de prima sistemática no garantiza rentabilidad.",
+        "No hace falta inventar riesgo mediante la tasa. La sensibilidad ya estudia cómo cambian flujos y valor con los supuestos. El descuento debe seguir siendo coherente con el riesgo pertinente.",
+        "Beta cero no significa flujos seguros. La sensibilidad permite identificar supuestos decisivos y posibilidades de rediseño. El tratamiento del riesgo sistemático en la tasa es una cuestión distinta de entender la incertidumbre del proyecto."
+      ]
+    },
+    {
+      "id": "c11-q048",
+      "tema": "Equivalentes ciertos y descuento",
+      "dificultad": "avanzada",
+      "pregunta": "Si los flujos inciertos de un árbol ya fueron correctamente transformados en equivalentes ciertos, ¿qué tasa corresponde usar?",
+      "opciones": [
+        "La tasa contable de depreciación del activo.",
+        "La tasa libre de riesgo correspondiente a sus plazos.",
+        "La tasa riesgosa original más una prima adicional.",
+        "Siempre cero porque equivalente cierto significa disponible hoy."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La depreciación asigna un costo histórico entre períodos. No es una remuneración temporal del dinero. No sirve como tasa de descuento de flujos equivalentes ciertos.",
+        "El equivalente cierto incorpora en el flujo el ajuste por riesgo. Descontarlo a una tasa con otra prima contabilizaría nuevamente ese ajuste. La tasa libre de riesgo conserva la coherencia entre flujo y descuento.",
+        "Los flujos ya fueron ajustados por riesgo. Agregar una prima en el descuento duplicaría la penalización. Debe utilizarse la tasa libre de riesgo apropiada.",
+        "Certeza no implica cobro inmediato. Un flujo seguro futuro sigue teniendo valor temporal. Por eso debe descontarse a la tasa libre de riesgo."
+      ]
+    },
+    {
+      "id": "c11-q049",
+      "tema": "Definición de opciones reales",
+      "dificultad": "basica",
+      "pregunta": "¿Qué es una opción real en un proyecto de inversión?",
+      "opciones": [
+        "Un ajuste contable que aumenta automáticamente el patrimonio.",
+        "La posibilidad de adaptar una decisión futura sobre activos u operaciones según la información que aparezca.",
+        "Una obligación de ejecutar todas las ampliaciones previstas.",
+        "Cualquier beneficio que no pueda explicarse con flujos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La flexibilidad económica no depende de su registro contable. Algunas opciones valiosas no aparecen como activos separados. Su aporte surge de modificar decisiones y flujos futuros.",
+        "La empresa puede expandir, abandonar, esperar o modificar producción. Esa capacidad permite aprovechar estados favorables y limitar consecuencias desfavorables. Su valor debe relacionarse con acciones concretas y con el costo de obtener flexibilidad.",
+        "Una opción concede capacidad de elegir. Una obligación elimina parte de esa flexibilidad. La diferencia es decisiva cuando el entorno futuro puede empeorar.",
+        "Una opción debe tener consecuencias económicas identificables. Llamar intangible a un beneficio no demuestra su valor. Hay que especificar qué decisión permite tomar y en qué circunstancias."
+      ]
+    },
+    {
+      "id": "c11-q050",
+      "tema": "Opción de expansión y reservas",
+      "dificultad": "basica",
+      "pregunta": "Una aerolínea paga por reservar aviones que podrá comprar a un precio pactado, sin obligación de hacerlo. ¿Qué obtiene?",
+      "opciones": [
+        "Una compra obligatoria que elimina el riesgo de demanda.",
+        "Una opción de abandono de los aviones que ya posee.",
+        "Una garantía de que el precio de mercado de los aviones subirá.",
+        "Una opción de expansión que ejercerá si la capacidad adicional resulta económicamente conveniente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La reserva descrita no obliga a comprar. Tampoco garantiza clientes para la capacidad futura. Su utilidad es permitir adaptar la compra a la demanda observada.",
+        "Abandonar implica desprenderse o dejar de operar activos existentes. Aquí se asegura capacidad para adquirir activos adicionales. La flexibilidad corresponde a expansión.",
+        "El contrato fija una alternativa de compra. No determina los precios futuros del mercado. Puede ser útil aunque su función principal sea asegurar disponibilidad de capacidad.",
+        "La reserva asegura una posibilidad futura sin imponer la compra. Si la demanda no justifica ampliar, puede dejarla vencer. La conveniencia de adquirir la opción depende también de su precio y condiciones."
+      ]
+    },
+    {
+      "id": "c11-q051",
+      "tema": "Pilotos y oportunidades estratégicas",
+      "dificultad": "intermedia",
+      "pregunta": "Un piloto tiene VPN directo levemente negativo, pero permite aprender y decidir si entrar a gran escala. ¿Qué justificación financiera sería válida para aprobarlo?",
+      "opciones": [
+        "Que el valor incremental de las oportunidades futuras y del aprendizaje supere la pérdida directa y sus costos.",
+        "Que todo piloto estratégico debe aceptarse sin cuantificar beneficios.",
+        "Que el piloto obliga a expandirse incluso si fracasa.",
+        "Que su pérdida contable desaparece al llamarla inversión intangible."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El piloto puede abrir decisiones futuras valiosas. Esas decisiones deben describirse y valorarse sin contar beneficios dos veces. La palabra estratégico por sí sola no justifica un VPN directo negativo.",
+        "No cualquier aprendizaje vale más de lo que cuesta. Una etiqueta estratégica no demuestra creación de valor. Hay que identificar decisiones futuras y estimar su aporte incremental.",
+        "Esa obligación destruiría la posibilidad de aprender y detenerse. La opción valiosa permite condicionar la expansión al resultado. Comprometer toda la inversión desde el comienzo puede eliminar esa ventaja.",
+        "Cambiar la clasificación contable no modifica los flujos. Los accionistas soportan igualmente el costo económico. La justificación requiere beneficios futuros incrementales suficientes."
+      ]
+    },
+    {
+      "id": "c11-q052",
+      "tema": "Oportunidades de crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se relaciona el valor presente de oportunidades de crecimiento con las opciones reales?",
+      "opciones": [
+        "Exige ejecutar todas las inversiones futuras aunque tengan VPN negativo.",
+        "Solo existe cuando las opciones aparecen separadas en el balance.",
+        "Refleja oportunidades de invertir y expandirse de manera selectiva cuando aparecen proyectos que crean valor.",
+        "Es simplemente el valor contable de terrenos y máquinas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La selectividad es parte de su valor. Ejecutar proyectos destructivos por obligación reduce riqueza. Las oportunidades de crecimiento importan cuando permiten invertir convenientemente.",
+        "El registro contable no crea ni elimina la oportunidad económica. Muchas opciones reales no se reconocen por separado. Los inversores pueden valorarlas igualmente.",
+        "La empresa no está obligada a crecer a cualquier precio. Puede invertir más en estados favorables y menos en desfavorables. Esa flexibilidad ayuda a explicar que su valor exceda el de los activos físicos actuales.",
+        "Los activos actuales no agotan las oportunidades futuras. Una empresa puede tener capacidades o derechos que permitan nuevas inversiones rentables. El valor económico puede superar el importe contable de sus activos físicos."
+      ]
+    },
+    {
+      "id": "c11-q053",
+      "tema": "Regla de abandono",
+      "dificultad": "basica",
+      "pregunta": "Al decidir si abandonar hoy un proyecto, ¿qué comparación es relevante?",
+      "opciones": [
+        "La utilidad contable del último año frente a cero exclusivamente.",
+        "Solo el valor bruto de venta, sin costos de cierre.",
+        "El valor neto de salir frente al valor de continuar, ambos medidos hoy y con todos los efectos incrementales.",
+        "El precio original del activo frente a su depreciación acumulada exclusivamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El resultado pasado no mide el valor de continuar. Un negocio con pérdida reciente puede tener buenas perspectivas o activos vendibles. Se necesitan valores actuales comparables de las dos alternativas.",
+        "Salir puede implicar desmantelamiento, impuestos o recuperación ambiental. Ignorarlos sobrestima el valor de abandono. La comparación debe utilizar el ingreso neto de esos efectos.",
+        "La venta puede generar ingresos, impuestos y costos de cierre. Continuar aporta los flujos futuros que todavía pueden obtenerse. El desembolso pasado irrecuperable no debe obligar a elegir una alternativa de menor valor.",
+        "Esas cifras históricas no determinan el mejor uso actual. Pueden influir en impuestos, pero no sustituyen los flujos incrementales. Debe compararse lo que se obtiene o pierde desde hoy."
+      ]
+    },
+    {
+      "id": "c11-q054",
+      "tema": "Cálculo del valor de abandono",
+      "dificultad": "intermedia",
+      "pregunta": "Al final del año 1, continuar vale $120 si la demanda es alta y $30 si es baja, con probabilidades del 50%. Vender los activos permite recibir $50 netos en ese momento. Para este ejercicio la tasa es 0% y no se requiere otro ajuste por riesgo. ¿Cuánto agrega hoy la opción de vender?",
+      "opciones": [
+        "$10.",
+        "$20.",
+        "$50.",
+        "−$25."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sin venta, el valor esperado es 0,50 × 120 + 0,50 × 30 = 75. Con la opción se continúa en alta y se vende en baja, dando 0,50 × 120 + 0,50 × 50 = 85. La mejora es 10 y no cambia con el descuento porque la tasa es cero.",
+        "Es la mejora de vender en el estado de baja demanda. Ese estado ocurre solo la mitad de las veces. El valor esperado incremental es 0,50 × 20 = 10.",
+        "Es el ingreso de vender y no el valor incremental de la opción. Para recibirlo se renuncia al valor de continuar. Además, vender solo conviene en el estado de demanda baja.",
+        "Ese resultado compara vender siempre por 50 con continuar por un valor esperado de 75. La opción no obliga a vender siempre. La empresa elige el mejor resultado en cada estado."
+      ]
+    },
+    {
+      "id": "c11-q055",
+      "tema": "Activos estándar y valor de rescate",
+      "dificultad": "intermedia",
+      "pregunta": "Una tecnología especializada es algo más eficiente, pero no tiene mercado de reventa. Otra usa equipos estándar revendibles. ¿Qué debe incorporar la comparación?",
+      "opciones": [
+        "Solo el menor costo unitario a volumen previsto.",
+        "Un valor de rescate positivo para cualquier activo intangible.",
+        "La certeza de que los equipos estándar siempre son superiores.",
+        "El valor de la opción de abandonar con equipos estándar, además de sus costos operativos mayores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese criterio supone continuar en cualquier circunstancia. Omite el valor de recuperar recursos si el negocio fracasa. Puede favorecer indebidamente equipos especializados e irreversibles.",
+        "Los intangibles especializados pueden ser difíciles de vender. Incluso algunos activos tangibles tienen costos netos de cierre. El rescate debe estimarse según sus posibilidades reales y sus obligaciones.",
+        "La flexibilidad tiene valor, pero puede costar demasiado. Una tecnología especializada puede generar ventajas operativas mayores. Hay que cuantificar el balance y no imponer una preferencia universal.",
+        "La eficiencia prevista no agota el valor de una tecnología. Un mercado de segunda mano puede limitar pérdidas cuando la demanda es baja. Hay que comparar esa flexibilidad con los costos de operación y adquisición de cada alternativa."
+      ]
+    },
+    {
+      "id": "c11-q056",
+      "tema": "Opciones de producción",
+      "dificultad": "basica",
+      "pregunta": "Una planta puede alternar entre gas y otro combustible y fabricar dos productos con ajustes limitados. ¿Qué tipo de flexibilidad posee?",
+      "opciones": [
+        "Una garantía de vender ambos productos sin riesgo.",
+        "Opciones de producción para cambiar insumos o productos según las condiciones económicas.",
+        "Solo una opción de expansión porque puede cambiar de combustible.",
+        "Una obligación de usar siempre el insumo más caro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La flexibilidad no asegura demanda. Permite adaptarse cuando cambian las condiciones. Los riesgos comerciales siguen existiendo y deben modelarse.",
+        "La planta puede adaptar su operación a precios relativos y demanda. No está limitada a una única combinación de insumos y productos. El beneficio de esa flexibilidad debe compararse con sus costos de adquisición y cambio.",
+        "Expandir implica aumentar escala o capacidad. Cambiar insumos puede mejorar márgenes sin ampliar producción. Es una flexibilidad operativa distinta.",
+        "La posibilidad de alternar no impone una elección perjudicial. Permite seleccionar la alternativa conveniente dentro de restricciones técnicas. Su valor depende de ejercerla racionalmente."
+      ]
+    },
+    {
+      "id": "c11-q057",
+      "tema": "Opción de esperar",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué un proyecto con VPN positivo hoy podría no iniciarse inmediatamente?",
+      "opciones": [
+        "Porque esperar elimina toda incertidumbre sin costo.",
+        "Porque esperar puede ofrecer un valor actual mayor por aprendizaje o mejores condiciones futuras, considerando los costos de demorar.",
+        "Porque un VPN positivo demuestra que el proyecto está mal calculado.",
+        "Porque el mayor importe futuro siempre equivale al mayor valor actual."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La espera puede generar información, pero no certeza total. También puede perderse demanda, ventaja competitiva o flujos. Esos costos deben compararse con sus beneficios.",
+        "Tener VPN positivo muestra que invertir hoy crea valor frente a no hacerlo. No demuestra que hoy sea la mejor fecha disponible. La decisión debe comparar las alternativas temporales y la información que puede llegar.",
+        "Un proyecto puede tener VPN positivo correctamente estimado. La cuestión es si existe una alternativa temporal aún mejor. Posponer no implica que el cálculo inicial sea erróneo.",
+        "Un importe mayor puede llegar demasiado tarde. El costo de oportunidad reduce su valor presente. Deben descontarse las alternativas a una fecha común."
+      ]
+    },
+    {
+      "id": "c11-q058",
+      "tema": "Cálculo de la fecha óptima",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo certeza, un proyecto ofrece valores netos en la fecha de inicio de $100 si empieza hoy, $121 si empieza en un año y $132 si empieza en dos. La tasa es 10% y esos valores ya incluyen todas las consecuencias de cada fecha. ¿Cuándo conviene iniciarlo?",
+      "opciones": [
+        "Hoy porque cualquier VPN positivo obliga a invertir inmediatamente.",
+        "En dos años porque $132 es el importe más alto.",
+        "Es indiferente porque todas las alternativas son positivas.",
+        "En un año."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un VPN positivo no garantiza la mejor fecha. Esperar un año eleva el valor actual de 100 a 110. Hay que elegir entre todas las alternativas disponibles.",
+        "Es el mayor valor en su propia fecha. Al descontarlo dos años vale 109,09 hoy. El año 1 aporta un valor actual algo mayor.",
+        "Que todas creen valor no las vuelve equivalentes. Sus valores actuales son diferentes. La decisión busca el mayor aporte de valor y no solo uno positivo.",
+        "Los valores actuales son 100, 121 / 1,10 = 110 y 132 / 1,10² = 109,09. El mayor es 110 y corresponde al año 1. Aunque el importe futuro sigue creciendo, esperar otro año aumenta menos que el costo de capital."
+      ]
+    },
+    {
+      "id": "c11-q059",
+      "tema": "Tala y cosechas posteriores",
+      "dificultad": "avanzada",
+      "pregunta": "Al elegir cuándo talar un bosque renovable, una analista solo valora la primera cosecha. ¿Qué efecto importante podría estar omitiendo?",
+      "opciones": [
+        "Que adelantar la primera tala adelanta las siguientes, cuyo valor puede incorporarse mediante el valor del terreno tras la tala.",
+        "Que las cosechas posteriores no tienen valor porque todavía no se plantaron.",
+        "Que debe sumarse el valor de todas las cosechas y también un terreno que ya las incorpora.",
+        "Que siempre conviene esperar mientras crezca el volumen de madera."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La fecha inicial afecta la secuencia futura de producción. Ignorar ese vínculo puede cambiar la fecha óptima. Puede modelarse toda la sucesión o incluir un valor terminal del terreno coherente con las cosechas posteriores.",
+        "Los flujos futuros pueden tener valor antes de existir físicamente. El terreno conserva la capacidad de producir nuevas cosechas. Esa oportunidad debe incluirse si cambia entre alternativas.",
+        "Eso contaría dos veces los mismos beneficios. El valor terminal puede resumir las cosechas posteriores. Debe utilizarse una representación completa y sin duplicaciones.",
+        "El crecimiento físico no basta para justificar la espera. Importan precios, costos, descuento y próximas cosechas. Una ganancia futura positiva puede ser insuficiente frente al costo de oportunidad."
+      ]
+    },
+    {
+      "id": "c11-q060",
+      "tema": "Nodos de árboles de decisión",
+      "dificultad": "basica",
+      "pregunta": "En la convención usada para representar un árbol de decisiones, ¿qué indican cuadrados y círculos?",
+      "opciones": [
+        "Ambos son decisiones y todas las ramas deben ejecutarse.",
+        "Ambos son flujos contables sin relación con probabilidades.",
+        "Los cuadrados son decisiones de la empresa y los círculos son resultados inciertos.",
+        "Los cuadrados son resultados inciertos y los círculos son decisiones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un árbol distingue elecciones de eventos inciertos. Las ramas de decisión suelen ser alternativas y no obligaciones simultáneas. Ejecutarlas todas cambia el problema representado.",
+        "Los nodos organizan eventos y decisiones. Los flujos se asocian a fechas y ramas. Las probabilidades son esenciales para valorar los nodos de azar.",
+        "En una decisión se elige entre acciones disponibles. En un nodo de azar se ponderan resultados por sus probabilidades. Distinguirlos evita tratar una elección gerencial como un hecho aleatorio.",
+        "Esta respuesta invierte la convención. Los cuadrados representan elecciones de la empresa. Los círculos muestran eventos que no controla directamente."
+      ]
+    },
+    {
+      "id": "c11-q061",
+      "tema": "Probabilidad condicional y conjunta",
+      "dificultad": "intermedia",
+      "pregunta": "La probabilidad de demanda alta en el año 1 es 60%. Si fue alta, la probabilidad de demanda alta en el año 2 es 75%; si fue baja, es 25%. ¿Cuál es la probabilidad de demanda alta en ambos años?",
+      "opciones": [
+        "60%.",
+        "50%.",
+        "45%.",
+        "75%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Es la probabilidad de alta demanda del primer año solamente. La pregunta exige que se cumplan dos eventos. La rama conjunta incorpora también la probabilidad condicional del segundo.",
+        "Ese es el promedio ponderado de alta demanda en el año 2: 0,60 × 0,75 + 0,40 × 0,25. Incluye casos con baja demanda en el año 1. No coincide con la probabilidad de alta en ambos años.",
+        "Para recorrer la rama alta-alta se multiplica 0,60 por 0,75. El resultado es 0,45 o 45%. La probabilidad del segundo año es condicional al resultado del primero.",
+        "Es la probabilidad del segundo año sabiendo que el primero fue alto. Todavía falta considerar la probabilidad de alcanzar esa condición. Multiplicar por 60% da 45%."
+      ]
+    },
+    {
+      "id": "c11-q062",
+      "tema": "Resolución hacia atrás",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo se resuelve un árbol de decisiones para elegir la inversión inicial?",
+      "opciones": [
+        "Desde el final hacia el presente, eligiendo la mejor acción en cada decisión y ponderando los nodos de azar.",
+        "Eligiendo la rama con el mayor pago final sin considerar probabilidades.",
+        "Promediando todas las acciones gerenciales como si fueran sorteos.",
+        "Fijando todas las decisiones antes de observar información futura."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Primero se determina qué convendrá hacer con la información disponible en cada nodo futuro. Luego se incorpora ese valor a los nodos anteriores con el descuento correspondiente. Así la decisión inicial refleja una política futura adaptable.",
+        "Un pago elevado puede ser muy improbable o exigir costos altos. No representa por sí solo el valor de una estrategia. Deben considerarse probabilidades, desembolsos y fechas.",
+        "Las acciones se eligen y no se sortean. En un nodo de decisión corresponde escoger la alternativa de mayor valor. Los promedios probabilísticos se utilizan en nodos de azar.",
+        "Eso elimina la adaptación que el árbol busca representar. Una política puede especificar qué hacer según el estado observado. La resolución hacia atrás reconoce ese valor de flexibilidad."
+      ]
+    },
+    {
+      "id": "c11-q063",
+      "tema": "Decisión de expansión en un nodo",
+      "dificultad": "avanzada",
+      "pregunta": "En el año 1, una empresa puede pagar $100 para expandirse. En el año 2, los cobros equivalentes ciertos de expansión son $440 o $110, con probabilidades de 75% y 25%. Sin expansión, son $220 o $110 con iguales probabilidades. La tasa libre de riesgo es 10%. ¿Cuánto mejora expandirse el valor del nodo del año 1?",
+      "opciones": [
+        "$225.",
+        "$150.",
+        "Aproximadamente $45,45.",
+        "$50."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Es el valor total de la alternativa de expansión. La empresa ya tiene una alternativa sin expansión que vale 175. La mejora incremental es la diferencia de 50.",
+        "Es el valor presente del incremento bruto de cobros de 165. Falta pagar 100 en el año 1. Después de ese costo, la ventaja es 50.",
+        "Es el valor en el año 0 de una mejora segura de 50 en el año 1. La pregunta pide el valor en el propio nodo del año 1. No corresponde descontar otro período todavía.",
+        "Expandirse vale −100 + (0,75 × 440 + 0,25 × 110) / 1,10 = 225 en el año 1. No expandirse vale (0,75 × 220 + 0,25 × 110) / 1,10 = 175. La mejora de 50 justifica expandirse en ese nodo."
+      ]
+    },
+    {
+      "id": "c11-q064",
+      "tema": "Valor inicial de una opción de expansión",
+      "dificultad": "avanzada",
+      "pregunta": "En el año 1 habrá 40% de probabilidad de un nodo donde poder expandirse mejora el valor en $55; en los otros nodos no agrega nada. Para este ejercicio esos valores ya están ajustados por riesgo y la tasa libre de riesgo es 10%. ¿Cuánto agrega hoy la opción?",
+      "opciones": [
+        "$50.",
+        "$20.",
+        "$55.",
+        "$22."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Descuenta correctamente los 55, pero los trata como ciertos. La mejora solo aparece en el 40% de los casos. Multiplicar 50 por 0,40 da el valor correcto de 20.",
+        "La mejora esperada ajustada en el año 1 es 0,40 × 55 = 22. Descontarla un período da 22 / 1,10 = 20. Es el valor incremental respecto del mismo proyecto sin posibilidad de expansión.",
+        "Es la mejora en el nodo favorable y en una fecha futura. Ese nodo no ocurre con certeza. Hay que ponderar su probabilidad y descontar.",
+        "Es la mejora esperada medida en el año 1. Todavía falta llevarla al presente. Con tasa del 10%, su valor actual es 20."
+      ]
+    },
+    {
+      "id": "c11-q065",
+      "tema": "Espera, aprendizaje e irreversibilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una minera tiene un proyecto marginalmente positivo, inversión difícil de recuperar y nueva información de precios disponible pronto. ¿Qué análisis es más adecuado?",
+      "opciones": [
+        "Suponer que cerrar recupera toda la inversión incluso sin mercado de reventa.",
+        "Comparar invertir ahora con esperar y decidir luego, incluyendo información, flujos perdidos y posibilidad de abandonar.",
+        "Invertir de inmediato porque cualquier VPN positivo domina todas las alternativas.",
+        "Esperar siempre porque más incertidumbre garantiza mayor VPN total."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cerrar puede evitar pérdidas futuras sin recuperar el desembolso pasado. También puede exigir gastos de restauración. El valor de salida debe estimarse y no equipararse al costo histórico.",
+        "La irreversibilidad vuelve valioso evitar una mala inversión. Esperar puede mejorar la decisión, pero también tiene costos y riesgos competitivos. Las opciones de esperar y cerrar deben modelarse conjuntamente sin suponer que ambas son gratuitas en términos económicos.",
+        "El VPN positivo solo supera a no invertir bajo esa comparación. Esperar puede tener mayor valor si permite evitar pérdidas. Hay que valorar alternativas temporales y flexibilidad.",
+        "La incertidumbre puede aumentar el valor de ciertas opciones sin mejorar el proyecto base. La espera también puede perder ingresos u oportunidades. No hay una regla universal de demorar."
+      ]
+    },
+    {
+      "id": "c11-q066",
+      "tema": "Complejidad y poda del árbol",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo debería juzgarse la calidad de un árbol de decisiones de inversión?",
+      "opciones": [
+        "Por incluir la mayor cantidad posible de ramas.",
+        "Por eliminar todas las probabilidades para simplificar.",
+        "Por mostrar solo el flujo medio y ocultar decisiones futuras.",
+        "Por si representa los vínculos decisivos entre información, acciones y valor, manteniendo una complejidad manejable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Más ramas pueden dificultar la comprensión sin mejorar la decisión. La exhaustividad mecánica no garantiza calidad. Deben priorizarse eventos y acciones económicamente relevantes.",
+        "Sin probabilidades no pueden ponderarse adecuadamente nodos de azar. Simplificar no significa quitar información necesaria. Conviene conservar las incertidumbres que cambian la decisión.",
+        "Eso pierde el vínculo entre información y adaptación. Una misma media puede esconder políticas con valores diferentes. El árbol sirve justamente para explicitar esas elecciones.",
+        "Un árbol no puede describir cada detalle del futuro. Su utilidad reside en hacer explícitas las decisiones que cambian resultados. La simplificación debe conservar los vínculos importantes y no buscar exhaustividad sin propósito."
+      ]
+    },
+    {
+      "id": "c11-q067",
+      "tema": "Colas de simulación y estrategia implícita",
+      "dificultad": "avanzada",
+      "pregunta": "Una simulación obliga a operar diez años aunque haya pérdidas extremas y tampoco permite expandirse en el éxito. ¿Cómo interpretar sus colas?",
+      "opciones": [
+        "Con cautela: pueden exagerar pérdidas y omitir ganancias porque no representan respuestas gerenciales plausibles.",
+        "Como probabilidades definitivas de desastre y éxito porque provienen de muchas iteraciones.",
+        "Como prueba de que ninguna simulación puede incorporar opciones reales.",
+        "Como evidencia de que expandirse y abandonar tienen exactamente el mismo efecto."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una política pasiva puede continuar negocios que en la práctica se cerrarían. También puede desaprovechar oportunidades de ampliar producción. Se necesitan reglas de decisión explícitas o árboles compatibles antes de interpretar esas colas como probabilidades realistas.",
+        "Muchas muestras no vuelven realista una política empresarial inadecuada. Las colas dependen especialmente de decisiones ante situaciones extremas. El modelo debe representar esas respuestas.",
+        "Una simulación puede incluir reglas de continuar, detener o expandir. La limitación proviene del diseño pasivo descrito. Es posible combinar estrategias adaptables con Monte Carlo.",
+        "Abandonar limita ciertos resultados desfavorables. Expandirse aprovecha estados favorables y puede ampliar la exposición. Sus efectos sobre flujos y riesgo no son idénticos y requieren valoración propia."
+      ]
+    },
+    {
+      "id": "c11-q068",
+      "tema": "Inflación y flujos nominales",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto inmobiliario presenta alquileres, costos e inversiones en moneda constante y una tasa de descuento nominal. ¿Qué criterio conserva la consistencia de la evaluación?",
+      "opciones": [
+        "Inflar solo los ingresos y mantener reales todos los costos que también ajustan por inflación.",
+        "Suponer que la inflación nunca afecta el VPN porque todos los precios suben.",
+        "Proyectar flujos nominales completos y descontarlos con tasa nominal, o construir flujos reales consistentes y usar tasa real.",
+        "Descontar directamente todos los flujos reales con la tasa nominal sin ajustes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Eso crea una mejora artificial del margen. Cada partida debe seguir el supuesto de ajuste que corresponda. Si también se encarecen costos e inversiones, deben reflejarse en el escenario.",
+        "La inflación puede modificar impuestos, depreciación real y desembolsos en fechas distintas. Los contratos tampoco necesariamente ajustan igual. Su impacto requiere un modelo coherente de cada componente.",
+        "No deben mezclarse unidades monetarias de distinto poder adquisitivo. Los impuestos y la depreciación fiscal requieren especial atención al convertir el modelo. Si distintos componentes ajustan de manera diferente, no basta inflar o deflactar una utilidad agregada sin revisar sus partes.",
+        "La tasa nominal incorpora inflación y los flujos reales no. Mezclarlos penaliza el valor temporal de manera inconsistente. Debe llevarse tasa y flujos a una misma base."
+      ]
+    },
+    {
+      "id": "c11-q069",
+      "tema": "Terreno, depreciación y rentas variables",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista evalúa un centro comercial con alquiler fijo más una participación en ventas. El terreno no es fiscalmente depreciable y conserva valor. ¿Qué tratamiento es adecuado?",
+      "opciones": [
+        "Depreciar fiscalmente el terreno porque fue comprado para el proyecto.",
+        "Omitir el terreno tanto al inicio como al final porque conserva su valor.",
+        "Separar las dos fuentes de ingresos, depreciar solo los activos admitidos y considerar el valor recuperable del terreno al final.",
+        "Reducir todos los alquileres en el mismo porcentaje que las ventas aunque el contrato fijo no cambie."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La compra no lo vuelve depreciable bajo el supuesto indicado. Deducir una depreciación no permitida crea un escudo fiscal ficticio. Debe tratarse por separado de la construcción.",
+        "Conservar valor no elimina el capital comprometido durante años. El desembolso inicial y la recuperación futura ocurren en fechas distintas. Ambos deben incluirse y descontarse adecuadamente.",
+        "La participación en ventas expone ingresos a la actividad de los locales de forma distinta al alquiler fijo. El terreno no genera el escudo de una depreciación no permitida. Su valor de salida debe incluirse con los impuestos y costos que correspondan, sin omitir la inversión inicial.",
+        "Las dos fuentes tienen mecanismos diferentes. Una caída de ventas afecta directamente la participación, pero no necesariamente el alquiler fijo. El modelo debe respetar las condiciones contractuales."
+      ]
+    },
+    {
+      "id": "c11-q070",
+      "tema": "Sobrecostos y retrasos de construcción",
+      "dificultad": "avanzada",
+      "pregunta": "Un centro comercial podría sufrir sobrecostos y demorar un año su apertura. ¿Qué revisión debería hacer la dirección financiera?",
+      "opciones": [
+        "Reconstruir el calendario de inversión y operación, recalcular impuestos y depreciación, y comparar el VPN bajo escenarios coherentes.",
+        "Restar únicamente el sobrecosto nominal al VPN original y dejar iguales todas las fechas.",
+        "Mantener la depreciación desde la fecha original aunque el supuesto sea comenzar al operar.",
+        "Bajar la tasa de descuento hasta que el escenario vuelva a tener VPN positivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El retraso desplaza cobros y puede prolongar costos previos a la apertura. Los sobrecostos cambian desembolsos y posiblemente la base depreciable. Debe distinguirse cada efecto y comprobar también cuánto pueden caer las ventas antes de que el VPN sea cero.",
+        "Ese ajuste puede omitir el descuento del desembolso y sus efectos fiscales. Tampoco captura ingresos demorados ni costos adicionales de espera. Hay que rehacer el calendario de flujos afectados.",
+        "Eso anticipa un ahorro fiscal incompatible con el supuesto. Si cambia el inicio de operaciones, debe revisarse el comienzo de depreciación. El calendario fiscal debe ser consistente con el escenario.",
+        "La tasa no es una variable para forzar aceptación. Debe representar el costo de oportunidad y el riesgo aplicable. Los problemas de costos y fechas se reflejan en los flujos correspondientes."
+      ]
+    }
+  ]
+}

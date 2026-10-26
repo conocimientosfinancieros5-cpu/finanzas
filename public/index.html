@@ -1,24 +1,20 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="Finanzas">
-  <meta name="theme-color" content="#14532d">
-  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
-  <link rel="manifest" href="/manifest.webmanifest">
-  <title>Finanzas</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Finanzas">
+<meta name="theme-color" content="#14532d">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="stylesheet" href="/styles.css">
+<script src="/app.js" defer></script>
+<title>Finanzas</title>
 </head>
 <body>
-  <main>
-    <h1>Finanzas</h1>
-    <p>En construcción</p>
-  </main>
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js').catch(console.error);
-    }
-  </script>
+<main id="app" aria-busy="true"><h1>Finanzas</h1><p>Cargando capítulos…</p></main>
+<p id="storage-status" role="status"></p>
+<script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js').catch(console.error);</script>
 </body>
 </html>

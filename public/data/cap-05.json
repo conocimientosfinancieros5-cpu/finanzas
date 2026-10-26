@@ -1,0 +1,1336 @@
+{
+  "capitulo": 5,
+  "titulo": "Valuación de acciones ordinarias",
+  "preguntas": [
+    {
+      "id": "c05-q001",
+      "tema": "Propiedad y mercados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa una acción ordinaria y qué diferencia al mercado primario del secundario?",
+      "opciones": [
+        "Un préstamo; ambas operaciones aumentan la deuda de la emisora.",
+        "Una participación; toda compraventa bursátil aporta efectivo a la empresa.",
+        "Una participación en la empresa; en el primario la emisora recibe fondos y en el secundario se transfieren títulos existentes.",
+        "Un dividendo fijo obligatorio; el primario revende acciones usadas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se confunde capital propio con deuda. Una acción ordinaria no promete devolver un préstamo. La reventa entre inversores tampoco crea deuda para la emisora.",
+        "La propiedad está bien identificada, pero el destino del dinero no. En una reventa cobra quien vende las acciones. La empresa recibe fondos al colocar una emisión propia.",
+        "La acción representa propiedad y derechos económicos proporcionales. Una emisión primaria aporta capital nuevo a la empresa. En una reventa secundaria cobra el accionista vendedor.",
+        "La acción ordinaria no promete un dividendo fijo obligatorio. La reventa corresponde al mercado secundario. El primario coloca títulos nuevos."
+      ]
+    },
+    {
+      "id": "c05-q002",
+      "tema": "Subastas e intermediarios",
+      "dificultad": "basica",
+      "pregunta": "En los mecanismos históricos del período estudiado, ¿qué distingue a un mercado de subastas de uno de intermediarios?",
+      "opciones": [
+        "El primero reúne órdenes; en el segundo se negocia con operadores que cotizan precios de compra y venta.",
+        "La subasta vende sólo acciones nuevas y el otro mercado sólo acciones usadas.",
+        "Una subasta exige un recinto físico y nunca puede ser electrónica.",
+        "Los intermediarios garantizan que ninguna acción pierda valor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La distinción se refiere al mecanismo de negociación. Una subasta cruza órdenes mediante una persona o una computadora. En el otro sistema los intermediarios ofrecen precios a los que están dispuestos a operar.",
+        "Se mezclan dos clasificaciones diferentes. Primario y secundario distinguen emisión y reventa. Subasta e intermediarios describen cómo se ejecutan las operaciones.",
+        "Una computadora también puede reunir y ejecutar órdenes. La subasta no depende de un piso de remates. Su característica es la forma de reunir compradores y vendedores.",
+        "Cotizar precios no asegura una rentabilidad. La acción sigue expuesta al desempeño empresarial y a las noticias. El mecanismo de negociación no elimina ese riesgo."
+      ]
+    },
+    {
+      "id": "c05-q003",
+      "tema": "Órdenes y especialistas",
+      "dificultad": "intermedia",
+      "pregunta": "Un especialista recibe una orden limitada de compra sin vendedores al precio indicado. ¿Qué conducta es compatible con su función?",
+      "opciones": [
+        "Obligar a la empresa a emitir nuevas acciones.",
+        "Comprar a cualquier precio para asegurar ejecución inmediata.",
+        "Crear un dividendo para compensar la espera.",
+        "Buscar contraparte, ofrecer inventario propio o registrar la orden pendiente respetando el límite."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El especialista no decide las emisiones. Está organizando una operación entre participantes del mercado. Debe buscar liquidez compatible o esperar.",
+        "Una orden limitada fija una restricción de precio. La urgencia no permite ignorarla. La orden puede quedar pendiente si no hay una oferta compatible.",
+        "El dividendo es una distribución decidida por la empresa. El especialista no lo determina para resolver órdenes. Su función es facilitar la compraventa.",
+        "El especialista facilita la negociación y puede aportar liquidez. Si encuentra una contraparte compatible, ejecuta la orden. Si no la encuentra, debe respetar el límite y mantenerla pendiente según sus condiciones."
+      ]
+    },
+    {
+      "id": "c05-q004",
+      "tema": "Lectura de cotizaciones",
+      "dificultad": "basica",
+      "pregunta": "Una acción cierra a $40, subió $2, paga $2 anuales y tiene P/U de 20. El volumen figura como 1.500 centenas. ¿Cuál es la lectura correcta?",
+      "opciones": [
+        "Cierre previo $42; rendimiento del dividendo 5%; UPA $2; volumen 150.000 acciones.",
+        "Cierre previo $38; rendimiento del dividendo 5%; UPA implícita $2; volumen 150.000 acciones.",
+        "Cierre previo $38; rendimiento del dividendo 20%; UPA $800; volumen 150.000 acciones.",
+        "Cierre previo $38; rendimiento del dividendo 5%; UPA $2; volumen 1.500 acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una variación positiva indica que el cierre actual supera al previo. Se debe restar el aumento para recuperar el anterior. El cierre previo es $38 y no $42.",
+        "El cierre anterior es 40 − 2 = $38 y el rendimiento del dividendo es 2/40 = 5%. La UPA usada en el múltiplo es 40/20 = $2. El volumen es 1.500 × 100 = 150.000 acciones.",
+        "El rendimiento se obtiene dividiendo dividendo por precio. La UPA se obtiene dividiendo precio por P/U y no multiplicándolos. Las cifras correctas son 5% y $2.",
+        "Esta lectura omite la unidad del volumen. Cada unidad publicada representa cien acciones. El total negociado es 150.000 acciones."
+      ]
+    },
+    {
+      "id": "c05-q005",
+      "tema": "Capitalización y participación",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se relacionan la capitalización bursátil, el precio de una acción y la participación de un accionista?",
+      "opciones": [
+        "La capitalización es la cantidad de acciones y la participación aumenta automáticamente cuando sube la cotización.",
+        "La capitalización es precio por cantidad de acciones; la participación es acciones poseídas sobre acciones totales.",
+        "La capitalización es el último dividendo total y la participación depende del ROE.",
+        "La capitalización es precio por acciones totales y la participación es valor de la tenencia dividido por el dividendo total."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cantidad de acciones no incorpora su precio y por eso no mide el valor de mercado. Una suba de cotización aumenta el valor monetario de la tenencia. No modifica por sí sola la proporción de propiedad.",
+        "El valor del capital propio se obtiene multiplicando todas las acciones por su precio unitario. La fracción de propiedad depende de cuántas acciones se poseen respecto del total. Por ejemplo, 20.000 sobre 8 millones representan 0,25%, independientemente de si cada acción cotiza a $25 o a otro precio.",
+        "El dividendo es un flujo de distribución y no el valor agregado del capital propio. El ROE mide rentabilidad contable y no derechos de propiedad. Para determinar estos últimos se comparan acciones poseídas con acciones totales.",
+        "La primera parte identifica correctamente el valor de mercado del capital propio. Pero dividir una tenencia por un dividendo mezcla un valor de capital con un flujo anual. La participación se calcula con acciones o con valores de mercado comparables de la misma fecha."
+      ]
+    },
+    {
+      "id": "c05-q006",
+      "tema": "ETF y fondos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción de los ETF y los fondos es correcta?",
+      "opciones": [
+        "Todo ETF representa una única empresa y todo fondo cerrado invierte en un país.",
+        "Las cuotas de un fondo abierto sólo se compran a otro inversor en bolsa.",
+        "Un ETF que replica un índice garantiza recuperar el capital.",
+        "Un ETF permite negociar una cartera en una operación; un fondo cerrado cotiza y en uno abierto se suscribe o rescata con el fondo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El ETF da exposición a una cartera. Los fondos cerrados pueden aplicar estrategias diversas. El vehículo de inversión no obliga a esa especialización.",
+        "Se confunde al fondo abierto con participaciones cotizadas. En el abierto se suscribe y rescata directamente con el fondo. Por eso cambia quién recibe o entrega el dinero.",
+        "El índice puede bajar. La cartera que lo sigue también puede perder valor. El vehículo facilita negociar una exposición pero no garantiza rentabilidad.",
+        "Un ETF puede seguir un índice, una industria o una materia prima. Las participaciones de fondos cerrados se negocian entre inversores y algunos se especializan en países. En un fondo abierto se realizan suscripciones y rescates directamente con el fondo."
+      ]
+    },
+    {
+      "id": "c05-q007",
+      "tema": "Rendimiento total",
+      "dificultad": "basica",
+      "pregunta": "Una acción cuesta $80 y se esperan un dividendo de $4 y un precio exdividendo de $88 dentro de un año. ¿Cuál es su rendimiento esperado?",
+      "opciones": [
+        "15%.",
+        "5%.",
+        "10%.",
+        "13,64%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La ganancia de capital esperada es 88 − 80 = $8. Se suma el dividendo de $4 y se obtiene $12. Dividir 12 por la inversión inicial de 80 da 15%.",
+        "El cociente 4/80 mide sólo el dividendo. Falta sumar la apreciación de $8. El total esperado es 5% + 10% = 15%. Al excluir la variación del precio se confunde rendimiento por dividendos con rendimiento total.",
+        "El 10% mide únicamente la apreciación. El accionista también recibe un dividendo de $4. Incorporarlo eleva el rendimiento total al 15%.",
+        "Esta cifra divide la ganancia de $12 por el precio final de $88. La base correcta es el capital comprometido al inicio. Dividir por $80 da 15%."
+      ]
+    },
+    {
+      "id": "c05-q008",
+      "tema": "Precio de un período",
+      "dificultad": "basica",
+      "pregunta": "Se esperan $3 de dividendo y un precio exdividendo de $63 al final del año. Alternativas del mismo riesgo rinden 10% esperado. ¿Cuánto vale hoy la acción?",
+      "opciones": [
+        "$66.",
+        "$57,27.",
+        "$60.",
+        "$63."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La suma corresponde al valor futuro. Falta reconocer el año de espera. El descuento al 10% reduce su valor actual a $60. Pagar $66 hoy por cobrar $66 dentro de un año daría rendimiento cero, incompatible con la tasa requerida.",
+        "Se descontó solamente el precio de reventa. También se recibe el dividendo de $3. Debe descontarse el total de $66. El dividendo omitido tiene un valor presente de 3/1,10 y explica la diferencia con el precio correcto.",
+        "El valor esperado al final del año es 3 + 63 = $66. Debe descontarse al costo de oportunidad del 10%. P0 = 66/1,10 = $60. Con ese precio, la ganancia esperada de $6 sobre $60 remunera exactamente la alternativa del mismo riesgo.",
+        "El precio futuro no equivale automáticamente al actual. Hay que agregar el dividendo y descontar ambos conceptos. El valor actual conjunto es $60."
+      ]
+    },
+    {
+      "id": "c05-q009",
+      "tema": "Costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué tasa corresponde para descontar los dividendos esperados de una acción?",
+      "opciones": [
+        "La tasa de cualquier depósito, aunque sea mucho más seguro.",
+        "El ROE histórico sin considerar al mercado.",
+        "La fracción de utilidades distribuida.",
+        "El rendimiento esperado de alternativas de inversión de riesgo equivalente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una inversión más segura no constituye una alternativa comparable. Usar su tasa puede sobrevaluar una acción riesgosa. El descuento debe reflejar riesgo equivalente.",
+        "El ROE relaciona utilidad contable con capital contable. El costo de capital surge de alternativas de inversión. Ambas tasas pueden diferir y cumplen funciones distintas.",
+        "La razón de pago describe una política de distribución. Sirve para proyectar dividendos. No mide el costo de oportunidad con que se descuentan.",
+        "La tasa representa el costo de oportunidad del capital propio. Refleja la compensación exigida para ese tiempo y riesgo. No garantiza el rendimiento realizado ni equivale necesariamente al ROE."
+      ]
+    },
+    {
+      "id": "c05-q010",
+      "tema": "Equilibrio competitivo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué igualdad caracteriza a acciones de la misma clase de riesgo en equilibrio competitivo?",
+      "opciones": [
+        "Igual dividendo por acción.",
+        "Igual rendimiento esperado, aunque precios, dividendos y resultados efectivos difieran.",
+        "Igual rendimiento efectivo cada año.",
+        "Igual precio por acción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los dividendos dependen de los resultados y de la distribución. Pagos distintos pueden ofrecer igual rentabilidad con precios distintos. El equilibrio iguala rendimientos esperados.",
+        "Los inversores comparan oportunidades de igual riesgo. La reasignación de fondos ajusta precios hasta igualar rendimientos esperados. No exige importes ni resultados realizados idénticos.",
+        "Las expectativas preceden a las noticias. Los acontecimientos posteriores pueden producir resultados diferentes. La igualdad se refiere al rendimiento esperado.",
+        "El precio depende de los flujos asociados a cada acción. También cambia al dividir el capital en más unidades. La condición competitiva iguala tasas y no precios unitarios."
+      ]
+    },
+    {
+      "id": "c05-q011",
+      "tema": "Ajuste de precios",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora observa un rendimiento esperado menor al de acciones de igual riesgo, con pronósticos de flujos dados. ¿Qué ajuste es coherente con el equilibrio?",
+      "opciones": [
+        "La compra subiría el precio y elevaría el rendimiento esperado.",
+        "La empresa debería aumentar por contrato su dividendo ordinario.",
+        "La venta tendería a bajar el precio hasta que el rendimiento esperado sea competitivo.",
+        "No habría ajuste porque sólo interesa el dividendo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Con flujos fijos, un precio mayor reduce el rendimiento esperado. La suba agravaría la desventaja inicial. El ajuste coherente requiere una baja del precio.",
+        "Las acciones ordinarias no prometen ajustar dividendos para asegurar una rentabilidad. El desequilibrio puede corregirse por el precio. Modificar la distribución es una decisión diferente.",
+        "Un precio elevado reduce el rendimiento que generan ciertos flujos. Los inversores prefieren alternativas de igual riesgo con mayor rendimiento esperado. La presión vendedora baja el precio y eleva la tasa implícita.",
+        "El inversor considera el rendimiento total esperado. También importa la ganancia o pérdida de capital. Una diferencia de rendimiento para igual riesgo incentiva reasignar fondos."
+      ]
+    },
+    {
+      "id": "c05-q012",
+      "tema": "Recursión y ganancias de capital",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un modelo basado en dividendos futuros puede incorporar las ganancias de capital?",
+      "opciones": [
+        "Porque el precio de reventa se determina a su vez por los dividendos posteriores y otro precio de reventa.",
+        "Porque el precio de reventa es siempre igual al próximo dividendo.",
+        "Porque las ganancias de capital se suman a todos los dividendos perpetuos como fuente independiente.",
+        "Porque vender elimina los derechos económicos de la acción."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La relación de un período se aplica en cada fecha. Por ejemplo, P1 = (DIV2 + P2)/(1 + r). Sustituir precios sucesivos permite expresar el valor actual mediante los pagos futuros sin ignorar las ventas.",
+        "El dividendo siguiente es sólo una parte del valor recibido. También queda la acción después del pago. Deben sumarse ambos conceptos y descontarse un período.",
+        "El precio de reventa ya representa pagos posteriores. Sumarlo a todos los dividendos futuros duplicaría valor. Se usan dividendos hasta la venta más el precio de venta, o la corriente completa de dividendos.",
+        "Los derechos se transfieren al comprador. Esa continuidad explica por qué existe un precio de reventa. La sustitución recursiva sigue los flujos entre tenedores sucesivos."
+      ]
+    },
+    {
+      "id": "c05-q013",
+      "tema": "Horizonte de inversión",
+      "dificultad": "intermedia",
+      "pregunta": "Dos inversores comparten pronósticos y tasa requerida, pero venderán dentro de uno y cinco años. ¿Qué implica el modelo?",
+      "opciones": [
+        "Quien vende antes debe pagar menos porque cobra menos dividendos directamente.",
+        "Quien mantiene más tiempo puede ignorar el descuento.",
+        "La misma valuación actual si los precios de reventa son coherentes con los dividendos posteriores.",
+        "El modelo exige mantener las acciones para siempre."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Falta considerar lo que recibe al vender. Ese precio representa los dividendos que cobrará el comprador siguiente. La menor cantidad de dividendos directos no implica menor valor actual.",
+        "El plazo no elimina el costo de oportunidad. Cada flujo debe descontarse según su fecha. Mantener la acción más tiempo no autoriza sumar importes de fechas distintas.",
+        "Un horizonte corto incluye menos dividendos explícitos y más valor de reventa. Un horizonte largo modifica esa descomposición. El valor presente total no cambia por el plazo personal de tenencia.",
+        "Puede utilizarse un horizonte finito con un precio terminal. La expresión perpetua se obtiene extendiendo esa relación. Ningún inversor individual necesita conservar el título indefinidamente."
+      ]
+    },
+    {
+      "id": "c05-q014",
+      "tema": "Valuación de dos períodos",
+      "dificultad": "intermedia",
+      "pregunta": "Se esperan dividendos de $5 al final de los años 1 y 2 y un precio exdividendo de $105 al final del año 2. Con r = 10%, ¿cuál es P0?",
+      "opciones": [
+        "$115,00.",
+        "$104,55.",
+        "$91,32.",
+        "$95,45."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se suman cobros sin descontarlos. Los $5 del primer año y los $110 del segundo ocurren en fechas distintas. Deben llevarse por separado a valor presente.",
+        "Esta cifra descuenta los $115 un solo año. El cobro de $110 ocurre al final del segundo. Su descuento requiere dos períodos y reduce el total a $95,45.",
+        "Esta cuenta usa 5/1,10 + 105/1,10². Omite el dividendo del año 2. El precio es exdividendo, por lo que ese pago debe agregarse.",
+        "En el año 1 se reciben $5. En el año 2 se reciben $5 de dividendo más $105 al vender. La cuenta es 5/1,10 + 110/1,10² = $95,45, sin redondear los pasos intermedios."
+      ]
+    },
+    {
+      "id": "c05-q015",
+      "tema": "Límite del valor terminal",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué condición permite pasar de dividendos más precio terminal a una suma infinita sólo de dividendos?",
+      "opciones": [
+        "Que el precio nominal futuro necesariamente caiga a cero.",
+        "Que el valor presente del precio terminal tienda a cero, sin un componente de precio independiente de los pagos.",
+        "Que ningún inversor venda sus acciones.",
+        "Que los dividendos superen siempre a las utilidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El precio nominal puede aumentar y su valor presente disminuir. Lo decisivo es cómo crece frente al factor de descuento. No se exige que desaparezca el precio nominal.",
+        "La fórmula finita siempre contiene el precio terminal descontado. Para omitirlo al extender el horizonte, ese término debe desaparecer. Con crecimiento constante y r mayor que g, el descuento domina al aumento del precio.",
+        "La derivación admite ventas sucesivas. Cada precio puede reemplazarse por flujos posteriores. La condición se refiere al límite descontado, no a prohibir ventas.",
+        "Esa relación no garantiza la desaparición del término terminal. Además, puede ser financieramente insostenible. El límite depende de crecimiento y descuento."
+      ]
+    },
+    {
+      "id": "c05-q016",
+      "tema": "Dividendos frente a utilidades",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué suele ser incorrecto descontar todas las UPA futuras como si fueran dividendos?",
+      "opciones": [
+        "Se contarían beneficios de la reinversión sin restar el efectivo retenido para financiarla.",
+        "Las utilidades no aportan ninguna información sobre los dividendos.",
+        "El descuento sólo puede aplicarse a bonos.",
+        "Los dividendos siempre superan a la utilidad y deben sumarse a ella."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Parte de la utilidad se reinvierte en activos y capital de trabajo. Esa retención reduce lo distribuible hoy y puede aumentar los pagos futuros. Descontar toda la UPA ignora el sacrificio necesario para generar esos beneficios.",
+        "Las utilidades ayudan a proyectar los pagos. El problema es que no son automáticamente efectivo distribuible. Hay que relacionarlas con inversión y distribución.",
+        "El valor presente se aplica a cualquier flujo de inversión. También se usa con dividendos y precios de reventa. La dificultad está en elegir los flujos correctos.",
+        "No existe esa relación general. Muchas compañías distribuyen menos que la utilidad. Sumar ambas cifras duplicaría parte del mismo resultado económico."
+      ]
+    },
+    {
+      "id": "c05-q017",
+      "tema": "Modelo de crecimiento constante",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la expresión correcta con dividendos esperados que crecen perpetuamente a g y costo de capital r?",
+      "opciones": [
+        "P0 = DIV0/(r − g), sin ajustar el último pago.",
+        "P0 = DIV1/(r − g), con r > g.",
+        "P0 = DIV1/(r + g), con cualquier g.",
+        "P0 = DIV1/g, siempre que g sea positiva."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "DIV0 no es el próximo dividendo. Si se parte del pago anterior, hay que multiplicarlo por 1 + g. De otro modo se subestima el precio cuando g es positiva.",
+        "La fórmula suma una serie infinita de dividendos descontados. El numerador es el dividendo del próximo período. La serie sólo tiene valor finito cuando r supera a g.",
+        "Un mayor crecimiento aumenta los dividendos posteriores. Sumar g al denominador provocaría el efecto contrario. El denominador correcto es r − g y debe ser positivo.",
+        "La expresión omite el costo de oportunidad. Dos inversiones con igual crecimiento pueden tener distinto riesgo. La tasa requerida debe intervenir en el descuento."
+      ]
+    },
+    {
+      "id": "c05-q018",
+      "tema": "Dividendo pasado y futuro",
+      "dificultad": "basica",
+      "pregunta": "Una acción acaba de pagar $4, crecerá 5% anual a perpetuidad y tiene r = 12%. ¿Cuánto vale inmediatamente después de ese pago?",
+      "opciones": [
+        "$57,14.",
+        "$64.",
+        "$60.",
+        "$35."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra usa $4 como próximo dividendo. El pago acaba de ocurrir. El siguiente será $4,20 y debe usarse en el numerador. Usar el último dividendo sin hacerlo crecer desplaza toda la secuencia de pagos un período hacia atrás.",
+        "Se suma al precio el dividendo ya pagado. El comprador posterior al pago no lo recibe. Su inversión sólo incluye pagos futuros, valuados en $60.",
+        "Los $4 ya pagados no pertenecen al comprador actual. El próximo dividendo será 4 × 1,05 = $4,20. El precio exdividendo es 4,20/(0,12 − 0,05) = $60.",
+        "Esta cifra capitaliza $4,20 al 12% sin crecimiento. Los pagos posteriores aumentarán 5% anual. El denominador debe ser 12% − 5% = 7%."
+      ]
+    },
+    {
+      "id": "c05-q019",
+      "tema": "Costo del capital implícito",
+      "dificultad": "basica",
+      "pregunta": "Una acción vale $50, pagará $2,50 dentro de un año y crecerá 4% anual a perpetuidad. ¿Qué costo del capital propio implica?",
+      "opciones": [
+        "9%.",
+        "5%.",
+        "4%.",
+        "1%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Al despejar Gordon se obtiene r = DIV1/P0 + g. El dividendo rinde 2,50/50 = 5%. Sumado el crecimiento del 4%, el total esperado es 9%.",
+        "El 5% mide sólo el dividendo esperado sobre el precio. Bajo crecimiento constante también hay apreciación del 4%. Ambos componentes suman 9%.",
+        "El crecimiento no incluye el ingreso por dividendos. Este último agrega 5% sobre el precio actual. El rendimiento total esperado es 9%.",
+        "Se restó el crecimiento al rendimiento del dividendo. El despeje correcto requiere sumarlo. Si r − g = 5% y g = 4%, r es 9%. La apreciación del precio y el dividendo son dos fuentes de rendimiento que se agregan, no se compensan."
+      ]
+    },
+    {
+      "id": "c05-q020",
+      "tema": "Precio exdividendo futuro",
+      "dificultad": "intermedia",
+      "pregunta": "Con dividendos perpetuos que crecen a g, r constante y r > g, ¿cómo crece el precio esperado exdividendo de la acción?",
+      "opciones": [
+        "Crece a r y además se agrega el rendimiento del dividendo.",
+        "Permanece constante porque el dividendo ya contiene todo el crecimiento.",
+        "Crece al rendimiento del dividendo, cualquiera sea g.",
+        "Crece a g; el rendimiento total suma esa apreciación y el rendimiento del dividendo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "r ya representa el rendimiento total esperado. Aumentar el precio a r y sumar dividendos produciría un rendimiento superior al requerido. En el modelo estable, la apreciación corresponde a g.",
+        "El precio refleja los pagos que todavía quedan después de cada dividendo. Si éstos crecen y r no cambia, su valor en la fecha siguiente también aumenta. Una distribución creciente no exige un precio constante.",
+        "El rendimiento del dividendo es una parte del retorno total. La apreciación esperada es otra y bajo estos supuestos coincide con g. No existe una igualdad general entre ambas partes.",
+        "En cada fecha el precio capitaliza el dividendo siguiente con el mismo denominador r − g. Como ese dividendo aumenta a g, también el precio aumenta a g. Si DIV1 es $6, r es 10% y g es 4%, P0 es $100 y P1 es $104, completándose el 10% con el dividendo."
+      ]
+    },
+    {
+      "id": "c05-q021",
+      "tema": "Sensibilidad al crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora valúa una empresa madura y observa que su g perpetua se acerca a r, manteniendo DIV1 fijo. ¿Qué lectura corresponde?",
+      "opciones": [
+        "La valuación se vuelve más segura porque el denominador casi desaparece.",
+        "La directora puede fijar g igual a r para obtener un precio finito más preciso.",
+        "El precio deja de depender del crecimiento porque DIV1 no cambia.",
+        "La valuación se vuelve muy sensible; debe justificar especialmente el crecimiento y revisar escenarios cercanos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un denominador pequeño amplifica los errores de estimación. No elimina la incertidumbre sobre los pagos futuros. Precisamente por eso exige mayor atención a la sostenibilidad del crecimiento.",
+        "La igualdad elimina la convergencia de la perpetuidad creciente. No produce una valuación finita válida para dividendos positivos. Debe mantenerse r mayor que g y justificarse la trayectoria futura.",
+        "El numerador fijo no vuelve irrelevante al denominador. Cambiar g modifica todos los dividendos posteriores. Por eso el precio puede variar sustancialmente aunque el primer pago sea el mismo.",
+        "El precio divide DIV1 por la diferencia r − g. Una diferencia pequeña puede cambiar mucho en términos proporcionales ante un ajuste modesto de los supuestos. Por ejemplo, con DIV1 de $3 y r de 9%, pasar de g de 4% a 6% lleva el precio de $60 a $100."
+      ]
+    },
+    {
+      "id": "c05-q022",
+      "tema": "Convergencia de la perpetuidad",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista proyecta dividendos creciendo 14% para siempre y usa r = 10%. ¿Qué corresponde concluir?",
+      "opciones": [
+        "No hay un valor finito con esos supuestos; debe revisarse el crecimiento perpetuo.",
+        "El precio económico es negativo.",
+        "Se debe usar el valor absoluto de r − g.",
+        "El crecimiento reemplaza automáticamente a la tasa requerida."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La serie exige r mayor que g para converger. Un denominador negativo no constituye un precio válido para dividendos positivos. Si el 14% es transitorio, puede modelarse una etapa inicial y otra sostenible.",
+        "El signo negativo surge de aplicar una fórmula fuera de sus condiciones. No convierte dividendos positivos en una obligación de pago del inversor. La serie no converge a un valor finito.",
+        "Cambiar el signo no modifica la trayectoria de flujos. El crecimiento seguiría superando al descuento. Hay que revisar los supuestos y no el signo arbitrariamente.",
+        "Crecimiento y rendimiento requerido son conceptos diferentes. La tasa requerida depende del riesgo y de las oportunidades alternativas. Un pronóstico de expansión no la determina por sí solo."
+      ]
+    },
+    {
+      "id": "c05-q023",
+      "tema": "Retención y crecimiento",
+      "dificultad": "basica",
+      "pregunta": "Una empresa conserva ROE de 15%, distribuye 60% de las utilidades y no emite acciones. ¿Cuál es su crecimiento interno estable?",
+      "opciones": [
+        "9%.",
+        "15%.",
+        "6%.",
+        "40%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se multiplicó ROE por la razón de pago. Las utilidades distribuidas no aumentan el capital retenido. El crecimiento se financia con el 40% reinvertido.",
+        "El ROE es una rentabilidad sobre capital contable. Sólo una fracción de la utilidad queda dentro de la empresa. Con retención del 40%, el capital crece 6%.",
+        "La retención es 1 − 0,60 = 0,40. Al multiplicarla por ROE se obtiene 0,40 × 0,15 = 0,06. Con rentabilidad y distribución constantes, el crecimiento por acción es 6%.",
+        "El 40% es la fracción de utilidad retenida. No mide directamente el aumento del capital. Hay que multiplicarlo por la rentabilidad del 15%."
+      ]
+    },
+    {
+      "id": "c05-q024",
+      "tema": "Proyección contable",
+      "dificultad": "intermedia",
+      "pregunta": "El capital inicial por acción es $40, ROE = 20% y se distribuye 75% de la utilidad. Sin emisiones ni ajustes, ¿cuáles son UPA1, DIV1 y capital inicial del año 2?",
+      "opciones": [
+        "$8, $6 y $48.",
+        "$8, $6 y $42.",
+        "$8, $2 y $46.",
+        "$6, $8 y $38."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se sumó toda la utilidad al capital. Pero $6 se distribuyeron y salieron de la empresa. Sólo los $2 retenidos aumentan el capital contable.",
+        "La utilidad es 40 × 0,20 = $8. El dividendo es 8 × 0,75 = $6, de modo que se retienen $2. El capital siguiente es 40 + 2 = $42.",
+        "Se interpretó el 75% como retención. El enunciado lo define como pago. Se distribuyen $6 y se retienen $2. Invertir las razones cambia tanto el dividendo como el capital disponible para generar utilidades al año siguiente.",
+        "Se intercambiaron utilidad y dividendo. Primero se aplica el ROE al capital y se obtienen $8. Después se distribuye el 75%, equivalente a $6."
+      ]
+    },
+    {
+      "id": "c05-q025",
+      "tema": "Supuestos del crecimiento interno",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo g = retención × ROE describe de manera estable el crecimiento por acción de capital, utilidades y dividendos?",
+      "opciones": [
+        "Con ROE y pago constantes, reinversión coherente y sin emisiones ni otros ajustes del capital por acción.",
+        "Siempre que exista utilidad positiva en algún año.",
+        "Aunque el ROE cambie arbitrariamente cada año.",
+        "Si la retención se calcula sobre la capitalización bursátil."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La retención aumenta el capital contable siguiente. Con ROE constante, la utilidad crece al mismo ritmo que el capital. Con distribución constante y sin cambios en acciones, los dividendos también acompañan ese ritmo.",
+        "Una utilidad positiva no garantiza rentabilidad estable. Tampoco fija la distribución ni las emisiones posteriores. La igualdad requiere supuestos coherentes para toda la proyección.",
+        "Un cambio del ROE modifica la relación entre capital y utilidad. Puede aumentar el capital y caer la utilidad. En ese caso deben proyectarse los períodos individualmente.",
+        "La retención es la fracción de la utilidad no distribuida. Su denominador no es el valor de mercado de las acciones. Cambiar esa definición rompe la relación con el crecimiento del capital contable."
+      ]
+    },
+    {
+      "id": "c05-q026",
+      "tema": "Rendimiento justo regulado",
+      "dificultad": "intermedia",
+      "pregunta": "Una comisión debe permitir un rendimiento justo a una distribuidora regulada. ¿Qué referencia es económicamente adecuada?",
+      "opciones": [
+        "El mayor ROE histórico de cualquier industria.",
+        "Sólo la inflación, cualquiera sea el riesgo.",
+        "El costo de oportunidad del capital propio de inversiones de riesgo comparable.",
+        "Cero, porque una empresa regulada no puede perder."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una rentabilidad extrema puede responder a otro riesgo o a circunstancias extraordinarias. No mide el costo de oportunidad de esta empresa. La comparación debe ser pertinente hacia adelante y para riesgo equivalente.",
+        "La inflación afecta el poder adquisitivo. Pero compensarla no remunera necesariamente el riesgo del capital propio. La tasa justa debe considerar alternativas comparables.",
+        "Los accionistas deben ser compensados por el riesgo que soportan. La referencia es lo que esperan ganar en alternativas equivalentes. La regulación no convierte automáticamente a la empresa en una inversión sin riesgo.",
+        "La regulación no elimina las pérdidas operativas o financieras. Una restricción para trasladar aumentos de costos puede perjudicar a la empresa. La tasa debe corresponder al riesgo efectivo."
+      ]
+    },
+    {
+      "id": "c05-q027",
+      "tema": "Muestras de empresas comparables",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora obtiene estimaciones de r dispares para varias empresas maduras de igual riesgo. ¿Cómo puede tratar el ruido de los pronósticos?",
+      "opciones": [
+        "Elegir siempre el valor más alto.",
+        "Revisar comparabilidad y usar una muestra amplia como referencia, sin considerar infalible su promedio.",
+        "Promediar empresas de cualquier riesgo.",
+        "Usar una sola empresa porque el promedio elimina el riesgo financiero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El máximo puede ser la observación con mayor error. Ser alto no lo convierte en el verdadero costo de capital. Corresponde revisar supuestos y comparabilidad.",
+        "Cada estimación incorpora errores de dividendos y crecimiento. Una muestra comparable puede reducir el efecto de errores individuales. Un sesgo compartido, sin embargo, no desaparece por promediar.",
+        "La tasa requerida depende del riesgo. Mezclar negocios diferentes puede dar una media irrelevante para la inversión. La muestra debe ser comparable para servir como referencia.",
+        "Promediar estimaciones no elimina el riesgo de las acciones. Sólo puede reducir parte del error de estimación. Depender de una observación aumenta la exposición a sus errores particulares."
+      ]
+    },
+    {
+      "id": "c05-q028",
+      "tema": "Recuperación transitoria",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista usa r = DIV1/P0 + g y coloca como g un 18% previsto sólo para tres años de recuperación. ¿Cuál es el problema principal?",
+      "opciones": [
+        "Sólo faltan decimales para que el resultado sea válido.",
+        "Necesariamente subestima r porque los dividendos son positivos.",
+        "El crecimiento no influye en ninguna estimación por dividendos.",
+        "Puede sobreestimar r al tratar una recuperación transitoria como crecimiento perpetuo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La precisión aritmética no corrige un supuesto económico incorrecto. El problema está en el horizonte del crecimiento. Más decimales mantienen el mismo error de modelo.",
+        "En la fórmula simple, g se suma al rendimiento del dividendo. Una g exagerada tiende a elevar r. El signo positivo del dividendo no revierte ese efecto.",
+        "Las expectativas de crecimiento son parte del modelo. Cambiarlas modifica la tasa implícita. Por eso es esencial distinguir recuperación y tendencia permanente.",
+        "La fórmula supone que los dividendos crecen a una única tasa para siempre. Una recuperación breve no respalda esa extrapolación. Corresponde proyectar etapas y una transición al crecimiento sostenible."
+      ]
+    },
+    {
+      "id": "c05-q029",
+      "tema": "Dos etapas y fecha terminal",
+      "dificultad": "intermedia",
+      "pregunta": "DIV1 = $2 y DIV2 = $3. Desde el año 3 los dividendos crecen 4% anual para siempre; r = 10%. ¿Cuánto vale P0?",
+      "opciones": [
+        "$52,00.",
+        "$33,33.",
+        "$47,27.",
+        "$49,75."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $52 son el precio terminal en el año 2. No son todavía valor presente. Hay que descontarlos y agregar los dividendos previos.",
+        "Esta cifra usa DIV1 y g del largo plazo desde el comienzo. El dividendo aumenta de $2 a $3 antes de entrar al régimen estable. Esa transición requiere una proyección explícita.",
+        "DIV3 = 3 × 1,04 = $3,12 y P2 = 3,12/(0,10 − 0,04) = $52. Hoy valen 2/1,10 + (3 + 52)/1,10². El resultado es $47,27, incluyendo DIV2 una sola vez.",
+        "Este resultado agrega de nuevo DIV2 al cálculo correcto. P2 debe valuarse con DIV3 y luego sumarse una sola vez al dividendo del año 2. Duplicar el pago sobrevalúa la acción."
+      ]
+    },
+    {
+      "id": "c05-q030",
+      "tema": "Tasa implícita con etapas",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción vale $100, no paga dividendos en el año 1 y paga $11 anuales desde el final del año 2 para siempre. ¿Cuál es r?",
+      "opciones": [
+        "11%.",
+        "10%.",
+        "12,10%.",
+        "21%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cifra divide $11 por $100 como si el primer pago llegara al final del año 1. Pero la perpetuidad empieza al final del año 2. El año adicional de espera requiere descontar una vez más el valor de la corriente.",
+        "Al final del año 1, la perpetuidad vale 11/r. Su valor hoy es 11/[r(1 + r)] = 100. Con r = 0,10, el denominador es 0,11 y la igualdad se cumple exactamente.",
+        "Esta cifra surge de aumentar el cociente 11/100 por un factor adicional de 1,10. La demora no se incorpora aumentando arbitrariamente la tasa. Debe resolverse la ecuación 100 = 11/[r(1 + r)], cuya solución positiva es 10%.",
+        "No corresponde sumar un año de espera como diez puntos arbitrarios. La demora se incorpora mediante descuento compuesto. Resolver la ecuación da 10%."
+      ]
+    },
+    {
+      "id": "c05-q031",
+      "tema": "Cambios de ROE y distribución",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa pasa de ROE alto y pago bajo a ROE menor y pago mayor. ¿Qué puede ocurrir con el dividendo del año de transición?",
+      "opciones": [
+        "Debe bajar exactamente el mismo porcentaje que el ROE.",
+        "Su aumento demostraría que la utilidad subió.",
+        "El crecimiento de la transición se vuelve perpetuo por definición.",
+        "Puede subir aunque baje la utilidad; el salto de pago no representa necesariamente crecimiento permanente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Eso sólo sería plausible si capital y razón de pago permanecieran fijos. Aquí la política de distribución cambia. El dividendo puede moverse en dirección distinta a la utilidad.",
+        "El dividendo también depende de cuánto se distribuye. Una mayor fracción de una utilidad menor puede producir un pago mayor. No permite inferir por sí solo el movimiento de la utilidad.",
+        "Una transición modifica niveles y políticas. No obliga a repetir el mismo aumento todos los años. Debe proyectarse el régimen estable con sus propios parámetros.",
+        "El dividendo es utilidad multiplicada por razón de pago. Un aumento suficiente de esa razón puede compensar una menor utilidad. El crecimiento posterior depende del nuevo ROE y de la nueva retención, no del salto aislado."
+      ]
+    },
+    {
+      "id": "c05-q032",
+      "tema": "Control de proyecciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora ve utilidades crecientes, dividendos elevados e inversión alta, sin deuda ni emisión prevista. ¿Qué debe revisar primero?",
+      "opciones": [
+        "Que las utilidades retenidas alcancen para financiar la inversión y que el capital siguiente concilie con esos flujos.",
+        "Únicamente que la suma de las tasas sea menor que cien.",
+        "Que el dividendo sea siempre igual a la utilidad.",
+        "Que el precio proyectado coincida con el valor en libros."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los pronósticos deben respetar la financiación de los activos. Un mismo peso no puede distribuirse y reinvertirse a la vez. Una proyección por períodos permite detectar necesidades de fondos omitidas.",
+        "No existe esa restricción como prueba de consistencia. Las tasas pueden referirse a bases distintas. Hay que conciliar importes de utilidades, distribución, inversión y financiación.",
+        "Pagar toda la utilidad puede impedir financiar la expansión interna. No es una condición general de valuación. La distribución debe ser compatible con la inversión y las fuentes de fondos.",
+        "La igualdad entre precio y valor contable no garantiza consistencia de caja. El valor de mercado depende de flujos y oportunidades. Primero debe verificarse que el plan financiero sea posible."
+      ]
+    },
+    {
+      "id": "c05-q033",
+      "tema": "Acciones de ingreso y crecimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza económicamente a una acción de crecimiento?",
+      "opciones": [
+        "Cualquier aumento de las UPA, aunque la reinversión rinda menos que el costo de capital.",
+        "Una parte importante de su valor proviene de futuras inversiones con rendimiento superior al costo de capital.",
+        "La garantía de no pagar dividendos nunca.",
+        "Un rendimiento esperado necesariamente mayor al de toda acción de ingreso."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las UPA pueden aumentar por reinvertir en proyectos poco rentables. Si esos proyectos no cubren el costo de capital, destruyen valor. La clasificación requiere mirar las oportunidades y no sólo el crecimiento contable.",
+        "Crecer no basta para crear valor. Las oportunidades aportan valor presente neto cuando su rendimiento supera el costo de oportunidad. Una acción de ingreso depende relativamente más del negocio existente, aunque su empresa también pueda expandirse.",
+        "No pagar hoy puede financiar oportunidades rentables. Pero una ausencia perpetua de cualquier distribución no explica valor en el modelo fundamental. La acción de crecimiento se define por inversiones valiosas, no por una prohibición de pagos.",
+        "El rendimiento requerido depende del riesgo. Una acción de crecimiento puede tener el mismo rendimiento esperado que una de ingreso de igual riesgo. La diferencia está en la fuente del valor y de los pagos."
+      ]
+    },
+    {
+      "id": "c05-q034",
+      "tema": "Empresa sin crecimiento",
+      "dificultad": "basica",
+      "pregunta": "Una empresa distribuye toda su utilidad sostenible, mantiene esa utilidad constante y no necesita inversión neta. ¿Qué relación se cumple en el modelo?",
+      "opciones": [
+        "UPA1/P0 supera siempre a r porque la utilidad es un dato contable.",
+        "El rendimiento del dividendo es cero porque no existe crecimiento.",
+        "El precio equivale a una sola utilidad anual porque el negocio no se expande.",
+        "El rendimiento del dividendo, UPA1/P0 y r coinciden."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Que una cifra sea contable no implica esa desigualdad. Aquí la utilidad sostenible se transforma íntegramente en dividendos constantes. La capitalización de esa corriente hace que su cociente con el precio coincida con r.",
+        "Ausencia de crecimiento no significa ausencia de pagos. La empresa distribuye su utilidad cada año. En este caso todo el rendimiento proviene del dividendo y no de apreciación esperada.",
+        "El negocio sigue generando pagos después del primer año. Su falta de expansión no limita su vida a un período. Debe capitalizarse toda la perpetuidad de utilidades distribuidas.",
+        "La utilidad coincide con el dividendo porque se distribuye íntegramente. La corriente constante vale UPA1/r. Por tanto, dividir el dividendo o la utilidad por el precio produce r, como ocurre con $9 anuales y precio de $75 cuando r es 12%."
+      ]
+    },
+    {
+      "id": "c05-q035",
+      "tema": "Descomposición del precio",
+      "dificultad": "basica",
+      "pregunta": "¿Qué expresa P0 = UPA1/r + VPOC cuando UPA1 representa la utilidad sostenible bajo crecimiento cero?",
+      "opciones": [
+        "El valor del negocio sin nuevas oportunidades más el VPN actual de las inversiones futuras.",
+        "El valor contable de los activos más todas las ventas futuras sin descontar.",
+        "La utilidad actual más la suma de dividendos futuros.",
+        "El precio de venta del año 1 más la rentabilidad histórica del capital."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "UPA1/r capitaliza la utilidad que podría distribuirse sin crecimiento. VPOC suma el valor presente neto de las oportunidades posteriores. Así se separan los activos existentes y la creación de valor por nuevas inversiones.",
+        "UPA1/r es una capitalización de utilidades, no una cifra de balance. El VPOC tampoco suma ventas brutas. Representa valor neto de inversiones futuras llevado a hoy.",
+        "La primera parte debe capitalizar una corriente y no tomar una sola utilidad. La segunda parte no duplica los dividendos de esa corriente. Ambos componentes separan valor existente y valor incremental.",
+        "La ecuación está expresada íntegramente en valor de hoy. No agrega un precio futuro a una tasa contable. Combina dos valores presentes compatibles."
+      ]
+    },
+    {
+      "id": "c05-q036",
+      "tema": "VPOC y múltiplos",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción vale $120, su utilidad sostenible sin crecimiento sería $8 anual y r = 10%. ¿Cuáles son VPOC y su proporción del precio?",
+      "opciones": [
+        "$80 y 66,67%.",
+        "$112 y 93,33%.",
+        "$40 y 33,33%.",
+        "$40 y 50%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $80 son el valor del negocio sin crecimiento. Se está confundiendo ese componente con las oportunidades futuras. El VPOC es la diferencia de $40.",
+        "Restar una sola utilidad al precio mezcla una cifra anual con un valor de capital. La utilidad debe capitalizarse al 10%. Después de restar $80 quedan $40 de VPOC.",
+        "El negocio sin crecimiento vale 8/0,10 = $80. La diferencia con el precio es 120 − 80 = $40. La proporción es 40/120 = 33,33%.",
+        "El VPOC está bien calculado. El 50% lo compara con los $80 del negocio existente. La pregunta pide su proporción del precio total de $120."
+      ]
+    },
+    {
+      "id": "c05-q037",
+      "tema": "Utilidad/precio y costo de capital",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene VPOC positivo y r positivo. ¿Cómo se compara la razón UPA1/P0 con r, usando la utilidad sostenible sin crecimiento?",
+      "opciones": [
+        "Es mayor que r porque toda oportunidad incrementa la utilidad presente.",
+        "Es siempre exactamente r.",
+        "Es menor que r porque una parte del precio remunera oportunidades futuras.",
+        "Es necesariamente negativa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las oportunidades pueden elevar el precio antes de generar utilidades. Ese mayor denominador reduce UPA1/P0. El efecto indicado por la ecuación es menor, no mayor, que r.",
+        "La igualdad requiere VPOC igual a cero en esta descomposición. Un VPOC positivo hace que el precio supere UPA1/r. Por tanto la razón utilidad/precio queda por debajo de r.",
+        "De P0 = UPA1/r + VPOC se obtiene UPA1/P0 = r × (1 − VPOC/P0). Si VPOC es positivo, el factor entre paréntesis es menor que uno. Por eso el rendimiento de utilidades no equivale al rendimiento total requerido.",
+        "Un VPOC positivo no vuelve negativa la utilidad sostenible. Con utilidad y precio positivos, el cociente sigue siendo positivo. La conclusión es una comparación con r, no un cambio obligatorio de signo."
+      ]
+    },
+    {
+      "id": "c05-q038",
+      "tema": "Proyecto al costo de capital",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora retiene el dividendo de un año para financiar un proyecto que rinde exactamente el costo de capital y tiene igual riesgo. ¿Qué pasa con el valor de la acción?",
+      "opciones": [
+        "No cambia por ese proyecto: su VPN es cero aunque después crezcan utilidades y dividendos.",
+        "Sube necesariamente porque aumentan las utilidades futuras.",
+        "Baja por todo el dividendo retenido y nunca recupera valor.",
+        "El costo de capital baja hasta igualar al rendimiento del dividendo actual."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La inversión sacrifica un pago actual. Los cobros adicionales compensan exactamente ese sacrificio al descontarse al costo de capital. Existe crecimiento, pero no creación de valor incremental.",
+        "El crecimiento de utilidades no demuestra un VPN positivo. Se debe restar la inversión que lo financia. Si el rendimiento iguala al costo de capital, el valor incremental es cero.",
+        "Esta respuesta omite los cobros del proyecto. Su valor presente compensa exactamente la retención. La reducción del pago inmediato no implica una pérdida neta en este caso.",
+        "La retención no determina por sí sola el riesgo de mercado. La tasa requerida sigue reflejando oportunidades comparables. No debe confundirse con un rendimiento del dividendo que puede caer temporalmente a cero."
+      ]
+    },
+    {
+      "id": "c05-q039",
+      "tema": "VPN de una oportunidad futura",
+      "dificultad": "avanzada",
+      "pregunta": "En el año 1 una empresa invertirá $12 por acción. El proyecto pagará $1,80 anuales desde el año 2 para siempre y r = 10%. ¿Cuánto agrega hoy al precio?",
+      "opciones": [
+        "$6,00.",
+        "$16,36.",
+        "−$10,91.",
+        "$5,45."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese es el VPN en el año 1. La inversión todavía está a un año de distancia. Para obtener su efecto actual hay que descontar $6 al 10%.",
+        "Esta cifra descuenta el valor bruto de los cobros. Omite restar la inversión de $12 en el año 1. El efecto sobre el precio es el VPN descontado, no los ingresos brutos.",
+        "Se descuenta sólo el costo futuro del proyecto. También deben incluirse los cobros perpetuos de $1,80. Su valor supera al costo y genera un efecto positivo de $5,45.",
+        "En el año 1, los cobros del proyecto valen 1,80/0,10 = $18. Su VPN en esa fecha es 18 − 12 = $6. Descontado un año, el efecto actual es 6/1,10 = $5,45."
+      ]
+    },
+    {
+      "id": "c05-q040",
+      "tema": "Serie de oportunidades",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene UPA1 sostenible de $10 y r = 10%. Sus proyectos futuros generan VPN de $2 en el año 1 y luego esos VPN crecen 4% anual para siempre. ¿Cuál es P0?",
+      "opciones": [
+        "$120,00.",
+        "$133,33.",
+        "$102,00.",
+        "$166,67."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se capitalizan los VPN como si fueran constantes. El enunciado indica que aumentan 4% por año. El denominador de esa serie es 6% y no 10%.",
+        "El negocio sin crecimiento vale 10/0,10 = $100. La serie de VPN aporta VPOC = 2/(0,10 − 0,04) = $33,33. Al sumar ambos componentes se obtiene $133,33.",
+        "Sólo se agregó la primera oportunidad sin descontar. Hay oportunidades posteriores y el primer VPN ocurre dentro de un año. La serie completa vale $33,33 hoy.",
+        "Esta cifra trata la UPA completa como una perpetuidad creciente al 4%. Pero el dato de UPA corresponde al negocio sin crecimiento. Sólo la serie de VPN indicada debe capitalizarse con r − g."
+      ]
+    },
+    {
+      "id": "c05-q041",
+      "tema": "Crecimiento destructor de valor",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente quiere reinvertir porque aumentará las UPA, aunque los proyectos rindan menos que el costo de capital. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "Aceptar porque toda UPA adicional beneficia necesariamente al accionista.",
+        "Aceptar porque retener utilidades tiene costo de capital cero.",
+        "Rechazar porque ninguna empresa debe reinvertir.",
+        "Rechazar ese argumento: las UPA pueden crecer mientras cae el valor por VPN negativo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La utilidad adicional tiene un costo de inversión. Ignorarlo confunde crecimiento con rentabilidad económica. Un rendimiento insuficiente destruye valor aunque aumente la utilidad.",
+        "El accionista renuncia a recibir efectivo que podría invertir en otra alternativa. Esa renuncia tiene un costo de oportunidad. La financiación interna no convierte al capital en gratuito.",
+        "La reinversión puede crear valor si supera el costo de capital. El problema es la rentabilidad insuficiente de estos proyectos. No corresponde prohibir toda inversión.",
+        "La reinversión puede generar utilidades contables adicionales. Si no compensa el costo de oportunidad, el valor presente de los cobros es menor que la inversión. El objetivo debe ser crear valor y no maximizar por sí solo el crecimiento de UPA."
+      ]
+    },
+    {
+      "id": "c05-q042",
+      "tema": "Razón P/U transitoria",
+      "dificultad": "intermedia",
+      "pregunta": "Una petrolera muestra P/U histórico muy bajo tras un año excepcional de precios altos. El mercado anticipa menores precios del petróleo. ¿Qué interpretación es más razonable?",
+      "opciones": [
+        "El múltiplo prueba que los dividendos futuros están garantizados.",
+        "El costo del capital propio es exactamente el inverso del P/U histórico.",
+        "La utilidad pasada puede estar transitoriamente inflada; el múltiplo bajo no demuestra una ganga.",
+        "El mercado necesariamente desconoce el último resultado contable."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El P/U no constituye una garantía contractual. Las utilidades y distribuciones pueden caer. El precio incorpora precisamente expectativas sobre esos riesgos y cambios.",
+        "La igualdad utilidad/precio con r exige supuestos específicos. Una utilidad extraordinaria no representa una corriente sostenible sin crecimiento. El inverso del múltiplo no identifica aquí la tasa requerida.",
+        "El denominador recoge un año extraordinariamente rentable. El precio puede reflejar utilidades futuras más bajas. Antes de interpretar el múltiplo deben normalizarse resultados y expectativas.",
+        "La diferencia puede ser coherente con una expectativa de normalización. El mercado puede conocer la utilidad pasada y anticipar una caída. No hace falta suponer ignorancia para explicar el múltiplo bajo."
+      ]
+    },
+    {
+      "id": "c05-q043",
+      "tema": "Pérdidas extraordinarias y P/U",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa madura presenta P/U muy alto después de una pérdida contable excepcional. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "El múltiplo demuestra crecimiento permanente extraordinario.",
+        "La pérdida pudo reducir transitoriamente la UPA y elevar el múltiplo sin grandes oportunidades de crecimiento.",
+        "La pérdida reduce automáticamente el costo de capital a cero.",
+        "El precio necesariamente subió en la misma proporción que el P/U."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un denominador deprimido también eleva el múltiplo. No es necesario que mejoren las oportunidades de inversión. Hay que separar resultados extraordinarios de utilidades sostenibles.",
+        "El P/U depende del precio y de la utilidad usada como denominador. Una pérdida excepcional puede reducir esa utilidad sin igual caída del precio. El múltiplo alto no demuestra por sí solo un VPOC elevado.",
+        "Una pérdida contable no elimina el riesgo ni las alternativas del inversor. Tampoco fija la tasa requerida. Puede afectar expectativas, pero no impone un costo nulo.",
+        "El múltiplo puede aumentar con precio constante si cae la utilidad. No se puede inferir una suba del precio sin observar ambos componentes. La explicación puede estar enteramente en el denominador."
+      ]
+    },
+    {
+      "id": "c05-q044",
+      "tema": "Crecimiento, riesgo y duración",
+      "dificultad": "avanzada",
+      "pregunta": "Dos empresas tienen igual capital y utilidad inicial. Una crece más rápido, pero la otra tiene mayor VPOC como proporción de su precio. ¿Es posible?",
+      "opciones": [
+        "Sí: importan el margen sobre el costo de capital, el riesgo y la duración de las oportunidades, además del crecimiento.",
+        "No: el VPOC porcentual es siempre igual a g.",
+        "No: igual utilidad inicial obliga a igual precio de mercado.",
+        "Sí, pero únicamente si la más lenta tiene pérdidas iniciales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una tasa alta de expansión puede sostenerse poco tiempo o requerir inversiones de escaso VPN. Una empresa más lenta puede mantener ventajas rentables durante más años. El VPOC recoge valor neto descontado, no sólo velocidad de crecimiento.",
+        "g mide variación de los flujos por período. El VPOC porcentual mide la parte del precio atribuible a inversiones futuras. Son magnitudes distintas y no existe esa igualdad general.",
+        "Las expectativas futuras pueden ser diferentes. También pueden diferir riesgo y duración de las ventajas. Una misma utilidad inicial no determina por sí sola el precio.",
+        "El enunciado no exige pérdidas para producir esa diferencia. Basta con que las oportunidades netas descontadas representen distinta proporción del valor. La utilidad inicial puede ser positiva e igual en ambas."
+      ]
+    },
+    {
+      "id": "c05-q045",
+      "tema": "Flujo de efectivo libre",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el flujo de efectivo libre utilizado para valuar un negocio completo?",
+      "opciones": [
+        "La facturación total antes de pagar costos e impuestos.",
+        "El saldo de caja del balance en una única fecha.",
+        "El efectivo operativo disponible para los inversores después de financiar las inversiones necesarias.",
+        "La utilidad contable sin ningún ajuste por inversión."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La facturación no es efectivo disponible para los inversores. Deben considerarse los costos, los impuestos y la inversión requerida. Ignorarlos sobrevalúa el negocio.",
+        "Un saldo es una existencia y el FEL es un flujo de un período. La valuación exige proyectar generación y uso de efectivo futuros. Una caja actual no reemplaza esa corriente.",
+        "La utilidad no queda íntegramente disponible cuando el negocio necesita reinvertir. El FEL refleja el efectivo restante luego de atender esas necesidades. Debe descontarse con una tasa compatible con el riesgo y los destinatarios del flujo.",
+        "La empresa puede necesitar reinvertir gran parte de su utilidad. Ese efectivo no queda libre para distribuirse. El flujo debe incorporar las necesidades de inversión."
+      ]
+    },
+    {
+      "id": "c05-q046",
+      "tema": "Inversión neta y depreciación",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo una proyección simplificada coherente, la utilidad operativa después de impuestos y depreciación es $18 millones, la depreciación $4 millones y la inversión bruta $10 millones. Sin variación de capital de trabajo, ¿cuál es el FEL?",
+      "opciones": [
+        "$12 millones.",
+        "$8 millones.",
+        "$22 millones.",
+        "$16 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se suma la depreciación porque redujo la utilidad sin ser un pago del período. Luego se resta la inversión bruta: 18 + 4 − 10 = $12 millones. Es equivalente a restar a la utilidad una inversión neta de 10 − 4 = $6 millones.",
+        "Se restó la inversión bruta sin recuperar la depreciación descontada en la utilidad. Eso cuenta dos veces parte del costo de los activos. La cuenta coherente es 18 + 4 − 10 = 12.",
+        "Esta cifra agrega la depreciación pero olvida la inversión. Los $10 millones son una salida necesaria para el negocio. Después de restarlos quedan $12 millones.",
+        "Esta cifra suma la depreciación y además resta sólo la inversión neta. Así se cuenta dos veces la recuperación de la depreciación: 18 + 4 − (10 − 4) = 16. Se debe usar utilidad más depreciación menos inversión bruta, o utilidad menos inversión neta, y ambos métodos dan $12 millones."
+      ]
+    },
+    {
+      "id": "c05-q047",
+      "tema": "FEL negativo y crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una división rentable tiene FEL negativo porque invierte más de lo que genera. ¿Cómo debe evaluarla la directora financiera?",
+      "opciones": [
+        "Cerrarla automáticamente porque todo FEL negativo prueba pérdidas económicas.",
+        "Analizando si la inversión crea VPN positivo y cómo se financiará el déficit, sin equiparar FEL negativo con destrucción de valor.",
+        "Eliminar las inversiones del pronóstico para que el flujo sea positivo.",
+        "Suponer que el déficit no requiere financiación porque existen utilidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El FEL puede ser negativo por una inversión inicial rentable. Hay que considerar los cobros futuros y su valor presente. El signo de un solo período no determina el VPN.",
+        "La expansión puede exigir fondos antes de generar cobros suficientes. Un déficit de efectivo no demuestra por sí solo falta de rentabilidad económica. Deben evaluarse los flujos completos, el costo de oportunidad y la financiación necesaria.",
+        "Esa modificación separa los beneficios de su financiación. Los flujos futuros no serían alcanzables sin la inversión. Omitir el desembolso sobrevalúa la división.",
+        "La utilidad contable no garantiza caja suficiente. Si las inversiones exceden la generación de efectivo, deben obtenerse fondos. La rentabilidad y la liquidez son dimensiones distintas."
+      ]
+    },
+    {
+      "id": "c05-q048",
+      "tema": "Rentabilidad y necesidad de fondos",
+      "dificultad": "intermedia",
+      "pregunta": "Una división comienza con activos de $50 millones, gana 16% sobre esos activos y necesita elevarlos 20% durante el año. En el modelo simplificado FEL = utilidad − inversión neta, ¿cuál es su FEL?",
+      "opciones": [
+        "$8 millones.",
+        "$2 millones.",
+        "−$10 millones.",
+        "−$2 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se informa la utilidad sin descontar la inversión. La expansión exige $10 millones adicionales. Al restarlos aparece un déficit de $2 millones.",
+        "Se invirtió el orden de la resta. El efectivo libre es lo generado menos lo reinvertido. Aquí la inversión supera a la utilidad y el flujo es negativo.",
+        "Se tomó toda la inversión como déficit. La operación genera $8 millones para financiarla parcialmente. Sólo faltan $2 millones.",
+        "La utilidad es 50 × 0,16 = $8 millones. La inversión neta es 50 × 0,20 = $10 millones. El FEL resulta 8 − 10 = −$2 millones, por lo que necesita financiación."
+      ]
+    },
+    {
+      "id": "c05-q049",
+      "tema": "Formato de valuación de negocios",
+      "dificultad": "basica",
+      "pregunta": "¿Qué expresión valúa coherentemente un negocio con horizonte H?",
+      "opciones": [
+        "La suma de los FEL de 1 a H descontados más el valor terminal en H también descontado.",
+        "La suma de FEL sin descontar más el valor terminal actual.",
+        "Sólo el valor terminal, porque resume también todos los FEL anteriores.",
+        "La suma de FEL descontados más el valor terminal sin descontar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor terminal representa los flujos posteriores al horizonte explícito. Los FEL de los primeros años se incluyen por separado. Ambos componentes deben expresarse en valor de hoy para sumarlos.",
+        "Los flujos de fechas diferentes no son directamente comparables. Cada uno requiere el factor de descuento correspondiente. Sólo después pueden sumarse.",
+        "El valor terminal en H resume los cobros posteriores a H. No incluye automáticamente los flujos ya generados antes. Esos flujos deben agregarse con su propio descuento.",
+        "El valor terminal está medido en una fecha futura. Agregarlo sin descontar mezcla unidades temporales. Debe dividirse por (1 + r) elevado a H."
+      ]
+    },
+    {
+      "id": "c05-q050",
+      "tema": "Valor terminal por crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Al final del año 3 comienza la fase estable. FEL4 será $6 millones, g = 4% perpetuo y r = 10%. ¿Cuál es el valor terminal en el año 3?",
+      "opciones": [
+        "$60 millones.",
+        "$104 millones.",
+        "$75,13 millones.",
+        "$100 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cifra ignora el crecimiento perpetuo. Divide el primer flujo por r en vez de por r − g. El denominador correcto es 6%. Cada pago posterior supera al anterior, por lo que una perpetuidad constante subestima el valor terminal.",
+        "Esta cifra aumenta FEL4 antes de usarlo. Para VT3 el numerador ya debe ser FEL4, sin un año adicional de crecimiento. Usar FEL5 desplaza incorrectamente el horizonte.",
+        "Esta cifra es el valor presente de los $100 millones, aproximadamente. La pregunta pide el valor en el año 3. El descuento a hoy es un paso posterior.",
+        "El primer flujo posterior al horizonte es FEL4 = $6 millones. Por eso VT3 = 6/(0,10 − 0,04) = $100 millones. Esa cifra está ubicada en el año 3 y debe descontarse tres períodos para llevarla a hoy."
+      ]
+    },
+    {
+      "id": "c05-q051",
+      "tema": "FEL explícito y valor terminal",
+      "dificultad": "intermedia",
+      "pregunta": "FEL1 = −$4 millones y FEL2 = $6 millones. Desde el año 3 habrá FEL de $6 millones anual constante; r = 20%. ¿Cuál es el valor actual del negocio?",
+      "opciones": [
+        "$25 millones.",
+        "$32 millones.",
+        "$21,67 millones.",
+        "$17,50 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra sólo descuenta los $36 millones del año 2. Falta el FEL negativo del primer año. Ese desembolso reduce el valor actual en $3,33 millones.",
+        "Se suman −4 + 6 + 30 sin descontar. Esa suma mezcla fechas distintas. Los flujos deben llevarse a hoy con sus plazos respectivos.",
+        "El valor terminal en el año 2 es 6/0,20 = $30 millones. Se calcula −4/1,20 + (6 + 30)/1,20². El resultado es −3,33 + 25 = $21,67 millones.",
+        "Esta cifra calcula −4/1,20 + 30/1,20². Omite el FEL2 de $6 millones. El valor terminal sólo cubre del año 3 en adelante. El flujo del año 2 debe agregarse aparte y descontarse dos períodos, aumentando el valor presente en $4,17 millones."
+      ]
+    },
+    {
+      "id": "c05-q052",
+      "tema": "Peso del valor terminal",
+      "dificultad": "avanzada",
+      "pregunta": "El VP de los FEL explícitos es −$5 millones y el VP terminal $30 millones. El informe atribuye al terminal 120% del valor total. ¿Cómo interpretarlo?",
+      "opciones": [
+        "Es imposible porque ningún componente puede superar 100% del total.",
+        "Es posible: el total es $25 millones y conviene revisar la sensibilidad de los supuestos terminales.",
+        "Debe eliminarse el flujo negativo para que los porcentajes cierren.",
+        "Prueba que el valor terminal está garantizado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese límite sólo sería obligatorio si todos los componentes fueran no negativos. Un valor presente negativo reduce el total. Por eso otro componente puede representar más del cien por ciento.",
+        "El total es −5 + 30 = $25 millones. El peso terminal es 30/25 = 120% porque el componente inicial es negativo. La aritmética es válida, aunque evidencia una fuerte dependencia de expectativas lejanas.",
+        "El desembolso es una necesidad real del negocio. Borrarlo sobrevalúa la inversión. Los porcentajes pueden superar cien sin que exista un error de suma.",
+        "Un peso alto no reduce la incertidumbre del pronóstico. Hace más relevante revisar crecimiento, márgenes e inversión futura. El valor terminal sigue siendo una estimación."
+      ]
+    },
+    {
+      "id": "c05-q053",
+      "tema": "Crecimiento e inversión terminal",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora aumenta g terminal y deja constante el FEL inicial de esa fase, aunque crecer exige más activos. ¿Qué inconsistencia debe revisar?",
+      "opciones": [
+        "Ninguna: g sólo afecta al denominador en cualquier negocio.",
+        "El crecimiento adicional puede exigir más inversión y reducir el FEL; no basta con bajar r − g.",
+        "Debe aumentar el FEL por la inversión adicional.",
+        "Debe sustituir r por g porque ahora ambas tasas son iguales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La fórmula resume una trayectoria de flujos, pero no construye sus fundamentos operativos. La inversión necesaria puede cambiar con g. Mantener el FEL fijo debe justificarse, no suponerse automáticamente.",
+        "Una mayor expansión requiere financiar activos adicionales cuando la relación activos/ventas es estable. Eso puede reducir el efectivo distribuible del próximo período. La sensibilidad debe recalcular tanto los flujos como el denominador terminal.",
+        "La inversión usa efectivo en el período en que se realiza. Aunque genere beneficios futuros, reduce el flujo disponible inmediato. No corresponde sumarla como si fuera un cobro.",
+        "El crecimiento operativo no determina el costo de oportunidad. No hay razón para igualar ambas tasas. Además, la perpetuidad creciente requiere r mayor que g."
+      ]
+    },
+    {
+      "id": "c05-q054",
+      "tema": "Terminal mediante P/U",
+      "dificultad": "intermedia",
+      "pregunta": "En un negocio sin deuda, empresas comparables justifican P/U prospectivo de 12 en el año 4. La utilidad normalizada del año 5 será $5 millones. ¿Cuál es el terminal en el año 4?",
+      "opciones": [
+        "$0,42 millones.",
+        "$5 millones.",
+        "$60 millones.",
+        "$72 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se dividió la utilidad por el múltiplo. P/U = 12 implica que el precio es doce veces la utilidad. La operación correcta es multiplicar.",
+        "Se toma una sola utilidad como valor del negocio. El múltiplo sintetiza la valoración de una corriente futura. Aplicarlo produce $60 millones en la fecha terminal.",
+        "Un múltiplo prospectivo relaciona valor en el año 4 con utilidad del año 5. Se aplica 12 × 5 = $60 millones. Al no existir deuda, no hay que reconciliar aquí ese valor del capital propio con otra financiación.",
+        "Esa cifra agrega una utilidad anual extra sin fundamento. El múltiplo ya debe aplicarse a la utilidad indicada del año 5. No se suma otro período a la definición de doce veces."
+      ]
+    },
+    {
+      "id": "c05-q055",
+      "tema": "Terminal mediante valor en libros",
+      "dificultad": "intermedia",
+      "pregunta": "Para un negocio sin deuda se estima un múltiplo valor de mercado/valor contable de 1,5 en el año 3. El capital contable será $40 millones y r = 10%. ¿Cuál es el VP del terminal?",
+      "opciones": [
+        "$60 millones.",
+        "$30,05 millones.",
+        "$79,86 millones.",
+        "$45,08 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese es el valor en el año 3. Falta descontarlo tres años. Su equivalente actual es $45,08 millones. Sumar el terminal sin este ajuste mezclaría un valor futuro con los valores actuales de los flujos explícitos.",
+        "Esta cifra descuenta sólo el capital contable de $40 millones. Omite el múltiplo de mercado de 1,5. Primero hay que obtener el terminal de $60 millones.",
+        "Esta cifra capitaliza $60 millones hacia adelante al 10%. Se busca un valor presente y debe dividirse por el factor acumulado. La dirección correcta del cálculo reduce el importe a $45,08 millones.",
+        "El valor en el año 3 es 1,5 × 40 = $60 millones. Para llevarlo a hoy se divide por 1,10³. El resultado es $45,08 millones, sin incluir los FEL anteriores."
+      ]
+    },
+    {
+      "id": "c05-q056",
+      "tema": "Límites de los comparables",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora contrasta un FED con múltiplos de empresas maduras. ¿Qué precaución es central?",
+      "opciones": [
+        "Comparar riesgo y perspectivas, normalizar resultados y considerar inflación, decisiones contables e intangibles omitidos.",
+        "Usar cualquier empresa del mismo país sin revisar su actividad.",
+        "Suponer que el valor contable siempre coincide con el valor económico de los activos.",
+        "Descartar siempre los múltiplos porque un FED detallado no puede equivocarse."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los precios observados aportan evidencia valiosa sobre lo que pagan los inversores. Pero las utilidades y los valores contables pueden estar distorsionados. Los múltiplos ayudan a contrastar supuestos si los negocios son realmente comparables.",
+        "Compartir país no garantiza igual riesgo ni perspectivas. Las diferencias pueden alterar mucho el múltiplo. La selección debe responder a fundamentos económicos.",
+        "Los balances pueden registrar costos históricos y omitir intangibles importantes. La inflación también puede alejar esos importes del valor actual. El valor contable no es una medición universal del valor económico.",
+        "Un cálculo técnicamente correcto puede apoyarse en pronósticos erróneos. Los precios de comparables permiten contrastarlo. El detalle del modelo no garantiza la calidad de sus supuestos."
+      ]
+    },
+    {
+      "id": "c05-q057",
+      "tema": "Horizonte de competencia",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora fija H cuando desaparecen las nuevas oportunidades de VPN positivo, aunque el negocio existente conserva sus rentas. ¿Qué terminal es coherente con el esquema de crecimiento cero equivalente?",
+      "opciones": [
+        "Cero, porque sin VPOC deja de existir todo valor.",
+        "Toda la utilidad futura sin descontar.",
+        "La utilidad dividida por g, sin importar el riesgo.",
+        "Utilidad sostenible de H + 1 dividida por r; nuevas inversiones al costo de capital no agregan VPOC."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El VPOC es sólo una parte del valor. Los activos existentes pueden seguir produciendo flujos. Esos flujos conservan valor aun sin oportunidades nuevas de VPN positivo.",
+        "Que VPOC sea cero no elimina el valor temporal del dinero. La corriente sostenible se capitaliza con r. No puede sumarse indefinidamente sin descuento.",
+        "El descuento sigue requiriendo el costo de oportunidad. La desaparición de VPOC no convierte al crecimiento en tasa de capitalización. En este esquema el denominador es r.",
+        "Agotar oportunidades valiosas no implica cerrar el negocio ni eliminar toda expansión. Las nuevas inversiones pueden tener VPN cero. El valor terminal se reduce a capitalizar la utilidad sostenible del negocio existente, manteniendo sus rentas previstas."
+      ]
+    },
+    {
+      "id": "c05-q058",
+      "tema": "Competencia sobre activos existentes",
+      "dificultad": "avanzada",
+      "pregunta": "Una nueva competencia reduce tanto el retorno de inversiones nuevas como las rentas de activos existentes. ¿Cómo cambia la evaluación frente a eliminar sólo el VPOC futuro?",
+      "opciones": [
+        "Sólo cambia VPOC porque las utilidades actuales quedan garantizadas para siempre.",
+        "También deben reducirse las utilidades sostenibles del negocio existente; perder nuevas oportunidades no captura toda la caída.",
+        "El terminal aumenta porque una menor rentabilidad libera valor automáticamente.",
+        "No cambia nada mientras el capital contable siga igual."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las rentas existentes no son necesariamente contractuales ni permanentes. La competencia puede reducir márgenes y ventas de los activos ya instalados. Es necesario revisar la corriente base además de las nuevas inversiones.",
+        "El valor combina la corriente del negocio existente y las oportunidades futuras. La competencia puede dañar ambos componentes. Si caen las rentas existentes, también baja la base de utilidades que se capitaliza al calcular el terminal.",
+        "Una rentabilidad menor reduce los cobros que los activos pueden generar. No produce por sí sola un beneficio compensatorio. Deben recalcularse utilidades e inversión con las nuevas condiciones.",
+        "Un mismo activo contable puede producir menos efectivo. El mercado valúa flujos y no sólo saldos de balance. La caída de rentabilidad puede reducir el valor aunque el capital contable no cambie."
+      ]
+    },
+    {
+      "id": "c05-q059",
+      "tema": "Inflación y consistencia nominal-real",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción pagará $6 nominales en un año y luego sus dividendos crecerán sólo con inflación del 2%. El costo nominal es 8%. ¿Qué valuación y tratamiento real son coherentes?",
+      "opciones": [
+        "Precio $100; usando DIV1 real = 6/1,02 y tasa real = 1,08/1,02 − 1 se obtiene el mismo valor.",
+        "Precio $75; basta dividir el dividendo nominal por la tasa nominal.",
+        "Precio $100; la prueba exacta consiste en dividir $6 reales por 8% − 2%.",
+        "Precio $73,53; se deflacta DIV1 pero se conserva el descuento nominal de 8%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En términos nominales, P0 = 6/(0,08 − 0,02) = $100. El próximo dividendo en poder adquisitivo actual es 6/1,02 y después permanece constante en términos reales. La tasa real exacta es 1,08/1,02 − 1, de modo que la perpetuidad real también vale $100.",
+        "Esta cuenta ignora que los pagos nominales crecerán con la inflación. La trayectoria nominal exige restar g de r. El precio correcto es $100.",
+        "El precio coincide por una simplificación que mezcla unidades. Los $6 son nominales del próximo año y deben deflactarse para expresarlos en poder adquisitivo actual. Además, la tasa real exacta surge de dividir factores y no de restar porcentajes.",
+        "Se combinan flujos reales con una tasa nominal. Esa inconsistencia aplica de más la compensación por inflación. Flujos reales deben descontarse con la tasa real exacta."
+      ]
+    },
+    {
+      "id": "c05-q060",
+      "tema": "Dividendos decrecientes",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa distribuye toda su utilidad, pero sus activos se agotan y DIV1 = $8 caerá 2% anual para siempre. Con r = 8%, ¿cuáles son P0 y UPA1/P0?",
+      "opciones": [
+        "$100 y 8%; distribuir toda la utilidad basta para igualar UPA/P a r.",
+        "$133,33 y 6%; se resta el 2% positivo del costo.",
+        "$80 y 10%; la razón utilidad/precio supera r por la caída esperada de los pagos.",
+        "$80 y 8%; el cociente UPA/P no depende del precio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad con r requiere una corriente sostenible sin crecimiento o VPOC nulo bajo la descomposición apropiada. Aquí las utilidades futuras decrecen por agotamiento. La razón del próximo año supera el rendimiento total porque habrá pérdida de capital.",
+        "El crecimiento indicado es −2% y no +2%. Restar un número negativo aumenta el denominador a 10%. El precio es $80. Una corriente decreciente debe valer menos que una perpetuidad constante que comienza con el mismo pago.",
+        "El crecimiento es negativo: g = −0,02. Por eso P0 = 8/[0,08 − (−0,02)] = $80 y UPA1/P0 = 8/80 = 10%. El rendimiento total esperado resta una pérdida de capital del 2%, quedando 8%.",
+        "El precio está bien calculado. Pero 8/80 es 10%, no 8%. El total esperado sí es 8% después de incorporar la caída del precio."
+      ]
+    },
+    {
+      "id": "c05-q061",
+      "tema": "Precio a valor contable",
+      "dificultad": "avanzada",
+      "pregunta": "En el modelo estable sin emisiones, con retención b y ROE constantes, ¿qué expresión determina precio sobre valor contable inicial B0?",
+      "opciones": [
+        "P0/B0 = ROE/r, independientemente de cuánto se retenga.",
+        "P0/B0 = ROE × (1 − b)/(r − b × ROE), siempre que r > b × ROE.",
+        "P0/B0 = 1 siempre que haya utilidades positivas.",
+        "P0/B0 = ROE/(r − b × ROE), usando toda la utilidad como dividendo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa razón omite el cambio conjunto de dividendo y crecimiento cuando hay retención. Puede coincidir en casos especiales, pero no es la fórmula general. El numerador debe contener 1 − b y el denominador debe restar b × ROE.",
+        "La utilidad siguiente es ROE × B0 y el dividendo distribuye la fracción 1 − b. El crecimiento interno es b × ROE. Sustituir ambos datos en Gordon y dividir por B0 produce esta expresión, que incorpora rentabilidad, retención y costo de capital.",
+        "La utilidad positiva no asegura que la rentabilidad compense el costo de oportunidad. El precio puede quedar por encima o por debajo del valor contable. La igualdad a uno surge bajo condiciones específicas, como ROE igual a r en este modelo.",
+        "El crecimiento se financia reteniendo una parte de las utilidades. Usar toda la utilidad como dividendo y conservar ese crecimiento cuenta el mismo efectivo dos veces. El numerador debe multiplicarse por la fracción efectivamente distribuida."
+      ]
+    },
+    {
+      "id": "c05-q062",
+      "tema": "ROE igual al costo del capital",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa regulada mantendrá ROE = r y nuevas inversiones de riesgo comparable. Decide retener más para crecer más rápido. ¿Qué implica el modelo estable con r > g?",
+      "opciones": [
+        "El precio sube necesariamente porque g aumenta.",
+        "El precio cae a cero porque deja de pagar toda su utilidad.",
+        "El ROE se convierte automáticamente en rendimiento del dividendo.",
+        "El crecimiento adicional no crea VPOC y el precio sigue igual al valor contable por acción."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El dividendo inicial disminuye al subir la retención. No puede aumentarse g y mantener ese dividendo sin justificación. Con ROE igual a r, ambos efectos se compensan.",
+        "Una menor distribución presente no elimina los pagos posteriores. La reinversión sigue generando el costo de capital. El valor del negocio no desaparece por retener una parte mayor.",
+        "El rendimiento del dividendo depende de cuánto se distribuye. Con retención positiva será menor que el rendimiento total. ROE y r coinciden aquí, pero no necesariamente con DIV1/P0.",
+        "Con ROE = r, P0/B0 = ROE × (1 − b)/(r − b × ROE) se simplifica a uno. Retener más reduce dividendos presentes y aumenta los futuros en compensación exacta. La expansión no crea valor porque las nuevas inversiones tienen VPN cero."
+      ]
+    },
+    {
+      "id": "c05-q063",
+      "tema": "Comisiones sobre una cartera",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera vale $20 millones, crecerá 4% anual y r = 10%. El administrador cobra 0,6% del valor de fin de cada año para siempre. Sin ajustar la trayectoria por la comisión, ¿cuál es el VP del contrato?",
+      "opciones": [
+        "$2 millones.",
+        "$1,248 millones.",
+        "$2,08 millones.",
+        "$0,1248 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se aplicó la comisión al valor inicial de $20 millones. El contrato usa el valor al final de cada año. La primera comisión debe incorporar el crecimiento del primer período.",
+        "Esta cifra capitaliza la primera comisión como si fuera constante. La base de cobro aumenta al 4% anual. Debe utilizarse una perpetuidad creciente con denominador de 6%.",
+        "Al final del primer año la cartera valdrá 20 × 1,04 = $20,8 millones. La primera comisión será 0,006 × 20,8 = $0,1248 millones y crecerá al 4%. Su VP es 0,1248/(0,10 − 0,04) = $2,08 millones.",
+        "Ese importe corresponde únicamente a la comisión del primer año. El contrato genera pagos durante toda la vida de la cartera. Es necesario valuar la secuencia completa."
+      ]
+    },
+    {
+      "id": "c05-q064",
+      "tema": "Financiación y dilución justa",
+      "dificultad": "avanzada",
+      "pregunta": "Una división sin deuda tiene VP de distribuciones futuras de $30 millones, pero necesita $6 millones hoy para cubrir déficits. Antes del aporte hay 2 millones de acciones. Si se emiten nuevas acciones a precio justo, ¿cuánto vale cada acción antigua antes del aporte?",
+      "opciones": [
+        "$12.",
+        "$15.",
+        "$18.",
+        "$9."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor de los derechos anteriores al aporte es 30 − 6 = $24 millones. Dividido por 2 millones de acciones da $12 por acción antigua. Los nuevos inversores aportan $6 millones y reciben derechos de ese valor, sin transferir riqueza si pagan el precio justo.",
+        "Dividir $30 millones por las acciones antiguas ignora la financiación pendiente. Los $6 millones no son riqueza gratuita para los accionistas existentes. Su valor previo es $24 millones y no $30 millones.",
+        "Esta cifra suma el aporte al VP de los cobros como si fuera un beneficio sin contraprestación. El nuevo inversor recibe acciones a cambio. Para valuar los derechos antiguos hay que restar el capital que todavía se necesita.",
+        "Esta cifra resta dos veces la necesidad de fondos. El VP de distribuciones es $30 millones y sólo hay que deducir una vez los $6 millones. El valor previo queda en $24 millones."
+      ]
+    },
+    {
+      "id": "c05-q065",
+      "tema": "Valor terminal competitivo numérico",
+      "dificultad": "avanzada",
+      "pregunta": "En el año 5 se agotarán las oportunidades con VPN positivo. La utilidad sostenible desde el año 6, sin crecimiento, será $4 millones anual y r = 10%. ¿Cuál es el terminal en el año 5 y su VP actual?",
+      "opciones": [
+        "$40 millones y $40 millones.",
+        "$4 millones y $2,48 millones.",
+        "$44 millones y $27,32 millones.",
+        "$40 millones y $24,84 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El terminal está bien calculado. Pero es un valor del año 5 y todavía debe descontarse. Su valor actual es $24,84 millones. El terminal y los FEL anteriores sólo pueden sumarse después de expresarlos en la misma fecha de valuación.",
+        "Se tomó sólo una utilidad anual. El negocio continuará generándola indefinidamente. Primero se capitaliza esa perpetuidad y luego se descuenta el terminal.",
+        "Se aumentó la utilidad un 10% como si r fuera una tasa de crecimiento. El enunciado indica utilidad constante desde el año 6. La tasa requerida sirve para descontar y no para aumentar automáticamente el flujo.",
+        "Sin VPOC, el terminal capitaliza la utilidad sostenible: 4/0,10 = $40 millones. Como se ubica en el año 5, su VP es 40/1,10⁵. El resultado es $24,84 millones, al que se sumarían los FEL explícitos."
+      ]
+    },
+    {
+      "id": "c05-q066",
+      "tema": "Contraste con el precio de mercado",
+      "dificultad": "intermedia",
+      "pregunta": "El FED de una directora arroja un precio mucho mayor al observado. ¿Cuál es la conclusión profesional más defendible?",
+      "opciones": [
+        "Comprar sin revisar nada porque la fórmula demuestra que el mercado está equivocado.",
+        "Revisar dividendos, inversión, crecimiento y riesgo antes de concluir que existe una oportunidad extraordinaria.",
+        "Modificar arbitrariamente la tasa hasta reproducir el precio y declarar comprobados los pronósticos.",
+        "Ignorar el modelo porque los precios nunca contienen información útil."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La corrección algebraica no garantiza la calidad de las entradas. Un crecimiento exagerado puede elevar mucho la valuación. Deben examinarse los supuestos antes de atribuir la diferencia al mercado.",
+        "El modelo transforma supuestos en una estimación de valor. Una diferencia puede reflejar errores de pronóstico propios o información que no se incorporó. No constituye por sí sola un método seguro para obtener rendimientos superiores.",
+        "Reproducir un precio no prueba la validez de todos los supuestos. Puede haber muchas combinaciones que produzcan el mismo valor. La tasa y los flujos deben justificarse económicamente.",
+        "El precio reúne las expectativas de quienes negocian. El modelo sirve para organizar y contrastar esas expectativas. Descartar cualquiera de los dos sin análisis impide entender la diferencia."
+      ]
+    },
+    {
+      "id": "c05-q067",
+      "tema": "Empresa familiar y salida al mercado",
+      "dificultad": "intermedia",
+      "pregunta": "El dueño de una empresa familiar quiere vender parte de sus acciones y financiar expansión; propone usar el valor contable porque un rival tiene mayor P/U. ¿Qué enfoque es más razonable?",
+      "opciones": [
+        "Tratar toda venta del dueño como capital nuevo para la empresa.",
+        "Separar venta del dueño y emisión nueva; valuar flujos y ventajas competitivas, y contrastar con un rival realmente comparable.",
+        "Copiar el P/U del rival sin revisar utilidades ni competencia.",
+        "Usar siempre el valor contable porque una empresa privada carece de valor económico estimable."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El dinero de una venta secundaria corresponde al propietario vendedor. La empresa recibe fondos si coloca títulos nuevos. Confundir ambos mecanismos sobreestima los recursos para expandirse.",
+        "Vender acciones propias permite al dueño recuperar inversión, mientras una emisión nueva aporta fondos a la empresa. El valor contable no representa necesariamente la rentabilidad futura. El P/U del rival sirve como contraste sólo después de revisar riesgo, utilidades y perspectivas.",
+        "El múltiplo puede reflejar distinta rentabilidad, riesgo o composición de resultados. Además, una nueva presión competitiva puede reducir las oportunidades. Hay que justificar la comparabilidad antes de trasladar el indicador.",
+        "La falta de cotización no impide proyectar y descontar flujos. Precisamente en ese contexto la valuación es necesaria. El balance aporta datos, pero no fija automáticamente el precio."
+      ]
+    },
+    {
+      "id": "c05-q068",
+      "tema": "Cambio de horizonte y transición",
+      "dificultad": "avanzada",
+      "pregunta": "Un equipo mueve el horizonte del año 5 al 8 sin cambiar ningún supuesto operativo. ¿Qué debería ocurrir si modela de manera coherente los flujos y el valor terminal?",
+      "opciones": [
+        "El valor debe aumentar porque ahora se suman tres flujos nuevos sin reducir el terminal.",
+        "El valor debe caer porque descontar el terminal tres años más siempre destruye valor.",
+        "El valor actual debería mantenerse; sólo cambia qué flujos aparecen explícitos y cuáles quedan dentro del terminal.",
+        "El valor debe igualarse al capital contable del año 8."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esos flujos ya estaban incluidos en el terminal anterior. Sumarlos sin ajustar ese componente duplica valor. El cambio de horizonte no crea cobros económicos nuevos.",
+        "El terminal más lejano representa una corriente remanente diferente. También se incorporan los flujos de los años intermedios. Considerar sólo el descuento adicional omite esa compensación.",
+        "El negocio económico y sus cobros no cambiaron. Los años adicionales se extraen del terminal y se muestran individualmente. Una diferencia importante indicaría inconsistencias de fechas o de supuestos entre ambas representaciones.",
+        "Elegir un horizonte no impone igualdad entre valor económico y contable. El terminal sigue dependiendo de los cobros posteriores. Esa igualdad requiere supuestos de rentabilidad específicos."
+      ]
+    },
+    {
+      "id": "c05-q069",
+      "tema": "Producción, precios y costos",
+      "dificultad": "avanzada",
+      "pregunta": "Una petrolera sin impuestos ni nuevas inversiones tiene producción actual de 100.000 barriles, que caerá 10% anual. El precio actual de $40 subirá 5% anual y el costo por barril seguirá en $20. Se distribuye todo y r = 10%. Con un millón de acciones, ¿cuánto vale cada una?",
+      "opciones": [
+        "$15,39.",
+        "$12,77.",
+        "$19,80.",
+        "$9,00."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En el año 1 se venderán 90.000 barriles a $42: ingresos de $3,78 millones y costos de $1,8 millones. Los ingresos crecen a 0,90 × 1,05 − 1 = −5,5%, mientras los costos totales decrecen 10%. El valor es 3,78/[0,10 − (−0,055)] − 1,8/[0,10 − (−0,10)] = $15,3871 millones. Dividir por un millón de acciones da $15,39 por acción.",
+        "Esta cifra trata todo el margen inicial de $1,98 millones como si decreciera 5,5% anual. Pero ingresos y costos no siguen la misma tasa, porque el costo unitario permanece fijo. Hay que valuar ambas corrientes por separado.",
+        "Esta cifra capitaliza la utilidad del año 1 como una perpetuidad constante. Ignora los cambios posteriores en cantidad y precio. La trayectoria completa produce un valor menor, de $15,39 por acción.",
+        "Esta cifra mantiene el margen unitario actual de $20 y descuenta sólo la caída de producción. Omite que el precio aumenta 5% anual mientras el costo unitario no cambia. Esa diferencia exige separar ingresos y costos futuros."
+      ]
+    },
+    {
+      "id": "c05-q070",
+      "tema": "Comparación y tasa de descuento",
+      "dificultad": "intermedia",
+      "pregunta": "La acción A pagará $6 anuales constantes desde el año 1 y la B pagará $4 en el año 1, con crecimiento perpetuo de 5%. ¿Cuál vale más con una tasa común de 10% y cuál con 20%?",
+      "opciones": [
+        "Con 10% vale más B; con 20% vale más A.",
+        "B vale más con ambas tasas porque su dividendo crece.",
+        "A vale más con ambas tasas porque paga más el próximo año.",
+        "Con 10% vale más A; con 20% vale más B."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Al 10%, A vale 6/0,10 = $60 y B vale 4/(0,10 − 0,05) = $80. Al 20%, A vale $30 y B vale 4/(0,20 − 0,05) = $26,67. La acción B depende más de pagos lejanos y resulta más afectada por una tasa elevada.",
+        "El crecimiento no garantiza la mayor valuación a cualquier tasa. B comienza pagando menos que A. Con una tasa del 20%, pesan menos sus ventajas lejanas y A vale más.",
+        "Comparar sólo el primer pago ignora los dividendos posteriores. Con una tasa del 10%, el crecimiento de B lleva su precio a $80 frente a $60 de A. El ranking requiere descontar toda la corriente.",
+        "Se invirtió el efecto del descuento sobre el crecimiento. Los pagos lejanos tienen más peso cuando la tasa es baja. La cuenta correcta favorece a B al 10% y a A al 20%."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1526 @@
+{
+  "capitulo": 4,
+  "titulo": "Valuación de bonos",
+  "preguntas": [
+    {
+      "id": "c04-q001",
+      "tema": "Bonos y financiamiento",
+      "dificultad": "basica",
+      "pregunta": "Una empresa emite un bono ordinario para financiar una máquina. ¿Qué derecho adquiere el comprador?",
+      "opciones": [
+        "Recuperar exactamente su precio de compra al vencimiento.",
+        "Modificar el cupón según la rentabilidad de la máquina.",
+        "Cobrar los intereses pactados y el capital al vencimiento.",
+        "Participar como accionista en las utilidades."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El capital contractual es el nominal. El precio pagado puede ser mayor o menor. Además, el bono con cupón paga intereses.",
+        "El cupón fijo depende del contrato. La rentabilidad del proyecto no lo modifica automáticamente. Un mal resultado puede generar riesgo de incumplimiento.",
+        "Un bono representa un préstamo al emisor. El contrato establece intereses y devolución del capital. Su comprador es acreedor de la empresa.",
+        "Esta opción confunde deuda con acciones. Los accionistas tienen derechos residuales sobre las utilidades. Los bonistas tienen derechos contractuales de cobro."
+      ]
+    },
+    {
+      "id": "c04-q002",
+      "tema": "Riesgo soberano y moneda",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué supuesto permite considerar ciertos los pagos nominales del bono gubernamental usado en el modelo básico?",
+      "opciones": [
+        "Se supone deuda soberana en moneda propia sin incumplimiento, pero persisten otros riesgos.",
+        "Todo gobierno garantiza cualquier deuda en divisas.",
+        "No existe riesgo de precio ni de inflación.",
+        "Los bonos municipales y empresariales también carecen de riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La simplificación se refiere al cumplimiento nominal en moneda propia. No se extiende automáticamente a deuda en moneda extranjera. El precio de reventa y el poder adquisitivo pueden variar.",
+        "El gobierno no emite necesariamente las divisas que necesita pagar. Puede enfrentar restricciones para conseguirlas. Por eso no corresponde extender el supuesto a cualquier moneda.",
+        "Los riesgos de mercado y de inflación son distintos del impago. Las tasas pueden alterar el precio de reventa. La inflación puede reducir el poder de compra de pagos ciertos.",
+        "Empresas y municipios pueden incumplir. La certeza asumida para el soberano no se transmite a otros emisores. Sus rendimientos deben considerar las características de su deuda."
+      ]
+    },
+    {
+      "id": "c04-q003",
+      "tema": "Cupón y capital",
+      "dificultad": "basica",
+      "pregunta": "Un bono de nominal $2.000 paga 6% anual y vence en tres años. Se compra justo después de un cupón: ¿qué pagos quedan?",
+      "opciones": [
+        "$120 hoy, $120 en un año y $2.120 en dos años.",
+        "$120 en cada uno de los dos primeros años y solo $2.000 al final.",
+        "$6 en cada uno de los dos primeros años y $2.006 al final.",
+        "$120 en un año, $120 en dos años y $2.120 en tres años."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se agregó un cobro inmediato que ya ocurrió. Comprar después del cupón no da derecho a cobrarlo otra vez. Los pagos pendientes ocurren en los años uno, dos y tres.",
+        "El último cupón también debe pagarse. No se sustituye por la devolución del capital. El flujo final es la suma de ambos conceptos.",
+        "El 6% no es un importe en pesos. Debe multiplicarse por el nominal de $2.000. El cupón correcto es $120 y el flujo final es $2.120.",
+        "El cupón es 0,06 × 2.000 = $120. El primer pago pendiente llega dentro de un año. Al final se cobran juntos $120 de cupón y $2.000 de capital."
+      ]
+    },
+    {
+      "id": "c04-q004",
+      "tema": "Costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "Con una curva plana, ¿qué tasa corresponde usar para valuar pagos ciertos de un bono?",
+      "opciones": [
+        "El crecimiento de ventas del comprador.",
+        "El rendimiento de mercado de alternativas comparables en moneda y riesgo.",
+        "La tasa de cupón, sin considerar el mercado.",
+        "La rentabilidad contable del emisor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las ventas del comprador no fijan el rendimiento exigido al instrumento. Son una variable comercial de otra actividad. El descuento debe basarse en alternativas financieras comparables.",
+        "La tasa refleja el rendimiento sacrificado en una alternativa comparable. Debe corresponder a la moneda y al riesgo de los flujos. Con curva plana se usa una tasa común para los plazos.",
+        "El cupón determina los pagos contractuales. No determina lo que exige hoy el inversor. Descontar siempre al cupón forzaría indebidamente el precio a la par.",
+        "La rentabilidad contable mide otro fenómeno. No es necesariamente la alternativa disponible para el bonista. Debe buscarse una tasa de mercado comparable."
+      ]
+    },
+    {
+      "id": "c04-q005",
+      "tema": "Valor presente anual",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono tiene nominal $1.000, cupón anual 8%, dos años restantes y rendimiento efectivo anual 10%. Justo después de un cupón, ¿cuánto vale?",
+      "opciones": [
+        "$892,56.",
+        "$965,29.",
+        "$1.160,00.",
+        "$1.000,00."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe descuenta solo el pago final de $1.080. Omite el cupón del primer año. El comprador tiene derecho a ambos flujos pendientes.",
+        "Quedan $80 al año y $1.080 a los dos años. El precio es 80/1,10 + 1.080/1,10² = $965,29. Cotiza bajo la par porque el cupón es menor que el rendimiento.",
+        "Este importe suma pagos futuros sin descuento. Los $1.160 no se reciben hoy. Cada pago debe llevarse a valor presente según su fecha.",
+        "La par requiere que cupón y rendimiento coincidan bajo la misma convención. Aquí se paga 8% y se exige 10%. Por eso el precio debe ser inferior al nominal."
+      ]
+    },
+    {
+      "id": "c04-q006",
+      "tema": "Anualidad y capital",
+      "dificultad": "basica",
+      "pregunta": "Con cupón anual C, nominal F, n años y tasa plana positiva y, ¿qué fórmula valía el bono?",
+      "opciones": [
+        "C/y + F/(1+y)^n para cualquier n finito.",
+        "C × n + F.",
+        "F × [1 − (1+y)^(-n)]/y + C/(1+y)^n.",
+        "C × [1 − (1+y)^(-n)]/y + F/(1+y)^n."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "C/y es el valor de una perpetuidad. El bono deja de pagar al vencer en n. Debe usarse la anualidad finita para los cupones.",
+        "Esta suma no considera el valor del tiempo. Los importes futuros valen menos hoy cuando la tasa es positiva. Deben descontarse cupones y capital.",
+        "Se intercambiaron capital y cupón. El nominal no se recibe todos los años. C es el pago periódico y F el capital adicional al final.",
+        "Los cupones forman una anualidad finita. Se descuenta esa serie con su factor de anualidad. Luego se suma el valor presente del capital."
+      ]
+    },
+    {
+      "id": "c04-q007",
+      "tema": "Rendimiento al vencimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se define el rendimiento al vencimiento?",
+      "opciones": [
+        "Es la tasa que iguala el precio con el valor presente de todos los pagos pendientes.",
+        "Es siempre el cupón dividido por el nominal.",
+        "Es la ganancia de precio del último día.",
+        "Es el promedio aritmético simple de las tasas spot."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Es la tasa interna de retorno de comprar el bono y recibir sus pagos. Incluye cupones y recuperación de capital. Resume su precio mediante una única tasa de descuento.",
+        "Ese cociente define la tasa de cupón. La TIR también depende del precio pagado. Ambas tasas pueden diferir si el bono no cotiza a la par.",
+        "Una ganancia diaria no incorpora todos los flujos pendientes. La TIR se obtiene usando el precio actual y los pagos futuros. No es una medida de la variación histórica diaria.",
+        "La relación entre tasas y valores presentes es no lineal. También importa cuándo se reciben los pagos. El rendimiento no resulta de promediar las tasas spot sin ponderaciones."
+      ]
+    },
+    {
+      "id": "c04-q008",
+      "tema": "Búsqueda de la TIR",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista prueba una tasa de 7% y obtiene un valor presente superior al precio observado. Para un bono convencional, ¿cómo debe ajustar la tasa?",
+      "opciones": [
+        "Cambiar el cupón contractual.",
+        "Agregar el precio como ingreso en el período cero.",
+        "Aumentarla.",
+        "Reducirla."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cupón es un dato del contrato. Cambiarlo significaría analizar otro instrumento. La incógnita que reproduce el precio es la tasa.",
+        "Para quien compra, el precio es un desembolso inicial. No debe registrarse como cobro. La TIR equilibra ese desembolso y los pagos futuros.",
+        "Una tasa mayor reduce el valor presente de pagos positivos. El resultado demasiado alto indica que la tasa probada es baja. Debe subirla e iterar hasta igualar el precio.",
+        "Una tasa menor aumenta aún más el valor presente. Eso aleja el cálculo del precio observado. La corrección necesaria tiene el sentido contrario."
+      ]
+    },
+    {
+      "id": "c04-q009",
+      "tema": "Prima y descuento",
+      "dificultad": "basica",
+      "pregunta": "Un bono ordinario con cupón anual cotiza sobre la par. ¿Qué relación existe entre su rendimiento y su tasa de cupón?",
+      "opciones": [
+        "Deben ser iguales.",
+        "Depende solamente del nombre del emisor.",
+        "El rendimiento es menor que la tasa de cupón.",
+        "El rendimiento es mayor que la tasa de cupón."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad corresponde a cotizar a la par con convenciones coherentes. No se mantiene cuando el precio es superior. La prima reduce el rendimiento respecto del cupón.",
+        "La relación surge del precio y de los flujos. El emisor puede influir en el riesgo requerido por el mercado. Su nombre no altera esta identidad financiera.",
+        "Pagar una prima implica recuperar menos capital que el precio inicial. Esa pérdida compensa parte de los cupones altos. Por eso la TIR es menor que la tasa de cupón.",
+        "Un rendimiento superior al cupón corresponde a un precio bajo la par. Allí la recuperación del nominal agrega ganancia de capital. Aquí se paga una prima y ocurre lo contrario."
+      ]
+    },
+    {
+      "id": "c04-q010",
+      "tema": "Cotización en treintaidosavos",
+      "dificultad": "intermedia",
+      "pregunta": "Una nota de nominal USD 2.000 cotiza a 98:16 en puntos y treintaidosavos. ¿Cuál es el precio limpio?",
+      "opciones": [
+        "USD 1.970.",
+        "USD 1.963,20.",
+        "USD 1.981,60.",
+        "USD 98,50."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cotización equivale a 98 + 16/32 = 98,50% del nominal. Se multiplica 0,985 por USD 2.000. El precio limpio es USD 1.970.",
+        "Este importe interpreta la cotización como 98,16%. Los dígitos después de los dos puntos son treintaidosavos. Dieciséis treintaidosavos equivalen a medio punto porcentual.",
+        "La fracción indicada no equivale al ajuste que supone esta respuesta. Debe sumarse 0,50 a 98. Luego se aplica 98,50% al nominal de la posición.",
+        "98,50 es el precio por cada cien de nominal. La posición tiene USD 2.000 de nominal. Para hallar el importe hay que multiplicar esa cotización por veinte."
+      ]
+    },
+    {
+      "id": "c04-q011",
+      "tema": "Bid, ask y diferencial",
+      "dificultad": "intermedia",
+      "pregunta": "Un operador cotiza bid 99:08 y ask 99:10. Un inversor compra y vende inmediatamente sin otros cambios ni costos. ¿Qué ocurre?",
+      "opciones": [
+        "Compra al bid y vende al ask: gana el diferencial.",
+        "Opera ambas veces al nominal.",
+        "Cobra el diferencial como cupón.",
+        "Compra al ask y vende al bid: pierde el diferencial."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se invirtió la perspectiva de la cotización. El bid es lo que paga el operador y el ask lo que cobra. El cliente no puede comprar al precio al que compra el operador.",
+        "El nominal es el capital contractual. Las transacciones ocurren a precios de mercado. Por eso el diferencial afecta al inversor aunque el nominal sea constante.",
+        "El diferencial surge de dos precios de negociación. No es un interés prometido por el emisor. Para quien compra y vende enseguida representa un costo.",
+        "El operador vende al cliente al ask. Le compra al cliente al bid. La ida y vuelta inmediata produce una pérdida igual al diferencial."
+      ]
+    },
+    {
+      "id": "c04-q012",
+      "tema": "Precio limpio y sucio",
+      "dificultad": "intermedia",
+      "pregunta": "El precio limpio de un bono es $980 y su interés devengado a favor del vendedor es $15. Sin comisiones, ¿cuánto paga el comprador?",
+      "opciones": [
+        "$1.015.",
+        "$995.",
+        "$965.",
+        "$980."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta reemplaza sin motivo el precio limpio por $1.000. El dato de mercado es $980. El interés se suma a ese dato y no a una paridad supuesta.",
+        "El precio total suma cotización limpia e interés corrido. Se calcula 980 + 15 = $995. El ajuste compensa al vendedor por el interés acumulado desde el cupón anterior.",
+        "Restar el interés invierte el ajuste. El vendedor tiene derecho al devengamiento indicado. El comprador debe sumarlo al precio limpio.",
+        "El precio limpio excluye el interés corrido. No es por sí solo el desembolso de liquidación. Faltan los $15 devengados."
+      ]
+    },
+    {
+      "id": "c04-q013",
+      "tema": "Valuación semestral",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de nominal $1.000 y cupón nominal anual 8% paga semestralmente y vence en dos años. Su rendimiento nominal anual capitalizable semestralmente es 12%. Justo después de un cupón, ¿cuánto vale?",
+      "opciones": [
+        "$963,33.",
+        "$930,70.",
+        "$757,01.",
+        "$1.000,00."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe usa solo dos períodos semestrales con cupón de $40 y tasa de 6%. El bono vence en dos años, que contienen cuatro semestres. Deben incluirse los cuatro cupones y devolver el capital al final del cuarto período.",
+        "Cada semestre paga $40 y se descuenta al 6%. Quedan cuatro pagos, con $1.000 adicionales en el último. El precio es 40 × [1 − 1,06^(-4)]/0,06 + 1.000/1,06^4 = $930,70.",
+        "Este valor surge de descontar los cuatro pagos semestrales al 12% por semestre. La tasa dada es nominal anual, por lo que debe dividirse por dos. Usar 6% semestral produce el precio correcto de $930,70.",
+        "La par exige igualdad entre cupón y rendimiento con igual convención. El bono paga 8% nominal y el mercado exige 12%. Debe cotizar con descuento."
+      ]
+    },
+    {
+      "id": "c04-q014",
+      "tema": "Nominal y efectiva",
+      "dificultad": "intermedia",
+      "pregunta": "Una tasa de 12% nominal anual capitalizable semestralmente equivale a una efectiva anual de:",
+      "opciones": [
+        "12,00%.",
+        "6,00%.",
+        "24,00%.",
+        "12,36%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 12% suma las dos tasas semestrales. No incorpora interés sobre el interés del primer semestre. La efectiva anual incluye esa capitalización.",
+        "El 6% corresponde a un semestre. El año contiene dos de esos períodos. Se deben multiplicar sus factores de capitalización.",
+        "La tasa de partida ya es anual. Duplicarla confunde la unidad temporal de la cotización. Corresponde dividir por dos y luego capitalizar dos veces.",
+        "La tasa semestral es 12%/2 = 6%. El factor de un año es 1,06² = 1,1236. Restando uno se obtiene 12,36%."
+      ]
+    },
+    {
+      "id": "c04-q015",
+      "tema": "TIR y reinversión",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora afirma que una TIR de 7% garantiza una riqueza final equivalente al 7% compuesto sobre toda la inversión. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "Esa riqueza final requiere reinvertir los cupones al 7%; la TIR por sí sola no lo garantiza.",
+        "Es cierto aunque los cupones queden sin generar intereses.",
+        "Es cierto porque cupón y TIR siempre coinciden.",
+        "Es falso porque la TIR omite el capital final."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La TIR resume el precio y los pagos contractuales. No asegura las tasas disponibles al cobrar los cupones. Para la equivalencia de riqueza final hay que reinvertir esos cobros al 7%.",
+        "El efectivo sin interés no crece al 7%. La TIR contractual puede seguir siendo esa, pero cambia la riqueza terminal. Deben distinguirse ambas medidas de rentabilidad.",
+        "Cupón y TIR no siempre coinciden. Incluso si coincidieran, no fijarían la tasa futura de reinversión. La afirmación mezcla pagos del bono y una estrategia posterior.",
+        "La TIR incluye el capital del vencimiento. No hay una omisión de ese pago. El problema es la tasa a la que podrán reinvertirse los cupones."
+      ]
+    },
+    {
+      "id": "c04-q016",
+      "tema": "Cambios de tasas y contrato",
+      "dificultad": "basica",
+      "pregunta": "Suben las tasas de mercado después de emitirse un bono a tasa fija. Manteniendo lo demás constante, ¿qué sucede?",
+      "opciones": [
+        "Cupón constante, precio mayor y TIR menor.",
+        "Cupón menor y nominal menor, con TIR constante.",
+        "Cupón constante, precio menor y TIR mayor.",
+        "Cupón mayor, precio constante y TIR constante."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta combinación corresponde a una caída de tasas. Un precio mayor reduce el rendimiento de pagos dados. Si el mercado exige más, el precio debe caer.",
+        "El cupón y el nominal siguen siendo obligaciones contractuales. No disminuyen automáticamente por una suba de tasas. El mercado ajusta el precio del instrumento.",
+        "Los pagos fijos no cambian por la cotización del mercado. Para ofrecer una TIR mayor con esos pagos, el precio baja. El ajuste ocurre en el valor de negociación.",
+        "La tasa de mercado no reescribe el cupón fijo. Con precio y pagos constantes tampoco cambiaría la TIR. La nueva exigencia se refleja en un precio menor."
+      ]
+    },
+    {
+      "id": "c04-q017",
+      "tema": "Relación inversa precio-tasa",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué baja el precio de un bono ordinario cuando sube la tasa de descuento?",
+      "opciones": [
+        "El nominal aumenta automáticamente.",
+        "La suma sin descontar de los pagos disminuye.",
+        "Los mismos pagos futuros tienen menor valor presente.",
+        "El emisor cancela el último cupón."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El nominal fijo no aumenta con la tasa. Un aumento del capital tampoco explicaría por sí mismo una caída de valor. La relación inversa surge del descuento.",
+        "Los importes prometidos permanecen iguales. Su suma sin descuento no cambia. La diferencia aparece al traerlos al presente con una tasa mayor.",
+        "Cada pago se divide por un factor mayor. Su valor presente disminuye aunque el importe futuro sea igual. La suma de los valores presentes también baja.",
+        "Una suba de tasas no elimina pagos contractuales. Se siguen valuando los mismos cupones. Cambia su valor actual y no su existencia."
+      ]
+    },
+    {
+      "id": "c04-q018",
+      "tema": "Duración de Macaulay",
+      "dificultad": "basica",
+      "pregunta": "¿Qué mide la duración de Macaulay de un bono con flujos positivos?",
+      "opciones": [
+        "El promedio de las fechas de cobro, ponderadas por su participación en el valor presente total.",
+        "La fecha del último pago sin considerar cupones.",
+        "El promedio de fechas ponderadas por importes sin descontar.",
+        "El tiempo que transcurrió desde la emisión."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada pago pesa según su valor presente dividido por el precio del bono. Esas participaciones suman uno. La duración promedia las fechas usando esas ponderaciones.",
+        "La fecha final es el vencimiento. La duración también considera los cobros anteriores. En un bono con cupones positivos suele ser menor que el vencimiento.",
+        "Descontar modifica la importancia relativa de los pagos. Las ponderaciones deben basarse en valores presentes. Usar importes nominales produce una medida distinta.",
+        "La antigüedad no mide cuándo se recibirán los pagos pendientes. La duración se calcula desde la fecha de valuación hacia adelante. Depende de los flujos futuros y de su descuento."
+      ]
+    },
+    {
+      "id": "c04-q019",
+      "tema": "Cálculo de duración",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo paga $110 dentro de un año y $121 dentro de dos años. Con tasa efectiva anual plana del 10%, ¿cuál es su duración de Macaulay?",
+      "opciones": [
+        "1,52 años.",
+        "2,00 años.",
+        "1,00 año.",
+        "1,50 años."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ponderar con importes sin descuento da aproximadamente 1,52 años. Ese método ignora que el segundo pago está más lejos. Deben ponderarse los dos valores presentes, que aquí son iguales.",
+        "Dos años es el vencimiento del activo. La mitad del valor se cobra antes, en el primer año. El promedio ponderado debe ser menor que dos.",
+        "Un año sería correcto si todo el valor se cobrara en esa fecha. Aquí también existe un pago importante al año dos. Su participación lleva la duración a 1,50 años.",
+        "Los valores presentes son 110/1,10 = $100 y 121/1,10² = $100. Cada pago representa la mitad del valor total de $200. La duración es 1 × 0,5 + 2 × 0,5 = 1,50 años."
+      ]
+    },
+    {
+      "id": "c04-q020",
+      "tema": "Cupón y duración",
+      "dificultad": "basica",
+      "pregunta": "Dos bonos tienen igual nominal, vencimiento y rendimiento positivo. ¿Cuál suele tener mayor duración?",
+      "opciones": [
+        "El que se emitió primero, sin importar sus pagos.",
+        "El de menor cupón.",
+        "El de mayor cupón.",
+        "Siempre tienen la misma duración."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La fecha original de emisión no determina la duración pendiente. Importan los pagos aún no cobrados y la tasa actual. La antigüedad por sí sola no permite ordenar estos instrumentos.",
+        "Un cupón menor reduce el peso de los cobros tempranos. El capital final representa una fracción mayor del valor. Por eso el plazo promedio de recuperación aumenta.",
+        "Un cupón alto adelanta una parte mayor del valor. Eso reduce el plazo promedio ponderado. La relación indicada está invertida.",
+        "Igual vencimiento no implica igual distribución de cobros. Los cupones cambian sus ponderaciones. La duración distingue precisamente esa diferencia."
+      ]
+    },
+    {
+      "id": "c04-q021",
+      "tema": "Cupón cero y duración",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono cupón cero vence dentro de siete años. ¿Cuál es su duración de Macaulay, cualquiera sea su tasa de rendimiento admisible?",
+      "opciones": [
+        "Siete dividido por uno más su rendimiento.",
+        "Siete años.",
+        "Menos de siete años porque se descuenta.",
+        "Cero años porque no paga intereses periódicos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa expresión corresponde a la duración modificada con capitalización anual. La pregunta pide Macaulay. Hay que distinguir el plazo promedio y la medida de sensibilidad.",
+        "El bono concentra todo su pago en una sola fecha. Esa fecha tiene una ponderación de uno en el valor total. Su duración de Macaulay coincide con los siete años restantes.",
+        "El descuento cambia el valor del único pago. No altera su participación, que sigue siendo el 100% del precio. Por eso no acorta la duración de Macaulay.",
+        "No pagar cupones no equivale a cobrar inmediatamente. El capital sigue comprometido hasta el vencimiento. La duración refleja esa espera de siete años."
+      ]
+    },
+    {
+      "id": "c04-q022",
+      "tema": "Duración modificada",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono con pagos anuales tiene duración de Macaulay de 4,4 años y rendimiento efectivo anual del 10%. ¿Cuál es su duración modificada?",
+      "opciones": [
+        "4,4.",
+        "4,84.",
+        "0,4.",
+        "4,0."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "4,4 es la duración de Macaulay dada. Falta ajustar por el factor de rendimiento. La duración modificada es menor cuando la tasa es positiva.",
+        "Multiplicar por 1,10 invierte la transformación. La fórmula requiere dividir por ese factor. El resultado correcto es 4,0.",
+        "Dividir por 11 confunde 10% con diez unidades enteras. La tasa se expresa como 0,10. El denominador correcto es 1,10.",
+        "Con capitalización anual se divide Macaulay por uno más el rendimiento. El cálculo es 4,4/1,10 = 4,0. Esta medida aproxima la sensibilidad porcentual del precio a cambios pequeños de tasa."
+      ]
+    },
+    {
+      "id": "c04-q023",
+      "tema": "Aproximación del precio",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono vale $2.000 y tiene duración modificada 4. Si su rendimiento sube 0,5 puntos porcentuales, ¿qué cambio de precio aproxima la duración?",
+      "opciones": [
+        "Una baja de $40, hasta unos $1.960.",
+        "Una suba de $40, hasta unos $2.040.",
+        "Una baja de $400, hasta unos $1.600.",
+        "Una baja de $4, hasta unos $1.996."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La variación relativa aproximada es −4 × 0,005 = −0,02. El 2% de $2.000 equivale a $40. Por eso el precio estimado baja a $1.960.",
+        "Se perdió el signo negativo de la sensibilidad. Una suba del rendimiento reduce el precio de pagos fijos. La magnitud aproximada es $40, pero corresponde una caída.",
+        "Este resultado convierte mal los puntos porcentuales. Medio punto porcentual equivale a 0,005 en tasa decimal. La caída aproximada es 2%, no 20%.",
+        "Este resultado subestima por diez la variación. Se debe multiplicar 4 por 0,005 y por $2.000. El cambio es de $40 y no de $4."
+      ]
+    },
+    {
+      "id": "c04-q024",
+      "tema": "Convexidad",
+      "dificultad": "avanzada",
+      "pregunta": "Para un bono convencional sin opciones, ¿qué efecto tiene la convexidad frente a cambios de tasa de igual magnitud alrededor del nivel inicial?",
+      "opciones": [
+        "El precio cambia exactamente en línea recta para cualquier variación.",
+        "El precio aumenta tanto si la tasa sube como si baja.",
+        "La ganancia por una baja de tasa supera la pérdida por una suba equivalente.",
+        "La pérdida por la suba supera siempre la ganancia por la baja."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La duración representa una aproximación local lineal. La relación exacta de descuento es curva. Para cambios grandes, el error de la aproximación puede ser relevante.",
+        "La convexidad no elimina la relación inversa entre tasa y precio. El precio cae si aumenta el rendimiento. La asimetría se refiere a magnitudes y no a invertir ese signo.",
+        "La relación entre precio y rendimiento es decreciente y convexa. Al bajar la tasa, la curva se vuelve más inclinada. La aproximación lineal no capta esa asimetría favorable.",
+        "Esta descripción invierte la convexidad de un bono convencional. Su curva se dobla hacia arriba. Con cambios simétricos, la ganancia al bajar tasas es mayor que la pérdida al subirlas."
+      ]
+    },
+    {
+      "id": "c04-q025",
+      "tema": "Rendimiento y duración",
+      "dificultad": "intermedia",
+      "pregunta": "Manteniendo fijos los pagos de un bono con varios cobros positivos, ¿qué suele pasar con su duración de Macaulay cuando aumenta el rendimiento?",
+      "opciones": [
+        "No cambia, porque el vencimiento no cambia.",
+        "Se vuelve negativa por la caída de precio.",
+        "Disminuye, porque se reduce relativamente más el peso de los cobros lejanos.",
+        "Aumenta, porque los pagos lejanos pesan más."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El vencimiento puede permanecer igual mientras cambian las ponderaciones. La duración usa valores presentes, no solo fechas. Por eso puede variar aunque el contrato no cambie.",
+        "Con pagos positivos y fechas futuras positivas, la duración sigue siendo positiva. Que el precio caiga no cambia ese hecho. El signo negativo corresponde a la relación entre precio y tasa.",
+        "Una tasa mayor descuenta con más intensidad los pagos distantes. Aumenta el peso relativo de los cobros próximos. El promedio ponderado de fechas se acorta.",
+        "Los pagos lejanos pierden peso relativo al descontarse más. No lo ganan. La duración tiende a disminuir con el rendimiento en este caso."
+      ]
+    },
+    {
+      "id": "c04-q026",
+      "tema": "Vencimiento y perpetuidad",
+      "dificultad": "avanzada",
+      "pregunta": "Con rendimiento anual del 8%, una perpetuidad de pagos anuales constantes tiene duración (1+y)/y. Frente a un cupón cero a veinte años, ¿cuál tiene mayor duración?",
+      "opciones": [
+        "El cupón cero: 20 años frente a 13,5 años de la perpetuidad.",
+        "La perpetuidad, porque su duración necesariamente es infinita.",
+        "Ambos: 20 años.",
+        "La perpetuidad: 25 años frente a 20."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La duración de la perpetuidad es 1,08/0,08 = 13,5 años. La del cupón cero es su vencimiento de veinte años. El caso muestra que un vencimiento más lejano no obliga a tener mayor duración.",
+        "Una vida infinita no implica un promedio ponderado infinito. Los cobros lejanos pesan cada vez menos al descontarse. La fórmula dada produce una duración finita de 13,5 años.",
+        "El cupón cero sí tiene duración de veinte años. La perpetuidad distribuye valor entre muchos cobros previos. Su promedio ponderado resulta distinto y menor en este caso.",
+        "La fórmula debe evaluarse con y = 0,08. El cociente correcto es 13,5 y no 25. No corresponde inventar un plazo fijo para una serie perpetua."
+      ]
+    },
+    {
+      "id": "c04-q027",
+      "tema": "Riesgo de curva",
+      "dificultad": "avanzada",
+      "pregunta": "Una tesorera iguala la duración de dos carteras y concluye que reaccionarán igual ante cualquier cambio de tasas. ¿Qué objeción es válida?",
+      "opciones": [
+        "La duración no sirve ni siquiera para cambios pequeños y paralelos.",
+        "Las tasas cortas y largas siempre se mueven exactamente igual.",
+        "Igual duración obliga a tener idénticos cupones y vencimientos.",
+        "Una duración agregada no resume desplazamientos no paralelos de la curva ni todos los efectos de convexidad."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La duración sí es útil como aproximación para movimientos pequeños apropiadamente definidos. Su limitación no equivale a inutilidad. El error es extender una medida local a cualquier escenario.",
+        "Los rendimientos de distintos plazos pueden moverse en direcciones diferentes. Suponer paralelismo universal elimina un riesgo real. Hay que analizar también cambios en la forma de la curva.",
+        "Diversas combinaciones de flujos pueden producir igual duración. No tienen por qué coincidir sus contratos. Esa coincidencia numérica tampoco asegura igual respuesta en todos los escenarios.",
+        "La duración mide una sensibilidad local resumida. Una curva puede empinarse, aplanarse o girar, afectando distintos pagos de manera desigual. La convexidad también puede generar diferencias ante movimientos grandes."
+      ]
+    },
+    {
+      "id": "c04-q028",
+      "tema": "Retorno de tenencia",
+      "dificultad": "intermedia",
+      "pregunta": "Se compra un bono por $1.000, se cobra un cupón de $60 y se vende un año después, justo tras el cupón, por $970. Sin otros costos, ¿cuál fue el retorno del año?",
+      "opciones": [
+        "9%.",
+        "3%.",
+        "6%.",
+        "−3%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta respuesta suma la pérdida de capital como si fuera una ganancia. El precio cayó $30. El cupón de $60 se compensa parcialmente con esa caída.",
+        "El resultado suma cupón y variación de precio. Se calcula (60 + 970 − 1.000)/1.000 = 0,03. La pérdida de capital reduce el retorno de los intereses a 3%.",
+        "El 6% solo considera el cupón. Omite la pérdida de $30 al vender. El retorno total incluye ambos componentes.",
+        "El −3% mide únicamente la caída de precio. Falta sumar el cupón cobrado de $60. El resultado neto del período es positivo."
+      ]
+    },
+    {
+      "id": "c04-q029",
+      "tema": "Paso del tiempo y paridad",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de nominal $1.000 paga $100 anuales y tiene dos años restantes. Su rendimiento permanece en 10% durante el próximo año. Comprado y valuado justo después de cada cupón, ¿qué precio y retorno anual tendrá?",
+      "opciones": [
+        "Precio final $1.000 y retorno 0%.",
+        "Precio final $1.000 y retorno de tenencia 10%.",
+        "Precio final $1.100 y retorno 20%.",
+        "Precio final $909,09 y retorno cercano a 0,91%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El precio puede permanecer constante y aun así existir rendimiento. El inversor cobra $100 durante el año. Ese cupón representa 10% del precio inicial.",
+        "Como cupón y rendimiento coinciden, el precio inicial es $1.000. Dentro de un año el pago restante de $1.100 valdrá 1.100/1,10 = $1.000. El cupón de $100 produce un retorno anual de 10%.",
+        "Los $1.100 corresponden al pago futuro final. No son el valor un año antes de recibirlo. Ese importe debe descontarse al 10% para obtener el precio final de $1.000.",
+        "Descontar únicamente $1.000 omite el último cupón de $100. Ambos se cobran al vencimiento. El precio ex cupón correcto considera el flujo final completo de $1.100."
+      ]
+    },
+    {
+      "id": "c04-q030",
+      "tema": "Objetivo y riesgo de reinversión",
+      "dificultad": "intermedia",
+      "pregunta": "Una aseguradora debe pagar una suma nominal fija dentro de quince años y puede comprar un cupón cero seguro de igual fecha y moneda. ¿Por qué podría preferirlo a renovar letras anuales?",
+      "opciones": [
+        "Porque su precio de mercado nunca varía antes del vencimiento.",
+        "Porque garantiza el poder adquisitivo de cualquier canasta de consumo.",
+        "Porque renovar letras asegura hoy todas las tasas de los próximos quince años.",
+        "Permite calzar el pago y evita depender de futuras tasas de reinversión para ese capital."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Su precio puede fluctuar con las tasas. El calce reduce el problema económico frente al pago final si se mantiene hasta esa fecha. No hace constante la cotización intermedia.",
+        "Un pago nominal no asegura una cantidad fija de bienes. La inflación puede reducir su poder de compra. El calce propuesto corresponde a una obligación nominal.",
+        "Cada renovación se hará a la tasa disponible entonces. Esas tasas no están aseguradas por comprar una letra hoy. Ese es justamente el riesgo que evita el calce con el cupón cero.",
+        "El bono entrega el capital en la fecha de la obligación nominal. Su monto no depende de renovar inversiones a tasas desconocidas. El riesgo debe evaluarse respecto del pasivo que se busca cubrir."
+      ]
+    },
+    {
+      "id": "c04-q031",
+      "tema": "Tasa spot",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa la tasa spot anual a tres años cotizada hoy?",
+      "opciones": [
+        "La tasa anual de una inversión que se inicia hoy y tiene un único pago dentro de tres años.",
+        "La tasa de un préstamo anual que recién se contratará dentro de tres años.",
+        "El cupón de cualquier bono que venza en tres años.",
+        "La variación de tasas observada en los últimos tres años."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa spot se aplica desde hoy hasta un vencimiento determinado. Para tres años, el factor de capitalización anual es (1+r3)^3. Se observa directamente en un instrumento de pago único de ese plazo.",
+        "Esa tasa corresponde a otro intervalo temporal. La tasa spot a tres años comienza hoy, no dentro de tres años. Una tasa futura de un período debe distinguirse de esta cotización.",
+        "Un bono con cupón tiene pagos intermedios. Su cupón contractual no define la tasa spot. Esta se vincula con un único pago en el vencimiento correspondiente.",
+        "Spot describe una tasa de inversión actual. No es una variación histórica. Deben separarse nivel de tasa y cambio de tasa."
+      ]
+    },
+    {
+      "id": "c04-q032",
+      "tema": "Descuento por plazos",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se valían pagos ciertos C1 dentro de un año y C2 dentro de dos años si las tasas spot anuales son r1 y r2?",
+      "opciones": [
+        "(C1+C2)/(1+r2)^2.",
+        "C1/(1+r1) + C2/[(1+r1)(1+r2)].",
+        "C1/(1+r1) + C2/(1+r2)^2.",
+        "C1/(1+r1) + C2/(1+r2)."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta fórmula trata ambos cobros como si ocurrieran al final del segundo año. El primero se recibe antes. Hay que conservar las fechas al descontar.",
+        "Aquí se usa r2 como si fuera la tasa forward del segundo año. Sin embargo, r2 es la tasa anual de toda la inversión de dos años. Su factor correcto es (1+r2)^2.",
+        "Cada flujo se descuenta con la tasa spot correspondiente a su fecha. La tasa a dos años se aplica durante dos períodos. Por eso el segundo denominador es (1+r2)^2.",
+        "El segundo flujo está a dos años. Falta elevar su factor a la segunda potencia. Una tasa anual a dos años no es un descuento de un solo período."
+      ]
+    },
+    {
+      "id": "c04-q033",
+      "tema": "Valuación con tasas spot",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono paga $100 dentro de un año y $1.100 dentro de dos años. Con tasas spot efectivas anuales de 10% y 20%, respectivamente, ¿cuál es su valor?",
+      "opciones": [
+        "$833,33.",
+        "$924,24.",
+        "$854,80.",
+        "$1.000,00."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este valor se obtiene llevando los $1.200 completos al segundo año. El primer cupón se cobra al año uno. Tratarlo como un cobro más lejano subestima su valor presente.",
+        "Este resultado usa 10% para el primer año y 20% como tasa del segundo año. Pero el 20% es una spot anual a dos años. Debe elevarse 1,20 al cuadrado para descontar el pago final.",
+        "El primer pago vale 100/1,10 = $90,91. El segundo vale 1.100/1,20² = $763,89. La suma es $854,80, redondeando al final.",
+        "Este valor surge de descontar ambos años al 10%. Omite que la tasa spot a dos años es 20%. Cada fecha debe usar la tasa que le corresponde."
+      ]
+    },
+    {
+      "id": "c04-q034",
+      "tema": "Factores de descuento",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa spot efectiva anual a dos años es 25%. ¿Cuál es el valor presente de $1 pagadero dentro de dos años?",
+      "opciones": [
+        "$0,64.",
+        "$0,80.",
+        "$0,50.",
+        "$1,5625."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El factor de descuento es 1/(1,25)^2. Como 1,25² = 1,5625, su inversa es 0,64. Ese es el precio actual de una unidad monetaria a dos años.",
+        "0,80 es la inversa de 1,25. Descuenta un solo año. La tasa anual debe aplicarse durante los dos años de espera.",
+        "Este resultado usa interés simple sumando dos veces 25%. La convención indicada es efectiva anual con capitalización. Debe emplearse 1,25² y luego invertir.",
+        "1,5625 es el factor de capitalización. Expresa cuánto crece una unidad invertida hoy. Para traer un pago futuro al presente se usa su inversa."
+      ]
+    },
+    {
+      "id": "c04-q035",
+      "tema": "Strips y segregación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ocurre al segregar un bono con cupones en strips?",
+      "opciones": [
+        "Se crean intereses adicionales sin modificar la inversión.",
+        "Todos los pagos se adelantan a la fecha de segregación.",
+        "Se elimina el pago del capital.",
+        "Se separan sus cupones y su capital en instrumentos de pago único, conservando los flujos totales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Separar un contrato no genera dinero adicional. Los pagos totales deben conservarse. De lo contrario habría una creación de valor sin fundamento en los flujos.",
+        "Segregar cambia el modo de negociar los pagos. No cambia sus fechas contractuales. Cada strip se cobra en la fecha del flujo que representa.",
+        "El capital no desaparece. Se convierte en el strip principal. Debe incluirse junto con todos los strips de cupones para reconstruir el bono.",
+        "Cada cupón puede convertirse en un título con su propia fecha de pago. El capital también forma un título separado. La suma de esos títulos reproduce los flujos del bono original."
+      ]
+    },
+    {
+      "id": "c04-q036",
+      "tema": "Tasa spot desde un cupón cero",
+      "dificultad": "intermedia",
+      "pregunta": "Un strip cuesta $640 y paga $1.000 dentro de dos años. ¿Cuál es su tasa spot efectiva anual?",
+      "opciones": [
+        "20%.",
+        "25%.",
+        "56,25%.",
+        "28,125%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "20% no reproduce el precio observado. Descontar $1.000 al 20% durante dos años da $694,44. Se necesita 25% anual para obtener $640.",
+        "El factor acumulado es 1.000/640 = 1,5625. La tasa anual satisface (1+r)^2 = 1,5625. Su raíz es 1,25 y la tasa resulta 25%.",
+        "56,25% es la ganancia de los dos años completos. La pregunta pide una tasa anual. Hay que obtener la raíz cuadrada del factor acumulado.",
+        "Dividir la ganancia total por dos usa interés simple. La tasa efectiva debe capitalizarse durante dos años. Por eso se calcula con una raíz y no con una división del porcentaje."
+      ]
+    },
+    {
+      "id": "c04-q037",
+      "tema": "Ley de un solo precio",
+      "dificultad": "avanzada",
+      "pregunta": "Dos carteras sin riesgo tienen exactamente los mismos pagos en las mismas fechas y moneda. Sin costos ni restricciones de negociación, ¿cómo deben relacionarse sus precios?",
+      "opciones": [
+        "La de mayor rendimiento publicado debe costar más.",
+        "Deben ser iguales para evitar arbitraje.",
+        "La que tenga más títulos debe valer más.",
+        "La de cupones contractuales más altos siempre debe valer más, aunque los pagos netos coincidan."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El rendimiento publicado es un resumen derivado de precio y flujos. No reemplaza la comparación de carteras replicantes. Con pagos idénticos, precios distintos generarían arbitraje.",
+        "Las carteras son sustitutos perfectos en sus flujos. Si una costara menos, podría comprarse y venderse la otra. Los pagos futuros se cancelarían y quedaría una ganancia inicial sin riesgo.",
+        "La cantidad de certificados no determina el valor agregado. Importa la secuencia total de pagos. Una división en más títulos no crea riqueza.",
+        "La comparación se refiere a pagos netos idénticos. Los nombres o las etiquetas de sus componentes no cambian esos pagos. El precio debe reflejar la equivalencia económica."
+      ]
+    },
+    {
+      "id": "c04-q038",
+      "tema": "Rendimientos y estructura ascendente",
+      "dificultad": "intermedia",
+      "pregunta": "Dos bonos correctamente valuados tienen igual vencimiento y distinto cupón. Con tasas spot estrictamente crecientes, ¿por qué el de cupón bajo puede tener mayor TIR?",
+      "opciones": [
+        "Porque necesariamente está mal valuado.",
+        "Porque paga más intereses durante los primeros años.",
+        "Porque su mayor TIR garantiza mayor ganancia para cualquier horizonte.",
+        "Concentra más valor en pagos lejanos, asociados con tasas spot mayores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Diferentes distribuciones temporales pueden generar diferentes TIR a precios correctos. No existe contradicción con el descuento spot. Para detectar errores hay que comparar precios con los valores de sus flujos.",
+        "Un cupón bajo paga menos intereses tempranos por igual nominal. Ese es el motivo de la mayor concentración final. La explicación propuesta invierte los pagos de ambos instrumentos.",
+        "La rentabilidad de un horizonte depende también del precio de venta y de reinversión. Una TIR mayor no garantiza dominar en todos los escenarios. Tampoco basta para comparar bonos con calendarios distintos.",
+        "El cupón bajo reduce la proporción de cobros tempranos. El rendimiento queda más influido por las tasas de plazos largos. Una TIR mayor puede reflejar esa distribución y no una oportunidad superior."
+      ]
+    },
+    {
+      "id": "c04-q039",
+      "tema": "Rendimientos y estructura descendente",
+      "dificultad": "avanzada",
+      "pregunta": "Con tasas spot estrictamente decrecientes, dos bonos convencionales de igual vencimiento están correctamente valuados. ¿Qué efecto cabe esperar de un cupón más alto sobre la TIR?",
+      "opciones": [
+        "Tiende a elevarla al dar más peso a los plazos cortos de tasas mayores.",
+        "Tiende a reducirla porque siempre predominan las tasas largas.",
+        "No puede cambiarla si el vencimiento es igual.",
+        "La convierte necesariamente en negativa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los cupones altos adelantan una parte mayor del valor. En una curva descendente los plazos cortos tienen tasas mayores. Su mayor peso tiende a elevar el rendimiento resumido.",
+        "Este razonamiento corresponde a otra forma de curva. Aquí las tasas altas están en los plazos cortos. Los cupones mayores aumentan su influencia relativa.",
+        "La TIR depende de todos los pagos y su precio. Igual fecha final no implica igual calendario de cobros. Por eso puede diferir entre bonos del mismo vencimiento.",
+        "Una curva descendente no implica tasas negativas. Solo indica un orden entre tasas de diferentes plazos. Un cupón mayor tampoco impone un signo negativo a la TIR."
+      ]
+    },
+    {
+      "id": "c04-q040",
+      "tema": "Anualidad, bono y cupón cero",
+      "dificultad": "avanzada",
+      "pregunta": "Con tasas spot crecientes, se comparan una anualidad positiva de n pagos, un bono con cupones anuales iguales y capital adicional en n, y un cupón cero en n. Todos tienen precios consistentes con esa curva. ¿Cómo se ordenan sus TIR?",
+      "opciones": [
+        "Las tres TIR son necesariamente iguales.",
+        "El bono con cupón tiene una TIR superior a las otras dos.",
+        "Anualidad < bono con cupón < cupón cero.",
+        "Cupón cero < bono con cupón < anualidad."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La igualdad aparece con una curva plana, bajo estas condiciones. Una curva creciente diferencia las tasas relevantes para cada calendario. Los tres instrumentos no concentran sus pagos en las mismas fechas.",
+        "El bono es una combinación de anualidad y pago final. Su TIR queda entre las tasas de retorno de esos componentes positivos. No supera la del cupón cero que concentra todo al plazo más largo.",
+        "La anualidad distribuye relativamente más valor entre fechas tempranas. Agregar capital en n desplaza peso hacia la tasa final más alta. El cupón cero concentra todo en n y su rendimiento coincide con esa tasa spot.",
+        "Este orden corresponde al efecto contrario de la estructura dada. Con tasas crecientes, concentrar valor al final eleva la TIR resumida. La anualidad tiene más influencia de tasas tempranas menores."
+      ]
+    },
+    {
+      "id": "c04-q041",
+      "tema": "Elección entre bonos",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero elige automáticamente el bono de mayor TIR entre dos títulos seguros de igual vencimiento pero cupones distintos. ¿Qué análisis falta?",
+      "opciones": [
+        "Elegir siempre el cupón mayor sin mirar precios.",
+        "Suponer que la mayor TIR elimina el riesgo de precio.",
+        "Valuar sus flujos con la curva spot y considerar el horizonte y las necesidades de caja.",
+        "Comparar solamente sus valores nominales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cupón alto no basta para juzgar una inversión. Puede estar compensado por un precio mayor. También importa cómo se ajusta el calendario al objetivo del inversor.",
+        "Una TIR alta no estabiliza el precio. El rendimiento de mercado puede variar y afectar la reventa. El riesgo depende de duración, horizonte y otros factores.",
+        "La TIR puede diferir por el calendario de pagos. El descuento spot permite evaluar si cada precio es coherente. La conveniencia también depende de cuándo necesita fondos la empresa.",
+        "El nominal no muestra el precio ni los cupones intermedios. Dos nominales iguales pueden representar inversiones distintas. Hay que comparar los flujos completos y sus valores presentes."
+      ]
+    },
+    {
+      "id": "c04-q042",
+      "tema": "Extracción de tasas spot",
+      "dificultad": "avanzada",
+      "pregunta": "Un cupón cero que paga $1.000 dentro de un año vale $1.000/1,10. Otro bono paga $100 al año uno y $1.100 al año dos, y vale $1.000. ¿Cuál es la tasa spot efectiva anual a dos años?",
+      "opciones": [
+        "10%.",
+        "21%.",
+        "5%.",
+        "20%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer instrumento revela r1 = 10%. Al restar 100/1,10 del precio del segundo, quedan $909,09 para su pago final de $1.100. Entonces (1+r2)^2 = 1.100/909,09 = 1,21 y r2 = 10%.",
+        "21% es el crecimiento acumulado durante dos años del componente final. No es la tasa efectiva anual. Debe extraerse la raíz de 1,21.",
+        "Dividir 10% entre dos confunde tasa anual con plazo. El descuento del primer cupón permite aislar el factor de dos años. Su raíz produce una tasa anual de 10%.",
+        "Sumar las tasas de dos años produce 20% bajo una lógica simple. La spot anual se capitaliza sobre todo el plazo. El precio dado implica 10%, no 20%."
+      ]
+    },
+    {
+      "id": "c04-q043",
+      "tema": "Replicación de un cupón cero",
+      "dificultad": "avanzada",
+      "pregunta": "Dos bonos de nominal $100 vencen en dos años: A paga $10 anuales y cuesta $100; B paga $5 anuales y cuesta $50 + 50/1,10². Sin costos y con venta corta posible, ¿qué cartera y tasa spot a dos años se obtienen?",
+      "opciones": [
+        "Comprar 1 A y vender 2 B: paga $100 al año dos y rinde 10% anual.",
+        "Comprar 2 B y vender 1 A: paga solo $100 al año dos y rinde 21% anual.",
+        "Comprar A y B: elimina ambos cupones y rinde 5% anual.",
+        "Comprar 2 B y vender 1 A: paga solo $100 al año dos y rinde 10% anual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cartera invierte los signos. Recibe efectivo inicialmente y debe pagar $100 al final. No representa la compra del cupón cero descrito.",
+        "La cartera indicada sí aísla el capital de $100. Pero 21% es su ganancia acumulada de dos años. La tasa efectiva anual se obtiene como raíz de 1,21 menos uno.",
+        "Sumar dos posiciones largas suma sus cupones. No los cancela. Para aislar un único pago se necesitan cantidades y signos que compensen los pagos intermedios.",
+        "Los cupones del primer año se cancelan: 2 × 5 − 10 = 0. El pago final neto es 2 × 105 − 110 = $100, con costo 100/1,10². Por eso la cartera replica un cupón cero cuya tasa anual es 10%."
+      ]
+    },
+    {
+      "id": "c04-q044",
+      "tema": "Curva de rendimientos y curva spot",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia es esencial entre una curva de rendimientos de bonos con cupón y una curva spot?",
+      "opciones": [
+        "La curva de rendimientos muestra únicamente ganancias históricas realizadas.",
+        "La primera resume TIR de instrumentos con varios pagos; la segunda muestra tasas para pagos únicos por plazo.",
+        "Ambas son idénticas para cualquier estructura de tasas y cupones.",
+        "La curva spot muestra exclusivamente tasas de cupón contractuales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los rendimientos al vencimiento se calculan con precios actuales y pagos pendientes. No representan por definición retornos ya realizados. La curva resume esas tasas actuales según vencimiento.",
+        "La TIR mezcla información de varias fechas de un bono. La tasa spot corresponde a una fecha de pago determinada. Solo bajo condiciones particulares ambas curvas coinciden exactamente.",
+        "Los cupones dan peso a distintas fechas. Con una curva no plana, las TIR pueden diferir de las tasas spot finales. No corresponde identificar siempre ambas curvas.",
+        "El cupón es un pago contractual elegido al emitir. Una spot es una tasa de mercado para un plazo. Son conceptos diferentes aunque alguna vez coincidan numéricamente."
+      ]
+    },
+    {
+      "id": "c04-q045",
+      "tema": "Tasa forward",
+      "dificultad": "basica",
+      "pregunta": "¿Qué es la tasa forward de un préstamo de un año que comienza dentro de un año?",
+      "opciones": [
+        "La tasa de cupón de todos los bonos a dos años.",
+        "Una tasa implícita hoy para el intervalo entre los años uno y dos.",
+        "La tasa spot a dos años sin transformación.",
+        "La tasa que efectivamente se observará dentro de un año, conocida con certeza."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El cupón depende de cada contrato. La forward surge de precios de mercado para distintos vencimientos. No impone una tasa de cupón universal.",
+        "La forward se obtiene de las tasas o precios actuales de distintos plazos. Se refiere a un intervalo que comienza en el futuro. No debe confundirse con una tasa spot futura que todavía no se observó.",
+        "La spot a dos años se aplica desde hoy durante dos años. La forward del segundo año cubre solo un intervalo. Ambas se relacionan por capitalización, pero no son idénticas en general.",
+        "Una forward puede fijarse mediante operaciones actuales. Eso no determina cuál será la tasa de mercado futura. Interpretarla como pronóstico cierto elimina indebidamente la incertidumbre."
+      ]
+    },
+    {
+      "id": "c04-q046",
+      "tema": "Cálculo de forward",
+      "dificultad": "intermedia",
+      "pregunta": "Las tasas spot efectivas anuales son 10% a un año y 21% a dos años. ¿Qué forward anual corresponde al segundo año?",
+      "opciones": [
+        "32,00%.",
+        "11,00%.",
+        "21,00%.",
+        "33,10%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "32% surge de aproximar 2 × 21% − 10%. Esa aproximación ignora términos de capitalización. Con estas tasas, la fórmula exacta da 33,10%.",
+        "La diferencia entre tasas spot no es el rendimiento del segundo año. Ambas tasas se aplican a horizontes completos distintos. Hay que dividir sus factores acumulados.",
+        "21% es la tasa anual para la inversión completa de dos años. El primer año tiene una tasa menor. Para obtener el mismo factor total, el segundo tramo debe rendir más de 21%.",
+        "El factor acumulado a dos años es 1,21² = 1,4641. Se divide por el factor del primer año: 1,4641/1,10 = 1,331. Restando uno resulta una forward de 33,10%."
+      ]
+    },
+    {
+      "id": "c04-q047",
+      "tema": "Spot desde forwards",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa spot del primer año es 10% y las forwards de los años dos y tres son también 10%, con capitalización anual. ¿Cuál es la tasa spot anual a tres años?",
+      "opciones": [
+        "10%.",
+        "30%.",
+        "33,10%.",
+        "3,33%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El factor total es 1,10 × 1,10 × 1,10 = 1,331. La spot anual es la raíz cúbica de ese factor menos uno. El resultado es 10%.",
+        "30% suma tres tasas anuales sin capitalización. Tampoco expresa una tasa anual equivalente. La spot se obtiene como media geométrica de los factores de cada período.",
+        "33,10% es la ganancia acumulada de tres años. La pregunta pide su equivalente anual. Debe anualizarse tomando la raíz cúbica del factor.",
+        "Dividir 10% por tres confunde la tasa anual con un rendimiento total. Cada intervalo ya tiene una tasa anual de 10%. Repetir esa tasa conserva el mismo equivalente anual."
+      ]
+    },
+    {
+      "id": "c04-q048",
+      "tema": "Fijación de una tasa futura",
+      "dificultad": "avanzada",
+      "pregunta": "Las tasas spot son 10% a un año y 21% a dos años. Una empresa recibirá $100 al año uno y deberá pagar $130 al año dos. Si puede fijar hoy la forward implícita sin costos, ¿alcanza el cobro?",
+      "opciones": [
+        "No: solo llega a $121.",
+        "Sí: se transforma en $142 y sobran $12.",
+        "Sí: se transforma en $133,10 y sobran $3,10.",
+        "No: solo llega a $110."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 21% es la tasa spot anual a dos años. No es el rendimiento aislado entre los años uno y dos. La forward correcta surge del cociente de factores acumulados.",
+        "Este cálculo trata 42% como rendimiento del único año de inversión futura. Sumar dos veces la spot de 21% no determina una forward. Se requiere dividir 1,21² por 1,10 y restar uno.",
+        "La forward del segundo año es 1,21²/1,10 − 1 = 33,10%. Aplicada a los $100 produce $133,10. La obligación de $130 queda cubierta con un excedente de $3,10.",
+        "El 10% es la tasa spot desde hoy al año uno. No es la forward que se fija para el año siguiente. La empresa debe usar la tasa del intervalo de su inversión futura."
+      ]
+    },
+    {
+      "id": "c04-q049",
+      "tema": "Replicación de una inversión forward",
+      "dificultad": "avanzada",
+      "pregunta": "Para asegurar hoy una inversión que entregue $1 al año dos y requiera un desembolso al año uno, ¿qué estrategia replica ese patrón con bonos cupón cero?",
+      "opciones": [
+        "Vender el cupón cero a dos años y comprar uno a un año.",
+        "Comprar solo el cupón cero a un año.",
+        "Comprar un cupón cero a dos años y financiar su precio vendiendo un cupón cero a un año.",
+        "Comprar ambos cupones cero sin financiamiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los signos quedan invertidos respecto del objetivo. La cartera cobra al año uno y paga al año dos. Replica endeudamiento futuro en lugar de una inversión futura.",
+        "El cupón cero corto solo genera el cobro al año uno. No fija qué ocurrirá con ese dinero después. Sin el título largo queda abierta la tasa del segundo tramo.",
+        "El cupón cero largo genera el cobro final deseado. Vender una cantidad adecuada del corto financia hoy esa compra y genera una obligación al año uno. Así se fija desde hoy la relación entre el desembolso futuro y el cobro final.",
+        "Dos posiciones compradas exigen un desembolso actual. Además generan cobros en ambas fechas. No reproducen una inversión que empieza pagando en el año uno."
+      ]
+    },
+    {
+      "id": "c04-q050",
+      "tema": "Teoría de las expectativas",
+      "dificultad": "basica",
+      "pregunta": "Según la teoría pura de las expectativas, sin primas por riesgo, ¿cómo se interpreta la forward del segundo año?",
+      "opciones": [
+        "Como la tasa spot anual esperada para el próximo año.",
+        "Como una garantía de la tasa spot que se observará.",
+        "Como la inflación realizada del próximo año.",
+        "Como una prima de riesgo adicional que siempre debe ser positiva."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La teoría iguala la forward con la tasa corta futura esperada. Así equipara los rendimientos esperados de estrategias de diferente plazo. La igualdad es una hipótesis de expectativas, no una certeza sobre el futuro.",
+        "Una expectativa puede resultar equivocada. La teoría no elimina la incertidumbre sobre la tasa futura. La forward actual y la spot que se observe después pueden diferir.",
+        "La forward es una tasa de interés. La inflación es un cambio en el nivel de precios. Aunque puedan relacionarse, no son la misma variable.",
+        "La teoría pura deja fuera las primas por riesgo. Introducir una prima sistemática modifica esa interpretación. Tampoco corresponde afirmar que toda forward sea en sí misma una prima."
+      ]
+    },
+    {
+      "id": "c04-q051",
+      "tema": "Pendiente e interpretación",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo la teoría pura de las expectativas, una spot a dos años menor que la spot a un año indica:",
+      "opciones": [
+        "Que la próxima tasa corta necesariamente será mayor.",
+        "Que todos los bonos largos están mal valuados.",
+        "Que el emisor va a reducir los cupones ya pactados.",
+        "Que se espera una tasa corta futura menor que la actual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La relación indicada es la contraria. Una forward baja compensa la tasa inicial más alta en el promedio de dos años. La teoría la asocia con una tasa corta futura esperada menor.",
+        "Una curva descendente puede ser plenamente consistente con equilibrio. No demuestra por sí misma un error de precios. La comparación debe respetar las tasas correspondientes a cada plazo.",
+        "La curva muestra tasas de mercado por plazo. No cambia los pagos contractuales de bonos fijos existentes. La interpretación se refiere a tasas esperadas y no a modificación de cupones.",
+        "La identidad de factores implica una forward del segundo año inferior a la tasa del primero. Bajo esta teoría, la forward coincide con la tasa corta esperada. Por eso la pendiente descendente se interpreta como expectativa de caída de tasas."
+      ]
+    },
+    {
+      "id": "c04-q052",
+      "tema": "Financiamiento y refinanciación",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora elige deuda anual renovable porque la curva es ascendente y la tasa corta es menor. ¿Qué debe considerar antes de concluir que siempre ahorrará?",
+      "opciones": [
+        "La pendiente prueba que no existen expectativas de cambios de tasas.",
+        "La refinanciación puede hacerse a tasas mayores y el ahorro inicial no garantiza menor costo total.",
+        "La tasa inicial queda asegurada en todas las renovaciones.",
+        "La deuda larga necesariamente cuesta menos en cada año."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las expectativas son una explicación relevante de la pendiente. Las primas de riesgo también pueden influir. No corresponde interpretar la curva como ausencia de expectativas.",
+        "La tasa corta actual solo cubre el primer período. Las renovaciones dependen de las tasas futuras. Una curva ascendente puede reflejar subas esperadas y primas por riesgo.",
+        "Renovar deuda implica celebrar nuevas operaciones. La tasa de esas operaciones no queda fijada por el préstamo inicial. La empresa conserva exposición a la refinanciación.",
+        "No hay una superioridad universal de un plazo. El costo realizado depende de las tasas futuras y de las condiciones contractuales. También importa el riesgo que la empresa puede tolerar."
+      ]
+    },
+    {
+      "id": "c04-q053",
+      "tema": "Prima por plazo",
+      "dificultad": "avanzada",
+      "pregunta": "Si los inversores exigen compensación adicional por mantener deuda larga, ¿cómo puede relacionarse la forward con la tasa corta futura esperada?",
+      "opciones": [
+        "La diferencia demuestra necesariamente un arbitraje.",
+        "La forward puede superar la tasa futura esperada por una prima por plazo.",
+        "Deben ser idénticas por definición contable.",
+        "La forward debe ser siempre menor que la tasa futura esperada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una prima compensa riesgo y no constituye una ganancia segura. Las estrategias pueden diferir en exposición y resultados. Una diferencia de rendimientos esperados no basta para demostrar arbitraje.",
+        "La forward se determina por precios actuales. Esos precios pueden incorporar compensación por riesgo de plazo. Por eso no debe leerse toda la forward como una expectativa pura de tasa futura.",
+        "La identidad contable relaciona factores spot y forward actuales. No impone igualdad con una expectativa sobre el futuro. Esa igualdad requiere una hipótesis económica adicional.",
+        "Con una prima positiva exigida a la deuda larga, la interpretación usual tiene el signo opuesto. La forward puede estar por encima de la expectativa. No existe una regla general que obligue a que está por debajo."
+      ]
+    },
+    {
+      "id": "c04-q054",
+      "tema": "Evidencia y expectativas",
+      "dificultad": "intermedia",
+      "pregunta": "Se observa una prima promedio persistente de bonos largos sobre instrumentos cortos, y cierta capacidad predictiva de las forwards. ¿Qué conclusión es más razonable?",
+      "opciones": [
+        "La teoría pura queda demostrada porque toda forward acierta exactamente.",
+        "Las expectativas no tienen ninguna relación con las tasas.",
+        "El exceso promedio garantiza que la deuda larga ganará en cada año futuro.",
+        "Las expectativas importan, pero una teoría sin primas de riesgo puede ser incompleta."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Capacidad predictiva parcial no equivale a precisión perfecta. Además, una prima sistemática plantea una limitación de la teoría pura. La evidencia debe interpretarse sin convertir promedios en identidades.",
+        "Una relación predictiva es incompatible con descartar toda influencia de expectativas. El problema es si estas explican todo el nivel de la curva. Pueden importar junto con otros factores.",
+        "Un promedio histórico no garantiza resultados de cada período. Los bonos largos pueden sufrir pérdidas de precio. La compensación esperada convive con incertidumbre realizada.",
+        "La información predictiva sugiere que las expectativas influyen en la curva. Una prima persistente también puede reflejar compensación por riesgo. Ambos hechos pueden coexistir sin validar una explicación basada solo en expectativas."
+      ]
+    },
+    {
+      "id": "c04-q055",
+      "tema": "Arbitraje y efectivo almacenable",
+      "dificultad": "avanzada",
+      "pregunta": "Supongamos que se puede guardar efectivo sin costo ni riesgo y operar cupones cero sin restricciones. Un título paga $110 al año uno y cuesta $100; otro paga $100 al año dos y cuesta $100. ¿Qué operación evidencia arbitraje?",
+      "opciones": [
+        "Comprar el primero y vender el segundo; guardar $100 al año uno para pagar al año dos y conservar $10.",
+        "Comprar ambos porque sus fechas son distintas.",
+        "Vender el primero y comprar el segundo para cobrar una ganancia segura de $10.",
+        "No hay arbitraje porque todo descenso de tasas está permitido sin límites."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La compra y la venta se financian entre sí hoy. Al año uno se cobran $110, de los cuales se guardan $100 para cancelar la obligación final. Quedan $10 sin exposición bajo los supuestos indicados.",
+        "Comprar ambos exige $200 hoy. Esa posición no muestra por sí sola una ganancia gratuita. El arbitraje usa la diferencia entre sus pagos futuros y el financiamiento por venta corta.",
+        "Esta cartera debe pagar $110 al año uno y recién cobra $100 al año dos. No genera el excedente descrito. Los signos correctos son comprar el pago temprano y vender el tardío.",
+        "Una curva puede descender sin arbitraje, pero estos precios implican una forward negativa explotable bajo los supuestos dados. Guardar efectivo evita aceptar esa pérdida entre fechas. La posibilidad de almacenamiento es crucial para la conclusión."
+      ]
+    },
+    {
+      "id": "c04-q056",
+      "tema": "Límite de tasa spot",
+      "dificultad": "avanzada",
+      "pregunta": "Con efectivo almacenable gratis, sin riesgo ni restricciones, la spot anual a un año es 21%. Para evitar una forward negativa entre los años uno y dos, ¿cuál es el mínimo de la spot anual a dos años?",
+      "opciones": [
+        "21%.",
+        "42%.",
+        "10%.",
+        "0%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La spot a dos años puede ser menor que la de un año sin arbitraje. Lo que debe evitarse aquí es que el factor acumulado disminuya entre ambas fechas. El límite es 10%, no 21%.",
+        "Sumar dos veces la tasa de un año no establece el límite. La comparación correcta utiliza factores acumulados. La raíz de 1,21 determina la tasa mínima anual de dos años.",
+        "Se requiere (1+r2)^2 ≥ 1,21 para que la forward no sea negativa. La raíz cuadrada de 1,21 es 1,10. Por eso el mínimo de r2 es 10% bajo estos supuestos.",
+        "Con r2 = 0, el factor a dos años sería uno. Sería menor que el factor 1,21 del primer año. Eso genera una forward negativa explotable si se puede almacenar efectivo gratis."
+      ]
+    },
+    {
+      "id": "c04-q057",
+      "tema": "IPC e inflación",
+      "dificultad": "basica",
+      "pregunta": "El IPC pasa de 200 a 250 en un año. ¿Cuál fue la inflación de ese período?",
+      "opciones": [
+        "20%.",
+        "125%.",
+        "25%.",
+        "50%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 20% surge de dividir el aumento por el índice final de 250. La base correcta es el nivel inicial. La tasa de variación mide cuánto aumentó respecto de ese punto de partida.",
+        "125% es el nivel final como porcentaje del inicial. Incluye el 100% que ya existía. La inflación se obtiene restando ese componente inicial.",
+        "La inflación es el cambio relativo del índice. Se calcula 250/200 − 1 = 0,25. El aumento de precios del período fue 25%.",
+        "Cincuenta es el aumento en puntos del índice. No es un porcentaje respecto del nivel inicial. Debe dividirse por 200 para obtener la inflación."
+      ]
+    },
+    {
+      "id": "c04-q058",
+      "tema": "Nominal y real",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue un flujo expresado en pesos nominales de uno expresado en pesos reales de hoy?",
+      "opciones": [
+        "El flujo real mide poder de compra a precios de hoy y elimina la variación del nivel de precios.",
+        "El flujo real siempre coincide con la cantidad de pesos efectivamente pagados.",
+        "El flujo nominal ya está corregido por inflación.",
+        "El flujo real es el nominal multiplicado por la inflación acumulada."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El nominal es el importe monetario de la fecha de pago. El real expresa cuántos bienes de la fecha base permite comprar. Para convertirlo hay que dividir por el aumento acumulado de precios.",
+        "La cantidad de pesos pagados es el importe nominal. Su poder adquisitivo puede ser distinto del actual. Solo coinciden ambas medidas si no cambia el nivel de precios respecto de la base.",
+        "La corrección por inflación corresponde a la medida real. Un contrato de importe nominal fijo no la incorpora automáticamente. Debe distinguirse la unidad monetaria de su poder de compra.",
+        "Multiplicar aumenta el importe cuando suben los precios. La conversión buscada exige reducirlo para medir poder adquisitivo actual. Se divide por el factor acumulado de inflación."
+      ]
+    },
+    {
+      "id": "c04-q059",
+      "tema": "Conversión de un flujo a real",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa cobrará $1.440 dentro de dos años. Si la inflación es exactamente 20% en cada año, ¿a cuánto equivale ese cobro en pesos de hoy?",
+      "opciones": [
+        "$1.200.",
+        "$1.028,57.",
+        "$2.073,60.",
+        "$1.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este cálculo descuenta solo un año de inflación. El cobro está a dos años. Hay que dividir por 1,20 dos veces.",
+        "Este resultado divide por 1,40 y usa inflación simple. Dos aumentos sucesivos de 20% acumulan 44%. El factor correcto es 1,44.",
+        "Este importe multiplica por el factor de inflación. Esa operación proyectaría un importe actual a precios futuros. Para expresar un cobro futuro en pesos de hoy se divide.",
+        "El factor acumulado de precios es 1,20² = 1,44. El flujo real se calcula 1.440/1,44 = $1.000. La inflación debe acumularse durante los dos años."
+      ]
+    },
+    {
+      "id": "c04-q060",
+      "tema": "Rendimiento real exacto",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión rinde 26% nominal durante un año y la inflación del mismo período es 20%. ¿Cuál es su rendimiento real exacto?",
+      "opciones": [
+        "−5%.",
+        "5%.",
+        "6%.",
+        "46%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La inversión crece más que los precios. Por eso el resultado real es positivo. La relación de factores da 1,05 y no un valor inferior a uno.",
+        "El factor real es 1,26/1,20 = 1,05. Restando uno resulta 5%. Esa tasa mide el aumento del poder adquisitivo de la inversión.",
+        "Restar 26% − 20% da una aproximación de 6%. No es la fórmula exacta. Al dividir los factores de crecimiento se obtiene 5%.",
+        "Sumar rendimiento e inflación confunde crecimiento monetario con poder de compra. La inflación reduce el rendimiento real de una ganancia nominal dada. Debe dividirse por el factor de precios."
+      ]
+    },
+    {
+      "id": "c04-q061",
+      "tema": "Aproximación de Fisher",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuándo resulta especialmente importante usar r real = (1+r nominal)/(1+inflación) − 1 en lugar de restar tasas?",
+      "opciones": [
+        "Solo si la inflación es exactamente cero.",
+        "Cuando las tasas son altas, porque el término de interacción deja de ser pequeño.",
+        "Solo cuando la inversión es un bono cupón cero.",
+        "Nunca: restar tasas es siempre exacto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Si la inflación es cero, la resta coincide con la fórmula exacta. El problema relevante aparece cuando la variación de precios es significativa. Por eso esta condición no justifica el uso especial de la fórmula completa.",
+        "La relación exacta incorpora la interacción entre inflación y tasa real. Con tasas pequeñas, la resta puede aproximar bien. Con tasas altas, el error puede alterar sensiblemente la evaluación.",
+        "La conversión de rendimiento nominal a real no depende de que haya cupones. Importa que las tasas correspondan al mismo período. La necesidad de exactitud surge de sus magnitudes y del objetivo del cálculo.",
+        "La resta es una aproximación. La identidad exacta opera con factores multiplicativos. Ignorar el denominador puede generar errores importantes con inflación alta."
+      ]
+    },
+    {
+      "id": "c04-q062",
+      "tema": "Deflación",
+      "dificultad": "intermedia",
+      "pregunta": "Una colocación rinde 2% nominal en un año y el nivel de precios cae 4%. ¿Cuál es el rendimiento real, aproximadamente?",
+      "opciones": [
+        "−2%.",
+        "−6%.",
+        "2%.",
+        "6,25%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deflación no reduce el poder de compra de un saldo monetario. Lo aumenta. Debe dividirse por un factor menor que uno, no descontar otra pérdida.",
+        "Esta respuesta cambia el signo del rendimiento real. Los pesos crecen y los bienes se abaratan. Ambos efectos elevan el poder adquisitivo.",
+        "El 2% es el rendimiento nominal. Omite que los precios bajaron. Al comprar más bienes por peso, la ganancia real supera la monetaria.",
+        "Con deflación del 4%, el factor de precios es 0,96. El factor real es 1,02/0,96 = 1,0625. El poder adquisitivo aumenta 6,25%."
+      ]
+    },
+    {
+      "id": "c04-q063",
+      "tema": "Inflación inesperada",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona compra un bono de pagos nominales fijos y la inflación resulta mayor que la prevista. ¿Qué efecto directo tiene sobre los pagos reales?",
+      "opciones": [
+        "Son menores que los esperados, aunque los importes nominales se cumplan.",
+        "El emisor debe aumentar automáticamente los cupones.",
+        "La devolución del nominal garantiza el poder adquisitivo inicial.",
+        "Los pagos reales aumentan porque hay más inflación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los pagos reales se obtienen dividiendo los nominales por el nivel de precios. Una inflación mayor eleva ese denominador. Cumplir el contrato nominal no evita la pérdida de poder adquisitivo respecto de lo previsto.",
+        "Un bono nominal fijo no tiene ajuste automático por inflación. Esa protección requeriría un contrato indexado. El emisor solo está obligado a los importes pactados.",
+        "Recuperar la misma cantidad de moneda no equivale a recuperar los mismos bienes. El nivel de precios puede haber aumentado mucho. La certeza nominal no es una garantía real.",
+        "Con un numerador nominal fijo, un denominador de precios mayor reduce el flujo real. La inflación no crea un aumento del pago contractual. El efecto sobre poder de compra tiene el signo contrario."
+      ]
+    },
+    {
+      "id": "c04-q064",
+      "tema": "Bonos indexados",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo difiere un bono indexado al IPC de un bono nominal a tasa fija, en el modelo sin fricciones?",
+      "opciones": [
+        "El indexado elimina toda fluctuación de precio antes de su vencimiento.",
+        "El indexado garantiza que la canasta personal de cualquier inversor suba igual que el IPC.",
+        "El indexado ajusta sus importes nominales para preservar los pagos reales pactados.",
+        "El indexado mantiene todos los pesos nominales constantes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El precio también depende de las tasas reales de mercado. Esas tasas pueden cambiar. Proteger los pagos frente al IPC no equivale a fijar la cotización de reventa.",
+        "El índice es una medida de una canasta de referencia. El consumo de una persona puede tener otra composición. La cobertura se define respecto del índice contractual y no de toda canasta imaginable.",
+        "El ajuste vincula los pagos monetarios al índice de precios. Así se estabiliza su poder de compra medido por ese índice. El bono nominal fijo deja ese poder de compra expuesto a inflación.",
+        "Mantener pesos nominales constantes describe un bono nominal fijo. El indexado modifica importes según el índice. Ese ajuste es la fuente de la protección real."
+      ]
+    },
+    {
+      "id": "c04-q065",
+      "tema": "Ajuste de capital y cupón",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono indexado tiene capital inicial $1.000 y cupón anual real del 4% sobre el capital ajustado. Si el IPC sube 10% en el primer año, ¿cuáles son el capital ajustado y ese cupón nominal?",
+      "opciones": [
+        "Capital $1.000 y cupón $140.",
+        "Capital $1.040 y cupón $104.",
+        "Capital $1.100 y cupón $44.",
+        "Capital $1.100 y cupón $40."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El ajuste de capital no se convierte íntegramente en cupón. El capital pasa a $1.100. Los intereses del período son solo el 4% de ese importe.",
+        "Se confundieron la tasa de inflación y la de cupón. El IPC ajusta el capital en 10%. Luego se aplica 4% para obtener el interés monetario.",
+        "El capital se ajusta a 1.000 × 1,10 = $1.100. El cupón es 4% de ese capital: $44. La tasa de cupón permanece en 4%; aumenta su importe monetario.",
+        "El capital está bien ajustado, pero el cupón no. La consigna lo calcula sobre el capital actualizado. Por eso deben pagarse $44 y no $40."
+      ]
+    },
+    {
+      "id": "c04-q066",
+      "tema": "Fisher exacto",
+      "dificultad": "intermedia",
+      "pregunta": "Si se exige un rendimiento real anual del 5% y se espera inflación de 20%, ¿qué tasa nominal satisface la relación exacta de Fisher?",
+      "opciones": [
+        "26%.",
+        "25%.",
+        "15%.",
+        "4,17%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La relación es 1+r nominal = (1+r real)(1+inflación esperada). Se calcula 1,05 × 1,20 = 1,26. La tasa nominal compatible es 26%.",
+        "Sumar 5% y 20% omite el producto cruzado. El 1% adicional permite que la ganancia real también mantenga su poder de compra. La fórmula exacta da 26%.",
+        "Restar la tasa real de la inflación invierte el razonamiento. El rendimiento nominal debe cubrir inflación y ganancia real. Aquí el factor requerido es 1,26.",
+        "Dividir 5% por 1,20 no convierte una tasa real exigida en nominal. Hay que combinar los factores de crecimiento. La multiplicación correcta produce 26%."
+      ]
+    },
+    {
+      "id": "c04-q067",
+      "tema": "Inflación de indiferencia",
+      "dificultad": "avanzada",
+      "pregunta": "Se comparan dos inversiones sin riesgo a un año y al mismo precio: una rinde 26% nominal y otra 5% real con ajuste perfecto al IPC. Ignorando primas y diferencias tributarias o de liquidez, ¿qué inflación las iguala?",
+      "opciones": [
+        "21%.",
+        "31%.",
+        "5%.",
+        "20%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "21% es la diferencia aritmética entre los rendimientos. Es una aproximación y no la indiferencia exacta. Deben compararse los factores multiplicativos de pago.",
+        "Sumar ambas tasas no establece indiferencia. El retorno real de la indexada debe convertirse a nominal mediante el aumento de precios. La igualdad exacta se alcanza al 20%.",
+        "5% es el rendimiento real del bono indexado. No es la inflación que equipara las dos alternativas. Para hallarla se divide el factor nominal fijo por el factor real.",
+        "El factor nominal fijo es 1,26. La alternativa indexada paga un factor 1,05 × (1+inflación). Igualando ambos se obtiene inflación = 1,26/1,05 − 1 = 20%."
+      ]
+    },
+    {
+      "id": "c04-q068",
+      "tema": "Elección de bono indexado",
+      "dificultad": "intermedia",
+      "pregunta": "Dos inversiones sin riesgo a un año y al mismo precio ofrecen, respectivamente, 26% nominal fijo y 5% real con ajuste perfecto al IPC. Sin diferencias tributarias ni de liquidez, si la inflación realizada es 25%, ¿cuál tiene mayor rendimiento real?",
+      "opciones": [
+        "La nominal, porque obtiene 1% real y la indexada pierde 20%.",
+        "La indexada al 5% real, porque la nominal al 26% solo rinde 0,8% real.",
+        "La nominal, porque 26 es mayor que 5.",
+        "Ambas, porque cualquier bono preserva el poder adquisitivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Restar porcentajes es una aproximación que aquí tampoco justifica la conclusión. Además, la indexada ajusta sus pagos con el IPC. No pierde 20% real por una inflación de 25%.",
+        "La inversión nominal tiene factor real 1,26/1,25 = 1,008. Eso equivale a una ganancia real de 0,8%. La indexada mantiene el 5% real bajo los supuestos dados.",
+        "Se compararon una tasa nominal y otra real directamente. Las unidades de poder adquisitivo deben ser consistentes. Al ajustar la nominal por inflación, queda por debajo del 5% real.",
+        "Un bono nominal no preserva automáticamente poder adquisitivo. Esa protección depende de la relación entre rendimiento e inflación. Solo el indexado tiene el ajuste establecido en este caso."
+      ]
+    },
+    {
+      "id": "c04-q069",
+      "tema": "Inflación y preferencia por plazo",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona ahorra para gastos reales de largo plazo y teme inflación imprevisible. Si solo puede elegir deuda nominal, ¿por qué renovar títulos cortos puede reducir cierta exposición inflacionaria?",
+      "opciones": [
+        "Porque el bono largo ajusta sus cupones al IPC automáticamente.",
+        "Permite renegociar tasas con información de inflación más reciente, aunque deja riesgo de reinversión.",
+        "Porque garantiza hoy el rendimiento real de todos los años futuros.",
+        "Porque los títulos cortos no pueden perder poder adquisitivo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La alternativa larga indicada es nominal. No tiene el ajuste de un bono indexado. Confundir ambos contratos elimina precisamente el riesgo que se está comparando.",
+        "La renovación evita fijar una tasa nominal para todo el horizonte lejano. Las nuevas tasas pueden incorporar información más actualizada sobre inflación. Sin embargo, ni las tasas futuras ni los rendimientos reales quedan garantizados.",
+        "Las tasas de las renovaciones todavía son desconocidas. La estrategia no asegura hoy una rentabilidad real completa. Su ventaja relativa no equivale a eliminar toda incertidumbre.",
+        "Un título corto también puede rendir menos que la inflación. Su menor plazo limita una exposición, pero no garantiza poder adquisitivo. Debe distinguirse reducción de riesgo y protección absoluta."
+      ]
+    },
+    {
+      "id": "c04-q070",
+      "tema": "Oferta y demanda de ahorro",
+      "dificultad": "basica",
+      "pregunta": "¿Qué determina la tasa de interés real de equilibrio en el esquema de ahorro e inversión?",
+      "opciones": [
+        "únicamente el número de billetes impresos en los contratos.",
+        "La tasa de cupón elegida por una sola empresa.",
+        "La fecha de emisión de los bonos ya existentes.",
+        "La interacción entre oferta de ahorro y demanda de fondos para inversión."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La cantidad nominal de moneda no resume las oportunidades productivas ni las preferencias temporales. El modelo real compara consumo presente y futuro. Su equilibrio depende de oferta y demanda de recursos.",
+        "Una empresa individual no fija por sí sola la tasa real agregada. Su cupón debe atraer compradores dadas las condiciones del mercado. La tasa de equilibrio surge de decisiones de muchos participantes.",
+        "La antigüedad de los bonos no determina las preferencias ni la productividad. Los precios se ajustan con las condiciones actuales. La fecha original de emisión no sustituye el equilibrio de ahorro e inversión.",
+        "El ahorro refleja disposición a postergar consumo. La demanda de fondos proviene de quienes quieren invertir recursos. La tasa real equilibra esas decisiones bajo los supuestos del modelo."
+      ]
+    },
+    {
+      "id": "c04-q071",
+      "tema": "Productividad y tasa real",
+      "dificultad": "intermedia",
+      "pregunta": "Aparecen avances tecnológicos que vuelven rentables muchos proyectos nuevos. Con oferta de ahorro creciente en la tasa y lo demás constante, ¿qué efecto se espera?",
+      "opciones": [
+        "Mayor demanda de fondos y mayor tasa real de equilibrio.",
+        "Menor demanda de fondos y menor tasa real.",
+        "La tasa real debe permanecer fija porque solo importa la inflación.",
+        "Mayor oferta de ahorro automática y caída obligatoria de la tasa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Más proyectos rentables elevan el deseo de invertir a cada tasa. La demanda adicional presiona al alza la tasa real. Esa tasa mayor induce más ahorro bajo el supuesto indicado.",
+        "La mejora productiva aumenta oportunidades, no las reduce. La demanda de fondos se desplaza hacia arriba. El nuevo equilibrio tiende a una tasa real mayor.",
+        "La tasa real responde a condiciones reales de ahorro e inversión. La inflación influye sobre las tasas nominales, pero no es el único fenómeno relevante. La productividad puede cambiar el equilibrio real.",
+        "La aparición de proyectos desplaza directamente la demanda de inversión. No garantiza un desplazamiento autónomo de la oferta de ahorro. Con los supuestos dados, el ajuste requiere una tasa real más alta."
+      ]
+    },
+    {
+      "id": "c04-q072",
+      "tema": "Propensión al ahorro",
+      "dificultad": "intermedia",
+      "pregunta": "Aumenta la disposición agregada a ahorrar a cada tasa real, sin cambios en las oportunidades de inversión. ¿Qué efecto predice el modelo básico?",
+      "opciones": [
+        "Una tasa real necesariamente nula.",
+        "Una caída automática de todos los cupones contractuales.",
+        "Una menor tasa real de equilibrio.",
+        "Una mayor tasa real porque hay más fondos disponibles."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El desplazamiento no obliga a llegar a cero. El nuevo nivel depende de las curvas completas. Solo puede afirmarse la dirección del cambio bajo los supuestos dados.",
+        "La tasa de equilibrio de nuevas operaciones puede cambiar. Eso no modifica los cupones fijos ya pactados. Los bonos existentes reflejan nuevas tasas mediante cambios de precio.",
+        "La oferta de fondos se expande a cada tasa. Para igualarla con una demanda dada, la tasa real tiende a bajar. La riqueza, la distribución y la demografía pueden influir en esa disposición a ahorrar.",
+        "Más disponibilidad de fondos no exige un precio mayor en este esquema. La presión competitiva tiende a reducir la tasa. Se confundió una expansión de oferta con una expansión de demanda."
+      ]
+    },
+    {
+      "id": "c04-q073",
+      "tema": "Ahorro para una meta real",
+      "dificultad": "intermedia",
+      "pregunta": "Una familia necesita $12.100 de poder adquisitivo actual dentro de dos años. Si puede asegurar una tasa real anual del 10%, ¿cuánto debe invertir hoy para esa meta?",
+      "opciones": [
+        "$12.100.",
+        "$14.641.",
+        "$10.000.",
+        "$11.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Guardar el importe completo no aprovecha el rendimiento real disponible. Con una tasa positiva puede partirse de una suma menor. El valor presente de la meta es $10.000.",
+        "Esta cifra capitaliza la meta en vez de descontarla. Se está buscando un monto actual, no uno posterior. Corresponde dividir por 1,10².",
+        "La meta ya está expresada en unidades reales. Se descuenta a la tasa real: 12.100/1,10² = $10.000. No hace falta inflar y descontar otra vez el mismo monto.",
+        "$11.000 corresponde a descontar solo un año. La familia tiene dos años para acumular rendimiento real. Debe dividirse por el factor de 1,10 dos veces."
+      ]
+    },
+    {
+      "id": "c04-q074",
+      "tema": "Tasa y ahorro individual",
+      "dificultad": "avanzada",
+      "pregunta": "Una persona solo desea reunir un monto real fijo para una fecha y no tiene otros objetivos. Si sube la tasa real asegurada, ¿qué puede pasar con su ahorro necesario hoy?",
+      "opciones": [
+        "Puede bajar, porque disminuye el valor presente de su meta.",
+        "Debe subir siempre, igual que toda oferta individual de ahorro.",
+        "No puede cambiar porque la meta es fija.",
+        "Debe volverse negativo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una tasa mayor permite alcanzar la misma meta con menos capital inicial. Es un efecto aritmético del valor presente. Muestra por qué no debe suponerse que toda persona ahorra más cuando sube la tasa.",
+        "La oferta agregada creciente es un supuesto de ciertos modelos. No obliga a cada individuo a responder igual. Con una meta fija, el ahorro necesario puede reducirse.",
+        "El objetivo final permanece fijo, pero cambia cuánto puede crecer el capital inicial. Por eso cambia su valor presente. Confundir meta con ahorro inicial oculta el efecto de la tasa.",
+        "Una tasa positiva mayor no exige un ahorro negativo para una meta positiva. El valor presente sigue siendo positivo. Solo disminuye el monto inicial requerido."
+      ]
+    },
+    {
+      "id": "c04-q075",
+      "tema": "Tasas reales negativas y almacenamiento",
+      "dificultad": "avanzada",
+      "pregunta": "Una colocación paga 5% nominal y se espera inflación de 10%. ¿Qué afirmación es correcta sobre el rendimiento real esperado y un supuesto arbitraje con bienes?",
+      "opciones": [
+        "El rendimiento real debe ser positivo porque la tasa nominal es positiva.",
+        "Existe una ganancia segura comprando cualquier bien, aunque sea perecedero o un servicio.",
+        "El rendimiento real exacto es −5% y prueba que el contrato es imposible.",
+        "El rendimiento real esperado es aproximadamente −4,55%; el arbitraje con bienes requiere poder almacenarlos y negociarlos sin costos ni riesgos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El poder adquisitivo depende de precios y dinero. Si los precios crecen más que el saldo nominal, se pierde capacidad de compra. La positividad nominal no asegura positividad real.",
+        "Muchos bienes cuestan almacenar o se deterioran. Los servicios no pueden guardarse de la misma manera. Además, inflación esperada no equivale a precio de reventa cierto.",
+        "−5% es la resta aproximada y no la tasa real exacta. Una rentabilidad real negativa es económicamente posible. No basta para demostrar una inconsistencia contractual.",
+        "La fórmula da 1,05/1,10 − 1 = −4,55% aproximadamente. Una tasa nominal positiva puede coexistir con una real negativa. Comprar y guardar bienes no garantiza arbitraje si hay costos, perecibilidad o incertidumbre de precios."
+      ]
+    },
+    {
+      "id": "c04-q076",
+      "tema": "Alcance de Fisher y evidencia",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista observa que las tasas nominales suelen acompañar la inflación realizada y concluye que todo aumento de inflación deja siempre intacta la tasa real. ¿Cuál es la mejor evaluación?",
+      "opciones": [
+        "Fisher exige que la tasa nominal baje cuando sube la inflación esperada.",
+        "La relación es compatible con Fisher, pero no prueba invariancia universal: importan expectativas y cambios reales simultáneos.",
+        "La conclusión es exacta porque inflación esperada y realizada son idénticas por definición.",
+        "La correlación demuestra que las tasas reales nunca cambian."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Manteniendo la tasa real requerida, más inflación esperada exige mayor tasa nominal. Ese es el sentido de la relación multiplicativa de Fisher. Una caída nominal no es su predicción bajo ese supuesto.",
+        "Fisher relaciona tasa nominal, tasa real requerida e inflación esperada. La inflación realizada puede diferir de lo anticipado. Además, cambios de actividad o inversión pueden alterar simultáneamente la tasa real, por lo que la evidencia no prueba una regla universal.",
+        "La inflación esperada es un pronóstico previo. La realizada se observa después y puede sorprender. Confundirlas impide distinguir rendimiento real esperado y efectivo.",
+        "Una correlación entre tasas nominales y precios no identifica todos los determinantes reales. Las oportunidades productivas y el ahorro también pueden cambiar. La tasa real no tiene por qué ser constante."
+      ]
+    },
+    {
+      "id": "c04-q077",
+      "tema": "Referencia soberana e impago empresarial",
+      "dificultad": "basica",
+      "pregunta": "Una empresa ofrece más rendimiento que un bono soberano comparable en la misma moneda. ¿Qué explicación es coherente con el análisis de deuda?",
+      "opciones": [
+        "Las tasas soberanas nunca afectan el costo de deuda empresarial.",
+        "El mayor rendimiento puede compensar riesgo de incumplimiento; la tasa soberana actúa como referencia.",
+        "La empresa necesariamente incumplirá porque su tasa es mayor.",
+        "El mayor rendimiento elimina todo riesgo de pérdida."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los rendimientos de referencia influyen sobre alternativas y costos de oportunidad. Una variación soberana puede trasladarse al costo empresarial. Eso no exige que todos los diferenciales permanezcan constantes.",
+        "Una empresa puede no cumplir íntegramente sus obligaciones. Los inversores suelen exigir compensación adicional por asumir ese riesgo. Las tasas soberanas sirven de referencia para evaluar el costo de financiamiento, aunque el diferencial puede cambiar.",
+        "Una compensación por riesgo no implica certeza de incumplimiento. Refleja la posibilidad de resultados adversos. El emisor puede cumplir y aun así haber pagado una prima.",
+        "La compensación prometida no elimina el evento adverso. Si hay impago, los pagos efectivos pueden ser inferiores a los contractuales. Una TIR prometida alta no garantiza una ganancia realizada."
+      ]
+    },
+    {
+      "id": "c04-q078",
+      "tema": "Bonos al portador y registrados",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la diferencia entre un bono al portador y uno registrado a nombre de su titular?",
+      "opciones": [
+        "El bono al portador necesariamente carece de intereses.",
+        "El bono registrado es una acción ordinaria.",
+        "El registro impide vender el bono antes del vencimiento.",
+        "En el registrado se identifica al dueño; en el esquema tradicional al portador, la posesión del título acredita el derecho."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La forma de identificación no determina si hay cupones. Un bono al portador puede pagar intereses. Deben separarse estructura de pagos y modo de registrar la propiedad.",
+        "Registrar al titular no convierte deuda en capital accionario. El instrumento sigue prometiendo los pagos de su contrato. La distinción afecta la identificación del acreedor.",
+        "Un bono registrado puede transferirse según sus reglas de negociación. El registro debe reflejar el cambio de titular. No impone por sí solo mantenerlo hasta vencer.",
+        "La distinción se refiere a cómo se identifica al titular del derecho. En un bono registrado, los pagos pueden enviarse al dueño identificado. En el esquema tradicional al portador, la presentación del título y sus cupones permitía exigirlos."
+      ]
+    },
+    {
+      "id": "c04-q079",
+      "tema": "Ahorro directo e indirecto",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa retiene utilidades en lugar de distribuirlas y un gobierno recauda recursos para invertir. En el esquema del capítulo, ¿qué interpretación es adecuada?",
+      "opciones": [
+        "El ahorro no se limita a depósitos personales: puede canalizarse indirectamente por empresas o el sector público.",
+        "Retener utilidades crea capital sin sacrificar consumo ni distribuciones.",
+        "Solo las compras personales de bonos constituyen ahorro.",
+        "Toda retención cambia automáticamente a cero la tasa real."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una utilidad retenida deja fondos invertidos en nombre de los propietarios. Los recursos públicos también pueden financiar inversión en lugar de consumo. El análisis agregado debe contemplar esos canales y no solo depósitos individuales.",
+        "Retener utilidades supone no distribuir esos fondos ahora. Existe un costo de oportunidad para los propietarios. No se crean recursos gratuitos por cambiar el canal de financiamiento.",
+        "El ahorro puede adoptar distintas formas financieras y organizativas. Comprar un bono es una de ellas. Limitarlo a esa operación omite utilidades retenidas y otros canales.",
+        "Una decisión de retención no fija por sí sola toda la tasa real. El equilibrio depende de oferta y demanda agregadas. No existe una regla que fuerce esa tasa a cero."
+      ]
+    },
+    {
+      "id": "c04-q080",
+      "tema": "Lectura de cotizaciones e instrumentos",
+      "dificultad": "basica",
+      "pregunta": "Una pantalla separa letras de corto plazo, notas y bonos largos del Tesoro, y muestra precio, cambio diario y rendimiento. ¿Qué lectura es correcta?",
+      "opciones": [
+        "Todos esos instrumentos vencen necesariamente en menos de un año.",
+        "El cupón contractual se reemplaza cada día por el cambio de precio publicado.",
+        "Los plazos distinguen instrumentos; el cambio diario es una variación de precio y no el rendimiento al vencimiento.",
+        "Una suba diaria de un punto de cotización equivale siempre a una TIR de 1%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los instrumentos se diferencian precisamente por sus plazos. Las letras tienen vencimientos cortos, mientras notas y bonos pueden extenderse varios años. Confundirlos impide interpretar la estructura temporal.",
+        "El cambio diario refleja negociación de mercado. No modifica el cupón de un bono a tasa fija. El contrato de pagos y la cotización cumplen funciones distintas.",
+        "El Tesoro obtiene fondos a distintos vencimientos: las letras son de corto plazo y las notas y bonos cubren plazos mayores. Una columna de cambio compara precios entre fechas. La TIR se calcula con el precio actual y los pagos pendientes, por lo que es otra magnitud.",
+        "Un punto de precio es una unidad de cotización respecto del nominal. La TIR considera todos los pagos futuros y sus fechas. No existe una equivalencia automática entre ambos indicadores."
+      ]
+    }
+  ]
+}

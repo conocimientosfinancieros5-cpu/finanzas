@@ -1,0 +1,1336 @@
+{
+  "capitulo": 8,
+  "titulo": "Introducción al riesgo, rendimiento y costo de oportunidad del capital",
+  "preguntas": [
+    {
+      "id": "c08-q001",
+      "tema": "Historia de los mercados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué comparación describe el patrón histórico general de letras del Tesoro, bonos públicos largos y acciones estadounidenses?",
+      "opciones": [
+        "Las tres clases tuvieron el mismo rendimiento real medio.",
+        "Las acciones tuvieron mayor rendimiento medio y mayor variabilidad; las letras, los menores.",
+        "Los bonos largos tuvieron menos variabilidad que las letras.",
+        "Las acciones ofrecieron el mayor rendimiento en cada año."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La inflación erosiona el poder de compra de los pagos de las tres inversiones. Corregir por inflación no elimina las diferencias de rentabilidad entre clases. Las acciones tuvieron un rendimiento real promedio mayor que los instrumentos públicos considerados.",
+        "Las acciones exponen al inversor a los resultados inciertos de las empresas y a fluctuaciones de precios. Las letras de corto plazo tienen pagos nominales más previsibles. Históricamente, esa diferencia de exposición estuvo acompañada por diferencias de rendimiento promedio.",
+        "Un bono largo puede cambiar mucho de precio cuando varían las tasas de interés. Una letra con vencimiento cercano tiene menor sensibilidad de precio a esas variaciones. Por eso los rendimientos anuales de los bonos largos fueron más variables que los de las letras.",
+        "Un promedio alto no significa ganar todos los años. Las acciones atravesaron períodos de pérdidas importantes y otros de recuperación. La comparación histórica se refiere al conjunto de muchos años, no a una superioridad anual garantizada."
+      ]
+    },
+    {
+      "id": "c08-q002",
+      "tema": "Rendimiento total",
+      "dificultad": "basica",
+      "pregunta": "Comprás una acción por $80, cobrás un dividendo de $4 y la vendés al año por $88. Sin impuestos ni comisiones, ¿cuál es el rendimiento total?",
+      "opciones": [
+        "10%.",
+        "5%.",
+        "13,64%.",
+        "15%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 10% surge de dividir únicamente la suba de precio de $8 por los $80 iniciales. Ese procedimiento omite el dividendo recibido. El rendimiento total incluye tanto el ingreso en efectivo como la variación de precio y alcanza 15%.",
+        "El 5% es el rendimiento por dividendo, porque 4/80 = 5%. Falta incorporar la ganancia de capital de $8. Al incluir ambas fuentes de retorno se obtiene un rendimiento total de 15%.",
+        "El 13,64% surge de dividir la ganancia de $12 por el precio final de $88. La rentabilidad debe medirse sobre el capital comprometido al inicio. Con una base de $80, el resultado correcto es 15%.",
+        "La ganancia de capital es $88 − $80 = $8. Sumada al dividendo de $4, la ganancia total es $12. Al dividir por los $80 invertidos al inicio resulta 12/80 = 15%."
+      ]
+    },
+    {
+      "id": "c08-q003",
+      "tema": "Seguridad nominal y real",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera compra una letra del Tesoro estadounidense sin riesgo de incumplimiento y la conserva hasta su vencimiento, que coincide con su necesidad de efectivo. ¿Qué incertidumbre permanece?",
+      "opciones": [
+        "El poder de compra del cobro, si la inflación es incierta.",
+        "El importe nominal prometido, aunque no exista incumplimiento.",
+        "La obligación de vender la letra antes de su vencimiento.",
+        "Una caída segura del capital nominal por cualquier suba de tasas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La coincidencia entre vencimiento y necesidad de efectivo permite conocer el cobro nominal. Sin embargo, los precios de bienes y servicios pueden cambiar antes de esa fecha. Por eso un pago nominal seguro no equivale a un poder de compra seguro.",
+        "El supuesto excluye el incumplimiento y fija los términos del título. Bajo esas condiciones, el importe nominal al vencimiento está determinado. La incertidumbre relevante se encuentra en cuánto podrá comprar ese importe.",
+        "La tesorera puede esperar al vencimiento porque coincide con la fecha en que necesita los fondos. No tiene que vender anticipadamente para atender ese compromiso. Si debiera hacerlo, aparecería una exposición adicional al precio de mercado.",
+        "Una suba de tasas puede reducir el precio al que se vendería el título antes del vencimiento. No cambia por sí misma el pago nominal pactado de una letra que se conserva hasta vencer. La inflación sigue siendo la fuente de incertidumbre real."
+      ]
+    },
+    {
+      "id": "c08-q004",
+      "tema": "Rendimiento real",
+      "dificultad": "basica",
+      "pregunta": "Una inversión rinde 15,5% nominal y la inflación del período es 5%. ¿Cuál es su rendimiento real exacto?",
+      "opciones": [
+        "15,5%.",
+        "20,5%.",
+        "10%.",
+        "10,5%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 15,5% mide el incremento de dinero sin ajustar por precios. Como los bienes se encarecen 5%, ese incremento no se traduce íntegramente en poder de compra. La división 1,155/1,05 permite obtener el 10% real.",
+        "Sumar inflación y rendimiento nominal invierte el ajuste necesario. Una inflación positiva reduce el crecimiento del poder adquisitivo para un rendimiento nominal dado. El rendimiento real se obtiene dividiendo por 1,05 y es 10%.",
+        "El factor de crecimiento nominal es 1,155 y el de precios es 1,05. El factor de poder de compra resulta 1,155/1,05 = 1,10. Al restar uno se obtiene un rendimiento real de 10%.",
+        "Restar 5% a 15,5% da una aproximación de 10,5%. La corrección exacta requiere dividir factores de crecimiento. Con estos datos, el aumento del poder de compra es 10%."
+      ]
+    },
+    {
+      "id": "c08-q005",
+      "tema": "Bonos largos y horizonte",
+      "dificultad": "intermedia",
+      "pregunta": "Un director afirma que un bono público largo sin riesgo de incumplimiento es seguro para financiar un gasto dentro de un año. El bono vence mucho después y deberá venderse. ¿Qué objeción corresponde?",
+      "opciones": [
+        "Conocer el cupón permite conocer el rendimiento total del año.",
+        "Su precio de venta dentro de un año es incierto porque puede variar la tasa de mercado.",
+        "La ausencia de incumplimiento elimina cualquier riesgo de precio.",
+        "Una suba de tasas eleva necesariamente el precio de venta."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El cupón es solo una parte del rendimiento total del año. También debe sumarse la ganancia o pérdida al vender el bono. Como el precio de venta es incierto, conocer el cupón no alcanza para asegurar ese rendimiento.",
+        "La seguridad del pago contractual no garantiza el precio de una venta anticipada. Si cambian las tasas requeridas, cambia el valor presente de los pagos pendientes. Por eso el rendimiento a un año de un bono largo puede ser incierto incluso en términos nominales.",
+        "El riesgo de incumplimiento y el riesgo de tasa de interés son distintos. Un emisor puede pagar todo lo prometido mientras el precio del bono fluctúa. Para este horizonte importa el valor de venta al final del año.",
+        "Cuando sube la tasa de descuento, baja el valor presente de los pagos fijos restantes. Por eso una suba de tasas suele reducir el precio del bono. La dirección propuesta es opuesta a la relación habitual entre precio y tasa."
+      ]
+    },
+    {
+      "id": "c08-q006",
+      "tema": "Reinversión y gráficos históricos",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se interpreta una comparación histórica de riqueza acumulada que reinvierte dividendos e intereses y usa escala logarítmica?",
+      "opciones": [
+        "Muestra únicamente la variación de los precios cotizados.",
+        "Elimina automáticamente el efecto de la inflación.",
+        "Distancias verticales iguales representan siempre la misma cantidad de dólares.",
+        "Incluye pagos reinvertidos y permite comparar cambios proporcionales a lo largo del tiempo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La reinversión agrega a la evolución del precio los dividendos y los intereses recibidos. Excluir esos pagos subestimaría el resultado de mantener la inversión. Por eso una serie de riqueza total no equivale a una serie de precios sin ajustar.",
+        "La escala del gráfico no convierte valores nominales en reales. Para hacerlo hay que ajustar la riqueza por un índice de precios. Se pueden representar tanto valores nominales como reales en escala logarítmica.",
+        "En escala logarítmica las distancias iguales indican cambios porcentuales equivalentes. Pasar de $10 a $20 puede ocupar el mismo espacio que pasar de $100 a $200. Las diferencias absolutas en dólares son distintas aunque el factor de crecimiento sea el mismo.",
+        "La riqueza acumulada incorpora los ingresos que vuelven a invertirse y generan rendimientos posteriores. En una escala logarítmica, iguales distancias corresponden a iguales factores de crecimiento. Esto facilita visualizar series que terminan en valores monetarios muy distintos."
+      ]
+    },
+    {
+      "id": "c08-q007",
+      "tema": "Promedios aritmético y geométrico",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión gana 25% el primer año y pierde 20% el segundo. ¿Cuáles son el promedio aritmético anual y la tasa geométrica anual?",
+      "opciones": [
+        "2,5% y 0%, respectivamente.",
+        "0% y 2,5%, respectivamente.",
+        "2,5% y 2,5%, respectivamente.",
+        "5% y 0%, respectivamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El promedio aritmético es (25% − 20%)/2 = 2,5%. El factor acumulado es 1,25 × 0,80 = 1, por lo que se vuelve al capital inicial. La tasa geométrica es la raíz cuadrada de 1 menos uno, es decir, 0%.",
+        "Esta alternativa intercambia las dos medidas. La media de los rendimientos anuales es 2,5%, pero esa media no reproduce la riqueza final. La tasa que reproduce el capital sin cambios durante dos años es 0%.",
+        "La tasa aritmética no incorpora el efecto de aplicar rendimientos sobre bases sucesivamente distintas. Después de ganar 25%, la pérdida de 20% se aplica a un capital mayor. El resultado acumulado es nulo, por lo que la tasa geométrica no puede ser 2,5%.",
+        "El 5% es la suma de los rendimientos porcentuales observados. Para hallar el promedio aritmético debe dividirse esa suma entre los dos años. Así se obtiene 2,5%, mientras que la tasa compuesta sigue siendo 0%."
+      ]
+    },
+    {
+      "id": "c08-q008",
+      "tema": "Costo de oportunidad y media",
+      "dificultad": "intermedia",
+      "pregunta": "Para estimar el rendimiento esperado anual a partir de una distribución estable de rendimientos, ¿qué medida corresponde utilizar como costo de oportunidad de una inversión de igual riesgo?",
+      "opciones": [
+        "El mejor rendimiento observado, porque representa el objetivo del inversor.",
+        "La tasa libre de riesgo, cualquiera sea la exposición de la inversión.",
+        "El promedio aritmético de los rendimientos, ponderado por sus probabilidades.",
+        "La tasa geométrica, porque siempre es mayor que la aritmética."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El mejor resultado es solo uno de los desenlaces posibles. Usarlo como si fuera el rendimiento esperado ignora los escenarios menos favorables y sus probabilidades. El costo de oportunidad debe reflejar la distribución completa y el riesgo comparable.",
+        "La tasa libre de riesgo corresponde a pagos con seguridad y plazo compatibles. Una inversión riesgosa puede requerir una compensación adicional. Ignorar esa diferencia sobrevalora los flujos inciertos cuando su rendimiento requerido supera la tasa segura.",
+        "El rendimiento esperado es la suma de cada resultado multiplicado por su probabilidad. Ese cálculo es una media aritmética ponderada. Bajo los supuestos indicados, representa la alternativa de igual riesgo que el inversor sacrifica.",
+        "La media geométrica resume el crecimiento compuesto de la riqueza a través del tiempo. Con variabilidad, normalmente es menor que la aritmética. No debe sustituirse mecánicamente por el rendimiento esperado usado para valorar flujos de igual riesgo."
+      ]
+    },
+    {
+      "id": "c08-q009",
+      "tema": "Valor presente y flujos esperados",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo cuesta $200 y puede pagar $170, $230 o $270 dentro de un año, con probabilidades 25%, 50% y 25%. ¿Qué rendimiento esperado permite descontar su pago esperado y recuperar el precio?",
+      "opciones": [
+        "20%.",
+        "12,5%.",
+        "35%.",
+        "0%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 20% no se obtiene ponderando los tres rendimientos por sus probabilidades. Las tasas posibles son −15%, 15% y 35%, con mayor peso en la central. Su promedio ponderado es 12,5% y es la tasa consistente con el precio dado.",
+        "El pago esperado es 0,25 × 170 + 0,50 × 230 + 0,25 × 270 = $225. La ganancia esperada sobre $200 es $25, equivalente a 12,5%. Descontar 225/1,125 devuelve el precio de $200.",
+        "El 35% corresponde únicamente al mejor escenario, con un pago de $270. Ese escenario tiene probabilidad 25% y no resume los otros resultados. La media ponderada de los pagos es $225 y el rendimiento esperado es 12,5%.",
+        "El escenario central paga $230, pero eso no significa que la media sea igual al capital invertido. Es necesario ponderar también los pagos de $170 y $270. El pago esperado es $225, superior a los $200 iniciales, y el rendimiento esperado es 12,5%."
+      ]
+    },
+    {
+      "id": "c08-q010",
+      "tema": "Media geométrica y volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Con rendimientos moderados, una media aritmética anual de 12% y una desviación estándar de 20%, ¿cuál es la aproximación habitual de la media geométrica usando media aritmética menos la mitad de la varianza?",
+      "opciones": [
+        "2%.",
+        "11,8%.",
+        "−8%.",
+        "10%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 2% es la reducción aproximada atribuible a la variabilidad. Todavía debe restarse esa reducción de la media aritmética de 12%. El resultado aproximado es 10%, no 2%.",
+        "Esta cifra supone una reducción de apenas 0,2 puntos porcentuales. La fórmula exige elevar la desviación estándar decimal al cuadrado y dividir por dos. Con 20% de desviación, la corrección es de dos puntos porcentuales.",
+        "Restar directamente la desviación estándar de 20% a la media de 12% daría −8%. La aproximación utiliza la mitad de la varianza, no la desviación estándar. El cálculo correcto arroja alrededor de 10% y sigue siendo una aproximación.",
+        "Primero se expresan las tasas como decimales: la varianza es 0,20² = 0,04. La mitad de esa varianza es 0,02, equivalente a dos puntos porcentuales. La aproximación es 0,12 − 0,02 = 0,10, o 10%."
+      ]
+    },
+    {
+      "id": "c08-q011",
+      "tema": "Prima de riesgo y tasa actual",
+      "dificultad": "basica",
+      "pregunta": "La tasa libre de riesgo actual es 4% y se estima una prima de mercado de 6%. Para un proyecto con el mismo riesgo que el mercado, ¿qué tasa anual corresponde bajo este enfoque?",
+      "opciones": [
+        "10%.",
+        "6%.",
+        "4%.",
+        "2%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La prima de mercado es el rendimiento adicional exigido por encima de la tasa segura. Se suma a la tasa libre de riesgo actual, no a una tasa histórica desactualizada. El costo de oportunidad estimado es 4% + 6% = 10%.",
+        "El 6% es solo la compensación adicional por asumir riesgo de mercado. Falta incorporar el rendimiento de 4% que podría obtenerse sin esa exposición. El rendimiento total requerido es 10%.",
+        "El 4% remunera una inversión segura con condiciones compatibles. El proyecto tiene el riesgo del mercado y requiere además la prima estimada de 6%. Descontarlo solo al 4% ignoraría esa compensación.",
+        "Restar la tasa segura a la prima confunde un rendimiento total con un exceso de rendimiento. La prima ya está definida como una diferencia respecto de la tasa libre de riesgo. Para reconstruir el rendimiento total se suman ambos componentes y se obtiene 10%."
+      ]
+    },
+    {
+      "id": "c08-q012",
+      "tema": "Uso de información histórica",
+      "dificultad": "intermedia",
+      "pregunta": "Un director usa siempre el rendimiento nominal medio de un siglo como tasa de descuento de proyectos de riesgo de mercado, aunque la tasa libre de riesgo cambió mucho. ¿Cuál es la corrección más razonable?",
+      "opciones": [
+        "Reemplazar toda la tasa por el último rendimiento realizado del mercado.",
+        "Usar solo el promedio geométrico de los últimos dos años.",
+        "Partir de la tasa libre de riesgo actual y agregar una prima esperada estimada con criterio.",
+        "Mantener la tasa histórica porque los rendimientos requeridos nunca cambian."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El rendimiento realizado de un año incluye noticias y movimientos inesperados de precios. Puede diferir mucho de lo que los inversores exigían al comenzar ese año. Una sola observación no reemplaza una estimación prospectiva del costo de oportunidad.",
+        "Dos años ofrecen una muestra muy pequeña frente a la variabilidad de las acciones. Además, la media geométrica mide crecimiento compuesto, no directamente rendimiento esperado anual. Esta sustitución acumula un problema de muestra y otro de medida.",
+        "El rendimiento requerido combina una tasa segura y una compensación por riesgo. Si cambia la primera, no es razonable conservar automáticamente el rendimiento nominal total del pasado. La prima histórica puede servir de referencia, pero su vigencia futura requiere juicio.",
+        "Las tasas seguras varían con las condiciones monetarias y las expectativas de inflación. Además, la prima requerida puede cambiar. Por eso un promedio histórico nominal no constituye una constante válida para cualquier fecha."
+      ]
+    },
+    {
+      "id": "c08-q013",
+      "tema": "Incertidumbre de la prima estimada",
+      "dificultad": "intermedia",
+      "pregunta": "La desviación estándar anual de una prima es 18% y se tienen 81 observaciones independientes. ¿Cuál es el error estándar de su media y el intervalo aproximado de dos errores alrededor de una media de 6%?",
+      "opciones": [
+        "2%; aproximadamente de 4% a 8%.",
+        "2%; aproximadamente de 2% a 10%.",
+        "18%; aproximadamente de −30% a 42%.",
+        "0,22%; aproximadamente de 5,56% a 6,44%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El error estándar de 2% está bien calculado. Sin embargo, el intervalo de 4% a 8% agrega y resta solo un error estándar. La pregunta pide dos, de modo que los extremos son 2% y 10%.",
+        "El error estándar de la media es 18%/√81 = 2%. Dos errores estándar equivalen a cuatro puntos porcentuales a cada lado de 6%. Bajo una aproximación estadística adecuada, el intervalo va de 2% a 10% y muestra la imprecisión de la estimación.",
+        "El 18% describe la dispersión de una observación anual, no de la media de 81 observaciones independientes. La incertidumbre de esa media se reduce al dividir por la raíz del tamaño muestral. El error estándar resultante es 2%.",
+        "El 0,22% surge aproximadamente de dividir 18% entre 81. La reducción del error estándar depende de √81, no de 81. Usar el divisor incorrecto presenta una precisión mucho mayor que la respaldada por los datos."
+      ]
+    },
+    {
+      "id": "c08-q014",
+      "tema": "Rendimiento realizado y esperado",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué una prima histórica alta no demuestra que los inversores esperen hoy exactamente esa misma prima?",
+      "opciones": [
+        "Porque una prima realizada siempre coincide con el rendimiento libre de riesgo.",
+        "Porque una serie larga elimina toda incertidumbre sobre el futuro.",
+        "Porque la inflación vuelve imposible calcular cualquier prima nominal.",
+        "Los rendimientos realizados incorporan sorpresas y las compensaciones requeridas pueden cambiar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La prima realizada es la diferencia entre el rendimiento riesgoso y el de la referencia segura. No es el rendimiento de esa referencia. Su magnitud puede ser positiva o negativa según los resultados del período.",
+        "Una muestra larga reduce parte del error de estimación bajo supuestos estadísticos apropiados. No garantiza que el proceso económico ni la prima requerida permanezcan constantes. Por eso la incertidumbre estadística y la posible variación estructural deben distinguirse.",
+        "Es posible calcular una prima nominal restando rendimientos nominales comparables. La inflación no impide esa operación. El problema central es interpretar si esa diferencia realizada representa lo que se exigía y lo que se exigirá.",
+        "Una ganancia observada puede contener noticias favorables que no estaban previstas al invertir. Además, las preferencias y las oportunidades de diversificación pueden cambiar con el tiempo. La historia aporta evidencia, pero no revela directamente una expectativa actual exacta."
+      ]
+    },
+    {
+      "id": "c08-q015",
+      "tema": "Comparaciones internacionales",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista estima expectativas mundiales usando solo el país que tuvo mejor desempeño histórico. ¿Cuál es la principal limitación?",
+      "opciones": [
+        "Puede seleccionar un resultado excepcionalmente favorable y confundirlo con lo que se esperaba al inicio.",
+        "Los inversores conocían con certeza qué país sería el ganador.",
+        "Una prima histórica distinta entre países demuestra expectativas idénticas sin incertidumbre.",
+        "Los mercados internacionales siempre tienen la misma volatilidad."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Elegir retrospectivamente al ganador introduce un sesgo de selección. Otros países pudieron sufrir guerras, crisis o interrupciones que también eran posibles al inicio. Comparar una muestra internacional más amplia ayuda a evaluar la representatividad del resultado elegido.",
+        "Conocer hoy el resultado no significa que fuera previsible antes de invertir. La decisión inicial estaba expuesta a diferentes desenlaces. Confundir información posterior con información disponible entonces elimina artificialmente el riesgo que se asumió.",
+        "Las diferencias realizadas pueden deberse tanto a riesgos distintos como a sorpresas. No prueban por sí mismas ni igualdad ni desigualdad exacta de las expectativas originales. Es necesario reconocer la imprecisión de la inferencia histórica.",
+        "Los países difieren en estructura económica y exposición a crisis. Sus volatilidades históricas pueden ser diferentes y también cambiar con el tiempo. Suponer igualdad universal descarta justamente una de las razones para comparar mercados."
+      ]
+    },
+    {
+      "id": "c08-q016",
+      "tema": "Caída del rendimiento requerido",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción pagará $6 el próximo año y sus dividendos crecerán 4% anual para siempre. Si el rendimiento requerido baja de 10% a 8%, manteniendo esos flujos, ¿qué ocurre con su precio teórico?",
+      "opciones": [
+        "Sube de $60 a $75, un 25%.",
+        "Queda en $100 porque no cambió el dividendo.",
+        "Sube de $100 a $150, un 50%.",
+        "Baja de $150 a $100, un 33,33%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los precios de $60 y $75 salen de dividir el dividendo por r sin restar el crecimiento. Esa fórmula correspondería a una perpetuidad sin crecimiento. Con g = 4%, deben utilizarse denominadores de 6% y 4%, respectivamente.",
+        "El precio depende de los flujos y de la tasa exigida para recibirlos. Aunque el dividendo y su crecimiento no cambien, una tasa menor aumenta el valor presente. Por eso mantener el precio inicial ignora un componente esencial de la valuación.",
+        "Con crecimiento constante, P = DIV1/(r − g), siempre que r sea mayor que g. Inicialmente el precio es 6/(0,10 − 0,04) = $100 y luego es 6/(0,08 − 0,04) = $150. El aumento de $50 sobre $100 representa 50%.",
+        "La caída del rendimiento requerido reduce la tasa a la que se descuentan los mismos dividendos. Eso aumenta su valor presente en lugar de disminuirlo. Los valores correctos son $100 antes y $150 después."
+      ]
+    },
+    {
+      "id": "c08-q017",
+      "tema": "Ganancias inesperadas y prima histórica",
+      "dificultad": "avanzada",
+      "pregunta": "Durante varios años baja el rendimiento requerido y suben los precios accionarios sin revisiones de dividendos esperados. ¿Qué riesgo tiene extrapolar las ganancias observadas?",
+      "opciones": [
+        "Identificar las ganancias de capital con pagos de dividendos ya cobrados.",
+        "Sobreestimar lo que se exigía antes y omitir que ahora se requiere un rendimiento menor.",
+        "Subestimar necesariamente la prima futura porque toda ganancia se repite.",
+        "Concluir correctamente que el crecimiento esperado de dividendos aumentó en igual proporción."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una ganancia de capital es un cambio en el precio del título. Un dividendo es un pago en efectivo de la empresa al accionista. Ambos integran el rendimiento total, pero distinguirlos es necesario para interpretar la revaluación.",
+        "Una caída no anticipada de la tasa requerida produce una ganancia de capital extraordinaria. Contarla como rendimiento que ya se esperaba exagera la compensación previa. Además, extrapolarla ignora que el nuevo nivel de rendimiento requerido es más bajo.",
+        "La ganancia de revaluación no constituye una renta que deba repetirse cada año. Para que se repita por ese mecanismo harían falta nuevas caídas de la tasa requerida. Su extrapolación puede sobreestimar, en lugar de subestimar, el rendimiento futuro.",
+        "El caso mantiene constantes los dividendos esperados y su crecimiento. El aumento del precio se explica por el descuento a una tasa menor. Atribuirlo a mayor crecimiento contradice la información disponible."
+      ]
+    },
+    {
+      "id": "c08-q018",
+      "tema": "Dividendos y rendimiento esperado",
+      "dificultad": "intermedia",
+      "pregunta": "El próximo dividendo esperado es $5 por acción, el precio actual es $100, el crecimiento perpetuo esperado es 3% y la tasa libre de riesgo es 2%. Bajo crecimiento constante, ¿cuál es la prima de mercado implícita si estos datos representan al mercado?",
+      "opciones": [
+        "3%.",
+        "8%.",
+        "5%.",
+        "6%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 3% es el crecimiento esperado del dividendo. No incorpora el pago de dividendos ni descuenta la referencia libre de riesgo. La prima requiere calcular primero el rendimiento total de 8% y luego restar 2%.",
+        "El 8% es el rendimiento total esperado de la inversión. La prima representa únicamente su exceso sobre la alternativa segura. Al restarle la tasa libre de riesgo de 2%, se obtiene 6%.",
+        "El 5% es el rendimiento por dividendo y constituye solo una parte del retorno esperado. Debe sumarse el crecimiento de 3% para obtener el retorno total. Después se resta la tasa segura, por lo que la prima es 6%.",
+        "El rendimiento por dividendo es 5/100 = 5%. El rendimiento total esperado es 5% + 3% = 8%, bajo los supuestos de crecimiento constante. La prima sobre la tasa segura es 8% − 2% = 6%."
+      ]
+    },
+    {
+      "id": "c08-q019",
+      "tema": "Interpretación del rendimiento por dividendo",
+      "dificultad": "intermedia",
+      "pregunta": "Un director observa un rendimiento por dividendo bajo y afirma que eso prueba que el costo del capital accionario es bajo para cualquier horizonte. ¿Cuál es la mejor evaluación?",
+      "opciones": [
+        "No alcanza: puede reflejar mayor crecimiento esperado o menor rendimiento requerido, y la señal depende del horizonte.",
+        "Es correcto porque el rendimiento por dividendo equivale siempre al rendimiento total.",
+        "Es incorrecto porque un rendimiento por dividendo bajo exige siempre un costo de capital alto.",
+        "Es correcto porque el crecimiento esperado nunca afecta el precio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En el modelo de crecimiento constante, el rendimiento por dividendo equivale a r − g. Puede bajar porque baja r o porque sube g, y los datos no identifican automáticamente una única causa. Su contenido predictivo a pocos años no justifica trasladar mecánicamente la misma señal a proyectos muy largos.",
+        "El rendimiento total esperado incluye el dividendo y la apreciación esperada del precio. Bajo crecimiento constante, esta última se vincula con g. Igualar retorno total y rendimiento por dividendo omite una fuente de rentabilidad.",
+        "Un rendimiento por dividendo bajo puede ser compatible con una tasa requerida menor. También puede reflejar expectativas de crecimiento mayores. No hay una relación inversa obligatoria que permita afirmar un costo de capital alto.",
+        "Con r constante, un mayor crecimiento esperado eleva el valor presente de los dividendos futuros. Ese aumento del precio reduce el dividendo inmediato en proporción al precio. Por eso ignorar g invalida la conclusión del director."
+      ]
+    },
+    {
+      "id": "c08-q020",
+      "tema": "Definición comparable de prima",
+      "dificultad": "intermedia",
+      "pregunta": "Dos informes difieren en su estimación de la prima accionaria. ¿Qué debe verificarse antes de interpretar la diferencia como desacuerdo económico?",
+      "opciones": [
+        "Que ambos usen el mismo nombre de autor, aunque sus medidas sean distintas.",
+        "Que uno use bonos largos y el otro letras, porque esas referencias siempre son equivalentes.",
+        "La referencia segura, el período y el uso de medias aritméticas o geométricas.",
+        "Solo que ambos informes están expresados en porcentajes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La identidad del autor no resuelve un problema de comparabilidad. Un mismo analista puede presentar medidas con definiciones distintas. Lo relevante es revisar las operaciones y los supuestos que generan cada cifra.",
+        "Los bonos largos y las letras tienen distintos plazos y exposiciones a tasas. Sus rendimientos pueden diferir en un mismo período. Cambiar la referencia puede modificar la prima sin que cambie la expectativa sobre acciones.",
+        "Una prima sobre letras no es idéntica a una prima sobre bonos largos. Tampoco una diferencia de tasas geométricas equivale necesariamente a una media aritmética de excesos anuales. Alinear definiciones, horizontes y períodos permite distinguir diferencias de medición de diferencias de expectativas.",
+        "Expresar dos cifras en porcentajes no asegura que midan el mismo objeto. Una puede referirse a crecimiento compuesto y la otra a rendimiento esperado anual. También puede variar el activo de referencia utilizado para calcular el exceso."
+      ]
+    },
+    {
+      "id": "c08-q021",
+      "tema": "Aversión al riesgo y evidencia",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué expresa la dificultad de conciliar una prima accionaria histórica elevada con un consumo relativamente estable?",
+      "opciones": [
+        "Que una mayor aversión al riesgo hace que los inversores exijan menor compensación por exposición adicional.",
+        "Que una explicación basada solo en una aversión al riesgo muy alta enfrenta una tensión con el comportamiento del consumo.",
+        "Que las acciones carecen de riesgo económico.",
+        "Que la prima histórica es exactamente la expectativa de cada inversor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "En la interpretación habitual, mayor aversión al riesgo implica exigir más compensación por una exposición indeseada. Afirmar que esa compensación debe bajar invierte la relación. La discusión surge precisamente de cuánta aversión sería necesaria para explicar una prima alta.",
+        "Una prima muy elevada puede sugerir una gran resistencia a soportar riesgo en ciertos modelos. Sin embargo, un consumo que cambia poco ante pérdidas de riqueza complica esa explicación simple. La tensión muestra límites de la interpretación, no una medición exacta de las expectativas futuras.",
+        "La estabilidad relativa del consumo no elimina la variabilidad de los rendimientos accionarios. Las familias pueden ajustar ahorro u otras decisiones para amortiguar cambios de riqueza. La dificultad se refiere a explicar la magnitud de la prima, no a negar el riesgo.",
+        "Un rendimiento histórico combina expectativas iniciales y noticias posteriores. Las personas también pueden tener expectativas y restricciones diferentes. Por eso una media realizada no revela una expectativa individual exacta."
+      ]
+    },
+    {
+      "id": "c08-q022",
+      "tema": "Rendimiento esperado y dispersión",
+      "dificultad": "basica",
+      "pregunta": "Dos inversiones tienen el mismo rendimiento esperado, pero una concentra más probabilidad en resultados muy alejados de esa media. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La de mayor dispersión tiene necesariamente mayor rendimiento esperado.",
+        "La de menor dispersión garantiza no perder dinero.",
+        "Las dos tienen la misma desviación estándar porque sus medias coinciden.",
+        "Pueden tener igual media y distinto riesgo total medido por varianza."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Cambiar la dispersión no obliga a cambiar el promedio. Se pueden ampliar simétricamente ganancias y pérdidas alrededor de la misma media. Por eso una mayor variabilidad no prueba que el rendimiento esperado sea mayor.",
+        "Una menor dispersión reduce la variabilidad relativa respecto de otra inversión. No excluye que existan resultados negativos. Para afirmar que no habrá pérdidas habría que conocer los posibles resultados y no solo comparar dispersiones.",
+        "La desviación estándar depende de las distancias respecto de la media. Dos distribuciones pueden compartir ese centro y tener distancias muy diferentes. La igualdad de medias no implica igualdad de riesgo total.",
+        "La media resume el centro de la distribución de rendimientos. La varianza resume cuánto se separan los resultados de ese centro. Son características distintas y una misma rentabilidad esperada puede acompañarse de grados muy diferentes de incertidumbre."
+      ]
+    },
+    {
+      "id": "c08-q023",
+      "tema": "Varianza de escenarios",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión puede rendir −10%, 10% o 30% con probabilidades 25%, 50% y 25%. ¿Cuáles son la media y la varianza, expresando los rendimientos como decimales?",
+      "opciones": [
+        "Media 0,10 y varianza 0,02.",
+        "Media 0,10 y varianza 0,04.",
+        "Media 0,10 y varianza 0,20.",
+        "Media 0 y varianza 0,02."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La media es 0,25 × (−0,10) + 0,50 × 0,10 + 0,25 × 0,30 = 0,10. Las desviaciones son −0,20, 0 y 0,20. La varianza es 0,25 × 0,04 + 0,50 × 0 + 0,25 × 0,04 = 0,02.",
+        "El 0,04 es el cuadrado de cada desviación extrema. Cada extremo ocurre solo con probabilidad 25%, mientras que el resultado central tiene desviación cero. Ponderar correctamente produce una varianza de 0,02.",
+        "El 0,20 es la distancia de cada resultado extremo respecto de la media. La varianza utiliza distancias al cuadrado y luego las pondera. No corresponde identificar una desviación extrema con la varianza de la distribución.",
+        "La media no es cero porque los resultados están centrados en 10%. Las pérdidas de 10% y las ganancias de 30% tienen el mismo peso y promedian 10%. Incorporar el resultado central mantiene esa misma media."
+      ]
+    },
+    {
+      "id": "c08-q024",
+      "tema": "Varianza y desviación estándar",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la relación correcta entre varianza y desviación estándar de los rendimientos?",
+      "opciones": [
+        "La desviación estándar conserva el signo de las pérdidas observadas.",
+        "La varianza es el promedio simple de las desviaciones sin elevarlas al cuadrado.",
+        "La desviación estándar es la raíz cuadrada de la varianza y conserva las unidades del rendimiento.",
+        "La varianza es la raíz cuadrada de la desviación estándar."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La desviación estándar es una magnitud no negativa. Los resultados negativos pueden aumentar su valor al separarse de la media, pero no le dan signo negativo. Mide dispersión, no la dirección de la ganancia o pérdida.",
+        "El promedio de desviaciones respecto de la media es cero. Usarlo haría que distribuciones muy variables parecieran no tener riesgo. Elevar al cuadrado impide que las desviaciones positivas y negativas se cancelen.",
+        "La varianza se construye con desviaciones elevadas al cuadrado. Su raíz cuadrada vuelve a las unidades en que se expresa el rendimiento. Por eso la desviación estándar suele ser más fácil de comunicar como medida de volatilidad.",
+        "La relación propuesta está invertida. La varianza es el cuadrado de la desviación estándar. Para pasar de varianza a desviación estándar debe extraerse la raíz cuadrada."
+      ]
+    },
+    {
+      "id": "c08-q025",
+      "tema": "Escala de las medidas",
+      "dificultad": "intermedia",
+      "pregunta": "Una varianza calculada con rendimientos decimales es 0,0225. ¿Cuál es la desviación estándar y cuál sería la varianza si los rendimientos se escribieran en puntos porcentuales?",
+      "opciones": [
+        "150% y 22,5 puntos porcentuales al cuadrado.",
+        "15% y 225 puntos porcentuales al cuadrado.",
+        "2,25% y 2,25 puntos porcentuales al cuadrado.",
+        "15% y 15 puntos porcentuales al cuadrado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La raíz de 0,0225 es 0,15 y no 1,50. El cambio de unidades exige cuidado tanto al tomar la raíz como al escribir porcentajes. Los valores coherentes son 15% de desviación y 225 de varianza porcentual.",
+        "La raíz de 0,0225 es 0,15, equivalente a 15%. Pasar rendimientos de decimales a porcentajes multiplica cada dato por 100. La varianza se multiplica por 100², de modo que resulta 225 puntos porcentuales al cuadrado.",
+        "Esta alternativa confunde la varianza decimal con una tasa de rendimiento. Para obtener la desviación estándar debe extraerse la raíz cuadrada. Además, el cambio de escala de la varianza es cuadrático, no el de una tasa simple.",
+        "El 15% es la desviación estándar correcta. Sin embargo, una varianza en puntos porcentuales al cuadrado es 15² = 225. Asignarle 15 confunde una medida de dispersión con su cuadrado."
+      ]
+    },
+    {
+      "id": "c08-q026",
+      "tema": "Varianza muestral",
+      "dificultad": "intermedia",
+      "pregunta": "Se observan tres rendimientos históricos: −10%, 10% y 30%. Usando la corrección muestral N − 1, ¿cuál es la varianza en decimales?",
+      "opciones": [
+        "0,02667 aproximadamente.",
+        "0,02.",
+        "0,40.",
+        "0,04."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El resultado aproximado de 0,02667 se obtiene dividiendo 0,08 entre tres. Esa sería la varianza de tres escenarios equiprobables definidos como distribución completa. Para estimar la varianza desde una muestra con la corrección pedida se divide entre dos.",
+        "El 0,02 no surge de aplicar N − 1 a esta muestra. La suma de cuadrados es 0,08 y el divisor correcto es dos. Las probabilidades de otro ejercicio no pueden trasladarse a tres observaciones históricas.",
+        "Una desviación de veinte puntos porcentuales equivale a 0,20 en decimales. Su cuadrado es 0,04 y no 0,40. Mantener las unidades decimales en todos los pasos evita multiplicar indebidamente la varianza.",
+        "La media de los tres rendimientos es 10%. Las desviaciones decimales son −0,20, 0 y 0,20, cuyos cuadrados suman 0,08. La varianza muestral es 0,08/(3 − 1) = 0,04."
+      ]
+    },
+    {
+      "id": "c08-q027",
+      "tema": "Histogramas y distribuciones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué información aporta un histograma de rendimientos anuales?",
+      "opciones": [
+        "La frecuencia con que los resultados se ubican en distintos intervalos y una imagen de su dispersión.",
+        "Una secuencia temporal exacta de las cotizaciones diarias.",
+        "La probabilidad futura exacta de cada rendimiento posible.",
+        "El rendimiento exigido por cada inversor al inicio de cada año."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El histograma agrupa observaciones en intervalos y muestra cuántas caen en cada uno. Permite apreciar concentración, amplitud y presencia de resultados extremos. No conserva por sí solo el orden temporal ni transforma frecuencias históricas en certezas futuras.",
+        "Al agrupar resultados por intervalos se pierde la secuencia exacta en que ocurrieron. Además, los rendimientos anuales no contienen todas las cotizaciones diarias. Para reconstruir una trayectoria se necesita información temporal adicional.",
+        "Las frecuencias de una muestra son evidencia sobre el pasado. Interpretarlas como probabilidades futuras requiere supuestos sobre la estabilidad del proceso. Incluso bajo esos supuestos existe error de estimación.",
+        "El histograma describe resultados efectivamente observados. Los rendimientos exigidos al inicio son expectativas que pueden diferir de esos resultados. No se recupera una expectativa individual exacta únicamente de las frecuencias históricas."
+      ]
+    },
+    {
+      "id": "c08-q028",
+      "tema": "Límites de la volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué precaución corresponde al resumir todo el riesgo de una inversión mediante su desviación estándar?",
+      "opciones": [
+        "La media y la desviación estándar siempre describen completamente cualquier distribución.",
+        "Si la desviación estándar es positiva, todos los escenarios implican pérdidas.",
+        "Es una síntesis de dispersión; distribuciones con colas o formas distintas pueden requerir más información.",
+        "La desviación estándar mide exclusivamente pérdidas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Distribuciones diferentes pueden tener la misma media y desviación estándar. Pueden diferir, por ejemplo, en la frecuencia de resultados muy extremos. La descripción completa con dos parámetros corresponde a familias específicas, como la normal.",
+        "Una desviación estándar positiva significa que no todos los rendimientos posibles son iguales. Es compatible con que todos los escenarios sean positivos, negativos o una combinación. Su valor no determina por sí solo el signo de los resultados.",
+        "La desviación estándar trata las desviaciones positivas y negativas respecto de la media mediante sus cuadrados. Para distribuciones normales, media y varianza caracterizan la distribución, lo que facilita su uso. Fuera de ese marco pueden importar asimetrías, colas y otros rasgos que esa síntesis no distingue.",
+        "La fórmula incorpora resultados por encima y por debajo de la media. Por eso no es una medida exclusivamente de pérdidas. Si interesa el riesgo de caídas extremas, puede necesitarse información adicional sobre la distribución."
+      ]
+    },
+    {
+      "id": "c08-q029",
+      "tema": "Anualización de volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Con rendimientos mensuales independientes, se usa la aproximación de varianza proporcional al tiempo. Si la desviación estándar mensual es 3%, ¿cuáles son la varianza anual decimal y la desviación estándar anual aproximadas?",
+      "opciones": [
+        "0,09 y 30%.",
+        "0,0108 y 10,39%.",
+        "0,0108 y 36%.",
+        "0,0009 y 3%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La varianza mensual no es 0,03 ni 0,09, sino 0,03² = 0,0009. Es necesario mantener los rendimientos en decimales antes de elevarlos al cuadrado. Aplicar luego el factor doce produce 0,0108, cuya raíz no es 30%.",
+        "La varianza mensual es 0,03² = 0,0009. Al multiplicarla por doce se obtiene 0,0108 de varianza anual aproximada. Su raíz es 0,103923, de modo que la desviación anual es aproximadamente 10,39%.",
+        "La varianza anual de 0,0108 está bien calculada. La desviación estándar se multiplica por √12, no por doce. Multiplicar 3% por doce daría 36% y exageraría la dispersión anual bajo el supuesto indicado.",
+        "Los valores propuestos son las medidas mensuales sin anualizar. Bajo independencia, la exposición a doce períodos agrega varianzas. Por eso la varianza anual es mayor y la desviación sube a aproximadamente 10,39%."
+      ]
+    },
+    {
+      "id": "c08-q030",
+      "tema": "Supuestos temporales de volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista multiplica por doce la varianza mensual aunque existe fuerte correlación entre meses consecutivos. ¿Qué está omitiendo?",
+      "opciones": [
+        "Que la varianza siempre se multiplica por la raíz de doce.",
+        "Que solo importa el rendimiento del último mes.",
+        "Que la dependencia temporal obliga a una varianza anual nula.",
+        "Las covarianzas temporales entre rendimientos de distintos meses."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La raíz de doce se aplica a la desviación estándar cuando la varianza escala linealmente. La varianza se multiplica por doce bajo el supuesto apropiado. El error del caso no es ese factor, sino ignorar la dependencia entre meses.",
+        "El resultado anual depende de la exposición durante todo el año. Seleccionar únicamente el último mes elimina información relevante sobre los demás períodos. La correlación temporal exige incorporar relaciones adicionales, no descartar observaciones.",
+        "La dependencia puede aumentar o disminuir la varianza respecto de una referencia independiente. No la vuelve automáticamente cero. Para una cancelación completa harían falta relaciones muy específicas entre los resultados.",
+        "La varianza de una suma incluye varianzas y covarianzas entre sus componentes. La regla simple de multiplicar por doce supone que esas covarianzas temporales son nulas dentro de la aproximación utilizada. Si los meses están correlacionados, deben considerarse esos términos antes de anualizar."
+      ]
+    },
+    {
+      "id": "c08-q031",
+      "tema": "Estimación histórica de volatilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa transformó por completo su negocio y el mercado atravesó una crisis reciente. ¿Cómo conviene interpretar una volatilidad estimada con un siglo de datos?",
+      "opciones": [
+        "Como evidencia que debe revisarse por cambios de negocio y régimen, no como un parámetro inmutable.",
+        "Como la volatilidad futura exacta, porque más años siempre eliminan todo sesgo.",
+        "Como una medida inútil que obliga a suponer riesgo cero.",
+        "Como prueba de que todo episodio breve de alta volatilidad será permanente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La estimación histórica puede orientar sobre la variabilidad, pero su utilidad depende de la comparabilidad del pasado. Cambios de actividad y de entorno pueden modificar los riesgos actuales. Conviene equilibrar información suficiente con relevancia económica y frecuencia de observación.",
+        "Una muestra extensa puede reducir error estadístico si el proceso se mantiene estable. No corrige automáticamente que la empresa o el mercado sean diferentes. Mezclar regímenes distintos puede producir un promedio poco representativo del presente.",
+        "La falta de estabilidad no implica ausencia de información ni ausencia de riesgo. Se pueden revisar ventanas, datos y supuestos para formular una estimación más pertinente. Asignar riesgo cero sería una conclusión sin respaldo.",
+        "Un pico breve de volatilidad puede ser transitorio. También puede señalar un cambio más persistente, que requiere análisis. La historia de crisis no permite convertir automáticamente cualquier episodio extremo en el nuevo nivel permanente."
+      ]
+    },
+    {
+      "id": "c08-q032",
+      "tema": "Diversificación y correlación imperfecta",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué una cartera puede ser menos volátil que el promedio ponderado de las volatilidades individuales?",
+      "opciones": [
+        "Porque toda correlación positiva impide diversificar.",
+        "Porque la diversificación elimina los movimientos del mercado general.",
+        "Porque los rendimientos de sus activos no se mueven siempre en perfecta sincronía.",
+        "Porque sumar títulos aumenta automáticamente sus rendimientos esperados."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una correlación positiva menor que uno todavía permite compensación parcial. La ausencia de beneficio en términos de promedio ponderado de volatilidades ocurre con correlación positiva perfecta y pesos no negativos. No se necesita una correlación negativa para obtener diversificación.",
+        "Los factores comunes siguen afectando a muchos títulos al mismo tiempo. Agregar activos reduce principalmente los riesgos específicos que no se mueven juntos. El riesgo de mercado puede permanecer incluso en carteras muy amplias.",
+        "Cuando los resultados no están perfectamente alineados, algunas desviaciones de unos activos compensan parcialmente las de otros. La varianza de la cartera depende también de las covarianzas. Esa compensación puede reducir la dispersión sin cambiar el promedio ponderado de rendimientos esperados.",
+        "El rendimiento esperado de la cartera sigue siendo un promedio ponderado de los retornos esperados de sus activos. La reducción de riesgo no genera por sí sola un aumento de esas expectativas. El beneficio aparece en la distribución conjunta de resultados."
+      ]
+    },
+    {
+      "id": "c08-q033",
+      "tema": "Riesgo específico y sistemático",
+      "dificultad": "basica",
+      "pregunta": "¿Qué clasificación distingue mejor un incendio aislado en una fábrica de una recesión que afecta a gran parte de las empresas?",
+      "opciones": [
+        "La recesión deja de ser riesgosa cuando una cartera supera veinte acciones.",
+        "El incendio aislado es principalmente específico; la recesión introduce riesgo sistemático.",
+        "Ambos son necesariamente riesgos eliminables por completo con acciones del mismo sector.",
+        "El incendio aislado es sistemático y la recesión es específica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No existe un umbral de cantidad que elimine automáticamente el riesgo económico general. Una cartera amplia conserva sensibilidad a factores comunes. Además, el grado de diversificación depende de pesos y exposiciones, no solo del número de títulos.",
+        "Un suceso propio de una compañía puede compensarse con resultados de otras en una cartera diversificada. Una recesión puede afectar simultáneamente ventas, beneficios y precios en gran parte del mercado. Esa exposición común no desaparece simplemente agregando más acciones.",
+        "Las empresas del mismo sector pueden compartir amenazas importantes. Una recesión puede afectar además a numerosos sectores a la vez. No hay garantía de eliminar ambos riesgos por completo comprando títulos similares.",
+        "La clasificación está invertida respecto de los hechos descriptos. El incendio aislado se vincula con una empresa particular. La recesión es un factor amplio que puede generar movimientos conjuntos de muchas empresas."
+      ]
+    },
+    {
+      "id": "c08-q034",
+      "tema": "Número de títulos y concentración",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente considera diversificada una cartera con treinta acciones de un mismo sector, casi toda concentrada en dos de ellas. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "Treinta títulos garantizan que la desviación estándar sea cero.",
+        "La diversificación crece únicamente con el valor monetario invertido.",
+        "Una cartera de dos títulos siempre tiene menos riesgo que cualquier cartera de treinta.",
+        "La cantidad no basta: los pesos y los riesgos compartidos pueden mantener una concentración importante."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ni treinta ni una cantidad mayor de acciones aseguran volatilidad nula. El riesgo común de mercado sigue presente y la concentración puede añadir riesgo residual. La estructura de la cartera es tan relevante como su cantidad de componentes.",
+        "Aumentar todos los importes en la misma proporción deja iguales los pesos y los rendimientos porcentuales. No cambia por sí mismo las correlaciones entre activos. Por eso el tamaño monetario no determina el grado de diversificación porcentual.",
+        "El número de títulos por sí solo no ordena el riesgo de todas las carteras posibles. Importan las volatilidades, las correlaciones y las proporciones elegidas. Es posible construir ejemplos en ambas direcciones, por lo que la afirmación universal no se sostiene.",
+        "La diversificación exige distribuir exposiciones, no solo contar nombres. Dos posiciones dominantes pueden explicar gran parte del resultado, y un sector común puede generar movimientos similares. Por eso no debe tomarse una cifra orientativa de títulos como garantía universal de eliminación del riesgo específico."
+      ]
+    },
+    {
+      "id": "c08-q035",
+      "tema": "Rendimiento esperado de cartera",
+      "dificultad": "basica",
+      "pregunta": "Invertís 25% en un activo con rendimiento esperado de 8% y 75% en otro con 12%. ¿Cuál es el rendimiento esperado de la cartera?",
+      "opciones": [
+        "11%.",
+        "10%.",
+        "20%.",
+        "9%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento esperado se calcula ponderando cada tasa por la proporción invertida. El primer aporte es 0,25 × 8% = 2% y el segundo es 0,75 × 12% = 9%. La suma da 11%, sin necesidad de conocer la correlación.",
+        "El 10% es la media simple de 8% y 12%. Esa media supone participaciones iguales, pero aquí el segundo activo tiene mayor peso. El promedio correcto se acerca más a 12% y resulta 11%.",
+        "Sumar 8% y 12% trata a cada activo como si representara el capital completo. Los rendimientos deben ponderarse por la fracción efectivamente invertida. Con pesos que suman uno, el resultado es 11%.",
+        "El 9% surge de asignar mayor peso al activo de menor rendimiento. Eso invierte las proporciones del enunciado. Con 75% en el activo que rinde 12%, el promedio es 11%."
+      ]
+    },
+    {
+      "id": "c08-q036",
+      "tema": "Pesos para una rentabilidad objetivo",
+      "dificultad": "intermedia",
+      "pregunta": "Dos activos tienen rendimientos esperados de 6% y 14%. Sin endeudamiento ni ventas en corto, ¿qué combinación permite obtener un rendimiento esperado de 12%?",
+      "opciones": [
+        "75% en el primero y 25% en el segundo.",
+        "12% en el primero y 88% en el segundo.",
+        "25% en el primero y 75% en el segundo.",
+        "50% en cada uno."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta combinación produce 0,75 × 6% + 0,25 × 14% = 8%. Se asigna más capital al activo que menos rinde cuando se necesita una media cercana a 14%. Los pesos correctos son los inversos.",
+        "El objetivo de rendimiento no es directamente una proporción de inversión. Con esos pesos se obtendría 0,12 × 6% + 0,88 × 14% = 13,04%. Los pesos deben resolverse mediante la ecuación del promedio ponderado.",
+        "Si x es el peso del segundo activo, la media es 6% × (1 − x) + 14% × x. Igualar esa expresión a 12% da 8% × x = 6%, por lo que x = 0,75. Los pesos son 25% y 75%, y su comprobación da 1,5% + 10,5% = 12%.",
+        "Con partes iguales, el retorno esperado sería (6% + 14%)/2 = 10%. Ese valor queda por debajo del objetivo de 12%. Para alcanzar el objetivo debe aumentarse el peso del activo de mayor retorno esperado."
+      ]
+    },
+    {
+      "id": "c08-q037",
+      "tema": "Covarianza y correlación",
+      "dificultad": "intermedia",
+      "pregunta": "Dos activos tienen desviaciones estándar de 20% y 30% y correlación 0,5. ¿Cuál es su covarianza usando rendimientos decimales?",
+      "opciones": [
+        "0,25.",
+        "0,03.",
+        "0,50.",
+        "0,06."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 0,25 es el cuadrado del coeficiente de correlación. La fórmula no exige elevar la correlación al cuadrado. Deben multiplicarse correlación y volatilidades, conservando las unidades coherentes.",
+        "La covarianza es la correlación multiplicada por ambas desviaciones estándar. Con rendimientos decimales, el cálculo es 0,5 × 0,20 × 0,30 = 0,03. Esta magnitud tiene unidades de rendimiento al cuadrado y no es una tasa de retorno.",
+        "El 0,50 es el coeficiente de correlación dado. La covarianza depende también de la escala de las volatilidades de ambos activos. Multiplicarlo por 0,20 y por 0,30 produce 0,03.",
+        "El 0,06 es el producto de las dos desviaciones estándar. Ese sería el valor de la covarianza con correlación igual a uno. Con correlación 0,5, debe tomarse la mitad y se obtiene 0,03."
+      ]
+    },
+    {
+      "id": "c08-q038",
+      "tema": "Fórmula de varianza de dos activos",
+      "dificultad": "intermedia",
+      "pregunta": "Para pesos x e y que suman uno, volatilidades σA y σB y covarianza Cov(A,B), ¿qué fórmula calcula la varianza de la cartera?",
+      "opciones": [
+        "xσA² + yσB².",
+        "xσA + yσB.",
+        "x²σA² + y²σB² + xy Cov(A,B).",
+        "x²σA² + y²σB² + 2xy Cov(A,B)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta expresión usa pesos simples y omite la relación entre los activos. La varianza de una combinación lineal utiliza pesos al cuadrado en los términos propios. Además, deben incorporarse las covarianzas para capturar los efectos de diversificación.",
+        "Esta es una media ponderada de desviaciones estándar, no una fórmula general de varianza. Con pesos no negativos coincide con la volatilidad de la cartera solo bajo correlación positiva perfecta. En otros casos sobreestima esa volatilidad y tampoco entrega una varianza.",
+        "La fórmula incluye solo uno de los dos términos cruzados. En la expansión aparecen tanto xy Cov(A,B) como yx Cov(B,A). Como ambas covarianzas son iguales, deben sumarse y generar el factor dos.",
+        "Cada varianza individual se multiplica por el cuadrado de su peso. La relación entre los activos aporta dos términos simétricos de covarianza. Por eso el término cruzado conjunto es 2xy Cov(A,B)."
+      ]
+    },
+    {
+      "id": "c08-q039",
+      "tema": "Significado de covarianza",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirmación sobre covarianza y correlación es correcta?",
+      "opciones": [
+        "La covarianza de un activo consigo mismo es su varianza; una correlación cero no garantiza independencia.",
+        "La covarianza de un activo consigo mismo es siempre uno.",
+        "Una correlación cero demuestra que no existe ninguna relación posible.",
+        "La correlación puede tomar cualquier valor positivo mayor que uno."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La covarianza con uno mismo multiplica cada desviación por esa misma desviación. Su esperanza es, por definición, la varianza. Una correlación cero descarta asociación lineal en esa medida, pero puede coexistir con dependencia de otra forma.",
+        "Es la correlación de una variable no constante consigo misma la que vale uno. Su covarianza consigo misma depende de cuánto varían sus resultados. Esa covarianza es su varianza, que no tiene por qué valer uno.",
+        "La correlación mide asociación lineal y no todas las formas de dependencia. Dos variables pueden estar relacionadas de manera no lineal y tener correlación cero. La independencia implica covarianza cero cuando las medidas existen, pero la recíproca no es universal.",
+        "La correlación normaliza la covarianza por el producto de las desviaciones estándar. Esa normalización restringe su valor al intervalo de −1 a 1. Una cifra superior a uno revela un error de cálculo o una medida distinta."
+      ]
+    },
+    {
+      "id": "c08-q040",
+      "tema": "Cartera con correlación cero",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera invierte 50% en cada uno de dos activos con volatilidad de 20% y correlación cero. ¿Cuáles son su varianza decimal y su volatilidad aproximada?",
+      "opciones": [
+        "0,01 y 10%.",
+        "0,08 y 28,28%.",
+        "0,02 y 14,14%.",
+        "0,04 y 20%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 0,01 es el aporte de uno de los activos a la varianza. Hay dos aportes iguales y deben sumarse. La volatilidad final es la raíz de 0,02 y no la raíz de 0,01.",
+        "El 0,08 suma las varianzas individuales sin ponderar por los cuadrados de sus pesos. Eso trata a las dos posiciones como exposiciones completas independientes. Como cada una representa la mitad del capital, la varianza correcta es 0,02.",
+        "Cada término de varianza ponderada es 0,50² × 0,20² = 0,01. Como la correlación es cero, los términos cruzados no aportan. La varianza total es 0,02 y su raíz es aproximadamente 0,1414, o 14,14%.",
+        "El 20% es la media ponderada de las volatilidades individuales. Coincidiría con la volatilidad de la cartera si ambos activos estuvieran perfectamente correlacionados en forma positiva. La correlación cero permite reducirla hasta aproximadamente 14,14%."
+      ]
+    },
+    {
+      "id": "c08-q041",
+      "tema": "Correlación positiva perfecta",
+      "dificultad": "basica",
+      "pregunta": "Si dos activos tienen correlación +1 y una cartera mantiene pesos no negativos que suman uno, ¿qué ocurre con su desviación estándar?",
+      "opciones": [
+        "Siempre es menor que la volatilidad de cada uno de los activos.",
+        "Es el promedio ponderado de las desviaciones estándar individuales.",
+        "Es cero para cualquier combinación de pesos.",
+        "Es la suma sin ponderar de ambas desviaciones estándar."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un promedio ponderado de dos volatilidades queda entre ellas cuando los pesos son no negativos. No puede ser estrictamente menor que ambas. La correlación perfecta impide el beneficio adicional que permitiría bajar por debajo de ese promedio.",
+        "Con correlación +1, las desviaciones de ambos activos están perfectamente alineadas. La fórmula de varianza se convierte en el cuadrado de la suma ponderada de sus volatilidades. Al tomar la raíz, resulta ese promedio ponderado sin reducción adicional por compensación.",
+        "La correlación positiva perfecta alinea los movimientos en lugar de compensarlos. Con posiciones largas en activos variables no genera cancelación total. La ausencia de riesgo puede lograrse en otros casos específicos, como una cobertura con correlación negativa perfecta y pesos adecuados.",
+        "Cada activo afecta a la cartera según su proporción invertida. Ignorar esos pesos equivale a asignar una exposición mayor que el capital disponible. La volatilidad es la suma ponderada, no la suma simple."
+      ]
+    },
+    {
+      "id": "c08-q042",
+      "tema": "Cobertura con correlación negativa perfecta",
+      "dificultad": "avanzada",
+      "pregunta": "Dos activos tienen volatilidades de 10% y 30% y correlación −1. Sin ventas en corto, ¿qué pesos eliminan la variabilidad de la cartera?",
+      "opciones": [
+        "50% en cada uno.",
+        "25% en el activo de 10% y 75% en el de 30%.",
+        "100% en el activo de 10%.",
+        "75% en el activo de 10% y 25% en el de 30%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Con partes iguales, las exposiciones son 5% y 15% en sentidos opuestos. La diferencia no es cero, sino 10% de volatilidad. La correlación negativa perfecta permite cancelar el riesgo solo con pesos que equilibren las magnitudes.",
+        "Esta combinación aumenta el peso del activo más volátil. Las exposiciones serían 2,5% y 22,5%, por lo que quedaría una volatilidad de 20%. Para compensar debe invertirse más en el activo de menor volatilidad.",
+        "Invertir únicamente en el activo menos volátil deja su riesgo de 10%. La cobertura necesita la segunda posición que se mueve en sentido opuesto. Con los pesos adecuados puede alcanzarse una volatilidad inferior a la de cualquiera por separado.",
+        "Con correlación −1, la volatilidad es el valor absoluto de x × 10% − (1 − x) × 30%. Para anularla debe cumplirse 10x = 30(1 − x), de donde x = 0,75. Las exposiciones ponderadas son 7,5% en cada dirección y se compensan."
+      ]
+    },
+    {
+      "id": "c08-q043",
+      "tema": "Varianza de tres activos",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera mantiene un tercio en cada uno de tres activos con volatilidad de 30%. La correlación entre cada par es cero. ¿Cuál es la varianza decimal y la volatilidad aproximada?",
+      "opciones": [
+        "0,03 y 17,32%.",
+        "0,09 y 30%.",
+        "0,01 y 10%.",
+        "0,27 y 51,96%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada término diagonal es (1/3)² × 0,30² = 0,01. Las covarianzas son cero y los tres términos diagonales suman 0,03. La raíz de 0,03 es aproximadamente 0,1732, equivalente a 17,32%.",
+        "La varianza de 0,09 corresponde a cada activo individual. La cartera distribuye el capital entre tres rendimientos que no están correlacionados. Por eso su varianza baja a 0,03 y no conserva la volatilidad de una posición única.",
+        "El 0,01 es el término diagonal de una sola de las tres posiciones. Deben sumarse también las otras dos contribuciones de igual tamaño. El total es 0,03, no 0,01.",
+        "El 0,27 es la suma de tres varianzas individuales sin ponderación. Cada posición representa solo un tercio del capital y su varianza se multiplica por un noveno. Incorporar esos pesos reduce el total a 0,03."
+      ]
+    },
+    {
+      "id": "c08-q044",
+      "tema": "Matriz de covarianzas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuántas celdas diagonales y no diagonales tiene la matriz completa usada para calcular la varianza de una cartera de N activos?",
+      "opciones": [
+        "N diagonales y N(N − 1)/2 no diagonales.",
+        "Una diagonal y N no diagonales.",
+        "N diagonales y N(N − 1) no diagonales.",
+        "N² diagonales y ninguna no diagonal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El número N(N − 1)/2 cuenta los pares distintos sin repetirlos. La matriz completa incluye tanto la celda i,j como la j,i. Si se trabaja con pares únicos, debe duplicarse su contribución en la suma de la varianza.",
+        "Cada activo aporta una celda diagonal, de modo que no hay una sola salvo cuando N es uno. Las relaciones entre activos forman muchos más términos que N cuando la cartera crece. Es justamente ese crecimiento el que vuelve centrales a las covarianzas.",
+        "La matriz contiene N filas y N columnas, por lo que tiene N² celdas. De ellas, N corresponden a la varianza de cada activo consigo mismo. Las N² − N restantes contienen covarianzas, contando ambos órdenes de cada par.",
+        "En la diagonal solo puede haber una celda por cada activo. Las combinaciones de activos distintos quedan fuera de esa diagonal. Por eso no es posible que las N² celdas sean todas varianzas individuales."
+      ]
+    },
+    {
+      "id": "c08-q045",
+      "tema": "Fórmula general y contribuciones",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cómo se obtiene la varianza de una cartera de varios activos a partir de su matriz de covarianzas?",
+      "opciones": [
+        "Sumando solo las varianzas individuales con pesos simples.",
+        "Sumando xi × xj × Cov(ri,rj) para todos los pares ordenados i,j.",
+        "Sumando únicamente las volatilidades individuales.",
+        "Promediando las correlaciones sin considerar pesos ni volatilidades."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los términos individuales requieren pesos al cuadrado. Además, las covarianzas pueden representar una parte dominante del riesgo de una cartera amplia. Omitirlas elimina el componente que explica los límites de la diversificación.",
+        "Cada celda combina el peso de la fila, el peso de la columna y la covarianza correspondiente. Cuando i = j, esa covarianza es la varianza y el peso pasa a ser xi². Sumar todas las celdas incorpora tanto riesgos propios como relaciones entre activos.",
+        "La volatilidad no es aditiva en general. Las relaciones entre resultados pueden generar compensaciones o movimientos conjuntos. Es necesario sumar contribuciones a la varianza y luego extraer su raíz.",
+        "La correlación no indica por sí sola el tamaño monetario o porcentual de las fluctuaciones. También hacen falta las volatilidades y las proporciones invertidas. Dos carteras con iguales correlaciones pueden tener riesgos muy distintos."
+      ]
+    },
+    {
+      "id": "c08-q046",
+      "tema": "Límite de una cartera equiponderada",
+      "dificultad": "avanzada",
+      "pregunta": "Cien acciones tienen varianza decimal promedio 0,09 y covarianza promedio entre acciones distintas de 0,01. Con igual peso en cada una, ¿cuál es la varianza de la cartera?",
+      "opciones": [
+        "0,0009.",
+        "0,10.",
+        "0,01 exactamente.",
+        "0,0108."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 0,0009 corresponde solamente al término de varianzas propias dividido entre cien. Las covarianzas positivas agregan 0,0099 y no desaparecen. Ignorarlas exagera la reducción de riesgo por diversificación.",
+        "Sumar 0,09 y 0,01 no aplica los factores de la fórmula equiponderada. El término de varianza promedio se divide entre N y el de covarianza se multiplica por 1 − 1/N. Con cien acciones el resultado es 0,0108.",
+        "La covarianza promedio de 0,01 es el límite al crecer N sin límite bajo estos supuestos. Con cien acciones queda un componente adicional de (0,09 − 0,01)/100 = 0,0008. Por eso la varianza aún no es exactamente igual al límite.",
+        "Para N activos equiponderados, la varianza es v/N + (1 − 1/N)c. Con los datos resulta 0,09/100 + 0,99 × 0,01 = 0,0009 + 0,0099. La suma es 0,0108, todavía mayor que el límite de 0,01."
+      ]
+    },
+    {
+      "id": "c08-q047",
+      "tema": "Activos sin covarianza y diversificación",
+      "dificultad": "intermedia",
+      "pregunta": "Si aumenta el número de activos equiponderados con varianza promedio acotada y covarianza cero entre pares distintos, ¿qué sucede con la varianza de la cartera?",
+      "opciones": [
+        "Tiende a cero al crecer el número de activos.",
+        "Tiende a la varianza individual promedio sin reducirse.",
+        "Aumenta proporcionalmente al cuadrado del número de activos.",
+        "Queda necesariamente en la volatilidad del mercado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La fórmula equiponderada se reduce a varianza promedio dividida entre N. Si la varianza promedio permanece acotada, ese cociente tiende a cero. La conclusión depende de que no haya covarianzas comunes que sostengan un piso positivo.",
+        "La varianza promedio aparece dividida entre el número de activos. Al crecer N, su contribución se reduce. El límite sería una covarianza promedio positiva si existiera, pero el caso la fija en cero.",
+        "El número de términos no basta para determinar el resultado. Cada peso es 1/N y los términos de varianza se ponderan por 1/N². En ausencia de covarianzas, la suma total disminuye como 1/N.",
+        "La exposición al mercado se refleja en movimientos conjuntos. El supuesto de covarianzas nulas elimina justamente ese piso común en el modelo planteado. No puede imponerse una volatilidad de mercado positiva al margen de los supuestos."
+      ]
+    },
+    {
+      "id": "c08-q048",
+      "tema": "Piso de riesgo común",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué en una cartera equiponderada muy grande las covarianzas positivas dominan el riesgo remanente?",
+      "opciones": [
+        "Porque la covarianza siempre se vuelve igual a uno.",
+        "Porque los pesos dejan de importar cuando hay muchos activos.",
+        "Porque los términos propios se diluyen y la covarianza promedio entre activos distintos puede permanecer positiva.",
+        "Porque cada varianza individual crece necesariamente al sumar una acción."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La covarianza depende de las volatilidades y del movimiento conjunto de cada par. No está normalizada a uno ni converge universalmente a ese valor. El límite de la cartera depende de su covarianza promedio efectiva.",
+        "La conclusión se obtiene precisamente utilizando pesos iguales de 1/N. Con pesos concentrados pueden persistir riesgos específicos importantes. Por eso los pesos siguen siendo esenciales incluso cuando hay muchos nombres.",
+        "El aporte de la varianza promedio se divide entre N. El aporte de la covarianza promedio se multiplica por un factor que se aproxima a uno. Si esa covarianza permanece positiva, deja un piso de riesgo que no se elimina agregando activos similares.",
+        "Agregar una posición no obliga a cambiar la distribución de rendimientos de los activos existentes. Lo que cambia es la combinación de exposiciones. El piso común proviene de sus relaciones, no de un aumento necesario de cada varianza."
+      ]
+    },
+    {
+      "id": "c08-q049",
+      "tema": "Elección bajo restricciones de cartera",
+      "dificultad": "avanzada",
+      "pregunta": "Una inversora no puede vender una acción heredada y debe invertir el resto en un único título. ¿Qué criterio corresponde para reducir la varianza del conjunto?",
+      "opciones": [
+        "Elegir el título con mayor correlación positiva con la acción heredada.",
+        "Comparar la varianza final de cada combinación con los pesos exigidos y sus covarianzas.",
+        "Elegir siempre el título de menor volatilidad individual.",
+        "Elegir siempre el título de mayor rentabilidad histórica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una correlación positiva elevada tiende a reducir los beneficios de compensación, a igualdad de otras condiciones. No es un criterio para minimizar por sí mismo la varianza. Deben compararse las combinaciones completas y sus escalas de volatilidad.",
+        "La posición heredada ya forma parte de la exposición y no puede ignorarse. El riesgo final combina las varianzas de ambas posiciones y su covarianza, con los pesos de cada una. Un título más volátil por separado puede ser preferible si compensa mejor el riesgo existente.",
+        "La menor volatilidad individual no asegura la menor varianza combinada. Ese activo podría moverse muy alineado con la posición que ya se posee. La decisión debe incorporar la covarianza y no limitarse al riesgo aislado.",
+        "El objetivo indicado es reducir la varianza, no maximizar un rendimiento histórico. Además, un retorno pasado alto no garantiza uno futuro alto. Hay que evaluar cómo cambia la distribución conjunta de la cartera."
+      ]
+    },
+    {
+      "id": "c08-q050",
+      "tema": "Diversificación internacional y moneda",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora usa volatilidades de acciones medidas en sus monedas locales para estimar el riesgo de una cartera en pesos sin cobertura cambiaria. ¿Qué falta considerar?",
+      "opciones": [
+        "Solo convertir todos los precios iniciales al mismo número de pesos.",
+        "Suponer que comprar acciones extranjeras elimina el riesgo del mercado mundial.",
+        "Reemplazar todas las correlaciones por cero por tratarse de países distintos.",
+        "Los rendimientos cambiarios y sus relaciones con las acciones y entre monedas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Convertir el precio inicial permite expresar el costo en pesos, pero no determina el valor final. El tipo de cambio puede moverse durante la inversión. Para medir el rendimiento y su riesgo hacen falta también esos cambios futuros o sus estimaciones.",
+        "Los mercados extranjeros pueden compartir factores económicos y financieros globales. La diversificación internacional puede reducir parte del riesgo sin eliminarlo por completo. Además, la ausencia de cobertura introduce una exposición adicional a monedas.",
+        "La separación geográfica no implica independencia estadística. Empresas y países pueden verse afectados por las mismas noticias y condiciones globales. Las correlaciones deben estimarse o justificarse, no fijarse automáticamente en cero.",
+        "El rendimiento en pesos de una acción extranjera combina su rendimiento local con el cambio de valor de su moneda. Esa exposición puede aumentar o compensar parte del riesgo accionario. Usar solo datos locales equivale a omitir el riesgo cambiario o a suponer una cobertura apropiada."
+      ]
+    },
+    {
+      "id": "c08-q051",
+      "tema": "Compensación parcial y pérdidas",
+      "dificultad": "intermedia",
+      "pregunta": "Tras combinar dos acciones con correlación baja, un gerente afirma que ya no puede perder en ningún mes. ¿Cuál es la conclusión correcta?",
+      "opciones": [
+        "La dispersión y la frecuencia de pérdidas grandes pueden bajar, pero eso no garantiza ausencia de pérdidas.",
+        "La baja correlación implica que una acción gana exactamente lo que la otra pierde.",
+        "Toda cartera de dos acciones tiene retorno seguro.",
+        "La diversificación solo sirve si cada acción tiene rendimiento esperado nulo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La compensación entre activos puede suavizar resultados extremos y reducir la volatilidad. No exige que todas las pérdidas se anulen en cada período. Para asegurar un resultado harían falta condiciones de cobertura mucho más fuertes que una correlación baja.",
+        "Una correlación baja indica una asociación lineal débil, no una compensación exacta. Ambos activos pueden caer simultáneamente en un mes particular. La cancelación perfecta requeriría una relación negativa precisa y pesos compatibles.",
+        "El simple hecho de poseer dos acciones no determina su riesgo conjunto. Si ambas están muy expuestas al mismo factor, pueden fluctuar casi juntas. La seguridad no depende solo del número de posiciones.",
+        "El beneficio de diversificación depende de las varianzas, las covarianzas y los pesos. Los rendimientos esperados pueden ser positivos, negativos o nulos. No es necesario que sean cero para que exista una reducción de volatilidad."
+      ]
+    },
+    {
+      "id": "c08-q052",
+      "tema": "Beta y riesgo de mercado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué mide la beta de una acción respecto del mercado?",
+      "opciones": [
+        "La probabilidad exacta de que la empresa quiebre.",
+        "El porcentaje de dividendos que debe pagar cada año.",
+        "La sensibilidad de su rendimiento a movimientos del rendimiento del mercado.",
+        "Su volatilidad total sin considerar ningún otro activo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La beta no es una probabilidad y puede superar uno o ser negativa. El incumplimiento depende de factores operativos, financieros y contractuales que requieren otro análisis. Puede afectar los rendimientos, pero no se identifica directamente con beta.",
+        "La política de dividendos describe pagos a los accionistas. La beta describe sensibilidad estadística frente a un mercado. No impone una fracción obligatoria de distribución de utilidades.",
+        "La beta relaciona los movimientos de la acción con los del mercado de referencia. Resume su exposición al factor común que no se elimina por diversificar ampliamente. No pretende describir toda la incertidumbre propia de la empresa.",
+        "La volatilidad total se mide habitualmente con la desviación estándar. La beta también considera cómo se relacionan los rendimientos con el mercado. Una acción muy volátil por hechos propios puede tener beta relativamente baja."
+      ]
+    },
+    {
+      "id": "c08-q053",
+      "tema": "Pendiente y riesgo residual",
+      "dificultad": "intermedia",
+      "pregunta": "En un gráfico de rendimientos de una acción contra rendimientos del mercado, ¿cómo se interpretan la pendiente ajustada y la dispersión alrededor de la recta?",
+      "opciones": [
+        "Una pendiente positiva obliga a la acción a subir cada vez que sube el mercado.",
+        "La pendiente estima beta y la dispersión refleja variación que el movimiento del mercado no explica.",
+        "La pendiente es la desviación estándar y toda la dispersión es riesgo sistemático.",
+        "La pendiente muestra el rendimiento garantizado y la dispersión es un error que debe borrarse."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una beta positiva indica asociación promedio en el mismo sentido. Las noticias particulares pueden hacer que la acción caiga aunque el mercado suba. La pendiente no elimina esos desvíos ni vuelve determinista la relación.",
+        "La pendiente indica cuánto cambia en promedio el rendimiento de la acción cuando cambia el del mercado. Los puntos no suelen quedar exactamente sobre la recta porque existen noticias propias y otros factores. Por eso beta describe sensibilidad promedio y no una identidad exacta de cada resultado.",
+        "La desviación estándar mide dispersión de rendimientos y no coincide en general con una pendiente de regresión. La dispersión alrededor de la recta es el componente que esa relación con el mercado no explica. Identificarla toda como sistemática invierte la interpretación del modelo.",
+        "Una relación estadística estimada no garantiza un rendimiento. La dispersión contiene información sobre incertidumbre que realmente enfrenta el inversor. Borrarla presentaría una precisión inexistente y subestimaría el riesgo total."
+      ]
+    },
+    {
+      "id": "c08-q054",
+      "tema": "Cálculo de beta",
+      "dificultad": "intermedia",
+      "pregunta": "La covarianza de una acción con el mercado es 0,024 y la varianza del mercado es 0,016, ambas en unidades decimales compatibles. ¿Cuál es su beta?",
+      "opciones": [
+        "0,6667 aproximadamente.",
+        "0,008.",
+        "0,024.",
+        "1,5."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor aproximado de 0,6667 surge de invertir el cociente. El denominador debe ser la varianza del mercado y el numerador la covarianza de la acción con él. La sensibilidad correcta es 1,5.",
+        "El 0,008 resulta de restar las dos magnitudes. Beta es una razón de sensibilidad y no una diferencia entre medidas de riesgo. La operación requerida es dividir 0,024 por 0,016.",
+        "El 0,024 es únicamente la covarianza proporcionada. Para normalizarla por la variabilidad del mercado hay que dividir por 0,016. Sin esa normalización no se ha calculado beta.",
+        "La beta se calcula dividiendo la covarianza con el mercado por la varianza del mercado. El cociente es 0,024/0,016 = 1,5. Al dividir magnitudes con las mismas unidades cuadráticas se obtiene un coeficiente sin unidades."
+      ]
+    },
+    {
+      "id": "c08-q055",
+      "tema": "Beta, correlación y volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Si las desviaciones estándar son positivas, ¿qué relación expresa correctamente la beta de una acción?",
+      "opciones": [
+        "βi = correlación(i,m) × σi/σm.",
+        "βi = correlación(i,m), para cualquier par de volatilidades.",
+        "βi = σi/σm, aunque no exista relación con el mercado.",
+        "βi = correlación(i,m) × σm/σi."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La covarianza con el mercado es correlación(i,m) × σi × σm. Dividirla por la varianza σm² permite cancelar un factor σm. Resulta βi = correlación(i,m) × σi/σm, lo que distingue sensibilidad de simple asociación.",
+        "La correlación normaliza por ambas volatilidades, mientras que beta normaliza por la varianza del mercado. Solo coinciden en casos particulares, como volatilidades iguales. Confundirlas oculta que beta puede superar uno aunque la correlación no pueda hacerlo.",
+        "La razón de volatilidades omite cuánto del movimiento de la acción se relaciona con el mercado. Una acción puede fluctuar mucho por razones específicas y tener beta baja. La correlación es necesaria para incorporar esa relación.",
+        "La razón de volatilidades está invertida. Al dividir correlación × σi × σm por σm², queda σi/σm. Mantener el orden correcto es esencial para interpretar la sensibilidad de la acción frente al mercado."
+      ]
+    },
+    {
+      "id": "c08-q056",
+      "tema": "Beta de cartera",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera invierte 40% en una acción con beta 0,5 y 60% en otra con beta 1,5, respecto del mismo mercado. ¿Cuál es su beta?",
+      "opciones": [
+        "2,0.",
+        "0,9.",
+        "1,1.",
+        "1,0."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar las betas sin ponderar supone que cada acción representa el total del capital. Los pesos efectivos suman uno y deben multiplicar a sus respectivas betas. La diversificación no elimina la necesidad de esa ponderación.",
+        "El 0,9 se obtiene al asignar 60% a la beta baja y 40% a la alta. Esos pesos están invertidos respecto del enunciado. El mayor peso corresponde a la acción con beta 1,5 y lleva el promedio a 1,1.",
+        "La beta de una cartera es el promedio ponderado de las betas de sus componentes. El cálculo es 0,40 × 0,5 + 0,60 × 1,5 = 0,20 + 0,90. La beta resulta 1,1 aunque la cartera todavía pueda conservar riesgo específico.",
+        "El 1,0 es el promedio simple de las dos betas. Sería correcto si se invirtiera la mitad en cada acción. Como la de beta 1,5 pesa más, la beta de cartera queda por encima de uno."
+      ]
+    },
+    {
+      "id": "c08-q057",
+      "tema": "Volatilidad de cartera diversificada",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera con beta positiva de 1,25 está tan diversificada que su riesgo residual es despreciable. Si la volatilidad del mercado es 16%, ¿cuál es su volatilidad aproximada?",
+      "opciones": [
+        "1,25%.",
+        "20%.",
+        "16%.",
+        "12,8%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La beta es un coeficiente sin unidades, no una volatilidad expresada en porcentaje. Para obtener la dispersión debe aplicarse a la volatilidad del mercado. Esa operación arroja 20%.",
+        "Cuando el riesgo residual es despreciable, la cartera se mueve casi solo con el factor de mercado. Su volatilidad es aproximadamente |β| × σm. Con estos datos, 1,25 × 16% = 20%.",
+        "La volatilidad sería cercana a 16% si la beta fuera uno y el riesgo residual fuera despreciable. Esta cartera tiene sensibilidad 25% mayor. Por eso su volatilidad aproximada es 20%.",
+        "El 12,8% surge de dividir 16% entre 1,25. La sensibilidad de la cartera multiplica la fluctuación del mercado, no la divide. Una beta positiva mayor que uno amplifica esa exposición."
+      ]
+    },
+    {
+      "id": "c08-q058",
+      "tema": "Beta cero y beta negativa",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuál es la interpretación adecuada de una acción con beta cero y de otra con beta negativa?",
+      "opciones": [
+        "Ambas tienen obligatoriamente desviación estándar cero.",
+        "La primera replica al mercado y la segunda siempre pierde dinero.",
+        "Ninguna puede formar parte de una cartera con rendimiento esperado positivo.",
+        "La primera no tiene covarianza con ese mercado; la segunda tiende a compensar sus movimientos, sin que eso asegure ausencia de riesgo propio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La beta mide exposición al mercado y no toda la dispersión del activo. Una acción puede variar mucho por noticias propias y tener beta cero o negativa. Solo si desaparecieran también las demás fuentes de variabilidad sería seguro su rendimiento.",
+        "Replicar al mercado corresponde a una exposición de beta uno con riesgo residual despreciable. Una beta negativa describe dirección de sensibilidad y no una pérdida segura. El resultado observado depende del mercado, de otras noticias y del nivel esperado de retorno.",
+        "El signo de beta no restringe de ese modo todas las combinaciones posibles. Una cartera puede incluir activos de cobertura y seguir teniendo rentabilidad esperada positiva. Para evaluar su media hay que conocer también los rendimientos esperados y los pesos.",
+        "Con varianza de mercado positiva, beta cero implica covarianza cero con esa referencia. Beta negativa indica sensibilidad promedio en sentido opuesto al mercado. Ninguna de estas propiedades descarta variabilidad específica ni determina por sí sola el signo del rendimiento esperado."
+      ]
+    },
+    {
+      "id": "c08-q059",
+      "tema": "Riesgo total frente a beta",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción tiene alta volatilidad total y beta baja; otra tiene menor volatilidad total y beta alta. Un inversor ampliamente diversificado busca menor exposición al mercado. ¿Cuál criterio corresponde?",
+      "opciones": [
+        "Atender a la beta: la primera puede aportar menos riesgo de mercado pese a su mayor volatilidad aislada.",
+        "Elegir siempre la de menor volatilidad aislada, sin mirar beta.",
+        "Suponer que ambas tienen la misma exposición porque cotizan en el mismo mercado.",
+        "Concluir que la primera debe tener beta mal calculada por ser muy volátil."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una parte importante de la variabilidad de la primera acción puede provenir de hechos específicos. Ese componente puede diluirse en una cartera amplia. Para la exposición al mercado del inversor diversificado, la beta es más pertinente que la volatilidad aislada.",
+        "La menor volatilidad aislada puede coexistir con una relación más estrecha con el mercado. Por eso no asegura la menor contribución al riesgo común de una cartera diversificada. El objetivo del caso exige comparar sensibilidad sistemática.",
+        "Pertenecer a un mismo mercado no implica reaccionar con la misma intensidad a sus movimientos. Los negocios pueden tener exposiciones cíclicas distintas. Beta permite medir justamente esas diferencias.",
+        "Una volatilidad alta y una beta baja son compatibles si la correlación con el mercado es reducida. No existe contradicción estadística entre ambas medidas. Antes de cuestionar el cálculo debe distinguirse riesgo específico de sensibilidad común."
+      ]
+    },
+    {
+      "id": "c08-q060",
+      "tema": "Estimación empírica de beta",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista estima beta con una regresión de datos históricos mensuales. ¿Qué procedimiento es coherente?",
+      "opciones": [
+        "Invertir las variables y tomar la nueva pendiente como si fuera la misma beta.",
+        "Interpretar la beta estimada como una constante futura conocida con certeza.",
+        "Usar rendimientos comparables y alineados, con la acción como variable dependiente y el índice de referencia como explicativa.",
+        "Usar precios de la acción como variable dependiente y rendimientos diarios no alineados del índice como explicativa."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La regresión de mercado sobre acción responde a una pregunta diferente. Su pendiente no es en general la beta de acción sobre mercado ni basta intercambiar etiquetas. El denominador de beta es la varianza del mercado de referencia.",
+        "Una beta histórica es una estimación condicionada por datos y supuestos. Cambios del negocio, endeudamiento o entorno pueden modificarla. Debe interpretarse como evidencia sobre sensibilidad y no como una ley invariable.",
+        "Beta es la pendiente de los rendimientos de la acción respecto de los rendimientos del mercado elegido. Las observaciones deben corresponder a los mismos períodos y tratar de forma consistente dividendos y ajustes. La estimación depende de la muestra y no elimina la incertidumbre futura.",
+        "Los precios y los rendimientos no representan la misma variable económica. Además, mezclar frecuencias y fechas sin alineación rompe la correspondencia entre observaciones. Deben construirse series de rendimientos comparables antes de estimar la pendiente."
+      ]
+    },
+    {
+      "id": "c08-q061",
+      "tema": "Mercado de referencia",
+      "dificultad": "avanzada",
+      "pregunta": "Dos betas de una misma empresa se estiman una contra un índice local y otra contra un índice mundial. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La beta mundial es la desviación estándar local expresada en otra moneda.",
+        "Pueden diferir porque beta siempre se define respecto de un portafolio de referencia y datos comparables.",
+        "Deben coincidir porque beta es una característica absoluta independiente del índice.",
+        "La beta local mide necesariamente toda la exposición global."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Beta sigue siendo un cociente de covarianza y varianza, cualquiera sea el índice. No se transforma en desviación estándar al cambiar de referencia o moneda. Las medidas responden a preguntas diferentes sobre el riesgo.",
+        "La covarianza y la varianza del denominador dependen del mercado de referencia elegido. Cambiar el índice puede modificar ambas magnitudes y, por lo tanto, la pendiente estimada. También debe mantenerse coherencia de moneda y períodos para interpretar la comparación.",
+        "Beta no es una medida absoluta del riesgo aislado. Es una sensibilidad relativa a un portafolio definido. Dos referencias diferentes no tienen por qué producir el mismo coeficiente.",
+        "Un índice local representa una parte del universo de activos riesgosos. No incorpora necesariamente todos los factores que importan a un inversor internacional. Que sirva como aproximación práctica no lo convierte en una representación completa del mercado mundial."
+      ]
+    },
+    {
+      "id": "c08-q062",
+      "tema": "Riesgo específico en varianzas",
+      "dificultad": "avanzada",
+      "pregunta": "En un modelo de un factor con residuo no correlacionado con el mercado, una acción tiene volatilidad total de 30%, beta 1 y volatilidad de mercado de 18%. ¿Qué porcentaje de su varianza total es específico?",
+      "opciones": [
+        "40%.",
+        "36%.",
+        "12%.",
+        "64%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 40% surge de restar volatilidades y dividir 12% por 30%. En este modelo se suman varianzas de componentes no correlacionados, no sus desviaciones estándar. La proporción específica correcta debe calcularse con cuadrados y da 64%.",
+        "El 36% es la fracción sistemática: 0,0324/0,09 = 0,36. La pregunta pide el componente específico. Restarlo del 100% permite obtener el 64%.",
+        "Los doce puntos porcentuales son la diferencia entre dos desviaciones estándar. Esa diferencia no es una fracción de varianza ni la volatilidad específica del modelo. La varianza residual se obtiene restando 0,0324 de 0,09 y luego se compara con el total.",
+        "La varianza total es 0,30² = 0,09 y la sistemática es 1² × 0,18² = 0,0324. La varianza específica resulta 0,09 − 0,0324 = 0,0576. Dividir 0,0576 por 0,09 da 0,64, de modo que el 64% de la varianza es específico."
+      ]
+    },
+    {
+      "id": "c08-q063",
+      "tema": "Contribución de un título a la varianza",
+      "dificultad": "avanzada",
+      "pregunta": "En la matriz de una cartera, ¿cómo se expresa la contribución de una posición i al total de la varianza al sumar su fila?",
+      "opciones": [
+        "xi × Cov(ri,rp); al dividir por la varianza de la cartera, su contribución relativa es xi por su beta respecto de esa cartera.",
+        "xi × σi, porque la volatilidad individual se suma directamente.",
+        "La varianza individual completa, cualquiera sea el peso invertido.",
+        "Solo xi² × σi², aunque existan covarianzas con los demás activos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La suma de la fila es xi por la suma de xj × Cov(ri,rj) para todas las posiciones. Esa suma interna equivale a la covarianza del activo con la cartera completa. Dividir por la varianza de la cartera produce xi × βi,p y conecta la exposición de la posición con su aporte relativo.",
+        "Una desviación estándar ponderada no tiene las unidades de una contribución a la varianza. Además, omite la interacción con los demás activos. La expresión correcta utiliza la covarianza con la cartera.",
+        "Una posición pequeña no puede tratarse como si representara todo el capital. Su contribución depende de su peso y de cómo se mueve con el conjunto. Ignorar el tamaño invertido impide comparar aportes de riesgo coherentes.",
+        "El término diagonal recoge solo una parte de la fila. Las demás celdas incorporan relaciones con todas las otras posiciones. Omitirlas es especialmente problemático en carteras amplias, donde las covarianzas pueden dominar el riesgo."
+      ]
+    },
+    {
+      "id": "c08-q064",
+      "tema": "Activo seguro dentro de una cartera",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversora traslada parte de una cartera riesgosa a una letra con rendimiento nominal conocido para el mismo horizonte. Mantiene sin cambios la composición del bloque riesgoso. ¿Qué ocurre con la volatilidad nominal de la cartera total?",
+      "opciones": [
+        "Se vuelve cero aunque quede una inversión positiva en el bloque riesgoso.",
+        "Aumenta porque sumar activos siempre agrega riesgo.",
+        "Se reduce en proporción al peso que conserva en el bloque riesgoso.",
+        "Permanece igual porque la letra no genera variabilidad propia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Mientras exista una exposición positiva a un bloque variable, normalmente persistirá volatilidad. La letra segura no se mueve en sentido opuesto para cancelar ese riesgo. Solo reduce su peso dentro del capital total.",
+        "El efecto de sumar una posición depende de su riesgo y su relación con las existentes. Un activo de rendimiento nominal cierto no agrega variabilidad propia en este supuesto. Reemplazar parte del bloque riesgoso por él reduce la exposición porcentual.",
+        "Un rendimiento constante no tiene varianza ni covarianza con el bloque riesgoso en el horizonte considerado. La varianza total queda igual al cuadrado del peso riesgoso por la varianza de ese bloque. Al tomar la raíz, la volatilidad se reduce en proporción al peso riesgoso, si este es no negativo.",
+        "La ausencia de variabilidad de la letra es justamente lo que permite diluir la exposición riesgosa. Una parte menor del capital participa de las fluctuaciones del bloque original. Por eso la volatilidad porcentual del total disminuye."
+      ]
+    },
+    {
+      "id": "c08-q065",
+      "tema": "Apalancamiento y volatilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora propone financiar la mitad de una compra de activos riesgosos con un préstamo a tasa fija conocida. Compara el rendimiento sobre el capital propio con comprar menos activos sin deuda. ¿Qué debe reconocer?",
+      "opciones": [
+        "La deuda solo modifica el rendimiento esperado y nunca el riesgo.",
+        "La deuda amplifica la sensibilidad y la volatilidad del rendimiento sobre el capital propio.",
+        "El interés fijo elimina la incertidumbre del rendimiento del capital propio.",
+        "La volatilidad del capital propio se reduce porque el préstamo aporta fondos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Con una tasa de préstamo fija, el pago de intereses desplaza el rendimiento neto esperado. Pero la mayor relación entre activos y capital propio también escala sus fluctuaciones. Ignorar ese segundo efecto subestima el riesgo para los dueños.",
+        "La deuda obliga a atender un pago fijo mientras el valor de los activos fluctúa. Esas fluctuaciones se distribuyen sobre una base de capital propio menor. Por eso el apalancamiento amplifica tanto ganancias como pérdidas porcentuales del accionista, además de afectar su retorno esperado.",
+        "El costo de la deuda puede ser conocido sin que lo sea el rendimiento del activo adquirido. La obligación fija no ajusta su monto para compensar las pérdidas del activo. La incertidumbre restante recae con mayor intensidad sobre el capital propio.",
+        "Los fondos prestados permiten comprar más activos por cada peso propio. Eso aumenta la exposición del accionista a la variación de esos activos. No equivale a colocar parte del patrimonio en una inversión segura."
+      ]
+    },
+    {
+      "id": "c08-q066",
+      "tema": "Beta negativa como cobertura",
+      "dificultad": "avanzada",
+      "pregunta": "Un inversor con una cartera amplia de beta positiva considera agregar una posición pequeña con beta negativa en vez de otra con beta positiva. ¿Cuál es la evaluación correcta?",
+      "opciones": [
+        "Una beta negativa garantiza que el nuevo activo tenga rendimiento cierto.",
+        "Toda posición con beta negativa aumenta necesariamente la beta total.",
+        "La volatilidad aislada del nuevo activo es el único dato relevante.",
+        "Puede reducir la exposición de mercado, pero para asegurar menor riesgo total también hay que considerar el riesgo residual y el tamaño de la posición."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La sensibilidad opuesta al mercado no elimina los resultados inesperados propios del activo. Incluso puede tratarse de una inversión muy volátil por separado. Un rendimiento cierto requiere ausencia de variabilidad total, no solo un signo particular de beta.",
+        "La beta de cartera se obtiene ponderando las betas de las posiciones. Una contribución negativa puede bajar una beta positiva bajo una redistribución apropiada. Suponer que siempre la aumenta contradice esa suma ponderada.",
+        "La utilidad de una cobertura depende de su movimiento conjunto con la cartera existente. Un activo volátil puede compensar parte de la exposición común. Aun así, deben analizarse tanto sus covarianzas como la variabilidad residual que incorpora.",
+        "Una beta negativa aporta una sensibilidad que puede compensar parte de la exposición positiva existente. Sin embargo, el nuevo activo puede tener mucha variabilidad específica y no conviene ignorar su peso. La cobertura debe evaluarse sobre la cartera total y no como una garantía automática."
+      ]
+    },
+    {
+      "id": "c08-q067",
+      "tema": "Diversificación empresarial y accionistas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa compra un negocio no relacionado únicamente para diversificar a sus accionistas, sin mejorar flujos ni eficiencia. Los accionistas ya pueden diversificar a bajo costo. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La diversificación por sí sola no justifica pagar una prima por la adquisición.",
+        "La menor variabilidad conjunta obliga a crear valor para todos los accionistas.",
+        "Los accionistas no pueden diversificar sin comprar empresas completas.",
+        "Toda adquisición no relacionada debe tener valor presente neto positivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los accionistas pueden combinar títulos de distintos negocios en sus propias carteras. Si la empresa solo reproduce esa combinación, no entrega necesariamente un beneficio por el que deban pagar más. Una prima de adquisición requiere una fuente adicional de valor y no solo menor variabilidad interna.",
+        "La reducción del riesgo específico de la empresa puede ser redundante para dueños diversificados. No implica por sí sola mejorar los flujos ni reducir su exposición relevante al mercado. Por eso menor variabilidad contable o económica interna no prueba creación de valor.",
+        "Comprar acciones de varias empresas o participaciones de un fondo permite diversificar sin adquirir compañías enteras. Esa flexibilidad suele ser mayor que la de una empresa que compra y vende instalaciones. El argumento del caso depende justamente de esa capacidad del inversor.",
+        "El valor presente neto depende de beneficios, costos y precio pagado. Que dos negocios están poco relacionados no garantiza que sus beneficios superen el costo de unirlos. Una operación puede destruir valor si se paga más de lo que aporta."
+      ]
+    },
+    {
+      "id": "c08-q068",
+      "tema": "Aditividad de valor",
+      "dificultad": "basica",
+      "pregunta": "En mercados competitivos, dos activos independientes en sus flujos valen $120 y $180 por separado. Reunirlos no modifica flujos, riesgos relevantes ni costos. ¿Cuánto vale la empresa que solo posee esos activos?",
+      "opciones": [
+        "$180 porque solo cuenta el activo más valioso.",
+        "$150 porque corresponde promediar los valores.",
+        "$300.",
+        "$360 por el beneficio automático de diversificación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Poseer el segundo activo no elimina los derechos sobre los flujos del primero. Ambos tienen valor positivo y contribuyen al patrimonio total. Considerar solo el mayor omite $120 de activos que también pertenecen a la empresa.",
+        "Promediar sería apropiado para ciertas tasas o comparaciones por unidad, no para sumar activos que se poseen íntegramente. La empresa tiene ambos conjuntos de flujos. Su valor total es la suma de $120 y $180, equivalente a $300.",
+        "La aditividad establece que el valor del conjunto es la suma de los valores de las partes cuando reunirlas no cambia sus características económicas. El cálculo es 120 + 180 = $300. No hace falta que sus rendimientos sean estadísticamente independientes para aplicar esta suma bajo esos supuestos.",
+        "Una prima automática de $60 no se desprende de los datos. Los inversores ya pueden combinar por sí mismos las exposiciones de ambos activos. Sin cambios económicos adicionales, la mera agrupación no justifica elevar el valor por encima de $300."
+      ]
+    },
+    {
+      "id": "c08-q069",
+      "tema": "VPN bajo incertidumbre",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora evalúa varios proyectos riesgosos y cree que ya no puede sumar sus valores presentes porque sus flujos están correlacionados. ¿Qué corresponde hacer bajo aditividad de valor?",
+      "opciones": [
+        "Rechazar la regla del VPN cada vez que exista incertidumbre.",
+        "Valuar cada proyecto con su riesgo relevante y sumar sus valores presentes; la correlación no impide por sí sola la aditividad.",
+        "Sumar los flujos esperados sin descontarlos porque se compensan dentro de la empresa.",
+        "Aplicar siempre la tasa libre de riesgo a todos los proyectos de una empresa diversificada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La regla del VPN sigue siendo aplicable a proyectos inciertos. Lo necesario es estimar flujos esperados y valorar adecuadamente su riesgo. La aditividad permite integrar esos valores en una decisión de inversión coherente.",
+        "La incertidumbre afecta la valoración de cada flujo y debe tratarse con un costo de oportunidad apropiado. Una vez obtenidos valores consistentes, pueden sumarse aunque los flujos están correlacionados. Si existen interacciones que cambian flujos o costos, deben incorporarse explícitamente en la evaluación.",
+        "La posibilidad de compensación no elimina el valor del tiempo ni todo el riesgo. Sumar importes futuros sin descontar sobreestima su valor actual cuando las tasas pertinentes son positivas. Cada flujo debe valorarse con su fecha y exposición relevantes.",
+        "La diversificación empresarial no convierte automáticamente cada flujo en seguro. Los proyectos pueden conservar exposición al mercado que los accionistas no eliminan diversificando. Aplicar una tasa segura indiscriminadamente desconoce esa diferencia."
+      ]
+    },
+    {
+      "id": "c08-q070",
+      "tema": "Alcance de la aditividad",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuál es el alcance correcto de la afirmación de que la diversificación empresarial, por sí sola, no agrega valor?",
+      "opciones": [
+        "Prueba que toda fusión destruye valor sin importar sus efectos operativos.",
+        "Exige que todas las empresas tengan la misma beta.",
+        "Implica que cualquier cartera de acciones tiene volatilidad cero.",
+        "Supone que los inversores pueden diversificar; no descarta valor por sinergias reales o cambios de flujos y costos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una fusión puede modificar producción, distribución, costos u oportunidades. Esos cambios pueden crear o destruir valor según su magnitud y el precio pagado. Negar una prima por diversificación redundante no resuelve de antemano toda adquisición.",
+        "Las empresas pueden tener exposiciones de mercado muy distintas. La aditividad exige que sus valores reflejen adecuadamente esas exposiciones, no que todas las betas sean iguales. Unir activos de riesgos diferentes sigue siendo compatible con sumar sus valores.",
+        "La diversificación reduce componentes específicos, pero suele dejar exposición a factores comunes. La aditividad es una propiedad de la valoración bajo los supuestos indicados. No es una afirmación de ausencia de variabilidad en las carteras.",
+        "El argumento se apoya en mercados donde los inversores pueden construir combinaciones de activos a un costo razonable. Bajo ese marco, reunir negocios sin cambiar sus características no genera una prima automática. Si la integración altera flujos, costos u otras condiciones económicas, esos efectos requieren una valoración propia."
+      ]
+    }
+  ]
+}

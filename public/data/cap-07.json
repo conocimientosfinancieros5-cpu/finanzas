@@ -1,0 +1,1450 @@
+{
+  "capitulo": 7,
+  "titulo": "Toma de decisiones de inversión con la regla del valor presente neto",
+  "preguntas": [
+    {
+      "id": "c07-q001",
+      "tema": "VPN y creación de valor",
+      "dificultad": "basica",
+      "pregunta": "¿Qué significa que una inversión tiene VPN positivo al costo de capital apropiado?",
+      "opciones": [
+        "Aumenta el valor de la empresa en el importe del VPN.",
+        "Genera utilidad contable positiva todos los años.",
+        "Solo recupera el desembolso inicial, sin remunerar el capital.",
+        "Obliga a financiarse exclusivamente con acciones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El descuento exige remunerar el costo de oportunidad de los recursos. Un VPN positivo representa valor adicional después de cumplir esa exigencia. Por eso mide el aumento de riqueza atribuible a aceptar la inversión.",
+        "La utilidad depende de devengamientos y depreciación. Puede ser negativa al comienzo aunque los flujos futuros creen valor. El VPN evalúa los flujos incrementales de toda la vida del proyecto.",
+        "Recuperar el desembolso no basta para crear valor. También debe compensarse el rendimiento de una alternativa de riesgo comparable. Un VPN positivo indica que se supera esa exigencia.",
+        "La evaluación económica no determina por sí sola la fuente de fondos. Primero se estudian los flujos de inversión. Después se analizan las alternativas de financiamiento y sus efectos sobre el valor."
+      ]
+    },
+    {
+      "id": "c07-q002",
+      "tema": "Inversiones intangibles",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo corresponde evaluar software, investigación o capacitación que requieren pagos actuales para generar beneficios futuros?",
+      "opciones": [
+        "Aprobándolos si contablemente son gastos.",
+        "Rechazándolos si no tienen valor de reventa.",
+        "Considerando únicamente la utilidad del primer año.",
+        "Mediante el VPN de sus flujos incrementales, como una inversión física."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La clasificación como gasto informa un tratamiento contable o fiscal. No demuestra que los beneficios compensen los recursos utilizados. La decisión necesita una evaluación económica de los flujos atribuibles a la inversión.",
+        "Un sistema o una capacitación puede producir ahorros sin poder venderse por separado. Esos ahorros tienen valor económico. Deben compararse con todos los desembolsos que exige obtenerlos.",
+        "El primer año puede concentrar costos de puesta en marcha. Mirarlo aisladamente excluye beneficios y gastos posteriores. La evaluación debe abarcar toda la vida económica relevante.",
+        "La ausencia de un activo físico no elimina el desembolso ni sus beneficios futuros. Deben pronosticarse los flujos incrementales y descontarlos al costo de capital pertinente. La clasificación contable no sustituye el criterio de creación de valor."
+      ]
+    },
+    {
+      "id": "c07-q003",
+      "tema": "Efectivo y utilidad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué no corresponde descontar automáticamente la utilidad contable como si fuera efectivo?",
+      "opciones": [
+        "Porque contabiliza toda compra de maquinaria como gasto del año.",
+        "Porque registra exclusivamente cobros y pagos bancarios.",
+        "Incluye devengamientos y depreciación, y no refleja directamente todos los desembolsos de capital.",
+        "Porque la utilidad siempre es menor que el flujo de efectivo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La compra de maquinaria normalmente se capitaliza. La utilidad se reduce gradualmente mediante depreciación, mientras el pago sigue su calendario propio. Esa diferencia explica por qué utilidad y efectivo no coinciden.",
+        "Esa descripción corresponde a una medición por caja. La contabilidad también registra devengamientos y partidas sin movimiento simultáneo de efectivo. Por eso sus resultados deben ajustarse para evaluar inversiones.",
+        "Una venta puede reconocerse antes de cobrarse. Además, la depreciación distribuye un costo aunque el pago del activo ocurra en otra fecha. Se deben reconstruir los cobros y pagos relevantes y ubicarlos cuando efectivamente ocurren.",
+        "No existe una relación universal de ese signo. La inversión en maquinaria o en capital de trabajo puede dejar el flujo por debajo de la utilidad. El ajuste depende de las partidas concretas y sus fechas."
+      ]
+    },
+    {
+      "id": "c07-q004",
+      "tema": "Impuestos y fecha efectiva",
+      "dificultad": "intermedia",
+      "pregunta": "Un impuesto correspondiente al año 1 se paga al final del año 2. ¿Cómo se incorpora al VPN, sin otros efectos?",
+      "opciones": [
+        "Se omite y se eleva arbitrariamente la tasa de descuento.",
+        "Como salida al final del año 2.",
+        "Como salida al final del año 1.",
+        "Como salida en ambos años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hay un ajuste arbitrario de tasa que reproduzca confiablemente los impuestos. Estos deben aparecer en los flujos con su calendario real. La tasa sigue representando el costo de oportunidad pertinente.",
+        "El VPN depende de cuándo sale el efectivo. El devengamiento del año 1 crea una obligación, pero no es el pago. La salida se descuenta desde el año 2, cuando se cancela efectivamente.",
+        "Esta opción confunde devengamiento con caja. Anticipar un año el pago aumenta indebidamente su valor presente. Corresponde descontarlo durante los dos años que faltan para pagarlo.",
+        "Registrar obligación y cancelación como dos pagos duplica el impuesto. La contabilidad muestra dos momentos del mismo compromiso. Solo la cancelación genera el desembolso indicado."
+      ]
+    },
+    {
+      "id": "c07-q005",
+      "tema": "VPN y período cero",
+      "dificultad": "basica",
+      "pregunta": "Se invierten $1.000 hoy y se cobran $660 al final de cada uno de los próximos dos años. Con tasa anual del 10%, ¿cuál es el VPN?",
+      "opciones": [
+        "$145,45.",
+        "$320,00.",
+        "$90,91.",
+        "$1.145,45."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer cobro vale hoy 660/1,10 = 600. El segundo vale 660/1,10² = 545,45. Restar los 1.000 iniciales da un VPN de 145,45.",
+        "Los 320 surgen de sumar los cobros sin descontarlos. Así se trata el dinero futuro como si estuviera disponible hoy. Cada cobro debe llevarse al presente según su propia fecha.",
+        "Este resultado descuenta ambos cobros durante dos años. Sin embargo, el primero se recibe al finalizar el año 1. El descuento debe respetar la fecha individual de cada movimiento.",
+        "Los 1.145,45 son el valor presente de las entradas. Todavía falta restar el desembolso de 1.000 en el período cero. El VPN mide valor neto de la inversión inicial."
+      ]
+    },
+    {
+      "id": "c07-q006",
+      "tema": "Base incremental",
+      "dificultad": "basica",
+      "pregunta": "¿Qué comparación identifica los flujos relevantes de una inversión?",
+      "opciones": [
+        "Los flujos posteriores frente a los históricos.",
+        "La utilidad media de la división antes de invertir.",
+        "Solo las ventas del producto nuevo.",
+        "El futuro con el proyecto frente al futuro sin el proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El futuro sin proyecto puede diferir del pasado por competencia o cambios de demanda. Una comparación histórica atribuiría esos cambios a la inversión. La referencia correcta es un futuro sin proyecto construido de manera coherente.",
+        "La rentabilidad media resume inversiones existentes. No mide el aporte de la decisión pendiente. Un proyecto se evalúa por el valor presente de sus flujos adicionales.",
+        "Las ventas nuevas omiten costos y efectos sobre otros negocios. También pueden requerir capital de trabajo y activos adicionales. Debe medirse el cambio neto de efectivo de toda la empresa.",
+        "La decisión cambia un futuro posible por otro. La diferencia entre ambos revela los flujos que realmente dependen de aceptarla. Así se capturan efectos secundarios, costos evitables y oportunidades sacrificadas."
+      ]
+    },
+    {
+      "id": "c07-q007",
+      "tema": "Rentabilidad media e incremental",
+      "dificultad": "intermedia",
+      "pregunta": "Una división pierde dinero, pero una mejora tiene VPN incremental positivo. No hay restricciones de fondos ni alternativas incompatibles mejores. ¿Qué debería hacer el director financiero?",
+      "opciones": [
+        "Exigir que recupere todas las pérdidas pasadas.",
+        "Aprobarla solo si otra división rentable la recomienda.",
+        "Aceptar la mejora si la estimación incremental es correcta.",
+        "Rechazarla por las pérdidas históricas de la división."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las pérdidas irrecuperables no cambian con la decisión actual. Exigir su recuperación puede bloquear una oportunidad que crea valor desde hoy. La mejora debe justificar los recursos adicionales que todavía demanda.",
+        "La opinión de otra división no es un criterio de valuación. Puede aportar información, pero no sustituye los flujos incrementales. La aprobación debe fundarse en el VPN y en los supuestos que lo sostienen.",
+        "Una división deficitaria puede contener oportunidades de mejora rentables. El VPN positivo indica que los beneficios adicionales superan el costo de la mejora. Las pérdidas históricas no eliminan ese aporte a la riqueza.",
+        "El rechazo automático confunde rendimiento pasado con rendimiento marginal. La mejora puede reducir pérdidas o generar ingresos valiosos. Debe compararse la situación futura con y sin esa inversión."
+      ]
+    },
+    {
+      "id": "c07-q008",
+      "tema": "Complementariedad y reparaciones",
+      "dificultad": "avanzada",
+      "pregunta": "Reparar un puente evita cerrar una red de transporte, pero continuar exige además futuras reparaciones previsibles. ¿Cómo se evalúa la reparación actual?",
+      "opciones": [
+        "Tratando las reparaciones futuras como costos hundidos.",
+        "Incluyendo los beneficios de continuar y todos los costos necesarios para obtenerlos.",
+        "Atribuyéndole todos los ingresos de la red y omitiendo las futuras reparaciones.",
+        "Usando solo la utilidad histórica asignada al puente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los gastos futuros aún pueden evitarse si no se continúa. Por lo tanto, no son hundidos. Deben incluirse cuando resultan necesarios para obtener los beneficios atribuidos a la inversión actual.",
+        "La reparación puede habilitar los beneficios de la red completa. Sin embargo, esos beneficios requieren también los desembolsos posteriores de mantenimiento. Incluir ambos evita justificar reparaciones sucesivas que, tomadas en conjunto, destruyen valor.",
+        "Los ingresos futuros no se obtienen sin mantener el resto de la red. Omitir los desembolsos necesarios exagera la contribución de la reparación. La comparación debe cubrir el programa completo de continuidad relevante.",
+        "Un puente puede no tener ingresos separables. Su aporte depende de la diferencia entre operar y cerrar la red. Una asignación histórica de utilidad no mide esa diferencia económica."
+      ]
+    },
+    {
+      "id": "c07-q009",
+      "tema": "Canibalización",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa lanza una nueva línea que desvía clientes de una línea propia anterior. ¿Qué efecto debe incorporar al VPN?",
+      "opciones": [
+        "La pérdida incremental de margen de la línea anterior, neta de los costos que se evitan.",
+        "Toda la facturación histórica de la línea anterior como pérdida definitiva.",
+        "Solo los cobros del nuevo producto, sin efectos sobre otras líneas.",
+        "La caída de ventas propias como beneficio positivo del lanzamiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El lanzamiento puede trasladar clientes dentro de la misma empresa. La pérdida relevante es el flujo neto que desaparece frente al futuro sin lanzamiento, no simplemente la facturación. Deben descontarse los ingresos perdidos y reconocer los costos que ya no será necesario pagar.",
+        "La facturación histórica no representa la pérdida incremental de efectivo. Parte de esas ventas puede continuar y algunos costos desaparecen al caer la producción. Debe medirse el margen perdido respecto del futuro sin lanzamiento.",
+        "Los efectos sobre otros productos también dependen de aceptar el proyecto. Excluirlos sobreestima el aporte de una línea que desplaza ventas propias. La unidad de análisis es el cambio neto en toda la empresa.",
+        "Una caída de margen causada por el lanzamiento reduce valor. No se convierte en una entrada por ocurrir en otra línea comercial. Su signo debe ser negativo, salvo los costos efectivamente evitados que compensen parte de la pérdida."
+      ]
+    },
+    {
+      "id": "c07-q010",
+      "tema": "Competencia y canibalización",
+      "dificultad": "avanzada",
+      "pregunta": "Un director atribuye al lanzamiento toda la caída del producto anterior, aunque una parte ocurriría igual por la competencia. ¿Qué corresponde corregir?",
+      "opciones": [
+        "No restar ninguna caída porque hay competidores.",
+        "Restar toda la diferencia frente al año pasado.",
+        "Sumar toda la caída como beneficio del lanzamiento.",
+        "Restar solo la caída adicional provocada por lanzar respecto de no lanzar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La competencia no elimina las pérdidas adicionales atribuibles al lanzamiento. Algunas ventas podrían mantenerse sin el producto nuevo. Su margen perdido sí debe incluirse cuando la decisión lo ocasiona.",
+        "El año pasado no representa el futuro sin proyecto. Usarlo como referencia carga al lanzamiento cambios que ocurrirían igualmente. Se necesitan dos pronósticos futuros comparables.",
+        "Una caída de ventas no genera por sí misma un beneficio. Puede evitar costos variables, pero lo relevante es el margen neto perdido. Su efecto incremental adverso se resta cuando depende del lanzamiento.",
+        "El punto de referencia es el futuro sin lanzamiento. La pérdida inevitable por competencia está presente en ambos escenarios y se cancela. Solo la reducción adicional causada por la nueva línea constituye canibalización incremental."
+      ]
+    },
+    {
+      "id": "c07-q011",
+      "tema": "Sinergias y flujos posteriores",
+      "dificultad": "intermedia",
+      "pregunta": "Una ruta aérea aislada tiene VPN negativo, pero aporta pasajeros rentables a otras rutas. ¿Cómo se decide?",
+      "opciones": [
+        "Sumando todos los ingresos de la red, aunque existieran igual.",
+        "Excluyendo conexiones y servicios posteriores por pertenecer a otro negocio.",
+        "Con el VPN que incluya los márgenes incrementales de las conexiones.",
+        "Rechazándola siempre por su resultado aislado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los ingresos que no cambian no son incrementales. Además, ingresos no equivalen a margen porque atender pasajeros cuesta dinero. Se suma únicamente el flujo neto adicional atribuible a la ruta.",
+        "La organización comercial no delimita el proyecto económico. Un negocio posterior puede existir gracias a la inversión inicial. Si ese vínculo genera efectivo adicional, corresponde incorporarlo a la evaluación.",
+        "El efecto económico puede extenderse más allá de la unidad inicial. Los márgenes adicionales de conexión dependen de abrir la ruta y deben incluirse. El mismo criterio incorpora repuestos y servicios futuros atribuibles a vender un equipo.",
+        "El VPN aislado omite una sinergia relevante. El valor creado en conexiones puede superar la pérdida directa. La decisión debe considerar todos los flujos adicionales causados en la empresa."
+      ]
+    },
+    {
+      "id": "c07-q012",
+      "tema": "Capital de trabajo neto",
+      "dificultad": "basica",
+      "pregunta": "Sin otras partidas corrientes, ¿cómo se mide el capital de trabajo neto operativo?",
+      "opciones": [
+        "Ventas − costos operativos − impuestos.",
+        "Inventarios + cuentas por cobrar − cuentas por pagar.",
+        "Inventarios + cuentas por cobrar + cuentas por pagar.",
+        "Activos fijos − depreciación acumulada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa diferencia aproxima un flujo operativo del período. El capital de trabajo es un saldo medido en una fecha. Sus variaciones generan salidas o liberaciones adicionales de efectivo.",
+        "Inventarios y créditos a clientes inmovilizan recursos. Las cuentas por pagar aportan financiamiento operativo de proveedores. Restarlas permite obtener la inversión neta en esos activos de corto plazo.",
+        "Una cuenta por pagar no es un activo inmovilizado. Financia parte de la operación mientras no se paga. Sumarla exagera la necesidad neta de recursos.",
+        "La expresión describe el valor contable de activos fijos. El capital de trabajo reúne inversiones y obligaciones operativas de corto plazo. Ambas categorías afectan la evaluación, pero no deben confundirse."
+      ]
+    },
+    {
+      "id": "c07-q013",
+      "tema": "Variación del capital de trabajo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo afecta un aumento del saldo de capital de trabajo neto operativo al flujo de un período, manteniendo lo demás constante?",
+      "opciones": [
+        "Lo reduce por el importe del aumento, porque inmoviliza fondos adicionales.",
+        "Lo reduce por todo el saldo final, aunque parte ya estuviera invertida.",
+        "Lo aumenta porque un saldo corriente más alto equivale a un cobro.",
+        "No lo afecta si la empresa no compra activos fijos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un mayor saldo implica recursos adicionales en inventarios o créditos, netos del financiamiento de proveedores. La inversión del período es la variación, no todo el saldo acumulado. Por eso ese incremento se resta del flujo disponible.",
+        "El saldo final incluye fondos comprometidos previamente. Deducirlo completo cada año vuelve a cargar la inversión anterior. Solo la diferencia entre saldos consecutivos representa inversión adicional del período.",
+        "Un activo corriente mayor no significa necesariamente efectivo cobrado. Una cuenta por cobrar creciente, por ejemplo, representa ventas todavía pendientes de pago. El aumento neto de capital de trabajo absorbe caja en lugar de generarla.",
+        "Los activos fijos no son la única necesidad de inversión. La operación también utiliza inventarios y financia clientes. Sus mayores necesidades netas reducen el flujo aunque no se compre maquinaria."
+      ]
+    },
+    {
+      "id": "c07-q014",
+      "tema": "Inflación y cuentas por cobrar",
+      "dificultad": "intermedia",
+      "pregunta": "Las ventas anuales uniformes pasan de $240.000 a $264.000 solo por precios. Los clientes siguen pagando a tres meses. ¿Cuánto aumenta la inversión en cuentas por cobrar?",
+      "opciones": [
+        "$24.000.",
+        "$66.000.",
+        "$0.",
+        "$6.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El incremento anual de ventas es 24.000. Pero solo un cuarto de ese incremento queda pendiente de cobro. La necesidad adicional de fondos es 24.000/4 = 6.000.",
+        "Los 66.000 son el saldo final de créditos comerciales. Antes ya había 60.000 inmovilizados. El flujo incremental corresponde únicamente a la diferencia.",
+        "Un plazo constante no implica un saldo nominal constante. Cada factura es mayor por la suba de precios. Por eso aumentan los fondos necesarios para financiar el mismo período de cobro.",
+        "Tres meses representan un cuarto de las ventas anuales uniformes. El saldo pasa de 60.000 a 66.000. El aumento de 6.000 requiere fondos aunque no cambien las unidades vendidas."
+      ]
+    },
+    {
+      "id": "c07-q015",
+      "tema": "Recuperación del capital de trabajo",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten $50.000 hoy en capital de trabajo y se recuperan íntegramente dentro de dos años. A una tasa del 10%, ¿cuál es el VPN de esos dos movimientos, sin impuestos?",
+      "opciones": [
+        "+$8.677,69.",
+        "−$50.000.",
+        "−$8.677,69.",
+        "$0."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El signo positivo invierte la dirección económica de los movimientos. Se entregan recursos hoy y se recuperan después sin rendimiento nominal. Con tasa positiva, esa operación aislada tiene VPN negativo.",
+        "Esta cifra omite la recuperación terminal. El cobro futuro debe incorporarse descontado durante dos años. Compensa parcialmente el desembolso inicial y deja un costo presente de 8.677,69.",
+        "La recuperación tiene valor presente de 50.000/1,10² = 41.322,31. La salida inicial es 50.000 hoy. Su diferencia es −8.677,69, el costo de inmovilizar esos fondos durante dos años.",
+        "Recuperar el mismo importe nominal no compensa el tiempo. El cobro futuro vale menos que el desembolso actual. La inversión tiene un costo de oportunidad aunque se recupere completamente."
+      ]
+    },
+    {
+      "id": "c07-q016",
+      "tema": "Pronóstico directo de caja",
+      "dificultad": "avanzada",
+      "pregunta": "Una analista ya pronosticó todos los cobros y pagos operativos efectivos, incluidas las compras para inventario. ¿Cómo evita duplicaciones?",
+      "opciones": [
+        "Omite los impuestos porque utiliza el criterio de caja.",
+        "No vuelve a ajustar las variaciones de capital de trabajo ya incorporadas y calcula los impuestos pertinentes.",
+        "Resta nuevamente el aumento de cuentas por cobrar.",
+        "Suma el inventario final como si se hubiera cobrado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los impuestos siguen siendo pagos relevantes. Su cálculo puede requerir un resultado fiscal con depreciación y devengamientos. Usar caja para la operación no elimina la obligación de estimarlos.",
+        "Los cobros ya reflejan los créditos otorgados a clientes. Los pagos efectivos ya incorporan inventarios y deudas con proveedores. Repetir esos ajustes duplicaría sus efectos, aunque todavía se necesita determinar correctamente los impuestos.",
+        "Los cobros proyectados ya excluyen lo que los clientes no pagan. Restar otra vez el aumento de créditos carga dos veces la misma demora. El método directo sustituye ese ajuste, no se agrega a él.",
+        "El inventario sin vender no representa un cobro. Su adquisición ya figura entre los pagos efectivos. Sumárselo al flujo crea una entrada que todavía no existe."
+      ]
+    },
+    {
+      "id": "c07-q017",
+      "tema": "Costo de oportunidad del terreno",
+      "dificultad": "basica",
+      "pregunta": "Un terreno propio costó $40.000 y hoy podría venderse por $180.000 netos de impuestos y gastos. Se usará en un proyecto. Sin otros efectos del terreno, ¿qué costo inicial corresponde incluir?",
+      "opciones": [
+        "$180.000.",
+        "$40.000.",
+        "$140.000.",
+        "$0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Usar el terreno impide cobrar 180.000 hoy. Esa alternativa sacrificada es el costo de oportunidad del proyecto. El desembolso histórico no mide los recursos que se resignan en la decisión actual.",
+        "Los 40.000 se pagaron en el pasado. Esa cifra no cambia al aceptar o rechazar el proyecto. La comparación actual debe reconocer la venta neta disponible por 180.000.",
+        "La diferencia con el costo histórico no es el efectivo sacrificado. El enunciado ya entrega un valor neto de impuestos y gastos. Corresponde incluir íntegramente los 180.000 que podrían recibirse hoy.",
+        "Tener la propiedad no vuelve gratuito su uso. La empresa puede vender el terreno y obtener fondos. Utilizarlo en el proyecto significa renunciar a esa alternativa valiosa."
+      ]
+    },
+    {
+      "id": "c07-q018",
+      "tema": "Mercado y uso alternativo",
+      "dificultad": "intermedia",
+      "pregunta": "Un recurso se negocia libremente y tiene sustitutos equivalentes al mismo precio. ¿Qué referencia corresponde para su costo de oportunidad?",
+      "opciones": [
+        "El valor contable histórico.",
+        "Cero si el dueño no planeaba vender.",
+        "El mayor beneficio imaginable, ignorando la posibilidad de comprar un sustituto.",
+        "El valor de mercado actual, ajustado por efectos pertinentes de la transacción."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La contabilidad refleja costos y depreciaciones pasadas. No necesariamente coincide con las alternativas actuales. El costo de oportunidad debe basarse en posibilidades económicas disponibles hoy.",
+        "No planear una venta no elimina el valor alternativo. El recurso podría venderse o reasignarse a otro uso. La decisión consume esa oportunidad y debe reconocerla.",
+        "Un sustituto equivalente limita el costo económico. Si un uso alternativo valiera más, podría comprarse otro recurso para sostenerlo. Ignorar esa opción exageraría lo que realmente se sacrifica.",
+        "El mercado permite vender el recurso o adquirir un sustituto. Ese precio disciplina el valor económico de utilizarlo. Los impuestos y gastos relevantes ajustan el efectivo que efectivamente se sacrifica."
+      ]
+    },
+    {
+      "id": "c07-q019",
+      "tema": "Costos hundidos",
+      "dificultad": "basica",
+      "pregunta": "Se pagaron $70.000 por un estudio irrecuperable antes de decidir un lanzamiento. ¿Cómo se trata ese pago en la decisión actual?",
+      "opciones": [
+        "Se suma como cobro porque ya está pagado.",
+        "Se incluye solo si las conclusiones del estudio son negativas.",
+        "Se excluye de los flujos incrementales.",
+        "Se agrega como desembolso inicial del lanzamiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Excluir un costo pasado no significa recuperarlo. No hay una nueva entrada de dinero. Simplemente se elimina una partida que no depende de la decisión pendiente.",
+        "Las conclusiones pueden modificar los pronósticos del proyecto. Pero no alteran la irreversibilidad del pago realizado. Su costo se excluye cualquiera sea el resultado informativo del estudio.",
+        "El pago ya ocurrió y no puede recuperarse. Aceptar o rechazar el lanzamiento no modifica ese hecho. Es un costo hundido y no diferencia las alternativas actuales.",
+        "El lanzamiento actual no ocasiona un desembolso que ya se hizo. Incluirlo vuelve a cargar una salida inevitable en ambos escenarios. Deben considerarse los pagos y beneficios que todavía pueden cambiar."
+      ]
+    },
+    {
+      "id": "c07-q020",
+      "tema": "Falacia del costo hundido",
+      "dificultad": "intermedia",
+      "pregunta": "Un director quiere continuar para justificar lo gastado y otro exige recuperar todo ese gasto antes de autorizar más inversión. ¿Qué criterio corresponde?",
+      "opciones": [
+        "Seguir hasta que la utilidad acumulada iguale el gasto pasado.",
+        "Comparar los costos y beneficios futuros de continuar y abandonar.",
+        "Continuar siempre para no desperdiciar lo ya invertido.",
+        "Rechazar toda continuación que no recupere el costo histórico."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La utilidad acumulada mezcla períodos y reglas contables. Alcanzar ese objetivo podría requerir inversiones con VPN negativo. La decisión debe surgir de los flujos futuros comparativos.",
+        "El dinero irrecuperable no cambia entre continuar y abandonar. Ambos argumentos pueden quedar atrapados en el pasado. Debe elegirse la alternativa con mayor valor futuro, incluyendo desembolsos evitables y valores recuperables.",
+        "Seguir gastando no recupera automáticamente el dinero perdido. La continuación debe justificar los recursos adicionales. Abandonar puede evitar pérdidas futuras y permitir vender activos.",
+        "Exigir recuperar el pasado puede descartar una etapa futura rentable. La decisión actual solo debe justificar los recursos que aún se comprometen. Los costos hundidos no constituyen una salida nueva."
+      ]
+    },
+    {
+      "id": "c07-q021",
+      "tema": "Gastos generales",
+      "dificultad": "intermedia",
+      "pregunta": "Un director rechaza un proyecto por los gastos de oficina central que la contabilidad le asigna. Esos gastos no cambiarían si el proyecto se aceptara, pero sí habría una contratación adicional específica. ¿Qué corresponde incluir?",
+      "opciones": [
+        "El costo de la contratación adicional y cualquier otro gasto que realmente cambie.",
+        "La asignación completa aunque no represente cambios de desembolsos.",
+        "La asignación completa más la contratación, sin revisar duplicaciones.",
+        "Ningún gasto central ni la contratación, porque todo es gasto general."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La contratación surge de aceptar el proyecto y es un desembolso incremental. La asignación de gastos que existirían igualmente no lo es. Se debe comprobar cada cambio efectivo de recursos y evitar sustituirlo por un reparto contable.",
+        "Un cargo asignado puede redistribuir costos fijos preexistentes. Si el gasto no cambia entre aceptar y rechazar, no reduce el flujo incremental. Lo relevante es el aumento real, como la contratación indicada.",
+        "Sumar ambos importes sin revisar su composición puede cargar costos ajenos y duplicar otros. La asignación no es por sí misma un pago adicional. Deben identificarse los desembolsos que la decisión efectivamente ocasiona.",
+        "La etiqueta de gasto general no determina su relevancia. Una contratación específica adicional sí depende del proyecto. Omitirla sobreestima el flujo y el VPN."
+      ]
+    },
+    {
+      "id": "c07-q022",
+      "tema": "Ampliaciones indivisibles",
+      "dificultad": "avanzada",
+      "pregunta": "Una ampliación indivisible cuesta $400.000, se haría solo por un proyecto y este usa la mitad del espacio. La mitad sobrante no tiene uso alternativo valioso. ¿Qué costo inicial se incluye?",
+      "opciones": [
+        "$200.000.",
+        "$0.",
+        "$400.000 menos una renta ficticia por el espacio libre.",
+        "$400.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La proporción física utilizada no determina el desembolso incremental. Sin el proyecto se evita la obra completa. Prorratear oculta 200.000 que realmente hay que pagar para poder realizarlo.",
+        "El exceso de capacidad no elimina su costo de creación. La obra sigue siendo necesaria para el proyecto. Deben incluirse todos los recursos adicionales que exige construirla.",
+        "Una renta inventada no genera caja ni representa una oportunidad real. Solo un uso alternativo económicamente disponible permitiría reconocer valor al espacio sobrante. El enunciado excluye expresamente ese beneficio.",
+        "El pago completo depende de aceptar el proyecto. Usar la mitad no reduce el costo de construir la ampliación indivisible. Como el espacio restante carece de valor alternativo, no corresponde un beneficio que compense parte del desembolso."
+      ]
+    },
+    {
+      "id": "c07-q023",
+      "tema": "Inflación y coherencia",
+      "dificultad": "basica",
+      "pregunta": "¿Qué combinación mantiene la coherencia de la evaluación?",
+      "opciones": [
+        "Flujos nominales con tasa real para no duplicar inflación.",
+        "Cualquier combinación si se usa una sola moneda.",
+        "Flujos nominales con tasa nominal o flujos reales con tasa real compatible.",
+        "Flujos reales con tasa nominal por prudencia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tasa nominal es la pareja coherente de los flujos nominales. La tasa real no compensa su crecimiento puramente inflacionario. Para entradas futuras positivas, esta mezcla sobreestima el valor presente.",
+        "Una moneda puede expresar cifras de distinto poder adquisitivo. Usar pesos en todo el modelo no garantiza coherencia. También deben coincidir las definiciones real o nominal de flujos y tasa.",
+        "Los flujos nominales incorporan el nivel de precios de cada fecha. Los reales mantienen constante el poder adquisitivo. Deben descontarse con tasas expresadas en los mismos términos para obtener valores presentes equivalentes.",
+        "La tasa nominal incluye compensación por inflación. Aplicarla a flujos que ya la eliminaron castiga indebidamente su valor. La prudencia no justifica mezclar unidades económicas incompatibles."
+      ]
+    },
+    {
+      "id": "c07-q024",
+      "tema": "Conversión de tasas",
+      "dificultad": "intermedia",
+      "pregunta": "La tasa nominal anual es 21% y la inflación esperada es 10%. ¿Cuál es la tasa real anual exacta?",
+      "opciones": [
+        "19,09%.",
+        "10%.",
+        "11%.",
+        "31%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Dividir directamente 21% por 1,10 ajusta solo el interés. Debe ajustarse el factor completo de capital más rendimiento. Por eso corresponde dividir 1,21 por 1,10 y luego restar uno.",
+        "La relación exacta es 1 + r real = (1 + r nominal)/(1 + inflación). El cociente 1,21/1,10 es 1,10. Restar uno da una tasa real del 10%.",
+        "Restar tasas da solo una aproximación. La relación exacta incluye el efecto compuesto entre inflación y rendimiento real. Aquí ese efecto explica la diferencia entre 11% y el 10% correcto.",
+        "Sumar inflación a una tasa nominal cuenta otra vez la inflación. Para quitarla hay que dividir factores de acumulación. El cálculo correcto es 1,21/1,10 − 1."
+      ]
+    },
+    {
+      "id": "c07-q025",
+      "tema": "Equivalencia real y nominal",
+      "dificultad": "intermedia",
+      "pregunta": "Se recibirán $121 nominales dentro de dos años. La inflación anual será 10% y la tasa nominal anual 21%. ¿Qué pareja de cálculos da el mismo valor presente?",
+      "opciones": [
+        "$121/1,21² y $100/1,10², ambos aproximadamente $82,64.",
+        "$121/1,10² y $100/1,21².",
+        "$121/1,21 y $100/1,10.",
+        "$121/1,21² y $110/1,10²."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El flujo real es 121/1,10² = 100. La tasa real compatible es 1,21/1,10 − 1 = 10%. Ambos descuentos durante dos años arrojan aproximadamente 82,64.",
+        "Esta pareja cruza las definiciones de flujos y tasas. El importe nominal debe descontarse a 21% y el real a 10%. Mezclarlos rompe la equivalencia económica entre ambos métodos.",
+        "Los dos cobros ocurren dentro de dos años. Descontar una sola vez anticipa sus fechas. Se requieren dos períodos tanto en la formulación nominal como en la real.",
+        "Los 110 surgen de deflactar solo un año. El pago se recibe dentro de dos años y exige dividir por 1,10². Su equivalente en poder adquisitivo actual es 100."
+      ]
+    },
+    {
+      "id": "c07-q026",
+      "tema": "Precios relativos e inflación",
+      "dificultad": "intermedia",
+      "pregunta": "Un presupuesto tiene ventas, salarios y depreciación fiscal histórica. ¿Cómo se construyen los flujos nominales?",
+      "opciones": [
+        "Multiplicando todas las partidas por una única inflación, incluida la depreciación histórica.",
+        "Manteniendo constantes todos los costos porque se usa tasa nominal.",
+        "Elevando solo las ventas y suponiendo que los salarios nunca cambian.",
+        "Proyectando cada precio relevante y manteniendo las deducciones históricas según el régimen fiscal supuesto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una inflación general no reemplaza los pronósticos específicos. Además, indexar deducciones históricas inventa un ahorro fiscal que el régimen supuesto no permite. Deben respetarse tanto los cambios económicos como las reglas tributarias aplicables.",
+        "La tasa nominal no transforma costos reales constantes en nominales constantes. Los pagos deben reflejar sus precios esperados de cada fecha. Mantenerlos fijos sin justificación sobreestima los márgenes si hay inflación de costos.",
+        "Los salarios también pueden variar con inflación, productividad y condiciones laborales. Excluir sus cambios introduce una asimetría injustificada. Debe proyectarse cada componente con supuestos económicos consistentes.",
+        "Los precios relativos pueden cambiar a ritmos diferentes. Los salarios, materiales y precios de venta deben seguir sus supuestos particulares. Si las deducciones fiscales se basan en costo histórico no indexado, no aumentan automáticamente con la inflación."
+      ]
+    },
+    {
+      "id": "c07-q027",
+      "tema": "Errores de mezcla real y nominal",
+      "dificultad": "intermedia",
+      "pregunta": "Con inflación positiva, una inversión tiene una salida hoy y solo entradas futuras positivas. ¿Qué ocurre si sus entradas nominales se descuentan a la tasa real compatible?",
+      "opciones": [
+        "El VPN no cambia.",
+        "El resultado siempre pasa a ser negativo.",
+        "Se sobreestima el VPN.",
+        "Se subestima el VPN."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La equivalencia exige transformar tanto flujos como tasa. Cambiar solo la tasa altera el valor presente. Usar la misma moneda tampoco corrige esta inconsistencia.",
+        "Reducir la tasa aplicada a entradas positivas aumenta su valor presente. No existe una razón para que el VPN pase siempre a negativo. El error favorece artificialmente la evaluación del proyecto.",
+        "La tasa real es menor que la nominal compatible cuando la inflación es positiva. Aplicarla a las mismas entradas nominales las descuenta menos. Como la salida actual no cambia, el VPN queda sobreestimado.",
+        "La subestimación aparecería al descontar flujos reales con la tasa nominal. Aquí se hace la mezcla opuesta. Las entradas conservan inflación mientras la tasa deja de compensarla."
+      ]
+    },
+    {
+      "id": "c07-q028",
+      "tema": "Separación entre inversión y financiamiento",
+      "dificultad": "basica",
+      "pregunta": "Al calcular los flujos operativos del proyecto separados de su financiamiento, ¿qué se hace con el préstamo, sus intereses y la devolución del principal?",
+      "opciones": [
+        "Se suman los intereses como ingresos de la inversión.",
+        "Se excluyen de esos flujos y se analizan sus efectos de financiamiento por separado.",
+        "Se resta el préstamo de la inversión inicial y se omiten sus pagos.",
+        "Se deducen intereses y principal como costos operativos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El interés del préstamo es un pago al acreedor. No es un beneficio generado por los activos. Tampoco corresponde invertir su signo para compensar otros ajustes del modelo.",
+        "El análisis busca medir primero la capacidad económica de los activos. Los fondos prestados y sus pagos pertenecen a la decisión de financiamiento. Separarlos permite evaluar la inversión sin mezclarla con el contrato de deuda.",
+        "Reducir la inversión por el préstamo sin registrar la obligación crea un beneficio ficticio. El activo requiere el mismo desembolso cualquiera sea la fuente de fondos. El financiamiento debe analizarse de manera coherente y separada.",
+        "Los intereses remuneran al prestamista y el principal devuelve financiamiento. No son costos operativos de producir el bien o servicio. Incluirlos en estos flujos mezcla las decisiones que se pretende separar."
+      ]
+    },
+    {
+      "id": "c07-q029",
+      "tema": "Depreciación lineal",
+      "dificultad": "basica",
+      "pregunta": "Si un activo tiene costo fiscal inicial I, residual fiscal R y vida fiscal T años, ¿cuál es su depreciación lineal anual bajo esos supuestos?",
+      "opciones": [
+        "(I − R)/T.",
+        "I/T, aunque R sea positivo.",
+        "(I + R)/T.",
+        "I − R, sin dividir por años."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La base depreciable es el costo fiscal menos el residual que quedará sin depreciar. El método lineal distribuye esa base en cuotas iguales durante T años. Por eso la cuota anual es (I − R)/T y no depende del precio de mercado intermedio.",
+        "Dividir todo el costo supone que el residual fiscal es cero. Si R es positivo, se deprecia una base menor. Omitirlo genera deducciones superiores a las permitidas por los supuestos.",
+        "El residual se resta porque no se distribuirá como depreciación. Sumarlo aumenta indebidamente la base fiscal recuperable. La cuota correcta reparte solamente I menos R entre los años establecidos.",
+        "I menos R es la base total a depreciar. No constituye la cuota anual cuando hay varios años. Para obtener cuotas iguales hay que dividir esa base entre T."
+      ]
+    },
+    {
+      "id": "c07-q030",
+      "tema": "Escudo fiscal por depreciación",
+      "dificultad": "basica",
+      "pregunta": "Con depreciación fiscal D, tasa marginal T y deducción utilizable de inmediato, ¿cuál es el escudo fiscal del período?",
+      "opciones": [
+        "D completo.",
+        "D × (1 − T).",
+        "Cero porque la depreciación no se paga en efectivo.",
+        "D × T."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una deducción no equivale a un reembolso íntegro de su importe. Su efecto depende de cuánto impuesto evita sobre esa base. Con tasa menor al cien por ciento, el ahorro es solo D por T.",
+        "El factor uno menos T expresa el remanente después de un impuesto proporcional. No mide el impuesto evitado por una deducción. El escudo requiere multiplicar D directamente por T.",
+        "La depreciación no genera un pago operativo contemporáneo. Sin embargo, puede reducir un pago de impuestos real. Ese efecto fiscal es precisamente la razón para incorporarla en el cálculo de flujos.",
+        "La deducción reduce la base imponible en D. Cada unidad deducida evita T unidades de impuesto bajo los supuestos dados. El ahorro de efectivo es entonces D multiplicado por la tasa marginal, aunque la depreciación no sea una erogación."
+      ]
+    },
+    {
+      "id": "c07-q031",
+      "tema": "Flujo operativo después de impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Hay ventas de $200.000, costos operativos pagados de $120.000 y depreciación fiscal de $30.000. La tasa es 30%, sin intereses ni cambios de capital de trabajo. ¿Cuál es el flujo operativo después de impuestos?",
+      "opciones": [
+        "$56.000.",
+        "$95.000.",
+        "$65.000.",
+        "$35.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 56.000 resultan de gravar el margen de caja de 80.000 sin deducir depreciación. Esa operación pierde el escudo fiscal de 9.000. El flujo correcto incluye ese ahorro y asciende a 65.000.",
+        "Los 95.000 agregan depreciación a un flujo que ya la excluye como desembolso. Eso cuenta dos veces su reversión. Solo se suma depreciación cuando se parte de una utilidad que previamente la restó.",
+        "La utilidad gravable es 200.000 − 120.000 − 30.000 = 50.000. El impuesto es 15.000. El flujo operativo es 200.000 − 120.000 − 15.000 = 65.000, equivalente a utilidad neta más depreciación.",
+        "Los 35.000 son utilidad después de impuestos. La depreciación ya la redujo sin representar un pago. Para obtener flujo operativo se suman nuevamente los 30.000 no erogados."
+      ]
+    },
+    {
+      "id": "c07-q032",
+      "tema": "Depreciación acelerada",
+      "dificultad": "intermedia",
+      "pregunta": "Con igual base depreciable total, tasa impositiva constante, tasa de descuento positiva y uso inmediato de deducciones, ¿por qué puede aumentar el VPN una depreciación acelerada?",
+      "opciones": [
+        "Porque elimina siempre los impuestos sobre la venta final.",
+        "Porque adelanta ahorros fiscales y aumenta su valor presente.",
+        "Porque aumenta físicamente la producción de la máquina.",
+        "Porque convierte la depreciación en un desembolso operativo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La venta puede generar impuestos si supera la base fiscal restante. Una depreciación más rápida incluso puede reducir esa base antes. Hay que calcular el efecto terminal en lugar de suponer que desaparece.",
+        "Deducciones más tempranas permiten pagar menos impuestos antes. A tasa positiva, el mismo ahorro nominal vale más cuanto antes se recibe. Deben mantenerse coherentes también la base fiscal y los impuestos terminales al comparar regímenes.",
+        "El calendario fiscal no mejora por sí mismo la capacidad productiva. Su efecto directo está en el momento de pago de impuestos. Las mejoras operativas tendrían que surgir de cambios reales del activo.",
+        "La depreciación sigue siendo una partida sin erogación contemporánea. El beneficio proviene del menor impuesto y no de un nuevo pago. Confundir ambas cosas puede invertir el signo del efecto de caja."
+      ]
+    },
+    {
+      "id": "c07-q033",
+      "tema": "Plan acelerado y convención de medio año",
+      "dificultad": "intermedia",
+      "pregunta": "En un régimen hipotético, una categoría fiscal de cinco años distribuye la depreciación en seis años calendario por una convención de medio año. ¿Qué interpretación es correcta?",
+      "opciones": [
+        "La categoría de recuperación no implica cinco cuotas anuales iguales ni cinco fechas calendario de deducción.",
+        "La sexta cuota demuestra que se deprecia más del 100% de la base.",
+        "La depreciación empieza siempre cuando se paga la compra, aunque el bien no entre en servicio.",
+        "El régimen obliga a desechar físicamente el activo al finalizar el año 5."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La convención asigna solo parte de un año al comienzo y al final. Por eso la recuperación fiscal puede abarcar seis fechas calendario. Los porcentajes aplicables deben usarse sobre la base correspondiente, sin confundirlos con la vida física.",
+        "Distribuir deducciones en más fechas no aumenta necesariamente el total. Los porcentajes del plan pueden sumar exactamente el 100%. Lo importante es revisar esa suma y el calendario, no contar solo los años.",
+        "El pago y la puesta en servicio pueden ocurrir en fechas distintas. El inicio de deducciones depende del régimen fiscal especificado. No corresponde adelantarlo automáticamente al momento de comprar.",
+        "La vida fiscal no determina el desgaste físico. Un activo puede seguir operando después de depreciarse totalmente. Su reemplazo depende de conveniencia económica y de las condiciones de uso."
+      ]
+    },
+    {
+      "id": "c07-q034",
+      "tema": "Dos contabilidades",
+      "dificultad": "basica",
+      "pregunta": "Una empresa puede utilizar depreciación lineal para informar a accionistas y acelerada para impuestos. ¿Cuál determina los pagos fiscales del proyecto?",
+      "opciones": [
+        "La depreciación del informe a accionistas en todos los casos.",
+        "El promedio de las dos depreciaciones.",
+        "La mayor depreciación elegida libremente cada año, sin restricciones.",
+        "La depreciación admitida por el régimen fiscal."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los estados financieros pueden usar un calendario diferente del fiscal. Su cargo contable no determina necesariamente el impuesto pagado. Deben consultarse las deducciones tributarias realmente permitidas.",
+        "Promediar dos calendarios carece de fundamento tributario. El impuesto no se liquida con una mezcla arbitraria. Se utiliza el régimen fiscal pertinente y se respeta su calendario.",
+        "Las deducciones están sujetas a reglas y elecciones permitidas. No se pueden maximizar libremente fuera de esas condiciones. El modelo debe reflejar la alternativa fiscal efectivamente disponible.",
+        "El efectivo pagado al fisco depende de las reglas tributarias aplicables. La depreciación publicada para accionistas puede responder a otro objetivo contable. El presupuesto de capital necesita estimar impuestos efectivos y no inferirlos automáticamente de la utilidad informada."
+      ]
+    },
+    {
+      "id": "c07-q035",
+      "tema": "Venta por encima de la base fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina se vende por $50.000 y tiene base fiscal restante de $20.000. Supongamos que toda la diferencia tributa al 30%. Sin gastos de venta, ¿cuánto efectivo neto se obtiene?",
+      "opciones": [
+        "$50.000.",
+        "$29.000.",
+        "$41.000.",
+        "$35.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El precio bruto no queda íntegramente disponible. La venta genera un impuesto de 9.000. Ese pago debe descontarse para medir el efectivo terminal atribuible al proyecto.",
+        "Restar tanto la base fiscal como el impuesto al precio confunde una referencia tributaria con un pago. Los 20.000 no se desembolsan al vender. Sirven para calcular la ganancia imponible.",
+        "La ganancia gravada es 50.000 − 20.000 = 30.000. El impuesto es 30.000 × 0,30 = 9.000. El cobro neto de la venta es 50.000 − 9.000 = 41.000.",
+        "Gravar los 50.000 completos ignora la base fiscal pendiente. El impuesto recae sobre la diferencia especificada. Solo con base fiscal cero correspondería gravar todo el precio en este supuesto."
+      ]
+    },
+    {
+      "id": "c07-q036",
+      "tema": "Venta por debajo de la base fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo con base fiscal de $40.000 se vende por $25.000. La pérdida es deducible y puede aprovecharse inmediatamente al 30%. ¿Cuál es el flujo neto de la venta?",
+      "opciones": [
+        "$40.000.",
+        "$29.500.",
+        "$20.500.",
+        "$25.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La base fiscal no garantiza recuperar su importe. El mercado paga 25.000 y el fisco permite ahorrar 4.500. La suma no alcanza automáticamente los 40.000 de referencia contable fiscal.",
+        "La pérdida fiscal es 40.000 − 25.000 = 15.000. Su deducción ahorra 15.000 × 0,30 = 4.500. El flujo total es el precio de 25.000 más ese ahorro, es decir, 29.500.",
+        "Esta respuesta resta el ahorro fiscal como si fuera un impuesto a pagar. Una pérdida deducible reduce impuestos bajo los supuestos dados. Por eso los 4.500 se suman al precio cobrado.",
+        "Los 25.000 consideran solo la venta. Falta el ahorro fiscal inmediato de 4.500 indicado por el enunciado. Los dos efectos de caja pertenecen a la decisión de vender."
+      ]
+    },
+    {
+      "id": "c07-q037",
+      "tema": "Pérdidas fiscales y diferimiento",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto tiene pérdidas fiscales iniciales y la empresa no puede compensarlas hoy con otras ganancias. Podrá deducirlas de utilidades futuras. ¿Cómo cambia el análisis frente a su uso inmediato?",
+      "opciones": [
+        "Se ubica el ahorro cuando pueda utilizarse; su diferimiento reduce su valor presente a tasa positiva.",
+        "Se reconoce un cobro fiscal inmediato de todos modos.",
+        "Se elimina para siempre cualquier valor de las pérdidas.",
+        "Se reconoce el ahorro al inicio y otra vez al compensar las utilidades futuras."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una pérdida fiscal no siempre genera un cobro contemporáneo. Si solo puede trasladarse, su beneficio aparece cuando reduce impuestos futuros. A igualdad de importe y con tasa positiva, ese aplazamiento reduce su valor presente.",
+        "La posibilidad de deducir después no implica recibir efectivo hoy. Registrar un cobro inmediato anticipa un beneficio no disponible. Debe construirse el calendario efectivo de compensación de pérdidas.",
+        "Una pérdida trasladable puede reducir impuestos más adelante. Su valor depende de cuándo y cuánto llegue a utilizarse. No corresponde suponer valor nulo si el enunciado anticipa utilidades compensables.",
+        "La misma deducción no puede aprovecharse dos veces. El beneficio ocurre al reducir el impuesto efectivamente pagado. Reconocerlo también al inicio sobreestima los flujos y el VPN."
+      ]
+    },
+    {
+      "id": "c07-q038",
+      "tema": "Límites al aprovechamiento fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Antes de valorar los escudos fiscales, una empresa detecta un régimen de impuesto mínimo que puede diferirlos. ¿Qué debe hacer el analista?",
+      "opciones": [
+        "Aplicar automáticamente depreciación por tasa sin revisar restricciones.",
+        "Suponer que toda deducción se pierde para siempre.",
+        "Aumentar el valor del escudo porque pagar impuesto mínimo es más simple.",
+        "Modelar las restricciones y fechas reales de aprovechamiento antes de cerrar el presupuesto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La multiplicación usual presupone que la deducción reduce impuestos en ese período. La restricción detectada cuestiona precisamente ese supuesto. Deben revisarse los pagos con y sin deducción bajo el régimen aplicable.",
+        "Una limitación temporal no equivale necesariamente a pérdida definitiva. Puede existir recuperación o compensación posterior. La evaluación debe usar las condiciones y fechas pertinentes del supuesto fiscal.",
+        "La simplicidad administrativa no crea un ahorro financiero adicional. Si el impuesto mínimo limita deducciones, su efecto puede ser adverso. Debe calcularse el cambio real de pagos y descontarlo.",
+        "El valor del escudo depende del impuesto efectivamente evitado. Un régimen mínimo puede limitar su uso o aplazarlo. El modelo debe reflejar esos efectos concretos en lugar de dar por garantizado el ahorro inmediato."
+      ]
+    },
+    {
+      "id": "c07-q039",
+      "tema": "Deducción inmediata o capitalización",
+      "dificultad": "avanzada",
+      "pregunta": "Un costo de instalación de $10.000 puede deducirse hoy o capitalizarse y deducirse en dos cuotas de $5.000 al final de los años 1 y 2. Tasa fiscal 30%, descuento 10% y uso inmediato de deducciones. ¿Cuánto mayor es el valor del ahorro con deducción inmediata?",
+      "opciones": [
+        "$0.",
+        "$2.603,31.",
+        "$396,69.",
+        "$3.000,00."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La suma nominal de deducciones es igual, pero las fechas difieren. A tasa positiva, un ahorro hoy vale más que el mismo total posterior. La diferencia de valor presente es 396,69.",
+        "Los 2.603,31 representan el VP de los ahorros bajo capitalización. No son la diferencia entre alternativas. Para obtenerla se resta esa cifra de los 3.000 ahorrados hoy.",
+        "La deducción inmediata ahorra 10.000 × 0,30 = 3.000 hoy. Capitalizar produce ahorros de 1.500 en cada año, cuyo VP es 1.500/1,10 + 1.500/1,10² = 2.603,31. La ventaja de deducir hoy es 396,69.",
+        "Los 3.000 son el ahorro bruto inmediato. La alternativa capitalizada también genera ahorros fiscales. La ventaja comparativa requiere restar su valor presente de 2.603,31."
+      ]
+    },
+    {
+      "id": "c07-q040",
+      "tema": "Saldos decrecientes",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina tiene base fiscal inicial de $100.000 y se deprecia al 25% anual del saldo restante. ¿Cuánto se deprecia en el año 2 y cuál es la base al finalizarlo?",
+      "opciones": [
+        "$6.250 y $68.750.",
+        "$18.750 y $56.250.",
+        "$25.000 y $50.000.",
+        "$18.750 y $75.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 6.250 son la reducción entre la primera y la segunda cuota. No constituyen la depreciación del segundo año. La cuota correcta surge de multiplicar el saldo inicial de 75.000 por 25%.",
+        "El primer año se deprecian 25.000 y quedan 75.000. El segundo año se aplica 25% a ese saldo: 18.750. La base final es 75.000 − 18.750 = 56.250.",
+        "Aplicar 25% siempre al costo inicial describe cuotas iguales. El método indicado aplica el porcentaje al saldo pendiente. Por eso la segunda deducción es menor que la primera.",
+        "La deducción de 18.750 está bien calculada. Pero 75.000 es la base al comenzar el año 2. Al finalizarlo debe restarse también la depreciación de ese año."
+      ]
+    },
+    {
+      "id": "c07-q041",
+      "tema": "Cambio de método de depreciación",
+      "dificultad": "intermedia",
+      "pregunta": "Un régimen permite pasar de saldos decrecientes a línea recta sobre la base pendiente. Con deducciones aprovechables de inmediato, ¿cuándo puede convenir hacer el cambio?",
+      "opciones": [
+        "Cuando la cuota lineal sobre la base pendiente y la vida fiscal restante supera la cuota decreciente permitida.",
+        "Cuando se quiere depreciar nuevamente el costo original completo.",
+        "Siempre después del primer año, sin comparar cuotas.",
+        "Cuando permite deducir un total superior a la base fiscal."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se comparan las deducciones permitidas a partir de ese momento. Si la cuota lineal es mayor, puede adelantar el uso de la base pendiente y los ahorros fiscales. La elección debe respetar las reglas y mantener el límite total de la base depreciable.",
+        "Cambiar de método no reinicia la base fiscal. Las deducciones anteriores ya consumieron parte del costo. Solo el saldo pendiente puede distribuirse entre los años restantes.",
+        "No existe una fecha universal conveniente. Depende del porcentaje decreciente, el saldo y los años pendientes. Deben compararse las cuotas efectivas que permite cada alternativa.",
+        "El cambio modifica el calendario, no crea una nueva base. Deducir más que el costo depreciable supone un beneficio no autorizado por el supuesto. El objetivo es adelantar ahorros permitidos, sin duplicar deducciones."
+      ]
+    },
+    {
+      "id": "c07-q042",
+      "tema": "Alternativas de diseño y sensibilidad",
+      "dificultad": "intermedia",
+      "pregunta": "Un director obtuvo VPN positivo para una planta y quiere cerrar el análisis. Hay diseños alternativos y riesgo de retrasos. ¿Qué corresponde hacer?",
+      "opciones": [
+        "Aprobar el primer diseño positivo sin comparar alternativas.",
+        "Elegir siempre el diseño de mayor capacidad física.",
+        "Usar sensibilidad para reemplazar todos los pronósticos por el peor caso imaginable.",
+        "Comparar los VPN de diseños viables y examinar cómo cambian ante supuestos adversos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un VPN positivo no demuestra que sea el mejor diseño. Puede haber otra configuración que use mejor los recursos. La evaluación debe comparar las alternativas relevantes y revisar la solidez de sus supuestos.",
+        "La capacidad adicional no crea valor automáticamente. Puede costar más de lo que aportan sus ventas y ahorros. Se elige por el valor incremental, no por el tamaño del activo.",
+        "La sensibilidad identifica el efecto de cambios específicos en supuestos. No obliga a reemplazar todo pronóstico por extremos arbitrarios. Los escenarios deben servir para comprender riesgos y decisiones con hipótesis coherentes.",
+        "Un diseño positivo puede ser inferior a otra alternativa mutuamente excluyente. Además, retrasos y cambios de demanda pueden modificar su valor. Comparar diseños y examinar sensibilidad o escenarios permite entender qué decisión crea más valor y de qué supuestos depende."
+      ]
+    },
+    {
+      "id": "c07-q043",
+      "tema": "Otros países y monedas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa adapta un proyecto de Estados Unidos a una inversión en euros en otro país. ¿Qué debe revisar?",
+      "opciones": [
+        "Mantener siempre las reglas fiscales estadounidenses.",
+        "Usar la tasa local de préstamo, sin considerar moneda ni riesgo del proyecto.",
+        "Moneda y tasa compatibles, inflación local, impuestos y depreciación fiscal aplicables.",
+        "Solo cambiar el símbolo de dólar por euro."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El régimen fiscal depende de la jurisdicción aplicable. Conservar reglas extranjeras sin justificación puede inventar deducciones o tasas. El modelo debe reflejar las obligaciones y beneficios realmente supuestos para esa inversión.",
+        "Una tasa de préstamo remunera un contrato de deuda concreto. No determina automáticamente el costo de oportunidad de los activos. También deben considerarse el riesgo de la inversión y la unidad monetaria de sus flujos.",
+        "El principio del VPN es universal, pero sus insumos dependen del contexto. Los precios, impuestos y deducciones deben reflejar el país de la inversión. La tasa de descuento también debe ser compatible con la moneda, la inflación y el riesgo de los flujos.",
+        "Cambiar el símbolo no convierte magnitudes económicas. Pueden cambiar precios relativos, inflación y tributación. Es necesario reconstruir los supuestos relevantes y mantener consistencia entre flujos y tasa."
+      ]
+    },
+    {
+      "id": "c07-q044",
+      "tema": "Flujo libre integrado",
+      "dificultad": "avanzada",
+      "pregunta": "Hoy se pagan $100.000 por equipo y $20.000 de capital de trabajo. En el único año operativo, ventas cobradas de $160.000, costos pagados de $80.000 y depreciación fiscal de $100.000; la pérdida fiscal se aprovecha de inmediato al 25%. Al cierre se recuperan los $20.000 y se vende el equipo por $12.000 con base fiscal cero, gravados al 25%. Con descuento del 10%, ¿cuál es el VPN?",
+      "opciones": [
+        "+$3.636,36.",
+        "−$16.363,64.",
+        "−$34.545,45.",
+        "−$39.090,91."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cifra resta solo los 100.000 del equipo como inversión inicial. También se pagan 20.000 de capital de trabajo hoy. Su recuperación futura no elimina el desembolso actual ni permite omitirlo del VPN.",
+        "La pérdida gravable de 20.000 genera ahorro fiscal de 5.000, por lo que el flujo operativo es 85.000. La venta neta aporta 12.000 × 0,75 = 9.000 y se recuperan 20.000 de capital de trabajo. El VPN es −120.000 + (85.000 + 9.000 + 20.000)/1,10 = −16.363,64.",
+        "Este resultado omite la recuperación terminal del capital de trabajo. El flujo operativo de 85.000 y la venta neta de 9.000 no son todas las entradas. También se recuperan los 20.000 inicialmente inmovilizados, tal como indica el enunciado.",
+        "Este resultado grava directamente el margen de caja e ignora el escudo de la depreciación. La base imponible debe deducir los 100.000 fiscales. Con aprovechamiento inmediato, la pérdida produce un ahorro de 5.000 y eleva el flujo operativo a 85.000."
+      ]
+    },
+    {
+      "id": "c07-q045",
+      "tema": "Definición de costo anual equivalente",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el costo anual equivalente de un activo?",
+      "opciones": [
+        "Una anualidad cuyo valor presente iguala el valor presente de sus costos relevantes.",
+        "La inversión inicial dividida por la cantidad de años, sin costo de capital.",
+        "La depreciación fiscal anual del activo.",
+        "El costo operativo del último año de vida."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo anual equivalente transforma un valor presente en una serie anual comparable. Su cálculo incorpora el costo de oportunidad del capital y la vida considerada. Puede incluir adquisición, operación, impuestos y rescate según los flujos relevantes del problema.",
+        "Dividir por años solo distribuye el monto nominal. Con tasa positiva no recupera el costo financiero de inmovilizar capital. Se requiere el factor de valor presente de una anualidad compatible.",
+        "La depreciación distribuye una base contable o fiscal. El costo anual equivalente distribuye valor económico descontado. Pueden diferir por intereses implícitos, costos operativos, impuestos y rescate.",
+        "El último costo operativo es solo una parte del flujo de vida del activo. No recupera necesariamente la inversión inicial ni otros pagos. La anualidad equivalente resume el valor presente del conjunto relevante."
+      ]
+    },
+    {
+      "id": "c07-q046",
+      "tema": "Cálculo del costo anual equivalente",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión de $21.000 dura dos años, sin costos operativos ni rescate. La tasa real es 10% y el factor de anualidad a dos años es 1,735537. ¿Cuál es el costo anual equivalente real?",
+      "opciones": [
+        "$10.500.",
+        "$21.000.",
+        "$2.100.",
+        "$12.100."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 10.500 surgen de dividir el costo por dos. Ese reparto ignora el rendimiento exigido a los fondos invertidos. A tasa positiva, el pago anual necesario debe ser mayor.",
+        "Los 21.000 son el costo inicial completo. No corresponden a cada cuota de una anualidad de dos pagos. Para distribuir su valor presente hay que dividir por el factor de anualidad.",
+        "Los 2.100 son el 10% del desembolso inicial. Remunerar intereses por sí solo no devuelve el capital. El costo anual equivalente debe cubrir ambas partes dentro de la vida útil.",
+        "Se busca una anualidad cuyo VP sea 21.000. El pago es 21.000/1,735537 = 12.100 aproximadamente. Esa cifra recupera tanto el capital como su costo de oportunidad durante dos años."
+      ]
+    },
+    {
+      "id": "c07-q047",
+      "tema": "Costo anual con operación y rescate",
+      "dificultad": "avanzada",
+      "pregunta": "Un equipo cuesta $21.000, opera dos años con pagos reales de $3.000 al cierre de cada año y se vende por $2.420 al final del año 2. Sin impuestos, tasa real 10% y factor de anualidad 1,735537. ¿Cuál es el costo anual equivalente, aproximadamente?",
+      "opciones": [
+        "$12.100,00.",
+        "$16.252,38.",
+        "$13.947,62.",
+        "$15.100,00."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 12.100 corresponden a anualizar únicamente la compra sin rescate. No incorporan los pagos operativos ni el cobro terminal. La evaluación requiere el valor presente neto de todos esos movimientos.",
+        "Esta cifra suma el rescate al costo en vez de restarlo. La reventa es una entrada que compensa parte del desembolso. Por eso reduce, y no aumenta, el costo anual equivalente.",
+        "El rescate tiene VP de 2.420/1,10² = 2.000. La inversión neta de rescate es entonces 19.000 y su anualidad es 19.000/1,735537 = 10.947,62. Sumando los 3.000 operativos anuales, el costo equivalente es 13.947,62.",
+        "Los 15.100 suman operación a la anualidad del precio completo. Falta restar el valor presente del rescate. Ese cobro recupera parte de la inversión y reduce el costo anual equivalente."
+      ]
+    },
+    {
+      "id": "c07-q048",
+      "tema": "Comparación de vidas diferentes",
+      "dificultad": "intermedia",
+      "pregunta": "Dos máquinas prestan el mismo servicio y se repetirán sin cambios reales. A tiene VP de costos $24.000 en dos años; B, $31.000 en tres años. A tasa real 10%, los factores son 1,735537 y 2,486852. ¿Cuál conviene por costo anual?",
+      "opciones": [
+        "B: porque toda máquina más duradera es preferible.",
+        "B: aproximadamente $12.465,56 anuales.",
+        "A: aproximadamente $13.828,57 anuales.",
+        "A: porque $24.000 es menor que $31.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una vida mayor no garantiza menor costo anual. También importan adquisición, operación y oportunidad del capital. B conviene aquí por el resultado numérico, no por una regla universal sobre duración.",
+        "El costo anual de A es 24.000/1,735537 = 13.828,57. El de B es 31.000/2,486852 = 12.465,56. Con servicio equivalente y reemplazos repetibles, B sostiene la necesidad a menor costo anual.",
+        "El cálculo de A es correcto, pero no su selección. B tiene un costo equivalente menor, de 12.465,56. Debe elegirse la alternativa que cubre el mismo servicio con menor costo anual comparable.",
+        "Los valores presentes cubren duraciones distintas. A requiere reemplazo antes y su menor costo total no demuestra eficiencia. La anualización hace comparable el costo por año bajo los supuestos de repetición."
+      ]
+    },
+    {
+      "id": "c07-q049",
+      "tema": "Supuestos de repetición",
+      "dificultad": "avanzada",
+      "pregunta": "Una gerente recomienda la máquina con menor costo anual equivalente porque habrá reemplazos sucesivos. ¿Qué supuesto debe revisar especialmente?",
+      "opciones": [
+        "Que los reemplazos y el servicio requerido sean comparables y que los cambios tecnológicos estén incorporados.",
+        "Que ambas máquinas tengan idéntico precio inicial.",
+        "Que la depreciación contable sea igual al costo anual equivalente.",
+        "Que la máquina de menor vida tenga necesariamente menor riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La decisión actual cambia las fechas de inversiones futuras. La comparación simple supone que se puede mantener un patrón comparable de costos y servicios. Si cambian tecnología, capacidad necesaria o costos reales futuros, hay que incorporarlo explícitamente.",
+        "El método permite justamente comparar precios y vidas distintos. No requiere igualdad de desembolso inicial. Requiere una comparación económica coherente de los servicios y reemplazos futuros.",
+        "La depreciación es una asignación contable o fiscal. No tiene por qué coincidir con una anualidad que incorpora el costo del capital. Igualarlas no valida los supuestos de sustitución futura.",
+        "Una vida menor no implica automáticamente menor riesgo. Puede adelantar inversiones y también facilitar adoptar tecnología nueva. Esos efectos deben evaluarse, no darse por garantizados."
+      ]
+    },
+    {
+      "id": "c07-q050",
+      "tema": "Activos sin reemplazo",
+      "dificultad": "avanzada",
+      "pregunta": "Una operación terminará definitivamente y ninguna de dos máquinas se reemplazará. Una puede generar un año adicional de ingresos. ¿Cómo corresponde elegir?",
+      "opciones": [
+        "Eligiendo mecánicamente el menor costo anual equivalente.",
+        "Ignorando el ingreso adicional por ocurrir después de la vida de la otra máquina.",
+        "Eligiendo siempre el menor valor presente de costos sin mirar ingresos.",
+        "Comparando los VPN completos de ingresos y costos, incluido el año adicional y los valores terminales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La regla mecánica presupone comparabilidad del servicio sostenido. Sin reemplazos y con beneficios de distinta duración, esa premisa puede fallar. El VPN completo captura el valor de las diferencias relevantes.",
+        "La duración distinta no vuelve irrelevante el ingreso adicional. Si depende de elegir una máquina, forma parte de su contribución. Debe descontarse junto con los costos que exige obtenerlo.",
+        "Minimizar costos solo es suficiente si los beneficios son equivalentes. Aquí una alternativa puede generar ingresos adicionales. Omitirlos puede llevar a elegir una máquina de menor costo pero también menor valor neto.",
+        "Aquí no hay una cadena de reemplazos que iguale automáticamente los servicios. La duración adicional puede producir beneficios económicos propios. Se deben comparar todos los flujos de cada alternativa, incluidos los ingresos y costos de ese año extra."
+      ]
+    },
+    {
+      "id": "c07-q051",
+      "tema": "Anualidad real e indexación",
+      "dificultad": "intermedia",
+      "pregunta": "El costo anual equivalente real es $10.000 en poder adquisitivo de hoy. La inflación será 10% anual y los pagos ocurren al final de cada año. ¿Cuáles son sus equivalentes nominales en los años 1 y 2?",
+      "opciones": [
+        "$11.000 y $12.000.",
+        "$9.090,91 y $8.264,46.",
+        "$11.000 y $12.100.",
+        "$10.000 y $10.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta secuencia agrega inflación simple sobre la base original. El segundo año también incorpora inflación sobre el aumento anterior. La capitalización da 10.000 × 1,10² = 12.100.",
+        "Estos montos deflactan en vez de inflar. Se usarían para convertir pagos nominales fijos a poder adquisitivo actual. Aquí se pide expresar una anualidad real constante en importes nominales futuros.",
+        "El primer pago se multiplica por 1,10. El segundo se multiplica por 1,10² porque acumula dos años de inflación. Los importes nominales de 11.000 y 12.100 preservan el mismo valor real anual de 10.000.",
+        "Mantener una cifra nominal fija con inflación reduce su poder adquisitivo. No conserva la anualidad real de 10.000. Para mantenerla debe indexarse cada pago al nivel de precios de su fecha."
+      ]
+    },
+    {
+      "id": "c07-q052",
+      "tema": "Anualidades nominales uniformes",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora anualiza los costos de máquinas de distinta vida usando cuotas nominales fijas. Al cambiar solo la inflación, se invierte la clasificación, aunque los costos reales no cambiaron. ¿Qué debe revisar?",
+      "opciones": [
+        "Debe elegir siempre la cuota nominal más baja aunque pierda poder adquisitivo más rápido.",
+        "La comparación debe hacerse con anualidades reales o nominales indexadas equivalentes, no cuotas nominales fijas de distinto perfil real.",
+        "Debe aceptar la inversión de preferencias como una mejora tecnológica automática.",
+        "Debe ignorar toda tasa de descuento y dividir los costos por años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una cuota nominal baja puede reflejar que pagos posteriores valen menos en términos reales. Esa diferencia depende además de la vida del activo. Debe compararse un costo anual de poder adquisitivo equivalente.",
+        "Una cuota nominal fija representa pagos reales decrecientes cuando hay inflación. Con vidas distintas, esa disminución produce perfiles de servicio financiero diferentes. La comparación en términos reales, o mediante su indexación nominal coherente, evita atribuir eficiencia a ese artificio.",
+        "La inflación por sí sola no mejora físicamente las máquinas. El problema aparece por comparar perfiles reales diferentes. Debe separarse un cambio de unidades monetarias de un verdadero cambio tecnológico.",
+        "Eliminar el descuento tampoco resuelve la inconsistencia. Seguiría faltando el costo de oportunidad del capital. La solución es conservar tasas y flujos compatibles y anualidades reales comparables."
+      ]
+    },
+    {
+      "id": "c07-q053",
+      "tema": "Cambio tecnológico y reemplazo",
+      "dificultad": "intermedia",
+      "pregunta": "Se espera que el costo real de nuevas generaciones de equipos baje sostenidamente. ¿Cómo puede afectar la preferencia entre uno corto y otro largo?",
+      "opciones": [
+        "Puede favorecer al de vida corta al permitir acceder antes a equipos más baratos.",
+        "Siempre favorece al de vida larga, sin importar sus costos.",
+        "No afecta porque todos los flujos se expresan en términos reales.",
+        "Permite ignorar los reemplazos posteriores a la compra inicial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una vida larga puede mantener a la empresa usando tecnología cara durante más tiempo. Una vida corta adelanta la oportunidad de aprovechar generaciones más eficientes. No es una conclusión automática: deben compararse los flujos y las decisiones futuras ajustados por ese cambio.",
+        "La duración no es una ventaja incondicional. Puede impedir acceder pronto a reducciones importantes de costos. La elección requiere incorporar el costo económico de permanecer con tecnología anterior.",
+        "Los cambios reales de costos permanecen después de quitar la inflación. Expresar flujos en términos reales no los elimina. Deben proyectarse explícitamente las mejoras tecnológicas esperadas.",
+        "El cambio tecnológico vuelve más relevantes las decisiones futuras. La compra actual modifica cuándo puede aprovecharse un equipo nuevo. Omitir los reemplazos excluiría precisamente el efecto económico que se busca analizar."
+      ]
+    },
+    {
+      "id": "c07-q054",
+      "tema": "Rentas decrecientes por tecnología",
+      "dificultad": "avanzada",
+      "pregunta": "El VP de los costos de una máquina de dos años es $18.000. La renta real del año 2 será 80% de la del año 1 por cambio tecnológico. A tasa real 10%, ¿qué renta del año 1 recupera ese VP?",
+      "opciones": [
+        "$10.371,43 aproximadamente.",
+        "$9.000,00.",
+        "$12.375,00.",
+        "$11.463,16 aproximadamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cifra surge de una anualidad real uniforme. Pero el enunciado exige que la segunda renta caiga 20%. La primera debe ser mayor para compensar esa reducción manteniendo el mismo valor presente.",
+        "Dividir 18.000 por dos ignora el descuento y la caída de renta. Las cuotas tampoco son iguales entre sí. Hay que descontar R y 0,8R en sus respectivas fechas.",
+        "Esta cifra no satisface la igualdad de valor presente indicada. La relación entre rentas debe aplicarse antes de descontar cada una. El factor correcto es 1/1,10 + 0,8/1,10², que conduce a 11.463,16.",
+        "Si la primera renta es R, la segunda es 0,8R. Se exige R/1,10 + 0,8R/1,10² = 18.000. Despejar da R = 18.000 × 1,21/1,90 = 11.463,16 aproximadamente."
+      ]
+    },
+    {
+      "id": "c07-q055",
+      "tema": "Costo anual después de impuestos",
+      "dificultad": "avanzada",
+      "pregunta": "Una máquina cuesta $100.000. El VP de sus escudos fiscales es $20.000, no hay rescate y sus costos operativos anuales son $10.000 antes de impuestos, deducibles al 30%. El factor de anualidad de su vida es 4. ¿Cuál es su costo anual equivalente después de impuestos?",
+      "opciones": [
+        "$30.000.",
+        "$22.000.",
+        "$27.000.",
+        "$35.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 30.000 anualizan correctamente la inversión neta, pero suman operación sin ajustar impuestos. El gasto deducible ahorra 3.000 por año. Por eso su costo neto es 7.000 y el total es 27.000.",
+        "Restar directamente una parte arbitraria de impuestos no reproduce los flujos indicados. Los escudos de inversión ya están expresados como valor presente. Primero se anualizan esos costos netos y luego se agregan los pagos operativos después de impuestos.",
+        "La inversión neta de escudos tiene VP de 100.000 − 20.000 = 80.000. Su anualidad es 80.000/4 = 20.000. Los costos operativos netos son 10.000 × 0,70 = 7.000, y el total anual es 27.000.",
+        "Esta cifra anualiza 100.000 completos y agrega operación bruta. Omite tanto el escudo de la inversión como la deducción del gasto operativo. Ambos reducen el costo económico después de impuestos."
+      ]
+    },
+    {
+      "id": "c07-q056",
+      "tema": "Ingresos para cubrir el costo anual",
+      "dificultad": "intermedia",
+      "pregunta": "Una modernización requiere generar $24.000 anuales después de impuestos para cubrir su costo equivalente. Los ingresos adicionales tributan al 25% y no ocasionan otros costos. ¿Qué ingreso anual antes de impuestos se necesita?",
+      "opciones": [
+        "$18.000.",
+        "$32.000.",
+        "$30.000.",
+        "$24.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Multiplicar por 0,75 reduce una cifra ya expresada después de impuestos. Aquí se busca el ingreso bruto que la produce. La operación correcta es dividir por uno menos la tasa tributaria.",
+        "Cada peso adicional de ingreso deja 0,75 después de impuestos. Por eso se necesita 24.000/0,75 = 32.000. El impuesto será 8.000 y quedarán exactamente los 24.000 requeridos.",
+        "Agregar 25% a 24.000 no compensa un impuesto calculado sobre el ingreso bruto. Sobre 30.000 se pagarían 7.500. Quedarían 22.500, menos que el costo anual requerido.",
+        "Los 24.000 son la necesidad neta de impuestos. Si se cobrara solo esa suma, quedarían 18.000 luego de tributar. Hay que elevar el ingreso bruto hasta que su remanente sea 24.000."
+      ]
+    },
+    {
+      "id": "c07-q057",
+      "tema": "Vida económica y reemplazo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué determina el momento económicamente conveniente de reemplazar una máquina que todavía funciona?",
+      "opciones": [
+        "La comparación entre conservarla y la mejor alternativa de reemplazo, con todos sus flujos relevantes.",
+        "Únicamente el día en que deja de funcionar físicamente.",
+        "La fecha en que su valor contable llega a cero.",
+        "El monto histórico que costó comprarla."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una máquina puede seguir funcionando y aun así resultar demasiado costosa frente a una alternativa. También puede convenir conservar una máquina totalmente depreciada. La decisión depende de los flujos futuros, los valores de venta y las alternativas disponibles, no solo del desgaste físico.",
+        "El reemplazo puede convenir antes de una falla definitiva. Una máquina nueva puede ahorrar recursos suficientes para justificar su compra. Esperar siempre a la inutilidad física ignora esa posibilidad económica.",
+        "La depreciación contable no mide por sí sola el costo de seguir usando el activo. Un valor contable cero puede coexistir con flujos positivos y un precio de venta relevante. Deben evaluarse esas alternativas futuras.",
+        "El precio pasado no puede modificarse con la decisión actual. Salvo sus consecuencias fiscales pendientes, es un costo hundido. El reemplazo se decide por lo que cambia desde hoy."
+      ]
+    },
+    {
+      "id": "c07-q058",
+      "tema": "Flujo anual equivalente de una máquina nueva",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina nueva cuesta $21.000 y genera $15.000 netos al final de cada uno de dos años, sin rescate ni impuestos. A tasa 10%, el factor de anualidad es 1,735537. ¿Cuál es su flujo neto anual equivalente?",
+      "opciones": [
+        "$15.000.",
+        "$12.100.",
+        "−$6.000.",
+        "$2.900."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 15.000 describen la entrada operativa, pero no recuperan por separado la inversión inicial. Para comparar con conservar un activo hay que incluir el costo de comprar la nueva máquina. Su anualización deja un beneficio neto de 2.900.",
+        "Los 12.100 son el costo anual equivalente del desembolso inicial. No constituyen el beneficio neto del activo. Se restan de los 15.000 operativos para obtener 2.900.",
+        "Restar el desembolso inicial completo de una sola entrada anual mezcla fechas y duraciones. La inversión se recupera durante dos años. Debe usarse su anualidad equivalente o calcular primero el VPN completo.",
+        "El costo anual equivalente de la inversión es 21.000/1,735537 = 12.100. Cada año la máquina aporta 15.000 antes de recuperar ese costo de capital. El flujo neto equivalente es 15.000 − 12.100 = 2.900."
+      ]
+    },
+    {
+      "id": "c07-q059",
+      "tema": "Conservar con valor de rescate",
+      "dificultad": "avanzada",
+      "pregunta": "La mejor alternativa nueva tiene beneficio neto anual equivalente de $2.000 reales y es repetible sin cambios. La máquina actual genera $5.000 el próximo año, se vende hoy por $10.000 o dentro de un año por $9.000. Sin impuestos y con tasa real 10%, ¿conviene conservarla un año más?",
+      "opciones": [
+        "Sí: basta comparar $5.000 con $2.000 e ignorar la reventa.",
+        "No: deben restarse los $10.000 actuales íntegros de los $5.000 anuales.",
+        "Sí: su aporte anual ajustado es $3.000, superior a $2.000.",
+        "No: el valor de venta cae $1.000 y cualquier caída obliga a reemplazar."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La conclusión coincide, pero el razonamiento omite un costo de oportunidad relevante. El valor de venta inmovilizado y su pérdida de valor reducen el aporte de la máquina vieja. Solo después de ese ajuste puede compararse con la anualidad neta nueva.",
+        "Los 10.000 no desaparecen completamente por esperar. Al final del año todavía se obtienen 9.000 de reventa. El costo anual combina la pérdida de valor con el rendimiento sacrificado, no todo el precio actual.",
+        "No vender hoy sacrifica 10.000 × 1,10 = 11.000 al final del año. Se recuperan 9.000 al vender después, por lo que el costo de conservar es 2.000. El aporte ajustado es 5.000 − 2.000 = 3.000, mayor que los 2.000 de la alternativa nueva.",
+        "La caída de reventa es solo una parte del costo de conservar. También se pierde rendimiento sobre el valor actual, pero existe un ingreso operativo de 5.000. Debe compararse el efecto neto, que aquí favorece esperar."
+      ]
+    },
+    {
+      "id": "c07-q060",
+      "tema": "Reparaciones, alternativas y valor contable",
+      "dificultad": "intermedia",
+      "pregunta": "Una fábrica conserva dos máquinas de distinta edad y necesita vender una. ¿Qué información debe guiar la decisión?",
+      "opciones": [
+        "Solo el costo operativo del próximo mes.",
+        "Los costos futuros de conservar cada una, reparaciones, ventas netas de impuestos y servicio que prestan.",
+        "El precio histórico más alto, para proteger la mayor inversión pasada.",
+        "Solo el valor contable más bajo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un mes no captura reparaciones importantes ni duraciones distintas. Una opción barata ahora puede exigir desembolsos elevados después. El análisis debe extenderse sobre el horizonte económico pertinente.",
+        "Vender una máquina implica renunciar a sus servicios y cobrar su valor de mercado neto. Conservarla implica sus costos, reparaciones y futuras ventas. La comparación debe incluir todas esas diferencias y verificar que ambas alternativas cubran una necesidad comparable.",
+        "El desembolso histórico ya se realizó. Conservar el activo más caro no recupera automáticamente ese dinero. Lo relevante es cuál alternativa ofrece mayor valor desde hoy.",
+        "El valor contable puede afectar impuestos al vender, pero no resume toda la decisión. Puede diferir de los precios de mercado y los costos futuros. Se necesitan flujos netos y alternativas de servicio comparables."
+      ]
+    },
+    {
+      "id": "c07-q061",
+      "tema": "Costo de capacidad ociosa",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto adelanta la compra de un sistema del final del año 4 al final del año 3. Los sistemas se reemplazan indefinidamente y su costo anual equivalente real constante es $12.100, con pagos equivalentes desde el año siguiente a cada compra. A tasa real 10%, ¿cuál es el VP del costo adicional por adelantar esa cadena?",
+      "opciones": [
+        "$8.264,46 aproximadamente.",
+        "$909,09 aproximadamente.",
+        "$12.100,00.",
+        "$0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sin proyecto, la cadena anual equivalente comienza en el año 5. Con proyecto comienza en el año 4, y los pagos posteriores coinciden. La diferencia es un pago de 12.100 en el año 4, cuyo VP es 12.100/1,10⁴ = 8.264,46.",
+        "Un costo de anticipación no se obtiene tomando arbitrariamente un interés anual. Aquí se adelanta una cadena completa de reemplazos. La diferencia entre sus anualidades perpetuas es el pago adicional del año 4.",
+        "Los 12.100 están expresados a la fecha del pago adicional. Todavía faltan cuatro años para ese momento. Para cargar el costo al VPN actual debe descontarse durante esos cuatro períodos.",
+        "La capacidad libre puede tener un costo económico aunque su uso inmediato sea barato. El proyecto adelanta la necesidad de inversión futura. Ese cambio de fecha genera una salida incremental con valor presente positivo como costo."
+      ]
+    },
+    {
+      "id": "c07-q062",
+      "tema": "Abandono al agotarse la capacidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una aplicación usa capacidad informática ociosa con costo marginal bajo, pero mantenerla obligaría después a una ampliación cara. ¿Qué alternativa adicional debe estudiar el director?",
+      "opciones": [
+        "Mantenerla indefinidamente porque el uso inicial es barato.",
+        "Asignarle todo el costo histórico del sistema actual.",
+        "Ignorar la ampliación porque todavía no se pagó.",
+        "Operarla temporalmente y abandonarla cuando se agote la capacidad, si eso mejora el VPN."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El costo marginal inicial no resume el costo total. El uso puede acelerar inversiones de gran magnitud. Ignorar ese efecto puede convertir una aparente oportunidad barata en un proyecto con VPN negativo.",
+        "El sistema actual ya fue adquirido. Su costo histórico no mide lo que ocasiona la aplicación. El costo relevante puede ser adelantar un reemplazo o desplazar otros usos valiosos.",
+        "Los pagos futuros son precisamente parte del análisis de inversión. Si dependen de mantener la aplicación, son incrementales. Que todavía no se hayan realizado no los vuelve irrelevantes.",
+        "La decisión no tiene por qué limitarse a rechazar o mantener para siempre. Una operación temporal puede aprovechar beneficios actuales sin provocar la inversión futura costosa. Deben compararse los flujos de continuar, abandonar y no iniciar, incluyendo costos de cierre pertinentes."
+      ]
+    },
+    {
+      "id": "c07-q063",
+      "tema": "Tasa impositiva efectiva por TIR",
+      "dificultad": "intermedia",
+      "pregunta": "Se define la tasa impositiva efectiva como (TIR antes de impuestos − TIR después de impuestos)/TIR antes de impuestos. Si las TIR son 20% y 15%, ¿cuánto vale?",
+      "opciones": [
+        "33,33%.",
+        "35%.",
+        "25%.",
+        "5%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir 5 entre 15 utiliza la TIR después de impuestos como denominador. No es la definición planteada. La base de comparación es el rendimiento previo al impuesto.",
+        "La tasa legal no se puede deducir simplemente de estas dos TIR. Depreciaciones y fechas de pago pueden alterar la carga efectiva. Debe aplicarse la fórmula con los datos concretos, que arroja 25%.",
+        "La reducción de TIR es 20% − 15% = 5 puntos porcentuales. Esa diferencia se divide por la TIR inicial del 20%. El cociente 5/20 es 0,25, equivalente al 25%.",
+        "Los cinco puntos miden una diferencia absoluta entre rendimientos. La definición pide expresarla en proporción del rendimiento antes de impuestos. Por eso se divide entre 20 y se obtiene 25%."
+      ]
+    },
+    {
+      "id": "c07-q064",
+      "tema": "Impuesto efectivo en una perpetuidad",
+      "dificultad": "avanzada",
+      "pregunta": "Una inversión I genera perpetuamente C por año antes de impuestos, sin depreciación ni deducción inicial. C tributa a tasa constante T. Según la comparación de TIR, ¿cuál es la tasa efectiva?",
+      "opciones": [
+        "Siempre mayor que T debido al descuento.",
+        "T, porque las TIR son C/I y C(1 − T)/I.",
+        "Cero, porque la inversión dura indefinidamente.",
+        "T/(1 − T), porque debe aumentarse el ingreso bruto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El descuento no produce automáticamente una carga relativa mayor. En esta perpetuidad, ambos rendimientos comparten la misma inversión inicial. La reducción proporcional del flujo se traduce exactamente en una reducción proporcional de la TIR.",
+        "La TIR de la perpetuidad antes de impuestos es C/I. Después de impuestos es C(1 − T)/I. Su diferencia relativa respecto de C/I es exactamente T.",
+        "La duración indefinida no elimina los impuestos sobre cada cobro. Cada flujo se reduce en la proporción T. Esa misma proporción reduce la TIR de la perpetuidad bajo los supuestos indicados.",
+        "El aumento de ingresos brutos es otro problema. Aquí se comparan rendimientos antes y después de gravar un flujo dado. Sustituirlo por una fórmula de gross-up cambia la definición solicitada."
+      ]
+    },
+    {
+      "id": "c07-q065",
+      "tema": "Deducción íntegra inmediata y TIR",
+      "dificultad": "avanzada",
+      "pregunta": "Toda la inversión inicial es deducible inmediatamente a tasa T y todos los flujos posteriores tributan a la misma tasa. La deducción se aprovecha hoy, no hay otros impuestos y existe una única TIR. ¿Qué sucede con la TIR después de impuestos?",
+      "opciones": [
+        "Es igual a la TIR antes de impuestos: todos los flujos, incluido el inicial, se multiplican por 1 − T.",
+        "Es necesariamente cero.",
+        "Cae siempre exactamente T puntos porcentuales.",
+        "Aumenta porque solo se reduce la salida inicial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La salida inicial neta es I(1 − T) y cada entrada también queda multiplicada por 1 − T. Multiplicar toda una serie de flujos por una misma constante positiva no cambia su TIR. Por esa definición, la tasa impositiva efectiva sobre el rendimiento es cero bajo estos supuestos.",
+        "El impuesto no elimina los flujos netos. Reduce proporcionalmente tanto la inversión como las entradas. La TIR se conserva aunque cambien las cantidades de efectivo que recibe y entrega el inversor.",
+        "Una tasa tributaria proporcional no se resta mecánicamente de una TIR. Aquí afecta ambos lados de la inversión por el mismo factor. El rendimiento porcentual permanece igual.",
+        "El enunciado grava también los flujos posteriores. No corresponde conservarlos íntegros mientras se aprovecha la deducción inicial. La reducción proporcional de todas las partidas evita que cambie la TIR."
+      ]
+    },
+    {
+      "id": "c07-q066",
+      "tema": "Inflación y depreciación histórica",
+      "dificultad": "avanzada",
+      "pregunta": "La depreciación fiscal se calcula sobre costos históricos sin indexación. Si sube la inflación, ¿qué distinción importa para valorar el escudo?",
+      "opciones": [
+        "La deducción nominal aumenta automáticamente con el índice de precios.",
+        "El escudo mantiene siempre el mismo valor real porque no es un pago.",
+        "La tasa efectiva debe ser idéntica a la legal cualquiera sea el calendario de deducciones.",
+        "La deducción nominal puede no cambiar, pero pierde poder adquisitivo y su valor presente puede cambiar con la tasa nominal."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El supuesto excluye la indexación de la base histórica. Aumentarla con precios crearía deducciones no permitidas en el modelo. Los flujos operativos pueden crecer nominalmente sin que lo haga esa depreciación.",
+        "El ahorro de impuestos sí tiene un efecto de caja. Aunque la depreciación no sea un pago, la reducción fiscal tiene poder adquisitivo. Un importe nominal fijo compra menos cuando suben los precios.",
+        "La carga efectiva depende del momento y alcance de las deducciones. No coincide necesariamente con la tasa legal sobre ganancias. La inflación puede alterar esa comparación al afectar flujos y escudos de manera distinta.",
+        "El régimen conserva la deducción nominal basada en el costo original. Con precios más altos, ese importe representa menos recursos reales. Además, una tasa nominal compatible distinta modifica su descuento, por lo que deben revisarse conjuntamente flujos, tasas y carga efectiva."
+      ]
+    },
+    {
+      "id": "c07-q067",
+      "tema": "Parque eólico y factor de capacidad",
+      "dificultad": "intermedia",
+      "pregunta": "Un parque tiene potencia de 100 MW, factor de capacidad de 40%, 8.000 horas anuales y precio de $50 por MWh. Sin pérdidas adicionales, ¿cuál es el ingreso anual antes de costos e impuestos?",
+      "opciones": [
+        "$2.000.",
+        "$1.600.000.",
+        "$16.000.000.",
+        "$40.000.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 2.000 surgen de multiplicar potencia, factor de capacidad y precio sin incluir las horas. Una potencia en MW debe multiplicarse por tiempo para obtener energía en MWh. Al incorporar las 8.000 horas, los ingresos ascienden a 16.000.000.",
+        "La aplicación del 40% no equivale a usar 4%. Ese error de escala reduce el ingreso diez veces. El producto correcto es 100 × 8.000 × 0,40 × 50.",
+        "La energía es potencia × horas × factor de capacidad. Así, 100 × 8.000 × 0,40 = 320.000 MWh. A 50 por MWh, los ingresos son 16.000.000 antes de gastos e impuestos.",
+        "Los 40.000.000 suponen operar a plena potencia durante todas las horas. El factor de capacidad de 40% reduce esa producción potencial. Debe aplicarse antes de multiplicar por el precio."
+      ]
+    },
+    {
+      "id": "c07-q068",
+      "tema": "Incentivos fiscales y VPN",
+      "dificultad": "intermedia",
+      "pregunta": "Un parque eólico tiene VPN negativo sin ayudas y puede recibir un crédito fiscal no gravado, plenamente aprovechable. ¿Qué condición hace que pase a tener VPN estrictamente positivo?",
+      "opciones": [
+        "El importe nominal del crédito basta para comparar, aunque se reciba muchos años después.",
+        "El valor presente del crédito supera el valor absoluto del VPN negativo inicial.",
+        "Cualquier crédito positivo es suficiente, cualquiera sea su importe.",
+        "Basta con que el crédito iguale exactamente el déficit de valor presente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El momento de aprovechamiento modifica el valor económico del crédito. Un importe futuro debe descontarse a una tasa compatible con sus características. Comparar solo su nominal con un VPN actual mezcla fechas distintas.",
+        "El incentivo agrega valor por su efecto de caja descontado. Primero debe compensar todo el déficit de valor presente del proyecto sin ayuda. Para obtener VPN estrictamente positivo, y no solo cero, ese valor debe superar el déficit.",
+        "Una ayuda pequeña puede mejorar el resultado sin cambiar su signo. Todavía quedaría parte del déficit inicial sin cubrir. La magnitud relevante es el valor presente del incentivo comparado con la pérdida de valor inicial.",
+        "La igualdad lleva exactamente a VPN cero. Esa situación satisface el umbral de equilibrio, pero no crea un excedente positivo. La pregunta exige superar ese umbral."
+      ]
+    },
+    {
+      "id": "c07-q069",
+      "tema": "Reparación y equipo adicional de un barco",
+      "dificultad": "avanzada",
+      "pregunta": "Una naviera evalúa reparar un barco y, opcionalmente, añadir automatización que ahorra costos. El equipo adicional tiene VPN incremental negativo frente a reparar sin él. La reparación sola tiene VPN positivo frente a la mejor alternativa disponible y no hay restricciones de capital. ¿Qué conviene?",
+      "opciones": [
+        "Reparar sin el equipo adicional.",
+        "Aceptar ambos porque la reparación tiene VPN positivo.",
+        "Aceptar solo la automatización porque reduce costos anuales.",
+        "Rechazar la reparación porque una mejora opcional no resulta rentable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La reparación crea valor frente a las alternativas consideradas. El equipo opcional destruye valor adicional porque sus ahorros y escudos no compensan su costo. Separar ambas decisiones permite elegir reparar sin incorporar esa mejora.",
+        "Un componente rentable no vuelve rentables todos sus agregados. El equipo adicional debe justificar sus propios recursos incrementales. Si su VPN es negativo, reduce el valor de la reparación sola.",
+        "Los ahorros anuales no bastan para evaluar una inversión. Deben compararse con el costo inicial, los impuestos y el horizonte útil. Además, el supuesto plantea la automatización como complemento de una reparación, no como sustituto independiente.",
+        "Una mejora opcional puede descartarse sin abandonar el proyecto base. La reparación sola sigue creando valor bajo los supuestos dados. Agrupar decisiones separables puede llevar a rechazar una alternativa conveniente."
+      ]
+    },
+    {
+      "id": "c07-q070",
+      "tema": "Barcos de capacidad y vida distintas",
+      "dificultad": "avanzada",
+      "pregunta": "Un barco nuevo tiene costo anual equivalente mayor que reparar el viejo, pero puede transportar más carga y generar margen adicional. ¿Qué necesita el director para decidir?",
+      "opciones": [
+        "Solo el precio de compra del nuevo.",
+        "Nada más: un costo anual mayor obliga siempre a reparar.",
+        "El costo histórico del barco viejo actualizado por inflación.",
+        "El valor de ese margen adicional y las demás diferencias de servicio, riesgo y reemplazo, medidos de manera comparable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El precio inicial omite operación, impuestos y beneficios posteriores. Tampoco refleja por sí solo el valor de la mayor capacidad. La elección requiere medir la diferencia económica completa entre alternativas.",
+        "La regla de menor costo no basta cuando los servicios difieren. Un activo más caro puede producir ingresos incrementales superiores. Es necesario valorar esos beneficios antes de decidir.",
+        "Actualizar el costo histórico no lo convierte en flujo incremental. Lo relevante del barco viejo es su servicio futuro y su valor neto de venta. El costo pasado no mide el beneficio de transportar carga adicional.",
+        "Minimizar costos presupone beneficios equivalentes. La mayor capacidad puede compensar el costo adicional y crear más valor. Deben compararse beneficios netos y costos sobre bases compatibles, incluyendo vidas, disponibilidad y futuras decisiones de reemplazo."
+      ]
+    },
+    {
+      "id": "c07-q071",
+      "tema": "Pagos escalonados y capacitación",
+      "dificultad": "intermedia",
+      "pregunta": "Un barco se paga con $100.000 hoy y $100.000 al entregarse al final del año 1. En esa entrega se pagan $20.000 de capacitación, deducibles inmediatamente al 25%. Sin otros impuestos ni flujos y con tasa 10%, ¿cuál es el VP de estos costos?",
+      "opciones": [
+        "$215.000,00.",
+        "$177.272,73.",
+        "$204.545,45.",
+        "$220.000,00."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 215.000 incorporan el efecto fiscal, pero no descuentan la segunda fecha. Un pago dentro de un año vale menos que el mismo importe hoy. Debe dividirse el costo neto futuro de 115.000 por 1,10.",
+        "Esta cifra resulta de restar la capacitación neta al pago de entrega. La capacitación es un desembolso adicional, aunque parcialmente deducible. Por eso se suman 15.000 a los 100.000 del año 1 antes de descontar.",
+        "La capacitación cuesta neto 20.000 × 0,75 = 15.000 en el año 1. En esa fecha se pagan entonces 115.000 entre entrega y capacitación neta. El VP total es 100.000 + 115.000/1,10 = 204.545,45.",
+        "Los 220.000 suman importes brutos de fechas distintas. Falta descontar los pagos del año 1 y reconocer el ahorro fiscal de capacitación. Ambos ajustes reducen el valor presente del costo."
+      ]
+    },
+    {
+      "id": "c07-q072",
+      "tema": "Sensibilidad, escenarios y punto de equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué distinción describe correctamente tres herramientas para revisar un proyecto?",
+      "opciones": [
+        "El equilibrio financiero se alcanza siempre cuando ventas igualan costos contables, sin considerar inversión ni descuento.",
+        "Sensibilidad cambia una variable; escenarios combinan supuestos coherentes; el equilibrio financiero busca el nivel que lleva el VPN a cero.",
+        "Sensibilidad cambia todas las variables a la vez; escenarios mantienen todo fijo; equilibrio exige utilidad positiva cada año.",
+        "Las tres herramientas garantizan que no habrá sorpresas y reemplazan el VPN."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cubrir costos contables puede ser insuficiente para recuperar la inversión y remunerar el capital. El umbral financiero debe incluir todos los flujos y sus fechas. Por eso puede diferir del punto de equilibrio contable.",
+        "La sensibilidad permite aislar cuánto influye una variable como precio o factor de capacidad. Los escenarios examinan conjuntos de cambios relacionados, como ventas y costos bajo menor demanda. El equilibrio financiero identifica el umbral que cubre también inversión y costo de capital, y no solo gastos contables.",
+        "La sensibilidad individual no requiere cambiar todas las variables simultáneamente. Los escenarios sí combinan hipótesis que describen situaciones alternativas. El equilibrio financiero se vincula al VPN nulo, no a exigir ganancias contables todos los años.",
+        "Estas herramientas exploran incertidumbre, pero no eliminan eventos inesperados. También dependen de la calidad de las hipótesis planteadas. Complementan el cálculo del VPN y no sustituyen el criterio de valor."
+      ]
+    },
+    {
+      "id": "c07-q073",
+      "tema": "Alquiler sacrificado y horizonte fiscal",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto ocupará un depósito que actualmente se alquila a un tercero. El equipo se venderá antes de terminar su depreciación fiscal. ¿Qué debe incorporar el director financiero?",
+      "opciones": [
+        "El alquiler neto sacrificado y la base fiscal restante al calcular el impuesto de la venta del equipo.",
+        "Solo la depreciación contable del depósito, porque ya es propio.",
+        "Cero por el depósito y un impuesto sobre todo el precio del equipo sin revisar su base.",
+        "El alquiler sacrificado como ingreso del proyecto y toda la base fiscal como pago al vender."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Usar el depósito elimina un ingreso que existiría sin el proyecto. Ese alquiler perdido, con sus efectos fiscales, es un costo de oportunidad durante los períodos afectados. La venta anticipada del equipo exige comparar su precio con la base fiscal pendiente, no suponer que ya se depreció íntegramente.",
+        "La propiedad no elimina el costo de dejar de alquilar. La depreciación contable tampoco mide el efectivo alternativo sacrificado. Deben reconocerse los alquileres netos perdidos y los impuestos relevantes del equipo.",
+        "El depósito produce un flujo alternativo real que se pierde. Además, el equipo conserva base fiscal porque se vende antes de terminar su depreciación. Ignorar ambas partidas puede distorsionar tanto la operación como el flujo terminal.",
+        "El alquiler se pierde al aceptar el proyecto, por lo que tiene signo negativo. La base fiscal no es un desembolso al vender, sino una referencia para calcular el resultado tributario. Hay que distinguir cada efecto de caja de su base de cálculo."
+      ]
+    },
+    {
+      "id": "c07-q074",
+      "tema": "Fabricar o comprar componentes",
+      "dificultad": "avanzada",
+      "pregunta": "Comprar un componente cuesta $8 por unidad y fabricarlo exige $5 de costo variable. Se necesitan 10.000 unidades anuales. Una máquina cuesta $50.000 y el proyecto dura dos años; requiere además $10.000 de capital de trabajo hoy, recuperables al cierre del año 2. Sin impuestos, rescate ni otros efectos, con tasa del 10%, ¿cuál es el VPN de fabricar en lugar de comprar?",
+      "opciones": [
+        "+$2.066,12 aproximadamente.",
+        "+$20.000,00.",
+        "−$7.933,88 aproximadamente.",
+        "+$330,58 aproximadamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado omite tanto la inversión como la recuperación de capital de trabajo. Recuperarlo al final no elimina su costo temporal. Incluir ambos movimientos reduce el VPN de 2.066,12 a 330,58.",
+        "Los 20.000 surgen de sumar sin descuento los ahorros y la recuperación y restar la inversión total. El efectivo de los años 1 y 2 vale menos que el efectivo actual. Descontar cada movimiento reduce el VPN a 330,58.",
+        "Esta cifra incluye la inversión en capital de trabajo pero omite recuperarla. El enunciado establece una entrada de 10.000 al final del segundo año. Incorporarla con su valor presente eleva el VPN a 330,58.",
+        "El ahorro anual es (8 − 5) × 10.000 = 30.000. Se pagan 60.000 hoy y se reciben 30.000 en el año 1 y 40.000 en el año 2, incluida la recuperación. El VPN es −60.000 + 30.000/1,10 + 40.000/1,10² = 330,58."
+      ]
+    },
+    {
+      "id": "c07-q075",
+      "tema": "Transporte propio y unidades de medida",
+      "dificultad": "intermedia",
+      "pregunta": "Una persona puede evitar un alquiler de $300 por viaje usando un vehículo propio. Hará 20 viajes anuales de 100 millas cada uno; usá 1 milla = 1,6 km. El costo variable propio es $0,50 por km y el seguro anual adicional es $1.000. Sin impuestos y antes de considerar compra o reventa, ¿cuál es el ahorro operativo anual?",
+      "opciones": [
+        "$4.400.",
+        "$5.000.",
+        "$3.400.",
+        "$4.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 4.400 reconocen el costo variable correcto, pero omiten el seguro adicional. Un desembolso fijo también es relevante si depende de comprar el vehículo. El seguro reduce el ahorro anual a 3.400.",
+        "Los 5.000 restan únicamente el seguro al alquiler evitado. Falta considerar combustible y mantenimiento variables por 1.600. El ahorro neto de operación debe incorporar ambos tipos de costos.",
+        "Los viajes cubren 20 × 100 × 1,6 = 3.200 km anuales. El costo variable es 1.600 y el seguro agrega 1.000, frente a 6.000 de alquiler evitado. El ahorro operativo es 6.000 − 1.600 − 1.000 = 3.400, que aún debe compararse con compra y reventa para decidir por VPN.",
+        "Este resultado trata cada milla como si fuera un kilómetro. Así calcula solo 1.000 de costo variable en lugar de 1.600. Debe unificarse la unidad de distancia antes de multiplicar por el costo por kilómetro."
+      ]
+    },
+    {
+      "id": "c07-q076",
+      "tema": "Sensibilidad al factor de capacidad",
+      "dificultad": "intermedia",
+      "pregunta": "Un parque eólico enfrenta un factor de capacidad menor al previsto. El precio por MWh y los costos operativos fijos no cambian. Sin incentivos ligados a producción ni restricciones fiscales, ¿qué debería esperar el analista?",
+      "opciones": [
+        "Un aumento automático del escudo por depreciación que compensa exactamente la menor producción.",
+        "Menos ingresos y menor VPN, con una caída porcentual del margen operativo que puede superar la de los ingresos.",
+        "La misma caída porcentual en ingresos y margen necesariamente.",
+        "Ningún cambio en el VPN porque las turbinas mantienen su potencia instalada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La depreciación depende de la base fiscal y del calendario supuesto. No aumenta automáticamente porque se produzca menos energía. El menor ingreso no crea por sí solo un escudo que compense exactamente la pérdida comercial.",
+        "Un menor factor reduce la energía efectivamente vendida, aunque la potencia instalada sea idéntica. Los costos fijos no disminuyen en la misma proporción, por lo que el margen absorbe una caída relativa mayor. Con los demás supuestos constantes, los menores flujos después de impuestos reducen el VPN.",
+        "Una reducción proporcional de ingresos no implica igual reducción proporcional del margen. Los costos fijos permanecen mientras cae la facturación. Esa rigidez amplifica el impacto relativo sobre el resultado operativo.",
+        "La potencia mide capacidad, no producción efectiva. Para vender energía también importa cuánto tiempo se utiliza esa capacidad. Un factor menor reduce las ventas y los flujos aun sin modificar las turbinas."
+      ]
+    }
+  ]
+}
