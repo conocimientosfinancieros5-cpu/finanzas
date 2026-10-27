@@ -1,0 +1,1412 @@
+{
+  "capitulo": 32,
+  "titulo": "Las fusiones",
+  "preguntas": [
+    {
+      "id": "c32-q001",
+      "tema": "Tipos de fusiones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a una fusión horizontal de una vertical y de una de conglomerado?",
+      "opciones": [
+        "La horizontal une proveedor y cliente; la vertical reúne competidores.",
+        "Cualquier compra entre empresas de países diferentes es de conglomerado.",
+        "La horizontal reúne competidores; la vertical une etapas de una cadena; el conglomerado combina negocios no relacionados.",
+        "La diferencia depende exclusivamente de si se paga con efectivo o con acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta descripción intercambia las dos categorías. Proveedor y cliente trabajan en etapas distintas de una cadena y su combinación es vertical. Los competidores en una misma actividad realizan una combinación horizontal.",
+        "La nacionalidad no define el tipo económico de fusión. Dos bancos de países distintos pueden combinarse horizontalmente. Para hablar de conglomerado se requieren negocios no relacionados.",
+        "La clasificación depende de la relación económica entre las actividades. Compartir una línea de negocios caracteriza a la horizontal, mientras que proveedor y cliente corresponden a la vertical. Los negocios sin esa vinculación forman un conglomerado.",
+        "El instrumento de pago es una dimensión distinta de la operación. Una fusión horizontal puede financiarse de cualquiera de esas maneras. La clasificación se determina por las actividades que se combinan."
+      ]
+    },
+    {
+      "id": "c32-q002",
+      "tema": "Creación de valor",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la condición para que una fusión genere una ganancia económica total?",
+      "opciones": [
+        "El valor conjunto debe superar la suma de los valores independientes.",
+        "El comprador debe aumentar sus ventas totales.",
+        "La utilidad por acción del comprador debe subir.",
+        "El precio pagado debe superar el valor en libros de la empresa objetivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La ganancia económica mide el valor adicional creado por combinar las empresas. Se calcula como VPAB menos VPA menos VPB. Una ganancia positiva no garantiza que el comprador gane, porque también importa la prima pagada.",
+        "Al sumar dos empresas, las ventas pueden aumentar sin ninguna mejora económica. También se incorporan activos y costos que ya tenían valor por separado. Lo relevante es el excedente de valor frente a mantenerlas independientes.",
+        "La utilidad por acción puede subir por una modificación del número de acciones. Ese efecto contable no prueba que mejoren los flujos económicos. La comparación correcta utiliza valores presentes de ambas alternativas.",
+        "Una prima sobre libros puede reflejar activos intangibles o sobrepago. No demuestra que la combinación genere valor adicional. La referencia económica es el valor independiente, no el patrimonio contable."
+      ]
+    },
+    {
+      "id": "c32-q003",
+      "tema": "Economías de escala",
+      "dificultad": "basica",
+      "pregunta": "¿Qué situación representa una economía de escala que podría justificar una fusión?",
+      "opciones": [
+        "Duplicar plantas y personal manteniendo exactamente el mismo costo unitario.",
+        "Subir el precio de las acciones mediante un cambio de denominación social.",
+        "Comprar una actividad sin relación para reducir exclusivamente la volatilidad contable.",
+        "Procesar más operaciones con una plataforma compartida reduce el costo promedio por operación."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Duplicar el tamaño no equivale a lograr economías de escala. Si el costo unitario permanece igual, no aparece esa fuente de ahorro. Debe existir una reducción del costo promedio al ampliar el volumen.",
+        "Un cambio de nombre no reduce recursos consumidos por unidad producida. Puede modificar percepciones sin mejorar la operación. Una economía de escala exige una ventaja económica en costos.",
+        "La menor volatilidad por diversificación no constituye por sí misma una economía de escala. Los accionistas pueden diversificarse directamente. Sería necesario identificar servicios compartidos u otra reducción real de costos.",
+        "La escala permite distribuir costos fijos entre un mayor volumen. Compartir tecnología o funciones administrativas puede reducir el costo unitario. Hay que comprobar que los ahorros superen los costos de integración necesarios para lograrlos."
+      ]
+    },
+    {
+      "id": "c32-q004",
+      "tema": "Integración vertical y tercerización",
+      "dificultad": "intermedia",
+      "pregunta": "Una automotriz evalúa comprar un proveedor que hoy compite con otros por sus contratos. ¿Qué criterio conviene usar?",
+      "opciones": [
+        "Integrar siempre, porque tener más etapas propias reduce todos los costos.",
+        "Comparar la mejor coordinación con la pérdida de disciplina competitiva y los costos internos.",
+        "Tercerizar siempre, porque la coordinación no tiene valor económico.",
+        "Comprar únicamente si el proveedor tiene más empleados que la automotriz."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La integración extrema puede generar ineficiencias. Un proveedor externo especializado puede producir más barato y enfrentar más competencia. La propiedad de una etapa no garantiza una ventaja económica.",
+        "Integrar etapas puede reducir dificultades de coordinación. También puede eliminar la presión de negociar con proveedores externos y aumentar la burocracia. La decisión exige comparar ambos efectos sobre los flujos de efectivo.",
+        "Coordinar abastecimiento, calidad y tiempos puede ser muy valioso. Algunos contratos externos resultan costosos o difíciles de administrar. La tercerización debe compararse con la integración según las condiciones concretas.",
+        "La dotación relativa no mide la conveniencia de integrar. No informa sobre costos de transacción, especialización ni incentivos. El análisis debe concentrarse en el valor incremental de ambas alternativas."
+      ]
+    },
+    {
+      "id": "c32-q005",
+      "tema": "Recursos complementarios",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene una tecnología prometedora pero carece de distribución; otra posee una red comercial ociosa. ¿Qué motivo de fusión aparece?",
+      "opciones": [
+        "Diversificación pura sin cambios operativos.",
+        "Complementariedad de recursos.",
+        "Aumento automático del valor por mayor cantidad de acciones.",
+        "Reducción garantizada de la competencia entre dos vendedores del mismo producto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "En este caso sí existe una modificación operativa relevante. La tecnología puede utilizar una red comercial que antes no tenía disponible. Eso distingue la complementariedad de una mera combinación financiera de riesgos.",
+        "Cada empresa aporta un recurso que la otra necesita para explotar una oportunidad. La combinación puede acelerar la comercialización y evitar duplicar inversiones. El beneficio debe compararse con desarrollar esos recursos internamente o contratarlos.",
+        "Emitir acciones no crea recursos productivos adicionales por sí mismo. El valor proviene de utilizar mejor la tecnología y la distribución. La cantidad de títulos sólo determina cómo se reparte la propiedad.",
+        "No se describe a dos competidores que vendan el mismo producto. Se describen capacidades diferentes que pueden utilizarse juntas. Además, restringir competencia plantea un problema distinto de las sinergias operativas."
+      ]
+    },
+    {
+      "id": "c32-q006",
+      "tema": "Fondos excedentes y agencia",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía madura genera mucho efectivo y no tiene proyectos propios con VPN positivo. Su director propone comprar cualquier empresa para evitar achicarse. ¿Qué corresponde evaluar?",
+      "opciones": [
+        "Aceptar la compra porque todo efectivo retenido tiene costo de oportunidad cero.",
+        "Elegir la empresa de mayor tamaño aunque su VPN sea negativo.",
+        "Evitar dividendos porque siempre reducen la riqueza del accionista en el monto distribuido.",
+        "Comparar adquisiciones con VPN positivo con devolver efectivo mediante dividendos o recompras."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El efectivo pertenece económicamente a los accionistas y tiene usos alternativos. Su retención implica un costo de oportunidad. La adquisición debe rendir más que la alternativa adecuada a su riesgo.",
+        "El tamaño no compensa la destrucción de valor. Una compra grande puede beneficiar la influencia del administrador y perjudicar a los propietarios. Debe exigirse una ganancia económica que supere la prima y los demás costos.",
+        "El dividendo entrega al accionista un activo que antes estaba dentro de la empresa. La caída del valor corporativo no implica una pérdida equivalente de riqueza total. Ignorando impuestos y otras fricciones, cambia la ubicación de los fondos.",
+        "Tener caja no convierte cualquier adquisición en conveniente. Los accionistas pueden recibir los fondos y reasignarlos a otras inversiones. Comprar para preservar el tamaño puede reflejar un conflicto entre los objetivos del director y los propietarios."
+      ]
+    },
+    {
+      "id": "c32-q007",
+      "tema": "Eliminación de ineficiencias",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo puede una adquisición crear valor sin combinar fábricas ni redes comerciales?",
+      "opciones": [
+        "Reemplazando una administración ineficiente y aprovechando oportunidades que ya existían.",
+        "Cambiando al dueño aunque los flujos futuros permanezcan idénticos y no exista otro efecto.",
+        "Registrando una mayor plusvalía sin cambiar decisiones ni flujos.",
+        "Pagando una prima suficientemente alta para mostrar confianza."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La adquisición puede funcionar como mecanismo de cambio de control. Un nuevo equipo puede recortar gastos inútiles o mejorar decisiones comerciales. No todas las ganancias requieren integrar operaciones previamente separadas.",
+        "Una transferencia de propiedad no crea por sí sola valor adicional. Si nada económico cambia, los valores independientes siguen siendo la referencia. Debe identificarse una mejora de gestión u otra fuente concreta de ganancia.",
+        "La plusvalía es un registro contable de la adquisición. Anotar una cifra no genera cobros futuros adicionales. El valor económico exige mejoras reales o efectos financieros justificables.",
+        "La prima es una transferencia hacia los vendedores. No constituye un beneficio operativo para el conjunto. Una prima excesiva puede hacer perder al comprador aunque la nueva administración mejore el negocio."
+      ]
+    },
+    {
+      "id": "c32-q008",
+      "tema": "Consolidación sectorial",
+      "dificultad": "intermedia",
+      "pregunta": "Después de una caída permanente de la demanda, una industria mantiene plantas redundantes. ¿Cómo podría una ola de adquisiciones mejorar la eficiencia?",
+      "opciones": [
+        "Manteniendo todas las plantas abiertas para que el balance sea más grande.",
+        "Garantizando que cada adquisición produzca un monopolio legal.",
+        "Cerrando capacidad innecesaria y liberando capital para otros usos.",
+        "Aumentando la demanda final automáticamente en el valor del precio de compra."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Conservar capacidad redundante puede perpetuar costos innecesarios. Un balance mayor no mide eficiencia ni creación de valor. La consolidación tiene sentido si mejora la utilización de recursos o libera capital.",
+        "Consolidar no elimina las restricciones a prácticas anticompetitivas. Tampoco requiere que exista un único oferente. La mejora de eficiencia y la reducción de competencia son efectos distintos que deben analizarse por separado.",
+        "Una industria puede tener demasiadas empresas y activos para su demanda. La consolidación puede acelerar la eliminación de duplicaciones. El beneficio depende del ahorro neto, incluidos los costos de cierre y reorganización.",
+        "El pago al vendedor no crea demanda de los productos de la industria. Es una transferencia de propiedad. Si la demanda permanece baja, el problema de capacidad debe resolverse mediante decisiones operativas."
+      ]
+    },
+    {
+      "id": "c32-q009",
+      "tema": "Riesgo de integración",
+      "dificultad": "intermedia",
+      "pregunta": "Dos bancos proyectan ahorros al unir sistemas informáticos incompatibles. El director financiero los incorpora completos desde el primer día. ¿Cuál es la principal objeción?",
+      "opciones": [
+        "Los ahorros tecnológicos nunca pueden ser sinergias.",
+        "La incompatibilidad obliga a valorar los ahorros a una tasa de descuento de cero.",
+        "Debe considerar el costo, el plazo y el riesgo de implementación de esos ahorros.",
+        "El costo de integración ya está necesariamente incluido en el valor independiente de cada banco."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Compartir tecnología puede reducir costos reales. El problema no es la naturaleza del ahorro, sino su viabilidad y oportunidad. Deben estimarse beneficios y costos de implementación de manera consistente.",
+        "Una tasa cero aumentaría el valor de beneficios futuros y no resolvería la incertidumbre. La incompatibilidad exige revisar flujos, plazos y riesgo. No justifica ignorar el valor del dinero en el tiempo.",
+        "Los ahorros anunciados no equivalen a flujos ya asegurados. Integrar sistemas puede provocar interrupciones, errores y gastos adicionales. El valor presente debe reflejar cuándo se obtienen los beneficios y qué recursos exige alcanzarlos.",
+        "Los gastos provocados por combinar sistemas son incrementales a la fusión. No tienen por qué existir si los bancos continúan separados. Omitirlos sobrestima la ganancia de la operación."
+      ]
+    },
+    {
+      "id": "c32-q010",
+      "tema": "Capital humano y debida diligencia",
+      "dificultad": "intermedia",
+      "pregunta": "Una adquirente compra una firma de servicios cuyo valor depende de especialistas que pueden renunciar y competir. ¿Qué debe revisar antes de fijar el precio?",
+      "opciones": [
+        "La permanencia del equipo y los pasivos ocultos que puedan reducir los flujos adquiridos.",
+        "Sólo el número de oficinas que aparecen en el balance.",
+        "La posibilidad de registrar como activo permanente a cada empleado sin su consentimiento.",
+        "únicamente el aumento de ventas del último mes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El capital humano no queda asegurado por comprar las acciones. La salida de especialistas puede eliminar clientes, conocimiento y sinergias previstas. También deben revisarse contingencias ambientales, garantías, inventarios y necesidades de renovación para evitar sobrepagar.",
+        "Las oficinas no capturan el valor de conocimientos y relaciones con clientes. Un negocio de servicios puede perder gran parte de su valor conservando todos sus inmuebles. El análisis debe abarcar los factores que sostienen sus flujos.",
+        "La adquisición no convierte a los trabajadores en activos inseparables de la firma. Sus decisiones laborales pueden cambiar después de la operación. La valoración debe considerar incentivos de permanencia y riesgo de salida.",
+        "Un dato reciente de ventas no asegura continuidad del equipo ni ausencia de obligaciones. Puede coexistir con contingencias que reduzcan el valor neto. La debida diligencia debe revisar la sostenibilidad de los flujos y los riesgos adquiridos."
+      ]
+    },
+    {
+      "id": "c32-q011",
+      "tema": "Diversificación corporativa",
+      "dificultad": "basica",
+      "pregunta": "En mercados perfectos y con libertad de inversión, ¿por qué diversificar negocios no justifica por sí solo pagar una prima?",
+      "opciones": [
+        "Porque diversificar nunca reduce el riesgo total de los flujos.",
+        "Porque el riesgo sistemático desaparece al comprar una empresa no relacionada.",
+        "Porque todos los accionistas prefieren concentrarse en una sola empresa.",
+        "Los accionistas pueden diversificar sus carteras sin que las empresas se fusionen."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La combinación de flujos imperfectamente correlacionados sí puede reducir volatilidad. Lo que no se deduce es una creación de valor para accionistas capaces de diversificarse. Se confunde un efecto estadístico con una ganancia económica adicional.",
+        "La diversificación no elimina en general el riesgo del mercado. Combinar negocios modifica la exposición según sus ponderaciones. No permite concluir que el costo de capital sea cero.",
+        "Las preferencias de cartera pueden ser distintas entre inversionistas. El argumento no requiere que todos quieran concentrarse. Requiere que puedan construir las carteras que desean sin necesitar una fusión corporativa.",
+        "Comprar títulos de distintas empresas permite combinar exposiciones directamente. La fusión no agrega un servicio de diversificación que antes fuera inaccesible. Sin cambios en flujos u otras ventajas, rige la aditividad del valor."
+      ]
+    },
+    {
+      "id": "c32-q012",
+      "tema": "Utilidad por acción y valor",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué describe el aumento artificial de utilidad por acción mediante adquisiciones con acciones?",
+      "opciones": [
+        "Toda compra con acciones eleva necesariamente el precio de cada acción.",
+        "Comprar una empresa de menor P/U puede elevar la UPA sin crear valor económico.",
+        "Una UPA creciente demuestra que la empresa combinada conserva el crecimiento previo del comprador.",
+        "La mejora artificial puede sostenerse indefinidamente sin nuevas compras."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La emisión distribuye la propiedad entre más títulos. El precio depende del valor total y del número final de acciones. No existe una regla que garantice un aumento por utilizar acciones como pago.",
+        "Una adquirente con P/U alto puede emitir relativamente pocas acciones para incorporar utilidades de otra empresa. Así aumenta la UPA aunque el valor conjunto siga siendo la suma de los valores independientes. El mercado debería ajustar el múltiplo a las nuevas perspectivas de crecimiento.",
+        "La UPA actual y la tasa futura de crecimiento son variables distintas. Incorporar un negocio maduro puede elevar la primera y reducir la segunda. Mantener el múltiplo anterior sin revisar esa combinación puede llevar a una sobrevaluación.",
+        "El mecanismo depende de incorporar utilidades mediante adquisiciones sucesivas. No sustituye el crecimiento económico de los negocios. Cuando las compras se frenan, la aparente trayectoria puede dejar de sostenerse."
+      ]
+    },
+    {
+      "id": "c32-q013",
+      "tema": "UPA después de una compra",
+      "dificultad": "intermedia",
+      "pregunta": "A tiene 100.000 acciones, precio de $60 y UPA de $3. B tiene 100.000 acciones, precio de $30 y UPA de $3. Sin sinergias ni prima, A compra B emitiendo 50.000 acciones. ¿Cuál es la UPA conjunta?",
+      "opciones": [
+        "$6.",
+        "$4.",
+        "$3.",
+        "$2."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar las UPA individuales ignora las distintas cantidades de títulos después de la operación. Deben sumarse las utilidades totales y dividirlas por las acciones finales. Ese cálculo da $600.000 dividido por 150.000, es decir, $4.",
+        "A gana $300.000 y B gana otros $300.000 por año. El total de $600.000 se divide por 150.000 acciones finales. La UPA sube a $4, aunque no se haya creado ninguna sinergia.",
+        "Mantener la UPA inicial supone que las acciones aumentan en la misma proporción que las utilidades. Aquí las utilidades se duplican y las acciones sólo crecen un 50%. Por eso la UPA final resulta de $4.",
+        "Este resultado no utiliza correctamente las utilidades incorporadas de B. Las ganancias conjuntas son $600.000 y no $300.000. Repartidas entre 150.000 títulos producen una UPA de $4."
+      ]
+    },
+    {
+      "id": "c32-q014",
+      "tema": "Múltiplo posterior y crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "A vale $6 millones, tiene 100.000 acciones y gana $300.000; B vale $3 millones y gana $300.000. A emite 50.000 acciones para adquirir B sin prima ni sinergias. ¿Qué precio y P/U corresponden después?",
+      "opciones": [
+        "Precio de $80 y P/U de 20.",
+        "Precio de $90 y P/U de 15.",
+        "Precio de $60 y P/U de 20.",
+        "Precio de $60 y P/U de 15."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta respuesta aplica a la nueva UPA el múltiplo anterior sin revisar las perspectivas combinadas. Eso crearía $3 millones de valor sin una fuente económica. Con valor aditivo, el precio queda en $60 y el P/U baja a 15.",
+        "El precio de $90 surge de dividir el valor total por sólo las acciones antiguas de A. Deben incluirse las 50.000 acciones emitidas. El precio correcto es $60 y, con UPA de $4, el P/U es 15.",
+        "El precio de $60 es correcto, pero el denominador del múltiplo cambió. La utilidad conjunta por acción es $4 y no $3. Por lo tanto, el nuevo P/U es 15.",
+        "El valor total permanece en $9 millones porque no hay sinergias. Dividirlo por 150.000 acciones da $60 por acción. Como la UPA es $4, el P/U resulta 60/4 = 15 y no conserva el 20 inicial de A."
+      ]
+    },
+    {
+      "id": "c32-q015",
+      "tema": "Dilución de UPA y decisión",
+      "dificultad": "intermedia",
+      "pregunta": "Un director rechaza una adquisición con VPN positivo porque reduce la UPA inicial. ¿Qué evaluación es correcta?",
+      "opciones": [
+        "La caída inicial de UPA no invalida por sí sola una compra que aumenta el valor para los accionistas.",
+        "Toda dilución inicial de UPA implica un VPN negativo.",
+        "El VPN sólo sirve cuando se compra maquinaria y no empresas.",
+        "Debe aceptarse cualquier compra con UPA menor porque siempre implica mayor crecimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La UPA es una medida contable de un período. Una adquisición puede incorporar inversiones o crecimiento cuyo valor aparece en flujos posteriores. El criterio económico compara la ganancia de la fusión con el costo de obtenerla.",
+        "Esta regla confunde resultados contables inmediatos con valor presente. Los flujos futuros pueden compensar ampliamente la menor UPA inicial. Debe estimarse el valor incremental completo y el precio pagado.",
+        "Comprar una empresa también es una inversión. El comprador entrega recursos a cambio de flujos y oportunidades. Por eso el VPN sigue siendo un criterio pertinente para la adquisición.",
+        "Una menor UPA tampoco garantiza una buena oportunidad. Puede reflejar sobrepago o deterioro del negocio. La decisión debe apoyarse en el VPN y no en una regla automática sobre UPA."
+      ]
+    },
+    {
+      "id": "c32-q016",
+      "tema": "Financiamiento y garantías mutuas",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos, costos de emisión ni dificultades financieras costosas, ¿por qué una menor tasa de deuda tras fusionarse no asegura una ganancia neta?",
+      "opciones": [
+        "Porque los acreedores siempre cobran la misma tasa aunque cambie el riesgo.",
+        "Porque la fusión elimina toda obligación de pagar intereses.",
+        "La mayor protección de los acreedores tiene como contrapartida una menor opción de incumplimiento de los accionistas.",
+        "Porque la tasa menor demuestra que los activos reales se volvieron más productivos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "En un mercado que valora correctamente el riesgo, la tasa exigida puede variar. Una garantía más amplia puede abaratar el financiamiento. El error está en tratar esa rebaja como ganancia neta sin considerar lo que entregan los accionistas.",
+        "La deuda continúa siendo una obligación contractual. La fusión puede mejorar su respaldo, no hacer desaparecer los pagos. La evaluación compara el valor de la protección cedida con el ahorro financiero.",
+        "La combinación permite respaldar obligaciones con los activos de ambos negocios. Eso reduce el riesgo del acreedor y puede bajar la tasa exigida. Los accionistas entregan protección adicional, por lo que la menor tasa no representa un beneficio gratuito.",
+        "El riesgo de cobro puede bajar aunque las operaciones no cambien. Las garantías mutuas explican esa posibilidad. Por eso no se debe inferir una mejora productiva sólo a partir de una tasa menor."
+      ]
+    },
+    {
+      "id": "c32-q017",
+      "tema": "Transferencia a acreedores",
+      "dificultad": "avanzada",
+      "pregunta": "Dos empresas se fusionan sorpresivamente. Sin cambios en activos ni impuestos, sus bonos existentes aumentan en conjunto $4 millones por las garantías mutuas. ¿Qué ocurre con el valor accionario total?",
+      "opciones": [
+        "Aumenta $4 millones.",
+        "No cambia porque no salió efectivo al momento de fusionarse.",
+        "Disminuye $4 millones.",
+        "Disminuye $8 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El aumento del valor de los bonos beneficia a sus tenedores. Sin una mejora de los activos, no puede sumarse además la misma ganancia al capital accionario. Los accionistas pierden $4 millones por la protección adicional concedida.",
+        "Una transferencia de valor no requiere un pago inmediato. La modificación del riesgo de las obligaciones cambia el valor de los derechos financieros. Con activos constantes, el aumento de deuda reduce el patrimonio económico.",
+        "El valor de los activos se mantiene por supuesto del ejercicio. Si la deuda pasa a valer $4 millones más, el valor residual de los accionistas baja en el mismo monto. Es una transferencia a acreedores, no creación de valor total.",
+        "Se estaría contando dos veces la misma transferencia. El incremento de la deuda es de $4 millones y debe compensarse una sola vez. El valor accionario conjunto cae exactamente ese monto."
+      ]
+    },
+    {
+      "id": "c32-q018",
+      "tema": "Ganancias financieras genuinas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué efecto financiero sí puede aportar valor a una fusión, además de una mera reducción de riesgo para acreedores?",
+      "opciones": [
+        "Ahorrar costos de emisión o permitir escudos fiscales adicionales netos de dificultades financieras.",
+        "Reducir la tasa prometida ignorando cualquier cambio en garantías.",
+        "Convertir utilidades retenidas en deuda mediante una reclasificación sin efectos fiscales.",
+        "Aumentar el valor nominal de cada bono manteniendo todos los derechos económicos iguales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Hacer menos emisiones de mayor tamaño puede ahorrar gastos reales. También puede aumentar la capacidad de endeudamiento y el valor neto de beneficios fiscales. Esas fuentes deben distinguirse de trasladar riesgo entre acreedores y accionistas.",
+        "La tasa no puede analizarse separada del riesgo que asumen los acreedores. Entregarles mayor protección tiene una contrapartida para los accionistas. Sin otra ventaja, no aparece una ganancia neta automática.",
+        "Una reclasificación puramente contable no cambia los flujos de los activos. Tampoco genera por sí sola un ahorro de recursos. Para crear valor debe existir un efecto económico o fiscal real.",
+        "Cambiar la denominación de un título no modifica lo que recibe su titular. El valor económico depende de flujos y riesgo. Una ganancia financiera requiere algo más que una etiqueta nominal distinta."
+      ]
+    },
+    {
+      "id": "c32-q019",
+      "tema": "Ganancia de la fusión",
+      "dificultad": "basica",
+      "pregunta": "A vale $120 millones y B vale $40 millones por separado. Juntas, antes de pagar a los vendedores, valen $178 millones. ¿Cuál es la ganancia económica total?",
+      "opciones": [
+        "$58 millones.",
+        "$138 millones.",
+        "$178 millones.",
+        "$18 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Restar solamente el valor de A trata a B como si no valiera nada por separado. El negocio adquirido ya aportaba $40 millones. También debe descontarse ese valor para obtener la sinergia de $18 millones.",
+        "Restar sólo el valor de B ignora que A ya pertenecía a sus accionistas. La ganancia no incluye el valor preexistente de ninguno de los negocios. Debe calcularse 178 - 120 - 40 = $18 millones.",
+        "Esta cifra es el valor bruto de la empresa combinada. Incluye los valores que ya existían antes de la fusión. La ganancia incremental exige restar los $160 millones de las empresas separadas.",
+        "La referencia independiente es 120 + 40 = $160 millones. La combinación vale $178 millones antes del pago. La diferencia de $18 millones es la ganancia total que comprador y vendedor podrán repartirse."
+      ]
+    },
+    {
+      "id": "c32-q020",
+      "tema": "Prima en efectivo y VPN",
+      "dificultad": "basica",
+      "pregunta": "B vale $40 millones independientemente. A paga $50 millones y la fusión genera $18 millones de sinergias netas. ¿Cuál es el costo económico de adquisición y el VPN para A?",
+      "opciones": [
+        "Costo de $50 millones y VPN de menos $32 millones.",
+        "Costo de $10 millones y VPN de $8 millones.",
+        "Costo de $10 millones y VPN de $18 millones.",
+        "Costo de $40 millones y VPN de menos $22 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El pago bruto compra un negocio que ya vale $40 millones. Considerarlo íntegramente un costo incremental ignora ese activo recibido. El costo económico es sólo la prima de $10 millones.",
+        "La prima es el pago de $50 millones menos el valor independiente de $40 millones. Esa prima de $10 millones es la parte de la ganancia capturada por B. A conserva los $18 millones de sinergia menos $10 millones, es decir, $8 millones.",
+        "La prima está bien calculada, pero no fue restada del beneficio para A. La ganancia total se reparte entre ambas partes. A recibe $8 millones después de entregar $10 millones de prima.",
+        "El valor independiente de B es un activo adquirido, no la prima pagada. La prima se obtiene comparándolo con los $50 millones entregados. El costo relevante es $10 millones y el VPN es $8 millones."
+      ]
+    },
+    {
+      "id": "c32-q021",
+      "tema": "Verificación de riqueza",
+      "dificultad": "intermedia",
+      "pregunta": "A vale $120 millones, incluyendo caja suficiente. B vale $40 millones y la sinergia es $18 millones. Si A paga $50 millones con esa caja, ¿cuánto vale el capital de los antiguos accionistas de A después del pago?",
+      "opciones": [
+        "$178 millones.",
+        "$128 millones.",
+        "$168 millones.",
+        "$70 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese valor corresponde a la combinación antes de pagar. Una vez entregados $50 millones a los vendedores, esa caja ya no pertenece al comprador. El patrimonio económico restante es $128 millones.",
+        "Antes del pago, el valor combinado es 120 + 40 + 18 = $178 millones. Los vendedores retiran $50 millones de caja. Quedan $128 millones para los antiguos accionistas de A, $8 millones más que al inicio.",
+        "Restar sólo la prima no refleja la salida total de caja del balance combinado. Los $178 millones incluyen tanto el negocio B como los fondos que se usarán para adquirirlo. Deben restarse los $50 millones efectivamente entregados.",
+        "Restar el pago únicamente al valor inicial de A omite lo recibido. A incorpora B y las sinergias por $58 millones. Su valor final es 120 - 50 + 40 + 18 = $128 millones."
+      ]
+    },
+    {
+      "id": "c32-q022",
+      "tema": "Rango de negociación",
+      "dificultad": "intermedia",
+      "pregunta": "B vale $60 millones y las sinergias netas son $24 millones. Sin otros costos ni alternativas, ¿qué pagos en efectivo permiten que ambos grupos de accionistas ganen estrictamente?",
+      "opciones": [
+        "Entre $0 y $24 millones.",
+        "Más de $84 millones, sin límite superior.",
+        "Exactamente $60 millones.",
+        "Más de $60 millones y menos de $84 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este rango confunde el pago total con la ganancia creada. B ya vale $60 millones antes de cualquier sinergia. Sus accionistas no ganarían vendiendo por debajo de ese valor.",
+        "Por encima de $84 millones, la prima supera los $24 millones creados. El comprador tendría un VPN negativo. Que los vendedores reciban más no garantiza que ambos lados ganen.",
+        "Con ese precio B sólo recupera su valor independiente. Toda la sinergia queda para A. La pregunta exige que ambas partes obtengan una ganancia estrictamente positiva.",
+        "B necesita recibir más de sus $60 millones independientes para ganar estrictamente. A necesita que la prima sea menor que los $24 millones de sinergias. Por eso los extremos de $60 y $84 millones quedan excluidos de la ganancia estricta de ambos."
+      ]
+    },
+    {
+      "id": "c32-q023",
+      "tema": "Perpetuidad y costos iniciales",
+      "dificultad": "intermedia",
+      "pregunta": "Una fusión permite ahorrar $6 millones anuales después de impuestos para siempre, desde el final del año 1. Integrar cuesta $12 millones hoy y la tasa adecuada es 10% anual. ¿Cuál es la sinergia neta presente?",
+      "opciones": [
+        "$48 millones.",
+        "$60 millones.",
+        "$54,55 millones.",
+        "Menos $6 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor presente de los ahorros perpetuos es 6/0,10 = $60 millones. El costo de integración ocurre hoy y se resta sin descontarlo. La sinergia neta es 60 - 12 = $48 millones.",
+        "Ese es el valor bruto de los ahorros perpetuos. Falta restar la inversión necesaria para obtenerlos. Al descontar el costo inicial de $12 millones, quedan $48 millones.",
+        "Descontar una vez más la perpetuidad desplaza indebidamente el inicio de los ahorros. El primer flujo ya está al final del año 1 y 6/0,10 lo valora hoy. Además corresponde deducir el costo inmediato de integración.",
+        "Restar el costo inicial a un solo ahorro anual ignora todos los años posteriores. Los ahorros forman una perpetuidad y deben capitalizarse. El valor correcto es $60 millones brutos y $48 millones netos."
+      ]
+    },
+    {
+      "id": "c32-q024",
+      "tema": "Ahorros finitos e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una integración ahorra $10 millones antes de impuestos al final de cada uno de los próximos dos años. La tasa impositiva es 30%, la tasa de descuento es 10% y el desembolso inicial es $2 millones sin deducción fiscal. ¿Cuál es la sinergia neta, aproximadamente?",
+      "opciones": [
+        "$15,36 millones.",
+        "$12 millones.",
+        "$10,15 millones.",
+        "$12,15 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este cálculo descuenta los $10 millones brutos de cada año y omite el impuesto. El flujo relevante es de $7 millones después de impuestos. Con ese ajuste y el desembolso inicial, el resultado es $10,15 millones.",
+        "Sumar 7 + 7 y restar 2 reconoce el impuesto, pero omite el descuento. Los dos ahorros llegan en fechas futuras distintas. Su valor presente neto es menor, aproximadamente $10,15 millones.",
+        "Cada ahorro neto es 10 × (1 - 0,30) = $7 millones. Su valor presente es 7/1,10 + 7/1,10² = $12,15 millones aproximadamente. Restar los $2 millones iniciales deja $10,15 millones.",
+        "Esta cifra representa el valor presente de los ahorros netos antes de integrar. El desembolso inicial de $2 millones también es incremental. Debe restarse para llegar a una sinergia neta de $10,15 millones."
+      ]
+    },
+    {
+      "id": "c32-q025",
+      "tema": "Sinergias demoradas",
+      "dificultad": "avanzada",
+      "pregunta": "Una fusión ahorra $5 millones netos al año perpetuamente, con el primer ahorro al final del año 3. La integración cuesta $10 millones hoy y la tasa es 10%. ¿Cuál es la sinergia neta aproximada?",
+      "opciones": [
+        "$40 millones.",
+        "$27,57 millones.",
+        "$31,32 millones.",
+        "$41,32 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado usa la perpetuidad como si empezara al final del año 1. Se omiten los dos años adicionales de espera. El valor bruto debe descontarse dos períodos antes de restar los $10 millones iniciales.",
+        "Descontar los $50 millones tres años ubica la perpetuidad en una fecha incorrecta. Su valor está un período antes del primer flujo, al final del año 2. Corresponde dividir por 1,10² y luego restar la integración.",
+        "La perpetuidad vale 5/0,10 = $50 millones al final del año 2, un período antes del primer ahorro. Traerla a hoy da 50/1,10² = $41,32 millones. Restar el costo inmediato deja $31,32 millones.",
+        "Ese es el valor presente bruto de los ahorros demorados. Todavía no considera los recursos que deben desembolsarse hoy. Al deducir $10 millones, la sinergia neta es $31,32 millones."
+      ]
+    },
+    {
+      "id": "c32-q026",
+      "tema": "Rumores y valor independiente",
+      "dificultad": "intermedia",
+      "pregunta": "B tiene 2 millones de acciones que cotizan a $30. Se estima que $5 de ese precio reflejan una probable adquisición. A ofrece $70 millones en efectivo. ¿Cuál es la prima sobre el valor independiente de B?",
+      "opciones": [
+        "$20 millones.",
+        "$10 millones.",
+        "$5 millones.",
+        "$70 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Sin la expectativa de adquisición, cada acción vale 30 - 5 = $25. El valor independiente es 2 millones × $25 = $50 millones. La prima económica es 70 - 50 = $20 millones.",
+        "Restar la capitalización observada de $60 millones ignora que ya contiene beneficios esperados de una adquisición. Esa referencia sobrestima el valor independiente. Al eliminar los rumores, la prima aumenta a $20 millones.",
+        "Los $5 son un componente por acción, no la prima total. Primero deben multiplicarse por los 2 millones de acciones para ajustar la capitalización. El valor independiente de $50 millones se compara luego con el pago de $70 millones.",
+        "El pago total incluye la adquisición de un negocio con valor propio. No todo ese desembolso es una prima. Sólo los $20 millones que exceden el valor independiente constituyen el costo económico de adquisición."
+      ]
+    },
+    {
+      "id": "c32-q027",
+      "tema": "Precio que anticipa una oferta",
+      "dificultad": "avanzada",
+      "pregunta": "Ignorá descuento y riesgo distintos de estos dos resultados: B valdrá $40 por acción sin compra y se venderá a $60 si la compra ocurre. El mercado asigna 50% de probabilidad a cada resultado. Si cotiza a $50, ¿cuál es la prima económica de pagar $60?",
+      "opciones": [
+        "$10 por acción.",
+        "$30 por acción.",
+        "$0 por acción.",
+        "$20 por acción."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La diferencia entre oferta y precio observado es sólo la prima todavía no incorporada por el mercado. La pregunta pide comparar con la continuidad independiente. Esa referencia es $40 y produce una prima de $20.",
+        "Esta cifra no compara el precio ofrecido con el valor independiente. El precio observado mezcla dos escenarios y no equivale al valor sin compra. Debe usarse la referencia de $40 y restarla de los $60 ofrecidos.",
+        "Que una oferta sea parcialmente anticipada no elimina el beneficio del vendedor frente a seguir independiente. Los accionistas reciben $60 por algo que sin compra vale $40. La ganancia económica es $20 por acción.",
+        "La cotización de $50 es el promedio ponderado de 40 y 60 con probabilidades iguales. Ya incluye $10 de expectativa de adquisición. La prima sobre el valor independiente es 60 - 40 = $20 y no la diferencia respecto de la cotización."
+      ]
+    },
+    {
+      "id": "c32-q028",
+      "tema": "Pago mediante participación",
+      "dificultad": "intermedia",
+      "pregunta": "A vale $90 millones, B vale $30 millones y las sinergias son $20 millones. Los vendedores reciben 25% de la empresa combinada. ¿Cuáles son el costo de adquisición y el VPN para los antiguos accionistas de A?",
+      "opciones": [
+        "Costo de $0 y VPN de $20 millones.",
+        "Costo de $5 millones y VPN de $15 millones.",
+        "Costo de $35 millones y VPN de menos $15 millones.",
+        "Costo de $7,5 millones y VPN de $12,5 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Valuar la participación sobre los $120 millones independientes omite las sinergias que también reciben los vendedores. Su 25% se aplica a $140 millones. Por eso capturan $5 millones de prima y A obtiene $15 millones.",
+        "La empresa conjunta vale 90 + 30 + 20 = $140 millones. Los vendedores reciben 25% de 140, es decir, $35 millones, y ganan $5 millones sobre su valor independiente. A conserva 20 - 5 = $15 millones de ganancia.",
+        "Los $35 millones son el valor bruto de la contraprestación. Debe descontarse el negocio B, que ya vale $30 millones. El costo incremental es $5 millones y el VPN del comprador es $15 millones.",
+        "Aplicar 25% únicamente al valor de B no calcula el valor de las acciones entregadas. Esas acciones representan una parte de toda la empresa conjunta. La contraprestación vale $35 millones y la prima es $5 millones."
+      ]
+    },
+    {
+      "id": "c32-q029",
+      "tema": "Acciones emitidas y denominador",
+      "dificultad": "intermedia",
+      "pregunta": "A tiene 3 millones de acciones y vale $90 millones; B vale $30 millones y las sinergias son $24 millones. A entrega 1 millón de acciones nuevas por B. ¿Cuál es el costo real de la adquisición?",
+      "opciones": [
+        "$0.",
+        "$6 millones.",
+        "$18 millones.",
+        "$36 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Multiplicar el millón emitido por el precio previo de $30 ignora el valor de la combinación. Las acciones entregadas participan de las sinergias. Deben valuarse a $36 cada una y generan una prima de $6 millones.",
+        "La empresa combinada vale 90 + 30 + 24 = $144 millones. Con 4 millones de acciones, cada una vale $36 y los vendedores reciben $36 millones. Su ganancia sobre los $30 millones independientes es $6 millones.",
+        "Dividir el valor conjunto por sólo las 3 millones de acciones antiguas produce un precio incorrecto de $48. Las acciones nuevas también participan de la propiedad. El denominador correcto es 4 millones y la prima es $6 millones.",
+        "Esta cifra es el valor de las acciones entregadas y no la prima. El comprador recibe B, que vale $30 millones independientemente. Al restar ese activo, el costo económico resulta de $6 millones."
+      ]
+    },
+    {
+      "id": "c32-q030",
+      "tema": "Participación máxima negociable",
+      "dificultad": "avanzada",
+      "pregunta": "A vale $80 millones, B vale $40 millones y la sinergia neta es $40 millones. ¿Qué participación máxima puede recibir B sin que los antiguos accionistas de A tengan VPN negativo?",
+      "opciones": [
+        "25%.",
+        "75%.",
+        "100%.",
+        "50%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ese porcentaje permite que B reciba sólo su valor independiente de $40 millones. Puede ser un extremo de negociación, pero no es el máximo compatible con que A no pierda. A puede entregar hasta $80 millones, equivalentes al 50%.",
+        "Si B recibe 75%, A conserva sólo 25% de $160 millones, es decir, $40 millones. Eso es inferior a los $80 millones que A valúa antes. El límite que evita una pérdida es 50%.",
+        "Entregar toda la empresa dejaría a los accionistas originales de A sin valor. Haber creado sinergias no hace gratuito ceder la propiedad. Para recuperar sus $80 millones deben retener al menos 50%.",
+        "El valor combinado es 80 + 40 + 40 = $160 millones. Para no perder, los antiguos accionistas de A deben conservar al menos $80 millones. Por eso pueden entregar como máximo la mitad del valor conjunto, quedando con VPN igual a cero."
+      ]
+    },
+    {
+      "id": "c32-q031",
+      "tema": "Riesgo compartido con acciones",
+      "dificultad": "avanzada",
+      "pregunta": "B recibe 30% de las acciones combinadas. Luego se descubre un pasivo de B de $10 millones que no estaba incluido en la valuación, sin efectos fiscales ni cambios de participación. ¿Cuánto pierden los antiguos accionistas de A por esa sorpresa?",
+      "opciones": [
+        "$7 millones.",
+        "$10 millones.",
+        "$3 millones.",
+        "$0."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El pasivo reduce en $10 millones el valor conjunto. Los antiguos accionistas de A conservan 70% de la empresa y absorben 70% de esa pérdida. Los vendedores, ahora accionistas del 30%, absorben los otros $3 millones.",
+        "Esta sería la exposición del comprador si los vendedores ya hubieran cobrado una suma fija y no compartieran el riesgo. Con pago accionario, ambos grupos siguen siendo propietarios. A sólo soporta su participación del 70%, equivalente a $7 millones.",
+        "Los $3 millones corresponden a la pérdida del grupo que recibe 30%. Los antiguos accionistas de A tienen la participación restante del 70%. Su pérdida es $7 millones.",
+        "Pagar con acciones no elimina el pasivo ni su impacto económico. Sólo reparte su efecto entre ambos grupos de propietarios. A mantiene una exposición de $7 millones a esa pérdida inesperada."
+      ]
+    },
+    {
+      "id": "c32-q032",
+      "tema": "Efectivo frente a acciones",
+      "dificultad": "avanzada",
+      "pregunta": "A vale $100 millones, B vale $40 millones y la sinergia es $20 millones. Sin impuestos ni costos, A puede pagar $50 millones en efectivo o entregar 30% de la empresa combinada. ¿Qué alternativa da mayor VPN a A?",
+      "opciones": [
+        "El efectivo: VPN de $20 millones frente a $12 millones con acciones.",
+        "Son equivalentes porque ambas ofertas mencionan un valor cercano a $50 millones.",
+        "Las acciones: VPN de $12 millones frente a $10 millones con efectivo.",
+        "El efectivo: VPN de $10 millones frente a menos $8 millones con acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cálculo accionario es correcto, pero al efectivo le falta descontar la prima. Pagar $50 millones por B de $40 millones transfiere $10 millones al vendedor. El VPN de A con efectivo es $10 millones y resulta menor.",
+        "Los términos exactos importan para repartir la sinergia. El 30% de $160 millones vale $48 millones y no $50 millones. La diferencia de $2 millones favorece a A en la oferta con acciones.",
+        "El valor conjunto antes del pago es $160 millones. Con acciones, B recibe $48 millones y la prima es $8 millones, dejando $12 millones a A. Con efectivo, la prima es $10 millones y A conserva sólo $10 millones.",
+        "La prima accionaria de $8 millones no es el VPN negativo del comprador. Debe restarse de los $20 millones creados. El VPN con acciones es positivo por $12 millones y supera al del efectivo."
+      ]
+    },
+    {
+      "id": "c32-q033",
+      "tema": "Costo de entregar acciones subvaluadas",
+      "dificultad": "avanzada",
+      "pregunta": "A ofrece 200.000 acciones nuevas. El mercado valora cada una en $50 después del anuncio, pero los administradores estiman justificadamente un valor intrínseco de $60. B vale $8 millones independientemente. ¿Cuál es el costo económico según esa estimación interna?",
+      "opciones": [
+        "$2 millones.",
+        "$12 millones.",
+        "$4 millones.",
+        "Menos $2 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esa es la prima calculada con el precio de mercado de $50. La pregunta pide la estimación interna de $60 por acción. Con ella la contraprestación vale $12 millones y el costo es $4 millones.",
+        "Esta cifra es el valor total interno de las acciones entregadas. Falta descontar los $8 millones de valor de B recibidos a cambio. La diferencia de $4 millones es el costo económico de adquisición.",
+        "Las acciones entregadas valen internamente 200.000 × $60 = $12 millones. Restar los $8 millones independientes de B deja una prima de $4 millones. El precio de mercado sugeriría sólo $2 millones, subestimando lo que A considera que entrega.",
+        "La subvaluación de las acciones de A no vuelve gratuita su entrega. Desde la perspectiva interna, se cede más valor que el que reconoce el mercado. La prima aumenta a $4 millones y no se convierte en un costo negativo."
+      ]
+    },
+    {
+      "id": "c32-q034",
+      "tema": "Mejora de crecimiento y valor",
+      "dificultad": "avanzada",
+      "pregunta": "B distribuirá $4 millones al final del año 1 y luego crecerá 2% anual para siempre. Su costo de capital es 10%. Una mejor administración eleva el crecimiento posterior a 5%, sin cambiar el primer flujo ni exigir inversión adicional. ¿Cuál es la ganancia de valor?",
+      "opciones": [
+        "$30 millones.",
+        "$80 millones.",
+        "$1,5 millones.",
+        "$40 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con crecimiento de 2%, B vale 4/(0,10 - 0,02) = $50 millones. Con crecimiento de 5%, vale 4/(0,10 - 0,05) = $80 millones. Como el primer flujo es el mismo y no hay inversión adicional, la mejora vale $30 millones.",
+        "Ese es el valor total del negocio con la nueva administración. No es la ganancia incremental de cambiar su gestión. Deben restarse los $50 millones que B ya valúa por separado.",
+        "Aplicar la diferencia de crecimiento directamente al valor inicial no utiliza la perpetuidad creciente. El cambio afecta todos los flujos futuros. La comparación correcta de los dos valores presentes produce $30 millones.",
+        "Esta cifra coincide con una perpetuidad sin crecimiento y omite las tasas especificadas. El valor independiente no es 4/0,10, porque ya crece 2%. Los denominadores correctos son 8% y 5%, cuya diferencia de valores es $30 millones."
+      ]
+    },
+    {
+      "id": "c32-q035",
+      "tema": "Ahorros esperados de integración",
+      "dificultad": "avanzada",
+      "pregunta": "Una fusión produce ahorros netos perpetuos de $8 millones anuales si la integración funciona, con probabilidad de 75%, y cero si falla. El primer ahorro sería al final del año 1; la tasa aplicable a los flujos esperados es 10% y la integración cuesta $15 millones hoy. ¿Cuál es la sinergia neta esperada?",
+      "opciones": [
+        "$65 millones.",
+        "$48,75 millones.",
+        "$60 millones.",
+        "$45 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado toma todos los ahorros como seguros. La probabilidad de fracaso reduce el flujo anual esperado a $6 millones. Luego debe capitalizarse y restarse el costo cierto de integración.",
+        "Multiplicar por 75% la diferencia entre $80 millones y $15 millones reduce indebidamente el costo inicial. La integración se paga también cuando falla. Debe ponderarse el beneficio y restar íntegramente los $15 millones.",
+        "Ese es el valor esperado bruto de los ahorros. Todavía falta el desembolso necesario para intentar la integración. Restar $15 millones deja una sinergia neta de $45 millones.",
+        "El ahorro anual esperado es 0,75 × 8 + 0,25 × 0 = $6 millones. Su valor presente es 6/0,10 = $60 millones. Como los $15 millones iniciales se pagan en ambos resultados, la sinergia neta esperada es $45 millones."
+      ]
+    },
+    {
+      "id": "c32-q036",
+      "tema": "Ganancias porcentuales y tamaño",
+      "dificultad": "intermedia",
+      "pregunta": "A vale $500 millones y B vale $50 millones. La ganancia neta total de $20 millones se divide en partes iguales, sin anticipación del anuncio. ¿Qué rendimiento genera esa ganancia para cada grupo?",
+      "opciones": [
+        "20% para A y 2% para B.",
+        "2% para A y 20% para B.",
+        "10% para ambos.",
+        "4% para A y 40% para B."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Se invirtieron los denominadores. La misma ganancia monetaria representa un porcentaje menor para la empresa más grande. Los resultados correctos son 2% para A y 20% para B.",
+        "Cada grupo recibe $10 millones. Para A, 10/500 = 2%; para B, 10/50 = 20%. El mayor rendimiento porcentual de B no significa que haya recibido una ganancia mayor en dinero.",
+        "Dividir equitativamente dólares no equivale a dividir equitativamente rendimientos porcentuales. Las bases de valor son diferentes. Debe dividirse la ganancia de cada grupo por su propio valor inicial.",
+        "Estos porcentajes asignan los $20 millones completos a cada grupo. Eso duplica la ganancia disponible. Como reciben $10 millones cada uno, los rendimientos son 2% y 20%."
+      ]
+    },
+    {
+      "id": "c32-q037",
+      "tema": "Flujos incrementales y valoración",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es el enfoque más sólido para estimar una sinergia cuando la empresa objetivo cotiza y no hay expectativas de compra incorporadas?",
+      "opciones": [
+        "Proyectar ventas muy altas y llamar sinergia a todo el valor resultante.",
+        "Partir de su valor independiente de mercado y valorar por separado los cambios de flujos causados por la combinación.",
+        "Usar siempre el valor en libros porque evita cualquier error de valoración.",
+        "Valorar sólo la reducción del personal y omitir costos de cierre."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El valor total del objetivo no es íntegramente un beneficio de fusionarse. Parte existe aunque no cambie de dueño. Deben identificarse los cambios atribuibles a la operación y restar lo necesario para lograrlos.",
+        "Así se distingue lo que ya vale el negocio de lo que aporta la fusión. El análisis se concentra en ahorros, ingresos adicionales e inversiones incrementales. También reduce el riesgo de presentar como sinergia un pronóstico demasiado optimista del negocio independiente.",
+        "Los registros contables no capturan necesariamente el valor económico del negocio. Pueden omitir intangibles o reflejar costos históricos. La referencia independiente y los flujos incrementales siguen siendo necesarios.",
+        "Un ahorro aislado no representa el efecto completo de la integración. Indemnizaciones, interrupciones e inversiones pueden ser relevantes. El valor incremental debe incluir todos los flujos causados por la decisión."
+      ]
+    },
+    {
+      "id": "c32-q038",
+      "tema": "Reglas simples de compra y venta",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa considera vender una división poco rentable o adquirir una compañía que cotiza por debajo de libros. ¿Qué principio debe guiar ambas decisiones?",
+      "opciones": [
+        "Vender siempre lo poco rentable porque cualquier precio recibido es una ganancia.",
+        "Comprar siempre debajo de libros porque la diferencia es una sinergia segura.",
+        "Comprar sólo industrias de alto crecimiento, sin importar la prima.",
+        "Buscar una ventaja económica específica; ni la baja rentabilidad ni el descuento sobre libros bastan por sí solos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La división puede conservar un valor positivo aun con baja rentabilidad. Venderla implica renunciar a sus flujos y activos. La comparación debe ser entre el precio recibido y el valor de conservarla.",
+        "El valor contable puede superar el valor económico de activos deteriorados. El descuento no garantiza una oportunidad. Debe analizarse si la adquirente puede generar flujos suficientes y aportar una ventaja real.",
+        "Una industria atractiva puede tener precios que ya incorporan sus buenas perspectivas. Un pago excesivo puede destruir valor. La rentabilidad para el comprador depende tanto del valor adquirido como del precio entregado.",
+        "Un comprador normalmente incorpora la mala perspectiva de una división en el precio que ofrece. Del mismo modo, un descuento sobre libros puede reflejar activos poco productivos. Se crea valor cuando cambia el uso de recursos o existe otra ventaja económica que justifique el precio."
+      ]
+    },
+    {
+      "id": "c32-q039",
+      "tema": "Competencia y maldición del ganador",
+      "dificultad": "intermedia",
+      "pregunta": "Un director entra en una subasta por una empresa sin identificar ninguna ventaja frente a los demás postores. ¿Qué riesgo debería considerar especialmente?",
+      "opciones": [
+        "Ganar porque sobreestimó el valor y terminó ofreciendo una prima que absorbe su ganancia.",
+        "Que perder la subasta destruya necesariamente más valor que cualquier sobrepago.",
+        "Que la oferta más alta pruebe automáticamente que sus estimaciones son mejores.",
+        "Que toda subasta elimine los beneficios que reciben los accionistas vendedores."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La competencia empuja una mayor parte de las sinergias hacia los vendedores. Sin una ventaja propia, una oferta muy superior puede reflejar optimismo excesivo. Conviene fijar un límite apoyado en el valor específico para la adquirente.",
+        "Perder puede implicar costos de análisis, pero evita asumir un precio excesivo. Ganar no es el objetivo económico por sí mismo. La adquisición sólo conviene si deja un VPN aceptable para los accionistas.",
+        "Una oferta alta puede surgir de errores y no de información superior. El precio ganador no valida la estimación. Debe existir una fuente concreta que explique por qué el objetivo vale más para ese comprador.",
+        "La rivalidad entre compradores suele favorecer al vendedor. Las ofertas crecientes trasladan hacia él una mayor parte del excedente. El riesgo de sobrepago recae principalmente en quien gana con una valoración excesiva."
+      ]
+    },
+    {
+      "id": "c32-q040",
+      "tema": "Subvaluación y compra de control",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa cree, con información obtenida legalmente, que otra cotiza por debajo de su valor independiente. No identifica mejoras operativas. ¿Por qué eso no obliga a adquirir el control?",
+      "opciones": [
+        "Porque una empresa barata no puede generar ninguna ganancia a quien la compra.",
+        "Porque el valor de mercado y el valor independiente siempre son iguales por definición.",
+        "Puede evaluar una inversión pasiva sin pagar una prima de control ni afrontar integración.",
+        "Porque cualquier acción comprada en bolsa exige integrar todos los activos y pasivos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Si la subvaluación es real, adquirir a menor precio puede beneficiar al comprador. Esa ganancia no proviene necesariamente de la combinación de operaciones. La cuestión es si tomar el control agrega algo frente a una tenencia pasiva.",
+        "Son conceptos distintos aunque frecuentemente se aproximen. Los precios pueden incorporar rumores de adquisición o estimaciones diferentes sobre los flujos. La decisión exige separar valor independiente, posible error de precio y sinergias.",
+        "Detectar una posible subvaluación es distinto de crear sinergias. Comprar acciones puede permitir participar de una corrección de precio sin fusionar las empresas. Además, debe cuestionarse la estimación porque identificar errores de mercado de manera confiable es difícil.",
+        "Una inversión minoritaria no equivale a una fusión legal. El inversor puede mantener una participación financiera sin administrar el negocio. Por eso el control debe justificarse con beneficios adicionales y sus costos correspondientes."
+      ]
+    },
+    {
+      "id": "c32-q041",
+      "tema": "Información asimétrica y forma de pago",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué señal pueden interpretar los vendedores cuando una adquirente insiste en pagar con sus propias acciones?",
+      "opciones": [
+        "Que las acciones están necesariamente subvaluadas y por eso conviene entregarlas.",
+        "Que pagar con acciones elimina toda posibilidad de sobrepago.",
+        "Que sus administradores podrían considerar que esas acciones están sobrevaluadas.",
+        "Que la elección del instrumento carece de contenido informativo para el mercado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Entregar acciones subvaluadas cede más valor económico del que reconoce su cotización. Un administrador optimista tendería a preferir efectivo, si las demás condiciones lo permiten. La insistencia en acciones puede generar una señal en sentido contrario.",
+        "Las acciones también tienen valor y pueden entregarse en exceso. La participación cedida determina cómo se reparte la empresa combinada. La forma de pago modifica riesgos e información, pero no garantiza un precio conveniente.",
+        "Los administradores pueden conocer mejor que el mercado las perspectivas de su empresa. Si creen que las acciones son caras, emitirlas resulta relativamente atractivo. Los vendedores anticipan ese incentivo y pueden exigir mejores términos o revisar su valoración.",
+        "La elección puede revelar qué piensan los administradores sobre sus propias acciones. Los inversionistas conocen ese incentivo y pueden ajustar sus precios. Esto ayuda a interpretar reacciones diferentes ante anuncios en efectivo y en acciones."
+      ]
+    },
+    {
+      "id": "c32-q042",
+      "tema": "Reacción del precio del comprador",
+      "dificultad": "avanzada",
+      "pregunta": "Tras anunciar una compra, cae la acción del adquirente. ¿Cuál es la interpretación más rigurosa?",
+      "opciones": [
+        "Puede reflejar sobrepago o sinergias poco creíbles, pero también información negativa sobre el negocio propio.",
+        "Demuestra sin ambigüedad que las operaciones combinadas perderán dinero.",
+        "Es irrelevante porque los precios no pueden incorporar expectativas de adquisiciones.",
+        "Prueba que los vendedores también perdieron exactamente el mismo porcentaje."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El anuncio comunica tanto una inversión como información sobre la empresa que la realiza. Comprar capacidad existente podría señalar que las oportunidades de crecimiento orgánico son débiles. Por eso una caída aislada no identifica con certeza la causa ni prueba por sí sola destrucción operativa.",
+        "El precio refleja cambios en expectativas de valor, no sólo resultados operativos inmediatos. Puede reaccionar a la prima, la forma de pago o información sobre crecimiento. No permite deducir por sí solo una pérdida contable futura.",
+        "Los inversionistas valoran noticias que afectan flujos y riesgo. Una adquisición es justamente una de esas noticias. La reacción es informativa, aunque su interpretación requiera distinguir varios canales posibles.",
+        "Las ganancias de compradores y vendedores pueden tener signos y porcentajes diferentes. La prima puede favorecer al vendedor aun si el comprador pierde. También importan los tamaños relativos de las empresas."
+      ]
+    },
+    {
+      "id": "c32-q043",
+      "tema": "Control corporativo y agencia",
+      "dificultad": "basica",
+      "pregunta": "¿Qué función cumple el mercado de control corporativo?",
+      "opciones": [
+        "Garantiza a los directores actuales conservar sus puestos sin importar el desempeño.",
+        "Se limita a intercambiar acciones minoritarias sin poder de decisión.",
+        "Sólo existe cuando el Estado compra empresas privadas.",
+        "Facilita cambios de propietarios o administradores cuando pueden mejorar el uso de los recursos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La posibilidad de reemplazo es precisamente una fuerza disciplinaria. Los administradores no poseen un derecho económico incondicional a conservar el control. La amenaza de cambios puede incentivar un uso más eficiente de los recursos.",
+        "Las transacciones minoritarias pueden no alterar la administración. El mercado de control se ocupa de quién puede dirigir el uso de los activos. Por eso incluye mecanismos capaces de cambiar consejos, gerentes o propietarios dominantes.",
+        "El mercado de control comprende muchas transacciones entre actores privados. Una privatización implica además el movimiento de propiedad estatal hacia el sector privado. La compra estatal no define el conjunto de estos mecanismos.",
+        "La separación entre propiedad y gestión puede generar decisiones contrarias al interés de los accionistas. Una lucha de poderes, una adquisición o una compra apalancada pueden cambiar quién controla la empresa. También forman parte del panorama de reorganización las escisiones, desinversiones y privatizaciones."
+      ]
+    },
+    {
+      "id": "c32-q044",
+      "tema": "Formas de adquisición",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia básica existe entre comprar activos y comprar acciones de una empresa?",
+      "opciones": [
+        "En ambas operaciones el pago se entrega obligatoriamente a los directores en forma personal.",
+        "En la compra de activos el pago lo recibe la empresa vendedora; en la compra de acciones lo reciben los accionistas que venden.",
+        "Comprar acciones siempre excluye cualquier exposición económica a pasivos de la empresa.",
+        "Comprar activos no exige identificar ni transferir los bienes adquiridos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los directores no son los destinatarios económicos por el solo hecho de administrar. La contraprestación corresponde al propietario de los activos o títulos vendidos. Confundir ambos planos desconoce la separación entre empresa, accionistas y administradores.",
+        "Una compra de activos requiere transferir la propiedad de los bienes incluidos. La compra de acciones transfiere títulos de propiedad del negocio. Una fusión legal, a su vez, combina activos y pasivos según su estructura y aprobaciones correspondientes.",
+        "El valor de las acciones es residual después de las obligaciones del negocio. Aunque cambien los titulares, los pasivos siguen afectando su valor. La revisión de contingencias continúa siendo relevante.",
+        "La compra de activos requiere definir qué se vende y formalizar las transferencias pertinentes. Esa tarea puede hacerla administrativamente distinta de adquirir títulos. No se obtiene la propiedad de cada activo simplemente por anunciar la intención de comprarlo."
+      ]
+    },
+    {
+      "id": "c32-q045",
+      "tema": "Competencia y oposición política",
+      "dificultad": "intermedia",
+      "pregunta": "Una fusión ofrece sinergias privadas importantes. ¿Qué afirmación describe correctamente los obstáculos externos que puede enfrentar?",
+      "opciones": [
+        "Si los accionistas de ambas empresas ganan, ninguna autoridad puede objetarla.",
+        "Puede ser objetada por efectos sobre la competencia o por oposición política, incluso en distintas jurisdicciones.",
+        "La aprobación del país de origen impide que otro país revise sus efectos locales.",
+        "La oposición política sólo puede existir si ya se probó judicialmente un monopolio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El interés de los accionistas no agota los efectos de una fusión. Consumidores y otros actores pueden verse perjudicados por menor competencia. Por eso las ganancias privadas no garantizan autorización.",
+        "Un beneficio para los accionistas no elimina preocupaciones sobre el poder de mercado. Las operaciones internacionales pueden requerir revisión en más de un país. También pueden aparecer objeciones políticas por propiedad extranjera sin que sean idénticas al análisis de competencia.",
+        "Una operación puede afectar mercados de varias jurisdicciones. Cada revisión puede plantear obstáculos propios. La adquirente debe considerar esas restricciones al estimar plazos, costos y factibilidad.",
+        "La resistencia política puede surgir por motivos estratégicos o nacionalistas. No necesita coincidir con una conclusión formal sobre competencia. Confundir ambos planos subestima los riesgos de ejecución."
+      ]
+    },
+    {
+      "id": "c32-q046",
+      "tema": "Remedios antimonopolio",
+      "dificultad": "intermedia",
+      "pregunta": "Para autorizar una compra, un regulador exige vender plantas que concentran producción en una región. ¿Cómo debería incorporarse esta condición al análisis financiero?",
+      "opciones": [
+        "Ignorarla porque toda venta de activos aumenta necesariamente el VPN por su precio bruto.",
+        "Cancelar automáticamente porque cualquier desinversión vuelve negativa una fusión.",
+        "Registrar sólo el cambio en el número de plantas y mantener todos los flujos originales.",
+        "Recalcular el valor neto incluyendo el precio de venta, los flujos perdidos y las sinergias que ya no podrían obtenerse."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Vender también implica renunciar al valor de los activos y sus flujos. El ingreso de caja no es íntegramente una ganancia. Además puede reducir las sinergias previstas de la fusión.",
+        "Una condición puede reducir beneficios sin eliminarlos por completo. También puede permitir una operación que de otro modo no se realizaría. Debe recalcularse el VPN con los términos efectivamente viables.",
+        "Los flujos dependen de los activos y operaciones que permanezcan. Mantenerlos sin revisar contradice la modificación exigida. El análisis debe actualizar tanto beneficios como costos y contraprestaciones.",
+        "La desinversión puede permitir ejecutar la operación, pero cambia su contenido económico. La caja recibida por vender plantas debe compararse con los flujos y ahorros que se abandonan. No corresponde mantener intacta la valuación de la combinación original."
+      ]
+    },
+    {
+      "id": "c32-q047",
+      "tema": "Contabilidad de compra y plusvalía",
+      "dificultad": "intermedia",
+      "pregunta": "En el esquema contable de compra, ¿qué representa la plusvalía o goodwill?",
+      "opciones": [
+        "El residual del precio de adquisición que no se asigna a activos netos identificables valorados adecuadamente.",
+        "Siempre la diferencia entre el precio y el valor contable histórico de los inmuebles.",
+        "Un ingreso de caja que el vendedor devuelve inmediatamente al comprador.",
+        "Una garantía de que las sinergias futuras ya se materializaron."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio puede superar el valor de los activos netos identificables por expectativas de beneficios y otros factores. Los intangibles identificables, como una patente, deben separarse cuando corresponde. La plusvalía residual no constituye por sí sola una prueba de que el comprador creó valor.",
+        "La asignación no se limita a inmuebles ni usa necesariamente valores históricos. Deben considerarse los activos y pasivos identificables con sus valoraciones pertinentes. Sólo después se obtiene el residual de plusvalía.",
+        "La plusvalía es una partida contable derivada del precio y su asignación. No representa un cobro adicional. Registrar ese activo no modifica por sí mismo la caja ni recupera el precio pagado.",
+        "La compra puede incorporar expectativas que luego no se cumplen. La plusvalía puede deteriorarse si su respaldo económico disminuye. Su reconocimiento no certifica el éxito de la integración."
+      ]
+    },
+    {
+      "id": "c32-q048",
+      "tema": "Deterioro de plusvalía",
+      "dificultad": "intermedia",
+      "pregunta": "En el tratamiento contable expuesto para el capítulo, una plusvalía pierde parte de su valor recuperable. ¿Qué debe distinguir el director financiero?",
+      "opciones": [
+        "El cargo obliga siempre a pagar otra vez al vendedor el importe deteriorado.",
+        "La empresa puede ignorar cualquier deterioro porque la plusvalía nunca se revisa.",
+        "El cargo contable reduce resultados, pero no es en sí una nueva salida de caja en ese momento.",
+        "Toda reducción contable crea automáticamente un ahorro fiscal por igual importe."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El deterioro no es una nueva contraprestación contractual al vendedor. Es una revisión del valor registrado. No debe confundirse el reconocimiento de una pérdida con un desembolso adicional de compra.",
+        "El esquema presentado exige revisar si la plusvalía mantiene su respaldo. Si corresponde una pérdida, el importe contable debe ajustarse. Mantenerlo por el simple hecho de haberlo pagado ocultaría el deterioro.",
+        "El deterioro reconoce que expectativas o valores que respaldaban la plusvalía disminuyeron. Puede afectar resultados y el valor contable del patrimonio. La pérdida económica puede haberse producido antes, y los efectos fiscales deben evaluarse separadamente.",
+        "Un gasto contable no equivale necesariamente a una deducción tributaria. Aun con deducibilidad, el ahorro depende de la tasa y de la posibilidad de utilizarla. Contabilidad, caja e impuestos deben analizarse por separado."
+      ]
+    },
+    {
+      "id": "c32-q049",
+      "tema": "Cálculo de plusvalía",
+      "dificultad": "intermedia",
+      "pregunta": "Una compradora paga $36 millones por todo el capital de B. Los activos identificables a valor razonable suman $45 millones y los pasivos asumidos $15 millones. Ignorá impuestos diferidos. ¿Qué plusvalía corresponde?",
+      "opciones": [
+        "Menos $9 millones.",
+        "$21 millones.",
+        "$6 millones.",
+        "$36 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Restar los activos brutos de $45 millones al precio omite los pasivos asumidos. La referencia para comprar el capital es el valor neto de activos y obligaciones. Ese importe es $30 millones y deja plusvalía positiva de $6 millones.",
+        "Restar sólo los pasivos al precio no calcula los activos netos adquiridos. Primero deben deducirse esos pasivos de los $45 millones de activos identificables. Luego se compara el resultado de $30 millones con el precio de $36 millones.",
+        "Los activos netos identificables valen 45 - 15 = $30 millones. El precio pagado por el capital es $36 millones. El residual no asignado es 36 - 30 = $6 millones de plusvalía.",
+        "No todo el precio corresponde a plusvalía. La mayor parte se asigna a activos netos identificables. Sólo los $6 millones que exceden esos activos netos quedan como residual."
+      ]
+    },
+    {
+      "id": "c32-q050",
+      "tema": "Revaluación y valor económico",
+      "dificultad": "avanzada",
+      "pregunta": "Se pagaron $36 millones por B y se habían identificado activos netos por $30 millones. Una revisión, sin nueva información sobre flujos ni efectos fiscales, eleva a $34 millones los activos netos identificables. ¿Qué cambia?",
+      "opciones": [
+        "La plusvalía baja de $6 a $2 millones; la reasignación contable no crea valor económico por sí misma.",
+        "La plusvalía sube de $6 a $10 millones y el valor económico aumenta $4 millones.",
+        "La plusvalía se mantiene en $6 millones y el precio registrado sube a $40 millones.",
+        "La plusvalía baja a $2 millones y sale caja por otros $4 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio permanece en $36 millones. Si se asignan $34 millones a activos netos identificables, quedan $2 millones de plusvalía. Como no cambian los flujos ni los impuestos, la reclasificación no aumenta por sí sola el valor de la empresa.",
+        "Al aumentar la asignación a activos identificables, el residual debe bajar. Sumar el incremento a la plusvalía duplica su efecto contable. Además, sin cambios económicos o fiscales, no hay una nueva fuente de valor.",
+        "La revisión de la asignación no modifica el precio efectivamente pagado. Mantener el residual original elevaría indebidamente el total reconocido. Con precio de $36 millones y activos netos de $34 millones, la plusvalía es $2 millones.",
+        "La reducción de plusvalía es correcta, pero no surge un pago adicional. Se cambia la distribución contable del mismo precio. Un desembolso requeriría una obligación contractual que el ejercicio no plantea."
+      ]
+    },
+    {
+      "id": "c32-q051",
+      "tema": "Ganancia de capital del vendedor",
+      "dificultad": "intermedia",
+      "pregunta": "En una venta gravable de acciones bajo el esquema simplificado del capítulo, un accionista cobra $500.000 en efectivo. Su costo fiscal es $300.000 y la tasa sobre la ganancia es 20%. ¿Cuánto impuesto paga y cuánto efectivo neto conserva?",
+      "opciones": [
+        "Impuesto de $100.000 y efectivo neto de $400.000.",
+        "Impuesto de $60.000 y efectivo neto de $440.000.",
+        "Impuesto de $0 y efectivo neto de $500.000.",
+        "Impuesto de $40.000 y efectivo neto de $460.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Aplicar 20% al precio bruto grava también la recuperación del costo fiscal. En este ejercicio sólo se grava la ganancia de $200.000. Por eso el impuesto correcto es $40.000.",
+        "Esta cuenta aplica la tasa al costo fiscal de $300.000. El costo se resta para determinar la ganancia y no es la base gravada. La ganancia de $200.000 genera $40.000 de impuesto.",
+        "La venta se definió expresamente como gravable y existe una ganancia. No corresponde aplicar el diferimiento de un intercambio accionario calificado. Debe pagarse $40.000 y conservarse $460.000 netos.",
+        "La ganancia de capital es 500.000 - 300.000 = $200.000. El impuesto es 20% de esa ganancia, es decir, $40.000. Restarlo del cobro deja $460.000 de efectivo neto."
+      ]
+    },
+    {
+      "id": "c32-q052",
+      "tema": "Base fiscal y escudo de depreciación",
+      "dificultad": "avanzada",
+      "pregunta": "Suponé una adquisición gravable que permite elevar la base fiscal de una máquina de $100.000 a $180.000. Se deprecia linealmente en los 4 años restantes, sin rescate. Con tasa impositiva de 25% y utilidades gravables suficientes, ¿cuál es el ahorro fiscal anual adicional?",
+      "opciones": [
+        "$20.000.",
+        "$5.000.",
+        "$11.250.",
+        "$80.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este es el aumento anual de la deducción, no el impuesto ahorrado. La depreciación reduce la base imponible. Su efecto en caja es la deducción adicional multiplicada por la tasa, es decir, $5.000.",
+        "La base adicional es 180.000 - 100.000 = $80.000. Repartida en 4 años genera $20.000 más de depreciación anual. Multiplicar por 25% produce un ahorro fiscal adicional de $5.000 por año.",
+        "Esta cifra es el escudo total de la depreciación nueva de $45.000 anuales. La pregunta pide sólo el incremento frente a la base anterior. Debe restarse el escudo previo de $6.250 para llegar a $5.000.",
+        "Los $80.000 son el incremento de base fiscal, no un ahorro inmediato. La base se deduce gradualmente durante 4 años. El ahorro anual adicional es $20.000 de deducción por 25%, o $5.000."
+      ]
+    },
+    {
+      "id": "c32-q053",
+      "tema": "Adquisición gravable y diferimiento",
+      "dificultad": "intermedia",
+      "pregunta": "En el marco fiscal simplificado e histórico del capítulo, ¿qué diferencia central existe entre una venta gravable por efectivo y un intercambio accionario que califica para diferimiento?",
+      "opciones": [
+        "El intercambio accionario elimina para siempre cualquier impuesto futuro sobre toda ganancia.",
+        "La primera puede realizar una ganancia imponible actual; el segundo puede diferirla hasta una venta posterior.",
+        "La venta por efectivo obliga a gravar el precio total sin restar el costo fiscal.",
+        "La forma de adquisición nunca puede afectar la depreciación futura."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El beneficio descrito es de oportunidad del reconocimiento, no una exención perpetua general. Una venta posterior puede generar impuesto. Debe distinguirse diferir una obligación de extinguirla.",
+        "El diferimiento no significa que la ganancia económica desaparezca. Significa que no se reconoce tributariamente en ese intercambio calificado. Las bases fiscales y las deducciones posteriores también importan al negociar la estructura, y no todo pago accionario califica automáticamente.",
+        "Una ganancia de capital se determina comparando lo recibido con la base fiscal aplicable. El precio bruto no equivale a la ganancia. El esquema gravable no justifica ignorar la recuperación de la inversión.",
+        "Ciertas estructuras gravables pueden permitir una nueva base fiscal de activos. Eso puede cambiar las deducciones futuras y su valor presente. El ejercicio no implica que cualquier compra de acciones produzca automáticamente ese efecto."
+      ]
+    },
+    {
+      "id": "c32-q054",
+      "tema": "Negociación del costo fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Una estructura gravable genera un impuesto inmediato al vendedor, pero permite al comprador deducciones futuras adicionales. ¿Cómo debería decidirse entre esa estructura y una alternativa con diferimiento?",
+      "opciones": [
+        "Elegir siempre la gravable porque cualquier deducción futura supera un impuesto actual.",
+        "Elegir siempre el diferimiento porque no puede existir ninguna ventaja para el comprador en la otra estructura.",
+        "Sumar los importes de depreciación futura directamente al precio máximo, sin aplicar tasa ni descuento.",
+        "Comparar el valor presente de todos los efectos fiscales y negociar su reparto en el precio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las deducciones sólo ahorran una fracción impositiva de su importe. Además, llegan en el futuro y deben descontarse. No hay garantía de que su valor compense el impuesto inmediato del vendedor.",
+        "La alternativa gravable puede modificar la base fiscal y aumentar escudos de depreciación. Esos beneficios pueden tener valor económico. La decisión requiere cuantificarlos y compararlos con los costos adicionales.",
+        "La depreciación es una deducción y no un ingreso íntegro de efectivo. Su valor depende del impuesto ahorrado y de cuándo se utiliza. Ignorar esos ajustes sobrestima el beneficio disponible para pagar al vendedor.",
+        "Un impuesto hoy y una deducción futura no se compensan por sus importes nominales. Deben considerarse tasas, fechas y posibilidad de utilizar las deducciones. Si el beneficio neto conjunto es positivo, puede existir un precio que compense al vendedor y deje una ganancia al comprador."
+      ]
+    },
+    {
+      "id": "c32-q055",
+      "tema": "Contienda de delegados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué busca una contienda de delegados o poderes de voto?",
+      "opciones": [
+        "Reunir votos para elegir un consejo distinto, que luego pueda cambiar la administración.",
+        "Comprar obligatoriamente todos los activos antes de votar un director.",
+        "Delegar al acreedor el derecho automático a quedarse con toda la empresa.",
+        "Garantizar una prima en efectivo a cada accionista que firme un poder."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El poder permite votar en nombre de otro accionista. Los disidentes intentan obtener apoyo para su lista de directores. No necesitan comprar todas las acciones para disputar el control mediante ese mecanismo.",
+        "La contienda se desarrolla mediante derechos de voto de accionistas. Comprar activos es una operación distinta. El objetivo inmediato es modificar la composición del consejo.",
+        "Los poderes tratados aquí se refieren al voto de los accionistas. No son una cesión general de activos a los acreedores. La disputa es por elegir quién supervisa y dirige la administración.",
+        "Un poder habilita a votar, pero no constituye una oferta de compra. Puede haber una disputa sobre políticas sin venta de acciones. La prima corresponde a otros términos de una adquisición, si efectivamente existe."
+      ]
+    },
+    {
+      "id": "c32-q056",
+      "tema": "Costos e incentivos de las contiendas",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué una contienda de poderes puede ser costosa y difícil aun cuando exista descontento con la administración?",
+      "opciones": [
+        "Porque sólo se permite votar a quienes administran la empresa.",
+        "Porque obtener un poder implica comprar necesariamente la acción a su valor total.",
+        "Los disidentes deben reunir apoyo y afrontar gastos, mientras la administración dispone de recursos y canales corporativos.",
+        "Porque un accionista descontento pierde por definición su derecho a votar."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los accionistas eligen al consejo mediante sus derechos de voto. Si sólo votaran los administradores, no existiría esa forma de disputa. La dificultad proviene de coordinación, recursos y reglas de elección.",
+        "Un poder de voto y una compra son actos distintos. El titular puede conservar la propiedad mientras autoriza a otro a votar. Los gastos de la contienda no equivalen automáticamente al precio de adquirir todas las acciones.",
+        "La dispersión accionaria dificulta coordinar una mayoría. Además, la administración puede defenderse usando medios de comunicación con los accionistas de los que ya dispone. Esa asimetría ayuda a explicar por qué el descontento no siempre se transforma en reemplazo efectivo.",
+        "El desacuerdo con la gestión no elimina ese derecho. Justamente puede expresarse mediante votos contrarios o apoyo a otra lista. El obstáculo es organizar apoyo suficiente para producir un cambio."
+      ]
+    },
+    {
+      "id": "c32-q057",
+      "tema": "Amenaza de disputa y acuerdos",
+      "dificultad": "intermedia",
+      "pregunta": "Un grupo minoritario amenaza con una contienda de poderes. Antes de la asamblea, la empresa acuerda recortar costos, recomprar acciones y sumar directores independientes. ¿Qué muestra el caso?",
+      "opciones": [
+        "Que los accionistas minoritarios ya poseen por definición la mayoría de votos.",
+        "Que cualquier recompra acordada garantiza un aumento permanente del valor.",
+        "La amenaza de disputar el control puede modificar políticas aun sin sustituir a la mayoría del consejo.",
+        "Que una contienda sólo produce efectos después de despedir al director general."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ser minoritario significa precisamente no tener por sí solo esa mayoría. La influencia puede surgir de negociación, presión pública o coaliciones. El acuerdo no convierte automáticamente su participación en control mayoritario.",
+        "La recompra debe evaluarse según precio, alternativas y estructura financiera. El caso sólo muestra que cambió la política de la empresa. No prueba que cada medida adoptada tenga necesariamente VPN positivo.",
+        "La administración puede negociar para evitar una confrontación costosa. Una participación minoritaria puede influir si logra apoyo o hace creíble el conflicto. El efecto disciplinario no requiere que la contienda llegue a una votación ganada.",
+        "Los cambios pueden ocurrir antes de la elección y sin despidos. La amenaza altera incentivos y fortalece posiciones negociadoras. Ese canal es parte del funcionamiento del mercado de control."
+      ]
+    },
+    {
+      "id": "c32-q058",
+      "tema": "Oferta hostil y accionistas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué hace hostil a una adquisición y cómo puede intentar concretarla el comprador?",
+      "opciones": [
+        "La oposición de la administración objetivo; el comprador puede dirigirse a los accionistas mediante una oferta de compra.",
+        "La oposición de cualquier cliente; por eso debe comprarse sin informar a nadie.",
+        "Que el precio está por debajo de libros; sólo puede resolverse mediante comprar activos.",
+        "Que el vendedor cobre acciones; toda compra en efectivo es amistosa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La hostilidad describe la actitud de la dirección del objetivo frente a la oferta. No significa que sus accionistas deban rechazarla. El comprador puede buscar una participación de control directamente, sujeto a reglas y defensas que afecten la ejecución.",
+        "Un cliente descontento no define por sí mismo una adquisición hostil. La categoría se relaciona con la resistencia de la administración objetivo. Tampoco autoriza a ignorar obligaciones de información o procedimientos aplicables.",
+        "Una oferta puede ser hostil con precios muy superiores al patrimonio contable. El valor en libros no determina el carácter de la disputa. Una oferta dirigida a los accionistas es una vía diferente de comprar activos.",
+        "La forma de pago no define la hostilidad. Una oferta en efectivo puede enfrentar fuerte oposición del directorio objetivo. Deben distinguirse la relación entre las administraciones y el instrumento ofrecido."
+      ]
+    },
+    {
+      "id": "c32-q059",
+      "tema": "Píldora de veneno",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo dificulta una adquisición una píldora que permite a los demás accionistas comprar títulos con descuento cuando un postor supera cierto umbral?",
+      "opciones": [
+        "Cancela automáticamente todas las deudas de la empresa objetivo.",
+        "Entrega al postor acciones gratis para que llegue antes a la mayoría.",
+        "Asegura que cualquier adquisición futura tenga VPN positivo.",
+        "Diluye la participación del postor al excluirlo del derecho de compra descontada."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La píldora descrita modifica derechos de suscripción de acciones. No extingue obligaciones con acreedores. Su efecto principal es dificultar la acumulación de una participación de control.",
+        "El postor queda excluido del descuento en el mecanismo planteado. Los beneficiados son los otros accionistas. Por eso la defensa diluye al adquirente en lugar de facilitarle el control.",
+        "Una defensa puede cambiar el poder de negociación o impedir ofertas. No garantiza que el precio final y las sinergias resulten convenientes. Su efecto económico debe evaluarse desde el interés de los accionistas.",
+        "Los accionistas habilitados pueden ampliar su tenencia a un precio ventajoso. Si el postor queda excluido, su porcentaje se reduce frente a la nueva emisión. Eso encarece alcanzar el control y puede forzar una negociación con el consejo."
+      ]
+    },
+    {
+      "id": "c32-q060",
+      "tema": "Consejo escalonado",
+      "dificultad": "intermedia",
+      "pregunta": "Un consejo tiene nueve miembros divididos en tres grupos iguales. Sólo se elige un grupo por asamblea anual y no hay remoción anticipada ni vacantes. Un postor parte sin directores propios. ¿Cuál es el mínimo de asambleas para obtener la mayoría si gana todos los puestos en disputa?",
+      "opciones": [
+        "Una asamblea.",
+        "Dos asambleas.",
+        "Tres asambleas.",
+        "Ninguna: basta con anunciar una oferta a los accionistas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ganar todos los puestos que se eligen no equivale a ganar todos los puestos del consejo. Sólo tres de nueve se renuevan cada año. Con esos tres no alcanza la mayoría.",
+        "En cada asamblea puede obtener tres de los nueve puestos. Tras la primera tendría tres, por debajo de los cinco necesarios para una mayoría. Tras la segunda podría tener seis y controlar el consejo.",
+        "Tres elecciones permitirían renovar todo el consejo, pero no son necesarias para dominarlo. Una mayoría requiere al menos cinco directores y no los nueve. Dos victorias consecutivas aportarían seis puestos.",
+        "La oferta no modifica por sí sola la composición del consejo. El supuesto mantiene el calendario de renovación y excluye vías anticipadas. Para lograr mayoría mediante elecciones hacen falta dos asambleas."
+      ]
+    },
+    {
+      "id": "c32-q061",
+      "tema": "Defensas estatutarias",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué descripción distingue correctamente varias defensas previstas antes de una oferta?",
+      "opciones": [
+        "La mayoría calificada obliga al comprador a pagar una tasa de impuesto mayor.",
+        "La mayoría calificada eleva los votos necesarios; el precio justo exige condiciones mínimas; la restricción de voto limita derechos; la espera demora la combinación.",
+        "La cláusula de precio justo elimina los votos del adquirente y la espera le regala acciones.",
+        "La restricción de voto y el período de espera son simplemente dos nombres del consejo escalonado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La mayoría calificada se refiere a una proporción elevada de votos para aprobar la operación. No modifica por sí misma la tasa fiscal. Su efecto es dificultar la aprobación con una mayoría ordinaria.",
+        "Estas cláusulas actúan sobre mecanismos diferentes de una adquisición. Algunas afectan la aprobación y otras los términos o el plazo. Ninguna debe confundirse automáticamente con una emisión dilutiva de acciones, que corresponde a otra clase de defensa.",
+        "El precio justo impone condiciones sobre la contraprestación. La restricción de voto es una defensa distinta y el período de espera impone una demora. Mezclar esos efectos impide entender qué obstáculo enfrenta el postor.",
+        "Un consejo escalonado distribuye las elecciones en distintos años. Restringir derechos de voto o exigir una espera opera de otras maneras. Pueden coexistir, pero no describen el mismo mecanismo."
+      ]
+    },
+    {
+      "id": "c32-q062",
+      "tema": "Bonos con veneno",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué efecto tiene una cláusula que permite a los tenedores exigir el reembolso de bonos si ocurre un cambio de control hostil?",
+      "opciones": [
+        "Obliga a los accionistas minoritarios a vender sus acciones al valor nominal de los bonos.",
+        "Convierte todos los bonos en acciones gratuitas para el postor.",
+        "Elimina cualquier necesidad de caja porque los acreedores renuncian al cobro.",
+        "Puede elevar las necesidades inmediatas de financiamiento de la adquisición y protege a los bonistas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La cláusula regula la exigibilidad de deuda. No define un precio obligatorio de venta para accionistas. Su impacto se relaciona con reembolso y financiamiento, no con un canje automático de capital.",
+        "El mecanismo descrito concede un derecho de cobro a los bonistas. No entrega participación accionaria al adquirente. Confundir reembolso con conversión cambia completamente el efecto financiero de la cláusula.",
+        "El derecho a exigir reembolso puede aumentar la caja necesaria. No implica una renuncia de acreedores. El comprador debe incorporar ese compromiso al plan de financiamiento y a su valoración.",
+        "El adquirente debe prever que una parte de la deuda sea exigible al cambiar el control. Esto puede encarecer o dificultar la operación. El derecho pertenece a acreedores y se distingue de la dilución accionaria de una píldora de veneno."
+      ]
+    },
+    {
+      "id": "c32-q063",
+      "tema": "Defensas después de la oferta",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa demandada por un postor compra activos que éste no desea, emite acciones a un tercero amigable y presenta una demanda antimonopolio. ¿Cómo se clasifican estas respuestas?",
+      "opciones": [
+        "Reestructuración de activos, reestructuración de pasivos o capital y litigio, respectivamente.",
+        "Las tres son únicamente economías de escala.",
+        "Las tres son obligatoriamente píldoras de veneno idénticas.",
+        "Son distribución de dividendos, amortización de goodwill y privatización."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Comprar activos cambia la composición operativa del objetivo. Emitir acciones a un aliado modifica la distribución de derechos financieros y de control. Litigar puede retrasar o impedir la oferta, aunque cada medida debe evaluarse por sus efectos para los accionistas.",
+        "Las acciones descriptas buscan alterar las condiciones de una adquisición. No demuestran que se reduzca el costo unitario de producción. Se trata de defensas diferentes y no de una única fuente de sinergias.",
+        "Una píldora dilutiva utiliza derechos accionarios activados por un umbral de participación. Comprar activos o presentar demandas funciona mediante canales distintos. Una emisión a un aliado tampoco equivale necesariamente a ese plan de derechos.",
+        "Ninguna de esas categorías describe las medidas planteadas. No se distribuye necesariamente caja, no se registra un deterioro ni se vende propiedad estatal. La clasificación correcta sigue los cambios en activos, financiamiento y proceso judicial."
+      ]
+    },
+    {
+      "id": "c32-q064",
+      "tema": "Paracaídas de oro",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué un pago pactado a directivos que pierden su puesto tras una adquisición podría reducir un conflicto de agencia?",
+      "opciones": [
+        "Porque garantiza que los directivos nunca puedan ser despedidos.",
+        "Porque entrega automáticamente una prima igual a todos los accionistas.",
+        "Puede disminuir su resistencia personal a una oferta conveniente para los accionistas.",
+        "Porque demuestra que toda adquisición hostil es perjudicial."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El paracaídas contempla justamente que puedan perder el puesto. Compensa la salida en lugar de impedirla. Su propósito potencial es reducir la oposición motivada por esa pérdida personal.",
+        "El pago está dirigido a los ejecutivos cubiertos por el acuerdo. No es la contraprestación general por las acciones. Puede beneficiar indirectamente a los accionistas sólo si mejora incentivos más de lo que cuesta.",
+        "Un directivo puede oponerse a una adquisición para proteger su empleo. Una compensación de salida reduce ese costo personal y puede facilitar una decisión alineada con los propietarios. El beneficio potencial debe compararse con el costo y los incentivos del acuerdo.",
+        "El acuerdo no determina la conveniencia económica de una oferta. Una adquisición resistida por los gerentes puede ser favorable a los propietarios. Deben separarse los intereses laborales de los administradores y el valor de la operación."
+      ]
+    },
+    {
+      "id": "c32-q065",
+      "tema": "Defensas y deberes del consejo",
+      "dificultad": "avanzada",
+      "pregunta": "En un caso semejante a la disputa Oracle–PeopleSoft, la mayoría de accionistas quiere aceptar una oferta, pero siguen activas una píldora, un consejo escalonado y garantías de reembolso a clientes. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "La manifestación favorable extingue automáticamente todas las obligaciones con clientes.",
+        "La resistencia del consejo prueba siempre que está buscando el mayor precio posible.",
+        "El apoyo accionario no desactiva por sí solo las defensas; pueden requerirse negociación, elecciones o intervención judicial.",
+        "El consejo tiene que aceptar cualquier primera oferta sin analizar precio ni condiciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las garantías son compromisos contractuales y no se eliminan por una preferencia accionaria. Pueden seguir afectando el costo y la viabilidad de la compra. Deben evaluarse sus condiciones y negociarse o resolverse por vías válidas.",
+        "Resistir puede mejorar el precio, pero también proteger puestos de administración. La motivación debe evaluarse según la conducta y la consideración de alternativas. No puede darse por alineado con los accionistas cualquier bloqueo.",
+        "Las defensas funcionan mediante derechos y decisiones que no desaparecen simplemente por una manifestación favorable. Las garantías a clientes pueden añadir obligaciones contingentes al precio económico. El consejo debe evaluar las ofertas con cuidado, evitando tanto bloquear por interés personal como aceptar apresuradamente.",
+        "Aceptar sin evaluación también puede perjudicar a los accionistas. El consejo debe estudiar valor, riesgos y alternativas de forma razonada. El control de su actuación no se limita a impedir resistencia excesiva."
+      ]
+    },
+    {
+      "id": "c32-q066",
+      "tema": "Distribución empírica de beneficios",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué patrón general surge de la evidencia sobre anuncios de fusiones presentada en el capítulo?",
+      "opciones": [
+        "Los objetivos suelen ganar considerablemente; el beneficio conjunto es más modesto y el comprador puede ganar poco o perder.",
+        "Los compradores capturan siempre todo el excedente y los vendedores pierden.",
+        "Ambas empresas deben tener el mismo rendimiento porcentual cuando la fusión crea valor.",
+        "Un beneficio conjunto positivo impide que algún grupo de accionistas pierda."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El vendedor recibe una prima negociada sobre su valor independiente. La competencia entre postores tiende a trasladarle una parte importante de las ganancias. Estas son regularidades promedio y no una garantía para cada operación individual.",
+        "Ese patrón invierte la evidencia destacada. Los vendedores suelen obtener ganancias importantes por las primas. La rivalidad entre compradores ayuda a explicar por qué el adquirente puede conservar poco beneficio.",
+        "Las ganancias monetarias pueden repartirse de forma desigual. Incluso con igual ganancia en dinero, los porcentajes difieren si cambian los tamaños iniciales. No existe una condición de rendimientos porcentuales idénticos.",
+        "El excedente total puede ser positivo y distribuirse mal para el comprador. Una prima superior a sus sinergias genera pérdida para sus accionistas. Crear valor y capturarlo son cuestiones distintas."
+      ]
+    },
+    {
+      "id": "c32-q067",
+      "tema": "Arbitraje de riesgo y otros participantes",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un fondo que compra acciones del objetivo después de una oferta no realiza necesariamente un arbitraje sin riesgo?",
+      "opciones": [
+        "Porque el precio ofrecido siempre se paga aunque el acuerdo se cancele.",
+        "Porque los fondos sólo pueden ganar cuando compran por encima del precio de adquisición.",
+        "Porque vender después del anuncio elimina cualquier riesgo de variación de precio para el fondo comprador.",
+        "Asume que la operación puede fracasar y que el precio caiga; a cambio ofrece liquidez a quienes prefieren salir."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Si la operación fracasa, no existe garantía general de cobrar la oferta por cada acción. El precio puede volver a reflejar el negocio independiente. Ese riesgo es central en estas estrategias.",
+        "Comprar por encima del pago esperado no garantiza rentabilidad. El fondo evalúa precio, probabilidades, plazo y eventuales ofertas alternativas. Su actividad no se define por pagar más, sino por asumir y valorar el riesgo del evento.",
+        "Quien vende transfiere su exposición al comprador. El fondo que adquiere las acciones sigue expuesto a cambios en la probabilidad y los términos de la operación. Proveer liquidez no equivale a eliminar el riesgo.",
+        "El diferencial respecto del precio ofrecido puede compensar incertidumbre y espera. Una objeción regulatoria, una ruptura del acuerdo u otra noticia puede causar pérdidas. También pueden ganar postores fallidos con tenencias previas y asesores que cobran honorarios, por razones diferentes."
+      ]
+    },
+    {
+      "id": "c32-q068",
+      "tema": "Oleadas e internacionalización",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué interpretación es consistente con las oleadas de fusiones y su evolución geográfica?",
+      "opciones": [
+        "Todas las industrias se fusionan a una tasa constante sin relación con sus transformaciones.",
+        "Se concentran en ciertos sectores y suelen acompañar cambios tecnológicos, regulatorios o de demanda; el fenómeno también se extendió fuera de los compradores tradicionales.",
+        "Las oleadas se explican por completo porque únicamente hay acciones baratas cuando la bolsa sube.",
+        "Las adquisiciones hostiles y los compradores internacionales sólo pueden provenir de Estados Unidos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La evidencia destaca concentración temporal y sectorial. Cambios en regulación o tecnología pueden impulsar varias operaciones relacionadas. Una tasa uniforme ignora justamente el comportamiento en oleadas.",
+        "Las transformaciones sectoriales pueden crear necesidades simultáneas de reorganización. Los períodos de expansión y precios bursátiles fuertes coinciden frecuentemente con mayor actividad, sin explicar por sí solos todas las oleadas. La presencia de compradores de economías emergentes y disputas europeas muestra que no es un fenómeno exclusivo estadounidense.",
+        "Las valuaciones erróneas pueden existir tanto en mercados alcistas como bajistas. No basta invocarlas para explicar toda la volatilidad de adquisiciones. Deben considerarse también fuerzas sectoriales y reconocer los límites de la explicación.",
+        "El capítulo describe una expansión geográfica del mercado de control. Empresas europeas y de economías emergentes también participan como adquirentes. La nacionalidad no define el carácter hostil ni la posibilidad económica de comprar."
+      ]
+    },
+    {
+      "id": "c32-q069",
+      "tema": "Productividad y contrafactual",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué medir los efectos de largo plazo de las fusiones requiere cautela incluso si suben los precios al anunciarse?",
+      "opciones": [
+        "Porque una suba al anunciarse demuestra que toda mejora posterior proviene causalmente de la fusión.",
+        "No se observa qué habría pasado sin la operación; además, los estudios de distintas épocas no arrojan resultados idénticos.",
+        "Porque mejorar rentabilidad sólo puede lograrse recortando investigación y desarrollo.",
+        "Porque todos los estudios históricos coinciden en que ninguna fusión mejora la productividad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La actividad económica y el sector también pueden cambiar después. Una reacción inicial favorable no identifica por sí sola la causa de resultados posteriores. El análisis necesita una referencia y distinguir expectativas de realizaciones.",
+        "El precio inicial refleja expectativas y no es una medida definitiva del desempeño realizado. Para evaluar productividad conviene comparar con referencias sectoriales y considerar el contrafactual no observado. Algunas investigaciones encontraron mejoras en ventas por activos sin reducciones extraordinarias de inversión o investigación, mientras otras fueron menos favorables.",
+        "Puede mejorarse la utilización de activos o la productividad sin sacrificar esas inversiones. La evidencia presentada incluye casos compatibles con esa posibilidad. No corresponde imponer una única explicación de toda mejora.",
+        "Las conclusiones varían según muestras y períodos. Algunos estudios reportan mejoras y otros resultados menos favorables. Esa diversidad exige cautela y no permite una afirmación universal de fracaso."
+      ]
+    },
+    {
+      "id": "c32-q070",
+      "tema": "Aditividad del valor: supuestos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué afirma el principio de aditividad para una fusión de conglomerado pura bajo mercados perfectos y oportunidades de inversión no restringidas?",
+      "opciones": [
+        "VPAB debe superar la suma porque toda menor volatilidad exige una prima.",
+        "VPAB debe ser menor porque todos los accionistas quedan obligados a conservar una cartera que no desean.",
+        "La igualdad vale aunque existan sinergias operativas positivas no reflejadas en los valores independientes.",
+        "Si no cambian los flujos operativos ni otros factores económicos, VPAB = VPA + VPB."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los inversionistas pueden conseguir diversificación sin comprar el conglomerado. No necesitan pagar a la empresa por esa combinación de riesgos. Sin otra ventaja, el menor riesgo total no rompe la aditividad.",
+        "Algunos pueden querer vender por la composición fija de la nueva empresa. Sin embargo, los inversores con alternativas equivalentes ajustarían sus carteras si apareciera un descuento injustificado. Con los supuestos indicados, ese ajuste sostiene la igualdad de valores.",
+        "La fusión pura excluye cambios operativos que creen valor adicional. Si hay sinergias positivas, el valor conjunto puede superar la suma independiente. No debe trasladarse la conclusión a una operación con supuestos distintos.",
+        "Una acción de la combinación representa una cartera de los negocios originales. Los inversionistas pueden reproducir o sustituir esa exposición mediante sus inversiones. La mera diversificación corporativa no añade valor, aunque relajar los supuestos puede exigir analizar otros efectos."
+      ]
+    },
+    {
+      "id": "c32-q071",
+      "tema": "Rendimiento de cartera equivalente",
+      "dificultad": "intermedia",
+      "pregunta": "En una fusión pura, A representa 40% del valor conjunto y exige 8% de rendimiento; B representa 60% y exige 18%. Sin cambios en riesgos ni flujos, ¿qué rendimiento esperado corresponde a una cartera equivalente?",
+      "opciones": [
+        "14%.",
+        "13%.",
+        "26%.",
+        "10%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento esperado de una cartera es el promedio ponderado de los rendimientos de sus componentes. Se calcula 0,40 × 8% + 0,60 × 18% = 3,2% + 10,8%. El resultado es 14%; no se necesita suponer que desaparece el riesgo de mercado.",
+        "El promedio simple de 8% y 18% ignora que los pesos no son iguales. B representa 60% y tiene el rendimiento mayor. Al utilizar las ponderaciones correctas se obtiene 14%.",
+        "Sumar los rendimientos individuales trata cada componente como si representara el 100% de la inversión. Una cartera distribuye su capital entre ambos. Debe ponderar 8% por 40% y 18% por 60%.",
+        "Restar los dos rendimientos mide su diferencia y no la rentabilidad de la cartera. La combinación mantiene exposición a ambos negocios. El promedio ponderado correcto es 14%."
+      ]
+    },
+    {
+      "id": "c32-q072",
+      "tema": "Descuento injustificado y carteras sustitutas",
+      "dificultad": "avanzada",
+      "pregunta": "Una fusión pura reúne negocios cuyo valor independiente total es $100 millones. Sin cambios en flujos, su valor combinado cae a $90 millones. Bajo los supuestos de mercados perfectos y carteras sustitutas de riesgo equivalente, ¿qué fuerza debería corregirlo?",
+      "opciones": [
+        "La caída prueba que la diversificación destruyó $10 millones de flujos operativos.",
+        "Los inversionistas deben vender más porque todo precio menor implica necesariamente menor rendimiento esperado.",
+        "La compra del conglomerado, financiada reduciendo carteras sustitutas, eleva su precio porque ofrece más rendimiento para un riesgo equivalente.",
+        "Los administradores deben registrar $10 millones de plusvalía para restaurar el precio automáticamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El ejercicio excluye cambios en los flujos. No puede deducirse una pérdida operativa de un precio temporalmente inferior. La comparación con alternativas de igual riesgo genera la fuerza correctora.",
+        "Con flujos y riesgo constantes, pagar menos eleva el rendimiento esperado. Eso atrae compradores frente a carteras equivalentes más caras. Confundir precio con flujo esperado invierte el sentido del ajuste.",
+        "El menor precio no estuvo acompañado por menores flujos ni mayor riesgo según el supuesto. Por eso la combinación se vuelve relativamente atractiva frente a inversiones equivalentes. La demanda de sustitución presiona el precio hacia el valor aditivo de $100 millones, sin crear sinergias operativas.",
+        "Una anotación contable no obliga al mercado a valorar más una acción. El mecanismo del apéndice funciona por decisiones de cartera y precios relativos. La corrección no depende de inventar un activo contable."
+      ]
+    },
+    {
+      "id": "c32-q073",
+      "tema": "Regulación histórica e información",
+      "dificultad": "intermedia",
+      "pregunta": "En el marco histórico estadounidense expuesto en el capítulo, ¿cómo se distinguen la revisión antimonopolio y las reglas de información de adquisiciones?",
+      "opciones": [
+        "Notificar una operación significa que la autoridad ya la aprobó y no puede suspenderla.",
+        "Las reglas de información existen únicamente para fijar la plusvalía del balance.",
+        "La revisión analiza efectos sobre competencia; la notificación anticipada y la revelación de participaciones dan información y pueden modificar la disputa por el control.",
+        "La revisión de competencia busca garantizar el empleo del director general aunque la oferta beneficie a los accionistas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La notificación permite revisar y, cuando corresponde, objetar la operación. No es una autorización irrevocable. El objetivo y los competidores pueden reaccionar mientras el proceso se desarrolla.",
+        "La plusvalía se determina mediante asignación contable del precio. Las reglas descriptas se refieren a transparencia y revisión de adquisiciones. Su papel en la disputa no se limita al registro de activos.",
+        "El capítulo vincula la prohibición de reducir sustancialmente la competencia con la legislación Clayton. También distingue la notificación de operaciones bajo Hart–Scott–Rodino de la información sobre participaciones y ofertas asociada a Williams. Informar puede alertar al objetivo y a otros postores, sin equivaler a una aprobación automática ni establecer aquí requisitos actuales.",
+        "La protección del puesto del directivo no es el criterio de competencia. La revisión considera efectos competitivos sobre los mercados afectados. Los conflictos de agencia de los administradores son un problema diferente."
+      ]
+    },
+    {
+      "id": "c32-q074",
+      "tema": "Amenaza de adquisición y bienestar",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué balance corresponde hacer al evaluar el efecto económico general de la amenaza de adquisiciones?",
+      "opciones": [
+        "Puede disciplinar administradores, pero también consume tiempo directivo y recursos profesionales; el efecto neto no se deduce de una sola prima.",
+        "Toda prima pagada al vendedor es un beneficio social adicional sin costo para nadie.",
+        "La amenaza nunca tiene efectos hasta que se completa jurídicamente una fusión.",
+        "Los honorarios y el tiempo directivo carecen de costo de oportunidad porque acompañan operaciones financieras."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El incentivo a evitar una compra puede mejorar decisiones aun en empresas que nunca son adquiridas. También puede generar gastos defensivos, honorarios y distracción. Evaluar el beneficio social requiere considerar esos efectos y distinguir valor creado de transferencias entre participantes.",
+        "La prima es, en gran parte, una transferencia desde el comprador hacia el vendedor. No debe sumarse como si fuera una creación independiente de recursos. El beneficio conjunto surge de mejoras netas respecto de continuar separados.",
+        "Los administradores pueden cambiar decisiones ante una amenaza creíble. Una disputa o negociación también puede alterar políticas sin consumar una adquisición. Por eso los efectos no se restringen a operaciones cerradas.",
+        "Abogados, asesores y administradores emplean recursos que podrían destinarse a otras actividades. Esos costos no desaparecen por tratarse de una transacción financiera. Deben compararse con los beneficios de reorganización y disciplina obtenidos."
+      ]
+    }
+  ]
+}

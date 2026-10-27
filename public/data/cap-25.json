@@ -4,9 +4,9 @@
   "preguntas": [
     {
       "id": "c25-q001",
-      "tema": "Elecci?n del endeudamiento",
+      "tema": "Elección del endeudamiento",
       "dificultad": "basica",
-      "pregunta": "Una empresa necesita financiar inventarios durante cuatro meses y cobra sus exportaciones en d?lares. ?Qu? criterio deber?a guiar la elecci?n de su deuda?",
+      "pregunta": "Una empresa necesita financiar inventarios durante cuatro meses y cobra sus exportaciones en dólares. ¿Qué criterio debería guiar la elección de su deuda?",
       "opciones": [
         "Elegir siempre el mayor plazo disponible.",
         "Elegir la moneda con menor tasa nominal, sin considerar los cobros.",
@@ -15,28 +15,28 @@
       ],
       "correcta": 2,
       "explicaciones": [
-        "Un vencimiento largo puede reducir renovaciones, pero tambi?n generar costos innecesarios. La necesidad descrita dura cuatro meses. Debe evaluarse la correspondencia entre financiamiento y uso de fondos.",
-        "La tasa nominal no incorpora el efecto de una variaci?n cambiaria. Una deuda barata en otra moneda puede encarecerse al medirla contra los ingresos. La moneda debe evaluarse junto con el flujo que atender? los pagos.",
-        "Una necesidad transitoria orienta hacia deuda de corto plazo. Endeudarse en la moneda de los cobros puede reducir el descalce cambiario. La elecci?n tambi?n exige comparar costos y condiciones, no solo el cup?n.",
-        "El convertible incorpora una opci?n valiosa para el inversor. Su cup?n reducido remunera la cesi?n de ese derecho. No demuestra que su costo econ?mico total sea menor."
+        "Un vencimiento largo puede reducir renovaciones, pero también generar costos innecesarios. La necesidad descrita dura cuatro meses. Debe evaluarse la correspondencia entre financiamiento y uso de fondos.",
+        "La tasa nominal no incorpora el efecto de una variación cambiaria. Una deuda barata en otra moneda puede encarecerse al medirla contra los ingresos. La moneda debe evaluarse junto con el flujo que atenderá los pagos.",
+        "Una necesidad transitoria orienta hacia deuda de corto plazo. Endeudarse en la moneda de los cobros puede reducir el descalce cambiario. La elección también exige comparar costos y condiciones, no solo el cupón.",
+        "El convertible incorpora una opción valiosa para el inversor. Su cupón reducido remunera la cesión de ese derecho. No demuestra que su costo económico total sea menor."
       ]
     },
     {
       "id": "c25-q002",
       "tema": "Pasivos fuera del balance",
       "dificultad": "intermedia",
-      "pregunta": "Un director sostiene que una deuda dej? de ser riesgosa porque la tom? una entidad separada que financia a la matriz. ?Cu?l es la mejor evaluaci?n?",
+      "pregunta": "Un director sostiene que una deuda dejó de ser riesgosa porque la tomó una entidad separada que financia a la matriz. ¿Cuál es la mejor evaluación?",
       "opciones": [
-        "Hay que analizar garant?as, compromisos y exposici?n econ?mica de la matriz.",
-        "La separaci?n jur?dica elimina cualquier exposici?n econ?mica.",
+        "Hay que analizar garantías, compromisos y exposición económica de la matriz.",
+        "La separación jurídica elimina cualquier exposición económica.",
         "Solo importan los pasivos que aparecen expresamente en el balance individual.",
         "Los arrendamientos y las pensiones nunca deben considerarse obligaciones financieras."
       ],
       "correcta": 0,
       "explicaciones": [
-        "La presentaci?n contable no alcanza para medir el riesgo econ?mico. Una entidad separada puede conservar v?nculos contractuales o financieros con la matriz. Tambi?n deben revisarse obligaciones como arrendamientos y compromisos previsionales.",
-        "La separaci?n puede limitar ciertos reclamos, pero no borra las garant?as asumidas. Tambi?n pueden existir compromisos de apoyo u otras exposiciones. Hay que leer los contratos y evaluar los flujos comprometidos.",
-        "El balance individual puede omitir exposiciones que s? importan para el grupo. El an?lisis financiero debe incorporar compromisos y garant?as relevantes. Confundir visibilidad contable con inexistencia econ?mica subestima el endeudamiento.",
+        "La presentación contable no alcanza para medir el riesgo económico. Una entidad separada puede conservar vínculos contractuales o financieros con la matriz. También deben revisarse obligaciones como arrendamientos y compromisos previsionales.",
+        "La separación puede limitar ciertos reclamos, pero no borra las garantías asumidas. También pueden existir compromisos de apoyo u otras exposiciones. Hay que leer los contratos y evaluar los flujos comprometidos.",
+        "El balance individual puede omitir exposiciones que sí importan para el grupo. El análisis financiero debe incorporar compromisos y garantías relevantes. Confundir visibilidad contable con inexistencia económica subestima el endeudamiento.",
         "Ambos pueden exigir pagos futuros significativos. Sus condiciones difieren de las de un bono, pero afectan la capacidad de pago. Excluirlos por su nombre impide comparar correctamente las obligaciones de la empresa."
       ]
     },
@@ -44,102 +44,102 @@
       "id": "c25-q003",
       "tema": "Deuda y pensiones",
       "dificultad": "intermedia",
-      "pregunta": "Una empresa tiene un d?ficit previsional de $80 millones. Emite bonos por $50 millones y aporta ?ntegramente ese efectivo al fondo de pensiones; sin otros cambios, ?c?mo var?a la suma de bonos y d?ficit previsional?",
+      "pregunta": "Una empresa tiene un déficit previsional de $80 millones. Emite bonos por $50 millones y aporta íntegramente ese efectivo al fondo de pensiones; sin otros cambios, ¿cómo varía la suma de bonos y déficit previsional?",
       "opciones": [
         "Aumenta $50 millones.",
         "Disminuye $50 millones.",
         "Disminuye $80 millones.",
-        "$0: suben los bonos en $50 millones y baja el d?ficit en igual monto."
+        "$0: suben los bonos en $50 millones y baja el déficit en igual monto."
       ],
       "correcta": 3,
       "explicaciones": [
-        "Este c?lculo incorpora los nuevos bonos pero omite el aporte al fondo. El aporte reduce el d?ficit de $80 a $30 millones. La obligaci?n agregada no aumenta bajo los supuestos indicados.",
-        "El aporte disminuye la obligaci?n previsional, pero se financia con nueva deuda. Deben sumarse los $30 millones restantes y los $50 millones de bonos. La mejora previsional no es una reducci?n gratuita del pasivo total.",
-        "El d?ficit no se cancela por completo, porque el aporte es de $50 millones. Adem?s, los bonos siguen pendientes. La suma econ?mica permanece en $80 millones.",
-        "Inicialmente el d?ficit representa una obligaci?n de $80 millones. Despu?s quedan $30 millones de d?ficit y aparecen $50 millones de bonos. La suma sigue siendo $80 millones: se sustituy? una obligaci?n por otra."
+        "Este cálculo incorpora los nuevos bonos pero omite el aporte al fondo. El aporte reduce el déficit de $80 a $30 millones. La obligación agregada no aumenta bajo los supuestos indicados.",
+        "El aporte disminuye la obligación previsional, pero se financia con nueva deuda. Deben sumarse los $30 millones restantes y los $50 millones de bonos. La mejora previsional no es una reducción gratuita del pasivo total.",
+        "El déficit no se cancela por completo, porque el aporte es de $50 millones. Además, los bonos siguen pendientes. La suma económica permanece en $80 millones.",
+        "Inicialmente el déficit representa una obligación de $80 millones. Después quedan $30 millones de déficit y aparecen $50 millones de bonos. La suma sigue siendo $80 millones: se sustituyó una obligación por otra."
       ]
     },
     {
       "id": "c25-q004",
       "tema": "Bonos nacionales y extranjeros",
       "dificultad": "basica",
-      "pregunta": "Una empresa argentina emite en el mercado local estadounidense para inversores de ese mercado; otra empresa extranjera hace lo mismo en Jap?n. ?C?mo se conocen habitualmente esas emisiones?",
+      "pregunta": "Una empresa argentina emite en el mercado local estadounidense para inversores de ese mercado; otra empresa extranjera hace lo mismo en Japón. ¿Cómo se conocen habitualmente esas emisiones?",
       "opciones": [
         "Bono nacional argentino y eurobono, respectivamente.",
-        "Bono yanqui y bono samur?i, respectivamente.",
+        "Bono yanqui y bono samurái, respectivamente.",
         "Eurobono y bono yanqui, respectivamente.",
-        "Ambas son bonos samur?i por tener emisor extranjero."
+        "Ambas son bonos samurái por tener emisor extranjero."
       ],
       "correcta": 1,
       "explicaciones": [
-        "La nacionalidad del emisor no convierte en local argentina una colocaci?n estadounidense. Tampoco toda colocaci?n fuera del pa?s propio es un eurobono. Importa el mercado en que se ofrece el t?tulo.",
-        "Un bono extranjero se coloca en el mercado nacional de otro pa?s. La denominaci?n yanqui corresponde al mercado estadounidense. La denominaci?n samur?i se asocia al japon?s.",
-        "Un bono colocado dentro del mercado nacional estadounidense no es autom?ticamente un eurobono. Yanqui tampoco identifica una colocaci?n japonesa. Los nombres dependen del mercado receptor.",
-        "Samur?i no es una categor?a gen?rica para toda deuda extranjera. Identifica una colocaci?n en Jap?n por un emisor extranjero. El equivalente para el mercado estadounidense es yanqui."
+        "La nacionalidad del emisor no convierte en local argentina una colocación estadounidense. Tampoco toda colocación fuera del país propio es un eurobono. Importa el mercado en que se ofrece el título.",
+        "Un bono extranjero se coloca en el mercado nacional de otro país. La denominación yanqui corresponde al mercado estadounidense. La denominación samurái se asocia al japonés.",
+        "Un bono colocado dentro del mercado nacional estadounidense no es automáticamente un eurobono. Yanqui tampoco identifica una colocación japonesa. Los nombres dependen del mercado receptor.",
+        "Samurái no es una categoría genérica para toda deuda extranjera. Identifica una colocación en Japón por un emisor extranjero. El equivalente para el mercado estadounidense es yanqui."
       ]
     },
     {
       "id": "c25-q005",
       "tema": "Eurobonos",
       "dificultad": "basica",
-      "pregunta": "?Qu? distingue a un eurobono de un bono simplemente denominado en euros?",
+      "pregunta": "¿Qué distingue a un eurobono de un bono simplemente denominado en euros?",
       "opciones": [
-        "Su obligaci?n de pagar exclusivamente en euros.",
-        "Su colocaci?n en el mercado internacional, y no la moneda euro.",
-        "La obligaci?n de que el emisor tenga sede en Europa.",
+        "Su obligación de pagar exclusivamente en euros.",
+        "Su colocación en el mercado internacional, y no la moneda euro.",
+        "La obligación de que el emisor tenga sede en Europa.",
         "La ausencia de cualquier contrato o norma aplicable."
       ],
       "correcta": 1,
       "explicaciones": [
-        "El prefijo puede inducir a confundir mercado con moneda. La denominaci?n en euros no es un requisito definitorio. Hay emisiones internacionales en otras divisas.",
-        "La categor?a identifica un mercado internacional de colocaci?n. Un eurobono puede estar denominado en d?lares, yenes u otra moneda. Un bono en euros colocado en un mercado nacional no adquiere por eso la condici?n de eurobono.",
-        "El domicilio europeo del emisor no define el instrumento. Empresas de distintos pa?ses pueden acudir al mercado internacional. La clasificaci?n depende de la estructura de colocaci?n.",
-        "Una colocaci?n internacional sigue teniendo contratos y reglas aplicables. No equivale a un espacio sin obligaciones legales. Debe distinguirse del r?gimen de oferta de un mercado nacional particular."
+        "El prefijo puede inducir a confundir mercado con moneda. La denominación en euros no es un requisito definitorio. Hay emisiones internacionales en otras divisas.",
+        "La categoría identifica un mercado internacional de colocación. Un eurobono puede estar denominado en dólares, yenes u otra moneda. Un bono en euros colocado en un mercado nacional no adquiere por eso la condición de eurobono.",
+        "El domicilio europeo del emisor no define el instrumento. Empresas de distintos países pueden acudir al mercado internacional. La clasificación depende de la estructura de colocación.",
+        "Una colocación internacional sigue teniendo contratos y reglas aplicables. No equivale a un espacio sin obligaciones legales. Debe distinguirse del régimen de oferta de un mercado nacional particular."
       ]
     },
     {
       "id": "c25-q006",
       "tema": "Bonos globales y colocaciones institucionales",
       "dificultad": "intermedia",
-      "pregunta": "Un emisor quiere vender simult?neamente en el mercado internacional y mediante una oferta p?blica registrada en Estados Unidos. ?Qu? instrumento corresponde, y qu? diferencia tiene con la v?a institucional 144A descrita para este contexto?",
+      "pregunta": "Un emisor quiere vender simultáneamente en el mercado internacional y mediante una oferta pública registrada en Estados Unidos. ¿Qué instrumento corresponde, y qué diferencia tiene con la vía institucional 144A descrita para este contexto?",
       "opciones": [
-        "Un bono al portador; la v?a 144A permite vender sin restricciones a cualquier minorista.",
-        "Un bono samur?i; la v?a 144A obliga a convertirlo en acciones.",
-        "Un bono hipotecario; la v?a 144A garantiza su capital con fondos p?blicos.",
-        "Un bono global; la v?a 144A se dirige a compradores institucionales calificados."
+        "Un bono al portador; la vea 144A permite vender sin restricciones a cualquier minorista.",
+        "Un bono samurái; la vea 144A obliga a convertirlo en acciones.",
+        "Un bono hipotecario; la vea 144A garantiza su capital con fondos públicos.",
+        "Un bono global; la vea 144A se dirige a compradores institucionales calificados."
       ],
       "correcta": 3,
       "explicaciones": [
         "La forma al portador trata sobre acreditar la propiedad. No define una oferta global. La alternativa institucional tampoco equivale a una venta abierta a todo minorista.",
-        "Samur?i identifica el mercado japon?s, ausente en el caso. La conversi?n en acciones es una caracter?stica contractual distinta. Ninguna de esas propiedades se deriva de la v?a institucional mencionada.",
-        "Una hipoteca define una garant?a real. No determina los mercados donde se vende el bono. La v?a institucional tampoco transforma el riesgo del emisor en una obligaci?n estatal.",
-        "La colocaci?n global combina acceso internacional y acceso al mercado estadounidense. La v?a 144A descrita es una alternativa institucional a la oferta p?blica registrada. Esa v?a no supone acceso irrestricto del p?blico minorista ni garant?a estatal."
+        "Samurái identifica el mercado japonés, ausente en el caso. La conversión en acciones es una característica contractual distinta. Ninguna de esas propiedades se deriva de la vía institucional mencionada.",
+        "Una hipoteca define una garantía real. No determina los mercados donde se vende el bono. La vía institucional tampoco transforma el riesgo del emisor en una obligación estatal.",
+        "La colocación global combina acceso internacional y acceso al mercado estadounidense. La vea 144A descrita es una alternativa institucional a la oferta pública registrada. Esa vía no supone acceso irrestricto del público minorista ni garantía estatal."
       ]
     },
     {
       "id": "c25-q007",
-      "tema": "Origen e integraci?n de mercados",
+      "tema": "Origen e integración de mercados",
       "dificultad": "intermedia",
-      "pregunta": "?Qu? ense?anza econ?mica deja el surgimiento de los eurobonos frente a impuestos y restricciones hist?ricas a los movimientos de capital?",
+      "pregunta": "¿Qué enseñanza económica deja el surgimiento de los eurobonos frente a impuestos y restricciones históricas a los movimientos de capital?",
       "opciones": [
-        "La regulaci?n puede impulsar mercados alternativos y la competencia tiende a acercar sus costos.",
+        "La regulación puede impulsar mercados alternativos y la competencia tiende a acercar sus costos.",
         "Un mercado que surge por un impuesto desaparece necesariamente cuando el impuesto se elimina.",
-        "Los mercados nacionales e internacionales deben ofrecer tasas id?nticas en toda circunstancia.",
-        "La innovaci?n solo responde a cambios tecnol?gicos y nunca a impuestos."
+        "Los mercados nacionales e internacionales deben ofrecer tasas idénticas en toda circunstancia.",
+        "La innovación solo responde a cambios tecnológicos y nunca a impuestos."
       ],
       "correcta": 0,
       "explicaciones": [
         "Los participantes buscan estructuras que reduzcan costos y restricciones. Un mercado alternativo puede subsistir cuando desarrolla escala y servicios propios. La competencia aproxima tasas, aunque pueden persistir diferencias de costos y condiciones.",
-        "La eliminaci?n del incentivo inicial no destruye las capacidades creadas. Intermediarios y emisores pueden seguir encontrando ventajas en ese mercado. Su continuidad depende del costo y la utilidad que ofrezca.",
-        "La competencia no elimina autom?ticamente toda diferencia contractual o regulatoria. Los costos de emisi?n y las caracter?sticas de la deuda tambi?n cuentan. Por eso conviene comparar costos completos entre mercados.",
-        "Los impuestos y las normas alteran los incentivos econ?micos. Pueden estimular nuevos mercados e instrumentos. La tecnolog?a facilita su ejecuci?n, pero no es su ?nica causa."
+        "La eliminación del incentivo inicial no destruye las capacidades creadas. Intermediarios y emisores pueden seguir encontrando ventajas en ese mercado. Su continuidad depende del costo y la utilidad que ofrezca.",
+        "La competencia no elimina automáticamente toda diferencia contractual o regulatoria. Los costos de emisión y las características de la deuda también cuentan. Por eso conviene comparar costos completos entre mercados.",
+        "Los impuestos y las normas alteran los incentivos económicos. Pueden estimular nuevos mercados e instrumentos. La tecnología facilita su ejecución, pero no es su única causa."
       ]
     },
     {
       "id": "c25-q008",
-      "tema": "Puntos b?sicos",
+      "tema": "Puntos básicos",
       "dificultad": "basica",
-      "pregunta": "Una emisi?n de $400 millones consigue una tasa anual 15 puntos b?sicos menor en otro mercado. Si el principal permanece constante, ?cu?l es el ahorro anual bruto de intereses?",
+      "pregunta": "Una emisión de $400 millones consigue una tasa anual 15 puntos básicos menor en otro mercado. Si el principal permanece constante, ¿cuál es el ahorro anual bruto de intereses?",
       "opciones": [
         "$6.000.000.",
         "$60.000.",
@@ -148,55 +148,55 @@
       ],
       "correcta": 2,
       "explicaciones": [
-        "El resultado aplica una reducci?n de 1,5%. Eso equivale a 150 puntos b?sicos, diez veces la reducci?n indicada. Debe usarse 0,0015 como tasa decimal.",
-        "El resultado corresponde a 1,5 puntos b?sicos. Quince puntos b?sicos representan 0,15% del principal. La multiplicaci?n correcta arroja $600.000.",
-        "Un punto b?sico equivale a 0,01 punto porcentual. Quince puntos b?sicos son 0,15%, es decir, 0,0015. Multiplicar $400 millones por 0,0015 da $600.000 anuales antes de otros costos.",
-        "Este importe interpreta 15 puntos b?sicos como 15%. Confunde dos unidades muy diferentes. La reducci?n real es de apenas 0,15 punto porcentual."
+        "El resultado aplica una reducción de 1,5%. Eso equivale a 150 puntos básicos, diez veces la reducción indicada. Debe usarse 0,0015 como tasa decimal.",
+        "El resultado corresponde a 1,5 puntos básicos. Quince puntos básicos representan 0,15% del principal. La multiplicación correcta arroja $600.000.",
+        "Un punto básico equivale a 0,01 punto porcentual. Quince puntos básicos son 0,15%, es decir, 0,0015. Multiplicar $400 millones por 0,0015 da $600.000 anuales antes de otros costos.",
+        "Este importe interpreta 15 puntos básicos como 15%. Confunde dos unidades muy diferentes. La reducción real es de apenas 0,15 punto porcentual."
       ]
     },
     {
       "id": "c25-q009",
       "tema": "Contrato fiduciario e incumplimiento",
       "dificultad": "basica",
-      "pregunta": "?Cu?l es la funci?n principal del fiduciario de una emisi?n p?blica de bonos?",
+      "pregunta": "¿Cuál es la función principal del fiduciario de una emisión pública de bonos?",
       "opciones": [
         "Garantizar con su patrimonio todos los pagos del emisor.",
-        "Elegir los proyectos de inversi?n que maximizan el valor de las acciones.",
+        "Elegir los proyectos de inversión que maximizan el valor de las acciones.",
         "Sustituir el prospecto por recomendaciones informales del colocador.",
         "Representar a los bonistas y vigilar el cumplimiento del contrato, incluso ante un incumplimiento."
       ],
       "correcta": 3,
       "explicaciones": [
-        "Representar a los tenedores no equivale a asegurarles el cobro. El riesgo de cr?dito sigue dependiendo del emisor y de las garant?as pactadas. Una garant?a del fiduciario requerir?a un compromiso adicional expreso.",
-        "La administraci?n elige las inversiones de la empresa. El fiduciario protege los derechos contractuales de los bonistas. Confundir esas funciones desplaza indebidamente el objetivo de su representaci?n.",
-        "El prospecto resume condiciones relevantes de la emisi?n. El contrato contiene derechos exigibles que no se sustituyen por comentarios comerciales. La funci?n fiduciaria opera dentro de ese marco formal.",
-        "El fiduciario centraliza la representaci?n de numerosos tenedores. Supervisa las obligaciones pactadas y act?a conforme al contrato si hay incumplimiento. Los derechos pueden incluir exigir el vencimiento anticipado bajo condiciones establecidas."
+        "Representar a los tenedores no equivale a asegurarles el cobro. El riesgo de crédito sigue dependiendo del emisor y de las garantías pactadas. Una garantía del fiduciario requeriría un compromiso adicional expreso.",
+        "La administración elige las inversiones de la empresa. El fiduciario protege los derechos contractuales de los bonistas. Confundir esas funciones desplaza indebidamente el objetivo de su representación.",
+        "El prospecto resume condiciones relevantes de la emisión. El contrato contiene derechos exigibles que no se sustituyen por comentarios comerciales. La función fiduciaria opera dentro de ese marco formal.",
+        "El fiduciario centraliza la representación de numerosos tenedores. Supervisa las obligaciones pactadas y actúa conforme al contrato si hay incumplimiento. Los derechos pueden incluir exigir el vencimiento anticipado bajo condiciones establecidas."
       ]
     },
     {
       "id": "c25-q010",
       "tema": "Registro y propiedad",
       "dificultad": "basica",
-      "pregunta": "?Cu?l es la diferencia entre bonos registrados y bonos al portador?",
+      "pregunta": "¿Cuál es la diferencia entre bonos registrados y bonos al portador?",
       "opciones": [
-        "Registrado significa necesariamente aprobado como inversi?n sin riesgo.",
-        "En los registrados se lleva un padr?n de propietarios; en los tradicionales al portador, la posesi?n del certificado acredita la titularidad.",
+        "Registrado significa necesariamente aprobado como inversión sin riesgo.",
+        "En los registrados se lleva un padrón de propietarios; en los tradicionales al portador, la posesión del certificado acredita la titularidad.",
         "Al portador significa que el fiduciario conoce siempre la identidad de cada tenedor.",
         "Registrado y cotizado en bolsa significan exactamente lo mismo."
       ],
       "correcta": 1,
       "explicaciones": [
-        "El registro de titularidad no es una certificaci?n de solvencia. Un t?tulo registrado puede sufrir incumplimiento. Deben separarse identificaci?n del propietario y calidad crediticia.",
-        "El registro permite identificar a qui?n corresponden intereses y principal. Puede instrumentarse mediante anotaciones electr?nicas sin certificados f?sicos. La forma tradicional al portador descansa en la posesi?n del documento y dificulta rastrear la propiedad.",
-        "La dificultad de identificar a todos los propietarios caracteriza precisamente al sistema al portador. La posesi?n del certificado es la evidencia central. No debe confundirse con un padr?n nominativo.",
-        "La cotizaci?n describe d?nde se negocia un valor. El registro describe c?mo se identifica su titular. Un t?tulo puede ser registrado sin que ambas propiedades sean equivalentes."
+        "El registro de titularidad no es una certificación de solvencia. Un título registrado puede sufrir incumplimiento. Deben separarse identificación del propietario y calidad crediticia.",
+        "El registro permite identificar a quién corresponden intereses y principal. Puede instrumentarse mediante anotaciones electrónicas sin certificados físicos. La forma tradicional al portador descansa en la posesión del documento y dificulta rastrear la propiedad.",
+        "La dificultad de identificar a todos los propietarios caracteriza precisamente al sistema al portador. La posesión del certificado es la evidencia central. No debe confundirse con un padrón nominativo.",
+        "La cotización describe dónde se negocia un valor. El registro describe cómo se identifica su titular. Un título puede ser registrado sin que ambas propiedades sean equivalentes."
       ]
     },
     {
       "id": "c25-q011",
-      "tema": "Precio limpio e inter?s corrido",
+      "tema": "Precio limpio e interés corrido",
       "dificultad": "intermedia",
-      "pregunta": "Un bono de nominal $1.000 cotiza a 98 y paga un cup?n anual de 6%. Se liquida 60 d?as despu?s del ?ltimo cup?n; usando base 30/360, ?cu?nto paga el comprador?",
+      "pregunta": "Un bono de nominal $1.000 cotiza a 98 y paga un cupón anual de 6%. Se liquida 60 días después del último cupón; usando base 30/360, ¿cuánto paga el comprador?",
       "opciones": [
         "$980.",
         "$1.040.",
@@ -205,17 +205,17 @@
       ],
       "correcta": 2,
       "explicaciones": [
-        "Este importe solo contempla el precio limpio. El vendedor tambi?n tiene derecho al inter?s acumulado de $10. El comprador paga $990 y despu?s recibe el cup?n completo cuando corresponda.",
-        "Se agreg? el cup?n anual completo de $60. Solo transcurrieron 60 de los 360 d?as de la convenci?n. El inter?s corrido que corresponde es $10.",
-        "La cotizaci?n 98 significa un precio limpio de $980. El inter?s corrido es $1.000 ? 0,06 ? 60/360 = $10. El precio total o sucio es $980 + $10 = $990.",
-        "Se agreg? medio cup?n anual, como si hubieran transcurrido 180 d?as. El enunciado fija 60 d?as. La proporci?n correcta es 60/360, no 1/2."
+        "Este importe solo contempla el precio limpio. El vendedor también tiene derecho al interés acumulado de $10. El comprador paga $990 y después recibe el cupón completo cuando corresponda.",
+        "Se agregó el cupón anual completo de $60. Solo transcurrieron 60 de los 360 días de la convención. El interés corrido que corresponde es $10.",
+        "La cotización 98 significa un precio limpio de $980. El interés corrido es $1.000 × 0,06 × 60/360 = $10. El precio total o sucio es $980 + $10 = $990.",
+        "Se agregó medio cupón anual, como si hubieran transcurrido 180 días. El enunciado fija 60 días. La proporción correcta es 60/360, no 1/2."
       ]
     },
     {
       "id": "c25-q012",
-      "tema": "Margen de colocaci?n",
+      "tema": "Margen de colocación",
       "dificultad": "intermedia",
-      "pregunta": "Una emisi?n tiene nominal total de $20 millones. El p?blico paga 99% y el emisor recibe neto 98%, sin inter?s corrido ni otros gastos; ?cu?nto recibe la empresa y cu?nto retienen los colocadores?",
+      "pregunta": "Una emisión tiene nominal total de $20 millones. El público paga 99% y el emisor recibe neto 98%, sin interés corrido ni otros gastos; ¿cuánto recibe la empresa y cuánto retienen los colocadores?",
       "opciones": [
         "$19,6 millones y $0,2 millones.",
         "$19,8 millones y $0,2 millones.",
@@ -224,17 +224,17 @@
       ],
       "correcta": 0,
       "explicaciones": [
-        "El p?blico desembolsa $20 millones ? 0,99 = $19,8 millones. El emisor recibe $20 millones ? 0,98 = $19,6 millones. La diferencia de $0,2 millones es el margen de colocaci?n.",
+        "El público desembolsa $20 millones × 0,99 = $19,8 millones. El emisor recibe $20 millones × 0,98 = $19,6 millones. La diferencia de $0,2 millones es el margen de colocación.",
         "Se atribuye al emisor el importe bruto pagado por los compradores. Falta restar el margen de los colocadores. El neto contractual es 98% del nominal.",
-        "La empresa s? recibe $19,6 millones, pero el margen est? sobredimensionado. La diferencia entre 99% y 98% es un punto del nominal. El descuento adicional respecto de la par no es ingreso del colocador.",
-        "El nominal es la base contractual, no el efectivo que entra al emitir. Una colocaci?n bajo la par produce menos efectivo que ese nominal. Despu?s del margen, entran $19,6 millones."
+        "La empresa sí recibe $19,6 millones, pero el margen está sobredimensionado. La diferencia entre 99% y 98% es un punto del nominal. El descuento adicional respecto de la par no es ingreso del colocador.",
+        "El nominal es la base contractual, no el efectivo que entra al emitir. Una colocación bajo la par produce menos efectivo que ese nominal. Después del margen, entran $19,6 millones."
       ]
     },
     {
       "id": "c25-q013",
-      "tema": "Cup?n y frecuencia de pago",
+      "tema": "Cupón y frecuencia de pago",
       "dificultad": "basica",
-      "pregunta": "Un bono de nominal $2.000 tiene cup?n anual de 8%, pagadero semestralmente. ?Cu?nto paga en cada semestre?",
+      "pregunta": "Un bono de nominal $2.000 tiene cupón anual de 8%, pagadero semestralmente. ¿Cuánto paga en cada semestre?",
       "opciones": [
         "$160.",
         "$40.",
@@ -243,17 +243,17 @@
       ],
       "correcta": 2,
       "explicaciones": [
-        "Este es el cup?n de todo el a?o. Pagarlo dos veces producir?a una tasa anual de cup?n de 16%. La frecuencia semestral exige dividir el importe anual entre dos.",
-        "Se dividi? el cup?n anual entre cuatro. Eso corresponder?a a pagos trimestrales iguales. El bono descrito realiza dos pagos al a?o.",
-        "El cup?n anual es $2.000 ? 0,08 = $160. Como hay dos pagos iguales por a?o, cada uno es $160/2 = $80. El capital solo se devuelve cuando lo establezca el contrato.",
-        "Se agreg? el capital al inter?s semestral. El enunciado pregunta por un cup?n, no por el pago final de principal. En un semestre ordinario solo corresponden $80."
+        "Este es el cupón de todo el año. Pagarlo dos veces produciría una tasa anual de cupón de 16%. La frecuencia semestral exige dividir el importe anual entre dos.",
+        "Se dividió el cupón anual entre cuatro. Eso correspondería a pagos trimestrales iguales. El bono descrito realiza dos pagos al año.",
+        "El cupón anual es $2.000 × 0,08 = $160. Como hay dos pagos iguales por año, cada uno es $160/2 = $80. El capital solo se devuelve cuando lo establezca el contrato.",
+        "Se agregó el capital al interés semestral. El enunciado pregunta por un cupón, no por el pago final de principal. En un semestre ordinario solo corresponden $80."
       ]
     },
     {
       "id": "c25-q014",
       "tema": "Convenciones de rendimiento",
       "dificultad": "intermedia",
-      "pregunta": "Un bono cotiza un rendimiento nominal anual de 10% con capitalizaci?n semestral. ?Qu? tasa efectiva anual permite compararlo con un instrumento de capitalizaci?n anual?",
+      "pregunta": "Un bono cotiza un rendimiento nominal anual de 10% con capitalización semestral. ¿Qué tasa efectiva anual permite compararlo con un instrumento de capitalización anual?",
       "opciones": [
         "10%.",
         "5%.",
@@ -262,17 +262,17 @@
       ],
       "correcta": 3,
       "explicaciones": [
-        "La cotizaci?n nominal suma dos tasas semestrales. No incorpora el inter?s sobre el inter?s del primer semestre. Para comparar bases hay que capitalizar ambos per?odos.",
+        "La cotización nominal suma dos tasas semestrales. No incorpora el interés sobre el interés del primer semestre. Para comparar bases hay que capitalizar ambos períodos.",
         "El 5% es la tasa de seis meses. Falta incorporar el segundo semestre. La tasa anual efectiva resulta de elevar 1,05 al cuadrado y restar uno.",
-        "El 21% surge de capitalizar 10% dos veces. Eso trata la cotizaci?n anual como si fuera una tasa semestral. Primero debe dividirse el 10% entre dos.",
-        "La tasa por semestre es 10%/2 = 5%. En un a?o se acumula un factor 1,05 ? 1,05 = 1,1025. La tasa efectiva anual es 10,25%."
+        "El 21% surge de capitalizar 10% dos veces. Eso trata la cotización anual como si fuera una tasa semestral. Primero debe dividirse el 10% entre dos.",
+        "La tasa por semestre es 10%/2 = 5%. En un año se acumula un factor 1,05 × 1,05 = 1,1025. La tasa efectiva anual es 10,25%."
       ]
     },
     {
       "id": "c25-q015",
-      "tema": "Cup?n cero y descuento original",
+      "tema": "Cupón cero y descuento original",
       "dificultad": "intermedia",
-      "pregunta": "Un bono sin cupones promete $1.210 dentro de dos a?os y exige una rentabilidad efectiva anual de 10%, sin riesgo de impago. ?Cu?l es su precio hoy?",
+      "pregunta": "Un bono sin cupones promete $1.210 dentro de dos años y exige una rentabilidad efectiva anual de 10%, sin riesgo de impago. ¿Cuál es su precio hoy?",
       "opciones": [
         "$1.210.",
         "$1.000.",
@@ -281,36 +281,36 @@
       ],
       "correcta": 1,
       "explicaciones": [
-        "Se tom? el pago futuro como si estuviera disponible hoy. Falta descontar el costo de oportunidad durante dos a?os. Un cup?n cero no implica rentabilidad nula.",
-        "No hay intereses peri?dicos que sumar al valor presente. El ?nico pago se descuenta dos a?os: $1.210/(1,10)^2 = $1.000. Los $210 de aumento hasta el vencimiento generan la rentabilidad requerida.",
-        "Se restaron dos intereses simples calculados sobre el principal futuro. El descuento compuesto divide por el factor acumulado correspondiente. Ese factor es 1,21 y el precio correcto es $1.000.",
-        "Este valor descuenta un solo a?o. El pago ocurre dentro de dos a?os. Deben aplicarse dos factores de descuento de 1,10."
+        "Se tomó el pago futuro como si estuviera disponible hoy. Falta descontar el costo de oportunidad durante dos años. Un cupón cero no implica rentabilidad nula.",
+        "No hay intereses periódicos que sumar al valor presente. El único pago se descuenta dos años: $1.210/(1,10)^2 = $1.000. Los $210 de aumento hasta el vencimiento generan la rentabilidad requerida.",
+        "Ese precio daría una rentabilidad algo mayor que la exigida. Si se invierten $990 al 10% compuesto durante dos años se obtienen $1.197,90, no $1.210. El precio compatible con el pago prometido y la tasa dada es $1.000.",
+        "Este valor descuenta un solo año. El pago ocurre dentro de dos años. Deben aplicarse dos factores de descuento de 1,10."
       ]
     },
     {
       "id": "c25-q016",
       "tema": "Promesas de pago especiales",
       "dificultad": "avanzada",
-      "pregunta": "Sin valor de canje, beneficios externos ni pagos contingentes, ?qu? distingue a un cup?n cero perpetuo de un bono de utilidades?",
+      "pregunta": "Sin valor de canje, beneficios externos ni pagos contingentes, ¿qué distingue a un cupón cero perpetuo de un bono de utilidades?",
       "opciones": [
         "El primero no entrega flujos y vale cero; el segundo condiciona los intereses a las ganancias estipuladas.",
-        "Ambos garantizan un cup?n anual fijo aunque no haya ganancias.",
-        "El cup?n cero perpetuo paga necesariamente su nominal el pr?ximo a?o.",
-        "El bono de utilidades es una acci?n com?n con derecho irrestricto de voto."
+        "Ambos garantizan un cupón anual fijo aunque no haya ganancias.",
+        "El cupón cero perpetuo paga necesariamente su nominal el próximo año.",
+        "El bono de utilidades es una acción común con derecho irrestricto de voto."
       ],
       "correcta": 0,
       "explicaciones": [
-        "Un cup?n cero perpetuo carece tanto de cupones como de una fecha de devoluci?n. Sin otras prestaciones, su valor presente es cero. El bono de utilidades s? puede pagar intereses, pero bajo la condici?n de resultados prevista en su contrato.",
-        "El cup?n cero no promete intereses peri?dicos. En el bono de utilidades, el inter?s depende de una condici?n. Ninguno coincide con un bono ordinario de cup?n fijo incondicional.",
-        "Perpetuo significa que no existe ese vencimiento final. No puede inventarse una devoluci?n al a?o siguiente. La falta de flujos explica el valor cero bajo los supuestos dados.",
-        "Un bono de utilidades conserva naturaleza de deuda bajo condiciones especiales. Vincular un inter?s a resultados no lo convierte autom?ticamente en capital com?n. Los derechos pol?ticos y residuales son distintos."
+        "Un cupón cero perpetuo carece tanto de cupones como de una fecha de devolución. Sin otras prestaciones, su valor presente es cero. El bono de utilidades sí puede pagar intereses, pero bajo la condición de resultados prevista en su contrato.",
+        "El cupón cero no promete intereses periódicos. En el bono de utilidades, el interés depende de una condición. Ninguno coincide con un bono ordinario de cupón fijo incondicional.",
+        "Perpetuo significa que no existe ese vencimiento final. No puede inventarse una devolución al año siguiente. La falta de flujos explica el valor cero bajo los supuestos dados.",
+        "Un bono de utilidades conserva naturaleza de deuda bajo condiciones especiales. Vincular un interés a resultados no lo convierte automáticamente en capital común. Los derechos políticos y residuales son distintos."
       ]
     },
     {
       "id": "c25-q017",
       "tema": "Tasa flotante con banda",
       "dificultad": "intermedia",
-      "pregunta": "Una nota paga una referencia anual m?s 1 punto porcentual, con piso de 4% y techo de 7%. En el ajuste la referencia vale 8%; con nominal $1.000 y per?odo de medio a?o, ?cu?nto inter?s corresponde?",
+      "pregunta": "Una nota paga una referencia anual más 1 punto porcentual, con piso de 4% y techo de 7%. En el ajuste la referencia vale 8%; con nominal $1.000 y periodo de medio año, ¿cuánto interés corresponde?",
       "opciones": [
         "$45.",
         "$40.",
@@ -319,55 +319,55 @@
       ],
       "correcta": 3,
       "explicaciones": [
-        "Se utiliz? la tasa de 9% sin aplicar el techo. La banda limita el cup?n aunque la referencia sea alta. Debe calcularse el pago con 7% anual.",
-        "Se tom? la referencia de 8% sin margen ni l?mites. El contrato primero agrega el margen y despu?s aplica la banda. La tasa resultante es 7%, no 8%.",
-        "Este importe utiliza el piso de 4%. El piso act?a cuando la tasa calculada es demasiado baja. Aqu? opera el techo porque la tasa sin l?mite llega a 9%.",
-        "La tasa sin l?mite ser?a 8% + 1% = 9%. El techo la reduce a 7% anual. El pago semestral es $1.000 ? 0,07 ? 1/2 = $35."
+        "Se utilizó la tasa de 9% sin aplicar el techo. La banda limita el cupón aunque la referencia sea alta. Debe calcularse el pago con 7% anual.",
+        "Se tomó la referencia de 8% sin margen ni límites. El contrato primero agrega el margen y después aplica la banda. La tasa resultante es 7%, no 8%.",
+        "Este importe utiliza el piso de 4%. El piso actúa cuando la tasa calculada es demasiado baja. Aquí opera el techo porque la tasa sin límite llega a 9%.",
+        "La tasa sin límite sería 8% + 1% = 9%. El techo la reduce a 7% anual. El pago semestral es $1.000 × 0,07 × 1/2 = $35."
       ]
     },
     {
       "id": "c25-q018",
-      "tema": "Cobertura de tasas y riesgo de cr?dito",
+      "tema": "Cobertura de tasas y riesgo de crédito",
       "dificultad": "intermedia",
-      "pregunta": "Una tesorera compara una deuda flotante con techo y otra flotante sin techo acompa?ada por un cap comprado a un banco. ?Qu? evaluaci?n es correcta?",
+      "pregunta": "Una tesorera compara una deuda flotante con techo y otra flotante sin techo acompañada por un cap comprado a un banco. ¿Qué evaluación es correcta?",
       "opciones": [
         "La tasa flotante asegura siempre recuperar el nominal aunque quiebre el emisor.",
-        "El techo obliga al acreedor a cobrar por encima del m?ximo pactado.",
-        "Pueden limitar de manera similar el inter?s, pero la nota flotante no elimina el riesgo crediticio y el cap agrega exposici?n contractual al banco.",
-        "El cap convierte autom?ticamente la deuda en una obligaci?n de tasa fija."
+        "El techo obliga al acreedor a cobrar por encima del máximo pactado.",
+        "Pueden limitar de manera similar el interés, pero la nota flotante no elimina el riesgo crediticio y el cap agrega exposición contractual al banco.",
+        "El cap convierte automáticamente la deuda en una obligación de tasa fija."
       ],
       "correcta": 2,
       "explicaciones": [
-        "La actualizaci?n de la tasa reduce exposici?n a movimientos de tasas de mercado. No genera activos con los cuales pagar una deuda insolvente. El riesgo crediticio puede aumentar aunque el cup?n se reajuste.",
-        "El techo establece un m?ximo, no un m?nimo. Su funci?n es contener los pagos del deudor cuando sube la referencia. Cobrar por encima de ese m?ximo contradice la condici?n contractual.",
-        "El cap paga conforme al exceso de la referencia sobre el nivel pactado. Puede reproducir el l?mite de intereses si se alinean nominal, fechas y condiciones. La revisi?n crediticia sigue siendo necesaria y el derivado introduce otra contraparte.",
+        "La actualización de la tasa reduce exposición a movimientos de tasas de mercado. No genera activos con los cuales pagar una deuda insolvente. El riesgo crediticio puede aumentar aunque el cupón se reajuste.",
+        "El techo establece un máximo, no un mínimo. Su función es contener los pagos del deudor cuando sube la referencia. Cobrar por encima de ese máximo contradice la condición contractual.",
+        "El cap paga conforme al exceso de la referencia sobre el nivel pactado. Puede reproducir el límite de intereses si se alinean nominal, fechas y condiciones. La revisión crediticia sigue siendo necesaria y el derivado introduce otra contraparte.",
         "Debajo del techo la tasa puede seguir variando. El instrumento solo limita ciertos aumentos. Una tasa fija exige que todos los pagos relevantes queden fijados por el contrato o la cobertura."
       ]
     },
     {
       "id": "c25-q019",
-      "tema": "Garant?a y prioridad",
+      "tema": "Garantía y prioridad",
       "dificultad": "basica",
-      "pregunta": "?Cu?l es la relaci?n correcta entre deuda prioritaria, subordinada y garantizada?",
+      "pregunta": "¿Cuál es la relación correcta entre deuda prioritaria, subordinada y garantizada?",
       "opciones": [
-        "La prioridad establece el orden de cobro y la garant?a asigna derechos sobre activos espec?ficos.",
+        "La prioridad establece el orden de cobro y la garantía asigna derechos sobre activos específicos.",
         "Toda deuda prioritaria tiene necesariamente una hipoteca.",
-        "Toda deuda sin garant?a est? subordinada a las dem?s obligaciones sin garant?a.",
-        "La deuda subordinada cobra despu?s de los accionistas comunes."
+        "Toda deuda sin garantía está subordinada a las demás obligaciones sin garantía.",
+        "La deuda subordinada cobra después de los accionistas comunes."
       ],
       "correcta": 0,
       "explicaciones": [
-        "Son dos dimensiones diferentes del contrato. Una obligaci?n general puede ser prioritaria sin tener garant?a espec?fica. La deuda subordinada se ubica detr?s de acreedores de mayor rango, pero delante del capital.",
-        "Una hipoteca es una forma de garant?a. La prioridad contractual puede existir sin ella. Confundir ambas propiedades impide interpretar correctamente el orden de cobro.",
-        "Entre las obligaciones sin garant?a puede haber deuda prioritaria y subordinada. El contrato define su rango. La falta de un activo afectado no implica autom?ticamente el ?ltimo lugar entre los acreedores.",
-        "El capital com?n es residual respecto de la deuda. La subordinaci?n desplaza al acreedor detr?s de otros acreedores, no detr?s del accionista com?n. Bajo prioridad estricta, los accionistas cobran solo despu?s de atender todas las deudas."
+        "Son dos dimensiones diferentes del contrato. Una obligación general puede ser prioritaria sin tener garantía específica. La deuda subordinada se ubica detrás de acreedores de mayor rango, pero delante del capital.",
+        "Una hipoteca es una forma de garantía. La prioridad contractual puede existir sin ella. Confundir ambas propiedades impide interpretar correctamente el orden de cobro.",
+        "Entre las obligaciones sin garantía puede haber deuda prioritaria y subordinada. El contrato define su rango. La falta de un activo afectado no implica automáticamente el último lugar entre los acreedores.",
+        "El capital común es residual respecto de la deuda. La subordinación desplaza al acreedor detrás de otros acreedores, no detrás del accionista común. Bajo prioridad estricta, los accionistas cobran solo después de atender todas las deudas."
       ]
     },
     {
       "id": "c25-q020",
-      "tema": "Liquidaci?n con garant?a insuficiente",
+      "tema": "Liquidación con garantía insuficiente",
       "dificultad": "avanzada",
-      "pregunta": "Una empresa se liquida sin costos: tiene una garant?a que vale $60 millones y otros activos por $60 millones. Debe $100 millones de deuda garantizada y $80 millones de deuda general prioritaria; el faltante garantizado concurre a prorrata como cr?dito general. ?Cu?nto cobra cada clase?",
+      "pregunta": "Una empresa se liquida sin costos: tiene una garantía que vale $60 millones y otros activos por $60 millones. Debe $100 millones de deuda garantizada y $80 millones de deuda general prioritaria; el faltante garantizado concurre a prorrata como crédito general. ¿Cuánto cobra cada clase?",
       "opciones": [
         "$100 millones la garantizada y $20 millones la general.",
         "$80 millones la garantizada y $40 millones la general.",
@@ -376,10 +376,1150 @@
       ],
       "correcta": 1,
       "explicaciones": [
-        "La garant?a no asegura cobrar los $100 millones con prioridad sobre cualquier activo. Solo afecta los $60 millones especificados. El faltante compite con la deuda general a prorrata.",
-        "La garant?a entrega primero $60 millones a su acreedor. El faltante de $40 millones comparte los otros $60 millones con cr?ditos generales de $80 millones: recibe un tercio, o $20 millones. La deuda garantizada cobra $80 millones en total y la general $40 millones.",
+        "La garantía no asegura cobrar los $100 millones con prioridad sobre cualquier activo. Solo afecta los $60 millones especificados. El faltante compite con la deuda general a prorrata.",
+        "La garantía entrega primero $60 millones a su acreedor. El faltante de $40 millones comparte los otros $60 millones con créditos generales de $80 millones: recibe un tercio, o $20 millones. La deuda garantizada cobra $80 millones en total y la general $40 millones.",
         "El acreedor garantizado no pierde su derecho general por el faltante. A sus $60 millones iniciales agrega $20 millones de los activos libres. Repartir por mitades omite esa segunda etapa.",
-        "Esta distribuci?n suma $140 millones, pero solo existen $120 millones. Adem?s de respetar la garant?a, hay que limitar el reparto al patrimonio disponible. Los cr?ditos generales reciben la mitad de sus importes reconocidos."
+        "Esta distribución suma $140 millones, pero solo existen $120 millones. Además de respetar la garantía, hay que limitar el reparto al patrimonio disponible. Los créditos generales reciben la mitad de sus importes reconocidos."
+      ]
+    },
+    {
+      "id": "c25-q021",
+      "tema": "Subordinación estructural de una controladora",
+      "dificultad": "avanzada",
+      "pregunta": "Una controladora garantiza su bono de $90 millones con todas las acciones de una subsidiaria. La subsidiaria tiene activos realizables por $150 millones, deuda por $100 millones y acciones preferentes por $20 millones; la controladora posee además $10 millones de efectivo. Sin costos y con prioridad estricta, ¿cuánto cobra el bono de la controladora?",
+      "opciones": [
+        "$90 millones.",
+        "$60 millones.",
+        "$40 millones.",
+        "$150 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La garantía consiste en acciones, no en una hipoteca directa sobre todos los activos de la subsidiaria. Esas acciones valen únicamente el remanente después de sus obligaciones. El valor disponible no alcanza para pagar el nominal del bono.",
+        "Este resultado omite los $20 millones de preferentes de la subsidiaria. Su derecho precede al de las acciones comunes dadas en garantía. El residual correcto es $30 millones, más $10 millones de efectivo.",
+        "Primero cobran los acreedores de la subsidiaria y luego sus preferentes. El valor residual de sus acciones comunes es $150 − $100 − $20 = $30 millones. Sumado al efectivo de la controladora, solo hay $40 millones para su bono.",
+        "Se confunde el activo bruto de la subsidiaria con el valor de sus acciones. Antes deben atenderse deuda y preferentes. La controladora no puede apropiarse de recursos que pertenecen a esos tenedores."
+      ]
+    },
+    {
+      "id": "c25-q022",
+      "tema": "Bonos hipotecarios y valor de la garantía",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación describe correctamente las hipotecas abiertas, cerradas y sobre bienes adquiridos después?",
+      "opciones": [
+        "La cerrada limita nuevas emisiones contra la hipoteca; la abierta las permite según contrato y la cláusula de bienes futuros puede extender la garantía.",
+        "La abierta elimina cualquier derecho del acreedor sobre el bien.",
+        "La cerrada garantiza que el valor de reventa nunca baje.",
+        "La cláusula de bienes futuros desplaza siempre hipotecas que ya gravaban los activos adquiridos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La hipoteca cerrada impide ampliar la emisión contra esa garantía. Una hipoteca abierta permite nuevas obligaciones bajo sus condiciones. Los bienes adquiridos después pueden incorporarse, pero los gravámenes anteriores y el valor alternativo de uso siguen importando.",
+        "Abierta alude a la posibilidad de nuevas emisiones, no a la ausencia de garantía. El acreedor conserva los derechos pactados sobre la propiedad. Deben examinarse las condiciones que regulan la ampliación.",
+        "La estructura contractual no fija el precio de liquidación. Una máquina especializada puede perder gran parte de su valor fuera de su uso original. La calidad de la garantía depende también de ese mercado de reventa.",
+        "Un derecho sobre bienes futuros no borra por sí mismo gravámenes preexistentes. El acreedor puede quedar detrás del titular de una hipoteca anterior. Por eso los contratos pueden limitar adquisiciones de activos ya hipotecados."
+      ]
+    },
+    {
+      "id": "c25-q023",
+      "tema": "Certificados de equipo en fideicomiso",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo funciona típicamente el financiamiento mediante certificados de equipo en fideicomiso?",
+      "opciones": [
+        "La empresa recibe la propiedad libre de gravámenes antes de pagar y el fiduciario no tiene derechos.",
+        "Solo puede utilizarse para comprar terrenos sin construcciones.",
+        "Los certificados no tienen vencimientos porque representan acciones comunes.",
+        "El fiduciario conserva la titularidad formal del equipo hasta que se cancelan las obligaciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La retención del título es una característica central del mecanismo. El fiduciario no es un observador sin facultades. Su derecho sobre el equipo ayuda a explicar la mejor recuperación potencial.",
+        "El objeto habitual es equipo identificable y recuperable. No se limita a terrenos. Confundirlo con una hipoteca inmobiliaria oculta su estructura de titularidad.",
+        "Los certificados financian una obligación de deuda. Pueden estructurarse con varios vencimientos para amortizar el equipo. No otorgan por eso una participación residual equivalente a acciones comunes.",
+        "El mecanismo financia equipos como material ferroviario, aviones o buques. La empresa suele aportar un anticipo y el resto se cubre con certificados de distintos vencimientos. El dominio formal se transfiere al completarse los pagos, lo que refuerza la protección del acreedor."
+      ]
+    },
+    {
+      "id": "c25-q024",
+      "tema": "Titulización de activos",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene créditos de tarjetas, préstamos para autos y regalías musicales que generan cobros futuros. ¿Qué operación convierte esos derechos en fondos actuales mediante títulos respaldados por activos?",
+      "opciones": [
+        "Emitir acciones comunes sin relación con los derechos de cobro.",
+        "Agrupar derechos, transferirlos a una estructura separada y financiar su compra emitiendo títulos contra sus cobros.",
+        "Declarar que los créditos carecen de riesgo porque se emitieron bonos.",
+        "Vender títulos sin transferir ni comprometer ningún flujo ni activo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una emisión accionaria financia a la empresa mediante capital. No constituye por sí misma la venta estructurada de flujos de una cartera. La titulización requiere vincular los pagos a activos identificados.",
+        "La titulización transforma conjuntos de cobros en valores negociables. Los inversores reciben pagos derivados de los activos agrupados según la estructura contractual. La diversidad de activos posibles no elimina la necesidad de evaluar sus riesgos y su transferencia legal.",
+        "El envoltorio financiero no borra mora, impagos ni otros riesgos de los cobros. Puede redistribuirlos entre participantes o clases. El análisis debe seguir los activos que sostienen los títulos.",
+        "Sin activos o derechos de cobro comprometidos no existe el respaldo específico descrito. Una promesa corporativa general sería otra estructura. La clave está en identificar qué flujos financian el servicio de los valores."
+      ]
+    },
+    {
+      "id": "c25-q025",
+      "tema": "Traspasos hipotecarios y prepago",
+      "dificultad": "intermedia",
+      "pregunta": "Bajan las tasas y muchas familias refinancian sus hipotecas fijas. ¿Qué problema enfrentan los tenedores de certificados de traspaso hipotecario y por qué una cartera de hipotecas variables podría mitigarlo?",
+      "opciones": [
+        "Cobran obligatoriamente una prima que conserva toda la rentabilidad original.",
+        "Reciben antes el principal para reinvertir a menor tasa; las hipotecas variables reducen el incentivo a refinanciar por una baja de tasas.",
+        "No reciben el principal hasta la fecha original aunque los deudores hayan cancelado.",
+        "Las hipotecas variables eliminan tanto el riesgo de crédito como cualquier prepago."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una prima suficiente no surge automáticamente de un certificado de traspaso. Depende de lo que permitan los préstamos subyacentes y la estructura. El riesgo de recibir anticipadamente fondos es precisamente una exposición importante.",
+        "Los pagos anticipados de las hipotecas se transmiten a los certificados. La devolución ocurre cuando los rendimientos de reinversión resultan menos atractivos. Si la hipoteca ya ajusta su tasa hacia abajo, se reduce el beneficio de refinanciar por ese motivo, aunque persisten otros riesgos.",
+        "La modalidad de traspaso transmite los cobros de la cartera. No garantiza retener el capital invertido hasta cada fecha original. Si se busca otra distribución temporal, hace falta una estructura específica.",
+        "Las familias todavía pueden incumplir o cancelar por otros motivos. La tasa variable cambia incentivos y exposición a tasas, pero no garantiza todos los flujos. También puede aumentar la carga del deudor cuando sube la referencia."
+      ]
+    },
+    {
+      "id": "c25-q026",
+      "tema": "Tramos hipotecarios secuenciales",
+      "dificultad": "intermedia",
+      "pregunta": "Una estructura hipotecaria destina toda amortización primero al tramo A y luego al B. A tiene saldo de $30 millones y B de $50 millones; llegan $40 millones de principal, sin otros pagos ni pérdidas. ¿Cómo se distribuyen?",
+      "opciones": [
+        "$15 millones a A y $25 millones a B.",
+        "$20 millones a cada tramo.",
+        "$0 a A y $40 millones a B.",
+        "$30 millones a A y $10 millones a B."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esa distribución prorratea según los saldos iniciales. No respeta la prioridad temporal explícita de A. El tramo B solo recibe principal después de cancelar A.",
+        "La igualdad de importes no es la regla acordada. La estructura asigna los primeros cobros a un tramo específico. Deben agotarse los $30 millones de A antes de pasar a B.",
+        "Esto invierte el orden contractual. B está detrás de A para recibir amortizaciones. La prioridad temporal es lo que diferencia estos títulos de un traspaso proporcional simple.",
+        "La regla es secuencial y no proporcional. Los primeros $30 millones cancelan A por completo. Los $10 millones restantes amortizan B, que conserva un saldo de $40 millones."
+      ]
+    },
+    {
+      "id": "c25-q027",
+      "tema": "Fondo de amortización y recompra",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo exige retirar $5 millones de nominal. La empresa puede entregar bonos comprados en el mercado o retirarlos por sorteo a la par; cotizan a 80. Sin costos ni interés corrido, ¿qué alternativa minimiza el desembolso?",
+      "opciones": [
+        "Comprar $5 millones nominales por $4 millones y entregarlos al fondo.",
+        "Pagar $5 millones por sorteo porque la par siempre es más barata.",
+        "Comprar $4 millones nominales por $3,2 millones y considerar cumplida toda la obligación.",
+        "Entregar $1 millón porque esa es la diferencia entre nominal y mercado."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El requisito se mide en nominal retirado, no en efectivo gastado. A 80%, comprar $5 millones nominales cuesta $4 millones. Retirarlos a la par costaría $5 millones, por lo que la compra ahorra $1 millón.",
+        "La cotización de 80 está por debajo de la par de 100. El sorteo cuesta más para el mismo nominal retirado. La posibilidad de comprar en mercado es valiosa justamente en esta situación.",
+        "Solo se retirarían $4 millones de nominal. Ahorrar efectivo no autoriza a reducir el monto contractual que debe amortizarse. Falta comprar otro millón nominal para cumplir.",
+        "El millón representa el ahorro respecto de pagar a la par. No es la cantidad de deuda que debe cancelarse. Confundir ahorro y desembolso incumple el requisito del fondo."
+      ]
+    },
+    {
+      "id": "c25-q028",
+      "tema": "Amortización opcional",
+      "dificultad": "intermedia",
+      "pregunta": "Manteniendo constantes todas las demás condiciones, ¿qué efecto tiene conceder al emisor un fondo de amortización opcional que retira bonos a la par?",
+      "opciones": [
+        "Incrementa necesariamente el valor del bono porque todo retiro es favorable al tenedor.",
+        "No puede afectar el valor porque nunca cambia los flujos.",
+        "Reduce o deja igual el valor para el tenedor porque agrega una opción al emisor.",
+        "Convierte el bono en una opción de venta a favor del inversor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Retirar a la par puede privar al inversor de cupones valiosos cuando bajan las tasas. La facultad se ejerce a elección del emisor. La reducción de plazo no garantiza una mejora para el tenedor.",
+        "El derecho permite cambiar la duración de los pagos. Aunque no se ejerza hoy, su posibilidad futura tiene valor. La valuación debe reconocer esa flexibilidad unilateral.",
+        "El emisor puede elegir si usa esa facultad adicional. Le conviene usarla cuando recibir la par sea menos favorable para el inversor que conservar el bono. Por eso el derecho opcional del emisor no aumenta el valor del título si todo lo demás permanece igual.",
+        "La elección pertenece al deudor. Una opción de venta del inversor le permitiría a este exigir el pago. Son derechos de signo contrario para el tenedor."
+      ]
+    },
+    {
+      "id": "c25-q029",
+      "tema": "Amortización obligatoria y solvencia",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué no puede afirmarse que todo fondo obligatorio incrementa siempre el precio del bono?",
+      "opciones": [
+        "Porque los fondos obligatorios permiten siempre omitir pagos sin consecuencias.",
+        "Porque retirar deuda aumenta por definición su saldo pendiente.",
+        "Porque los bonos de mejor calidad siempre necesitan fondos mayores que los de peor calidad.",
+        "Puede reducir riesgo y vida promedio, pero el retiro a la par limita ganancias y la recompra barata debilita su prueba de solvencia."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un fondo obligatorio es una obligación contractual. No atenderlo puede activar remedios de los acreedores. Su efecto ambiguo en el valor no significa ausencia de exigibilidad.",
+        "Al retirar y cancelar bonos, el saldo disminuye. La ambigüedad surge del efecto sobre riesgo y oportunidades de reinversión. No se explica por una supuesta creación automática de nueva deuda.",
+        "Las emisiones más débiles suelen requerir amortizaciones más exigentes. Una empresa de gran calidad puede no necesitarlas. No hay una regla que haga mayores los fondos de las mejores emisoras.",
+        "Los retiros periódicos reducen la deuda pendiente y exigen pagos antes del vencimiento final. Pero una cancelación a la par puede quitar al inversor un bono que valdría más en mercado. Si se admiten recompras, la caída de precio por deterioro crediticio abarata cumplir el fondo y reduce su rigor como prueba de solvencia."
+      ]
+    },
+    {
+      "id": "c25-q030",
+      "tema": "Decisión de rescate",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono puede rescatarse hoy por $1.040. Sin esa facultad valdría $1.120; ignorá impuestos, avisos y costos de emisión, y suponé ejercicio inmediato racional. ¿Qué decisión y límite de valor corresponden?",
+      "opciones": [
+        "No rescatarlo; debe cotizar necesariamente a $1.120.",
+        "Rescatarlo; el precio del bono rescatable queda limitado a $1.040.",
+        "Rescatarlo pagando $1.120 aunque el contrato permita $1.040.",
+        "Rescatarlo solo si su valor sin rescate baja de $1.040."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ignora la opción contractual del emisor. Esa opción permite evitar que el acreedor conserve un flujo más valioso que el monto de rescate. El valor de un bono directo no se traslada íntegramente al rescatable.",
+        "El emisor puede extinguir por $1.040 una obligación que sin rescate valdría $1.120. Los inversores anticipan el ejercicio y no pagan más que el rescate inmediatamente disponible. Bajo estos supuestos, el valor queda limitado a $1.040.",
+        "El emisor no necesita pagar el valor de una obligación sin rescate. Tiene derecho a aplicar el precio previsto en el contrato. Pagar $80 adicionales regalaría valor a los tenedores.",
+        "La regla está invertida. Pagar $1.040 para retirar algo que vale menos entrega una ganancia innecesaria al acreedor. En ese caso no conviene ejercer el rescate."
+      ]
+    },
+    {
+      "id": "c25-q031",
+      "tema": "Valor de la opción de rescate",
+      "dificultad": "intermedia",
+      "pregunta": "Comparados con bonos directos de idénticos flujos prometidos, ¿cómo se valoran normalmente los bonos rescatables y por qué puede emitirlos una empresa?",
+      "opciones": [
+        "Valen más porque el inversor recibe gratis la opción de rescate.",
+        "Tienen el mismo precio porque una opción no ejercida todavía carece de valor.",
+        "Valen menos porque el emisor retiene una opción; esa flexibilidad también puede permitir liberarse de cláusulas restrictivas.",
+        "Son más baratos para el emisor sin ofrecer compensación alguna al comprador."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La opción pertenece al emisor, no al comprador. Su ejercicio puede limitar la ganancia del bonista cuando bajan las tasas. Por eso no justifica un mayor precio manteniendo lo demás constante.",
+        "Una opción puede tener valor antes de ser ejercida. Importan los escenarios futuros en que convendría usarla. Esa posibilidad ya se refleja en el precio inicial.",
+        "El tenedor ha cedido al emisor una opción sobre la continuidad de la deuda. Eso se compensa mediante menor precio o condiciones de rendimiento más favorables para el inversor. La flexibilidad puede ser útil para reorganizar financiamiento o salir de restricciones contractuales.",
+        "La flexibilidad no es gratuita en un mercado que valora correctamente. Los compradores reconocen que pueden perder cupones favorables. Exigen una compensación por aceptar ese derecho del emisor."
+      ]
+    },
+    {
+      "id": "c25-q032",
+      "tema": "Sensibilidad de bonos rescatables",
+      "dificultad": "avanzada",
+      "pregunta": "Tras una fuerte baja de tasas, una analista observa distintos rendimientos entre emisiones nuevas y antiguas del mismo riesgo. ¿Qué explicación contractual resulta razonable?",
+      "opciones": [
+        "Los cupones, precios de rescate y períodos de protección pueden dar distinto valor a las opciones incorporadas.",
+        "El mismo riesgo de crédito obliga a rendimientos cotizados idénticos aunque difieran las opciones.",
+        "La opción de rescate impide toda caída de precio cuando suben las tasas.",
+        "El cupón cero rescatable a la par tiene necesariamente la opción más valiosa para el emisor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento calculado hasta el vencimiento no separa el valor de las opciones. Una baja de tasas puede hacer más probable el rescate de ciertas emisiones que de otras. Al subir las tasas, la pérdida de valor de la opción cedida puede amortiguar parte de la caída del bono rescatable frente al directo comparable.",
+        "La calidad crediticia es solo una dimensión de comparación. Las opciones cambian los flujos que probablemente recibirá el inversor. Por eso pueden generar diferencias de rendimiento sin diferencias de solvencia.",
+        "Un bono rescatable sigue teniendo exposición a tasas. Si suben, el valor de sus flujos normalmente cae. La opción puede moderar parte de esa caída, pero no garantiza precio constante.",
+        "Un cupón cero suele cotizar bastante por debajo de la par antes del vencimiento. Eso puede hacer menos relevante rescatarlo a la par que un bono con cupones altos. No debe confundirse nominal con valor económico actual."
+      ]
+    },
+    {
+      "id": "c25-q033",
+      "tema": "Protección contra rescate y cupones escalonados",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono anuncia cupones crecientes, pero el emisor puede rescatarlo antes de cada aumento y hay una cláusula inicial que prohíbe solo refinanciarlo con deuda más barata. ¿Cómo debería evaluarlo un inversor?",
+      "opciones": [
+        "Considerar garantizado el cupón máximo porque figura en el cronograma.",
+        "Interpretar la prohibición de refinanciar como impedimento absoluto de cualquier rescate.",
+        "Distinguir prohibición de refinanciamiento y prohibición total de rescate, y no dar por seguros los cupones altos.",
+        "Suponer que el emisor rescatará solo cuando hacerlo perjudique a los accionistas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cronograma está sujeto a los derechos de rescate pactados. El emisor puede evitar pagar ciertas tasas futuras. La rentabilidad debe analizarse incluyendo ese escenario.",
+        "La cláusula descrita solo prohíbe una modalidad de refinanciamiento. Podría permitir pagar con otros recursos si el contrato lo admite. Es necesario distinguir el alcance exacto de la protección.",
+        "El cupón alto anunciado puede no llegar a pagarse si antes se ejerce el rescate. Además, una restricción sobre el origen del financiamiento no equivale necesariamente a protección absoluta. Deben leerse ambas condiciones para valorar los flujos efectivamente posibles.",
+        "Un emisor racional busca preservar el valor de sus accionistas. Ejercerá cuando el rescate le resulte conveniente, dentro del contrato. El comprador debe anticipar ese incentivo."
+      ]
+    },
+    {
+      "id": "c25-q034",
+      "tema": "Bonos revocables y prorrogables",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia hay entre un bono revocable a elección del inversor y uno prorrogable a su elección?",
+      "opciones": [
+        "El primero otorga rescate al emisor y el segundo exige conversión en acciones.",
+        "Ambos conceden exclusivamente opciones al emisor.",
+        "El prorrogable garantiza que no habrá cambios en las tasas de mercado.",
+        "El primero permite exigir un pago anticipado y el segundo extender el plazo contractual."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El rescate del emisor es un derecho distinto de la revocación del tenedor. La prórroga modifica el vencimiento, no convierte deuda en capital. Debe identificarse quién elige y qué puede exigir.",
+        "El enunciado asigna expresamente las decisiones al inversor. Eso cambia el signo del valor de las opciones para el bonista. No puede analizarse como una facultad exclusiva del emisor.",
+        "La opción no controla las tasas de mercado. Permite reaccionar ante ciertos cambios manteniendo la inversión más tiempo. Su utilidad depende de las condiciones contractuales y de la solvencia.",
+        "El derecho de venta o revocación permite al tenedor reclamar el pago bajo condiciones pactadas. El de prórroga permite conservar la obligación por más tiempo. Ambos pueden proteger al inversor, aunque el pago anticipado también puede generar una necesidad de liquidez al emisor."
+      ]
+    },
+    {
+      "id": "c25-q035",
+      "tema": "Opciones simultáneas de compra y venta",
+      "dificultad": "avanzada",
+      "pregunta": "Hoy se habilitan simultáneamente un rescate del emisor y una venta del inversor, ambos a $1.000. Sin costos, demoras ni riesgo de pago inmediato, el bono directo comparable vale $920; ¿qué ocurre?",
+      "opciones": [
+        "El inversor acepta $920 porque la opción de venta no altera el valor.",
+        "El inversor exige $1.000; si el valor directo fuera $1.080, ejercería el emisor al mismo precio.",
+        "El emisor exige al inversor entregar $1.000 adicionales.",
+        "Ambos esperan necesariamente hasta el vencimiento original."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La opción del inversor establece una alternativa superior a conservar algo de $920. Puede exigir $1.000 de inmediato. Ignorar ese derecho subvalúa el bono.",
+        "Con valor directo de $920, el tenedor prefiere recibir los $1.000 pactados. Si el directo valiera $1.080, el emisor preferiría cancelar por $1.000. Al activarse ambos derechos al mismo precio, ese importe fija el resultado bajo los supuestos indicados.",
+        "El rescate es un pago del emisor al acreedor. No es una obligación del inversor de aportar nuevo capital. La dirección del flujo está invertida.",
+        "Al menos una parte tiene incentivo a ejercer cuando el valor directo difiere del precio común. La espera no es el resultado racional necesario. En igualdad exacta ambas partes serían indiferentes en este modelo."
+      ]
+    },
+    {
+      "id": "c25-q036",
+      "tema": "Finalidad de las cláusulas de deuda",
+      "dificultad": "basica",
+      "pregunta": "¿Qué problema buscan contener las cláusulas que limitan endeudamiento, ventas de activos y distribuciones a accionistas?",
+      "opciones": [
+        "Que decisiones posteriores al préstamo transfieran valor desde los acreedores hacia los accionistas.",
+        "Que los acreedores obtengan cualquier rendimiento positivo.",
+        "Que los accionistas reciban información contable.",
+        "Que la empresa pueda realizar cualquier inversión rentable, aun compatible con el contrato."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Después de prestar, los acreedores quedan expuestos a cambios en riesgo y respaldo. Más deuda preferente, distribuciones excesivas o venta de activos pueden perjudicarlos. Las cláusulas reducen esos conflictos sin poder anticipar todos los eventos posibles.",
+        "El objetivo no es impedir la remuneración del capital prestado. Se intenta proteger el cobro prometido frente a conductas oportunistas. La rentabilidad exigida es parte normal del contrato.",
+        "La información contable puede facilitar la vigilancia del cumplimiento. No es el perjuicio que estas restricciones pretenden evitar. El problema central es cómo las decisiones modifican riesgo y patrimonio disponible.",
+        "Las restricciones pueden generar costos de flexibilidad, pero no se diseñan para bloquear toda creación de valor. Buscan limitar acciones que dañan derechos del acreedor. Por eso su alcance y posibilidad de renegociación importan."
+      ]
+    },
+    {
+      "id": "c25-q037",
+      "tema": "Capacidad de deuda bajo covenant",
+      "dificultad": "avanzada",
+      "pregunta": "Una cláusula exige activos tangibles netos de al menos dos veces la deuda prioritaria. Hay activos de $300 millones y deuda prioritaria de $100 millones; la deuda nueva se conserva íntegramente en efectivo que cuenta dentro de esos activos. ¿Cuál es la máxima deuda nueva permitida?",
+      "opciones": [
+        "$50 millones.",
+        "$150 millones.",
+        "$200 millones.",
+        "$100 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado supone que los activos se mantienen fijos en $300 millones. El enunciado establece que el efectivo nuevo sí integra la base. Hay que sumar la emisión a ambos lados relevantes de la restricción.",
+        "Con esa emisión habría activos por $450 millones y deuda por $250 millones. La cobertura sería 1,8 veces, inferior a dos. Se estaría superando el límite contractual.",
+        "Se compara el activo actual con deuda nueva sin contabilizar correctamente la deuda ya existente. Con $200 millones nuevos habría activos por $500 millones y deuda por $300 millones. La cobertura de dos veces no se cumple.",
+        "Si se emite x, los activos computables suben a 300 + x y la deuda a 100 + x. La condición es 300 + x ≥ 2 × (100 + x), de donde x ≤ 100. Con $100 millones nuevos quedan activos de $400 millones y deuda de $200 millones, exactamente dos veces."
+      ]
+    },
+    {
+      "id": "c25-q038",
+      "tema": "Empeño negativo y arrendamientos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un bono sin garantía puede exigir igual respaldo si se garantizan nuevas deudas y limitar arrendamientos financieros?",
+      "opciones": [
+        "Para impedir que la empresa use cualquier activo productivo.",
+        "Porque el empeño negativo entrega automáticamente una hipoteca sobre todos los activos desde la emisión.",
+        "Para evitar que nuevos derechos preferentes sobre activos reduzcan el respaldo económico del acreedor existente.",
+        "Porque un arrendamiento no produce obligaciones de pago."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Usar activos productivos no es el problema que se pretende resolver. La preocupación es la preferencia otorgada a otros financiadores y los compromisos resultantes. Las restricciones deben interpretarse según su redacción.",
+        "La cláusula es un compromiso sobre garantías futuras. No significa que ya exista una hipoteca constituida sobre cada activo. Su protección opera si se intenta conceder respaldo preferente a otra deuda.",
+        "El empeño negativo protege frente a la concesión posterior de garantías a otros acreedores. Puede exigir que los bonos existentes reciban respaldo igual y proporcional. Los arrendamientos también comprometen pagos y activos, por lo que pueden afectar una protección económica similar.",
+        "El arrendatario suele asumir una secuencia de pagos. Económicamente puede parecerse a deuda garantizada con el activo utilizado. Omitirlo permitiría eludir restricciones financieras por cambiar el nombre de la operación."
+      ]
+    },
+    {
+      "id": "c25-q039",
+      "tema": "Restricción acumulada de dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "Un contrato permite distribuciones acumuladas hasta la suma de utilidades retenibles acumuladas de $40 millones, aportes de capital de $10 millones y un margen inicial de $5 millones. Ya se distribuyeron $35 millones, incluidas recompras; ¿cuánto adicional admite esta cláusula?",
+      "opciones": [
+        "$20 millones.",
+        "$55 millones.",
+        "$5 millones.",
+        "$30 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El límite acumulado es $40 + $10 + $5 = $55 millones. Deben restarse los $35 millones ya utilizados. Quedan $20 millones disponibles, sin perjuicio de otras restricciones que pudiera tener la empresa.",
+        "Este es el límite total histórico. No descuenta las distribuciones realizadas. El saldo disponible se obtiene restando el uso acumulado de la capacidad.",
+        "Se considera únicamente el margen inicial. La cláusula también incorpora utilidades y aportes. Después de descontar lo ya distribuido, la capacidad restante es $20 millones.",
+        "Este importe omite el efecto completo de las distribuciones previas o agrega partidas indebidamente. La cuenta debe hacerse sobre el límite acumulado de $55 millones. Tras usar $35 millones, restan $20 millones."
+      ]
+    },
+    {
+      "id": "c25-q040",
+      "tema": "Riesgo de eventos y opciones de venta",
+      "dificultad": "intermedia",
+      "pregunta": "Un grupo separa los negocios que producen efectivo de la sociedad que conserva la deuda. ¿Qué protección contractual resulta más pertinente para los bonistas frente a ese tipo de evento?",
+      "opciones": [
+        "Una promesa de que la cotización bursátil nunca bajará.",
+        "Límites a transferencias de activos y una opción de venta con disparadores de cambio de control y deterioro crediticio.",
+        "Eliminar las cláusulas porque la reestructuración siempre aumenta el valor de la deuda.",
+        "Autorizar cualquier distribución extraordinaria sin revisar el respaldo restante."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cotización de las acciones no sustituye el respaldo de los acreedores. Además, una promesa de precio de mercado no es una protección operativa normal. Se necesitan derechos ligados a los activos, obligaciones y eventos relevantes.",
+        "Separar ingresos y deuda puede deteriorar la capacidad de pago de la sociedad deudora. Las restricciones a transferencias atacan ese mecanismo y ciertos puts permiten exigir pago ante eventos definidos. La protección efectiva depende de que la redacción cubra el hecho y de que exista capacidad de cumplir el pago.",
+        "Una reorganización puede beneficiar al grupo y perjudicar a una clase de títulos. Los intereses de accionistas y acreedores no coinciden necesariamente. El efecto debe analizarse sobre los flujos que respaldan la deuda.",
+        "Una distribución puede retirar el patrimonio que sostiene a los bonos. Autorizarla sin límites agrava el riesgo descrito. La cláusula debe preservar recursos o conceder remedios frente a la pérdida de respaldo."
+      ]
+    },
+    {
+      "id": "c25-q041",
+      "tema": "Conversión: razón y precio",
+      "dificultad": "basica",
+      "pregunta": "Un bono de nominal $1.200 permite recibir 40 acciones al convertir. ¿Cuál es su precio de conversión contractual?",
+      "opciones": [
+        "$40 por acción.",
+        "$48.000 por acción.",
+        "$30 por acción.",
+        "$1.200 por acción."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 40 representan la cantidad de acciones recibidas. No expresan un importe de dinero por acción. Para obtener ese importe hay que dividir el nominal por la razón de conversión.",
+        "Multiplicar nominal por acciones produce un número sin la interpretación pedida. El inversor entrega un bono y recibe 40 acciones en total. El costo nominal por cada una es $30.",
+        "El precio de conversión es el nominal entregado por cada acción recibida. Se calcula 1.200 / 40 = $30 por acción. Es una relación contractual y no necesariamente el precio bursátil actual.",
+        "El nominal corresponde al bono completo. Solo sería el precio por acción si el bono se convirtiera en una sola acción. Aquí ese importe debe distribuirse entre 40 acciones."
+      ]
+    },
+    {
+      "id": "c25-q042",
+      "tema": "Valor de conversión y opción incorporada",
+      "dificultad": "intermedia",
+      "pregunta": "Un convertible cotiza a $1.100, su bono directo comparable vale $800 y permite obtener 50 acciones de $20. ¿Cuáles son el valor de conversión y el valor incorporado de la opción, respectivamente?",
+      "opciones": [
+        "$1.100 y $100.",
+        "$800 y $200.",
+        "$1.000 y $100.",
+        "$1.000 y $300."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El precio de mercado del convertible no es el valor de las acciones recibidas. Estas valen $1.000. Los $100 son la prima sobre conversión, mientras que la opción vale $300 frente al bono directo.",
+        "Los $800 corresponden al componente de deuda. El valor de conversión requiere multiplicar acciones por cotización. Tampoco corresponde restar conversión y bono directo para medir toda la opción incorporada.",
+        "El primer importe está bien, pero el segundo usa la base equivocada. La opción se compara con el bono directo de $800. Restar $1.000 al precio solo calcula la prima sobre conversión.",
+        "El valor de conversión es 50 × 20 = $1.000. El valor de la opción incorporada se obtiene como 1.100 − 800 = $300. La diferencia contra el valor de conversión mide otra prima y no el valor total de la opción."
+      ]
+    },
+    {
+      "id": "c25-q043",
+      "tema": "Piso de arbitraje de un convertible",
+      "dificultad": "intermedia",
+      "pregunta": "Un convertible se puede cambiar inmediatamente por 20 acciones de $60 y se ofrece a $1.150. Sin costos ni restricciones, ¿qué operación revela una inconsistencia de precio?",
+      "opciones": [
+        "Comprarlo, convertir y vender las acciones para obtener $50.",
+        "Vender las acciones recibidas por solo $1.150 porque ese es el nominal.",
+        "Conservarlo hasta el vencimiento porque no existe arbitraje.",
+        "Comprar acciones por $1.200 y venderlas por $1.150."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las acciones recibidas valen 20 × 60 = $1.200. Comprar el convertible cuesta $1.150 y permite obtener esas mismas acciones de inmediato. La diferencia de $50 muestra por qué el precio no puede permanecer bajo el valor de conversión en este supuesto.",
+        "El precio de venta de las acciones lo fija su mercado. No lo limita el costo ni el nominal del convertible. Aquí pueden venderse por $1.200 en total.",
+        "No hace falta esperar si la conversión inmediata está habilitada. El intercambio permite capturar hoy la diferencia. Las restricciones o costos podrían modificar la conclusión, pero fueron excluidos.",
+        "Esa secuencia genera una pérdida de $50. El arbitraje aprovecha comprar más barato el derecho a recibir las acciones. La dirección correcta empieza por el convertible subvaluado."
+      ]
+    },
+    {
+      "id": "c25-q044",
+      "tema": "Convertible al vencimiento e incumplimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Al vencimiento, un convertible permite recibir acciones por $720. Por insuficiencia de activos, conservar el crédito permite recuperar solo $600 de su nominal de $1.000. Sin otros derechos, ¿qué elige el inversor?",
+      "opciones": [
+        "Exigir necesariamente $1.000 porque el nominal es un piso garantizado.",
+        "Convertir y recibir valor por $720.",
+        "Conservar el crédito para cobrar $600 porque la conversión nunca conviene en crisis.",
+        "Sumar $600 y $720 para cobrar $1.320."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El nominal prometido no garantiza recuperación íntegra. El componente de deuda también pierde valor si la empresa incumple. El piso económico depende de la solvencia.",
+        "Las alternativas son excluyentes. Se compara la recuperación efectiva del bono, $600, con los $720 de conversión. Conviene elegir el mayor importe, aunque ambos sean menores que el nominal.",
+        "La crisis no determina por sí sola cuál alternativa es superior. Hay que comparar los valores realizables. Según los datos, convertir mejora la recuperación en $120.",
+        "La conversión exige entregar el bono. No se conservan simultáneamente el crédito y las acciones. Por eso corresponde tomar el máximo y no sumar ambos valores."
+      ]
+    },
+    {
+      "id": "c25-q045",
+      "tema": "Valor antes del vencimiento",
+      "dificultad": "basica",
+      "pregunta": "Antes del vencimiento, ¿por qué un convertible puede valer más que su valor de conversión y que el bono directo comparable?",
+      "opciones": [
+        "Porque garantiza cobrar simultáneamente el nominal y todas las acciones.",
+        "Porque elimina el riesgo de crédito del emisor.",
+        "Porque conservar la elección futura tiene valor.",
+        "Porque una prima positiva demuestra necesariamente un error de mercado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El inversor debe entregar el bono para convertir. Los dos derechos no se cobran íntegramente a la vez. El valor adicional proviene de elegir y esperar.",
+        "La opción no asegura la solvencia de la compañía. Tanto deuda como acciones pueden perder valor si se deteriora el negocio. La protección del bono directo es un piso riesgoso.",
+        "El inversor puede esperar y decidir más adelante entre deuda y acciones. Esa flexibilidad permite participar de ciertas subas sin renunciar inmediatamente al componente de deuda. Por eso el precio puede superar ambos valores de ejercicio inmediato.",
+        "La prima puede reflejar valor temporal de la opción. No constituye por sí misma una oportunidad de arbitraje. Deben considerarse plazo, riesgo y términos contractuales."
+      ]
+    },
+    {
+      "id": "c25-q046",
+      "tema": "Rescate que induce conversión",
+      "dificultad": "intermedia",
+      "pregunta": "Un convertible rescatable ahora a $1.020 se convierte en 30 acciones de $40. El emisor anuncia el rescate y no hay demoras ni costos. ¿Qué elige el tenedor?",
+      "opciones": [
+        "Cobrar $1.020 porque el emisor puede prohibir toda conversión pactada.",
+        "Cobrar $2.220 sumando rescate y conversión.",
+        "Pagar $1.020 al emisor para conservar el bono.",
+        "Convertir para recibir acciones por $1.200."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El rescate no elimina el derecho de conversión que el enunciado mantiene. El tenedor conserva la alternativa más favorable. Elegir efectivo le haría resignar $180 de valor.",
+        "El rescate y la conversión son formas alternativas de cancelar la misma obligación. Elegir acciones implica entregar el bono. No se cobran ambos importes.",
+        "El pago de rescate sale del emisor hacia el acreedor. No es un aporte del acreedor. Además, el anuncio pone fin a la posibilidad de mantener indefinidamente el mismo bono.",
+        "El valor de conversión es 30 × 40 = $1.200. Supera el pago en efectivo de $1.020. El rescate obliga a decidir y, en este caso, induce la conversión."
+      ]
+    },
+    {
+      "id": "c25-q047",
+      "tema": "Aviso de rescate y liquidez",
+      "dificultad": "avanzada",
+      "pregunta": "La conversión vale apenas más que el rescate, pero los bonistas tienen 30 días para decidir. ¿Por qué la directora financiera podría esperar antes de anunciarlo?",
+      "opciones": [
+        "Una caída de la acción durante el aviso podría hacer que los bonistas elijan efectivo.",
+        "El aviso garantiza que la acción mantendrá su precio durante 30 días.",
+        "Anunciar el rescate genera automáticamente efectivo nuevo para la empresa.",
+        "El tenedor está obligado a convertir aunque el efectivo resulte mayor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Durante el aviso puede caer el valor de las acciones. Entonces el inversor puede preferir cobrar el rescate y la empresa necesitará efectivo. Un margen amplio reduce este riesgo, aunque también deben considerarse cupones, dividendos y condiciones del contrato.",
+        "El plazo de aviso organiza el ejercicio de derechos. No estabiliza el precio de mercado de la acción. La incertidumbre durante ese intervalo explica la cautela.",
+        "El anuncio no es una emisión de capital que recauda fondos. Si los tenedores eligen efectivo, genera un desembolso. Debe evaluarse la capacidad de financiarlo.",
+        "Inducir conversión no equivale a quitar toda elección. El bonista compara las alternativas disponibles al decidir. Si la conversión pierde atractivo, puede exigir el pago permitido."
+      ]
+    },
+    {
+      "id": "c25-q048",
+      "tema": "El argumento de deuda barata",
+      "dificultad": "basica",
+      "pregunta": "Un banco recomienda emitir convertibles porque su cupón es menor que el de la deuda directa. ¿Qué falta en esa comparación?",
+      "opciones": [
+        "Suponer que toda conversión futura será obligatoria.",
+        "Valorar la opción de conversión entregada al inversor.",
+        "Sumar el cupón del convertible al del bono directo.",
+        "Tratar el nominal del convertible como ingreso operativo permanente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un convertible ordinario deja la decisión al tenedor. Suponer conversión obligatoria cambia el instrumento. Tampoco resuelve cómo valorar el derecho concedido.",
+        "El menor cupón remunera parcialmente una opción valiosa para el comprador. El costo debe considerar deuda y opción conjuntamente. Una menor salida inmediata de caja no prueba menor costo económico total.",
+        "Son alternativas de financiamiento, no dos cupones que deban pagarse juntos. Sumarlos no mide ningún costo relevante. Hay que comparar paquetes completos con riesgos y derechos equivalentes.",
+        "El efectivo recibido es financiamiento y tiene contrapartidas contractuales. No es una venta operativa ni una ganancia gratuita. Ignorar la obligación y la opción exagera sus ventajas."
+      ]
+    },
+    {
+      "id": "c25-q049",
+      "tema": "Capital diferido e información privada",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa necesita capital permanente y cree que sus utilidades futuras son mayores que las esperadas por el mercado. ¿Cuál es la evaluación más cuidadosa de emitir un convertible ordinario?",
+      "opciones": [
+        "Garantiza capital nuevo al vencimiento sin importar la cotización.",
+        "Evita toda transferencia de valor aunque el mercado subvalúe las utilidades.",
+        "La conversión no está asegurada y vender una opción subvaluada también puede perjudicar a los accionistas actuales.",
+        "Equivale exactamente a vender acciones hoy sin ningún derecho adicional."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El inversor puede conservar el crédito si convertir no conviene. La empresa podría tener que pagar efectivo. Por eso el capital futuro no está garantizado.",
+        "El descuento sobre las perspectivas puede afectar la opción de conversión. Entregarla a un precio bajo puede transferir valor. El cupón reducido no elimina ese problema informativo.",
+        "La decisión de convertir pertenece al inversor y depende de las condiciones futuras. Si el mercado subestima las perspectivas, también puede valorar demasiado poco la opción entregada. Distinto sería un desacuerdo sobre riesgo, cuyos efectos sobre deuda y opción pueden compensarse parcialmente.",
+        "El convertible conserva una alternativa de deuda. Esa protección no existe en la acción común ordinaria. Los paquetes tienen pagos y señales informativas diferentes."
+      ]
+    },
+    {
+      "id": "c25-q050",
+      "tema": "Riesgo y participación en el alza",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa joven es difícil de evaluar y podría aumentar el riesgo luego de endeudarse. ¿Qué argumento económico favorece un convertible?",
+      "opciones": [
+        "La conversión hace innecesarias todas las cláusulas y evaluaciones de solvencia.",
+        "Toda mayor volatilidad incrementa por igual el valor de deuda directa y acciones.",
+        "La opción impide físicamente que la empresa cambie su estrategia.",
+        "El inversor participa del potencial alcista, lo que puede atenuar el conflicto por cambios de riesgo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una opción no sustituye la evaluación crediticia. Tampoco impide cualquier conducta perjudicial. Los contratos y la vigilancia siguen siendo relevantes.",
+        "Con pagos limitados, el acreedor directo puede perder ante más riesgo. Los accionistas y la opción pueden beneficiarse del mayor potencial alcista. Precisamente esa diferencia origina el conflicto.",
+        "El derecho modifica incentivos y distribución de resultados. No bloquea materialmente decisiones empresarias. Su efecto depende de la estructura y magnitud de la conversión.",
+        "La deuda directa limita la participación del acreedor en resultados favorables. La opción de conversión permite compartir parte de ese beneficio. Esto puede reducir desacuerdos sobre riesgo sin eliminar incumplimiento ni todos los conflictos."
+      ]
+    },
+    {
+      "id": "c25-q051",
+      "tema": "Dividendos y conversión anticipada",
+      "dificultad": "intermedia",
+      "pregunta": "El emisor de un convertible anuncia un dividendo elevado y no hay ajuste antidilución. ¿Qué debería revisar el tenedor antes de mantener el bono?",
+      "opciones": [
+        "Si conviene convertir antes para recibir el dividendo, considerando los derechos y flujos que entrega.",
+        "Suponer que cobrará el dividendo como cualquier accionista sin convertir.",
+        "Concluir que el dividendo aumenta mecánicamente el valor de la opción.",
+        "Convertir siempre, aunque el dividendo sea menor que los cupones y derechos sacrificados."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El bonista ordinariamente no cobra dividendos de las acciones que todavía no tiene. El pago puede reducir la cotización y afectar la opción. La conversión anticipada requiere comparar el beneficio con cupones, protección de deuda y valor de esperar que se abandonan.",
+        "Tener una opción sobre acciones no equivale a ser su propietario. El derecho a dividendos depende de tener las acciones en las fechas correspondientes. Deben revisarse las condiciones contractuales.",
+        "El dividendo retira valor de la sociedad y suele reducir el precio exdividendo. Eso perjudica una opción de compra sin compensación contractual. No produce un aumento automático de su valor.",
+        "No todo dividendo justifica ejercer antes. La decisión sacrifica otros derechos valiosos. El análisis debe comparar beneficios y costos de conversión."
+      ]
+    },
+    {
+      "id": "c25-q052",
+      "tema": "Dilución y ejercicio de warrants",
+      "dificultad": "intermedia",
+      "pregunta": "Hay 800 acciones y un inversor ejerce 200 warrants, cada uno por una acción nueva. ¿Qué porcentaje de las acciones tendrá ese inversor, que antes no poseía acciones?",
+      "opciones": [
+        "25%.",
+        "20%.",
+        "80%.",
+        "16,7%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Dividir 200 por 800 usa solo las acciones anteriores. El denominador debe incluir las recién emitidas. La participación se mide sobre las 1.000 acciones finales.",
+        "Tras el ejercicio existen 800 + 200 = 1.000 acciones. El inversor posee 200 / 1.000 = 20%. El efectivo ingresado también afecta el valor de la empresa, por lo que dilución porcentual no equivale automáticamente a pérdida de riqueza.",
+        "El 80% corresponde en conjunto a los accionistas anteriores. El nuevo inversor posee las otras 200 acciones. Confundir ambas participaciones invierte el resultado.",
+        "Esta proporción supone un total de 1.200 acciones que no surge del enunciado. Los warrants generan 200 acciones nuevas una sola vez. El total correcto es 1.000."
+      ]
+    },
+    {
+      "id": "c25-q053",
+      "tema": "Precio de ejercicio económico variable",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué valorar la opción de conversión exige más cuidado que valorar una opción bursátil con precio de ejercicio fijo en efectivo?",
+      "opciones": [
+        "El costo de ejercicio económico siempre es cero porque no se entrega efectivo.",
+        "El valor del bono entregado siempre coincide con el nominal antes del vencimiento.",
+        "Para convertir se entrega un bono cuyo valor varía con tasas, plazo y riesgo de crédito.",
+        "La conversión nunca altera la cantidad de acciones en circulación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No pagar efectivo no implica ausencia de costo. Se entrega un activo con valor económico. Ignorar ese sacrificio sobrevalúa la alternativa de convertir.",
+        "Un bono puede cotizar bajo o sobre la par. Tasas y calidad crediticia cambian su valor. El nominal contractual no es un precio de ejercicio económico constante.",
+        "El inversor renuncia al bono cuando convierte. Ese activo puede cambiar de precio y sufrir incumplimiento. Además hay que contemplar dilución y dividendos, por lo que una fórmula para ejercicio fijo no se traslada sin ajustes.",
+        "La conversión usualmente emite nuevas acciones. Eso cambia participaciones y debe incorporarse a la valuación. El ejercicio de una opción bursátil entre terceros normalmente no genera esa emisión."
+      ]
+    },
+    {
+      "id": "c25-q054",
+      "tema": "Convertibles obligatorios",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a un convertible obligatorio con límite al valor de acciones entregadas?",
+      "opciones": [
+        "Permite al tenedor exigir siempre el nominal en efectivo al vencimiento.",
+        "Mantiene una cantidad fija de acciones incluso cuando el contrato ajusta esa cantidad para aplicar el límite.",
+        "Es idéntico a un bono directo porque su ingreso periódico puede ser mayor que un dividendo.",
+        "Se transforma automáticamente en capital y puede limitar la participación del inversor en subas fuertes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La conversión obligatoria precisamente sustituye esa elección final ordinaria. El pago dependerá de la fórmula de entrega de acciones. No hay que suponer un reembolso fijo inexistente.",
+        "El enunciado admite una cantidad variable para respetar el límite de valor. Mantener siempre una razón fija podría incumplirlo. Debe seguirse la fórmula contractual.",
+        "El flujo periódico es solo una parte del instrumento. El pago final en acciones y sus límites modifican sustancialmente el riesgo. Por eso no equivale a deuda directa.",
+        "La conversión automática lo distingue de la elección de un convertible ordinario. El límite puede implementarse reduciendo la cantidad de acciones entregadas cuando sube su precio. Un ingreso periódico mayor no elimina esa limitación sobre el resultado final."
+      ]
+    },
+    {
+      "id": "c25-q055",
+      "tema": "Warrants: ejercicio y caja",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía tiene 100 bonos de $1.000 y 200 warrants separados. Se ejercen todos los warrants pagando $25 por acción; cada uno entrega una acción y no exige entregar bonos. ¿Qué cambia inmediatamente?",
+      "opciones": [
+        "Ingresan $5.000 y la deuda de $100.000 permanece.",
+        "No ingresa efectivo y desaparece la deuda de $100.000.",
+        "Ingresan $100.000 y se cancelan los warrants sin emitir acciones.",
+        "Ingresan $5.000 y se cancela automáticamente la deuda."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada warrant aporta $25, por lo que entran 200 × 25 = $5.000. Se emiten 200 acciones. Como no se entregan bonos, la deuda de 100 × 1.000 = $100.000 sigue pendiente.",
+        "Ese efecto se parece a una conversión ordinaria de bonos. Aquí el ejercicio se paga en efectivo y los bonos se conservan. Por eso entran fondos y la deuda no desaparece.",
+        "Los $100.000 son el nominal de los bonos existentes. No son el precio de ejercicio de los warrants. Además el ejercicio sí entrega acciones nuevas.",
+        "El ingreso está calculado correctamente. Sin embargo, los warrants separados no extinguen por sí mismos los bonos. La deuda solo se cancela conforme a sus propios términos."
+      ]
+    },
+    {
+      "id": "c25-q056",
+      "tema": "Separabilidad y usos de warrants",
+      "dificultad": "basica",
+      "pregunta": "Un inversor quiere conservar la renta del bono pero vender la exposición a acciones. ¿Qué instrumento facilita hacerlo y qué otro uso pueden tener esos derechos?",
+      "opciones": [
+        "Un convertible ordinario, cuyo bono y opción siempre cotizan por separado.",
+        "Un paquete con warrants separables; también pueden emitirse solos o remunerar servicios de colocación.",
+        "Un warrant inseparable, que necesariamente se vende sin el bono.",
+        "Un bono hipotecario, que da siempre una opción sobre acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "En el convertible ordinario ambos componentes están unidos. Puede analizarse su valor por separado sin que puedan venderse separadamente. La separación contractual requiere otro diseño.",
+        "La separabilidad permite conservar el bono y transferir el warrant. El derecho también puede emitirse sin deuda o como parte de una remuneración. Su función económica es una opción de compra de acciones a largo plazo.",
+        "El término inseparable implica que no puede hacerse esa venta independiente. No debe confundirse con un warrant separable. Hay que revisar las condiciones del paquete.",
+        "La hipoteca concede respaldo sobre activos. No incorpora necesariamente una opción de compra de acciones. Garantía y participación accionaria son derechos diferentes."
+      ]
+    },
+    {
+      "id": "c25-q057",
+      "tema": "Descuento y tratamiento fiscal del paquete",
+      "dificultad": "avanzada",
+      "pregunta": "En un régimen hipotético, separar un paquete de $1.000 asigna $900 al bono y $100 al warrant. Se permite deducir y gravar linealmente el descuento del bono en cinco años. ¿Qué importe anual adicional se reconoce?",
+      "opciones": [
+        "$100 anuales para cada parte.",
+        "$200 anuales de deducción y ningún ingreso del tenedor.",
+        "$20 de deducción del emisor y $20 de ingreso gravable del tenedor.",
+        "$20 de ingreso del emisor y $20 de deducción del tenedor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los $100 corresponden a toda la vida del bono. Reconocerlos cada año los multiplicaría indebidamente por cinco. La distribución lineal exigida da $20 por año.",
+        "El descuento total no es $1.000 ni se reconoce dos veces. Además el supuesto exige una contrapartida gravable para el tenedor. La ventaja del emisor puede tener un costo fiscal para el inversor.",
+        "El descuento es 1.000 − 900 = $100. Repartido en cinco años equivale a $20 anuales. Bajo el régimen expresamente supuesto, genera deducción para el emisor e ingreso para el inversor, aun sin ese pago anual en caja.",
+        "Se invierten los sujetos de la deducción y del ingreso. El descuento es costo financiero del emisor. Para el tenedor constituye rendimiento según el régimen planteado."
+      ]
+    },
+    {
+      "id": "c25-q058",
+      "tema": "Colocación privada y renegociación",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa mediana necesita términos especiales y anticipa posibles renegociaciones. ¿Por qué podría aceptar cláusulas privadas más estrictas?",
+      "opciones": [
+        "La deuda privada garantiza que nunca habrá incumplimiento técnico.",
+        "Todos los inversores públicos negocian individualmente los mismos términos en tiempo real.",
+        "Las cláusulas estrictas dejan de ser exigibles cuando el emisor es pequeño.",
+        "Un pequeño grupo de acreedores puede investigar y modificar condiciones con menores problemas de coordinación."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las condiciones estrictas pueden aumentar la probabilidad de una infracción contractual. Lo que cambia es la facilidad relativa de negociar. No desaparece la exigibilidad.",
+        "La dispersión de acreedores públicos suele complicar acuerdos. La estandarización facilita negociación de los títulos en mercado. No equivale a personalizar cada contrato continuamente.",
+        "El tamaño no anula los compromisos. El acreedor puede exigir remedios o nuevas condiciones. Aceptar términos duros se explica por la relación y la posibilidad de acordar modificaciones.",
+        "La concentración incentiva una investigación detallada y facilita coordinar cambios. Esto permite adaptar el contrato a necesidades específicas. La flexibilidad de renegociar no significa derecho automático a obtener una dispensa."
+      ]
+    },
+    {
+      "id": "c25-q059",
+      "tema": "Prima de iliquidez",
+      "dificultad": "intermedia",
+      "pregunta": "Una colocación privada de $60 millones exige 45 puntos básicos más que una emisión pública comparable. Con principal constante, ¿cuánto interés anual adicional representa?",
+      "opciones": [
+        "$270.000.",
+        "$2.700.000.",
+        "$27.000.",
+        "$45.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un punto básico equivale a 0,01 puntos porcentuales. Por eso 45 puntos básicos son 0,0045 en forma decimal. Multiplicar $60.000.000 por 0,0045 da $270.000 anuales, que debe compararse con ahorros de colocación y otras ventajas.",
+        "$2.700.000 equivale a 4,5% del principal. Se desplazó una posición decimal al convertir puntos básicos. La tasa adicional correcta es 0,45%.",
+        "$27.000 equivale a 0,045% del principal. La conversión redujo diez veces el diferencial. Corresponde usar 0,0045 como multiplicador.",
+        "El diferencial no es una suma fija de dólares. Debe aplicarse al monto financiado. Confundir puntos básicos con unidades monetarias omite la escala de la emisión."
+      ]
+    },
+    {
+      "id": "c25-q060",
+      "tema": "Cláusulas de liquidez en deuda privada",
+      "dificultad": "intermedia",
+      "pregunta": "Una cláusula exige razón corriente mínima de 1,5. Hay activos corrientes por $90 millones y pasivos corrientes por $50 millones; un pago de dividendos sale íntegramente del efectivo corriente. ¿Cuál es el dividendo máximo compatible con esta sola cláusula?",
+      "opciones": [
+        "$40 millones.",
+        "$15 millones.",
+        "$30 millones.",
+        "$60 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los $40 millones son el capital de trabajo neto inicial. La cláusula no permite consumirlo por completo. Con ese pago la razón corriente quedaría en 1.",
+        "Después de pagar D, la razón será (90 − D) / 50. Exigir al menos 1,5 implica 90 − D ≥ 75. Por lo tanto D no puede superar $15 millones, sin perjuicio de otras restricciones.",
+        "Con $30 millones de pago quedan activos corrientes de $60 millones. Dividir por $50 millones da 1,2. Eso viola el mínimo contractual.",
+        "Este importe confunde el activo disponible con capacidad de distribución. Quedarían solo $30 millones frente a pasivos corrientes de $50 millones. La razón de 0,6 incumple ampliamente."
+      ]
+    },
+    {
+      "id": "c25-q061",
+      "tema": "Proyecto separado y recurso",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue al financiamiento de proyectos sin recurso de un préstamo ordinario de la matriz?",
+      "opciones": [
+        "La deuda no debe pagarse si el proyecto obtiene ganancias.",
+        "El prestamista tiene automáticamente acceso ilimitado a todos los activos del grupo.",
+        "El cobro se apoya en activos, flujos y contratos del proyecto, sin reclamo general contra la matriz.",
+        "La sociedad separada elimina los riesgos operativos y políticos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las ganancias no suspenden el servicio de deuda. Los flujos se destinan a atender las obligaciones pactadas. La característica distintiva es el respaldo y alcance del reclamo.",
+        "El acceso ilimitado al grupo contradice el supuesto sin recurso. Pueden existir garantías concretas sin convertirlas en una garantía general. Hay que distinguir su alcance.",
+        "La sociedad del proyecto concentra activos y contratos relevantes. Los acreedores dependen de ese respaldo y de garantías específicas que se hayan pactado. La ausencia de recurso general limita la exposición de los patrocinadores, pero no elimina el riesgo del proyecto.",
+        "La separación jurídica organiza la distribución del riesgo. No evita fallas técnicas ni decisiones gubernamentales. Los contratos intentan administrar esos riesgos residuales."
+      ]
+    },
+    {
+      "id": "c25-q062",
+      "tema": "Apalancamiento del proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta cuesta $240 millones, financiados con 70% de deuda. De la deuda, $48 millones son subordinados y el resto prioritarios. ¿Cuánto capital aportan los socios y cuánta deuda prioritaria hay?",
+      "opciones": [
+        "$168 millones y $48 millones.",
+        "$72 millones y $168 millones.",
+        "$120 millones y $72 millones.",
+        "$72 millones y $120 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$168 millones es deuda, no capital. Los $48 millones corresponden al tramo subordinado. Se confundieron las categorías de financiamiento.",
+        "El capital está bien calculado. Sin embargo, los $168 millones incluyen la deuda subordinada. Hay que descontarla para hallar el tramo prioritario.",
+        "Se intercambian capital y deuda prioritaria sin respetar las proporciones. El capital representa 30% del costo. La deuda prioritaria es el remanente de la deuda total.",
+        "La deuda total es 240 × 0,70 = $168 millones. El capital es 240 − 168 = $72 millones. La deuda prioritaria resulta de restar $48 millones subordinados a $168 millones: $120 millones."
+      ]
+    },
+    {
+      "id": "c25-q063",
+      "tema": "Asignación de riesgos del proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta usa tecnología conocida, tiene un único proveedor y un comprador principal. ¿Qué estructura contractual resulta más coherente?",
+      "opciones": [
+        "Asignar construcción al contratista, operación al operador y compromisos de suministro y compra a las contrapartes correspondientes.",
+        "Asignar todos los riesgos al acreedor porque presta la mayor parte del dinero.",
+        "Evitar compromisos de suministro porque los contratos eliminan la necesidad de combustible.",
+        "Cargar al comprador los retrasos que solo controla el constructor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada riesgo debe ubicarse donde haya mejores capacidades para medirlo y controlarlo. Compromisos de entrega, desempeño, suministro y compra estabilizan los flujos. La tecnología conocida facilita estimar responsabilidades, aunque ningún contrato cubre todo.",
+        "El monto aportado no determina quién controla cada riesgo. Concentrarlos en el acreedor puede encarecer o impedir el financiamiento. Distribuirlos entre especialistas mejora los incentivos.",
+        "Los contratos aseguran condiciones de suministro, no reemplazan insumos físicos. Sin combustible la planta puede no operar. La continuidad del abastecimiento es un riesgo central.",
+        "El comprador no controla necesariamente la obra. Cargarle ese riesgo debilita el incentivo del contratista responsable. La asignación debe seguir capacidades y responsabilidades."
+      ]
+    },
+    {
+      "id": "c25-q064",
+      "tema": "Toma o paga, uso mínimo y maquila",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación describe correctamente tres contratos que pueden estabilizar ingresos de un proyecto?",
+      "opciones": [
+        "Toma o paga: pagar solo si hay consumo; uso mínimo: consumo libre sin piso; maquila: comprar acciones del proyecto.",
+        "Toma o paga: pagar aun sin retirar; uso mínimo: comprometer un volumen; maquila: aportar insumos para procesar y recibirlos transformados.",
+        "Toma o paga: garantía de la matriz por toda deuda; uso mínimo: seguro de mortalidad; maquila: opción de conversión.",
+        "Los tres transfieren necesariamente al cliente la propiedad jurídica de toda la planta."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las dos primeras definiciones eliminan justamente el compromiso que les da valor. La maquila es un acuerdo de procesamiento. No es una inversión accionaria por definición.",
+        "Estos contratos hacen más previsible la demanda o la remuneración del servicio. También alientan al cliente a evaluar cuidadosamente sus necesidades antes de comprometerse. No sustituyen la evaluación de solvencia de la contraparte obligada.",
+        "Se mezclan garantías financieras y derivados ajenos al propósito de esos contratos. Los tres se relacionan con la actividad y los ingresos del proyecto. Deben analizarse según sus obligaciones operativas.",
+        "Un compromiso comercial no transfiere por sí mismo la planta. La sociedad del proyecto puede conservar su propiedad. Hay que separar derechos sobre activos y obligaciones de compra o servicio."
+      ]
+    },
+    {
+      "id": "c25-q065",
+      "tema": "Contratos incompletos y participación",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué puede convenir que constructores y operadores también sean accionistas de la sociedad del proyecto?",
+      "opciones": [
+        "Porque así ya no necesitan cumplir sus obligaciones de construcción y mantenimiento.",
+        "Porque poseer acciones les garantiza recuperar todo el capital antes que los acreedores.",
+        "Porque comparten pérdidas de decisiones deficientes que los contratos no logran prever completamente.",
+        "Porque la participación elimina cualquier posibilidad de renegociación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ser accionista no extingue las obligaciones contractuales. La participación agrega un incentivo económico. No reemplaza entregas, mantenimiento ni estándares pactados.",
+        "Las acciones son residuales frente a la deuda. Precisamente por eso pueden absorber pérdidas. Una garantía de recuperación prioritaria reduciría el incentivo descrito.",
+        "Ningún contrato anticipa cada contingencia y cada decisión de calidad. Tener capital expuesto hace que los participantes soporten parte del daño de recortar indebidamente costos. Esa alineación complementa las penalidades y la vigilancia.",
+        "La renegociación puede seguir siendo necesaria ante contingencias. La participación modifica incentivos durante ese proceso. No vuelve completos ni inmutables los contratos."
+      ]
+    },
+    {
+      "id": "c25-q066",
+      "tema": "Moneda y riesgo político",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto cobra en moneda local y debe en divisas. ¿Qué puede aportar una garantía de convertibilidad respaldada por una institución multilateral?",
+      "opciones": [
+        "Garantizar automáticamente la rentabilidad de todas las inversiones de los accionistas.",
+        "Impedir físicamente que un gobierno incumpla cualquier compromiso.",
+        "Sustituir los contratos de construcción y operación por una promesa general.",
+        "Reducir ciertos riesgos cambiarios o de transferencia pactados y aumentar el costo político de interferir, sin eliminar todo riesgo soberano."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La garantía cubre hechos y montos definidos. No asegura necesariamente márgenes operativos ni retorno accionario. Extender su alcance sin leerla sobreestima la protección.",
+        "Un gobierno puede incumplir y desencadenar reclamos. La garantía modifica consecuencias y probabilidades. No hace materialmente imposible la interferencia.",
+        "Los riesgos técnicos y operativos siguen requiriendo acuerdos propios. La protección política atiende otra fuente de pérdida. Ninguna promesa genérica sustituye toda la red contractual.",
+        "La deuda en divisas requiere acceso a moneda para servirla. Una cobertura de tipo de cambio y una garantía contra interferencia pueden atender riesgos distintos. El respaldo multilateral mejora incentivos de cumplimiento, pero persisten límites, exclusiones y posibilidad de disputa."
+      ]
+    },
+    {
+      "id": "c25-q067",
+      "tema": "Incumplimiento de un comprador garantizado",
+      "dificultad": "avanzada",
+      "pregunta": "Un comprador estatal firmó un contrato de largo plazo, pero su situación financiera empeora y un nuevo gobierno cuestiona las tarifas. ¿Qué conclusión debería extraer el acreedor del proyecto?",
+      "opciones": [
+        "Los contratos reducen riesgos, pero la capacidad de pago y la posibilidad de renegociación siguen importando.",
+        "Un contrato de largo plazo vuelve irrelevante la solvencia del comprador.",
+        "Toda controversia permite reclamar sin límite contra la matriz del patrocinador.",
+        "El riesgo político solo existe durante la construcción."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una obligación contractual no crea por sí misma recursos para pagar. Dificultades del comprador y cambios políticos pueden producir disputas y nuevas condiciones. Deben evaluarse reservas, garantías ejecutables y continuidad económica del acuerdo.",
+        "La solvencia determina si los compromisos se cumplen efectivamente. Un contrato favorable puede ser insostenible para la contraparte. La duración no resuelve esa fragilidad.",
+        "El alcance del recurso depende de las garantías pactadas. Una controversia no crea automáticamente responsabilidad general de la matriz. Debe analizarse la estructura concreta.",
+        "El gobierno puede intervenir en tarifas o divisas durante la operación. La inversión ya inmovilizada puede aumentar la exposición. Por eso la protección debe cubrir también esa etapa."
+      ]
+    },
+    {
+      "id": "c25-q068",
+      "tema": "Costos y disciplina del proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto de tecnología madura cuesta $200 millones antes de gastos de estructuración. Estos gastos son 4% de ese monto. ¿Qué desembolso total requieren y qué razón puede justificar ese costo?",
+      "opciones": [
+        "$204 millones; el 4% equivale siempre a $4 millones.",
+        "$208 millones; separar flujos y comprometerlos al servicio de deuda puede limitar inversiones improductivas.",
+        "$192 millones; el costo de estructuración se resta de la inversión necesaria.",
+        "$208 millones; la estructura garantiza que nunca habrá dificultades financieras."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un porcentaje debe aplicarse al monto indicado. Cuatro por ciento de $200 millones son $8 millones. La cifra de $4 millones correspondería a otra base.",
+        "El gasto es 200 × 0,04 = $8 millones. El total asciende a $208 millones. En un negocio maduro con pocas oportunidades de reinversión, la disciplina sobre el efectivo libre puede compensar parte del costo de organizar la estructura.",
+        "Un gasto exige recursos adicionales. No reduce el costo físico de la inversión dado en el enunciado. Debe sumarse para calcular el desembolso total.",
+        "La cuenta está bien, pero la justificación es falsa. El apalancamiento y los contratos no eliminan el incumplimiento. La ventaja es disciplina y asignación de riesgos, con costos y límites."
+      ]
+    },
+    {
+      "id": "c25-q069",
+      "tema": "Flotante inverso",
+      "dificultad": "intermedia",
+      "pregunta": "Una nota de nominal $10.000 paga anualmente una tasa igual a 12% menos la tasa de referencia, sin límites vinculantes. Si la referencia sube de 3% a 5%, ¿qué pasa con el cupón anual?",
+      "opciones": [
+        "Sube de $300 a $500.",
+        "Sube de $900 a $1.100.",
+        "Baja de $900 a $700.",
+        "Se mantiene en $1.200."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se aplicó directamente la referencia al nominal. Ese sería otro contrato. Aquí la referencia se resta de una tasa fija.",
+        "Se cambió el signo del efecto. Cuando la referencia aumenta, la tasa contractual disminuye. No es una nota de margen positivo sobre la referencia.",
+        "La tasa inicial es 12% − 3% = 9%. Luego pasa a 12% − 5% = 7%. Sobre $10.000 el cupón baja de $900 a $700, como corresponde a un flotante inverso.",
+        "El 12% es un término de la fórmula, no el cupón final invariable. Hay que restarle la referencia vigente. Omitirla elimina la característica central del instrumento."
+      ]
+    },
+    {
+      "id": "c25-q070",
+      "tema": "Bonos vinculados a acciones y LYON",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción distingue correctamente un bono vinculado a un índice accionario de una nota LYON?",
+      "opciones": [
+        "El primero siempre entrega acciones del emisor; la LYON siempre paga cupón fijo anual.",
+        "Ambos son préstamos garantizados exclusivamente con inmuebles.",
+        "La LYON carece de opciones porque no paga intereses periódicos.",
+        "El primero liga pagos al índice; la LYON combina cupón cero, conversión y derechos de rescate y venta."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La indexación puede liquidarse en efectivo según el contrato. Además la LYON se caracteriza por cupón cero. No debe confundirse rendimiento con cupón periódico.",
+        "Estas denominaciones describen pagos y opciones. No especifican una garantía hipotecaria exclusiva. La existencia de garantía debe verificarse por separado.",
+        "Ausencia de cupones no significa ausencia de opciones. El inversor puede tener conversión y venta, mientras el emisor tiene rescate. Esos derechos afectan significativamente el precio.",
+        "Vincular pagos a un índice no implica necesariamente entregar acciones del emisor. Una LYON incorpora varios derechos en una deuda de cupón cero. Para valorarla hay que considerar la interacción de conversión, rescate y venta."
+      ]
+    },
+    {
+      "id": "c25-q071",
+      "tema": "Convertibles de precio variable",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono permite convertir en acciones por un valor fijo de $12.000 usando el precio bursátil del momento, sin piso. Si la acción baja de $12 a $6, ¿cuántas acciones recibe y qué problema aparece?",
+      "opciones": [
+        "Pasa de 1.000 a 2.000 acciones y aumenta la dilución de los accionistas previos.",
+        "Sigue recibiendo 1.000 acciones porque toda conversión tiene razón fija.",
+        "Pasa de 2.000 a 1.000 acciones y disminuye la dilución.",
+        "Recibe siempre acciones por valor nulo al bajar la cotización."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cantidad es el valor fijo dividido por el precio. Inicialmente es 12.000 / 12 = 1.000 y luego 12.000 / 6 = 2.000. Este diseño puede trasladar una mayor parte del deterioro a los accionistas previos y agravar la dilución.",
+        "Se aplicó la regla de un convertible ordinario a otro diseño. El enunciado fija valor, no cantidad de acciones. Una baja de precio exige entregar más unidades.",
+        "Los cocientes están invertidos. A menor precio se necesitan más acciones para completar el mismo valor. El efecto potencial sobre la dilución aumenta.",
+        "El precio sigue siendo positivo. El contrato busca entregar $12.000 mediante una cantidad ajustable de acciones. Eso no asegura cobro ante toda insolvencia, pero tampoco implica valor cero por una simple baja."
+      ]
+    },
+    {
+      "id": "c25-q072",
+      "tema": "Interés pagado en especie",
+      "dificultad": "intermedia",
+      "pregunta": "Una deuda PIK de $1.000 capitaliza una tasa anual de 10% mediante nuevos bonos al cierre de cada año. Sin amortizaciones, ¿cuál es el nominal total después de dos años?",
+      "opciones": [
+        "$1.200.",
+        "$1.210.",
+        "$1.100.",
+        "$1.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$1.200 suma dos intereses sobre el nominal original. Omite que los bonos emitidos el primer año también devengan interés bajo el supuesto indicado. La capitalización genera otros $10.",
+        "Al terminar el primer año se agregan $100 y el nominal llega a $1.100. En el segundo se emite 10% de ese saldo, es decir $110. El total es $1.210: no pagar efectivo hoy no elimina la acumulación de deuda.",
+        "$1.100 solo incorpora el primer año. Falta el interés del segundo sobre el saldo actualizado. La obligación sigue creciendo aunque no haya pagos en efectivo.",
+        "La modalidad cambia la forma de pagar el interés. No lo condona. Emitir nuevos bonos incrementa el principal pendiente."
+      ]
+    },
+    {
+      "id": "c25-q073",
+      "tema": "Cupón sensible a la calificación",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono de nominal total $80 millones paga 6% y aumenta 25 puntos básicos ante una rebaja de calificación. ¿Cuál es su nuevo cupón anual total?",
+      "opciones": [
+        "$24,8 millones.",
+        "$4,82 millones.",
+        "$5 millones.",
+        "$4,6 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se sumaron 25 puntos porcentuales a 6%. El incremento contractual es cien veces menor. No corresponde usar una tasa de 31%.",
+        "Este resultado agrega solo $20.000 al cupón anterior. Los 25 puntos básicos sobre $80 millones son $200.000. La conversión correcta de tasa es 0,0025.",
+        "Veinticinco puntos básicos equivalen a 0,25 puntos porcentuales. La tasa pasa a 6,25%. Aplicada a $80 millones da $5 millones, un aumento de $200.000 que ofrece protección parcial ante deterioro crediticio.",
+        "Se redujo el cupón pese a que la cláusula establece un aumento. El sentido busca compensar parte del deterioro del emisor. No garantiza recuperación ni elimina el riesgo de incumplimiento."
+      ]
+    },
+    {
+      "id": "c25-q074",
+      "tema": "Mortalidad, longevidad y catástrofes",
+      "dificultad": "intermedia",
+      "pregunta": "Una aseguradora teme una pandemia y un fondo de pensiones teme que sus beneficiarios vivan más. ¿Qué combinación de instrumentos es coherente?",
+      "opciones": [
+        "Ambos compran únicamente bonos que pierden todo su valor cuando aumenta la supervivencia.",
+        "La aseguradora compra un bono que pierde valor ante mortalidad elevada para cubrir ese mismo riesgo.",
+        "El fondo emite un bono que lo obliga a pagar más cuando sus beneficiarios viven más.",
+        "La aseguradora emite deuda que absorbe pérdidas ante mortalidad elevada y el fondo compra un bono que paga más ante mayor supervivencia."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una pérdida del instrumento ante mayor supervivencia agrava el problema del fondo. No basta con elegir un título de nombre similar. La dirección del pago debe compensar la exposición.",
+        "Comprar una posición que pierde en el mismo evento suma exposición. Para transferir ese riesgo, la aseguradora puede emitir el instrumento contingente. Importa distinguir emisor y tenedor.",
+        "Esa obligación adicional empeoraría la necesidad de caja del fondo. Como cobertura busca recibir más en ese escenario. La dirección del flujo está invertida.",
+        "La aseguradora puede transferir parte del riesgo a compradores de deuda contingente. El fondo necesita ingresos que crezcan cuando aumenta la duración esperada de las pensiones. Los bonos CAT siguen una lógica relacionada: trasladan pérdidas de desastres definidos a inversores dispuestos a asumirlas."
+      ]
+    },
+    {
+      "id": "c25-q075",
+      "tema": "Innovación y viabilidad operativa",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué evaluación integral corresponde antes de lanzar un nuevo título respaldado por cuentas por cobrar?",
+      "opciones": [
+        "Identificar demanda y beneficios de agencia o regulación, y asegurar sistemas de distribución de cobros y aislamiento jurídico frente a la quiebra.",
+        "Suponer que toda innovación crea valor porque tiene un nombre nuevo.",
+        "Dar por eliminado el riesgo económico apenas los créditos salen del balance contable.",
+        "Concentrarse solo en la fórmula de pago y dejar su ejecución legal y operativa para después."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La innovación puede ampliar alternativas de riesgo, responder a reglas fiscales o reducir conflictos de incentivos. Pero también necesita cobros y pagos administrables y derechos jurídicos ejecutables. La separación frente a una quiebra es parte del funcionamiento, no un detalle posterior.",
+        "La novedad no demuestra utilidad. Algunos diseños tienen costos o incentivos que impiden su permanencia. Hay que comparar beneficios económicos con costos y riesgos.",
+        "Una transferencia contable no prueba transferencia plena de riesgo. Pueden persistir garantías, compromisos o problemas de ejecutabilidad. Debe revisarse la sustancia de la estructura y el riesgo que retiene cada parte.",
+        "Una fórmula atractiva no basta para producir el instrumento eficientemente. Errores operativos o incertidumbre legal pueden impedir el cobro prometido. Su viabilidad debe resolverse antes de emitir."
+      ]
+    },
+    {
+      "id": "c25-q076",
+      "tema": "Cláusulas, garantías y rescate oportunista",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa intenta provocar un incumplimiento técnico para recomprar a la par bonos de cupón alto que no podía rescatar libremente. ¿Qué enseña este caso sobre la protección contractual?",
+      "opciones": [
+        "Provocar un incumplimiento demuestra siempre insolvencia económica inevitable.",
+        "Hay que revisar cómo interactúan incumplimiento, garantías y reembolso, porque una protección aislada puede usarse de modo imprevisto.",
+        "Un bono no rescatable nunca puede extinguirse antes del vencimiento por ningún motivo.",
+        "El mayor cupón permite al emisor ignorar las cláusulas de garantía."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una infracción contractual puede ocurrir sin falta de efectivo para pagar. El enunciado describe una estrategia sobre los términos. No permite concluir insolvencia inevitable.",
+        "La eficacia depende de la combinación de cláusulas y de sus remedios. Una causal de incumplimiento puede interactuar con facultades de reembolso de forma perjudicial para el bonista. El caso exige leer el contrato completo y distinguir infracción técnica de falta material de recursos.",
+        "La ausencia de rescate ordinario no elimina todas las reglas de aceleración o cancelación. Pueden existir derechos especiales ante eventos definidos. Justamente esa interacción requiere atención.",
+        "El cupón remunera el crédito dentro del contrato. No concede permiso para violar garantías. Los derechos y remedios deben evaluarse conforme a sus condiciones."
+      ]
+    },
+    {
+      "id": "c25-q077",
+      "tema": "Prioridad y endeudamiento adicional",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa propone emitir deuda subordinada para financiar nuevos activos. ¿Por qué un bonista prioritario puede tolerarlo más que un bonista subordinado, manteniendo lo demás constante?",
+      "opciones": [
+        "Porque toda deuda subordinada se convierte inmediatamente en capital sin obligación de pago.",
+        "Porque el acreedor prioritario tiene siempre una hipoteca sobre cualquier activo futuro.",
+        "El nuevo tramo subordinado no cobra antes que el prioritario; el subordinado existente debe vigilar tanto deuda total como deuda que lo precede.",
+        "Porque el acreedor subordinado cobra antes que cualquier acreedor prioritario si los fondos financian inversiones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La subordinación modifica el orden de pago. No extingue el compromiso de devolver la deuda ni la convierte por sí misma en acciones. Su cercanía al capital solo describe la perspectiva del acreedor que cobra primero.",
+        "Prioridad y garantía son dimensiones diferentes. Un crédito prioritario puede carecer de hipoteca. No debe suponerse afectación de activos futuros sin una cláusula correspondiente.",
+        "La deuda nueva aporta recursos sin anteponer su cobro al del acreedor prioritario. Este puede beneficiarse de más activos y respaldo residual, aunque importan riesgo del proyecto y contrato. El subordinado debe evaluar tanto el total de obligaciones como cuánto se ubicará por delante; del mismo modo, un acreedor garantizado mira especialmente los activos que efectivamente respaldan su crédito.",
+        "El destino de los fondos no invierte el orden de prelación. Si hay insuficiencia de activos, el subordinado sigue detrás del prioritario. Precisamente por eso le preocupa la cantidad de deuda que lo precede."
+      ]
+    },
+    {
+      "id": "c25-q078",
+      "tema": "Precio sucio alrededor del cupón",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono mantiene su rendimiento requerido y paga hoy un cupón de $40. Justo antes de pagarlo su precio sucio es $1.040; sin otras noticias ni transcurso de tiempo relevante, ¿cuál es el precio sucio inmediatamente después?",
+      "opciones": [
+        "$1.040, porque cobrar intereses nunca modifica el valor del activo.",
+        "$1.080, porque el cupón se suma nuevamente al bono.",
+        "$960, porque hay que descontar dos veces el cupón.",
+        "$1.000, porque se desprendió un flujo de $40."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Eso contaría el cupón cobrado sin retirarlo del valor del título. Los flujos ya pagados dejan de pertenecer al bono. La riqueza total puede mantenerse, pero se reparte entre bono y efectivo.",
+        "Se agrega un pago que ya estaba incorporado antes del desprendimiento. El precio posterior refleja solo los flujos restantes. El cupón recibido se lleva aparte como efectivo.",
+        "El cupón sale una sola vez del precio. Restar $80 duplica el ajuste. Con los supuestos dados, la disminución es exactamente $40.",
+        "Antes del pago, el precio incorpora el cupón inminente. Al cobrar $40, el tenedor conserva un bono de $1.000 y $40 de efectivo. El interés corrido se reinicia, por lo que el precio limpio no tiene que mostrar el mismo salto; entre cupones, el precio sucio incorpora el interés que va acumulándose."
+      ]
+    },
+    {
+      "id": "c25-q079",
+      "tema": "Convertible de cupón cero",
+      "dificultad": "avanzada",
+      "pregunta": "Un convertible de cupón cero paga $1.210 en dos años y permite recibir 20 acciones de $45. Un bono directo comparable exige 10% efectivo anual; el convertible cotiza a $1.080. ¿Cuánto vale la opción incorporada?",
+      "opciones": [
+        "$80.",
+        "$180.",
+        "$210.",
+        "$1.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El componente directo vale 1.210 / 1,10² = $1.000. La opción vale 1.080 − 1.000 = $80. Las acciones recibidas hoy valen $900, pero la diferencia de $180 contra conversión inmediata no mide toda la opción; el costo económico de convertir incluye entregar el bono.",
+        "$180 es la prima sobre el valor de conversión de 20 × 45 = $900. Para separar el componente opcional hay que restar el valor del bono directo. Son comparaciones distintas.",
+        "$210 es el aumento del bono directo desde $1.000 hasta su pago final de $1.210. Representa rendimiento acumulado de la deuda. No es el precio actual del derecho de conversión.",
+        "$1.000 es el valor presente del bono directo. La opción es el importe adicional que explica el precio del convertible. Confundir ambos componentes sobrestima el derecho sobre acciones."
+      ]
+    },
+    {
+      "id": "c25-q080",
+      "tema": "Deuda rescatable como cobertura natural",
+      "dificultad": "intermedia",
+      "pregunta": "Una entidad financia hipotecas fijas con bonos de largo plazo. Si bajan las tasas, sus clientes pueden cancelar y refinanciar; ¿por qué podría convenirle emitir bonos rescatables?",
+      "opciones": [
+        "Porque el rescate de sus bonos impide legalmente que los clientes prepaguen hipotecas.",
+        "Puede reducir también su costo financiero al rescatar y refinanciar la deuda, compensando parte de la caída de ingresos hipotecarios.",
+        "Porque el derecho de rescate pertenece a los compradores de bonos y les obliga a aportar fondos.",
+        "Porque así se garantiza un margen constante sin importar montos, fechas o costos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los contratos de pasivos no modifican automáticamente los derechos de los deudores hipotecarios. El prepago puede seguir ocurriendo. La cobertura actúa sobre el costo de financiamiento de la entidad.",
+        "Los activos y pasivos incorporan opciones de cancelación ejercidas por distintas partes. Al bajar las tasas, los clientes reducen el rendimiento de la cartera mediante prepago. La opción de rescatar pasivos permite abaratar el financiamiento y compensar esa exposición, aunque el ajuste depende de montos y condiciones.",
+        "El rescate es una facultad del emisor de los bonos. Al ejercerla paga a los tenedores en lugar de exigirles nuevos aportes. No debe confundirse con la opción de venta del inversor.",
+        "Las opciones pueden compensarse solo parcialmente. Fechas, volúmenes, primas y costos pueden diferir. Una cobertura natural no garantiza igualdad exacta de flujos en todos los escenarios."
       ]
     }
   ]

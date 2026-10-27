@@ -1,0 +1,1336 @@
+{
+  "capitulo": 29,
+  "titulo": "Análisis y planeación financieros",
+  "preguntas": [
+    {
+      "id": "c29-q001",
+      "tema": "Usuarios y estados financieros",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué bancos, accionistas y proveedores consultan los estados financieros?",
+      "opciones": [
+        "Porque garantizan el cobro de toda obligación.",
+        "Para evaluar distintos derechos e intereses con información común sobre situación y desempeño.",
+        "Porque muestran el valor de mercado exacto de cada recurso.",
+        "Porque sólo contienen información útil para accionistas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Informar una obligación no garantiza pagarla. La capacidad de cumplimiento depende de caja y vencimientos futuros. El acreedor necesita evaluar riesgos adicionales.",
+        "Los estados informan recursos, obligaciones y resultados. Cada usuario enfoca esa información según sus derechos y decisiones. Un acreedor prioriza el pago y un accionista puede concentrarse en rentabilidad y valor.",
+        "Muchos importes se basan en costos históricos. Además, algunos intangibles no aparecen identificados. Estimar valores económicos exige complementar las cifras contables.",
+        "Los proveedores necesitan evaluar cobrabilidad y los bancos capacidad de pago. Los empleados también dependen de la continuidad del negocio. La información financiera tiene varios públicos."
+      ]
+    },
+    {
+      "id": "c29-q002",
+      "tema": "Normas contables internacionales",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma informa utilidad bajo ciertas normas y pérdida bajo otras para el mismo período. ¿Qué explicación es razonable?",
+      "opciones": [
+        "Las normas sólo cambian el diseño visual del informe.",
+        "Una cifra diferente demuestra necesariamente fraude.",
+        "La diferencia prueba una salida inmediata de caja igual a la pérdida.",
+        "El reconocimiento de reservas y otros criterios puede cambiar el resultado sin modificar las operaciones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las reglas influyen en medición y oportunidad del reconocimiento. No se limitan a ordenar columnas. Pueden cambiar tanto utilidad como activos y pasivos.",
+        "Una diferencia normativa puede ser legítima. Cada sistema puede exigir tratamientos distintos para una misma operación. Para afirmar fraude hace falta evidencia independiente.",
+        "La pérdida contable no equivale automáticamente a un pago. Una provisión puede cambiar resultados sin salida inmediata de fondos. Deben distinguirse reconocimiento y caja.",
+        "Las normas pueden reconocer y medir de manera distinta los mismos hechos. Reservas, depreciación y otros tratamientos alteran resultados y patrimonio. Comparar exige conciliar criterios antes de atribuir diferencias al negocio."
+      ]
+    },
+    {
+      "id": "c29-q003",
+      "tema": "Armonización y tributación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación sobre normas internacionales y contabilidad fiscal es adecuada?",
+      "opciones": [
+        "Las normas comunes mejoran comparabilidad, pero subsiste juicio profesional y la base fiscal puede ser diferente.",
+        "Las normas basadas en principios eliminan toda interpretación.",
+        "La depreciación contable siempre coincide con la fiscal.",
+        "La armonización hace iguales las utilidades de todas las empresas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una norma común reduce algunas diferencias entre informes. Su aplicación todavía requiere estimaciones e interpretación. Además, la legislación tributaria puede establecer una base distinta de la contable.",
+        "Los principios deben aplicarse a hechos específicos. Eso requiere juicio y puede generar diferencias entre países o empresas. La armonización no elimina la necesidad de revisar notas.",
+        "La depreciación fiscal responde a reglas tributarias. La contable sigue los criterios del informe financiero. Pueden coincidir, pero no existe una identidad universal.",
+        "Comparabilidad no significa igualdad de resultados. Los negocios mantienen operaciones, costos y riesgos diferentes. Las normas comunes buscan tratar coherentemente hechos semejantes."
+      ]
+    },
+    {
+      "id": "c29-q004",
+      "tema": "Balance y resultados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia temporal hay entre balance y estado de resultados?",
+      "opciones": [
+        "Ambos contienen sólo pagos del último día del año.",
+        "El balance muestra ventas anuales y resultados saldos a una fecha.",
+        "El balance muestra saldos a una fecha y resultados resume ingresos y gastos de un período.",
+        "Ambos son pronósticos obligatorios a diez años."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La información no se limita al día del cierre. Incluye ventas a crédito y gastos sin pago corriente, como depreciación. Los movimientos de caja requieren un análisis específico.",
+        "La opción invierte las funciones. Las ventas son un flujo del estado de resultados. Los activos y pasivos son saldos del balance.",
+        "El balance describe recursos y obligaciones en un momento. Los resultados acumulan actividad durante un intervalo. Por eso muchas razones relacionan un flujo anual con saldos promedio.",
+        "Los estados históricos describen hechos ya observados. Los estados pro forma proyectan consecuencias futuras. Su horizonte depende de las necesidades del plan."
+      ]
+    },
+    {
+      "id": "c29-q005",
+      "tema": "Activos y liquidez",
+      "dificultad": "basica",
+      "pregunta": "¿Qué grupo contiene sólo activos circulantes habituales?",
+      "opciones": [
+        "Cuentas por pagar, inventarios y efectivo.",
+        "Caja, terrenos y maquinaria de larga vida.",
+        "Caja, valores de corto plazo, cuentas por cobrar e inventarios.",
+        "Deuda bancaria, caja y patentes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las cuentas por pagar son obligaciones con proveedores. No constituyen recursos de la empresa. Se restan al calcular capital de trabajo neto.",
+        "Terrenos y maquinaria de larga vida son activos no corrientes. No se espera venderlos pronto durante la operación normal. Incluirlos confundiría liquidez con inversión permanente.",
+        "Estos recursos se realizan o consumen en el ciclo operativo cercano. No tienen todos igual facilidad de conversión en caja. Esa diferencia motiva varias razones de liquidez.",
+        "La deuda bancaria es un pasivo. Las patentes reconocidas suelen ser activos intangibles de largo plazo. Sólo la caja pertenece claramente al grupo pedido."
+      ]
+    },
+    {
+      "id": "c29-q006",
+      "tema": "Intangibles y valores contables",
+      "dificultad": "intermedia",
+      "pregunta": "Una marca propia y la capacitación del personal no aparecen como activos identificados. ¿Qué conclusión corresponde?",
+      "opciones": [
+        "El patrimonio contable puede omitir recursos valiosos y diferir del valor económico.",
+        "Todo recurso no reconocido carece de valor.",
+        "El precio bursátil debe igualar al patrimonio contable.",
+        "La ausencia de intangibles vuelve inútil todo el balance."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Algunos desembolsos se registran como gastos aunque puedan beneficiar períodos futuros. Esos beneficios no siempre quedan reconocidos como activos. Por eso patrimonio contable y valor económico pueden diferir.",
+        "El reconocimiento exige condiciones de medición e identificación. Un recurso puede generar beneficios sin cumplirlas. Confundir registro con valor subestima activos intangibles.",
+        "La cotización incorpora expectativas de flujos futuros. El patrimonio refleja aportes y resultados bajo reglas contables. No existe una igualdad obligatoria entre ambos.",
+        "Las omisiones no invalidan todas las cifras. El balance sigue informando obligaciones y recursos relevantes. Lo adecuado es interpretarlo y complementarlo."
+      ]
+    },
+    {
+      "id": "c29-q007",
+      "tema": "Capital de trabajo y patrimonio",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene activos circulantes $600, pasivos circulantes $240, activos fijos netos $440 y deuda larga $300. Sin otras partidas, ¿cuánto valen CTN y patrimonio?",
+      "opciones": [
+        "$360 y $800.",
+        "$600 y $740.",
+        "$840 y $200.",
+        "$360 y $500."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El CTN está bien calculado. Los 800 son recursos financiados por capital de largo plazo. Todavía debe restarse deuda de 300 para obtener patrimonio.",
+        "El primer importe omite pasivos circulantes. El segundo resta sólo deuda larga del activo total. El patrimonio también debe descontar las obligaciones circulantes.",
+        "Los pasivos deben restarse de los activos circulantes. Sumarlos no mide una reserva neta. La identidad correcta produce CTN de 360 y patrimonio de 500.",
+        "El CTN es 600 menos 240, igual a 360. CTN más activos fijos netos suma 800. Restar deuda larga de 300 deja patrimonio de 500."
+      ]
+    },
+    {
+      "id": "c29-q008",
+      "tema": "Cálculo de utilidad neta",
+      "dificultad": "basica",
+      "pregunta": "Ventas $1.000, costos sin depreciación $700, depreciación $100 e intereses $40. El impuesto es 25% de utilidad antes de impuestos. ¿Cuál es la utilidad neta?",
+      "opciones": [
+        "$150.",
+        "$120.",
+        "$160.",
+        "$220."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cifra no descuenta correctamente intereses e impuestos. La base imponible es 200 menos 40, igual a 160. Aplicar 25% deja utilidad neta de 120.",
+        "La UAII es 1.000 menos 700 menos 100, igual a 200. Después de intereses quedan 160 y el impuesto es 40. La utilidad neta es 120.",
+        "Los 160 son utilidad antes de impuestos. Falta deducir el impuesto de 40. Lo disponible para los accionistas es 120.",
+        "Este resultado omite el efecto completo de la depreciación. Aunque no sea un pago corriente, sí reduce utilidad contable. El cálculo debe comenzar con UAII de 200."
+      ]
+    },
+    {
+      "id": "c29-q009",
+      "tema": "Origen y aplicación de recursos",
+      "dificultad": "intermedia",
+      "pregunta": "En un modelo simplificado, utilidad neta $90 y depreciación $30. Se invierten $25 en CTN y $140 en compras de activos fijos; se pagan $20 de dividendos. ¿Cuánto financiamiento externo se requiere?",
+      "opciones": [
+        "$95.",
+        "$65.",
+        "$45.",
+        "$185."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este cálculo omite reincorporar la depreciación. El gasto redujo utilidad sin ser un pago corriente. Al agregar 30, los fondos internos son 120 y el faltante 65.",
+        "Los fondos internos simplificados suman 90 más 30, igual a 120. Los usos son 25 más 140 más 20, igual a 185. El faltante externo es 65.",
+        "Los 45 omiten dividendos entre los usos. La distribución también requiere fondos. Agregar los 20 pagados lleva el faltante a 65.",
+        "Los 185 representan todos los usos. Hay generación interna para cubrir una parte. Sólo la diferencia respecto de 120 debe captarse externamente."
+      ]
+    },
+    {
+      "id": "c29-q010",
+      "tema": "Inversión fija bruta",
+      "dificultad": "intermedia",
+      "pregunta": "Los activos fijos netos pasan de $400 a $460 y la depreciación es $40. No hay bajas ni ventas. ¿Cuánto se invirtió en activos fijos?",
+      "opciones": [
+        "$500.",
+        "$60.",
+        "$20.",
+        "$100."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta cifra combina un saldo final con un gasto. No identifica qué se compró durante el año. Es necesario considerar también los 400 iniciales.",
+        "Los 60 son crecimiento neto del saldo. Una parte adicional de las compras compensó depreciación. Para reconstruir inversión bruta hay que agregar 40.",
+        "Restar depreciación al incremento neto duplica su deducción. El saldo final ya contiene esa reducción. La conciliación exige sumarla y obtiene 100.",
+        "El saldo final es saldo inicial más compras menos depreciación. Por tanto, las compras son 460 menos 400 más 40. La inversión bruta resulta 100."
+      ]
+    },
+    {
+      "id": "c29-q011",
+      "tema": "Emisión y utilidades retenidas",
+      "dificultad": "intermedia",
+      "pregunta": "El patrimonio pasa de $500 a $590, la utilidad neta es $100 y los dividendos $40. Sin recompras ni otros ajustes, ¿cuánto aportó una emisión de acciones?",
+      "opciones": [
+        "$30.",
+        "$90.",
+        "$60.",
+        "$150."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La utilidad retenida es 100 menos 40, igual a 60. El patrimonio aumentó 90. La diferencia de 30 corresponde a nuevos aportes.",
+        "El aumento patrimonial incluye ganancias retenidas. No todo proviene de vender acciones. Hay que descontar los 60 reinvertidos para aislar la emisión.",
+        "Los 60 son utilidades retenidas. Representan fondos internos y no aportes nuevos. La emisión explica los otros 30 del aumento patrimonial.",
+        "Sumar retención y aumento patrimonial duplica una fuente. La retención ya está incluida en la variación de patrimonio. Debe restarse para obtener aportes externos."
+      ]
+    },
+    {
+      "id": "c29-q012",
+      "tema": "Familias de razones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué asociación es correcta?",
+      "opciones": [
+        "Apalancamiento: días de inventario; rentabilidad: razón de efectivo; eficiencia: deuda/patrimonio.",
+        "Liquidez: precio/utilidad; eficiencia: dividendo/precio; valuación: razón rápida.",
+        "Liquidez: razón rápida; eficiencia: rotación de activos; valuación: precio/utilidad.",
+        "Rentabilidad: razón circulante; liquidez: margen; valuación: cobertura de intereses."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los días de inventario miden eficiencia operativa. La razón de efectivo mide liquidez y deuda/patrimonio apalancamiento. La opción asigna cada indicador a una pregunta equivocada.",
+        "Precio/utilidad y dividendo/precio incorporan datos bursátiles. No miden directamente liquidez o eficiencia operativa. La razón rápida analiza corto plazo y no cotización.",
+        "La razón rápida compara recursos cercanos a caja con obligaciones inmediatas. La rotación relaciona actividad e inversión en activos. Precio/utilidad combina cotización y ganancias para analizar valuación.",
+        "La razón circulante mide liquidez. El margen mide rentabilidad por unidad vendida. La cobertura analiza la capacidad relativa de atender intereses."
+      ]
+    },
+    {
+      "id": "c29-q013",
+      "tema": "Deuda y arrendamientos",
+      "dificultad": "intermedia",
+      "pregunta": "Deuda larga $240, obligaciones por arrendamientos $60 y patrimonio $700. Incluí arrendamientos como deuda. ¿Cuáles son deuda/capital total largo y deuda/patrimonio?",
+      "opciones": [
+        "42,86% y 30%.",
+        "24% y 34,29% aproximadamente.",
+        "30% y 42,86% aproximadamente.",
+        "30% y 70%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La opción intercambia denominadores. Deuda sobre capital total divide por deuda más patrimonio. Deuda sobre patrimonio usa sólo los 700 de fondos propios.",
+        "Esta alternativa excluye arrendamientos. Esos compromisos también implican pagos fijos y la consigna los incluye. La deuda debe sumar 300.",
+        "La deuda relevante suma 300. El capital total largo es 300 más 700, igual a 1.000, por lo que la primera razón es 30%. La segunda es 300 sobre 700, igual a 42,86%.",
+        "El 70% es patrimonio sobre capital total. No es deuda sobre patrimonio. Esa segunda razón se obtiene dividiendo 300 por 700."
+      ]
+    },
+    {
+      "id": "c29-q014",
+      "tema": "Definiciones de apalancamiento",
+      "dificultad": "avanzada",
+      "pregunta": "Se comparan empresas con deuda corta, pensiones, acciones preferentes e intereses minoritarios. ¿Qué hacer antes de comparar su deuda/activo?",
+      "opciones": [
+        "Homogeneizar obligaciones incluidas y bases de valuación según el objetivo del análisis.",
+        "Suponer que el nombre de la razón garantiza idéntica fórmula.",
+        "Excluir siempre arrendamientos porque no se llaman préstamos.",
+        "Sumar automáticamente todas esas partidas al patrimonio común."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "No hay una definición universal para todas las razones. Las partidas deben clasificarse por naturaleza y finalidad del análisis. También hay que aclarar si las bases son contables o de mercado.",
+        "La etiqueta puede ocultar numeradores diferentes. Una firma puede incluir corto plazo y otra excluirlo. Comparar sin conciliar produce conclusiones engañosas.",
+        "El nombre contractual no elimina un compromiso de pagos fijos. Un arrendamiento puede ser relevante para el riesgo. Su inclusión debe responder a la definición económica elegida.",
+        "Las partidas representan derechos y obligaciones distintos. No todas son capital común disponible para accionistas ordinarios. Hay que revisar condiciones antes de clasificarlas."
+      ]
+    },
+    {
+      "id": "c29-q015",
+      "tema": "Libros y mercado en deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Un acreedor fija un límite de deuda basado en patrimonio contable aunque el valor bursátil es mayor. ¿Qué fundamento puede tener?",
+      "opciones": [
+        "El nominal de toda deuda coincide siempre con su valor presente.",
+        "El patrimonio contable es siempre efectivo recuperable garantizado.",
+        "El mercado nunca contiene información relevante para prestamistas.",
+        "Parte del valor de mercado depende de intangibles difíciles de liquidar y vulnerables en una crisis."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor de deuda depende de tasas, riesgo y flujos pactados. Una deuda con cupón bajo puede valer menos que su nominal. Deben distinguirse importe registrado y valor presente.",
+        "Los activos pueden venderse por importes distintos de sus saldos. El patrimonio contable no es una caja disponible. Usarlo contractualmente no lo vuelve garantía de cobro.",
+        "El mercado aporta información sobre expectativas y riesgo. Sus limitaciones no lo hacen inútil. Un análisis sólido puede combinar bases contables y económicas.",
+        "El mercado incorpora expectativas e intangibles que pueden perder valor en dificultades. Un límite contable puede evitar depender sólo de esas expectativas. Sin embargo, tampoco el valor contable garantiza recuperación."
+      ]
+    },
+    {
+      "id": "c29-q016",
+      "tema": "Cobertura de intereses",
+      "dificultad": "basica",
+      "pregunta": "Usá cobertura = (UAII + depreciación)/intereses. Con UAII $120, depreciación $30 e intereses $25, ¿cuál es la cobertura?",
+      "opciones": [
+        "4,8 veces.",
+        "6 veces.",
+        "3,6 veces.",
+        "0,167 veces."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 4,8 usa sólo UAII sobre intereses. Esa es otra convención, pero no la solicitada. Al sumar depreciación se obtiene seis.",
+        "El numerador definido suma 120 más 30, igual a 150. Dividir por intereses de 25 da seis veces. Esto mide un margen relativo y no garantiza caja en cada vencimiento.",
+        "El 3,6 resta depreciación cuando debía agregarla. La UAII ya contiene ese gasto. El numerador indicado es 150 y no 90.",
+        "Esta alternativa invierte el cociente. La cobertura mide cuántas veces el resultado contiene los intereses. Por eso se calcula 150 sobre 25."
+      ]
+    },
+    {
+      "id": "c29-q017",
+      "tema": "Cobertura e impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora propone medir cobertura usando utilidad después de impuestos sin ajustes. ¿Cuál es la objeción principal?",
+      "opciones": [
+        "Los impuestos siempre superan a los intereses.",
+        "Los intereses se pagan antes del impuesto y conviene una medida coherente previa a ese impuesto.",
+        "Antes de pagar intereses hay que restar dividendos.",
+        "La cobertura debe medir sólo el principal adeudado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hay una relación universal entre esos importes. Dependen de rentabilidad, deuda y tasas. El problema relevante es la coherencia del numerador con el pago evaluado.",
+        "El impuesto grava el resultado que queda después de intereses. Si el resultado no alcanza para pagarlos, la base tributaria también cambia. Usar una utilidad posterior a impuestos sin ajustes mezcla cargas de manera inadecuada.",
+        "Los dividendos corresponden al residual de los accionistas. Los intereses tienen prioridad contractual. Restar dividendos primero invierte la secuencia de derechos.",
+        "La cobertura de intereses analiza una carga periódica específica. El principal requiere estudiar montos y fechas de amortización. Ningún indicador aislado reemplaza el calendario completo de pagos."
+      ]
+    },
+    {
+      "id": "c29-q018",
+      "tema": "Razones de liquidez",
+      "dificultad": "basica",
+      "pregunta": "Caja y valores $60, cuentas por cobrar $140, inventarios $200 y pasivos circulantes $200. Sin otras partidas corrientes, ¿cuáles son razón circulante, rápida y de efectivo?",
+      "opciones": [
+        "2; 1; 0,15.",
+        "2; 1,70; 0,30.",
+        "1; 2; 0,30.",
+        "2; 1; 0,30."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 0,15 divide caja por activos circulantes. Esa no es la razón de efectivo definida. El denominador correcto son pasivos circulantes de 200.",
+        "La rápida no excluye caja sino inventarios. Su numerador contiene caja, valores y créditos. Ese total es 200 y no 340.",
+        "La opción intercambia rápida y circulante. Excluir inventarios reduce o mantiene el numerador con los mismos pasivos positivos. Aquí la circulante es dos y la rápida uno.",
+        "El activo circulante suma 400 y dividido por 200 da dos. La rápida excluye inventarios y usa 200 sobre 200, igual a uno. La de efectivo usa 60 sobre 200, igual a 0,30."
+      ]
+    },
+    {
+      "id": "c29-q019",
+      "tema": "Préstamo y liquidez aparente",
+      "dificultad": "intermedia",
+      "pregunta": "Activos circulantes $400 y pasivos circulantes $200. Se toman $200 de deuda corta y se conservan en valores líquidos. ¿Qué ocurre inmediatamente?",
+      "opciones": [
+        "La razón circulante baja de 2 a 1,5 y el CTN sigue en $200.",
+        "La razón sube a 3 y el CTN a $400.",
+        "La razón sigue en 2 porque ambos saldos aumentan igual.",
+        "El CTN cae a cero y la razón a 1."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los activos pasan a 600 y los pasivos a 400. El cociente es 1,5, mientras la diferencia permanece en 200. La variación mecánica no equivale por sí sola a deterioro operativo.",
+        "La alternativa agrega activos y olvida la obligación. Un préstamo aumenta recursos y pasivos simultáneamente. Por eso no crea CTN adicional.",
+        "Sumar el mismo importe no conserva un cociente distinto de uno. Sí conserva la diferencia. La nueva razón es 600 sobre 400.",
+        "La diferencia inicial es 200 y se mantiene. Los saldos finales tampoco son iguales. Por eso ni el CTN es cero ni el cociente uno."
+      ]
+    },
+    {
+      "id": "c29-q020",
+      "tema": "Calidad de activos líquidos",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene razón circulante alta, inventarios obsoletos y pagos mañana. ¿Qué debe revisar la directora financiera?",
+      "opciones": [
+        "Reemplazar el calendario por la cotización bursátil.",
+        "Sólo confirmar que la razón supera uno.",
+        "Calidad de activos, razón rápida y calendario actualizado de caja y vencimientos.",
+        "Valuar todo inventario a precio de lista sin considerar demanda."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El precio de las acciones no indica cuándo ingresará caja a tesorería. Tampoco vuelve vendible el inventario. Los pagos requieren recursos disponibles en fechas concretas.",
+        "El exceso contable de activos no garantiza efectivo oportuno. Puede haber demoras o descuentos para venderlos. La capacidad de pago depende de plazos y valores realizables.",
+        "Las existencias obsoletas pueden aportar poca caja inmediata. La rápida ayuda a excluirlas, pero también importa la cobrabilidad de créditos. Los cocientes no reemplazan una proyección detallada de cobros y pagos.",
+        "Un precio de lista no garantiza compradores. La obsolescencia puede exigir fuertes rebajas. El análisis debe estimar recupero y tiempo de venta razonables."
+      ]
+    },
+    {
+      "id": "c29-q021",
+      "tema": "Cambios dentro del circulante",
+      "dificultad": "intermedia",
+      "pregunta": "Un cliente paga $50 que debía y luego la empresa compra inventario al contado por $50. Sin otros cambios, ¿qué sucede frente al inicio?",
+      "opciones": [
+        "El CTN aumenta $50.",
+        "Ambas razones aumentan.",
+        "La razón circulante queda igual y la rápida disminuye.",
+        "La rápida queda igual porque todos los activos corrientes son igualmente líquidos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El CTN es activo corriente menos pasivo corriente. Ninguno de esos totales cambia. Por lo tanto, no aumenta en 50.",
+        "Las operaciones sustituyen activos entre sí. No agregan activo corriente total ni reducen pasivos. Sólo cambia la composición y se reduce el numerador rápido.",
+        "Cobrar cambia cuentas por cobrar por caja sin alterar el total corriente. Comprar existencias cambia caja por inventario y conserva ese total y los pasivos. La rápida cae porque excluye inventarios.",
+        "La rápida distingue inventarios de recursos más cercanos a caja. Comprar existencias reduce su numerador. Ser corriente no implica igual facilidad de realización."
+      ]
+    },
+    {
+      "id": "c29-q022",
+      "tema": "Intervalo defensivo",
+      "dificultad": "intermedia",
+      "pregunta": "Caja, valores y créditos suman $180; costos operativos anuales relevantes $730. CTN $120 y activos totales $600. Con 365 días, ¿cuáles son intervalo defensivo y CTN/activos?",
+      "opciones": [
+        "90 días y 20%.",
+        "4,06 días y 20%.",
+        "90 días y 30%.",
+        "365 días y 50%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo diario es 730 dividido por 365, igual a dos. Los recursos definidos cubren 180 sobre dos, igual a 90 días. El CTN representa 120 sobre 600, igual a 20%.",
+        "Dividir costos anuales por recursos no produce días de cobertura. Primero hay que llevar costos a base diaria. Luego se divide 180 por dos.",
+        "El intervalo es correcto. El 30% usa recursos líquidos de 180 en lugar de CTN. La razón pedida usa 120 como numerador.",
+        "Los recursos no cubren todo el costo anual. Para un año harían falta 730 y sólo hay 180. Además, CTN sobre activos es una quinta parte y no la mitad."
+      ]
+    },
+    {
+      "id": "c29-q023",
+      "tema": "Rotación y saldos promedio",
+      "dificultad": "intermedia",
+      "pregunta": "Ventas $1.200; activos iniciales y finales $700 y $900; CTN inicial y final $180 y $220. ¿Cuáles son ventas/activos promedio y ventas/CTN promedio?",
+      "opciones": [
+        "0,67 y 0,167 veces.",
+        "1,33 y 5,45 veces.",
+        "1,71 y 6,67 veces.",
+        "1,5 y 6 veces."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La opción invierte ambas razones. Rotación expresa actividad por unidad de inversión. Las ventas deben estar en el numerador.",
+        "Estas cifras usan sólo saldos finales. La consigna pide promediar inicio y cierre. Las bases correctas son 800 y 200.",
+        "Estas cifras utilizan únicamente saldos iniciales. Eso no representa el promedio solicitado. El crecimiento durante el año también debe incorporarse.",
+        "Los activos promedio son 800 y el CTN promedio 200. Dividir 1.200 por cada base da 1,5 y seis. Los promedios vinculan el flujo anual con recursos mantenidos durante el período."
+      ]
+    },
+    {
+      "id": "c29-q024",
+      "tema": "Interpretar rotación alta",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene rotación de activos muy alta frente a competidoras. ¿Qué puede concluirse?",
+      "opciones": [
+        "Demuestra que todos sus proyectos tienen VPN positivo.",
+        "Puede reflejar eficiencia, capacidad casi plena o alto volumen; hay que investigar.",
+        "Garantiza expansión sin inversión adicional.",
+        "Prueba que su margen es el mayor de la industria."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El VPN depende de flujos futuros y costo de oportunidad. Una razón contable no verifica todas esas variables. No alcanza para afirmar creación de valor.",
+        "Un mismo indicador puede surgir de causas distintas. Una planta saturada vende mucho por activo pero quizá necesite inversión para crecer. Hay que combinarlo con capacidad, márgenes y estrategia.",
+        "Una alta utilización puede dejar poca capacidad libre. En ese caso crecer exige nuevos activos. La inversión necesaria debe estudiarse por separado.",
+        "Los negocios de volumen alto suelen tener márgenes pequeños. Una rotación grande puede compensar un margen reducido. No demuestra liderazgo en ambos factores."
+      ]
+    },
+    {
+      "id": "c29-q025",
+      "tema": "Días y rotación de inventario",
+      "dificultad": "basica",
+      "pregunta": "Costo anual de ventas $730 e inventario promedio $100. Con 365 días, ¿cuáles son días de inventario y rotación anual?",
+      "opciones": [
+        "73 días y 5 veces.",
+        "50 días y 7,3 veces.",
+        "50 días y 0,137 veces.",
+        "100 días y 3,65 veces."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Estos valores no corresponden al costo diario indicado. Los días usan inventario sobre costo diario. Su resultado es 50 y la rotación asociada 7,3.",
+        "El costo diario es dos. El inventario equivale a 100 sobre dos, igual a 50 días. La rotación es 730 sobre 100, igual a 7,3 y coincide con 365 sobre 50.",
+        "Los días están bien. El 0,137 es una fracción de año obtenida como inventario sobre costo anual. Las vueltas anuales se calculan con el cociente inverso.",
+        "Esta alternativa supone costo diario de uno. Los datos implican costo diario de dos. Por eso el inventario cubre 50 días y no 100."
+      ]
+    },
+    {
+      "id": "c29-q026",
+      "tema": "Cobranza y rotación de créditos",
+      "dificultad": "basica",
+      "pregunta": "Todas las ventas son a crédito y suman $1.460 al año; créditos promedio $120. Con 365 días, ¿cuáles son plazo de cobro y rotación anual?",
+      "opciones": [
+        "30 días y 0,082 veces.",
+        "120 días y 3,04 veces aproximadamente.",
+        "12,17 días y 30 veces.",
+        "30 días y 12,17 veces aproximadamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 0,082 mide créditos como proporción de ventas anuales. No expresa vueltas al año. La rotación es ventas sobre créditos y resulta 12,17.",
+        "Los 120 son un saldo monetario y no días. Para convertirlos hay que dividir por ventas diarias de cuatro. El plazo resulta 30 días.",
+        "La alternativa intercambia medidas y unidades. Ventas anuales sobre créditos produce rotaciones. Los días requieren ventas diarias como denominador.",
+        "Las ventas diarias son cuatro. Los créditos representan 120 sobre cuatro, igual a 30 días. La rotación anual es 1.460 sobre 120, aproximadamente 12,17."
+      ]
+    },
+    {
+      "id": "c29-q027",
+      "tema": "Política de crédito y morosidad",
+      "dificultad": "intermedia",
+      "pregunta": "El plazo de cobro sube de 35 a 60 días mientras crecen las ventas. ¿Qué debería hacer el director financiero?",
+      "opciones": [
+        "Investigar condiciones de crédito, antigüedad y cobrabilidad antes de concluir.",
+        "Declarar que todas las ventas adicionales son ficticias.",
+        "Celebrar automáticamente una mejora de liquidez.",
+        "Suponer que extender crédito siempre maximiza valor."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un plazo mayor puede responder a una estrategia comercial o a atrasos. La antigüedad y cobrabilidad ayudan a distinguir causas. Deben compararse beneficios de ventas con capital inmovilizado y riesgo.",
+        "El plazo no demuestra falsedad de ventas. Puede haber condiciones más amplias o dificultades de clientes. La afirmación exige evidencia adicional.",
+        "Cobrar más tarde inmoviliza recursos. El crecimiento comercial puede exigir más financiamiento. No hay una mejora automática de liquidez.",
+        "Ofrecer crédito puede atraer ventas pero genera costos y riesgo. No existe una extensión universalmente óptima. La decisión requiere evaluar el efecto incremental completo."
+      ]
+    },
+    {
+      "id": "c29-q028",
+      "tema": "Margen y RA definidos",
+      "dificultad": "intermedia",
+      "pregunta": "Definí margen = (UAII − impuestos informados)/ventas y RA = (UAII − impuestos informados)/activos promedio. UAII $180, impuestos $30, ventas $1.000 y activos promedio $750. ¿Qué obtenés?",
+      "opciones": [
+        "12% y 16%.",
+        "18% y 24%.",
+        "15% y 20%.",
+        "20% y 15%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Estas cifras implican un numerador de 120. Los datos no justifican otra deducción de 30. Debe respetarse el beneficio definido de 150.",
+        "La alternativa usa UAII sin restar impuestos. La definición exige deducir 30. Con numerador de 150 cambian ambos porcentajes.",
+        "El numerador común es 150. Dividir por ventas de 1.000 da margen de 15%. Dividir por activos de 750 da RA de 20%.",
+        "La opción intercambia las bases. Margen usa ventas y RA usa activos. Un numerador común no hace intercambiables los indicadores."
+      ]
+    },
+    {
+      "id": "c29-q029",
+      "tema": "Neutralizar el escudo fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "UAII $200, intereses $50, impuestos informados $45 y tasa marginal 30%; ventas $1.000. ¿Qué margen operativo después de impuestos corresponde como si no hubiera deuda?",
+      "opciones": [
+        "10,5%.",
+        "15,5%.",
+        "14%.",
+        "20%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 10,5% es utilidad neta sobre ventas. Incluye la deducción de intereses. La comparación pedida elimina ese efecto financiero y usa beneficio operativo después de impuestos.",
+        "Este cálculo resta sólo impuestos informados. Esos impuestos ya reflejan la deducción de intereses. Hay que agregar el escudo para neutralizar la financiación.",
+        "El escudo de intereses es 50 por 30%, igual a 15. Sin ese beneficio, el impuesto sería 45 más 15, igual a 60. El margen ajustado es 140 sobre 1.000, igual a 14%.",
+        "El 20% es margen antes de impuestos. La consigna pide después de impuestos sin escudo de deuda. El beneficio ajustado es 200 por 70%, igual a 140."
+      ]
+    },
+    {
+      "id": "c29-q030",
+      "tema": "Rendimiento patrimonial promedio",
+      "dificultad": "basica",
+      "pregunta": "Patrimonio inicial $400, final $600 y utilidad disponible para accionistas comunes $75. ¿Cuál es el RC sobre patrimonio promedio?",
+      "opciones": [
+        "15%.",
+        "12,5%.",
+        "18,75%.",
+        "30%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El promedio de patrimonio es 500. La utilidad de 75 sobre 500 da 15%. La base promedio acompaña el flujo de todo el año.",
+        "El 12,5% usa patrimonio final de 600. Esa no es la convención solicitada. Hay que promediar inicio y cierre.",
+        "El 18,75% usa sólo los 400 iniciales. Esa base puede servir para ciertas fórmulas de crecimiento. Aquí se pidió explícitamente patrimonio promedio.",
+        "El 30% usa una base de 250. El promedio correcto suma 400 y 600 y divide una sola vez por dos. El denominador es 500."
+      ]
+    },
+    {
+      "id": "c29-q031",
+      "tema": "Sesgos del rendimiento contable",
+      "dificultad": "avanzada",
+      "pregunta": "Una fábrica antigua muestra RA contable muy superior al costo de capital. ¿Por qué eso no prueba que convenga reproducirla hoy?",
+      "opciones": [
+        "El costo de capital sólo corresponde a empresas sin activos físicos.",
+        "Un RA alto demuestra necesariamente que el costo de capital está mal calculado.",
+        "La depreciación aumenta el saldo neto de los activos.",
+        "La base histórica depreciada puede ser baja y una nueva inversión debe evaluarse con costos y flujos actuales."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Toda inversión tiene costo de oportunidad. Los activos físicos también comprometen fondos de inversionistas. Su adquisición requiere una rentabilidad acorde con el riesgo.",
+        "La diferencia puede surgir de bases contables y no de una tasa incorrecta. También pueden existir rentas económicas. Hay que analizar causas antes de atribuir errores.",
+        "La depreciación reduce el saldo neto. Esa reducción puede elevar el rendimiento medido si el resultado se mantiene. La opción invierte el efecto contable.",
+        "El RA usa valores contables que pueden estar lejos del costo de reposición. Una base antigua y depreciada puede elevar el cociente. La nueva decisión requiere flujos incrementales y VPN sobre el desembolso actual."
+      ]
+    },
+    {
+      "id": "c29-q032",
+      "tema": "Pago y reinversión",
+      "dificultad": "basica",
+      "pregunta": "Una empresa gana $80 millones, distribuye $24 millones y tiene 10 millones de acciones. ¿Cuáles son pago de dividendos/utilidad, reinversión y dividendo por acción?",
+      "opciones": [
+        "70%; 30%; $2,40.",
+        "30%; 70%; $2,40.",
+        "30%; 70%; $8.",
+        "3%; 97%; $0,24."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La opción intercambia pago y retención. Se distribuyen 24 de una ganancia de 80. Por eso el pago es 30% y no 70%.",
+        "La razón de pago es 24 sobre 80, igual a 30%. La reinversión es el complemento, 70%. El dividendo por acción es 24 millones sobre 10 millones, igual a 2,40.",
+        "Las proporciones están bien. Los ocho corresponden a utilidad por acción de 80 sobre diez. El dividendo usa sólo los 24 distribuidos.",
+        "Los millones se cancelan en las divisiones. No debe agregarse un factor de diez. El pago es 0,30 y el dividendo unitario 2,40."
+      ]
+    },
+    {
+      "id": "c29-q033",
+      "tema": "Suavización de dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "La compañía mantiene el dividendo mientras cae transitoriamente su utilidad positiva. ¿Qué sucede con la razón de pago?",
+      "opciones": [
+        "Baja porque la empresa gana menos.",
+        "Sube aunque el dividendo no cambie.",
+        "Queda igual mientras no cambie la cantidad de acciones.",
+        "Su aumento demuestra mayor caja operativa."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La opción interpreta al revés el denominador. Menores ganancias con igual distribución elevan la fracción pagada. Para mantener el cociente debería bajar también el dividendo.",
+        "La razón divide dividendos por utilidades. Con numerador constante y denominador positivo menor, el cociente aumenta. Eso puede reflejar una política de estabilidad del pago absoluto.",
+        "La cantidad de acciones no fija la proporción distribuida. Usar totales o importes por acción da el mismo cociente. Aquí cambia la ganancia y por eso cambia la razón.",
+        "La razón usa utilidad contable y no caja operativa. Puede subir cuando la generación interna empeora. No demuestra un aumento de liquidez."
+      ]
+    },
+    {
+      "id": "c29-q034",
+      "tema": "Precio, ganancias y dividendos",
+      "dificultad": "basica",
+      "pregunta": "Una acción vale $40, gana $5 por acción y paga $2. ¿Cuáles son P/U, rendimiento del dividendo y razón de pago?",
+      "opciones": [
+        "20 veces; 12,5%; 40%.",
+        "8 veces; 40%; 5%.",
+        "0,125 veces; 5%; 40%.",
+        "8 veces; 5%; 40%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Veinte es precio sobre dividendo y 12,5% es utilidad sobre precio. No corresponden a los dos primeros indicadores pedidos. Deben usarse 40 sobre cinco y dos sobre 40.",
+        "La alternativa intercambia rendimiento bursátil y razón de pago. El primero divide por precio. La segunda divide por utilidad.",
+        "El 0,125 es utilidad sobre precio. Es el inverso del múltiplo solicitado. El P/U usa precio como numerador.",
+        "Precio sobre utilidad es 40 sobre cinco, igual a ocho. Dividendo sobre precio es dos sobre 40, igual a 5%. Dividendo sobre utilidad es dos sobre cinco, igual a 40%."
+      ]
+    },
+    {
+      "id": "c29-q035",
+      "tema": "Interpretación del P/U",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene P/U alto. ¿Qué interpretación es compatible con ese dato?",
+      "opciones": [
+        "Puede reflejar crecimiento esperado, ganancias seguras o utilidades actuales transitoriamente bajas.",
+        "Demuestra que la acción está barata.",
+        "Sólo puede deberse a utilidades actuales extraordinariamente altas.",
+        "Garantiza igual crecimiento de dividendo y precio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El múltiplo depende de expectativas y de las ganancias usadas como base. Una utilidad deprimida puede elevarlo aun sin gran optimismo. Si la utilidad se acerca a cero, el cociente puede volverse enorme y perder utilidad comparativa.",
+        "El cociente no demuestra una subvaluación. Un precio alto puede estar justificado o incorporar expectativas excesivas. La valuación requiere flujos esperados y rendimiento exigido.",
+        "Con precio fijo, ganancias mayores reducen P/U. Un denominador pequeño lo eleva. La alternativa invierte esa relación.",
+        "El múltiplo no impone una regla de dividendos. Precio y distribución dependen de decisiones y expectativas distintas. No hay una igualdad automática de crecimiento."
+      ]
+    },
+    {
+      "id": "c29-q036",
+      "tema": "Dividendos y retorno total",
+      "dificultad": "intermedia",
+      "pregunta": "Dos acciones ofrecen igual rendimiento del dividendo. ¿Qué puede decirse sobre su retorno esperado total?",
+      "opciones": [
+        "Debe ser cero si el dividendo es estable.",
+        "Debe ser igual porque el dividendo es la única fuente de retorno.",
+        "Puede diferir porque también importa la ganancia o pérdida esperada de capital.",
+        "Será siempre mayor en la acción de menor precio nominal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un dividendo constante sigue siendo ingreso. Además, el precio puede cambiar. No hay motivo para que el retorno total sea necesariamente cero.",
+        "La variación de precio también genera ganancias o pérdidas. Excluirla deja incompleta la rentabilidad del inversionista. Los dos títulos pueden tener trayectorias esperadas distintas.",
+        "El retorno combina pagos y cambio de precio. Las empresas pueden tener diferentes perspectivas de crecimiento y riesgo. Igual rendimiento por dividendos no implica igual retorno total.",
+        "El precio nominal depende también de la cantidad de acciones. Una acción barata por unidad no garantiza mayor retorno porcentual. Hay que relacionar flujos y variación de valor con la inversión."
+      ]
+    },
+    {
+      "id": "c29-q037",
+      "tema": "Mercado a libros",
+      "dificultad": "basica",
+      "pregunta": "Patrimonio contable $300 millones, 10 millones de acciones y precio $45. ¿Cuál es mercado/libros y su interpretación?",
+      "opciones": [
+        "15; el mercado paga quince veces el patrimonio.",
+        "0,667; el mercado valúa por debajo de libros.",
+        "1,5; el mercado valúa el patrimonio 50% sobre su saldo contable.",
+        "1,5; garantiza recuperar $45 por acción al liquidar."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los millones se cancelan al obtener valor por acción. No corresponde introducir un factor de diez adicional. El cociente correcto es 45 sobre 30.",
+        "El 0,667 invierte la razón. La medida solicitada usa mercado sobre libros. Como 45 supera 30, debe resultar mayor que uno.",
+        "El valor contable unitario es 300 sobre diez, igual a 30. El precio sobre libros es 45 sobre 30, igual a 1,5. La capitalización de 450 supera 50% al patrimonio registrado.",
+        "La cifra es correcta pero no garantiza liquidación. La cotización recoge expectativas de continuidad y flujos futuros. El recupero efectivo depende de realizaciones y obligaciones."
+      ]
+    },
+    {
+      "id": "c29-q038",
+      "tema": "DuPont operativo",
+      "dificultad": "intermedia",
+      "pregunta": "Una cadena tiene margen de 6% y rotación de 2,5; otra margen de 15% y rotación de 1. Con definiciones consistentes, ¿qué RA tienen?",
+      "opciones": [
+        "Ambas 15%.",
+        "8,5% y 16%.",
+        "6% y 15%.",
+        "40% y 15%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "DuPont multiplica margen por ventas sobre activos. La primera obtiene 0,06 por 2,5, igual a 15%. La segunda obtiene 0,15 por uno, también 15%.",
+        "No corresponde sumar margen y rotación. Sus cocientes deben multiplicarse para cancelar ventas. La suma no reconstruye beneficio sobre activos.",
+        "Este resultado omite la rotación de la primera cadena. Un margen pequeño puede compensarse con ventas altas por activo. Incorporar 2,5 eleva su RA a 15%.",
+        "La opción combina factores mediante una división incorrecta. El rendimiento es margen multiplicado por rotación. El producto de la primera firma es 15%."
+      ]
+    },
+    {
+      "id": "c29-q039",
+      "tema": "Integración vertical",
+      "dificultad": "intermedia",
+      "pregunta": "Un minorista compra un proveedor y aumenta su margen, pero incorpora activos. ¿Cómo evaluar el efecto sobre RA consolidado?",
+      "opciones": [
+        "Suponer que toda integración eleva necesariamente RA.",
+        "Mirar sólo margen porque los activos adquiridos no cuentan.",
+        "Sumar ventas de ambas firmas sin eliminar transacciones internas.",
+        "Calcular margen por nueva rotación y eliminar ventas internas al consolidar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La integración necesita eficiencias que justifiquen activos adicionales. Sin ventajas de gestión puede no mejorar rendimiento. El efecto debe calcularse y no suponerse.",
+        "Los activos adquiridos aumentan la inversión del grupo. Eso modifica el denominador del rendimiento. Analizar sólo margen omite una parte esencial de DuPont.",
+        "Sumar operaciones internas duplica actividad intermedia. La consolidación debe eliminarlas. De otro modo se exageran ventas y se distorsiona rotación.",
+        "Más margen puede quedar compensado por menor rotación. Las ventas internas no son ingresos a terceros del grupo. El rendimiento depende del beneficio consolidado respecto de todos los activos comprometidos."
+      ]
+    },
+    {
+      "id": "c29-q040",
+      "tema": "DuPont patrimonial",
+      "dificultad": "avanzada",
+      "pregunta": "Usá RC = (activos/patrimonio) × (ventas/activos) × [(UAII − impuestos)/ventas] × [utilidad neta/(UAII − impuestos)]. Los factores son 2; 1,5; 10%; 0,8. ¿Cuál es RC?",
+      "opciones": [
+        "30%.",
+        "24%.",
+        "12%.",
+        "3,3%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 30% omite el factor de 0,8. Los intereses reducen el beneficio disponible para propietarios. Incorporar esa carga lleva a 24%.",
+        "El producto es dos por 1,5 por 0,10 por 0,8, igual a 0,24. Los factores centrales dan RA de 15%. Multiplicador y carga financiera lo transforman en RC de 24%.",
+        "El 12% omite activos sobre patrimonio. Los accionistas financian sólo una parte de los activos. La identidad exige multiplicar los cuatro factores.",
+        "La alternativa divide factores que deben multiplicarse. La identidad se construye cancelando términos entre cocientes. El producto directo produce 24%."
+      ]
+    },
+    {
+      "id": "c29-q041",
+      "tema": "Apalancamiento y RC",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora afirma que más deuda siempre aumenta RC porque eleva activos/patrimonio. ¿Qué objeción corresponde?",
+      "opciones": [
+        "Tiene razón aun si la deuda cuesta más que el rendimiento de los recursos.",
+        "También aumenta la carga de intereses y el efecto neto puede subir o bajar RC.",
+        "Los intereses nunca alteran la utilidad de los accionistas.",
+        "La carga de deuda aumenta necesariamente por encima de uno."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una deuda más costosa que el rendimiento obtenido puede reducir el residual. El mayor multiplicador no elimina intereses. Deben analizarse ambos efectos conjuntamente.",
+        "El multiplicador patrimonial no actúa solo. Los intereses reducen el resultado residual. Si los recursos no rinden suficiente frente al costo financiero, el apalancamiento perjudica RC.",
+        "Los intereses se descuentan antes de utilidad neta. Por eso sí cambian lo disponible para accionistas. Ignorarlos deja incompleto el análisis.",
+        "Con beneficios e intereses positivos, el factor residual suele ser menor que uno. Mide qué proporción queda después de intereses. No es una bonificación automática."
+      ]
+    },
+    {
+      "id": "c29-q042",
+      "tema": "Estados estandarizados",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo se preparan estados de tamaño común?",
+      "opciones": [
+        "Sustituyendo activos por cantidad de empleados.",
+        "Balance sobre dividendos y gastos sobre deuda.",
+        "Sólo comparando importes absolutos.",
+        "Balance como porcentaje de activos totales y resultados como porcentaje de ventas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Empleados puede servir para productividad específica. No reemplaza activos o ventas en estados de tamaño común. La presentación pedida utiliza bases monetarias homogéneas.",
+        "Deuda y dividendos varían con políticas financieras. No son las bases convencionales para esta presentación. Se usan activos totales y ventas.",
+        "Los importes absolutos reflejan diferencias de tamaño. Una firma mayor no es necesariamente más eficiente. Los porcentajes ayudan a comparar estructura.",
+        "Las bases comunes permiten comparar composición y márgenes. El balance muestra recursos y financiamiento por unidad de activo. Resultados muestra cuánto representa cada rubro por unidad vendida."
+      ]
+    },
+    {
+      "id": "c29-q043",
+      "tema": "Comparar industrias",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma de software tiene poco inventario y deuda; una distribuidora mantiene más existencias. ¿Cómo evaluar sus razones?",
+      "opciones": [
+        "Compararlas con pares y con su propia historia, considerando modelos de negocio.",
+        "Imponer igual inventario objetivo a ambas.",
+        "Declarar mala gestión en la distribuidora por tener existencias.",
+        "Exigir idéntica proporción de activos fijos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las industrias requieren mezclas distintas de recursos. Los pares ofrecen una referencia pertinente y la historia muestra tendencias. No existe un valor universal correcto para cada razón.",
+        "El software y la distribución no necesitan iguales inventarios. Una meta uniforme puede ser irrelevante para alguno. La referencia debe respetar el ciclo operativo.",
+        "Las existencias pueden ser indispensables para atender clientes. La eficiencia depende de nivel, rotación y disponibilidad. Tener más que otra industria no demuestra un problema.",
+        "La intensidad de capital depende de tecnología y actividad. Un servicio y una fábrica pueden operar con estructuras muy distintas. Imponer igualdad ignora diferencias económicas."
+      ]
+    },
+    {
+      "id": "c29-q044",
+      "tema": "Promediar múltiplos sectoriales",
+      "dificultad": "avanzada",
+      "pregunta": "Una industria incluye empresas de distinto tamaño y algunas con pérdidas. ¿Qué precaución tomar al calcular P/U sectorial?",
+      "opciones": [
+        "Asignar P/U cero cuando la utilidad es cero.",
+        "Usar cualquier método porque todos coinciden.",
+        "Explicitar ponderaciones y tratamiento de pérdidas; promedio de múltiplos y cociente agregado pueden diferir.",
+        "Sumar precios por acción y dividir por ganancias totales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir por cero no produce P/U finito de cero. Las pérdidas también dificultan interpretar múltiplos. Asignar valores arbitrarios sesga la comparación.",
+        "El promedio de cocientes no suele igualar el cociente de sumas. Tamaños y ganancias heterogéneos amplían diferencias. El método debe elegirse según el objetivo.",
+        "Un promedio simple da igual peso a firmas diferentes. El cociente entre capitalización y utilidad agregadas pondera de otra manera. Las pérdidas y denominadores pequeños exigen una metodología explícita.",
+        "La opción mezcla un precio unitario con ganancias agregadas. Firmas con distintas cantidades de acciones no comparten esa base. Deben usarse importes unitarios coherentes o agregados compatibles."
+      ]
+    },
+    {
+      "id": "c29-q045",
+      "tema": "Inflación y sesgos contables",
+      "dificultad": "avanzada",
+      "pregunta": "Una manufacturera mantiene máquinas antiguas a costo histórico y registra investigación y publicidad como gasto. ¿Qué advertencia corresponde en alta inflación?",
+      "opciones": [
+        "Investigar siempre aumenta utilidad corriente y activos reconocidos.",
+        "Todo saldo se actualiza automáticamente al costo de reposición.",
+        "Puede haber sesgos en activos, depreciación y rentabilidad; la deuda nominal también tiene efectos reales.",
+        "La inflación afecta igual a acreedores y deudores nominales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Si investigación se registra como gasto, reduce utilidad del período. Sus beneficios futuros pueden no reconocerse como activos. La opción afirma el efecto contrario.",
+        "La actualización no ocurre por sí sola bajo costo histórico. Depende de reglas y ajustes específicos. Sin ellos, activos de distinta antigüedad pueden ser poco comparables.",
+        "El costo histórico puede alejarse de precios actuales y volver poco representativa la depreciación. Gastar en intangibles reduce utilidad presente sin mostrar necesariamente todos sus beneficios como activos. La inflación también cambia el peso real de pagos nominales y exige considerar deuda.",
+        "Los pagos nominales fijos pierden poder adquisitivo con inflación. Eso puede beneficiar al deudor y perjudicar al acreedor según lo anticipado y pactado. No es un efecto idéntico para ambos."
+      ]
+    },
+    {
+      "id": "c29-q046",
+      "tema": "Propósito de planear",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es el propósito central de la planeación financiera de largo plazo?",
+      "opciones": [
+        "Compatibilizar crecimiento, inversión, financiamiento y respuestas a contingencias.",
+        "Maximizar ventas sin mirar capital invertido.",
+        "Eliminar todo riesgo antes de invertir.",
+        "Reemplazar el juicio por una planilla infalible."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las decisiones de invertir, distribuir y financiar interactúan. Planear permite analizar efectos conjuntos y preparar alternativas. El horizonte puede abarcar varios años y debe acompañar la estrategia.",
+        "Vender más puede exigir fondos y destruir valor si el rendimiento es insuficiente. La cifra de ventas no resume calidad del crecimiento. Un plan completo integra inversión y fuentes de recursos.",
+        "La gestión requiere decidir qué riesgos asumir. Eliminarlos todos no suele ser posible ni deseable. La planeación ayuda a responder a incertidumbre sin paralizar decisiones.",
+        "La planilla depende de hipótesis y restricciones. No incorpora automáticamente todo factor relevante. La administración debe interpretar resultados y elegir políticas."
+      ]
+    },
+    {
+      "id": "c29-q047",
+      "tema": "Sensibilidad y escenarios",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora cambia sólo el margen en una corrida y combina recesión, menores ventas y tasas altas en otra. ¿Qué técnicas utiliza?",
+      "opciones": [
+        "Optimización que garantiza la mejor estrategia.",
+        "Escenarios en la primera y sensibilidad univariable en la segunda.",
+        "Liquidación de activos en ambas.",
+        "Sensibilidad en la primera y escenarios en la segunda."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Explorar resultados no selecciona automáticamente una estrategia. Hacen falta criterios de valor y restricciones reales. Estas técnicas describen consecuencias de hipótesis.",
+        "La alternativa invierte las técnicas. Cambiar sólo margen es sensibilidad univariable. Combinar condiciones económicas es análisis de escenarios.",
+        "No se está suponiendo liquidar el negocio. Se comparan condiciones futuras de operación. La valuación por venta de activos es otro ejercicio.",
+        "La sensibilidad univariable aísla un supuesto. El escenario reúne cambios coherentes que representan una situación posible. Ambas herramientas permiten explorar vulnerabilidades del plan."
+      ]
+    },
+    {
+      "id": "c29-q048",
+      "tema": "Resistencia del plan",
+      "dificultad": "intermedia",
+      "pregunta": "Una papelera puede financiar su expansión bajo el escenario central. ¿Qué debe revisar antes de aprobarlo?",
+      "opciones": [
+        "Sólo que activos igualen pasivos más patrimonio.",
+        "Capacidad de pagar si caen ventas y márgenes, y alternativas para cubrir faltantes.",
+        "Sólo utilidades por acción del mejor escenario.",
+        "Mantener el pronóstico sin revisarlo aunque cambie la economía."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El equilibrio contable es necesario pero insuficiente. La deuda que cierra el balance puede ser imposible de obtener. Hay que revisar cobertura, caja y convenios.",
+        "El escenario central no asegura resistencia a una recesión. Los compromisos pueden persistir mientras disminuye la caja. Simular condiciones adversas ayuda a preparar ajustes y fuentes alternativas.",
+        "El mejor escenario no muestra exposición a dificultades. Las ganancias por acción tampoco miden solas creación de valor. El plan debe evaluar riesgo y capacidad financiera.",
+        "Un plan es una referencia revisable. Cambios económicos alteran supuestos relevantes. Ignorar nueva información puede demorar respuestas necesarias."
+      ]
+    },
+    {
+      "id": "c29-q049",
+      "tema": "Porcentaje de ventas e inversión",
+      "dificultad": "intermedia",
+      "pregunta": "Ventas pasan de $1.000 a $1.200. CTN objetivo 20% de ventas y activos fijos netos 30%; saldos iniciales $200 y $300. Depreciación prevista $30, sin bajas. ¿Cuáles son aumento de CTN y compras brutas fijas?",
+      "opciones": [
+        "$240 y $360.",
+        "$40 y $90.",
+        "$40 y $60.",
+        "$20 y $30."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los importes son saldos finales y no aplicaciones del período. El CTN usa la variación respecto del inicio. Las compras fijas incorporan aumento neto más depreciación.",
+        "El CTN final será 240 y aumenta 40. Los activos fijos netos finales serán 360 y aumentan 60. Las compras deben cubrir además depreciación de 30, por lo que suman 90.",
+        "El CTN está correcto. Los 60 sólo miden aumento neto de activos fijos. Las compras deben reponer también los 30 depreciados.",
+        "Los aumentos netos se obtienen aplicando porcentajes al cambio de ventas de 200. Resultan 40 y 60. La inversión bruta fija agrega depreciación y llega a 90."
+      ]
+    },
+    {
+      "id": "c29-q050",
+      "tema": "Convenciones temporales del modelo",
+      "dificultad": "intermedia",
+      "pregunta": "Intereses equivalen a 10% de deuda inicial y depreciación a 10% de activos fijos netos iniciales. Esos saldos son $200 y $500; se toma nueva deuda de $100 al cierre. ¿Qué gastos se proyectan?",
+      "opciones": [
+        "Intereses $10 y depreciación $50.",
+        "Intereses $30 y depreciación $50.",
+        "Intereses $20 y depreciación $60.",
+        "Intereses $20 y depreciación $50."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los diez consideran sólo deuda nueva. Se omite la deuda existente al inicio. El cálculo solicitado es 10% de 200.",
+        "Los 30 usan deuda final de 300. La consigna no aplica la tasa a ese saldo. Otra oportunidad de captación requeriría explicitar un supuesto temporal diferente.",
+        "La deuda adicional no se convierte automáticamente en base depreciable inicial. La base indicada es 500. Aplicarle 10% produce 50.",
+        "El modelo usa expresamente saldos iniciales. Diez por ciento de 200 es 20 y de 500 es 50. La deuda captada al cierre no genera intereses del año bajo esta convención."
+      ]
+    },
+    {
+      "id": "c29-q051",
+      "tema": "Proyección integrada",
+      "dificultad": "avanzada",
+      "pregunta": "Ventas $1.200, costos sin depreciación $900, depreciación $60, intereses $40 e impuesto 25% sobre utilidad antes de impuestos. Se paga 40% de utilidad neta, aumenta CTN $50 y se compran activos fijos por $180. ¿Cuánto financiamiento externo se requiere?",
+      "opciones": [
+        "$80.",
+        "$140.",
+        "$20.",
+        "$170."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La UAII es 240 y la utilidad después de intereses e impuesto es 150. Los dividendos son 60 y los fondos internos simplificados 210. Los usos suman 290 y el faltante es 80.",
+        "Este importe omite sumar depreciación a la utilidad. El gasto no es un pago corriente en el modelo. Reincorporar 60 reduce la necesidad a 80.",
+        "Este cálculo omite dividendos de 60 entre aplicaciones. Distribuir utilidades también consume fondos. El faltante completo asciende a 80.",
+        "Los 170 son inversión neta: 50 más 180 menos 60. Una parte se financia con utilidad retenida de 90. Sólo los otros 80 requieren fuentes externas."
+      ]
+    },
+    {
+      "id": "c29-q052",
+      "tema": "Balance pro forma",
+      "dificultad": "intermedia",
+      "pregunta": "Activos netos iniciales $1.000, deuda $400 y patrimonio $600. Se proyectan activos netos finales $1.200, utilidad $150 y dividendos $60. Sin acciones nuevas ni ajustes, ¿qué deuda final cierra el balance?",
+      "opciones": [
+        "$600.",
+        "$400.",
+        "$510.",
+        "$690."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una deuda de 600 financia toda la expansión con préstamos. Eso ignora los 90 retenidos. La retención reduce la necesidad de deuda adicional.",
+        "Con deuda de 400 y patrimonio de 690 sólo se financian 1.090. Faltan 110 para los activos planeados. Sin emisión, debe crecer la deuda.",
+        "Se retienen 90 y el patrimonio final es 690. La deuda final debe ser 1.200 menos 690. Resulta 510, equivalente a captar 110 adicionales.",
+        "Los 690 representan patrimonio final. No son el saldo de préstamos. La deuda se obtiene como diferencia entre activos y patrimonio."
+      ]
+    },
+    {
+      "id": "c29-q053",
+      "tema": "Partida compensatoria",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa la partida compensatoria de un modelo?",
+      "opciones": [
+        "Una ganancia inventada para aumentar patrimonio.",
+        "Un gasto que elimina toda incertidumbre.",
+        "La variable que se ajusta para compatibilizar fuentes y usos dados los otros supuestos.",
+        "Una variable que obligatoriamente debe ser siempre deuda bancaria."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "No corresponde fabricar ingresos para cerrar cuentas. La variable debe representar una decisión identificable. La coherencia contable debe mantener sentido económico.",
+        "La partida no elimina errores de pronóstico. Sólo establece consistencia bajo ciertas hipótesis. Sensibilidad y escenarios siguen siendo necesarios.",
+        "El modelo deja una variable para cerrar la identidad de fondos. Puede ser deuda, acciones o dividendos según políticas fijadas. Su resultado debe contrastarse con restricciones y posibilidades reales.",
+        "La elección depende de qué variables se consideran fijas. Si no puede aumentar deuda, quizá deban cambiar dividendos o aportes. No existe una elección universal obligatoria."
+      ]
+    },
+    {
+      "id": "c29-q054",
+      "tema": "Dividendo residual inviable",
+      "dificultad": "avanzada",
+      "pregunta": "Inversión neta requerida $180, utilidad neta $100 y deuda adicional máxima $50. No habrá acciones nuevas. Si dividendos son residuales, ¿qué resulta?",
+      "opciones": [
+        "Dividendos de −$30: el plan exige revisar restricciones porque falta capital.",
+        "Dividendos de $30 para repartir un sobrante.",
+        "Dividendos de $150 porque se reparte utilidad y deuda.",
+        "Dividendos cero, que eliminan todo faltante."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Dividendos residuales son 100 más 50 menos 180, igual a menos 30. Un dividendo ordinario negativo no es una distribución factible. El faltante exige otra fuente o revisar inversión y políticas.",
+        "La alternativa invierte el signo. Los fondos disponibles suman 150 frente a inversión de 180. Hay déficit y no sobrante de 30.",
+        "Los 150 son recursos antes de invertir. Repartirlos dejaría toda la inversión sin financiar. El residual se calcula después de atender esa necesidad.",
+        "Sin dividendos se retienen los 100 completos. Con deuda de 50 se alcanzan 150. Todavía faltan 30 para invertir 180."
+      ]
+    },
+    {
+      "id": "c29-q055",
+      "tema": "Expansión sólo con deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Los activos crecen más rápido que las utilidades retenidas y la empresa cubre cada diferencia sólo con préstamos. ¿Qué debe vigilar?",
+      "opciones": [
+        "Cobertura siempre creciente porque los intereses nunca cambian.",
+        "Reducción automática de deuda/patrimonio al vender más.",
+        "Desaparición permanente de necesidad de capital propio.",
+        "Apalancamiento creciente, carga de intereses y límites de endeudamiento."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Nuevos préstamos elevan intereses y algunas tasas pueden cambiar. Las ventas no garantizan beneficio suficiente. La cobertura debe proyectarse y no suponerse creciente.",
+        "Ventas no son el denominador de deuda/patrimonio. Esa razón depende de ambas fuentes financieras. Si deuda aumenta más rápido, el apalancamiento sube.",
+        "La capacidad de préstamo no es ilimitada. Los acreedores evalúan pagos y riesgo. Puede ser necesario emitir, retener más o ajustar expansión.",
+        "La deuda puede ganar participación si patrimonio crece más lentamente. Las nuevas obligaciones presionan flujos y convenios. La factibilidad debe examinarse por varios años y bajo escenarios adversos."
+      ]
+    },
+    {
+      "id": "c29-q056",
+      "tema": "Ahorro de capital de trabajo",
+      "dificultad": "intermedia",
+      "pregunta": "Ventas anuales a crédito $3.650 y cobro reducido de 50 a 40 días, sin cambiar ventas ni incobrables. Con 365 días, ¿cuántos fondos se liberan?",
+      "opciones": [
+        "$10.",
+        "$100.",
+        "$500.",
+        "$400."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los diez representan días ahorrados. Para obtener dinero hay que multiplicar por ventas diarias de diez. La liberación es 100.",
+        "Las ventas diarias son diez. Las cuentas requeridas bajan de 500 a 400. La diferencia de 100 libera fondos y reduce necesidades financieras.",
+        "Los 500 son créditos requeridos inicialmente. Con el nuevo plazo aún se necesitan 400. Sólo se libera la diferencia.",
+        "Los 400 son el saldo final de créditos. No representan la reducción. El ahorro es 500 menos 400."
+      ]
+    },
+    {
+      "id": "c29-q057",
+      "tema": "Capacidad ociosa y saltos de inversión",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta al 70% puede crecer moderadamente sin ampliarse. ¿Qué problema tiene proyectar activos fijos como porcentaje constante de ventas?",
+      "opciones": [
+        "Siempre subestima compras en todos los años.",
+        "Puede exagerar compras inmediatas y ocultar una ampliación grande cuando se agote capacidad.",
+        "Es exacto porque toda planta se compra en fracciones perfectamente divisibles.",
+        "Implica que inventarios siempre crecen más rápido que ventas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Al principio puede sobreestimar inversión innecesaria. Más adelante puede no representar el salto de capacidad. No existe un único sentido de error permanente.",
+        "La capacidad libre permite ventas adicionales sin nuevas instalaciones. Al alcanzar el límite puede requerirse una inversión grande y discontinua. La proporcionalidad puede fallar de distintas maneras según el momento.",
+        "Las plantas suelen tener tamaños mínimos. Su ampliación no siempre sigue continuamente a las ventas. Los modelos deben reconocer discontinuidades relevantes.",
+        "Inventarios tienen sus propios determinantes operativos. Pueden existir economías de escala u otras relaciones. Un supuesto sobre activos fijos no determina su crecimiento universal."
+      ]
+    },
+    {
+      "id": "c29-q058",
+      "tema": "Modelos agregados y por unidades",
+      "dificultad": "intermedia",
+      "pregunta": "Un grupo diversificado evalúa grandes proyectos y campañas por unidad. ¿Qué enfoque conviene?",
+      "opciones": [
+        "Eliminar consolidación porque las unidades no comparten fondos.",
+        "Aplicar siempre idéntico crecimiento agregado a todas las unidades.",
+        "Agregar todo detalle disponible aunque no cambie decisiones.",
+        "Proyectar desde unidades y proyectos relevantes, integrando una síntesis corporativa manejable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las unidades pueden competir por recursos y compartir capacidad de crédito. Sin consolidación se pierde la necesidad total. Las proyecciones particulares deben integrarse.",
+        "Un enfoque agregado sirve como aproximación inicial. Pero unidades heterogéneas pueden necesitar supuestos propios. Imponer una tasa común puede esconder restricciones y oportunidades.",
+        "Más detalle puede volver el modelo difícil de usar. También distrae de inversión, emisiones y dividendos. Conviene añadirlo cuando cambia decisiones relevantes.",
+        "Un enfoque desde unidades capta motores y proyectos específicos. Consolidarlos permite evaluar caja y financiamiento del conjunto. El detalle debe mejorar decisiones y conservar un modelo utilizable."
+      ]
+    },
+    {
+      "id": "c29-q059",
+      "tema": "Crecimiento y valor",
+      "dificultad": "intermedia",
+      "pregunta": "Un modelo muestra crecimiento fuerte de ventas y ganancias, pero la inversión nueva rinde menos que su costo de capital. ¿Qué significa?",
+      "opciones": [
+        "Puede destruir valor aunque los estados sean coherentes y aumente la utilidad.",
+        "Las ganancias crecientes garantizan VPN positivo.",
+        "Si el balance cierra, la financiación ya es óptima.",
+        "Las utilidades retenidas no tienen costo de oportunidad."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El capital comprometido debe compensar las oportunidades alternativas de los inversionistas. Crecer con rendimiento insuficiente puede generar VPN negativo. La coherencia contable describe consecuencias pero no prueba creación de riqueza.",
+        "Las ganancias contables no descuentan todo costo de oportunidad. Una gran inversión puede aumentar utilidad y ofrecer rendimiento insuficiente. El VPN exige analizar flujos incrementales y capital comprometido.",
+        "Varias estructuras financieras pueden cerrar la misma identidad. Eso no selecciona una política óptima. Hay que comparar costos, riesgo y restricciones.",
+        "Las ganancias retenidas pertenecen a los accionistas. Reinvertirlas sacrifica alternativas de distribución e inversión. Por eso requieren rentabilidad acorde con el riesgo."
+      ]
+    },
+    {
+      "id": "c29-q060",
+      "tema": "Límites de los modelos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué pueden aportar modelos financieros y métodos de optimización?",
+      "opciones": [
+        "Nunca aportar proyecciones para estimar flujos libres.",
+        "Encontrar una estrategia universal óptima sin supuestos.",
+        "Comparar consecuencias y optimizar dentro de hipótesis, sin sustituir todo juicio estratégico.",
+        "Ser útiles sólo si todos los pronósticos se cumplen exactamente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las proyecciones operativas y de inversión pueden alimentar flujos libres. Luego se necesitan ajustes y una tasa adecuada para valuarlos. La limitación es que el modelo contable no elige solo la alternativa valiosa.",
+        "La solución depende de supuestos y opciones incluidas. Cambiar restricciones puede modificarla. No garantiza la mejor estrategia en toda situación posible.",
+        "Un modelo resuelve el problema definido por sus objetivos y restricciones. Puede omitir alternativas o complejidades relevantes. Sus resultados requieren interpretación y revisión con criterio económico.",
+        "Planear también prepara para pronósticos equivocados. Escenarios y sensibilidad trabajan con esa incertidumbre. La utilidad del proceso no exige conocer el futuro exactamente."
+      ]
+    },
+    {
+      "id": "c29-q061",
+      "tema": "Evaluación posterior de planes",
+      "dificultad": "intermedia",
+      "pregunta": "El resultado quedó debajo del plan por recesión y desperdicios evitables. ¿Cómo evaluar gestión?",
+      "opciones": [
+        "Ignorar diferencias porque ningún pronóstico es perfecto.",
+        "Atribuir toda diferencia a incapacidad gerencial.",
+        "Separar factores externos y controlables, aprender y actualizar proyecciones conservando la referencia original.",
+        "Borrar el plan original para que coincida con lo ocurrido."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La incertidumbre no elimina el valor informativo de los desvíos. Pueden revelar fallas o supuestos débiles. Ignorarlos desperdicia aprendizaje.",
+        "La recesión puede quedar fuera del control directo. Los desperdicios sí pueden exigir correcciones internas. Atribuir todo a una sola causa impide una evaluación justa.",
+        "La comparación distingue cambios del entorno y fallas operativas. Eso permite evaluar responsabilidades y corregir procesos. Conservar el plan original ayuda a aprender mientras se actualiza el futuro.",
+        "Revisar proyecciones es distinto de borrar evidencia. Sin referencia original no puede estudiarse el error. Deben conservarse presupuesto, resultados y explicación de diferencias."
+      ]
+    },
+    {
+      "id": "c29-q062",
+      "tema": "Crecimiento interno con base inicial",
+      "dificultad": "basica",
+      "pregunta": "Activos netos iniciales $1.000, utilidad prevista $120 y dividendos $40. Sin fondos externos, ¿qué crecimiento de activos permiten esas utilidades retenidas sobre base inicial?",
+      "opciones": [
+        "8%.",
+        "12%.",
+        "4%.",
+        "8,70%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Se retienen 120 menos 40, igual a 80. Dividir por activos iniciales de 1.000 da 8%. La tasa expresa expansión financiable internamente bajo esos supuestos.",
+        "El 12% supone retener toda la utilidad. Los 40 distribuidos no financian activos. La fuente interna disponible es 80.",
+        "El 4% usa dividendos como si fueran fondos retenidos. Ese dinero sale de la empresa. El crecimiento interno se apoya en los 80 que quedan.",
+        "El 8,70% introduce otra convención de base y simultaneidad. La pregunta fija ganancias previstas y activos iniciales. El cálculo directo solicitado es 80 sobre 1.000."
+      ]
+    },
+    {
+      "id": "c29-q063",
+      "tema": "Identidad del crecimiento interno",
+      "dificultad": "intermedia",
+      "pregunta": "Reinversión 50%, RC previsto sobre patrimonio inicial 20% y patrimonio/activos netos iniciales 60%. ¿Qué crecimiento interno resulta?",
+      "opciones": [
+        "16,67%.",
+        "10%.",
+        "12%.",
+        "6%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Dividir por participación patrimonial invierte la conversión. Para pasar de utilidad sobre patrimonio a utilidad sobre activos hay que multiplicar por patrimonio sobre activos. La tasa interna es 6%.",
+        "El 10% omite patrimonio sobre activos. Ese producto corresponde al crecimiento patrimonial sostenible con estas bases. Para medir autofinanciamiento del activo falta multiplicar por 0,60.",
+        "El 12% omite la razón de reinversión. Sólo la mitad de la utilidad permanece en la empresa. Incorporar ese factor reduce la tasa a 6%.",
+        "La identidad multiplica reinversión, RC y participación patrimonial. El producto es 0,50 por 0,20 por 0,60, igual a 0,06. Equivale a utilidad retenida sobre activos netos iniciales."
+      ]
+    },
+    {
+      "id": "c29-q064",
+      "tema": "Crecimiento sostenible",
+      "dificultad": "basica",
+      "pregunta": "Se retiene 60% de utilidades y el RC previsto sobre patrimonio inicial es 15%. Sin acciones nuevas y con deuda/patrimonio constante, ¿cuál es el crecimiento sostenible?",
+      "opciones": [
+        "15%.",
+        "9%.",
+        "6%.",
+        "25%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 15% requiere reinvertir toda la ganancia. Aquí se distribuye 40%. El patrimonio sólo crece 9% bajo los datos previstos.",
+        "La tasa sostenible multiplica reinversión por RC inicial. El producto de 0,60 y 0,15 es 9%. La deuda puede aumentar proporcionalmente sin elevar apalancamiento.",
+        "El 6% utiliza la fracción distribuida. Los dividendos no aumentan patrimonio interno. Debe usarse el 60% retenido.",
+        "El 25% divide RC por reinversión. La fórmula correcta multiplica ambos factores. Retener menos no eleva mecánicamente la capacidad sostenible."
+      ]
+    },
+    {
+      "id": "c29-q065",
+      "tema": "Interno y sostenible",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es la diferencia entre crecimiento interno y sostenible?",
+      "opciones": [
+        "Ambos prohíben toda deuda nueva y siempre coinciden.",
+        "El interno excluye fondos externos; el sostenible admite deuda proporcional sin acciones nuevas ni aumento de apalancamiento.",
+        "El interno permite emitir acciones y el sostenible prohíbe retener ganancias.",
+        "El sostenible admite deuda/patrimonio ilimitada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La tasa sostenible permite deuda adicional proporcional. Sólo la interna excluye toda financiación externa. Por eso no siempre son iguales.",
+        "El crecimiento interno depende de recursos retenidos. El sostenible admite préstamos que acompañen el aumento patrimonial. Pueden coincidir en una firma sin deuda, pero no necesariamente en una apalancada.",
+        "Emitir acciones es financiación externa. Retener ganancias es fundamental para ambas tasas. La opción invierte las restricciones.",
+        "La condición sostenible mantiene la estructura financiera. Endeudarse sin límite eleva riesgo y viola esa condición. El crédito no vuelve financiable indefinidamente cualquier crecimiento."
+      ]
+    },
+    {
+      "id": "c29-q066",
+      "tema": "Deuda proporcional al patrimonio",
+      "dificultad": "intermedia",
+      "pregunta": "Patrimonio inicial $600 y deuda $400. La utilidad prevista es $120 y se retiene 50%. Sin acciones nuevas y manteniendo deuda/patrimonio, ¿cuánta deuda adicional es compatible?",
+      "opciones": [
+        "$100.",
+        "$60.",
+        "$80.",
+        "$40."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 100 son el aumento total financiable con 60 propios y 40 prestados. No todo procede de acreedores. La deuda nueva es sólo 40.",
+        "Los 60 representan crecimiento del patrimonio. Cada peso propio admite dos tercios de deuda según la relación inicial. La captación compatible es 40.",
+        "Los 80 aumentarían deuda 20%. El patrimonio sólo crece 10%. Por tanto, el apalancamiento subiría en lugar de mantenerse.",
+        "La retención es 60 y el patrimonio crece 10%. Para mantener la razón, la deuda también crece 10%. Sobre 400, ese aumento equivale a 40."
+      ]
+    },
+    {
+      "id": "c29-q067",
+      "tema": "Fondos externos y dividendos",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma sin deuda tiene activos iniciales $1.000, necesita aumentarlos 20% y prevé utilidad $150. Retiene 40%; luego evalúa retener 100%. Con todo lo demás fijo, ¿cómo cambia la necesidad externa?",
+      "opciones": [
+        "Baja de $140 a $50, es decir $90.",
+        "Baja de $140 a cero.",
+        "Sube de $140 a $230.",
+        "Queda en $140 porque dividendos no afectan fondos disponibles."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La expansión exige 200 y al principio se retienen 60, por lo que faltan 140. Retener toda la utilidad aporta 150 y deja un faltante de 50. La reducción de 90 coincide con dividendos que dejan de pagarse.",
+        "La utilidad total de 150 sigue siendo inferior a inversión de 200. Aun con pago cero faltan 50. Eliminar dividendos no garantiza financiar toda expansión.",
+        "Evitar una distribución conserva recursos internos. Con inversión y utilidad constantes disminuye la necesidad externa. La reducción es 90, no un aumento.",
+        "Los dividendos son una aplicación de fondos. Si no se pagan, el dinero queda disponible para invertir. La identidad de financiamiento cambia directamente."
+      ]
+    },
+    {
+      "id": "c29-q068",
+      "tema": "Palancas del crecimiento interno",
+      "dificultad": "avanzada",
+      "pregunta": "En g interno = reinversión × RC inicial × patrimonio/activos iniciales, ¿qué cambio eleva la tasa manteniendo los otros factores fijos?",
+      "opciones": [
+        "Reducir patrimonio/activos manteniendo lo demás.",
+        "Aumentar dividendos y bajar reinversión.",
+        "Aumentar cualquiera de los tres factores, verificando en la práctica que los demás puedan sostenerse.",
+        "Tomar deuda siempre, porque no tiene costos ni riesgos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Reducir participación patrimonial reduce el producto definido. La fórmula no permite concluir lo opuesto con RC fijo. Una decisión real también requiere estudiar cómo cambia ese RC.",
+        "Mayor distribución reduce fondos retenidos. Con igual RC y estructura, baja el crecimiento interno. La alternativa mueve el primer factor en sentido contrario.",
+        "Cada factor entra multiplicando. Aumentar uno eleva el producto si los demás permanecen positivos y constantes. En la realidad, cambiar estructura o crecimiento puede modificar RC y productividad, por lo que la independencia debe comprobarse.",
+        "La deuda tiene costo y compromisos. Además, la tasa interna excluye fondos externos nuevos. Endeudarse no mejora automáticamente la capacidad de autofinanciamiento."
+      ]
+    },
+    {
+      "id": "c29-q069",
+      "tema": "Coherencia operativa y señales de riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "La gerencia quiere aumentar mucho ventas con pocos activos nuevos; además suben deuda/patrimonio y días de cobro, mientras cae cobertura. ¿Qué revisión corresponde?",
+      "opciones": [
+        "Predecir una fecha exacta de quiebra sólo con esas razones.",
+        "Aceptar el plan porque cualquier crecimiento de ventas reduce deuda/patrimonio.",
+        "Justificar mejoras de rotación y capacidad, y probar caja, vencimientos y riesgo bajo escenarios adversos.",
+        "Ignorar cobranza y capacidad si la utilidad por acción es positiva."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las razones alertan pero no incorporan toda la información futura. Líneas disponibles y calendario de pagos también importan. No permiten fijar por sí solas una fecha exacta.",
+        "Ventas no determinan automáticamente la razón deuda/patrimonio. Una expansión con préstamos puede elevarla. Además, vender más a crédito puede aumentar necesidad de fondos.",
+        "Crecer con pocos activos exige mayor productividad o capacidad disponible. Cobros más lentos y menor cobertura pueden tensionar caja mientras aumenta deuda. Hay que validar supuestos operativos y capacidad de pago sin convertir señales en certezas.",
+        "La utilidad positiva no asegura capacidad ni efectivo oportuno. Las cuentas por cobrar pueden inmovilizar fondos. Deben integrarse actividad, inversión y financiamiento."
+      ]
+    },
+    {
+      "id": "c29-q070",
+      "tema": "Alternativas ante un plan no factible",
+      "dificultad": "avanzada",
+      "pregunta": "La expansión supera el crecimiento sostenible y la deuda calculada viola un convenio. ¿Qué decisión es defendible?",
+      "opciones": [
+        "Evaluar acciones nuevas, mayor retención, mejoras operativas o menor inversión, comparando valor y factibilidad.",
+        "Exigir que el banco preste porque la deuda es la partida compensatoria.",
+        "Mantener políticas y suponer que el convenio desaparece.",
+        "Cancelar todo crecimiento incluso con VPN positivo y financiación alternativa disponible."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El resultado revela incompatibilidad entre metas y restricciones. Varias combinaciones pueden cerrar el faltante sin sacrificar proyectos valiosos. La opción elegida debe ser financiable y evaluarse por riesgo y creación de valor.",
+        "La partida compensatoria expresa necesidad, no obligación del banco. El prestamista puede rechazarla o exigir condiciones. El balance que cierra no garantiza acceso a fondos.",
+        "El convenio sigue vigente salvo renegociación válida. Ignorarlo no aumenta capacidad financiera. Hay que modificar decisiones o acordar nuevas condiciones.",
+        "La restricción actual no vuelve malos todos los proyectos. Una emisión o menor distribución podría permitir inversiones valiosas. Conviene comparar alternativas antes de descartar expansión."
+      ]
+    }
+  ]
+}

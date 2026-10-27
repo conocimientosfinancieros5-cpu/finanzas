@@ -1,0 +1,1526 @@
+{
+  "capitulo": 31,
+  "titulo": "Planeación financiera de corto plazo",
+  "preguntas": [
+    {
+      "id": "c31-q001",
+      "tema": "Alcance de la planeación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue habitualmente una decisión financiera de corto plazo?",
+      "opciones": [
+        "Siempre tiene un importe pequeño.",
+        "No necesita pronósticos de efectivo.",
+        "Afecta partidas de corta vida y suele poder revertirse con facilidad.",
+        "Determina de manera irreversible la estructura de capital."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El importe no determina el horizonte financiero. Un préstamo por un monto muy grande puede vencer en semanas. Hay que mirar su duración y su reversibilidad.",
+        "Una obligación próxima exige prever cuándo habrá dinero disponible. Un horizonte breve no elimina la incertidumbre. La proyección de caja sigue siendo necesaria para pagar a tiempo.",
+        "La duración de los activos o pasivos y la facilidad de reversión son criterios centrales. Un préstamo breve puede cancelarse rápidamente. Por eso suele bastar un horizonte de proyección más cercano.",
+        "La irreversibilidad caracteriza más a muchas decisiones de largo plazo. Un financiamiento breve suele permitir ajustes rápidos. Su función habitual es administrar necesidades cercanas de caja."
+      ]
+    },
+    {
+      "id": "c31-q002",
+      "tema": "Interdependencia de decisiones",
+      "dificultad": "basica",
+      "pregunta": "Si una empresa amplía el plazo de pago a sus clientes sin cambiar ventas ni costos, ¿qué efecto inicial cabe esperar?",
+      "opciones": [
+        "Ningún efecto porque la utilidad contable no cambia.",
+        "Mayor efectivo por el solo aumento del plazo.",
+        "Más cuentas por cobrar y menor disponibilidad de efectivo.",
+        "Menores cuentas por cobrar porque los clientes tienen más tiempo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La utilidad y la caja siguen calendarios diferentes. Una venta puede generar resultado antes de cobrarse. La política comercial modifica la necesidad de financiamiento aunque no cambie el margen.",
+        "Dar tiempo al cliente no adelanta el ingreso de dinero. La cobranza ocurre más tarde. Por eso el efecto inicial suele ser una menor disponibilidad de caja.",
+        "La cobranza se posterga aunque la venta ya esté registrada. Más recursos quedan invertidos en cuentas por cobrar. La empresa debe financiar ese intervalo adicional.",
+        "Un cobro más lento deja más facturas pendientes. El saldo de cuentas por cobrar tiende a aumentar. Se reduciría si se aceleraran los pagos, manteniendo lo demás constante."
+      ]
+    },
+    {
+      "id": "c31-q003",
+      "tema": "Requerimiento acumulativo de capital",
+      "dificultad": "basica",
+      "pregunta": "¿Qué representa el requerimiento acumulativo de capital?",
+      "opciones": [
+        "Únicamente los vencimientos de préstamos del mes.",
+        "La inversión total requerida en los activos necesarios para operar.",
+        "La suma histórica de las pérdidas contables.",
+        "Sólo las compras de maquinaria previstas para el año."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los vencimientos son obligaciones de pago, no toda la inversión operativa. También se necesita capital para inventarios y créditos a clientes. El requerimiento reúne los activos necesarios para funcionar.",
+        "Comprende activos fijos y activos circulantes necesarios para el negocio. Puede crecer con la actividad y fluctuar por estacionalidad. Su comparación con el financiamiento de largo plazo identifica necesidades o excedentes transitorios.",
+        "Las pérdidas pueden consumir recursos, pero no definen esta magnitud. Una empresa rentable también requiere activos. Lo relevante es cuánto capital está invertido para sostener la operación.",
+        "La maquinaria es sólo uno de los componentes. Inventarios y cuentas por cobrar también inmovilizan fondos. Excluirlos subestimaría la inversión que necesita la empresa."
+      ]
+    },
+    {
+      "id": "c31-q004",
+      "tema": "Estrategias de financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene financiamiento de largo plazo superior a su requerimiento de capital incluso en el pico estacional. ¿Cuál será su posición de corto plazo, manteniendo ese supuesto?",
+      "opciones": [
+        "Será deudora sólo cuando baje su requerimiento de capital.",
+        "Necesitará préstamos de corto plazo durante todo el año.",
+        "Tendrá excedentes que podrá invertir en instrumentos líquidos.",
+        "No podrá mantener valores negociables."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cuando baja el requerimiento se libera capital. Con financiamiento permanente constante, el excedente aumenta. La necesidad de endeudarse no nace de esa reducción.",
+        "La deuda breve aparece cuando falta financiamiento permanente respecto de los activos requeridos. Aquí sucede lo contrario. Hay una cobertura superior al pico del ciclo.",
+        "La financiación permanente cubre incluso la máxima inversión requerida. En los demás momentos también alcanza para financiar los activos. La diferencia queda disponible como excedente de caja o inversión temporal.",
+        "Los valores negociables son un destino habitual del excedente temporal. Permiten conservar liquidez y obtener algún rendimiento. Su tenencia es compatible con esta estrategia de financiamiento."
+      ]
+    },
+    {
+      "id": "c31-q005",
+      "tema": "Estacionalidad del financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué caracteriza una estrategia que alterna entre prestar y tomar prestado durante el año?",
+      "opciones": [
+        "El financiamiento permanente supera siempre el requerimiento máximo.",
+        "El financiamiento permanente cubre los valles del requerimiento, pero no todos sus picos.",
+        "El requerimiento de capital es idéntico todos los meses.",
+        "La empresa nunca invierte en activos circulantes."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Si se cubre siempre el máximo, no aparece el déficit estacional descrito. La empresa mantendría excedentes durante todo el ciclo. La alternancia requiere que el requerimiento cruce el nivel de financiamiento permanente.",
+        "En los valles sobra financiamiento respecto de los activos requeridos. En los picos la diferencia debe cubrirse con recursos adicionales. Así pueden alternarse inversiones temporales y préstamos breves.",
+        "Un requerimiento constante y un financiamiento constante no producen alternancia. Hace falta alguna variación relativa entre ambos. Las fluctuaciones estacionales son una causa habitual.",
+        "La inversión en activos circulantes explica buena parte de las variaciones estacionales. Inventarios y cuentas por cobrar demandan fondos. Su ausencia no es una condición de esta estrategia."
+      ]
+    },
+    {
+      "id": "c31-q006",
+      "tema": "Acoplamiento de vencimientos",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la pauta práctica de acoplar vencimientos?",
+      "opciones": [
+        "Evitar el capital propio porque no tiene vencimiento contractual.",
+        "Financiar toda máquina exclusivamente con préstamos diarios.",
+        "Financiar activos duraderos y la inversión permanente en capital de trabajo con fuentes de largo plazo.",
+        "Financiar todos los activos circulantes con deuda de corto plazo porque se renuevan."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El capital propio es precisamente una fuente permanente. Su falta de vencimiento puede contribuir a sostener activos duraderos. El acoplamiento no exige eliminarlo.",
+        "Renovar préstamos diarios para sostener una máquina introduce riesgo de refinanciación. La máquina no genera necesariamente efectivo suficiente al día siguiente. El acoplamiento busca una correspondencia más razonable entre horizontes.",
+        "La duración del financiamiento debe guardar relación con la permanencia de la inversión. Una parte del capital de trabajo se mantiene aunque cambien sus componentes. Esa base también puede necesitar recursos permanentes.",
+        "Que cada inventario se venda no implica que desaparezca la inversión total en inventarios. La reposición puede mantener una base permanente. Esa parte no tiene por qué financiarse exclusivamente con deuda breve."
+      ]
+    },
+    {
+      "id": "c31-q007",
+      "tema": "Liquidez de activos",
+      "dificultad": "basica",
+      "pregunta": "En condiciones normales, ¿qué orden va de mayor a menor liquidez?",
+      "opciones": [
+        "Inventarios, cuentas por cobrar, valores negociables de corto plazo.",
+        "Valores negociables de corto plazo, cuentas por cobrar, inventarios.",
+        "Cuentas por cobrar, inventarios, efectivo.",
+        "Maquinaria especializada, inventarios, valores negociables."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El inventario suele necesitar más etapas para convertirse en caja. Los valores negociables tienen un mercado más inmediato. El orden propuesto invierte la relación habitual de liquidez.",
+        "Los valores negociables suelen poder venderse rápidamente. Las cuentas por cobrar requieren esperar el pago del cliente. Los inventarios todavía deben venderse y, muchas veces, cobrarse.",
+        "El efectivo ya es medio de pago disponible. No corresponde ubicarlo por debajo de inventarios. Las cuentas por cobrar también suelen ser menos inmediatas que una inversión negociable de corto plazo.",
+        "Una máquina especializada puede ser difícil de vender sin una rebaja importante. Los valores negociables suelen ser más líquidos. El orden propuesto confunde permanencia física con facilidad de conversión en caja."
+      ]
+    },
+    {
+      "id": "c31-q008",
+      "tema": "Reservas preventivas",
+      "dificultad": "intermedia",
+      "pregunta": "Una biotecnológica pequeña enfrenta inversiones grandes si aprueban un producto y le cuesta captar fondos de urgencia. ¿Qué justifica una reserva líquida?",
+      "opciones": [
+        "Elimina todos los costos de conservar efectivo.",
+        "Garantiza que cualquier proyecto tendrá VPN positivo.",
+        "Permite responder a oportunidades inciertas sin depender enteramente del financiamiento inmediato.",
+        "Permite dejar de evaluar la rentabilidad de las inversiones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La liquidez tiene costos de oportunidad y posibles efectos fiscales. También puede debilitar la disciplina de inversión. Su beneficio preventivo no borra esos costos.",
+        "La disponibilidad de dinero no cambia por sí sola el valor de un proyecto. Los flujos y el riesgo siguen determinando su VPN. La reserva facilita financiar oportunidades, pero no las vuelve rentables automáticamente.",
+        "La necesidad de invertir puede aparecer antes de conseguir financiamiento conveniente. La reserva compra capacidad de respuesta. Su valor preventivo debe compararse con los costos de mantener fondos líquidos.",
+        "Tener efectivo no sustituye el análisis económico. La empresa debe seguir eligiendo inversiones que creen valor. La reserva sirve para ejecutar buenas decisiones cuando el acceso a fondos es difícil."
+      ]
+    },
+    {
+      "id": "c31-q009",
+      "tema": "Excedentes y disciplina",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa madura acumula caja permanentemente y no encuentra proyectos con VPN positivo. ¿Qué decisión merece evaluar el director financiero?",
+      "opciones": [
+        "Invertir en cualquier proyecto para evitar mostrar efectivo.",
+        "Distribuir excedentes o reducir financiamiento de largo plazo.",
+        "Mantener la caja indefinidamente porque siempre crea valor.",
+        "Aumentar deuda para comprar más valores temporales sin evaluar impuestos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Gastar en proyectos con VPN negativo destruye valor. La presión por utilizar fondos no mejora sus flujos. La devolución del excedente puede ser preferible a invertirlo mal.",
+        "Si el excedente es permanente, parte del financiamiento puede resultar innecesaria. Dividendos, recompras o cancelación de deuda son alternativas a evaluar. Deben preservarse las reservas justificadas por necesidades operativas y contingencias.",
+        "Las colocaciones temporales no aseguran creación de valor para la empresa. Pueden tener costos fiscales y de agencia. La permanencia del excedente exige revisar la necesidad de conservarlo.",
+        "Captar deuda para acumular activos financieros no es una ganancia automática. Hay costos financieros, fiscales y riesgos que comparar. La decisión requiere una evaluación económica y no sólo ampliar el balance."
+      ]
+    },
+    {
+      "id": "c31-q010",
+      "tema": "Liquidez y dificultades financieras",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma de moda pierde dinero, pero reduce existencias y cobra créditos antiguos; su caja aumenta por un tiempo. ¿Qué conclusión es válida?",
+      "opciones": [
+        "Una firma sin grandes activos fijos no puede atravesar dificultades.",
+        "El aumento de caja prueba que recuperó su rentabilidad.",
+        "Cobrar créditos antiguos genera otra vez la utilidad de esas ventas.",
+        "La liquidación de capital de trabajo puede sostener caja sin resolver las pérdidas operativas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los activos líquidos ayudan a resistir, pero no impiden pérdidas. Incluso pueden demorar ajustes necesarios. Una empresa con pocos activos fijos también puede agotar sus recursos y fracasar.",
+        "La caja puede crecer por vender activos o cobrar ventas pasadas. Esos movimientos no aseguran márgenes operativos positivos. Hay que separar la liberación de recursos de la recuperación del negocio.",
+        "La utilidad de una venta a crédito se registra al realizarla según el criterio de devengado. Cobrarla cambia cuentas por cobrar por efectivo. No corresponde reconocer dos veces el mismo resultado.",
+        "El cobro y la reducción de existencias liberan fondos previamente inmovilizados. Eso puede prolongar la supervivencia aun con pérdidas. La liquidez transitoria no demuestra que el negocio vuelva a crear valor."
+      ]
+    },
+    {
+      "id": "c31-q011",
+      "tema": "Capital de trabajo neto",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene efectivo 10, valores negociables 5, inventarios 25 y créditos a clientes 20; debe 18 a proveedores y 12 al banco a corto plazo. ¿Cuál es su capital de trabajo neto?",
+      "opciones": [
+        "42.",
+        "60.",
+        "30.",
+        "48."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Cuarenta y dos surge de restar sólo a los proveedores. El préstamo bancario de corto plazo también es pasivo circulante. Al restar sus 12 adicionales se llega a 30.",
+        "Sesenta es el activo circulante bruto. Todavía deben restarse las obligaciones de corto plazo. Descontar ambos pasivos deja un capital de trabajo neto de 30.",
+        "Los activos circulantes suman 10 + 5 + 25 + 20 = 60. Los pasivos circulantes son 18 + 12 = 30. El capital de trabajo neto resulta 60 − 30 = 30.",
+        "Cuarenta y ocho surge de descontar únicamente la deuda bancaria. Las cuentas por pagar también financian los activos circulantes. Restarlas lleva el resultado correcto a 30."
+      ]
+    },
+    {
+      "id": "c31-q012",
+      "tema": "Brecha de financiamiento",
+      "dificultad": "basica",
+      "pregunta": "El requerimiento de capital es 150 en temporada alta y 100 en temporada baja; el financiamiento permanente es 120. ¿Qué posición corresponde a cada temporada?",
+      "opciones": [
+        "Deuda breve de 150 en alta y de 100 en baja.",
+        "Deuda breve de 30 en alta y excedente de 20 en baja.",
+        "Excedente de 30 en alta y deuda breve de 20 en baja.",
+        "Excedente de 20 en ambas temporadas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los activos no se financian sólo con recursos de corto plazo. Ya hay 120 de financiamiento permanente. La necesidad adicional se calcula por diferencia, no por el requerimiento total.",
+        "En alta faltan 150 − 120 = 30 para cubrir los activos requeridos. En baja sobran 120 − 100 = 20. La misma estructura permanente permite alternar entre deuda e inversión temporal.",
+        "La alternativa invierte el signo de las brechas. Un requerimiento superior a los recursos permanentes genera faltante. Cuando el requerimiento es inferior, aparece el excedente.",
+        "El excedente de 20 corresponde únicamente a la temporada baja. En alta el requerimiento supera los recursos permanentes. Ignorar la estacionalidad oculta una necesidad de 30."
+      ]
+    },
+    {
+      "id": "c31-q013",
+      "tema": "Orígenes y aplicaciones de efectivo",
+      "dificultad": "basica",
+      "pregunta": "Sin otros movimientos, ¿qué combinación constituye dos orígenes de efectivo?",
+      "opciones": [
+        "Comprar maquinaria al contado y pagar dividendos.",
+        "Emitir deuda de largo plazo y aumentar cuentas por pagar por compras aún no pagadas.",
+        "Aumentar inventarios pagados al contado y recomprar acciones.",
+        "Cancelar principal bancario y comprar valores negociables."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La maquinaria exige un desembolso al contado. Los dividendos también distribuyen caja fuera de la empresa. Ambas partidas son aplicaciones y no orígenes de efectivo.",
+        "La emisión aporta dinero de terceros. Comprar sin pagar todavía conserva efectivo respecto del pago inmediato. En un estado de cambios, ese aumento del pasivo operativo es un origen.",
+        "El inventario pagado inmoviliza efectivo. La recompra entrega dinero a los accionistas. Los dos movimientos utilizan caja en lugar de aportarla.",
+        "Cancelar principal reduce efectivo y deuda. Comprar valores transforma caja en otro activo financiero. Son aplicaciones de efectivo aunque puedan mejorar la posición financiera futura."
+      ]
+    },
+    {
+      "id": "c31-q014",
+      "tema": "Conciliación de caja",
+      "dificultad": "intermedia",
+      "pregunta": "En un período, utilidad neta 18, depreciación 6, aumento de cuentas por cobrar 7, aumento de inventarios 3 y aumento de proveedores 4; no hay otras partidas. ¿Cuánto efectivo generan las operaciones después de estos cambios?",
+      "opciones": [
+        "32.",
+        "18.",
+        "10.",
+        "24."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El aumento de cuentas por cobrar no es un cobro. Tampoco el aumento de inventarios libera caja. Esas dos inversiones se restan, mientras la depreciación y proveedores se agregan.",
+        "Se parte de 18 + 6 = 24 al revertir la depreciación no monetaria. Los créditos y las existencias consumen 7 + 3 = 10. El crédito de proveedores aporta 4, por lo que quedan 24 − 10 + 4 = 18.",
+        "Restar los aumentos de activos es correcto, pero no basta. También hay que revertir depreciación y reconocer el financiamiento de proveedores. La conciliación completa arroja 18.",
+        "Sumar la depreciación da un subtotal de 24. Falta incorporar las variaciones de las partidas operativas circulantes. Su efecto neto es una aplicación de 6 y deja 18."
+      ]
+    },
+    {
+      "id": "c31-q015",
+      "tema": "Depreciación y generación de fondos",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué se suma la depreciación a la utilidad neta en una conciliación básica del flujo de efectivo?",
+      "opciones": [
+        "Porque elimina el desembolso de compra del activo.",
+        "Porque el banco deposita su importe cada año.",
+        "Porque redujo el resultado contable sin constituir un desembolso del período.",
+        "Porque cualquier gasto contable genera efectivo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Comprar el activo sí exige financiamiento cuando se paga. Sumar depreciación no deshace ese desembolso. La inversión debe figurar por separado como uso de fondos.",
+        "No existe un depósito automático asociado a la depreciación. La suma corrige una deducción contable no monetaria. Los ingresos de efectivo tienen que provenir de cobros o financiamiento reales.",
+        "La depreciación distribuye contablemente el costo de un activo. Su registro no exige un pago contemporáneo. Se revierte para conciliar resultados con efectivo, sin confundirla con una entrada autónoma.",
+        "Muchos gastos sí implican pagos y reducen caja. Sólo corresponde ajustar partidas no monetarias o diferencias de devengamiento. Sumar indiscriminadamente todos los gastos sobrestimaría el efectivo."
+      ]
+    },
+    {
+      "id": "c31-q016",
+      "tema": "Impuestos diferidos",
+      "dificultad": "intermedia",
+      "pregunta": "La empresa reconoce gasto por impuesto de 12, pero paga 9 y aumenta en 3 su pasivo por impuesto diferido. Sin otros cambios, ¿qué ajuste corresponde al conciliar utilidad con caja?",
+      "opciones": [
+        "Sumar 12 a la utilidad sin registrar el pago.",
+        "Restar 3 a la utilidad.",
+        "No ajustar porque impuesto devengado y pagado siempre coinciden.",
+        "Sumar 3 a la utilidad."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Revertir los 12 sin restar los 9 pagados eliminaría un desembolso real. Sólo la diferencia no pagada debe aumentar la caja conciliada. El ajuste neto es 3.",
+        "Restar 3 ampliaría indebidamente la salida imputada. El pago efectivo fue menor que el gasto reconocido. Por eso la conciliación requiere un ajuste positivo de 3.",
+        "La contabilidad financiera y la fiscal pueden reconocer partidas en momentos distintos. El pasivo diferido refleja esa diferencia temporal. El flujo se determina por el pago efectivo del período.",
+        "El resultado incluye 12 de gasto, pero salieron sólo 9 de efectivo. La diferencia de 3 quedó como obligación diferida. Sumarla evita tratarla como desembolso actual, sin suponer que el impuesto desapareció."
+      ]
+    },
+    {
+      "id": "c31-q017",
+      "tema": "Ventas a crédito y devengamiento",
+      "dificultad": "basica",
+      "pregunta": "Se vende a crédito un servicio por 20, sin costos asociados en este ejemplo. ¿Qué ocurre al venderlo y luego cobrarlo?",
+      "opciones": [
+        "Al vender aumenta la caja; al cobrar se registra por primera vez el crédito.",
+        "La utilidad se reconoce dos veces, al vender y al cobrar.",
+        "Al vender aumenta el resultado y el crédito; al cobrar aumenta caja y baja el crédito sin nueva utilidad.",
+        "Al cobrar aumenta el capital de trabajo neto en otros 20."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una venta a crédito no entrega caja en el acto. Primero aparece una cuenta por cobrar. El dinero llega cuando el cliente paga y entonces se cancela el crédito.",
+        "La misma venta no puede producir dos reconocimientos del ingreso. El cobro realiza un activo ya registrado. Repetir la utilidad duplicaría el resultado.",
+        "La venta devengada genera un derecho de cobro y un resultado. El cobro posterior sustituye ese derecho por efectivo. Ese segundo movimiento no crea otra utilidad ni otro aumento del capital de trabajo neto.",
+        "Al cobrar se reemplaza un activo circulante por otro del mismo importe. La suma de activos circulantes no cambia por esa conversión. Por tanto, no aumenta nuevamente el capital de trabajo neto."
+      ]
+    },
+    {
+      "id": "c31-q018",
+      "tema": "Efectivo frente a fondos",
+      "dificultad": "intermedia",
+      "pregunta": "Se pagan 8 de principal de una deuda bancaria de corto plazo con efectivo disponible. ¿Cómo cambian caja y capital de trabajo neto?",
+      "opciones": [
+        "Ambos suben 8.",
+        "La caja baja 8 y el capital de trabajo neto no cambia.",
+        "La caja no cambia y el capital de trabajo neto sube 8.",
+        "Ambos bajan 8."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cancelación no genera entrada de dinero. Disminuyen tanto la caja como la obligación breve. La diferencia entre activo y pasivo circulante permanece constante.",
+        "El activo circulante disminuye 8 por el pago. También disminuye 8 el pasivo circulante cancelado. Como se restan entre sí, el capital de trabajo neto queda igual aunque la caja baje.",
+        "Pagar principal sí consume efectivo. El aumento de capital de trabajo por reducir deuda queda compensado por la baja de caja. No hay variación neta de fondos.",
+        "Se omite la reducción simultánea del pasivo circulante. La definición es activo circulante menos pasivo circulante. Dos reducciones iguales dejan esa diferencia sin cambios."
+      ]
+    },
+    {
+      "id": "c31-q019",
+      "tema": "Fuentes de fondos permanentes",
+      "dificultad": "intermedia",
+      "pregunta": "Se emiten 15 de deuda de largo plazo y se usa todo para cancelar deuda bancaria corriente. ¿Qué ocurre, sin comisiones?",
+      "opciones": [
+        "La caja aumenta 15 y el capital de trabajo no cambia.",
+        "La caja final no cambia y el capital de trabajo neto aumenta 15.",
+        "La caja final cae 15 y el capital de trabajo cae 15.",
+        "La caja y el capital de trabajo permanecen iguales."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La emisión genera una entrada, pero el pago posterior la consume. No queda efectivo adicional al final. Sí mejora el capital de trabajo al disminuir las obligaciones corrientes.",
+        "La entrada de 15 se utiliza íntegramente para cancelar el préstamo. El pasivo corriente baja 15 sin disminuir el activo circulante final. Por eso el capital de trabajo neto aumenta 15 y la deuda se traslada al largo plazo.",
+        "El pago no se realiza sin contrapartida de financiamiento. La deuda nueva aporta exactamente el dinero utilizado. La caja queda igual y el cambio de vencimiento aumenta el capital de trabajo.",
+        "La caja queda igual, pero cambia la composición del pasivo. Una obligación corriente es sustituida por otra de largo plazo. Esa sustitución eleva el capital de trabajo neto."
+      ]
+    },
+    {
+      "id": "c31-q020",
+      "tema": "Estado de fuentes y usos de fondos",
+      "dificultad": "intermedia",
+      "pregunta": "La utilidad neta es 16, la depreciación 4, se emiten 12 de deuda larga, se invierten 21 en activos fijos y se pagan 3 de dividendos. Sin otras partidas, ¿cuánto cambia el capital de trabajo neto?",
+      "opciones": [
+        "Disminuye 8.",
+        "Aumenta 12.",
+        "Aumenta 29.",
+        "Aumenta 8."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Se invirtió el signo del saldo. Las fuentes de 32 superan a los usos de 24. Ese exceso incrementa, en lugar de reducir, los fondos netos circulantes.",
+        "Doce es solamente la deuda nueva. Las operaciones también aportan fondos y la inversión y los dividendos los absorben. Al considerar todo, el aumento neto es 8.",
+        "No se deben sumar todos los movimientos como si fueran entradas. La inversión fija y el dividendo son aplicaciones. Restarlos de las fuentes deja un incremento de 8.",
+        "Las fuentes de fondos suman 16 + 4 + 12 = 32. Los usos permanentes son 21 + 3 = 24. La diferencia de 8 aumenta el capital de trabajo neto."
+      ]
+    },
+    {
+      "id": "c31-q021",
+      "tema": "Activos fijos brutos y netos",
+      "dificultad": "intermedia",
+      "pregunta": "El activo fijo neto pasa de 50 a 62 y la depreciación del período es 8; no hubo ventas ni revaluaciones. ¿Cuál fue la inversión en activos fijos?",
+      "opciones": [
+        "12.",
+        "20.",
+        "4.",
+        "70."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Doce mide el aumento del valor neto contable. La inversión fue mayor porque hubo depreciación. Agregar los 8 depreciados lleva el desembolso a 20.",
+        "El saldo final cumple 62 = 50 + inversión − 8. La inversión debe reponer la depreciación además de explicar el aumento neto. Por eso es 62 − 50 + 8 = 20.",
+        "Restar la depreciación por segunda vez reduce indebidamente la inversión. El saldo final ya está expresado después de depreciar. Para reconstruir las incorporaciones corresponde sumarla.",
+        "Setenta suma depreciación al saldo final y omite descontar el saldo inicial. La inversión se obtiene de una variación, no de un saldo completo. La conciliación correcta arroja 20."
+      ]
+    },
+    {
+      "id": "c31-q022",
+      "tema": "Venta de activos y caja",
+      "dificultad": "intermedia",
+      "pregunta": "Un terreno con valor contable de 90 se vende y cobra por 60. Ignorá impuestos y gastos. ¿Qué importe entra en el presupuesto de caja?",
+      "opciones": [
+        "60 como entrada de efectivo.",
+        "90 como entrada de efectivo.",
+        "30 como salida de efectivo.",
+        "150 como entrada de efectivo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La caja recibe el precio efectivamente cobrado de 60. La pérdida contable es 90 − 60 = 30. Esa pérdida no representa otro pago y no sustituye al cobro en el presupuesto.",
+        "Noventa es el valor contable dado de baja. No es el precio que paga el comprador. El presupuesto debe reflejar el ingreso efectivo de 60.",
+        "La pérdida de 30 es una diferencia contable. No implica que se hayan pagado 30 adicionales al vender. El movimiento monetario es una entrada de 60.",
+        "No se suman precio y valor contable para medir caja. El valor contable describe el activo retirado del balance. Sólo el precio cobrado ingresa como efectivo."
+      ]
+    },
+    {
+      "id": "c31-q023",
+      "tema": "Conversión del capital de trabajo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué secuencia describe un ciclo operativo sencillo con compras al contado y ventas a crédito?",
+      "opciones": [
+        "Cuentas por cobrar, maquinaria, capital social, efectivo.",
+        "Efectivo, dividendos, deuda larga, efectivo.",
+        "Efectivo, materias primas, productos terminados, cuentas por cobrar, efectivo.",
+        "Productos terminados, depreciación, efectivo sin venta ni cobro."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La cuenta por cobrar no se transforma normalmente en maquinaria mediante la venta del producto. La secuencia mezcla inversión fija y patrimonio con operaciones corrientes. Falta describir producción, venta y cobro.",
+        "Dividendos y deuda larga corresponden a decisiones de financiamiento y distribución. No describen la transformación de los bienes y su cobranza. El ciclo operativo conecta inventarios, créditos y caja.",
+        "El dinero financia las materias primas y su transformación. La venta a crédito convierte el producto en un derecho de cobro. El ciclo monetario se completa cuando paga el cliente.",
+        "La depreciación es una imputación contable y no un comprador. Los productos no generan caja por depreciarse. Se necesita venderlos y cobrar para recuperar los fondos operativos."
+      ]
+    },
+    {
+      "id": "c31-q024",
+      "tema": "Limitaciones del capital de trabajo",
+      "dificultad": "avanzada",
+      "pregunta": "Dos firmas tienen igual capital de trabajo neto; una posee principalmente caja y la otra inventarios obsoletos. ¿Qué debería concluir quien evalúa su capacidad de pagar mañana?",
+      "opciones": [
+        "El inventario garantiza mayor liquidez por ser un bien físico.",
+        "La capacidad de pago inmediata es necesariamente idéntica.",
+        "El capital de trabajo neto permite prescindir del presupuesto de caja.",
+        "Debe examinar la composición y realizabilidad de los activos, además del indicador agregado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La existencia física no garantiza un mercado ni un precio recuperable. La obsolescencia puede volver poco líquido al inventario. Para pagar mañana importa la disponibilidad efectiva de dinero.",
+        "La igualdad contable no asegura igualdad en los tiempos de conversión. Un activo puede tardar meses en realizarse o exigir una pérdida. La capacidad inmediata depende de la caja disponible y de pagos y cobros próximos.",
+        "El indicador resume saldos, pero no calendariza movimientos. Puede ocultar un faltante puntual aunque su nivel sea positivo. El presupuesto de caja sigue siendo necesario para anticipar vencimientos.",
+        "La misma diferencia contable puede esconder activos de calidad muy distinta. La caja permite pagar de inmediato y un inventario obsoleto puede ser difícil de vender. Conviene revisar vencimientos, composición y cobros previstos."
+      ]
+    },
+    {
+      "id": "c31-q025",
+      "tema": "Propósitos del presupuesto",
+      "dificultad": "basica",
+      "pregunta": "¿Qué dos funciones cumple un presupuesto de efectivo?",
+      "opciones": [
+        "Calcular sólo la utilidad por acción y fijar la cotización bursátil.",
+        "Eliminar la incertidumbre y garantizar préstamos sin condiciones.",
+        "Anticipar faltantes o excedentes y dar una referencia para comparar el desempeño posterior.",
+        "Reemplazar el análisis de inversiones y determinar automáticamente el dividendo óptimo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La utilidad por acción es una medida de resultados y no de disponibilidad monetaria. La cotización depende de muchos factores externos al presupuesto. Su función directa es proyectar caja y controlar desvíos.",
+        "Un pronóstico no asegura que se cumplan sus supuestos. Tampoco obliga a los prestamistas a financiar a la empresa. Ayuda a prepararse frente a incertidumbre y restricciones, sin eliminarlas.",
+        "El presupuesto ordena los cobros y pagos esperados en el tiempo. Así permite preparar financiamiento o colocaciones con anticipación. Luego sirve para comparar lo ocurrido con lo previsto e investigar diferencias.",
+        "La rentabilidad de proyectos y las distribuciones requieren análisis adicionales. El presupuesto muestra sus efectos monetarios. No determina por sí solo cuál es la decisión que maximiza valor."
+      ]
+    },
+    {
+      "id": "c31-q026",
+      "tema": "Cobros con un rezago",
+      "dificultad": "intermedia",
+      "pregunta": "Se cobra 70% de cada venta en su mes y 30% al mes siguiente, sin incobrables. Las ventas fueron 100 en abril y 120 en mayo. ¿Cuánto se cobra en mayo?",
+      "opciones": [
+        "150.",
+        "120.",
+        "114.",
+        "84."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar la venta completa de mayo y el saldo de abril adelanta indebidamente 36. Esa parte de mayo se cobra en junio. En mayo ingresan solamente 114.",
+        "Ciento veinte es la venta devengada de mayo. No coincide necesariamente con su cobranza. Hay que incorporar los cobros pendientes de abril y excluir la parte de mayo que se pagará después.",
+        "De las ventas de mayo ingresan 0,70 × 120 = 84. De abril se cobran 0,30 × 100 = 30. La entrada total de mayo es 84 + 30 = 114.",
+        "Ochenta y cuatro corresponde sólo a las ventas del mes. Omite los 30 que pagan los clientes de abril. El presupuesto de caja incluye ambas generaciones de ventas."
+      ]
+    },
+    {
+      "id": "c31-q027",
+      "tema": "Cobros con dos rezagos",
+      "dificultad": "avanzada",
+      "pregunta": "Las ventas a crédito de enero, febrero y marzo son 100, 200 y 300. Se cobra 50% en el mes de venta, 30% al siguiente y 20% dos meses después. En marzo también hay ventas al contado por 40, separadas de las anteriores. ¿Cuánto se cobra en marzo?",
+      "opciones": [
+        "190.",
+        "230.",
+        "340.",
+        "270."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ciento noventa suma los cobros originados únicamente en marzo. Faltan las cuotas de ventas a crédito de meses anteriores. Agregar 60 y 20 lleva el total a 270.",
+        "Doscientos treinta omite los 40 de ventas al contado. Esos cobros ocurren en marzo y también forman parte de las entradas. Sumarlos al cobro de créditos da 270.",
+        "Trescientos cuarenta trata toda la venta de marzo como cobrada. Sólo se cobra la mitad de la parte a crédito del mes. Los rezagos de enero y febrero deben incorporarse por sus porcentajes específicos.",
+        "Marzo aporta 150 de sus ventas a crédito y 40 al contado. Febrero aporta 60 y enero aporta 20. El total es 150 + 40 + 60 + 20 = 270."
+      ]
+    },
+    {
+      "id": "c31-q028",
+      "tema": "Evolución de cuentas por cobrar",
+      "dificultad": "intermedia",
+      "pregunta": "Las cuentas por cobrar iniciales son 45, las ventas a crédito del período 180 y sus cobros totales 165. Sin bajas ni otros movimientos, ¿cuál es el saldo final?",
+      "opciones": [
+        "210.",
+        "15.",
+        "390.",
+        "60."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Doscientos diez surge de sumar saldo inicial y cobros y restar ventas. Eso invierte el efecto de ambas partidas. Las ventas aumentan el crédito y los cobros lo disminuyen.",
+        "Quince es sólo la diferencia entre ventas y cobros del período. Debe agregarse el saldo inicial que todavía forma parte de la conciliación. Así se obtiene un saldo final de 60.",
+        "Sumar cobros y ventas al saldo inicial cuenta las entradas como nuevos créditos. La cobranza extingue cuentas por cobrar. Restarla deja el saldo correcto de 60.",
+        "El saldo final se calcula como inicial más ventas a crédito menos cobros. Por eso resulta 45 + 180 − 165 = 60. Los cobros cancelan derechos ya registrados, sean actuales o anteriores."
+      ]
+    },
+    {
+      "id": "c31-q029",
+      "tema": "Saldos iniciales antiguos",
+      "dificultad": "avanzada",
+      "pregunta": "Al iniciar un trimestre hay 50 en cuentas por cobrar, pero el esquema habitual pronostica cobrar sólo 30 de ventas recientes anteriores. ¿Qué corresponde hacer con los otros 20?",
+      "opciones": [
+        "Sumarlos automáticamente a la caja del primer día.",
+        "Contarlos como ventas nuevas del trimestre.",
+        "Borrarlos porque no entran en el porcentaje habitual.",
+        "Identificar su antigüedad y estimar explícitamente cuándo y cuánto se cobrará."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una cuenta por cobrar no es efectivo disponible. Su saldo puede cobrarse después o no cobrarse completamente. Hace falta una hipótesis sustentada de recuperación.",
+        "Esos créditos nacieron de operaciones anteriores. Registrarlos como ventas actuales duplicaría ingresos. Su cobro eventual es una entrada de caja que reduce créditos existentes.",
+        "La ausencia en una fórmula de cobros no elimina un derecho contable. Antes de darlo de baja hay que evaluar su recuperabilidad. La proyección debe explicar cómo se trata ese saldo.",
+        "Un porcentaje sobre ventas recientes no necesariamente explica todo el saldo inicial. Los créditos más antiguos pueden tener plazos o riesgos distintos. Deben conciliarse y proyectarse para evitar omisiones o cobros ficticios."
+      ]
+    },
+    {
+      "id": "c31-q030",
+      "tema": "Pagos a proveedores",
+      "dificultad": "intermedia",
+      "pregunta": "Las compras de abril son 80 y las de mayo 100. Se paga 40% en el mes de compra y 60% al siguiente, sin atrasos adicionales. ¿Cuánto se paga en mayo?",
+      "opciones": [
+        "108.",
+        "88.",
+        "40.",
+        "100."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ciento ocho aplica 60% a mayo y 40% a abril. Esos porcentajes están intercambiados respecto del contrato. Corresponde pagar 40 actuales y 48 anteriores.",
+        "De mayo se paga 0,40 × 100 = 40. De abril vencen 0,60 × 80 = 48. El desembolso total de mayo es 40 + 48 = 88.",
+        "Cuarenta incluye sólo el pago inmediato de las compras actuales. Falta cancelar los 48 pendientes de abril. Las obligaciones previas también utilizan caja en mayo.",
+        "Cien es la compra de mayo, pero el calendario de pagos es diferente. Una parte se paga en junio y otra parte de abril vence ahora. Aplicar ambos porcentajes arroja 88."
+      ]
+    },
+    {
+      "id": "c31-q031",
+      "tema": "Cuentas por pagar con dos rezagos",
+      "dificultad": "avanzada",
+      "pregunta": "Se paga 40% de las compras al contado, 40% al mes siguiente y 20% dos meses después. Las compras de enero y febrero son 100 y 150; no hay deudas anteriores. ¿Qué cuentas por pagar quedan al terminar febrero?",
+      "opciones": [
+        "150.",
+        "90.",
+        "110.",
+        "60."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ciento cincuenta coincide con las compras de febrero. Sin embargo, ya se pagó 40% de ellas y hay un saldo de enero. El pasivo final debe reconstruirse según ambos vencimientos.",
+        "Noventa contempla sólo lo pendiente de febrero. Todavía se adeudan 20 de enero, que se pagarán en marzo. Incluir las dos generaciones de compras lleva el saldo a 110.",
+        "De enero queda pendiente el último 20%, equivalente a 20. De febrero queda pendiente 60%, equivalente a 90. Las cuentas por pagar finales suman 20 + 90 = 110.",
+        "Sesenta es el pago inmediato de las compras de febrero. No es la deuda que queda pendiente. El pasivo final se obtiene con los importes aún no cancelados de enero y febrero."
+      ]
+    },
+    {
+      "id": "c31-q032",
+      "tema": "Plazos dentro del trimestre",
+      "dificultad": "intermedia",
+      "pregunta": "Las compras se distribuyen uniformemente en un trimestre de 90 días y se pagan exactamente 30 días después. Sin deudas iniciales, ¿qué parte de esas compras se paga dentro del trimestre y cuál después?",
+      "opciones": [
+        "La totalidad dentro del trimestre.",
+        "Dos tercios dentro y un tercio después.",
+        "Un tercio dentro y dos tercios después.",
+        "La mitad dentro y la mitad después."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las compras del último mes todavía no vencieron al cierre. No corresponde anticipar ese desembolso. Un tercio queda como cuentas por pagar al trimestre siguiente.",
+        "Las compras de los primeros 60 días vencen dentro de los 90 días. Las de los últimos 30 días se pagan en el trimestre siguiente. Con distribución uniforme, las proporciones son 60/90 y 30/90.",
+        "Esas proporciones corresponderían a un plazo de pago de 60 días bajo el mismo supuesto. El plazo dado es de 30 días. Por eso alcanzan a pagarse dos tercios dentro del trimestre.",
+        "Un reparto por mitades requeriría otro plazo o una distribución diferente. Con compras uniformes, se comparan días de vencimiento con días del trimestre. Sesenta de noventa días de compras se pagan dentro del período."
+      ]
+    },
+    {
+      "id": "c31-q033",
+      "tema": "Otras entradas y salidas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conjunto debe incluir un presupuesto de caja además de la cobranza de ventas y el pago de materiales?",
+      "opciones": [
+        "Cobros de seguros o ventas de activos y pagos de salarios, inversión, impuestos y dividendos.",
+        "Depreciación como pago y toda utilidad retenida como cobro separado.",
+        "Sólo partidas que integran la utilidad operativa.",
+        "Sólo movimientos recurrentes, excluyendo inversiones y cobros extraordinarios."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La caja cambia también por operaciones extraordinarias, inversiones y distribuciones. Cada cobro o pago debe ubicarse cuando se espera que ocurra. Que una partida no sea una venta no impide que modifique la disponibilidad de dinero.",
+        "La depreciación no es un desembolso del período. Las utilidades retenidas tampoco son un cobro adicional independiente. Incluirlas así duplicaría o inventaría movimientos monetarios.",
+        "La compra de una máquina o el pago de dividendos puede no integrar la utilidad operativa. Sin embargo, ambos consumen efectivo. El presupuesto debe incluir movimientos monetarios más allá del resultado operativo.",
+        "Un cobro extraordinario puede financiar vencimientos concretos. Una inversión puede originar el mayor déficit del período. Excluirlos haría incompleta la previsión de caja."
+      ]
+    },
+    {
+      "id": "c31-q034",
+      "tema": "Saldo mínimo y financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "La caja inicial es 12, los cobros previstos 70 y los pagos 95. La empresa exige un saldo mínimo de 7; no hay otros recursos. ¿Cuánto financiamiento adicional necesita?",
+      "opciones": [
+        "7.",
+        "20.",
+        "25.",
+        "13."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Siete es el saldo que debe quedar, no el dinero total a captar. Antes de financiarse existe un faltante de 13. Cubrirlo y conservar el mínimo requiere 20.",
+        "Antes de financiarse, la caja proyectada es 12 + 70 − 95 = −13. Se requieren 13 para cubrir pagos y otros 7 para conservar el mínimo. El financiamiento necesario es 7 − (−13) = 20.",
+        "Veinticinco es la diferencia entre pagos y cobros. Todavía hay 12 de caja inicial que reducen el faltante y un mínimo de 7 que preserva fondos. La necesidad neta es 25 − 12 + 7 = 20.",
+        "Trece alcanza para terminar con caja cero. El enunciado exige mantener 7 para operar. Debe agregarse ese colchón al faltante inicial."
+      ]
+    },
+    {
+      "id": "c31-q035",
+      "tema": "Necesidad acumulativa",
+      "dificultad": "avanzada",
+      "pregunta": "La caja inicial y el mínimo son 10. Los flujos netos antes de financiamiento de tres meses son −30, −20 y +35. Sin intereses, ¿cuál es el pico del financiamiento acumulativo necesario para mantener el mínimo?",
+      "opciones": [
+        "50 al terminar el segundo mes.",
+        "30 al terminar el primer mes.",
+        "20 al terminar el segundo mes.",
+        "15 al terminar el tercer mes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer mes exige captar 30 para conservar caja de 10. El segundo agrega un déficit de 20, por lo que la deuda acumulada llega a 50. El superávit de 35 del tercero permite reducirla a 15.",
+        "Treinta cubre únicamente el primer mes. El déficit posterior no desaparece por haber financiado el anterior. En el segundo mes deben captarse otros 20 y el pico llega a 50.",
+        "Veinte es el financiamiento incremental del segundo mes. Debe sumarse a los 30 que siguen pendientes del primero. Confundir incremento con saldo acumulado subestima la deuda máxima.",
+        "Quince es la necesidad residual después del superávit del tercer mes. No mide el mayor faltante previo. Para dimensionar una línea importa el pico de 50."
+      ]
+    },
+    {
+      "id": "c31-q036",
+      "tema": "Caja negativa proyectada",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo debe interpretarse un saldo de caja proyectado de −8 antes de incorporar financiamiento?",
+      "opciones": [
+        "Como una pérdida contable exacta de 8.",
+        "Como un activo monetario negativo que puede gastarse normalmente.",
+        "Como autorización automática para un descubierto bancario.",
+        "Como una señal de pagos que no podrán cubrirse sin conseguir fondos o modificar el plan."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El faltante de caja puede provenir de inversiones o desfases de cobro. Esas partidas no equivalen a una pérdida contable del mismo importe. Resultado y liquidez deben analizarse por separado.",
+        "No se puede pagar con un saldo negativo de efectivo. Un descubierto sería un pasivo y requiere autorización. El presupuesto advierte la necesidad de obtener recursos.",
+        "La planilla no crea derechos frente al banco. El descubierto debe estar acordado bajo condiciones concretas. Sin ese acuerdo, el saldo negativo indica un problema pendiente de solución.",
+        "La proyección sin financiamiento muestra una brecha entre recursos y pagos. La empresa debe cubrirla o cambiar cobros y desembolsos. No representa dinero físicamente disponible con signo negativo."
+      ]
+    },
+    {
+      "id": "c31-q037",
+      "tema": "Estacionalidad y solvencia",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero observa un déficit transitorio causado por una compra de equipos rentable y ventas estacionales bajas. ¿Qué diagnóstico corresponde?",
+      "opciones": [
+        "Cancelar el proyecto porque todo déficit de caja implica VPN negativo.",
+        "Reducir a cero la reserva operativa sin revisar riesgos.",
+        "Ignorar el déficit porque la empresa muestra utilidad.",
+        "Analizar su financiación y recuperación; el déficit por sí solo no prueba que el negocio sea inviable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El VPN depende de todos los flujos descontados y del desembolso inicial. Un déficit próximo es compatible con creación de valor. La restricción de liquidez exige solución, pero no prueba falta de rentabilidad.",
+        "Eliminar la reserva aumenta la exposición a errores de pronóstico. No resuelve necesariamente el déficit de fondo. El mínimo debe fijarse considerando la incertidumbre y el funcionamiento cotidiano.",
+        "La utilidad no asegura dinero disponible en cada vencimiento. La inversión y las ventas a crédito pueden absorber caja. Debe prepararse el financiamiento aunque el resultado sea positivo.",
+        "Un proyecto valioso puede requerir pagos antes de generar cobros. La estacionalidad también puede producir faltantes temporales. Hace falta comprobar cómo se cubren y cuándo se recuperan los fondos."
+      ]
+    },
+    {
+      "id": "c31-q038",
+      "tema": "Sensibilidad y escenarios",
+      "dificultad": "intermedia",
+      "pregunta": "Ante una posible recesión que reduciría ventas y retrasaría cobros simultáneamente, ¿qué mejora conviene introducir al análisis?",
+      "opciones": [
+        "Evaluar escenarios conjuntos o simulaciones que incorporen la relación entre ambas variables.",
+        "Cambiar sólo ventas y asumir que eso capta todos los efectos de la recesión.",
+        "Usar exclusivamente el promedio histórico de caja sin analizar su variabilidad.",
+        "Sumar una reserva arbitraria y dejar de revisar los supuestos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La recesión puede afectar varios determinantes de caja a la vez. Un escenario conjunto representa ese deterioro combinado. Una simulación bien especificada también permite estimar la distribución de necesidades, incluyendo dependencias relevantes.",
+        "La sensibilidad de una variable es útil para aislar su efecto. Pero no captura automáticamente un retraso simultáneo de cobros. El riesgo combinado puede ser mayor que el estimado con un cambio aislado.",
+        "El promedio puede ocultar faltantes extremos y desfases entre pagos y cobros. La capacidad necesaria no depende sólo del escenario central. Conviene explorar la variabilidad y los resultados adversos.",
+        "Una reserva puede ser conveniente, pero debe tener fundamento. Sin revisar supuestos no se sabe qué riesgos cubre. El análisis conjunto ayuda a dimensionar la liquidez requerida."
+      ]
+    },
+    {
+      "id": "c31-q039",
+      "tema": "Elección de fuentes",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede vender valores líquidos que rinden 2% trimestral, usar un préstamo al 3% trimestral o diferir proveedores al 5% trimestral. Sin impuestos, comisiones ni restricciones adicionales, ¿qué orden minimiza el costo de cubrir el faltante?",
+      "opciones": [
+        "Vender valores, usar el préstamo y por último diferir proveedores.",
+        "Diferir proveedores, usar el préstamo y vender valores al final.",
+        "Tomar el préstamo y conservar siempre los valores.",
+        "Elegir indiferentemente porque los tres costos son equivalentes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Vender valores tiene un costo de oportunidad de 2% trimestral. El préstamo cuesta 3% y diferir proveedores cuesta 5%. Bajo los supuestos dados se utilizan primero los recursos de menor costo.",
+        "Se comienza por la fuente más cara y se deja la menos costosa para el final. Eso eleva el costo total sin aportar otro beneficio indicado. El orden correcto sigue costos de 2%, 3% y 5%.",
+        "Conservar una inversión al 2% financiada al 3% produce un costo neto evitable. No se indicaron razones adicionales para preservarla. Venderla antes de endeudarse es más barato en este caso.",
+        "Las tasas están medidas en el mismo período y son distintas. Por eso permiten una comparación directa. Sólo restricciones o beneficios adicionales podrían alterar el orden, y aquí se excluyen."
+      ]
+    },
+    {
+      "id": "c31-q040",
+      "tema": "Límite de crédito y saldo mínimo",
+      "dificultad": "intermedia",
+      "pregunta": "Debe cubrirse un faltante de 50, incluido el saldo mínimo. Hay valores vendibles por 8 y una línea bancaria disponible por 35; el resto se financiará con proveedores. Sin costos en este período, ¿cuánto debe diferirse?",
+      "opciones": [
+        "42.",
+        "7.",
+        "15.",
+        "0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cuarenta y dos resta los valores, pero no utiliza la línea bancaria. El enunciado permite disponer de 35 adicionales. La necesidad residual después de ambas fuentes es 7.",
+        "Los valores y el banco aportan 8 + 35 = 43. El faltante total es 50. La diferencia de 7 debe cubrirse con proveedores bajo las opciones previstas.",
+        "Quince surge de restar sólo la línea bancaria. Omite los 8 obtenidos por la venta de valores. Al reconocer ese recurso adicional, basta diferir 7.",
+        "Los recursos inmediatos no alcanzan para cubrir los 50. Faltan 7 después de vender valores y usar el banco. Ignorar esa brecha dejaría incompleto el financiamiento del plan."
+      ]
+    },
+    {
+      "id": "c31-q041",
+      "tema": "Intereses y costo de oportunidad",
+      "dificultad": "avanzada",
+      "pregunta": "En el trimestre anterior se tomaron 20 al banco al 3% trimestral, se difirieron 4 de proveedores con recargo de 5% y se vendieron valores por 10 que rendían 1% trimestral. Los costos se computan ahora y el presupuesto base incluía el rendimiento de esos valores. Además de devolver principal, ¿qué requerimiento adicional debe reconocerse?",
+      "opciones": [
+        "0,8.",
+        "0,9.",
+        "0,6.",
+        "1,5."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El importe 0,8 suma intereses y recargos monetarios. Pero el presupuesto base también contaba con 0,1 de rendimiento que ya no se cobrará. Esa corrección eleva la necesidad adicional a 0,9.",
+        "El banco exige 20 × 0,03 = 0,6 de interés. Proveedores agrega 4 × 0,05 = 0,2 y se pierde 10 × 0,01 = 0,1 del ingreso previsto. El efecto adicional respecto del presupuesto base es 0,9.",
+        "El importe 0,6 incluye únicamente el interés bancario. Omite el recargo de proveedores y la reducción de ingresos financieros. Los tres efectos suman 0,9 respecto de la base.",
+        "El costo debe calcularse sobre cada saldo y su tasa específica. No corresponde aplicar una misma tasa a todos los recursos. Las multiplicaciones indicadas producen 0,6, 0,2 y 0,1."
+      ]
+    },
+    {
+      "id": "c31-q042",
+      "tema": "Costo intangible del atraso",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero propone pagar tarde a los proveedores porque no hay multa contractual explícita. ¿Qué debería revisar antes de aceptarlo?",
+      "opciones": [
+        "Únicamente si el banco permite comprar maquinaria.",
+        "Descuentos perdidos, reputación comercial y continuidad del abastecimiento.",
+        "Nada, porque todo crédito sin multa es gratuito.",
+        "Sólo si el asiento contable aumenta el pasivo corriente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las restricciones bancarias pueden importar, pero no agotan esta decisión. El proveedor enfrenta su propio riesgo y puede reaccionar. Deben analizarse directamente las consecuencias del pago tardío.",
+        "El atraso puede hacer perder descuentos o deteriorar condiciones futuras. También puede afectar la confianza y el suministro. La ausencia de una multa explícita no elimina esos costos económicos.",
+        "Un costo puede aparecer como descuento perdido y no como multa. También puede haber restricciones futuras de crédito del proveedor. Conviene evaluar el costo total antes de llamar gratuito al atraso.",
+        "El asiento refleja una obligación, pero no mide todo su costo. Pueden perderse descuentos y dañarse relaciones comerciales. La decisión requiere considerar esos efectos además de la contabilidad."
+      ]
+    },
+    {
+      "id": "c31-q043",
+      "tema": "Tasa simple y efectiva",
+      "dificultad": "intermedia",
+      "pregunta": "Diferir una factura un trimestre exige pagar 104 por cada 100 diferidos. Si ese costo se repite y capitaliza durante cuatro trimestres, ¿cuáles son la tasa anual simple y la efectiva anual?",
+      "opciones": [
+        "16% simple y 16% efectiva.",
+        "4% simple y 16% efectiva.",
+        "16% simple y aproximadamente 16,99% efectiva.",
+        "16,99% simple y 16% efectiva."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tasa simple suma cuatro cargos trimestrales. La efectiva considera que cada cargo también se financia durante los períodos siguientes. Por eso resulta algo mayor que 16%.",
+        "Cuatro por ciento es la tasa de un trimestre, no la anual simple. Además, 16% no incorpora interés sobre interés. La tasa efectiva anual debe calcularse con cuatro capitalizaciones.",
+        "La tasa trimestral es 4%. La anualización simple es 4 × 4% = 16%. Con capitalización, la efectiva es (1,04)^4 − 1 = 16,985856%, aproximadamente 16,99%.",
+        "La alternativa intercambia las dos medidas. La potencia produce la tasa efectiva y la multiplicación produce la simple. Con tasa positiva y capitalización, la efectiva es mayor."
+      ]
+    },
+    {
+      "id": "c31-q044",
+      "tema": "Factibilidad y calidad del plan",
+      "dificultad": "avanzada",
+      "pregunta": "Un plan cubre todos los pagos previstos usando una fuente cara y deja ratios de liquidez muy ajustados a mitad de año. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "Es factible bajo sus supuestos, pero conviene buscar alternativas más baratas y evaluar su resistencia a desvíos.",
+        "Es óptimo porque la caja proyectada nunca resulta negativa.",
+        "Es inviable por definición aunque se cumplan todas las restricciones.",
+        "Debe aprobarse mirando únicamente el saldo de cierre anual."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cubrir pagos y restricciones prueba factibilidad, no optimalidad. Otra combinación puede reducir costos o dejar más margen ante imprevistos. La liquidez debe evaluarse también durante el año y frente a condiciones bancarias.",
+        "La ausencia de faltantes no demuestra que el costo sea mínimo. Puede haber fuentes más convenientes o riesgos innecesarios. La comparación de alternativas sigue siendo parte de la planeación.",
+        "Una fuente cara no vuelve automáticamente inviable al plan. Si alcanza para pagar y respeta restricciones, puede ser factible. La crítica es su conveniencia económica y su fragilidad.",
+        "Un buen cierre puede ocultar tensiones severas meses antes. Las obligaciones y convenios financieros deben cumplirse cuando vencen. La trayectoria de caja importa tanto como la posición final."
+      ]
+    },
+    {
+      "id": "c31-q045",
+      "tema": "Ajustes operativos y de inversión",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina se paga en enero, pero comenzará a operar en agosto. ¿Qué alternativa puede reducir el pico de financiamiento sin cancelar la inversión?",
+      "opciones": [
+        "Registrar la depreciación antes para generar dinero en enero.",
+        "Eliminar del presupuesto la compra hasta agosto aunque deba pagarse en enero.",
+        "Negociar parte del pago para la instalación y puesta en marcha, evaluando su costo.",
+        "Cobrar anticipadamente ventas futuras sin acordarlo con clientes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La depreciación no genera un ingreso monetario automático. Anticipar su registro no financia el pago al proveedor. La solución requiere cambiar flujos reales o conseguir recursos.",
+        "El presupuesto debe registrar el pago en su fecha efectiva. Omitirlo no modifica la obligación y oculta el déficit. Sólo un cambio negociado del calendario puede trasladar ese desembolso.",
+        "Un pago por hitos puede alinear desembolsos con la disponibilidad operativa. Así se posterga parte de la necesidad de fondos. Hay que comparar el alivio de caja con cualquier aumento de precio o costo contractual.",
+        "Los clientes no pagan antes por una simple decisión interna. Hace falta una condición comercial que acepten y que sea viable. Un ingreso supuesto sin acuerdo vuelve poco confiable el plan."
+      ]
+    },
+    {
+      "id": "c31-q046",
+      "tema": "Costos de liberar capital de trabajo",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora propone reducir inventarios y endurecer cobranzas para evitar deuda bancaria. ¿Cómo debería evaluar la propuesta?",
+      "opciones": [
+        "Medir sólo el aumento inmediato del efectivo sin considerar ventas futuras.",
+        "Comparar el ahorro financiero con posibles faltantes de mercadería y pérdidas de clientes.",
+        "Rechazarla porque las políticas operativas no afectan la caja.",
+        "Aceptar cualquier reducción porque el capital de trabajo mínimo siempre maximiza valor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El alivio actual puede venir acompañado de menores cobros futuros. Ignorar ese efecto sesga la evaluación. Hay que considerar la rentabilidad total, no sólo la caja del primer período.",
+        "Menos inventario y cobros más rápidos pueden liberar dinero. Pero también pueden perjudicar el servicio o las ventas. La decisión debe considerar el beneficio financiero y esos costos operativos y comerciales.",
+        "Las políticas operativas determinan cuánto dinero queda inmovilizado. Cambiar inventarios o plazos de cobro sí altera las necesidades de caja. Precisamente por eso deben coordinarse operación y financiamiento.",
+        "Un mínimo contable no es necesariamente el óptimo económico. Una reserva de productos puede evitar ventas perdidas. El crédito a clientes también puede tener beneficios comerciales que justifican parte de la inversión."
+      ]
+    },
+    {
+      "id": "c31-q047",
+      "tema": "Simulación y optimización",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué diferencia existe entre un modelo de simulación financiera y uno de optimización?",
+      "opciones": [
+        "La simulación calcula consecuencias de supuestos y políticas; la optimización busca la mejor alternativa dentro de restricciones definidas.",
+        "La simulación garantiza el mejor plan y la optimización sólo registra saldos.",
+        "La optimización descubre automáticamente todas las políticas posibles sin intervención gerencial.",
+        "Ambos eliminan la necesidad de examinar supuestos alternativos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una simulación permite observar qué ocurre con una política especificada. La optimización compara alternativas permitidas según un objetivo y restricciones. Ninguna asegura buenos resultados si se omiten riesgos o se introducen supuestos erróneos.",
+        "La simulación no prueba por sí sola que no exista un plan mejor. La optimización sí busca un objetivo dentro de un conjunto definido. La alternativa atribuye a cada herramienta la función contraria.",
+        "El administrador debe definir alternativas, relaciones y restricciones relevantes. Un optimizador no inventa toda la realidad económica. Su solución depende de lo que se incluyó en el modelo.",
+        "Los supuestos determinan los resultados de ambas herramientas. Si cambian ventas, tasas o acceso al crédito, cambia el plan. Siempre corresponde revisar escenarios y sensibilidad."
+      ]
+    },
+    {
+      "id": "c31-q048",
+      "tema": "Riesgo de refinanciación",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa necesita fondos por cinco años y compara renovar pagarés semestrales baratos con tomar deuda a cinco años más cara. ¿Qué riesgo adicional tiene la primera opción?",
+      "opciones": [
+        "Que no pueda renovar los pagarés o que las nuevas tasas resulten mucho mayores.",
+        "Que los pagarés semestrales se transformen automáticamente en capital propio.",
+        "Que la tasa inicial baja garantice una tasa baja durante cinco años.",
+        "Que la deuda a cinco años exija necesariamente renegociar el principal cada semestre."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada renovación requiere encontrar prestamistas y aceptar condiciones nuevas. Un cambio en la calidad crediticia o en el mercado puede impedirlo. La tasa inicial debe compararse junto con ese riesgo de refinanciación y de tasas.",
+        "Un pagaré es una obligación contractual de deuda. Su vencimiento exige pago o refinanciación, no una conversión automática. El riesgo relevante es conseguir los fondos para cumplirlo.",
+        "La tasa de la primera emisión cubre sólo su plazo contractual. Las siguientes emisiones pueden tener tasas distintas. El costo a cinco años no queda fijado por el primer semestre.",
+        "Una deuda con principal exigible al quinto año no necesita renovar ese principal cada semestre. Puede tener pagos de interés intermedios según contrato. Es justamente esa diferencia la que reduce el riesgo de refinanciación."
+      ]
+    },
+    {
+      "id": "c31-q049",
+      "tema": "Decisión entre plazos de financiamiento",
+      "dificultad": "avanzada",
+      "pregunta": "Una inversión permanente se financia inicialmente con un préstamo puente, y los flujos operativos previstos permitirían cancelarlo pronto. ¿Qué decisión es razonable?",
+      "opciones": [
+        "Prohibir siempre el préstamo puente porque los activos fijos nunca admiten deuda breve.",
+        "Suponer que las utilidades retenidas están disponibles en efectivo desde el primer día.",
+        "Elegir siempre el puente por su tasa inicial, sin considerar renovaciones.",
+        "Verificar la credibilidad de esos flujos y comparar el puente con financiamiento permanente, incluyendo escenarios adversos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El financiamiento provisional es una herramienta posible. Su conveniencia depende de cómo se cancelará o sustituirá. Una prohibición absoluta impide evaluar alternativas que pueden ser viables.",
+        "Las utilidades retenidas son una magnitud patrimonial acumulada. No equivalen necesariamente a dinero disponible hoy. Para cancelar el puente importan los cobros netos reales y sus fechas.",
+        "La tasa inicial no resume el costo ni la seguridad del financiamiento. Si el flujo esperado falla, puede requerirse una renovación difícil. Corresponde comparar horizontes y escenarios completos.",
+        "La regla de acoplamiento es una pauta y requiere juicio. Un puente puede ser razonable si existe una fuente de cancelación confiable. Deben evaluarse el costo y el riesgo de que esa fuente llegue tarde o sea insuficiente."
+      ]
+    },
+    {
+      "id": "c31-q050",
+      "tema": "Costo de una línea de crédito",
+      "dificultad": "intermedia",
+      "pregunta": "Una línea de 40 millones permanece un año con 25 millones utilizados. Cobra 8% anual sobre lo utilizado y una comisión anual de 0,4% sobre lo no utilizado. Sin otros cargos, ¿cuál es el costo anual total?",
+      "opciones": [
+        "2,16 millones.",
+        "2 millones.",
+        "3,36 millones.",
+        "2,06 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El resultado cobra 0,4% sobre los 40 millones completos. El contrato aplica esa comisión únicamente a los 15 no usados. Su importe es 0,06 y no 0,16 millones.",
+        "Dos millones representa sólo el interés de los fondos utilizados. La línea también cobra por mantener disponible el resto. Agregar la comisión de 0,06 lleva el costo a 2,06 millones.",
+        "Se está aplicando interés sobre todo el límite aunque sólo se utilizaron 25. El interés se cobra sobre el uso y la comisión sobre el remanente. Las bases diferentes producen un costo total de 2,06 millones.",
+        "Los intereses son 25 × 0,08 = 2 millones. El saldo no utilizado es 40 − 25 = 15 y su comisión es 15 × 0,004 = 0,06. El costo total es 2,06 millones."
+      ]
+    },
+    {
+      "id": "c31-q051",
+      "tema": "Préstamo cotizado a descuento",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo a un año tiene valor a devolver de 100 y descuento de 8% cobrado al inicio. Sin comisiones, ¿cuál es su costo efectivo anual sobre el dinero recibido?",
+      "opciones": [
+        "Aproximadamente 7,41%.",
+        "8%.",
+        "Aproximadamente 8,70%.",
+        "92%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Dividir 8 por 108 usa una base que no corresponde a este contrato. El monto recibido es 92, no 108. La comparación correcta es costo de 8 sobre fondos disponibles de 92.",
+        "Ocho por ciento es el descuento calculado sobre el valor final. La empresa dispone de menos de 100 durante el año. El costo sobre los recursos efectivamente recibidos es mayor, aproximadamente 8,70%.",
+        "La empresa recibe 100 − 8 = 92 y devuelve 100. El costo de 8 debe compararse con los 92 disponibles. La tasa es 8/92 = 8,695652%, aproximadamente 8,70%.",
+        "Noventa y dos es el importe neto recibido por cada 100 nominales. No es una tasa de costo. El costo relativo se obtiene dividiendo los 8 retenidos por esos 92."
+      ]
+    },
+    {
+      "id": "c31-q052",
+      "tema": "Líneas como seguro de liquidez",
+      "dificultad": "avanzada",
+      "pregunta": "Un director cree que una línea comprometida sin utilizar es dinero disponible sin ninguna condición. ¿Qué corrección corresponde?",
+      "opciones": [
+        "Es una obligación del banco que jamás depende de convenios financieros.",
+        "Es un derecho de acceso bajo condiciones contractuales, con posible comisión y requisitos financieros.",
+        "Es efectivo ya depositado y debe sumarse íntegro a la caja.",
+        "Es una opción del banco para obligar al cliente a endeudarse por todo el límite."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El compromiso se interpreta según sus términos. Los convenios pueden limitar la posibilidad de utilizarlo. Ignorarlos sobrestima la protección de liquidez ante un deterioro financiero.",
+        "La línea ofrece flexibilidad para obtener fondos cuando se necesitan. Sin embargo, puede exigir mantener indicadores o cumplir otros convenios. Además, su disponibilidad suele tener un costo aun cuando no se utilice.",
+        "La capacidad de endeudarse no equivale a un saldo monetario. La caja aumenta cuando se desembolsa el préstamo. Antes de eso existe disponibilidad condicionada, no efectivo cobrado.",
+        "La opción de uso pertenece normalmente al prestatario dentro del contrato. El banco no obliga por esa sola línea a tomar todo el dinero. La empresa paga por conservar capacidad de financiación."
+      ]
+    },
+    {
+      "id": "c31-q053",
+      "tema": "Tasa flotante y diferencial",
+      "dificultad": "intermedia",
+      "pregunta": "Un préstamo de 20 millones paga una tasa de referencia más 1,5 puntos porcentuales. La referencia es 4% anual el primer trimestre y 6% el segundo. Con interés simple, cuatro trimestres iguales y principal constante, ¿cuánto interés se paga entre ambos trimestres?",
+      "opciones": [
+        "0,50 millones.",
+        "0,35 millones.",
+        "2,60 millones.",
+        "0,65 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El resultado considera sólo las referencias de 4% y 6%. Falta agregar el diferencial contractual de 1,5 puntos en cada trimestre. Ese diferencial añade 0,15 millones al total de medio año.",
+        "La suba de referencia no se aplica sólo como diferencia entre períodos. Debe pagarse la tasa completa correspondiente a cada trimestre. Las dos cargas son 0,275 y 0,375 millones.",
+        "Sumar tasas anuales y aplicarlas sin ajustar por trimestre cuadruplica el costo. Cada una rige durante un cuarto de año. Dividir las dos cargas por cuatro deja 0,65 millones.",
+        "Las tasas anuales aplicables son 5,5% y 7,5%. Cada trimestre paga 20 × tasa/4, es decir 0,275 y 0,375 millones. La suma de ambos intereses es 0,65 millones."
+      ]
+    },
+    {
+      "id": "c31-q054",
+      "tema": "Vencimientos y amortización bancaria",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción distingue correctamente un préstamo autoliquidable, uno puente y uno a plazos?",
+      "opciones": [
+        "El de plazos siempre exige cuotas de principal iguales y prohíbe pagos finales grandes.",
+        "El autoliquidable no se devuelve; el puente es capital propio; el de plazos vence siempre en un día.",
+        "El autoliquidable se paga con el ciclo que financia; el puente cubre una transición; el de plazos puede amortizarse en varios años.",
+        "Los tres deben tener idéntico vencimiento y una única cuota final."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los contratos a plazos admiten distintas estructuras. Puede existir un pago final grande o todo el principal al vencimiento. También deben revisarse condiciones de renegociación y eventuales penalidades por prepago.",
+        "Autoliquidable significa que existe una fuente operativa esperada de cancelación. No elimina la obligación de devolver el préstamo. Tanto el puente como el de plazos siguen siendo deuda.",
+        "Un préstamo para inventarios puede cancelarse con los cobros de su venta. El puente sirve hasta concretar una fuente de fondos posterior. El préstamo a plazos permite calendarios diversos, incluyendo amortización, pago final grande o principal íntegro al vencimiento.",
+        "Las categorías responden a propósitos y estructuras diferentes. El contrato puede adaptar los pagos a los flujos del prestatario. No existe una exigencia de vencimiento idéntico para las tres."
+      ]
+    },
+    {
+      "id": "c31-q055",
+      "tema": "Sindicatos bancarios e información",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa solicita un crédito internacional que supera la capacidad que un banco quiere concentrar en un cliente. ¿Qué solución y función del organizador son coherentes?",
+      "opciones": [
+        "Obligar al organizador a conservar siempre el 100% hasta el vencimiento.",
+        "Emitir acciones y llamarlas préstamos sindicados.",
+        "Eliminar el análisis crediticio porque participan varios bancos.",
+        "Formar un sindicato; el organizador analiza, estructura y coloca participaciones del préstamo entre bancos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El propósito de sindicar es repartir al menos parte del préstamo. El organizador puede retener una porción e incluso comprometerse a absorber lo no colocado. Eso no implica conservar necesariamente toda la operación hasta su vencimiento.",
+        "La sindicación reparte un crédito, no convierte deuda en acciones. Los prestamistas mantienen derechos contractuales de cobro. La estructura de capital no cambia de esa manera por el solo hecho de sindicar.",
+        "Compartir exposición no elimina la posibilidad de incumplimiento. Los bancos necesitan evaluar al prestatario y monitorearlo. Ese control puede aportar información valiosa a otros inversionistas, sin garantizar el resultado.",
+        "El sindicato distribuye la financiación entre varias entidades, incluso de distintos países. El organizador prepara información, coordina condiciones y busca participantes. Su reputación y la porción que conserva pueden ayudar a reducir problemas de información."
+      ]
+    },
+    {
+      "id": "c31-q056",
+      "tema": "Traspasos y participaciones",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué diferencia relevante existe entre traspasar un préstamo y vender una participación en sus flujos?",
+      "opciones": [
+        "Un traspaso convierte el préstamo en una acción del deudor.",
+        "Una participación garantiza que el comprador nunca soportará pérdidas.",
+        "La participación transfiere siempre al comprador todos los derechos directos frente al deudor y elimina al banco originante.",
+        "En la participación, el banco originante puede conservar el vínculo con el deudor y generar exposición adicional del comprador a ese banco."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El traspaso cambia al titular de derechos de deuda. No cambia automáticamente la naturaleza del instrumento. El deudor continúa teniendo obligaciones crediticias y no patrimoniales.",
+        "El comprador sigue expuesto a los flujos del crédito. Además, la estructura puede añadir riesgo del banco que administra los cobros. La participación no es una garantía universal de recuperación.",
+        "Esa descripción borra precisamente la intermediación propia de la participación. El banco puede mantener la relación original y comprometerse a pasar flujos al comprador. Los derechos efectivos dependen del contrato y no deben presumirse idénticos a un traspaso.",
+        "Un traspaso transfiere derechos del préstamo bajo el acuerdo correspondiente. En una participación, el originante puede seguir cobrando y distribuir parte de esos cobros. El comprador debe revisar también el riesgo de que el banco intermediario incumpla sus obligaciones."
+      ]
+    },
+    {
+      "id": "c31-q057",
+      "tema": "OPG y prelación de tramos",
+      "dificultad": "avanzada",
+      "pregunta": "En una obligación de préstamos garantizados (OPG) se agrupan créditos y se venden tramos con distinta prioridad. ¿Qué caracteriza al tramo de capital o más subordinado?",
+      "opciones": [
+        "Tiene prioridad absoluta de cobro y por eso es el más riesgoso.",
+        "Cobra lo mismo que el tramo superior aun cuando falten fondos.",
+        "Elimina el riesgo de incumplimiento de los préstamos originales.",
+        "Absorbe primero las pérdidas y recibe los flujos residuales, por lo que exige mayor rendimiento esperado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La prioridad protege al tramo superior frente a pérdidas iniciales. El subordinado queda detrás en la distribución. Confundir esas posiciones invierte la relación de riesgo entre los tramos.",
+        "Cuando los fondos no alcanzan, la prioridad sí modifica quién cobra. El tramo inferior puede no recibir nada mientras el superior continúa cobrando. La igualdad de pagos no es una característica de la estructura.",
+        "Agrupar y repartir flujos redistribuye el riesgo de los créditos. No impide que los deudores incumplan. Las pérdidas afectan a los tramos según su orden de subordinación.",
+        "Los tramos superiores cobran antes según la estructura contractual. El tramo subordinado soporta primero la insuficiencia de recursos. Su mayor riesgo exige compensación, pero un rendimiento prometido alto no garantiza cobrarlo."
+      ]
+    },
+    {
+      "id": "c31-q058",
+      "tema": "OPG sintéticas",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cómo puede una OPG sintética transferir riesgo crediticio sin vender los préstamos bancarios originales?",
+      "opciones": [
+        "Garantizando que ningún tramo pueda sufrir pérdidas.",
+        "Borrando los préstamos del balance por decisión administrativa.",
+        "Convirtiendo cada préstamo en efectivo libre de riesgo sin contraparte.",
+        "Mediante exposición a swaps de incumplimiento, combinada con activos financieros de alta calidad."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La función de la estructura es distribuir exposición entre tramos. El más subordinado soporta las primeras pérdidas. Que existan activos de alta calidad no elimina el compromiso asociado al derivado de crédito.",
+        "Mantener o retirar activos del balance no se decide sin una operación válida. En la estructura sintética los préstamos pueden permanecer en el banco. La transferencia de riesgo se articula a través de contratos derivados.",
+        "El derivado no transforma automáticamente préstamos riesgosos en efectivo seguro. Crea obligaciones contingentes entre partes. La estructura conserva riesgos crediticios y contractuales que deben analizarse.",
+        "La exposición al incumplimiento puede transferirse mediante un derivado de crédito. Los fondos invertidos en activos de alta calidad sostienen la estructura y sus pagos. Si ocurre un evento cubierto, la obligación de compensar pérdidas afecta primero al tramo subordinado según el diseño."
+      ]
+    },
+    {
+      "id": "c31-q059",
+      "tema": "Verificación del colateral",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco recibe certificados de inventarios valiosos, pero sólo inspecciona contenedores elegidos por el prestatario. ¿Cuál es la principal debilidad?",
+      "opciones": [
+        "Un certificado firmado garantiza automáticamente recuperar todo el préstamo.",
+        "El inventario físico vuelve innecesario controlar el riesgo crediticio.",
+        "No verifica de manera independiente existencia, titularidad, calidad y control efectivo de las garantías.",
+        "La garantía permite omitir la evaluación de la generación de caja."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El papel puede contener errores o fraude y el valor recuperable puede ser menor. También hay que poder controlar y vender los bienes. Un certificado no asegura por sí solo una recuperación íntegra.",
+        "La sola afirmación de que hay inventarios no prueba su existencia ni su valor. El prestatario también puede sufrir dificultades operativas. La garantía complementa el análisis crediticio en lugar de sustituirlo.",
+        "Una garantía vale si existe, pertenece a quien la ofrece y puede ejecutarse. Una inspección dirigida por el deudor puede ocultar faltantes o activos ficticios. El banco necesita controles independientes y documentación que permita hacer valer sus derechos.",
+        "El pago normal debe provenir de recursos del prestatario. Ejecutar garantías puede ser costoso, lento o insuficiente. La capacidad de generar caja sigue siendo esencial para evaluar el crédito."
+      ]
+    },
+    {
+      "id": "c31-q060",
+      "tema": "Calidad de los activos en garantía",
+      "dificultad": "intermedia",
+      "pregunta": "A igualdad de monto, titularidad clara y acceso legal, ¿qué activo ofrece en general mejor colateral realizable que fruta perecedera, bienes obsoletos o un producto especializado sin terminar?",
+      "opciones": [
+        "Un equipo obsoleto sin compradores identificables.",
+        "Un inventario perecedero que se deteriorará antes del vencimiento.",
+        "Una cantidad verificable de metal estandarizado con mercado activo.",
+        "Un producto a medio terminar que sólo sirve a un cliente incierto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor contable de un equipo no asegura demanda por él. La obsolescencia puede hacer que su recuperación sea muy baja. El colateral debe evaluarse por su valor realizable y no sólo por el costo original.",
+        "El deterioro puede reducir el valor antes de que el banco logre venderlo. La existencia actual no basta para garantizar recuperación futura. Deben considerarse conservación, plazo y mercado de reventa.",
+        "Un bien estandarizado y negociable facilita estimar precio y venderlo si hace falta. La verificación física y el control siguen siendo necesarios. Su liquidez y conservación suelen superar a las de los otros activos propuestos.",
+        "Un producto sin terminar puede exigir nuevas inversiones antes de venderse. La dependencia de un solo cliente agrava la incertidumbre. Eso limita su calidad como respaldo frente a un activo estandarizado y líquido."
+      ]
+    },
+    {
+      "id": "c31-q061",
+      "tema": "Base de préstamos sobre créditos",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco adelanta 80% de las cuentas por cobrar elegibles. Estas suman 50 y ya hay un préstamo utilizado de 32. Si no existe otro límite, ¿cuánto financiamiento adicional puede obtenerse?",
+      "opciones": [
+        "8.",
+        "40.",
+        "18.",
+        "10."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La base máxima es 50 × 0,80 = 40. De ese total ya están utilizados 32. La capacidad adicional disponible es 40 − 32 = 8.",
+        "Cuarenta es el préstamo total máximo respaldado por la base. No es todo dinero nuevo porque ya se usaron 32. La disponibilidad remanente se obtiene descontando ese saldo.",
+        "Dieciocho resta la deuda al valor íntegro de las cuentas por cobrar. Omite el margen de protección del banco. Sólo 80% de esos activos integra la capacidad de préstamo.",
+        "Diez es la parte del crédito elegible que el banco no anticipa. Ese margen no constituye disponibilidad adicional. El nuevo desembolso posible es la base de 40 menos la deuda de 32."
+      ]
+    },
+    {
+      "id": "c31-q062",
+      "tema": "Pignoración frente a factoring",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué diferencia hay entre obtener un préstamo garantizado con cuentas por cobrar y venderlas mediante factoring sin recurso?",
+      "opciones": [
+        "En el factoring sin recurso el factor sólo presta dinero y nunca adquiere las cuentas.",
+        "En ambos casos la empresa elimina automáticamente toda responsabilidad sobre cualquier disputa comercial.",
+        "En la pignoración el banco compra definitivamente las cuentas y no puede reclamar al prestatario.",
+        "En el préstamo la empresa conserva la obligación de pago; en el factoring sin recurso el factor asume el riesgo crediticio cubierto por el contrato."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El factoring supone una adquisición de créditos bajo los términos acordados. No es simplemente el mismo préstamo con otro nombre. En la modalidad sin recurso se transfiere el riesgo crediticio especificado en el contrato.",
+        "El riesgo de crédito no equivale a cualquier incumplimiento comercial. Pueden subsistir responsabilidades por facturas inválidas o disputas según contrato. No debe deducirse una liberación universal a partir del nombre de la operación.",
+        "La pignoración no es una compraventa definitiva. El banco tiene derechos de garantía y el prestatario conserva la obligación de devolver el préstamo. La falta de pago del cliente no cancela esa deuda por sí sola.",
+        "Pignorar créditos significa ofrecerlos como garantía de una deuda propia. Si el cliente no paga, la empresa sigue debiendo el préstamo. En una venta sin recurso, el factor adquiere los créditos y asume el riesgo de impago cubierto, sujeto a las condiciones del contrato."
+      ]
+    },
+    {
+      "id": "c31-q063",
+      "tema": "Recibo de depósito y control",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa ofrece mercadería en un almacén independiente como garantía. ¿Para qué sirve que el banco conserve un recibo de depósito que impide retirar bienes sin su autorización?",
+      "opciones": [
+        "Para controlar la disponibilidad del colateral y evitar que se retire sin reducir o sustituir adecuadamente la garantía.",
+        "Para asegurar que la mercadería nunca bajará de precio.",
+        "Para permitir que la empresa retire todo sin informar al banco.",
+        "Para convertir el inventario en ingreso contable al emitir el recibo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El recibo documenta los bienes bajo control del almacén y los derechos del acreedor. Limitar su liberación protege la cobertura del préstamo. Aun así, deben verificarse existencia, conservación y valor realizable de la mercadería.",
+        "Controlar la salida física no fija el precio de mercado. La mercadería puede depreciarse o sufrir deterioros. El banco debe aplicar márgenes prudentes y revisar su valor.",
+        "Retirar libremente los bienes vaciaría de contenido el control de la garantía. La autorización busca evitar precisamente esa pérdida de respaldo. Los retiros deben ajustarse a las condiciones de liberación pactadas.",
+        "El documento acredita custodia y derechos sobre activos existentes. No constituye una venta al cliente ni genera por sí mismo un ingreso. El inventario y la deuda siguen registrándose según la operación real."
+      ]
+    },
+    {
+      "id": "c31-q064",
+      "tema": "Cargo flotante y financiamiento de exhibición",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál descripción diferencia un cargo flotante de un acuerdo de financiamiento de inventario en exhibición, o floor planning?",
+      "opciones": [
+        "El cargo flotante recae de manera general sobre una clase de activos; en el floor planning se financian unidades en custodia del distribuidor y su venta permite cancelar la financiación asociada.",
+        "El cargo flotante es una tasa variable y el floor planning es depreciación contable.",
+        "Ambos requieren que todos los productos permanezcan en un almacén inaccesible a los clientes.",
+        "El floor planning permite vender unidades y conservar sus cobros sin atender al financiador."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El cargo flotante no identifica cada activo con el mismo detalle que una garantía específica. El financiamiento de exhibición permite mantener unidades, como vehículos, disponibles para vender. Los cobros de las ventas se destinan a cancelar la financiación correspondiente según el acuerdo.",
+        "La palabra flotante aquí describe el alcance de una garantía y no la tasa de interés. El floor planning es un mecanismo de financiamiento y control de bienes. Ninguno es una regla de depreciación.",
+        "La exhibición comercial exige que ciertos bienes estén en el local del distribuidor. Por eso puede recurrirse a una custodia distinta del almacén tradicional. No existe esa exigencia uniforme para ambas figuras.",
+        "La venta de las unidades activa obligaciones de cancelación o liberación. Retener los cobros ignorando al financiador puede dejar la deuda sin respaldo. El acuerdo debe controlar el destino del dinero de las ventas."
+      ]
+    },
+    {
+      "id": "c31-q065",
+      "tema": "Compañías financieras",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a una compañía financiera como fuente de préstamos para empresas?",
+      "opciones": [
+        "Puede especializarse en financiar inventarios y créditos, captando fondos mediante emisiones de deuda en lugar de depósitos bancarios tradicionales.",
+        "Sólo puede prestar si recibe depósitos en cuentas corrientes como un banco.",
+        "Entrega exclusivamente capital propio y no financia activos circulantes.",
+        "Es una oficina del prestatario que no necesita obtener recursos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Estas entidades compiten con bancos en segmentos de crédito empresarial. Su fondeo puede provenir de papel comercial y deuda de mayor plazo. Pueden ser independientes o pertenecer a grupos industriales y financieros.",
+        "El modelo de fondeo de una compañía financiera no requiere replicar el de un banco comercial. Puede emitir valores para obtener recursos. Confundir ambas estructuras oculta su propia exposición al mercado de deuda.",
+        "Su actividad incluye préstamos respaldados por inventarios o cuentas por cobrar. No se limita a aportar acciones. La deuda permite financiar necesidades operativas concretas del cliente.",
+        "La compañía financiera necesita recursos para conceder crédito. Aunque sea subsidiaria de un grupo, no dispone de fondos ilimitados. Su acceso al financiamiento condiciona su capacidad de prestar."
+      ]
+    },
+    {
+      "id": "c31-q066",
+      "tema": "Papel comercial e intermediación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué es el papel comercial tradicional sin respaldo específico de activos?",
+      "opciones": [
+        "Una factura comercial que sólo puede conservar el proveedor original.",
+        "Una acción que otorga votos permanentes al comprador.",
+        "Deuda de corto plazo sin garantía específica que emisores solventes colocan directamente o mediante intermediarios.",
+        "Un préstamo garantizado automáticamente por todos los depósitos de un banco."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El papel comercial es un instrumento de financiamiento y no simplemente la factura de una venta. Puede colocarse entre inversionistas que no son proveedores. Su negociación responde al programa de emisión y al mercado correspondiente.",
+        "El comprador adquiere un derecho de cobro de deuda. No recibe por ello derechos de voto de accionista. El vencimiento y las condiciones de pago lo diferencian del capital propio.",
+        "El emisor obtiene fondos de inversionistas mediante pagarés de vencimiento breve. Los emisores grandes pueden colocar directamente y otros usan intermediarios. El acceso suele depender fuertemente de su reputación y calidad crediticia.",
+        "Que un banco apoye la emisión no implica respaldo automático con sus depósitos. Puede existir una línea de crédito bajo condiciones determinadas. El pagaré sigue siendo deuda del emisor."
+      ]
+    },
+    {
+      "id": "c31-q067",
+      "tema": "Calificación y renovación del papel",
+      "dificultad": "intermedia",
+      "pregunta": "La calificación de una compañía cae y los inversionistas dejan de comprar sus pagarés breves. ¿Qué conclusión debe sacar su director financiero?",
+      "opciones": [
+        "Puede emitir ilimitadamente al mismo costo porque antes tenía buena calificación.",
+        "Debe revisar vencimientos y fuentes alternativas porque una tasa históricamente baja no garantiza acceso continuo al mercado.",
+        "La caída de calificación sólo afecta al precio de sus acciones.",
+        "Basta con llamar de mediano plazo a los pagarés para eliminar el problema de crédito."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La reputación pasada no obliga a los inversionistas a seguir financiando. Las condiciones actuales del emisor y del mercado afectan su disposición a comprar. El volumen y el costo pueden cambiar de manera brusca.",
+        "La demanda de papel suele concentrarse en emisores de alta calidad. Un deterioro puede reducir cantidades disponibles o cerrar el mercado. El plan debe prever cómo se atenderán vencimientos sin depender de una renovación automática.",
+        "La calidad crediticia importa directamente para los tenedores de deuda. Su deterioro puede elevar tasas o impedir nuevas colocaciones. El efecto no se limita al mercado accionario.",
+        "Un cambio de nombre no modifica los flujos ni el riesgo del deudor. Los pagarés de mayor plazo también requieren compradores dispuestos a prestar. La solución exige recursos reales y condiciones aceptables."
+      ]
+    },
+    {
+      "id": "c31-q068",
+      "tema": "Pagarés de mediano plazo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un programa de pagarés de mediano plazo combina rasgos de bonos y papel comercial?",
+      "opciones": [
+        "Tiene plazos más largos que el papel comercial breve y permite colocaciones regulares con condiciones adaptadas a la demanda.",
+        "Siempre vence en menos de una semana y nunca se vende por intermediarios.",
+        "Se emite una sola vez y prohíbe que los inversionistas propongan condiciones.",
+        "Es capital propio permanente porque no tiene vencimiento."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El mayor plazo lo acerca a la deuda corporativa de largo horizonte. La emisión continua o regular permite captar fondos en distintos momentos y vencimientos. Los intermediarios pueden acercar propuestas de inversionistas y apoyar recompras en el mercado secundario.",
+        "La característica distintiva no es un vencimiento de días. Además, es habitual usar intermediarios para su colocación. La estructura permite ofrecer una gama de plazos más amplia.",
+        "La flexibilidad del programa permite repetir colocaciones. Los inversionistas pueden proponer términos que el emisor acepte o rechace. No se trata necesariamente de una única gran emisión cerrada.",
+        "Los pagarés son deuda con obligaciones de pago. Su plazo puede ser relativamente largo sin volverlos acciones. El vencimiento debe atenderse conforme a las condiciones de cada emisión."
+      ]
+    },
+    {
+      "id": "c31-q069",
+      "tema": "Respaldo del papel comercial",
+      "dificultad": "avanzada",
+      "pregunta": "Una compañía respalda sus pagarés con una línea bancaria. ¿Qué debe verificar para que ese respaldo sea útil frente a un cierre del mercado?",
+      "opciones": [
+        "Que la línea alcance, permanezca disponible y pueda utilizarse bajo los convenios vigentes cuando vencen los pagarés.",
+        "Que el límite figure anunciado, aunque el contrato impida usarlo tras una baja de rentabilidad.",
+        "Que la línea elimine la obligación de devolver los pagarés a sus tenedores.",
+        "Que el respaldo transforme automáticamente el papel en deuda sin riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El seguro de liquidez funciona sólo si los fondos pueden obtenerse a tiempo. Deben revisarse importe, vencimiento y condiciones de acceso. Una línea nominalmente grande puede proteger poco si sus convenios bloquean el desembolso en un escenario adverso.",
+        "Un límite inaccesible no cubre un vencimiento real. Las restricciones deben analizarse junto con el escenario que provoca el cierre del mercado. La disponibilidad contractual importa tanto como el monto anunciado.",
+        "La línea aporta una posible fuente para pagar al tenedor. No elimina la obligación del emisor. Si se utiliza, además nace o aumenta una deuda bancaria.",
+        "El respaldo puede reducir el riesgo de falta de liquidez. No elimina necesariamente el riesgo de insolvencia ni todos los límites contractuales. El instrumento continúa requiriendo una evaluación crediticia."
+      ]
+    },
+    {
+      "id": "c31-q070",
+      "tema": "Costo esperado de flexibilidad",
+      "dificultad": "avanzada",
+      "pregunta": "Durante un trimestre, la necesidad de fondos será 0 con probabilidad 25%, 1 millón con 50% y 2 millones con 25%. Una línea cobra 3% trimestral sobre lo usado más 10.000 de cargo fijo. La alternativa es pedir 2 millones al 3% trimestral e invertir lo no usado al 1% trimestral. Con saldos constantes, intereses simples y sin impuestos, ¿qué alternativa tiene menor costo esperado neto?",
+      "opciones": [
+        "La línea: 40.000 frente a 50.000 del préstamo fijo.",
+        "El préstamo fijo: 30.000 frente a 40.000 de la línea.",
+        "Ambas cuestan 60.000.",
+        "La línea: 10.000 frente a 60.000 del préstamo fijo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La necesidad esperada es 0 × 0,25 + 1 millón × 0,50 + 2 millones × 0,25 = 1 millón. La línea cuesta 30.000 de interés esperado más 10.000 fijos, total 40.000. El préstamo cuesta 60.000 menos 10.000 de rendimiento sobre el excedente esperado de 1 millón, total 50.000.",
+        "El préstamo fijo paga interés sobre 2 millones completos. Su costo bruto es 60.000 y no 30.000. Descontar el rendimiento esperado de 10.000 deja un costo de 50.000, superior al de la línea.",
+        "Se está ignorando la posibilidad de disponer sólo de los fondos necesarios. También se omite el rendimiento del excedente bajo el préstamo fijo. Incorporar ambos efectos produce costos esperados de 40.000 y 50.000.",
+        "El cargo fijo no es el único costo de la línea. También se pagan intereses sobre lo utilizado, cuya esperanza es 1 millón. El préstamo fijo, por su parte, permite invertir excedentes y recuperar un rendimiento esperado de 10.000."
+      ]
+    },
+    {
+      "id": "c31-q071",
+      "tema": "Comparación integral de costos",
+      "dificultad": "avanzada",
+      "pregunta": "Para financiar 4 millones durante 90 días, una emisión de papel cuesta 6% anual simple más respaldo bancario de 0,4% anual sobre los 4 millones. Un préstamo cuesta 6,3% anual simple sin otros cargos. Usá año de 360 días y suponé que todos los cargos indicados son proporcionales al plazo. ¿Cuál es más barato?",
+      "opciones": [
+        "El papel: 60.000 frente a 63.000 del préstamo.",
+        "El préstamo: 63.000 frente a 64.000 del papel con respaldo.",
+        "El papel: 16.000 frente a 63.000 del préstamo.",
+        "Ambos cuestan 252.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sesenta mil incluye sólo el rendimiento del papel. Falta la comisión de respaldo de 4.000 por el trimestre. Con ese cargo, el papel cuesta 64.000 y resulta algo más caro.",
+        "El plazo representa 90/360 = 0,25 años. El papel cuesta 4 millones × (0,06 + 0,004) × 0,25 = 64.000. El préstamo cuesta 4 millones × 0,063 × 0,25 = 63.000, por lo que ahorra 1.000.",
+        "Dieciséis mil es el cargo anual de respaldo sin ajustar al trimestre. No incluye el interés del papel. La comparación exige sumar todos los costos de cada alternativa durante los mismos 90 días.",
+        "Doscientos cincuenta y dos mil es el interés de un año completo del préstamo. El financiamiento dura sólo un cuarto de año. Ajustar ambos costos al plazo produce 63.000 y 64.000."
+      ]
+    },
+    {
+      "id": "c31-q072",
+      "tema": "Elección entre tasa fija y flotante",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa necesita financiamiento por varios años, tiene poco margen para soportar subas de intereses y compara deuda a tasa fija con deuda flotante inicialmente más barata. ¿Qué criterio debería guiar la decisión?",
+      "opciones": [
+        "Comparar costos y capacidad de soportar escenarios de tasas, valorando la previsibilidad del servicio de deuda.",
+        "Elegir siempre la flotante porque la tasa actual asegura el costo futuro.",
+        "Elegir siempre la fija porque no tiene ningún costo de oportunidad si las tasas bajan.",
+        "Elegir sólo según la última tasa observada, sin considerar duración ni posibilidad de cobertura."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa flotante traslada futuras variaciones de referencia al servicio de deuda. La tasa fija ofrece previsibilidad, que puede ser valiosa cuando la caja tiene poco margen. La comparación debe considerar escenarios, horizonte, condiciones contractuales y posibles coberturas.",
+        "La referencia puede subir durante la vida del préstamo. Una tasa inicial menor no asegura menor costo total ni pagos soportables. El riesgo debe compararse con la capacidad financiera de la empresa.",
+        "La tasa fija protege frente a subas, pero puede resultar relativamente cara si el mercado baja. Además, una cancelación anticipada puede tener costos. Su conveniencia depende de la valoración conjunta de costo y seguridad.",
+        "Una observación puntual no describe todos los pagos de varios años. El horizonte y la exposición al riesgo cambian la decisión. También pueden existir coberturas que permitan modificar el perfil de tasas."
+      ]
+    },
+    {
+      "id": "c31-q073",
+      "tema": "Revaluaciones sin movimiento de caja",
+      "dificultad": "intermedia",
+      "pregunta": "El valor contable de un inventario aumenta por una revaluación, sin compras, ventas, cobros, pagos ni cambios de impuestos en el período. ¿Qué efecto directo tiene ese aumento sobre la caja?",
+      "opciones": [
+        "Una salida igual al aumento contable del inventario.",
+        "Una entrada sólo si la revaluación se registra en el patrimonio.",
+        "Una entrada igual al incremento de valor.",
+        "Ninguno: la revaluación no es un cobro."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un aumento de inventario por compras pagadas sí puede consumir caja. El enunciado excluye esas compras y sólo modifica la medición contable. No corresponde inferir un desembolso de una revaluación aislada.",
+        "El destino contable de la contrapartida no crea dinero. Tanto un ajuste patrimonial como uno de resultados pueden ser no monetarios. El efecto directo sobre caja sigue siendo cero bajo estos supuestos.",
+        "Que un activo valga más no significa que haya sido vendido y cobrado. El mayor valor sigue invertido en el inventario. Para tener entrada de caja debe existir un cobro real.",
+        "Una modificación contable de valor no entrega ni utiliza dinero por sí sola. El presupuesto registra movimientos monetarios efectivos. Si después se vende, compra o paga algún impuesto, esos movimientos se analizarán por separado."
+      ]
+    },
+    {
+      "id": "c31-q074",
+      "tema": "Balance condensado y capitalización",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene activo fijo neto de 70, deuda de largo plazo de 30 y patrimonio de 65. Sin otras partidas de largo plazo, ¿cuál es su capital de trabajo neto?",
+      "opciones": [
+        "25.",
+        "95.",
+        "35.",
+        "165."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El balance condensado cumple activo fijo neto más capital de trabajo neto igual a deuda larga más patrimonio. La capitalización total es 30 + 65 = 95. Por eso el capital de trabajo neto es 95 − 70 = 25.",
+        "Noventa y cinco es el financiamiento permanente total. Una parte de esos recursos sostiene el activo fijo de 70. El resto de 25 respalda el capital de trabajo neto.",
+        "Treinta y cinco compara patrimonio y deuda, pero no es la identidad relevante. Ambos son fuentes permanentes y deben sumarse. Después se resta la inversión fija para obtener el capital de trabajo neto.",
+        "Ciento sesenta y cinco suma el activo fijo a las fuentes permanentes. Esas fuentes ya financian los activos y no deben agregarse nuevamente. La identidad del balance exige restar los 70 para hallar el componente circulante neto."
+      ]
+    },
+    {
+      "id": "c31-q075",
+      "tema": "Margen sobre inventarios y liberación",
+      "dificultad": "intermedia",
+      "pregunta": "El banco presta hasta 50% de un inventario elegible de 120; la deuda actual es 50. Si se retiran bienes por 40 sin sustituir garantías, ¿cuánto principal debe amortizarse para respetar la cobertura?",
+      "opciones": [
+        "0.",
+        "20.",
+        "40.",
+        "10."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deuda no puede seguir en 50 con una base máxima de 40. El retiro reduce el respaldo elegible. Sin sustitución de garantía, debe cancelarse la diferencia de 10.",
+        "Veinte es la caída del límite respecto de los 60 inicialmente permitidos. Pero la empresa no había utilizado esos 60 completos, sino 50. La holgura inicial de 10 absorbe parte de la caída y sólo deben pagarse otros 10.",
+        "Cuarenta es el valor de los bienes retirados. El banco financia sólo una fracción y ya existía capacidad sin utilizar. El pago necesario se obtiene comparando la deuda de 50 con el nuevo límite de 40.",
+        "Después del retiro quedan bienes por 120 − 40 = 80. El límite pasa a ser 0,50 × 80 = 40. Como la deuda es 50, deben amortizarse 10 para mantener la cobertura pactada."
+      ]
+    },
+    {
+      "id": "c31-q076",
+      "tema": "Cobranza y saldo disponible",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene 20 en créditos dados en garantía y un préstamo de 16. Clientes pagan 5 en una cuenta controlada por el banco, que aplica todo a cancelar principal. Sin otros cambios, ¿qué saldos quedan y cuánto aumenta la caja de libre disponibilidad?",
+      "opciones": [
+        "Créditos 15, préstamo 11 y caja libre sin aumento.",
+        "Créditos 15, préstamo 16 y caja libre aumenta 5.",
+        "Créditos 20, préstamo 11 y caja libre aumenta 5.",
+        "Créditos 15, préstamo 11 y caja libre aumenta 5."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cobrar 5 reduce los créditos de 20 a 15. Su aplicación íntegra al préstamo reduce la deuda de 16 a 11. Como el dinero se usa para cancelar principal, no queda disponible para otros pagos.",
+        "La cuenta está bajo control del banco y el cobro se aplica al préstamo. Por eso la deuda también disminuye. No corresponde mostrar esos mismos 5 como fondos libres de la empresa.",
+        "El cobro extingue parte del derecho contra los clientes. Los créditos no pueden quedar en 20 si se cobraron 5. Además, usar el dinero para cancelar deuda impide conservarlo simultáneamente como caja libre.",
+        "Los saldos de créditos y préstamo son correctos. Pero se cuenta dos veces el mismo cobro al agregar también caja libre. Los 5 ya se utilizaron íntegramente para pagar principal."
+      ]
+    },
+    {
+      "id": "c31-q077",
+      "tema": "Plazo, colocación y costos de registro",
+      "dificultad": "intermedia",
+      "pregunta": "En una emisión histórica de EE.UU., se cumplen los requisitos de una exención de registro para papel de hasta 270 días, mientras que emitir deuda a dos años exige un programa registrado. ¿Qué ventaja y límite tiene usar el papel breve?",
+      "opciones": [
+        "Permite financiar dos años a una tasa fijada para siempre sin renovaciones.",
+        "Garantiza un mercado secundario profundo porque todo comprador debe revender antes de vencer.",
+        "Hace innecesario que el emisor sea solvente.",
+        "Puede ahorrar costos y tiempo de registro, pero exige pagar o refinanciar antes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El papel vence dentro del plazo indicado en cada emisión. Para sostener fondos por dos años habría que pagar o renovar varias veces. La tasa futura no queda garantizada por la primera colocación.",
+        "Los compradores pueden conservar el papel hasta el vencimiento. Una recompra ofrecida por el emisor o intermediario no equivale a liquidez ilimitada. El plazo breve y la exención no garantizan un mercado secundario profundo.",
+        "Una exención de registro no equivale a un certificado de solvencia. Los inversionistas siguen evaluando el riesgo del emisor. La calidad crediticia continúa siendo central para colocar papel comercial.",
+        "La exención supuesta puede reducir trámites y costos de colocación. A cambio, el vencimiento próximo obliga a conseguir fondos antes. Un instrumento de dos años ofrece otro horizonte y debe compararse considerando renovación y condiciones de mercado."
+      ]
+    },
+    {
+      "id": "c31-q078",
+      "tema": "Papel respaldado por activos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué distingue al papel comercial respaldado por activos del papel tradicional sin garantía específica?",
+      "opciones": [
+        "Los cobros de un conjunto de activos, como cuentas por cobrar, respaldan el pago a los tenedores.",
+        "No depende de la calidad de los activos ni de cómo se cobren.",
+        "Es una acción del emisor que carece de obligación de pago.",
+        "Su garantía impide por definición cualquier pérdida para el comprador."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La estructura vincula el servicio de la deuda con activos y sus cobros. Por eso importan la calidad de esos créditos y el control de los fondos. Es una financiación con respaldo específico que debe evaluarse de manera distinta del pagaré sin garantía.",
+        "Si los activos no generan los cobros previstos, puede deteriorarse la cobertura. La estructura y la calidad del conjunto son fundamentales. El nombre del instrumento no sustituye el análisis de sus flujos.",
+        "El respaldo de activos no transforma deuda en capital propio. Los tenedores tienen derechos de cobro conforme al contrato. La garantía agrega una fuente de recuperación y no elimina la obligación.",
+        "Los activos pueden sufrir impagos o valer menos de lo esperado. También existen riesgos de estructura y administración. Tener respaldo específico reduce ciertos riesgos, pero no asegura una recuperación total."
+      ]
+    },
+    {
+      "id": "c31-q079",
+      "tema": "Inventarios justo a tiempo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa adopta reposición justo a tiempo y reduce existencias sin afectar inicialmente ventas ni calidad. ¿Cómo debe integrar el cambio al plan financiero?",
+      "opciones": [
+        "Ignorar el cambio porque los inventarios no forman parte de la inversión requerida.",
+        "Registrar automáticamente mayor deuda porque todo descenso de inventario consume caja.",
+        "Reconocer la liberación de fondos y revisar el nuevo riesgo de interrupciones o faltantes.",
+        "Suponer que ya no necesita capital de trabajo ni proveedores confiables."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los inventarios forman parte de los activos que requiere el negocio. Cambiar su nivel modifica el requerimiento de capital. Omitirlos impide conectar la política operativa con el financiamiento.",
+        "Una reducción de inventario operativo puede disminuir la inversión necesaria. No implica por sí misma mayor endeudamiento. El efecto depende de compras, ventas y pagos, y debe incorporarse al calendario real de caja.",
+        "Reducir existencias puede liberar recursos que antes estaban inmovilizados. Eso puede disminuir la necesidad de deuda o aumentar la reserva disponible. La menor protección frente a demoras exige revisar la confiabilidad del abastecimiento y los escenarios de operación.",
+        "La empresa todavía necesita efectivo, créditos comerciales y otros recursos circulantes. Una menor existencia vuelve más importante la continuidad de entrega. La reposición justo a tiempo no elimina todas las necesidades ni todos los riesgos."
+      ]
+    },
+    {
+      "id": "c31-q080",
+      "tema": "Arrendamiento y calendario de caja",
+      "dificultad": "avanzada",
+      "pregunta": "En lugar de pagar una máquina por 24 al comenzar el primer trimestre, la empresa firma un arrendamiento que exige 2 al final de cada uno de los cuatro trimestres del año. Sin otros cambios ni efectos fiscales o financieros, ¿cuánto se reduce el requerimiento de caja del primer trimestre y del año completo?",
+      "opciones": [
+        "22 en el primer trimestre y 16 en el año.",
+        "24 en el primer trimestre y 24 en el año.",
+        "22 en el primer trimestre y 22 en el año.",
+        "16 en el primer trimestre y 8 en el año."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En el primer trimestre se evita pagar 24, pero se agrega una cuota de 2. El alivio trimestral es 24 − 2 = 22. Durante el año se pagan cuatro cuotas por 8 y el alivio anual es 24 − 8 = 16, sin que eso pruebe cuál alternativa tiene mayor valor presente.",
+        "Se están omitiendo los pagos de arrendamiento. Hay una cuota de 2 en el primer trimestre y otras tres después. El ahorro de caja del año considerado es 16 y no la compra completa.",
+        "Veintidós es correcto para el primer trimestre. En el resto del año todavía se pagan tres cuotas adicionales por 6. Por eso el alivio anual baja de 22 a 16.",
+        "Ocho es el total de cuotas del año, no el alivio respecto de la compra. Dieciséis es la reducción anual y no la trimestral. El primer trimestre mejora en 22 por comparar 24 de compra con 2 de cuota."
+      ]
+    }
+  ]
+}

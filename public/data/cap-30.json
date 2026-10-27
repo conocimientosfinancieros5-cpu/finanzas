@@ -1,0 +1,1526 @@
+{
+  "capitulo": 30,
+  "titulo": "Administración del capital de trabajo",
+  "preguntas": [
+    {
+      "id": "c30-q001",
+      "tema": "Capital de trabajo",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conjunto reúne los cuatro activos principales que administra el capítulo?",
+      "opciones": [
+        "Ventas, costos, dividendos y utilidades",
+        "Edificios, patentes, marcas y maquinaria",
+        "Cuentas por pagar, impuestos, bonos y capital social",
+        "Inventarios, cuentas por cobrar, efectivo y valores de corto plazo"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos términos describen resultados y distribuciones, no un grupo de activos. Una venta puede generar una cuenta por cobrar y una utilidad puede coexistir con falta de efectivo. Por eso administrar el capital de trabajo exige observar los saldos y los momentos de cobro y pago.",
+        "Estos elementos corresponden principalmente a inversiones de largo plazo o activos intangibles. Pueden ser fundamentales para el negocio, pero no integran el conjunto de activos circulantes analizado. La administración cotidiana se concentra en inventarios, créditos, caja e inversiones temporales.",
+        "La lista mezcla obligaciones financieras y patrimonio. Las cuentas por pagar y los impuestos pendientes participan del financiamiento de corto plazo, pero son pasivos. El conjunto pedido está formado por activos que la empresa utiliza o espera convertir en dinero.",
+        "Estos activos sostienen el funcionamiento cotidiano de la empresa. Los inventarios permiten producir y vender, mientras las cuentas por cobrar representan ventas todavía no cobradas. El efectivo atiende pagos y los valores de corto plazo permiten invertir excedentes temporales."
+      ]
+    },
+    {
+      "id": "c30-q002",
+      "tema": "Capital de trabajo neto",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene efectivo por $40, valores temporales por $60, cuentas por cobrar por $180 e inventarios por $220. Sus pasivos circulantes son $350. ¿Cuál es su capital de trabajo neto?",
+      "opciones": [
+        "$500",
+        "$850",
+        "$150",
+        "−$150"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$500 es la suma de los activos circulantes. Para obtener el capital de trabajo neto todavía hay que deducir los pasivos circulantes. La resta correcta es $500 − $350 = $150.",
+        "$850 resulta de sumar activos y pasivos circulantes. Los pasivos son obligaciones que deben descontarse para medir la posición neta. La operación pertinente es $500 − $350.",
+        "Primero se suman los activos circulantes: 40 + 60 + 180 + 220 = $500. Después se restan los pasivos circulantes por $350. El capital de trabajo neto es $150, aunque ese saldo positivo no significa que todo esté disponible hoy en caja.",
+        "Este resultado invierte el orden de la resta. El capital de trabajo neto se define como activos circulantes menos pasivos circulantes. Como los activos superan a las obligaciones de corto plazo, el resultado es positivo."
+      ]
+    },
+    {
+      "id": "c30-q003",
+      "tema": "Composición de inventarios",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la clasificación económica más útil de los inventarios de una manufacturera?",
+      "opciones": [
+        "Efectivo, bancos y valores",
+        "Deuda fija y deuda variable",
+        "Ventas al contado, a plazo y vencidas",
+        "Materias primas, trabajo en proceso y productos terminados"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos componentes pertenecen a la administración de liquidez. No describen bienes que se transforman o esperan venderse. Los inventarios se distinguen por su etapa dentro de la producción y la comercialización.",
+        "Esta distinción clasifica obligaciones por su tasa de interés. Una deuda puede financiar inventarios, pero no es un inventario. La clasificación pedida sigue el avance físico del producto.",
+        "Estas categorías se refieren a las condiciones o al estado de cobro de ventas. Cuando una venta queda pendiente aparece una cuenta por cobrar, no necesariamente un inventario. El inventario se clasifica según el estado del bien dentro del proceso productivo.",
+        "Las materias primas son insumos que todavía no ingresaron a la transformación. El trabajo en proceso incluye producción parcialmente elaborada y los productos terminados esperan su venta o entrega. Cada grupo inmoviliza recursos y puede enfrentar costos y riesgos distintos."
+      ]
+    },
+    {
+      "id": "c30-q004",
+      "tema": "Costos de inventario",
+      "dificultad": "basica",
+      "pregunta": "¿Qué partida debe incluirse como costo de mantener inventario, incluso cuando el depósito es propio y no se paga alquiler?",
+      "opciones": [
+        "El costo de oportunidad del capital inmovilizado",
+        "Únicamente el costo fijo de emitir pedidos",
+        "Sólo los salarios que no cambian con el inventario",
+        "Sólo el precio de venta futuro"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El dinero destinado al inventario no puede invertirse simultáneamente en otra alternativa. Ese rendimiento sacrificado existe aunque el depósito no genere un pago adicional de alquiler. También pueden ser pertinentes seguros, deterioro, mermas y obsolescencia.",
+        "El costo de emitir un pedido depende de la cantidad de pedidos, no del tiempo que se conserva cada unidad. Es un componente separado en el modelo de inventarios. Mantener existencias también exige reconocer capital, almacenamiento, seguros, mermas y obsolescencia.",
+        "Un salario que no cambia entre alternativas no determina el costo incremental de mantener más unidades. Confundir costos fijos inevitables con costos pertinentes puede distorsionar la decisión. Aunque no haya alquiler adicional, el dinero invertido tiene un uso alternativo.",
+        "El precio de venta es un ingreso potencial, no el costo de mantener existencias. Además, podría incluir un margen comercial que no guarda relación con el almacenamiento. El cálculo debe considerar los recursos inmovilizados y los costos atribuibles a conservar los bienes."
+      ]
+    },
+    {
+      "id": "c30-q005",
+      "tema": "Beneficios de inventario",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué una empresa podría mantener existencias en lugar de comprar exactamente lo necesario cada día?",
+      "opciones": [
+        "Porque más inventario garantiza mayor demanda",
+        "Porque el inventario siempre genera intereses",
+        "Porque almacenar elimina la obsolescencia",
+        "Para reducir faltantes y aprovechar lotes de compra o producción más económicos"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La demanda depende de los clientes y las condiciones del mercado. Acumular bienes no asegura que se vendan y puede terminar exigiendo rebajas o recortes de producción. La decisión debe partir de necesidades operativas y expectativas razonables de ventas.",
+        "El inventario normalmente no paga intereses por el simple hecho de conservarlo. Por el contrario, inmoviliza dinero que podría generar un rendimiento financiero. Su conveniencia surge de beneficios operativos que compensen ese costo.",
+        "Almacenar no elimina la obsolescencia y puede aumentar la exposición a ella. Un producto puede perder valor mientras espera su venta. El inventario se justifica cuando sus beneficios superan esos costos y riesgos.",
+        "Las existencias amortiguan demoras de proveedores y aumentos inesperados de demanda. También pueden reducir costos asociados con pedidos pequeños o corridas de producción muy cortas. Estas ventajas deben compararse con el capital inmovilizado y los costos de almacenamiento."
+      ]
+    },
+    {
+      "id": "c30-q006",
+      "tema": "Modelo de inventario",
+      "dificultad": "intermedia",
+      "pregunta": "Con consumo uniforme, reposición instantánea y lotes de Q unidades que se agotan antes de cada entrega, ¿cuál es el inventario promedio?",
+      "opciones": [
+        "Q",
+        "2Q",
+        "Q/2",
+        "Cero"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Q es el inventario máximo inmediatamente después de cada entrega. El saldo disminuye gradualmente hasta cero, por lo que no permanece todo el período en su máximo. El promedio del ciclo es la mitad del lote.",
+        "El inventario nunca supera Q bajo los supuestos planteados. Por eso un promedio de 2Q es incompatible con el recorrido del saldo. El valor correcto es Q/2.",
+        "El saldo desciende linealmente desde Q hasta cero por el consumo uniforme. El promedio temporal de esos extremos es (Q + 0)/2. Esta expresión requiere los supuestos indicados y cambia si se agrega una reserva de seguridad.",
+        "Cero es el saldo inmediatamente anterior a la reposición, no el saldo de todo el ciclo. Durante el resto del período hay unidades disponibles. Al promediar el descenso uniforme se obtiene Q/2."
+      ]
+    },
+    {
+      "id": "c30-q007",
+      "tema": "Cantidad económica de pedido",
+      "dificultad": "intermedia",
+      "pregunta": "La demanda anual es 10.000 unidades, emitir cada pedido cuesta $40 y mantener una unidad durante un año cuesta $2. Sin faltantes ni descuentos por cantidad, ¿cuál es la cantidad económica de pedido?",
+      "opciones": [
+        "Aproximadamente 632 unidades",
+        "2.000 unidades",
+        "400 unidades",
+        "10.000 unidades"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La fórmula es Q* = √(2DS/H), con demanda D, costo por pedido S y mantenimiento unitario H. Al sustituir se obtiene √400.000 = 632,46 unidades. En ese punto los costos anuales de pedidos y mantenimiento son aproximadamente iguales.",
+        "Este valor sobredimensiona el lote y eleva el inventario promedio. Con 2.000 unidades se mantienen 1.000 en promedio y el costo de mantenimiento es $2.000 anuales. El lote óptimo es aproximadamente 632 unidades.",
+        "Este lote no surge de la fórmula que equilibra emisión y mantenimiento. El cálculo es raíz cuadrada de (2 × 10.000 × 40)/2. El resultado es aproximadamente 632 unidades, superior a 400.",
+        "Comprar toda la demanda anual de una vez minimiza el número de pedidos, pero no el costo total. El inventario promedio sería de 5.000 unidades y su mantenimiento costaría $10.000. La solución óptima equilibra ambos componentes mediante un lote mucho menor."
+      ]
+    },
+    {
+      "id": "c30-q008",
+      "tema": "Costo total de inventario",
+      "dificultad": "intermedia",
+      "pregunta": "Se consumen 12.000 unidades al año y se piden lotes de 1.000. Cada pedido cuesta $50 y mantener una unidad cuesta $3 anuales. ¿Cuál es el costo anual de pedidos más mantenimiento, sin incluir el precio de compra?",
+      "opciones": [
+        "$600",
+        "$2.100",
+        "$1.500",
+        "$3.600"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$600 es sólo el costo de pedidos: 12 pedidos × $50. Falta incorporar el costo de mantener el inventario promedio de 500 unidades. Ese componente agrega $1.500 y lleva el total a $2.100.",
+        "El número de pedidos es 12.000/1.000 = 12 y su costo anual es 12 × 50 = $600. El inventario promedio es 1.000/2 = 500 unidades y mantenerlo cuesta 500 × 3 = $1.500. La suma de ambos costos es $2.100.",
+        "$1.500 es el costo anual de mantenimiento de 500 unidades promedio. Se omiten los 12 pedidos anuales que cuestan $600 en conjunto. Ambos componentes deben sumarse para comparar políticas de lotes.",
+        "Este resultado usa 1.000 unidades como inventario promedio y suma $3.000 de mantenimiento. En el modelo de consumo uniforme el promedio es Q/2, es decir, 500 unidades. Por eso el mantenimiento es $1.500 y el total es $2.100."
+      ]
+    },
+    {
+      "id": "c30-q009",
+      "tema": "Escala de inventarios",
+      "dificultad": "intermedia",
+      "pregunta": "Si la demanda anual se cuadruplica y no cambian el costo por pedido ni el mantenimiento unitario, ¿qué ocurre con el lote óptimo del modelo básico?",
+      "opciones": [
+        "Se duplica",
+        "Se cuadruplica",
+        "Se reduce a la mitad",
+        "No cambia"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cantidad económica de pedido depende de la raíz cuadrada de la demanda. Multiplicar la demanda por cuatro multiplica el lote óptimo por √4 = 2. Por eso el inventario óptimo crece menos que proporcionalmente a las ventas.",
+        "Esta respuesta supone una relación proporcional entre demanda y lote. La fórmula contiene la demanda dentro de una raíz cuadrada. El lote se duplica y el número anual de pedidos también se duplica.",
+        "Una demanda mayor no reduce el lote óptimo si los demás parámetros permanecen constantes. La raíz de la demanda aumenta al aumentar el consumo anual. En este caso el lote se multiplica por dos.",
+        "La demanda sí forma parte de la fórmula del lote económico. Mantener el lote implicaría multiplicar por cuatro la frecuencia de pedidos sin volver a equilibrar los costos. La nueva solución óptima duplica el lote."
+      ]
+    },
+    {
+      "id": "c30-q010",
+      "tema": "Sensibilidad del lote económico",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa reduce a la cuarta parte el costo de emitir cada pedido, sin cambiar demanda ni mantenimiento. ¿Cómo cambia el lote óptimo?",
+      "opciones": [
+        "Se reduce a la mitad",
+        "Se cuadruplica",
+        "Se mantiene igual",
+        "Se reduce a la cuarta parte"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Q* es proporcional a la raíz cuadrada del costo por pedido. La raíz de un cuarto es un medio. La empresa puede ordenar con más frecuencia y reducir a la mitad su inventario promedio de ciclo.",
+        "Pedidos más baratos favorecen lotes menores y mayor frecuencia, no lotes mayores. El costo por pedido entra dentro de una raíz cuadrada. Al dividirlo por cuatro, el lote se divide por dos.",
+        "El costo de emitir pedidos es uno de los parámetros que determina el equilibrio. Su reducción permite ahorrar inventario recurriendo a pedidos más frecuentes. Por eso el lote óptimo disminuye.",
+        "La relación no es directamente proporcional. La raíz cuadrada amortigua el cambio del costo por pedido. Dividir ese costo por cuatro reduce el lote a la mitad."
+      ]
+    },
+    {
+      "id": "c30-q011",
+      "tema": "Sistemas de reposición",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a un sistema de punto de reorden de uno de revisión periódica?",
+      "opciones": [
+        "El primero nunca observa existencias",
+        "El primero activa pedidos al alcanzar un nivel; el segundo revisa en fechas programadas",
+        "Ambos exigen comprar toda la demanda anual",
+        "El segundo elimina cualquier riesgo de faltantes"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El punto de reorden requiere conocer cuándo el saldo llega al nivel que dispara la reposición. Por eso no puede funcionar sin alguna forma de seguimiento. La revisión periódica, en cambio, concentra la observación en fechas previstas.",
+        "En un punto de reorden, alcanzar una existencia mínima activa el pedido. En una revisión periódica, se inspecciona el saldo a intervalos establecidos y se completa hacia un nivel objetivo. Los dos sistemas pueden necesitar reservas para enfrentar incertidumbre.",
+        "Ninguno de los sistemas obliga a comprar un año completo de demanda. La cantidad depende de la política de lotes, los costos y las necesidades operativas. La diferencia principal está en el momento o condición de revisión y reposición.",
+        "Revisar por calendario no asegura que la demanda o las entregas coincidan con lo previsto. Entre revisiones pueden producirse consumos inesperados. El riesgo de faltantes debe administrarse en ambos esquemas."
+      ]
+    },
+    {
+      "id": "c30-q012",
+      "tema": "Justo a tiempo",
+      "dificultad": "intermedia",
+      "pregunta": "Una fábrica quiere copiar un sistema justo a tiempo y reducir drásticamente sus materias primas. ¿Qué condición es decisiva para que funcione?",
+      "opciones": [
+        "Que las entregas pequeñas sean confiables y existan planes ante interrupciones",
+        "Que las ventas sean siempre al contado",
+        "Que nunca se coordine con proveedores",
+        "Que el almacenamiento pase a ser gratuito"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con poco inventario hay menos margen para absorber retrasos. Por eso las entregas frecuentes deben ser confiables y estar coordinadas con el consumo. Los planes de contingencia permiten reducir existencias sin ignorar el riesgo de detener la producción.",
+        "La forma de cobro puede afectar el efectivo, pero no asegura la llegada de componentes. Una fábrica puede vender a crédito y operar con justo a tiempo. La condición relevante es la confiabilidad del abastecimiento.",
+        "La falta de coordinación aumenta el riesgo de parar la línea al reducir las reservas. El sistema necesita sincronizar pedidos, transporte y producción. También requiere prever huelgas, demoras u otros cortes de suministro.",
+        "El justo a tiempo reduce la necesidad de almacenamiento, pero no requiere que éste sea gratuito. Su problema central es sostener la producción con reservas pequeñas. Eso exige entregas confiables y coordinación operativa."
+      ]
+    },
+    {
+      "id": "c30-q013",
+      "tema": "Demanda inesperada e inventarios",
+      "dificultad": "intermedia",
+      "pregunta": "Una automotriz mantiene su producción mientras caen las ventas y primero ofrece descuentos. Si las ventas no se recuperan, ¿qué conclusión es razonable?",
+      "opciones": [
+        "Puede necesitar recortar producción para frenar la acumulación de inventario",
+        "Los descuentos aseguran que no habrá costos financieros",
+        "Los inventarios aumentan sólo por errores contables",
+        "El área financiera no tiene motivos para intervenir"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Si la producción supera a las ventas, el inventario se acumula físicamente. Las rebajas pueden ayudar a vender, pero no garantizan absorber toda la producción. Si la demanda no responde, reducir la producción puede ser necesario aunque resulte costoso.",
+        "Los descuentos reducen el ingreso unitario y pueden no resolver la acumulación. Mientras existan bienes sin vender, seguirá habiendo recursos inmovilizados. La decisión debe comparar ventas, márgenes y costos de producción y mantenimiento.",
+        "La acumulación puede surgir de una diferencia real entre producción y demanda. No requiere un error de registro. Esa diferencia tiene consecuencias de caja y puede exigir cambios operativos.",
+        "El inventario adicional requiere financiamiento y puede perder valor. Por eso las decisiones involucran a producción, ventas y finanzas. La coordinación resulta especialmente importante ante una caída inesperada de demanda."
+      ]
+    },
+    {
+      "id": "c30-q014",
+      "tema": "Producción bajo pedido",
+      "dificultad": "basica",
+      "pregunta": "Un fabricante permite configurar el producto por internet y lo arma recién después del pedido. ¿Qué efecto busca principalmente sobre el capital de trabajo?",
+      "opciones": [
+        "Reducir el inventario de productos terminados",
+        "Aumentar productos terminados sin comprador",
+        "Eliminar las cuentas por cobrar por definición",
+        "Convertir todos los costos en costos financieros"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La producción se vincula con una demanda identificada en lugar de acumular unidades terminadas para posibles compradores. Eso puede reducir el capital inmovilizado y el riesgo de obsolescencia de productos terminados. No elimina necesariamente los inventarios de componentes o trabajo en proceso.",
+        "Armar luego del pedido reduce la necesidad de anticipar la combinación exacta que se venderá. Acumular productos terminados sin comprador va en sentido contrario. El objetivo es evitar existencias terminadas innecesarias.",
+        "Las cuentas por cobrar dependen de cuándo paga el cliente. Producir bajo pedido no obliga a cobrar antes o al entregar. Es posible combinar este esquema con ventas a crédito.",
+        "El armado conserva costos operativos, como componentes y mano de obra. Una menor inversión en inventarios puede reducir costos financieros, pero no cambia la naturaleza de todos los costos. La ventaja central es ajustar la producción al pedido recibido."
+      ]
+    },
+    {
+      "id": "c30-q015",
+      "tema": "Administración del crédito",
+      "dificultad": "basica",
+      "pregunta": "¿Qué secuencia resume las decisiones centrales de una política de crédito?",
+      "opciones": [
+        "Comprar insumos, producir, depreciar, auditar y liquidar",
+        "Definir términos, documentación, evaluación, límites y cobranza",
+        "Emitir bonos, pagar dividendos, recomprar acciones y cerrar cuentas",
+        "Calcular únicamente el porcentaje de incobrables"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta secuencia describe actividades productivas y contables. No especifica cómo se vende a crédito ni cómo se recuperan las cuentas. La política crediticia debe definir condiciones, respaldo, solvencia, exposición y cobro.",
+        "Primero se fijan plazos y descuentos, y luego la forma de documentar la deuda. También se evalúa la solvencia y se determina cuánto crédito conceder. Finalmente se cobra y se actúa frente a los atrasos.",
+        "Estas decisiones se relacionan principalmente con financiamiento y distribución de fondos. No constituyen el proceso de administración de cuentas por cobrar. El crédito comercial requiere evaluar clientes y controlar los saldos pendientes.",
+        "El porcentaje de incobrables es un indicador parcial de resultados. No reemplaza las decisiones previas de condiciones y límites ni la gestión posterior de cobro. Incluso puede bajar mientras empeora la rentabilidad por rechazar clientes valiosos."
+      ]
+    },
+    {
+      "id": "c30-q016",
+      "tema": "Condiciones de venta",
+      "dificultad": "basica",
+      "pregunta": "¿Qué combinación de condiciones tiene mayor sentido para ventas muy personalizadas y clientes ocasionales, respectivamente?",
+      "opciones": [
+        "Crédito ilimitado y crédito ilimitado",
+        "Anticipos o pagos por avance y pago contra entrega",
+        "Plazo siempre mayor a un año y facturación diferida",
+        "Cobro sólo después de una reventa y sin documentación"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El crédito ilimitado ignora el riesgo y la inversión requerida para atender al cliente. Los productos personalizados pueden ser difíciles de revender si el comprador desiste. Los anticipos y el pago contra entrega permiten limitar esas exposiciones.",
+        "Los anticipos o pagos por avance reducen la financiación de un producto difícil de colocar con otro cliente. Para compradores ocasionales, el pago contra entrega evita dejar un saldo pendiente. Estas condiciones responden a riesgos distintos dentro de la política comercial.",
+        "No hay una razón general para otorgar más de un año a estas ventas. Un plazo prolongado puede elevar la exposición financiera sin mejorar la venta. Los anticipos por avance y el cobro contra entrega son herramientas más directas para los casos planteados.",
+        "Esperar la reventa puede ser especialmente riesgoso cuando el bien fue diseñado para un comprador concreto. Además, prescindir de documentación debilita el control del crédito. Las condiciones deben adaptarse al compromiso y al riesgo de la operación."
+      ]
+    },
+    {
+      "id": "c30-q017",
+      "tema": "Descuento por pronto pago",
+      "dificultad": "basica",
+      "pregunta": "Una factura de $20.000 se vende con términos 3/10, neto 40. ¿Cuánto paga quien aprovecha el descuento y cuándo vence el importe completo?",
+      "opciones": [
+        "$20.000 dentro de 3 días; el completo vence el día 10",
+        "$19.400 dentro de 40 días; el completo vence el día 10",
+        "$600 dentro de 10 días; el completo vence el día 40",
+        "$19.400 dentro de 10 días; el completo vence el día 40"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 3 representa un porcentaje, no un plazo de tres días. Los términos establecen 10 días para descontar y 40 para pagar el total. Interpretar cada número en su función evita confundir precio y calendario.",
+        "Esta interpretación intercambia el plazo del descuento con el vencimiento final. Los 10 días delimitan el pronto pago y los 40 días corresponden al importe sin descuento. El monto descontado sí es $19.400.",
+        "$600 es el ahorro obtenido, no el importe a cancelar. Al precio facturado hay que restarle ese ahorro. El pago es $19.400 dentro del plazo de descuento.",
+        "El primer número expresa un descuento del 3% y el segundo fija sus 10 días de vigencia. El descuento es 20.000 × 0,03 = $600, por lo que se pagan $19.400. Si no se aprovecha, se adeudan $20.000 el día 40."
+      ]
+    },
+    {
+      "id": "c30-q018",
+      "tema": "Costo de rechazar descuentos",
+      "dificultad": "intermedia",
+      "pregunta": "Se compra con términos 2/10, neto 40. Usá un año de 360 días. ¿Cuál es la tasa efectiva anual implícita de pagar el día 40 en vez del día 10?",
+      "opciones": [
+        "24,00%",
+        "Aproximadamente 8,24%",
+        "2,00%",
+        "Aproximadamente 27,43%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 24% surge de multiplicar 2% por 12 sin ajustar la base ni capitalizar. El préstamo implícito es de $98 por cada $100 de factura y cuesta $2 durante 30 días. La tasa efectiva anual es (100/98)^12 − 1, aproximadamente 27,43%.",
+        "Esta tasa subestima la frecuencia con que se repite el costo del crédito. El plazo pertinente son los 30 días entre ambas alternativas, no los 40 días totales ni un trimestre. Aplicar esa base y capitalizar arroja aproximadamente 27,43%.",
+        "El 2% es el descuento sobre la factura y no una tasa anual. Además, el interés del crédito adicional debe medirse sobre el dinero que no se paga anticipadamente. Luego hay que capitalizar la tasa de 30 días durante 12 períodos.",
+        "Al no descontar se conservan $98 durante 30 días adicionales y se entregan $100 al final. La tasa de ese tramo es 2/98, no 2/100. Como hay 360/30 = 12 tramos por año, la tasa efectiva es (100/98)^12 − 1 ≈ 27,43%."
+      ]
+    },
+    {
+      "id": "c30-q019",
+      "tema": "Fin de mes",
+      "dificultad": "intermedia",
+      "pregunta": "Para este contrato, FDM significa que el plazo de descuento empieza al cerrar el mes y el vencimiento neto se cuenta desde la factura. Una factura del 5 de abril tiene términos 2/5 FDM, neto 45. ¿Cómo se interpreta el descuento?",
+      "opciones": [
+        "Se obtiene únicamente pagando el 7 de abril",
+        "Se obtiene pagando hasta el 5 de mayo; si se pierde, rige el vencimiento neto pactado",
+        "Se obtiene sólo si se paga el día 45 desde la factura",
+        "El descuento es del 5% hasta el 2 de mayo"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El plazo de descuento no se cuenta desde el día 5 de abril en este contrato. La convención FDM desplaza su inicio al cierre de abril. Los cinco días posteriores llevan al 5 de mayo.",
+        "El mes de la factura termina el 30 de abril. Los cinco días de descuento se cuentan desde ese cierre, por lo que alcanzan hasta el 5 de mayo. El 2% es la reducción de la factura y el plazo neto conserva la base expresamente definida en el contrato.",
+        "El día 45 corresponde al plazo neto, no al beneficio por pronto pago. Si se llega a ese vencimiento sin cumplir el plazo de descuento se paga el total. Las dos fechas cumplen funciones distintas.",
+        "Los números se interpretaron al revés. El 2 corresponde al porcentaje y el 5 a los días posteriores al fin de mes. No existe un descuento del 5% en estas condiciones."
+      ]
+    },
+    {
+      "id": "c30-q020",
+      "tema": "Plazos según el negocio",
+      "dificultad": "intermedia",
+      "pregunta": "Un proveedor compara perecederos con equipos que tardan en revenderse y requieren pruebas de calidad. Con riesgo similar, ¿qué política tiene más fundamento económico?",
+      "opciones": [
+        "Otorgar siempre el mismo plazo sin mirar el producto",
+        "Dar más plazo a los perecederos por su corta vida",
+        "Considerar plazos menores para perecederos y mayores para bienes de verificación o reventa lenta",
+        "Exigir anticipos únicamente a compradores de menor riesgo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las prácticas sectoriales pueden diferir porque cambian las necesidades de financiamiento y verificación. Igualar todos los plazos ignora esas diferencias. La decisión debe considerar producto, tamaño de cuenta y riesgo del cliente.",
+        "La corta vida y rápida rotación de los perecederos suelen respaldar plazos más cortos. No es una razón general para financiar al comprador por más tiempo. Los bienes de reventa lenta pueden necesitar un plazo mayor.",
+        "Los perecederos suelen venderse y consumirse rápidamente. Un equipo puede requerir tiempo para comprobar calidad o generar dinero mediante su reventa. Estas diferencias ayudan a explicar condiciones de crédito distintas, sin reemplazar la evaluación del comprador.",
+        "El menor riesgo no constituye por sí solo una razón para imponer anticipos. En general, una mejor solvencia permite considerar condiciones menos restrictivas. También importan las características comerciales del bien."
+      ]
+    },
+    {
+      "id": "c30-q021",
+      "tema": "Documentación del crédito",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza una venta habitual en cuenta corriente comercial?",
+      "opciones": [
+        "El comprador paga obligatoriamente antes de recibir",
+        "El banco garantiza automáticamente cada factura",
+        "El vendedor conserva siempre la propiedad hasta cobrar",
+        "La deuda se evidencia principalmente en registros del vendedor y constancia de recepción"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Pagar antes de recibir corresponde al pago anticipado. La cuenta corriente supone que puede quedar una deuda pendiente luego de la entrega. Por eso exige seguimiento del saldo y de los vencimientos.",
+        "La garantía bancaria exige un compromiso específico del banco. No aparece automáticamente al registrar una factura en cuenta corriente. Confundir ambas figuras puede llevar a subestimar el riesgo de incumplimiento.",
+        "La conservación de la propiedad requiere una venta condicionada o reserva de dominio aplicable. Una cuenta corriente ordinaria no produce ese efecto por sí sola. El vendedor puede quedar como acreedor sin esa protección.",
+        "En una cuenta corriente comercial no se exige necesariamente un pagaré formal por cada entrega. La deuda queda reflejada en los registros y en la documentación comercial correspondiente. Eso no incorpora por sí mismo una garantía bancaria ni reserva de dominio."
+      ]
+    },
+    {
+      "id": "c30-q022",
+      "tema": "Letras y documentos de embarque",
+      "dificultad": "intermedia",
+      "pregunta": "Un exportador quiere que el comprador pague antes de recibir los documentos que permiten retirar la mercadería. ¿Qué instrumento se ajusta a ese objetivo?",
+      "opciones": [
+        "Una cuenta corriente sin condiciones documentarias",
+        "Una reserva de efectivo del propio exportador",
+        "Una letra a plazo que sólo exige aceptar hoy",
+        "Una letra a la vista contra entrega de documentos"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La cuenta corriente no condiciona por sí misma la entrega de documentos al pago. El exportador podría entregar y quedar expuesto a un saldo pendiente. El objetivo requiere un mecanismo documentario que exija pagar al presentar la letra.",
+        "Una reserva del exportador puede ayudar a su liquidez, pero no impone obligaciones al comprador. Tampoco controla cuándo se entregan documentos. El instrumento debe vincular la liberación documental con el pago a la vista.",
+        "La aceptación de una letra a plazo reconoce una deuda cuyo pago se realizará después. Por eso no satisface el requisito de cobrar antes de liberar documentos. No debe confundirse aceptar una obligación con cancelarla.",
+        "Una letra a la vista requiere pago cuando se presenta. El banco entrega los documentos bajo la condición acordada, vinculando el acceso a la mercadería con el pago. Una letra a plazo, en cambio, puede permitir obtener documentos mediante aceptación de una obligación futura."
+      ]
+    },
+    {
+      "id": "c30-q023",
+      "tema": "Aceptaciones y cartas de crédito",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es la diferencia central entre una aceptación bancaria y una carta de crédito irrevocable documentaria?",
+      "opciones": [
+        "Ambas son descuentos obligatorios sobre la factura",
+        "La aceptación elimina la necesidad de evaluar al banco",
+        "La carta convierte cualquier incumplimiento comercial en pago incondicional",
+        "La aceptación incorpora una obligación bancaria sobre una letra; la carta establece un compromiso sujeto a documentos conformes"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estos instrumentos respaldan el pago, pero no fijan un descuento comercial obligatorio. Su precio y sus comisiones son asuntos distintos de su función. La aceptación se vincula con una letra y la carta con un compromiso documentario.",
+        "Al aceptar, el banco incorpora su compromiso de pago. Por eso su propia solvencia importa para valorar y negociar el instrumento. No desaparece la necesidad de evaluar el riesgo bancario.",
+        "La carta documentaria no debe interpretarse como una promesa de pagar ante cualquier circunstancia. Su ejecución depende de presentar documentos que cumplan lo pactado. Un incumplimiento de esas condiciones puede impedir el cobro bajo el instrumento.",
+        "La aceptación bancaria hace que el banco responda por una obligación instrumentada en una letra. La carta de crédito documentaria compromete al banco conforme a las condiciones y documentos pactados. La protección requiere cumplir esas condiciones y considerar la solvencia del banco obligado."
+      ]
+    },
+    {
+      "id": "c30-q024",
+      "tema": "Reserva de dominio",
+      "dificultad": "basica",
+      "pregunta": "Si una venta incorpora una reserva de dominio válida, ¿qué protección busca el vendedor?",
+      "opciones": [
+        "Mantener la propiedad del bien hasta que se complete el pago",
+        "Convertirse automáticamente en accionista del comprador",
+        "Eliminar cualquier costo de cobranza",
+        "Cobrar dos veces el mismo precio"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cláusula busca que la propiedad permanezca en el vendedor hasta el pago completo. Esto puede mejorar su posición frente al incumplimiento en comparación con quedar como un acreedor general. Su alcance depende de la validez y posibilidad de ejecución de la reserva.",
+        "Esta cláusula se refiere a la propiedad de un bien, no a participaciones societarias. No transforma una cuenta comercial en capital del comprador. Su utilidad es conservar una protección sobre la mercadería pendiente de pago.",
+        "Puede mejorar la posibilidad de recuperación, pero no hace desaparecer los costos de reclamar o ejecutar. También importa que sea válida y que el bien pueda identificarse. La protección debe distinguirse de una garantía de recuperación gratuita.",
+        "La reserva de dominio no autoriza cobrar dos veces. Su finalidad es proteger la posición del vendedor respecto del bien vendido. El pago del precio y la recuperación del bien se sujetan a las condiciones y al régimen aplicable."
+      ]
+    },
+    {
+      "id": "c30-q025",
+      "tema": "Fuentes de información crediticia",
+      "dificultad": "basica",
+      "pregunta": "Una pyme solicita crédito y no tiene bonos calificados. ¿Qué evaluación resulta más apropiada?",
+      "opciones": [
+        "Rechazarla porque no posee calificación de bonos",
+        "Combinar estados financieros, historial con proveedores, agencia de crédito y referencias bancarias",
+        "Usar sólo el precio de una acción que no cotiza",
+        "Considerar que su tamaño garantiza el pago"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No contar con bonos calificados no equivale a ser insolvente. Muchas empresas pequeñas nunca emiten deuda pública. Corresponde buscar otras fuentes de información antes de decidir.",
+        "Las calificaciones de bonos suelen estar disponibles para emisores grandes. Para una pyme pueden resultar más útiles los informes comerciales, sus estados y la experiencia de pago. Las referencias bancarias complementan ese análisis con información sobre saldos, crédito y reputación.",
+        "Una acción que no cotiza no aporta un precio de mercado observable para este análisis. Incluso cuando existe cotización, conviene complementarla con información financiera y comercial. La evaluación debe usar evidencia disponible y pertinente.",
+        "El tamaño no asegura voluntad ni capacidad de pago. Una empresa pequeña puede ser cumplidora y una grande puede atravesar dificultades. La decisión exige estimar riesgo y rentabilidad con información concreta."
+      ]
+    },
+    {
+      "id": "c30-q026",
+      "tema": "Límites y esfuerzo de análisis",
+      "dificultad": "intermedia",
+      "pregunta": "Un director financiero recibe cientos de pedidos pequeños de clientes cumplidores y unas pocas solicitudes grandes y dudosas. ¿Cómo debería distribuir el esfuerzo?",
+      "opciones": [
+        "Analizar exhaustivamente todos por igual",
+        "No revisar ninguna solicitud si ventas la aprobó",
+        "Usar límites por cliente y concentrar el análisis especial en exposiciones grandes o inciertas",
+        "Investigar sólo a quienes compran al contado"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Aplicar idéntico esfuerzo puede costar más de lo que aporta en pedidos pequeños y previsibles. La información tiene valor cuando permite mejorar una decisión de exposición relevante. Los límites y procedimientos rutinarios ayudan a reservar recursos para los casos importantes.",
+        "El área comercial puede priorizar el volumen vendido y no el riesgo de cobro. Su aprobación no sustituye una política de exposición. Debe existir coordinación entre ventas y crédito.",
+        "Un límite permite tramitar normalmente pedidos que no excedan la exposición autorizada. Los casos grandes, dudosos o que superan el límite justifican una revisión adicional. Así se controla el riesgo sin convertir cada venta pequeña en una investigación costosa.",
+        "Quien paga al contado no deja la misma exposición comercial que quien solicita crédito. Centrar allí la investigación descuida los saldos que sí pueden resultar incobrables. El esfuerzo debe seguir el riesgo y el valor económico de la decisión."
+      ]
+    },
+    {
+      "id": "c30-q027",
+      "tema": "Ganancia esperada de crédito",
+      "dificultad": "intermedia",
+      "pregunta": "Una venta nueva genera un cobro con valor presente de $1.000 si se paga. El costo incremental de $700 se incurre siempre y la probabilidad de pago es 80%. Sin recupero ni ventas futuras, ¿cuál es la ganancia esperada?",
+      "opciones": [
+        "$240",
+        "−$140",
+        "$100",
+        "$300"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$240 surge de multiplicar el margen de $300 por 80%. Ese cálculo omite que en el incumplimiento también se pierde el costo de $700. Al restar 20% × $700 se llega a $100.",
+        "La pérdida de $140 corresponde sólo a la rama de incumplimiento. Falta agregar la ganancia de $240 ponderada de la rama de pago. El saldo entre ambas ramas es positivo en $100.",
+        "El cobro esperado en valor presente es 0,80 × $1.000 = $800. El costo de $700 se incurre tanto si el cliente paga como si incumple. La ganancia esperada es $800 − $700 = $100.",
+        "$300 es el margen si el cliente paga con certeza. La probabilidad de incumplimiento reduce el ingreso esperado, pero no evita el costo ya incurrido. Por eso la ganancia esperada es menor y alcanza $100."
+      ]
+    },
+    {
+      "id": "c30-q028",
+      "tema": "Umbral de probabilidad de pago",
+      "dificultad": "intermedia",
+      "pregunta": "Sin repetición de pedidos, un cobro tiene valor presente de $1.500 y el costo incremental inevitable es $1.200. Sin recupero, ¿qué probabilidad de pago permite quedar en equilibrio?",
+      "opciones": [
+        "20%",
+        "80%",
+        "125%",
+        "75%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 20% es el margen de la operación sobre el cobro, no el umbral de pago. La condición es p × 1.500 = 1.200. Por lo tanto se requiere una probabilidad de pago de 80%.",
+        "La ganancia esperada es p × $1.500 − $1.200. Al igualarla a cero se obtiene p = 1.200/1.500 = 0,80. Para crear valor en este modelo la probabilidad debe superar ese umbral.",
+        "Este resultado proviene de dividir el cobro por el costo. La probabilidad se obtiene de costo/cobro, no de la relación inversa. Además, una probabilidad de 125% no es admisible.",
+        "Con 75% de probabilidad el ingreso esperado sería $1.125. Eso no alcanza a cubrir el costo de $1.200. El equilibrio requiere dividir el costo por el cobro y obtener 80%."
+      ]
+    },
+    {
+      "id": "c30-q029",
+      "tema": "Plazo y descuento de cobros",
+      "dificultad": "avanzada",
+      "pregunta": "Una venta cuesta $800 hoy y paga $1.100 dentro de un año si el cliente cumple, con probabilidad 90%. La tasa anual para descontar esos cobros esperados es 10%. Sin recupero ni repetición, ¿cuál es el VAN esperado?",
+      "opciones": [
+        "$270",
+        "$190",
+        "$100",
+        "−$80"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$270 resulta de ponderar sólo el margen nominal de $300. Se omite la pérdida del costo en la rama de incumplimiento y el valor temporal del dinero. El procedimiento correcto descuenta el ingreso esperado y resta todo el costo actual.",
+        "$190 es el cobro esperado de $990 menos el costo de $800 sin descontar. Ese cálculo mezcla un importe futuro con una salida actual. Descontar el cobro esperado lleva el VAN a $100.",
+        "El cobro esperado al año es 0,90 × $1.100 = $990. Su valor presente es $990/1,10 = $900. Al deducir el costo de $800 en el momento cero, el VAN esperado es $100.",
+        "Ponderar únicamente una posible pérdida no representa el valor completo de la venta. La rama de pago aporta un cobro esperado descontado de $900. Ese valor supera el desembolso inicial en $100."
+      ]
+    },
+    {
+      "id": "c30-q030",
+      "tema": "Margen y tolerancia al riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Dos productos tienen igual cobro en valor presente y distinta proporción de costo incremental. Sin ventas futuras ni recuperos, ¿cuál admite una probabilidad de incumplimiento mayor?",
+      "opciones": [
+        "El de menor margen, porque pierde menos ventas",
+        "Ambos admiten exactamente el mismo riesgo",
+        "El de mayor margen, porque su costo relativo es menor",
+        "El de mayor costo, porque inmoviliza más capital"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un menor margen deja menos ingreso disponible para absorber impagos. Aunque se vendan unidades, el costo se incurre incluso cuando no se cobra. Por eso un producto de margen bajo requiere una mayor probabilidad de pago.",
+        "Los costos relativos afectan directamente la pérdida cuando el cliente no paga. Con cobros iguales, un costo mayor exige una probabilidad de pago mayor. Por eso las dos operaciones no admiten la misma tolerancia al incumplimiento.",
+        "El umbral de pago es costo incremental dividido por cobro. Un mayor margen implica una proporción de costo menor y reduce ese umbral. Esto permite aceptar más riesgo dentro del modelo, sin eliminar la necesidad de evaluar cada exposición.",
+        "Inmovilizar más capital no mejora la capacidad de absorber pérdidas. Por el contrario, eleva el desembolso expuesto al incumplimiento. El producto con menor costo relativo tiene más margen para compensar ese riesgo."
+      ]
+    },
+    {
+      "id": "c30-q031",
+      "tema": "Órdenes repetidas",
+      "dificultad": "avanzada",
+      "pregunta": "La orden inicial tiene VAN esperado de −$40. Sólo si el cliente paga, con probabilidad 80%, existe una segunda orden cuyo beneficio esperado vale $100 al final de un año. Con tasa de 10%, ¿cuál es el VAN total de iniciar la relación?",
+      "opciones": [
+        "$60",
+        "Aproximadamente $32,73",
+        "−$40",
+        "$40"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$60 suma directamente el beneficio de la segunda orden a la pérdida inicial. Esa orden sólo se habilita con probabilidad 80% y su beneficio ocurre dentro de un año. Deben aplicarse tanto la probabilidad como el descuento.",
+        "El valor actual de la oportunidad futura, condicionado al pago inicial, es 0,80 × $100/1,10 = $72,73. Se suma al VAN esperado inicial de −$40. El total es aproximadamente $32,73, por lo que iniciar la relación crea valor bajo los supuestos dados.",
+        "Este valor ignora la oportunidad futura que se adquiere al iniciar la relación. La segunda orden aporta 0,80 × $100/1,10 = $72,73 de valor esperado actual. Ese aporte supera la pérdida inicial.",
+        "$40 surge de aplicar 80% a $100 y restar $40 sin descontar. El beneficio de $100 está ubicado al final de un año. Llevarlo al presente reduce el resultado total a $32,73."
+      ]
+    },
+    {
+      "id": "c30-q032",
+      "tema": "Opción de continuar el crédito",
+      "dificultad": "avanzada",
+      "pregunta": "Un cliente nuevo puede generar pedidos rentables si demuestra ser buen pagador. ¿Por qué una primera venta con pérdida esperada podría ser aceptable?",
+      "opciones": [
+        "Porque puede comprar una oportunidad valiosa de continuar sólo si la experiencia es favorable",
+        "Porque obliga a financiar cualquier pedido futuro",
+        "Porque toda relación nueva garantiza fidelidad",
+        "Porque las pérdidas iniciales nunca importan"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La primera venta permite observar comportamiento y conservar la posibilidad de seguir vendiendo. La empresa puede dejar de conceder crédito si la experiencia es desfavorable. Esa flexibilidad puede compensar una pérdida inicial, siempre que su valor esperado supere el costo.",
+        "El valor de aprender depende en parte de poder revisar la decisión. Si hubiera que financiar todas las ventas futuras sin condiciones, la exposición podría crecer peligrosamente. Continuar sólo cuando resulte conveniente es una característica valiosa de la oportunidad.",
+        "Los pedidos repetidos y el buen comportamiento no están garantizados. Deben estimarse sus probabilidades y descontarse sus beneficios. Suponer fidelidad segura exageraría el valor de aceptar el cliente.",
+        "La pérdida inicial es un costo económico real que debe incluirse. Puede resultar compensada por oportunidades posteriores, pero no desaparece. La decisión exige valorar toda la relación y sus probabilidades."
+      ]
+    },
+    {
+      "id": "c30-q033",
+      "tema": "Valor de información crediticia",
+      "dificultad": "avanzada",
+      "pregunta": "Una venta cobra $1.000 y cuesta $800 en valor presente. El 80% de los solicitantes paga con certeza y el resto no paga nada. Un informe perfecto identifica el tipo antes de vender y cuesta $30 por solicitante. ¿Cuánto valor neto agrega investigar respecto de vender sin informe?",
+      "opciones": [
+        "$200 por solicitante",
+        "$160 por solicitante",
+        "−$30 por solicitante",
+        "$130 por solicitante"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "$200 es el margen de una venta a un buen pagador. No todos los solicitantes pertenecen a ese grupo y el informe tiene costo. Hay que ponderar el margen por 80% y deducir $30.",
+        "$160 es la ganancia esperada bruta de vender sólo a buenos pagadores. La investigación también tiene un costo que debe restarse. El valor neto agregado es $130.",
+        "Esta respuesta cuenta el costo del informe sin reconocer las pérdidas que evita. Identificar a los incumplidores permite no incurrir en su costo de producción. Ese ahorro esperado supera ampliamente los $30 de investigación.",
+        "Sin informe, la ganancia esperada es 0,80 × $1.000 − $800 = cero. Con información se vende sólo al 80% cumplidor y se gana 0,80 × $200 = $160 antes del informe. Deducir $30 deja un incremento neto de $130 por solicitante."
+      ]
+    },
+    {
+      "id": "c30-q034",
+      "tema": "Indicadores del gerente de crédito",
+      "dificultad": "intermedia",
+      "pregunta": "Un gerente baja los incobrables a cero rechazando a muchos clientes rentables. ¿Cómo corresponde evaluar su desempeño?",
+      "opciones": [
+        "Premiarlo sólo por el cero de incobrables",
+        "Ignorar costos de financiación si todos los aceptados pagan",
+        "Medir únicamente la cantidad de facturas emitidas",
+        "Medir la rentabilidad esperada total, incluido el margen de ventas perdidas"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Es posible eliminar incobrables dejando de vender a crédito por completo. Eso no demuestra que se esté maximizando el valor del negocio. Debe compararse el ahorro de pérdidas con los márgenes que se dejan de obtener.",
+        "Pagar finalmente no equivale a pagar sin costo financiero. Un plazo prolongado inmoviliza fondos y puede reducir el valor presente del cobro. La financiación sigue siendo pertinente aun sin incobrables.",
+        "La cantidad de facturas no indica cuánto se gana ni cuánto se recupera. Puede aumentar mediante ventas pequeñas o poco rentables. La evaluación necesita combinar ingresos, costos, riesgo y tiempos de cobro.",
+        "La meta es maximizar el beneficio esperado, no reducir un indicador de riesgo en forma aislada. Rechazar cuentas puede ahorrar pérdidas y costos, pero también eliminar ventas con VAN positivo. La evaluación debe considerar ambas consecuencias y los costos de administrar y financiar el crédito."
+      ]
+    },
+    {
+      "id": "c30-q035",
+      "tema": "Política restrictiva",
+      "dificultad": "avanzada",
+      "pregunta": "Actualmente las ventas son $100.000, los costos variables 70% de las ventas y los incobrables 5%. Una política más estricta reduce ventas a $90.000 e incobrables a 2%. Sin cambios en costos fijos ni efectos temporales, ¿cómo cambia el beneficio?",
+      "opciones": [
+        "Aumenta $3.000",
+        "Aumenta $200",
+        "Disminuye $3.000",
+        "Disminuye $2.000"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este cálculo reconoce mejoras sin incorporar íntegramente la caída del margen comercial. El beneficio actual es $25.000 y el nuevo es $25.200. La diferencia favorable es sólo $200.",
+        "Antes se gana 100.000 − 70.000 − 5.000 = $25.000. Después se gana 90.000 − 63.000 − 1.800 = $25.200. El incremento es $200, sujeto a los supuestos de costos fijos y ausencia de efectos temporales.",
+        "La caída de ventas no reduce el beneficio en el mismo importe ni se evalúa aislada del riesgo. Los costos variables también bajan y los incobrables caen de $5.000 a $1.800. Al combinar los cambios el beneficio sube $200.",
+        "Esta pérdida no corresponde a comparar los dos resultados completos. Hay que reconocer simultáneamente menor facturación, menores costos variables y menores incobrables. La cuenta integral muestra una mejora de $200."
+      ]
+    },
+    {
+      "id": "c30-q036",
+      "tema": "Atrasos y valor del cobro",
+      "dificultad": "intermedia",
+      "pregunta": "Dos clientes pagan siempre el total de $10.000, uno dentro de un mes y otro dentro de seis. Con tasa de descuento positiva y demás condiciones iguales, ¿qué cuenta vale más hoy?",
+      "opciones": [
+        "Ambas valen exactamente $10.000",
+        "La de un mes porque el dinero queda inmovilizado menos tiempo",
+        "La de seis meses porque no registra incobrables",
+        "La de seis meses por durar más"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El importe nominal igual no asegura el mismo valor presente. El cobro posterior se descuenta durante más tiempo. Por eso la fecha importa aun si no hay incumplimiento.",
+        "El pago al mes puede reinvertirse o utilizarse antes para cancelar obligaciones. El pago a seis meses exige financiar un período adicional. Con una tasa positiva, el descuento hace que el primer cobro tenga mayor valor actual.",
+        "El enunciado indica que ambos pagan el total. La diferencia no está en el porcentaje incobrable sino en el plazo de financiación. El crédito más largo tiene menor valor presente.",
+        "La duración mayor beneficia al deudor que conserva el dinero, pero tiene un costo para el acreedor. Con tasa positiva, esperar más reduce el valor actual. El cobro de un mes vale más hoy."
+      ]
+    },
+    {
+      "id": "c30-q037",
+      "tema": "Factoraje y riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa vende facturas a un factor mediante un contrato sin recurso por insolvencia del deudor aprobado. ¿Quién soporta ese riesgo de falta de pago dentro de lo cubierto por el contrato?",
+      "opciones": [
+        "El banco central",
+        "Siempre el vendedor original",
+        "El consumidor final ajeno a la factura",
+        "El factor"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El banco central no garantiza por definición las facturas compradas por un factor. La operación es una relación contractual privada. La asignación del riesgo se determina por las cláusulas del acuerdo.",
+        "El vendedor retiene ese riesgo en un esquema con recurso, no en el supuesto planteado. La asignación depende del contrato y de la aprobación de los deudores. Suponer que siempre lo conserva confunde modalidades de factoraje.",
+        "Un tercero ajeno a la factura no asume automáticamente obligaciones por el factoraje. El acuerdo reorganiza derechos y riesgos entre vendedor, factor y deudor. La cobertura especificada recae sobre el factor.",
+        "En el factoraje sin recurso, el factor asume el riesgo de insolvencia cubierto por el acuerdo. Puede cobrar una comisión por esa función, además de la administración y la financiación. El alcance debe distinguirse de disputas o incumplimientos excluidos del contrato."
+      ]
+    },
+    {
+      "id": "c30-q038",
+      "tema": "Anticipo del factor",
+      "dificultad": "intermedia",
+      "pregunta": "Un factor adelanta 75% de una factura de $40.000, cobra de inmediato una comisión de 2% del nominal y descuenta interés simple de 12% anual sobre el anticipo por 90 días, con año de 360. ¿Cuánto efectivo inicial recibe la empresa?",
+      "opciones": [
+        "$30.000",
+        "$28.300",
+        "$29.200",
+        "$38.000"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$30.000 es el anticipo bruto: 75% de $40.000. Todavía deben descontarse la comisión de $800 y el interés de $900. El efectivo inicial neto es $28.300.",
+        "El anticipo bruto es 40.000 × 0,75 = $30.000. La comisión es 40.000 × 0,02 = $800 y el interés es 30.000 × 0,12 × 90/360 = $900. El desembolso neto inicial es 30.000 − 800 − 900 = $28.300.",
+        "$29.200 deduce la comisión pero omite el interés de financiación. El interés se calcula sobre los $30.000 adelantados durante un cuarto de año. Restar también esos $900 lleva a $28.300.",
+        "Este importe no respeta el porcentaje de anticipo pactado. La empresa no recibe inicialmente el nominal completo menos un cargo arbitrario. Primero se calcula el 75% adelantado y luego se deducen los cargos especificados."
+      ]
+    },
+    {
+      "id": "c30-q039",
+      "tema": "Economías de escala y seguro",
+      "dificultad": "intermedia",
+      "pregunta": "Una pyme quiere conservar su cobranza interna, pero protegerse del riesgo de insolvencia de compradores del exterior. ¿Qué alternativa se ajusta mejor?",
+      "opciones": [
+        "Contratar un seguro de crédito a la exportación con cobertura adecuada",
+        "Dejar de evaluar a los compradores",
+        "Subcontratar obligatoriamente toda la facturación",
+        "Invertir sus cuentas por cobrar en acciones propias"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un seguro de crédito permite contratar protección frente a los incumplimientos cubiertos. No exige necesariamente delegar la cobranza ni anticipar las facturas. Además, las cuentas aseguradas pueden facilitar el acceso a financiación bancaria.",
+        "El seguro no justifica ignorar la solvencia o las condiciones de cobertura. Puede haber límites, exclusiones y requisitos de aprobación. La evaluación sigue ayudando a controlar la exposición.",
+        "Subcontratar puede ser útil para obtener economías de escala, pero no es indispensable para asegurar el riesgo. La empresa expresó que desea conservar su cobranza. Una póliza puede cubrir insolvencia sin trasladar toda la gestión.",
+        "Comprar acciones propias no transfiere el riesgo de falta de pago de un cliente. Tampoco transforma una factura en una inversión líquida y segura. La necesidad planteada se atiende con cobertura crediticia apropiada."
+      ]
+    },
+    {
+      "id": "c30-q040",
+      "tema": "Cobranza y relación comercial",
+      "dificultad": "intermedia",
+      "pregunta": "Un cliente históricamente cumplidor presenta un atraso aislado. ¿Qué respuesta equilibra mejor recuperación y relación comercial?",
+      "opciones": [
+        "Derivarlo inmediatamente a un abogado sin verificar",
+        "Suspender para siempre todas las ventas del sector",
+        "Verificar el motivo, recordar el vencimiento y escalar las gestiones si persiste el atraso",
+        "Ignorar indefinidamente la factura"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La acción legal inmediata puede ser desproporcionada ante un problema administrativo aislado. Antes conviene confirmar recepción, vencimiento y causa del atraso. Si la falta de pago persiste, sí corresponde intensificar las medidas.",
+        "Un atraso individual no demuestra que todos los compradores del sector sean incobrables. Una reacción general puede destruir ventas rentables. La política debe basarse en información y exposición concreta.",
+        "El seguimiento inicial permite distinguir un olvido de una dificultad de pago más grave. Los recordatorios y contactos pueden aumentar su intensidad si no hay respuesta. De persistir el incumplimiento, la derivación a especialistas en cobranza o asesoramiento legal puede resultar necesaria.",
+        "Ignorar la factura aumenta el tiempo de financiación y puede deteriorar la recuperación. Mantener una buena relación no implica renunciar al seguimiento. Es posible cobrar con firmeza y de manera proporcionada."
+      ]
+    },
+    {
+      "id": "c30-q041",
+      "tema": "Información del proveedor",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco deja de financiar a un cliente importante. ¿Cuándo podría ser razonable que su proveedor mantenga crédito comercial?",
+      "opciones": [
+        "Porque la negativa bancaria demuestra solvencia",
+        "Siempre que ventas quiera aumentar su comisión",
+        "Cuando posee mejor información y el valor esperado de cobros y ventas futuras compensa el riesgo",
+        "Porque los proveedores recuperan siempre todo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La negativa del banco puede señalar restricciones de liquidez o mayor riesgo. No constituye una prueba de buena capacidad de pago. El proveedor necesita evidencia adicional para sostener una evaluación diferente.",
+        "La comisión de ventas no mide el valor para toda la empresa. Puede incentivar pedidos que nunca se cobren. La decisión debe considerar costos, probabilidades, financiación y continuidad de la relación.",
+        "El proveedor puede conocer mejor las operaciones y perspectivas del comprador. También puede tener un interés económico en conservar ventas futuras rentables. Eso puede justificar una decisión distinta de la del banco, pero sólo si la exposición y su valor esperado la respaldan.",
+        "Los proveedores también pueden sufrir pérdidas y quedar como acreedores generales. No hay garantía automática de recupero. La conveniencia del crédito depende del riesgo y los beneficios esperados."
+      ]
+    },
+    {
+      "id": "c30-q042",
+      "tema": "Plazo pactado y mora",
+      "dificultad": "basica",
+      "pregunta": "Una compra se realiza el día 0, vence el día 30 y se paga el día 45. ¿Cuáles son el plazo pactado, la mora y el retraso total de pago?",
+      "opciones": [
+        "30, 15 y 45 días",
+        "45, 30 y 15 días",
+        "15, 45 y 30 días",
+        "30, 45 y 75 días"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El plazo pactado va de la compra al vencimiento: 30 días. La mora va del vencimiento al pago: 45 − 30 = 15 días. El retraso total de pago suma ambos intervalos y alcanza 45 días.",
+        "Esta secuencia intercambia el plazo total con la mora. El plazo pactado termina el día 30 y la mora dura desde el día 30 hasta el 45. El retraso total desde la compra es 45 días.",
+        "Los 15 días corresponden a la mora, no al crédito inicialmente concedido. Los 45 días miden el intervalo completo entre compra y pago. El plazo pactado es de 30 días.",
+        "Los 45 días ya incluyen los 30 de plazo y los 15 de mora. Sumarlos nuevamente al plazo duplica parte del tiempo. La identidad correcta es 30 + 15 = 45."
+      ]
+    },
+    {
+      "id": "c30-q043",
+      "tema": "Descuentos y cuentas por cobrar",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa vende $360.000 anuales de manera uniforme, con año de 360 días. El 60% de las ventas se cobra a los 10 días y el 40% a los 40 días. Ignorá descuentos monetarios e impagos. ¿Cuál es el saldo promedio de cuentas por cobrar?",
+      "opciones": [
+        "$10.000",
+        "$22.000",
+        "$40.000",
+        "$25.000"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$10.000 supone que todas las ventas se cobran a los 10 días. El 40% tarda 40 días y aumenta el período medio. El plazo ponderado correcto es de 22 días.",
+        "El plazo promedio es 0,60 × 10 + 0,40 × 40 = 22 días. Las ventas diarias son 360.000/360 = $1.000. Multiplicar $1.000 por 22 da $22.000 de cuentas por cobrar promedio.",
+        "$40.000 supone que todos pagan a los 40 días. El 60% cobra antes y reduce la inmovilización. Hay que ponderar ambos plazos por su participación en ventas.",
+        "$25.000 usa el promedio simple de 10 y 40 días. Las participaciones no son iguales y requieren ponderación. Con 60% en el plazo corto, el saldo correcto es $22.000."
+      ]
+    },
+    {
+      "id": "c30-q044",
+      "tema": "Costo de ofrecer descuentos",
+      "dificultad": "avanzada",
+      "pregunta": "Se venden $1.000.000 anuales y todos los clientes aceptan un nuevo descuento de 1%. Por hipótesis, el cambio libera exactamente $200.000 de capital financiado al 8% anual y no altera volumen ni otros costos. ¿Cuál es el efecto anual neto?",
+      "opciones": [
+        "Pérdida de $10.000",
+        "Ganancia de $16.000",
+        "Ganancia de $6.000",
+        "Ganancia de $26.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$10.000 es el costo anual del descuento aplicado a las ventas. Falta el ahorro financiero que produce liberar capital. Ese ahorro es mayor y deja un resultado neto positivo.",
+        "$16.000 es el ahorro de intereses: $200.000 × 8%. Debe restarse el descuento de $10.000 que reduce los ingresos. El efecto anual neto es $6.000.",
+        "La menor necesidad de financiación ahorra $200.000 × 0,08 = $16.000 al año. El descuento cuesta $1.000.000 × 0,01 = $10.000. Bajo los supuestos dados, el beneficio anual neto es $6.000.",
+        "Esta cifra suma el descuento como si fuera un beneficio. Para el vendedor, el descuento reduce el ingreso y es un costo. El cálculo correcto resta $10.000 al ahorro financiero de $16.000."
+      ]
+    },
+    {
+      "id": "c30-q045",
+      "tema": "Liquidez marginal",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué condición describe el saldo de efectivo económicamente deseable?",
+      "opciones": [
+        "La caja es tan grande como todos los activos",
+        "El beneficio marginal de liquidez iguala el rendimiento marginal sacrificado",
+        "El efectivo siempre es cero porque no paga intereses",
+        "Se maximiza la cantidad de cuentas bancarias"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Mantener todos los activos como efectivo impediría o limitaría la actividad y sacrificaría rendimiento. La liquidez adicional suele tener utilidad decreciente. El objetivo es encontrar un saldo apropiado, no maximizarlo.",
+        "Un peso adicional en caja facilita pagos y reduce necesidades de transacciones o financiación urgente. Pero también sacrifica el rendimiento que podría generar invertido. El equilibrio se alcanza cuando ambos efectos marginales se igualan.",
+        "El efectivo puede ser necesario para pagar y enfrentar desajustes de flujos. Vender valores cada vez que aparece un gasto puede generar costos. Un saldo nulo no es una conclusión general de que la caja no pague intereses.",
+        "Más cuentas pueden elevar complejidad y dejar fondos ociosos dispersos. La cantidad de cuentas no mide la utilidad de la liquidez. Importan el acceso a los fondos, su costo y las necesidades de pago."
+      ]
+    },
+    {
+      "id": "c30-q046",
+      "tema": "Efectivo y transacciones",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera enfrenta mayor costo fijo por vender valores, con iguales necesidades y tasas. ¿Qué ajuste tiene más sentido en su reserva de efectivo?",
+      "opciones": [
+        "Considerar una reserva mayor para reducir transacciones costosas",
+        "Reducirla para vender valores más seguido",
+        "Eliminar el seguimiento de los pagos",
+        "Aumentar la reserva sin límite"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El efectivo evita tener que vender valores para cada pago. Si esas ventas se vuelven más costosas, mantener una reserva mayor puede reducir el costo total. Debe seguir comparándose ese ahorro con el interés perdido por la caja adicional.",
+        "Una reserva menor obliga normalmente a convertir valores en efectivo con más frecuencia. Eso agrava el costo que acaba de aumentar. La dirección razonable del ajuste es considerar una reserva mayor.",
+        "El cambio de costos no elimina la necesidad de planificar pagos. Sin seguimiento podrían aparecer faltantes evitables. La decisión consiste en ajustar el equilibrio entre liquidez y transacciones.",
+        "El costo de oportunidad de conservar efectivo sigue existiendo. Aunque vender valores sea más caro, llega un punto en que agregar caja ya no compensa. El ajuste necesita un equilibrio y no una acumulación ilimitada."
+      ]
+    },
+    {
+      "id": "c30-q047",
+      "tema": "Inversión por un día",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa puede invertir $500.000 durante un día al 7,2% simple anual, con año de 360 días. Los costos totales de comprar y vender son $60. ¿Cuál es el beneficio neto frente a dejar el efectivo ocioso?",
+      "opciones": [
+        "$40",
+        "−$60",
+        "$100",
+        "$360"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El interés diario es 0,072/360 = 0,0002 sobre el capital. Aplicado a $500.000 produce $100. Deducir los $60 de costos totales deja $40 de beneficio neto.",
+        "Esta respuesta considera sólo el costo e ignora el interés del día. La inversión genera $100 antes de cargos. Luego de pagar $60 todavía queda una mejora de $40.",
+        "$100 es el interés bruto: 500.000 × 0,072/360. Los costos totales de operar deben deducirse para comparar alternativas. El beneficio neto es $40.",
+        "$360 no surge de aplicar la tasa diaria al capital indicado. La tasa anual debe dividirse por 360 antes de calcular un único día. Después corresponde restar el costo completo de la operación."
+      ]
+    },
+    {
+      "id": "c30-q048",
+      "tema": "Incertidumbre y liquidez",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa invierte excedentes en valores difíciles de vender y cubre faltantes con una línea bancaria más cara. Si aumenta la incertidumbre de pagos, ¿qué decisión resulta más razonable, manteniendo todo lo demás igual?",
+      "opciones": [
+        "Invertir automáticamente toda la caja",
+        "Reducir la reserva porque el riesgo no altera flujos",
+        "Eliminar el acceso al banco",
+        "Considerar más efectivo para reducir la exposición a faltantes costosos"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Invertir toda la caja maximiza el rendimiento sólo si se ignora el costo de quedarse sin liquidez. Una mayor incertidumbre hace más probable necesitar financiación urgente. Corresponde comparar ese costo con el interés de los valores.",
+        "La incertidumbre puede no cambiar el promedio previsto, pero sí la probabilidad de pagos superiores a la reserva. Ese riesgo tiene costo cuando la alternativa es endeudarse caro. Por eso puede justificar más caja.",
+        "La línea bancaria puede ser una protección útil ante desajustes. Eliminarla no resuelve la incertidumbre y puede agravar el costo de un faltante. La decisión se refiere a cuánto efectivo mantener frente a ese riesgo.",
+        "Con pagos más inciertos aumenta el valor de disponer de efectivo inmediatamente. La reserva permite evitar algunas ventas difíciles o préstamos costosos. El aumento apropiado debe compararse con el rendimiento que se deja de ganar en los valores."
+      ]
+    },
+    {
+      "id": "c30-q049",
+      "tema": "Barridos y saldos ociosos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué hace un barrido de efectivo y por qué pueden subsistir saldos sin rendimiento?",
+      "opciones": [
+        "Garantiza el pago de clientes",
+        "Convierte inventarios en ventas seguras",
+        "Invierte automáticamente excedentes; pueden quedar saldos por servicios bancarios o costos de administrar muchas cuentas",
+        "Elimina toda necesidad operativa y costo bancario"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una transferencia automática no garantiza facturas comerciales. Los incobrables pertenecen al riesgo de crédito de clientes. El programa modifica dónde se conserva parte del efectivo disponible.",
+        "El barrido actúa sobre saldos monetarios, no sobre la demanda. Tampoco elimina las cuentas bancarias de las subsidiarias. Su función es invertir remanentes que no se necesitan inmediatamente.",
+        "Un barrido traslada excedentes a una colocación que genera rendimiento. Pueden quedar fondos para pagos, compensación de servicios o para evitar el seguimiento costoso de numerosas cuentas. La automatización reduce ociosidad sin eliminar todas las restricciones prácticas.",
+        "La empresa sigue necesitando pagar operaciones y servicios bancarios. Un barrido mejora el rendimiento de excedentes, pero no vuelve gratuitos esos servicios. Todavía hay que definir reservas y controlar transferencias."
+      ]
+    },
+    {
+      "id": "c30-q050",
+      "tema": "Centralización de caja",
+      "dificultad": "intermedia",
+      "pregunta": "Una subsidiaria invierte $1.000.000 al 4% anual y otra debe $1.000.000 al 9%. Si pueden transferirse fondos sin impuestos ni costos, ¿cuál es el ahorro anual neto de cancelar esa deuda?",
+      "opciones": [
+        "$90.000",
+        "$40.000",
+        "$50.000",
+        "$130.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$90.000 es el interés de deuda evitado. También se dejan de ganar $40.000 en la inversión. El ahorro neto es la diferencia de $50.000.",
+        "$40.000 es el rendimiento que se pierde al retirar la inversión. No es el ahorro de la coordinación. Debe compararse con los $90.000 de intereses que dejan de pagarse.",
+        "Cancelar la deuda evita $1.000.000 × 9% = $90.000 al año. Se sacrifica un rendimiento de $1.000.000 × 4% = $40.000. El beneficio anual neto es $50.000, mostrando el valor de coordinar la tesorería del grupo.",
+        "Esta cifra suma importes con efectos opuestos. Los intereses evitados son un beneficio y los intereses perdidos son un costo. Corresponde restar ambos componentes."
+      ]
+    },
+    {
+      "id": "c30-q051",
+      "tema": "Pagos electrónicos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue al débito directo del depósito directo para una empresa?",
+      "opciones": [
+        "Ambos requieren trasladar cheques físicos",
+        "El débito siempre lo inicia el empleado que cobra",
+        "El débito cobra una cuenta autorizada del cliente; el depósito acredita pagos como sueldos",
+        "El depósito directo es deuda de largo plazo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Son mecanismos electrónicos que evitan parte del trabajo con cheques. Pueden tramitarse mediante compensación automática. Su diferencia se vincula con el sentido y la iniciación del pago.",
+        "En un débito directo, el beneficiario inicia un cobro autorizado por el titular. El depósito de sueldos lo dispone la empresa pagadora. Deben distinguirse quién ordena y quién recibe los fondos.",
+        "El débito permite cobrar desde cuentas de clientes con su autorización. El depósito directo sirve para enviar pagos masivos a empleados o accionistas. Ambos son electrónicos, pero operan en sentidos distintos respecto de la empresa.",
+        "El depósito directo es un mecanismo de transferencia. No implica por sí mismo financiación a largo plazo. Los sueldos pueden acreditarse así sin generar una deuda financiera."
+      ]
+    },
+    {
+      "id": "c30-q052",
+      "tema": "Sistemas de pagos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué criterio resulta apropiado al comparar transferencias grandes urgentes con pagos recurrentes no urgentes?",
+      "opciones": [
+        "Elegir siempre el sistema de mayor comisión",
+        "Confundir una tarjeta de valor almacenado con crédito nuevo en cada uso",
+        "Facturar por internet y exigir siempre cheques físicos",
+        "Comparar rapidez, seguridad y costo; considerar compensación automática cuando el plazo lo permite"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una comisión elevada no demuestra mayor conveniencia. Hay que comparar velocidad, certeza y necesidades concretas. Para pagos sin urgencia puede bastar un sistema más económico.",
+        "La tarjeta de valor almacenado utiliza fondos cargados previamente. No supone necesariamente un préstamo por cada compra. Es una herramienta de pago con saldo disponible.",
+        "La presentación y pago electrónicos permiten emitir facturas y recibir fondos digitalmente. No exigen cancelar mediante cheques físicos. Buscan precisamente simplificar y acelerar el procesamiento.",
+        "Los ejemplos históricos Fedwire y CHIPS atienden grandes pagos con rapidez y bajo riesgo. La compensación automática puede ser más barata cuando no hay urgencia. Elegir exige comparar necesidades, costos y condiciones de cada sistema."
+      ]
+    },
+    {
+      "id": "c30-q053",
+      "tema": "Procesamiento de cheques",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación describe formas de simplificar o acelerar cobros con cheque?",
+      "opciones": [
+        "Guardar cheques hasta fin de mes y evitar depósitos",
+        "Imágenes digitales entre bancos, captura electrónica en el punto de venta y buzones operados por el banco",
+        "Convertir cada cheque en acciones",
+        "Abrir más cuentas sin concentrar fondos"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Guardar cheques retrasa su disponibilidad. Evitar el depósito impide utilizar las cobranzas. La administración eficiente procura acreditar fondos sin demoras innecesarias.",
+        "El intercambio de imágenes reduce el traslado físico entre bancos, como en el mecanismo histórico Check 21. La conversión captura datos para procesar electrónicamente el pago y el buzón permite al banco recibir y depositar cheques directamente. Son herramientas diferentes para reducir demoras o tareas.",
+        "El cheque es una instrucción de pago, no una participación societaria. Su procesamiento no exige convertirlo en acciones. Las mejoras se obtienen agilizando captura, entrega y compensación.",
+        "Más cuentas sin transferencias pueden dejar saldos ociosos dispersos. El depósito local se complementa con concentración hacia cuentas principales. La cantidad de cuentas por sí sola no asegura eficiencia."
+      ]
+    },
+    {
+      "id": "c30-q054",
+      "tema": "Buzón de cobranza",
+      "dificultad": "intermedia",
+      "pregunta": "Un buzón adelanta dos días cobranzas uniformes de $50.000 diarios. La tasa es 10% anual y el costo incremental del servicio $7.000 anuales. ¿Cuál es el beneficio anual neto?",
+      "opciones": [
+        "$100.000",
+        "$3.000",
+        "$10.000",
+        "−$7.000"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "$100.000 es el saldo liberado, calculado como dos días de cobranzas. No es un beneficio que se repita íntegramente cada año. El beneficio recurrente es su rendimiento menos el costo del servicio.",
+        "El adelanto libera 2 × $50.000 = $100.000. A 10% anual permite ganar o ahorrar $10.000 de intereses. Al restar $7.000 de costo incremental queda un beneficio anual neto de $3.000.",
+        "$10.000 es el ahorro financiero bruto. Falta deducir los $7.000 adicionales de servicio. La comparación debe usar el beneficio neto de $3.000.",
+        "Esta respuesta ignora la disponibilidad anticipada del dinero. Los fondos liberados pueden reducir deuda o generar intereses. Su beneficio anual supera el costo del buzón."
+      ]
+    },
+    {
+      "id": "c30-q055",
+      "tema": "Saldo compensatorio",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco cobra $18.000 al año o exige $200.000 adicionales sin interés como saldo compensatorio. La inversión alternativa rinde 8% y ese saldo no cumple otra función. ¿Qué opción cuesta menos?",
+      "opciones": [
+        "La comisión, por $2.000",
+        "El saldo, por $18.000",
+        "El saldo, por $2.000",
+        "Son equivalentes"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El costo de oportunidad del saldo es 200.000 × 8% = $16.000. La comisión cuesta $18.000. Por eso la comisión es $2.000 más cara.",
+        "El saldo no es gratuito aunque no exista una comisión explícita. Mantenerlo sacrifica $16.000 de rendimiento anual. El ahorro frente a pagar comisión es sólo $2.000.",
+        "Inmovilizar $200.000 cuesta $16.000 anuales de rendimiento sacrificado. La comisión explícita exige $18.000. Elegir el saldo ahorra $2.000 bajo las condiciones dadas.",
+        "La equivalencia exigiría que el costo de oportunidad fuera $18.000. A la tasa de 8% sólo alcanza $16.000. Otra tasa o saldo podría cambiar la comparación."
+      ]
+    },
+    {
+      "id": "c30-q056",
+      "tema": "Transferencia rápida",
+      "dificultad": "avanzada",
+      "pregunta": "Una transferencia inmediata cuesta $12 y otra cuesta $2 pero demora tres días más. La tasa simple anual es 12%, con año de 360 días. ¿Qué importe iguala el beneficio de rapidez con el costo adicional?",
+      "opciones": [
+        "$10.000",
+        "$3.000",
+        "$30.000",
+        "$1.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo adicional es $12 − $2 = $10. La tasa de tres días es 0,12 × 3/360 = 0,001. Resolver importe × 0,001 = 10 da $10.000; por encima conviene la rapidez si todo lo demás es igual.",
+        "No basta dividir el costo por los días sin incorporar la tasa. El rendimiento de tres días es 0,12 × 3/360 = 0,001. Igualar ese factor a $10 requiere $10.000.",
+        "$30.000 genera $30 de beneficio durante esos tres días. La rapidez ya compensa su costo con un importe menor. El umbral es $10.000.",
+        "Ganar tres días sobre $1.000 produce sólo $1 de interés. El costo adicional es $10. Por eso este importe no alcanza el equilibrio."
+      ]
+    },
+    {
+      "id": "c30-q057",
+      "tema": "Concentración internacional",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué distingue la concentración física de fondos del pooling nocional internacional?",
+      "opciones": [
+        "Ambos impiden financiar subsidiarias deficitarias",
+        "El pooling exige trasladar todo diariamente",
+        "Concentrar elimina diferencias legales y cambiarias",
+        "La primera mueve fondos; el segundo combina saldos para calcular intereses sin trasladarlos físicamente"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La coordinación busca aprovechar excedentes y cubrir faltantes. Un centro regional puede financiar unidades con necesidad de caja. El pooling puede reducir el costo de mantener posiciones deudoras y acreedoras separadas.",
+        "El traslado caracteriza a la concentración física. El pooling nocional se distingue por combinar saldos sin ese movimiento. Confundirlos oculta diferencias operativas relevantes.",
+        "Centralizar no elimina las normas nacionales ni los riesgos de moneda. Esas diferencias hacen compleja la tesorería multinacional. El diseño debe respetar restricciones y administrar exposición cambiaria.",
+        "La concentración transfiere excedentes locales hacia un centro. El pooling nocional combina saldos para el tratamiento financiero pactado sin moverlos entre cuentas. Ambos requieren atender monedas, reglas y condiciones bancarias."
+      ]
+    },
+    {
+      "id": "c30-q058",
+      "tema": "Compensación de saldos",
+      "dificultad": "intermedia",
+      "pregunta": "En igual fecha y moneda, A debe $100 a B, B debe $70 a C y C debe $40 a A. ¿Qué posiciones netas se liquidan mediante un centro?",
+      "opciones": [
+        "A paga $60; B y C cobran $30 cada una",
+        "A cobra $60; B y C pagan $30 cada una",
+        "A paga $100; B cobra $100; C no participa",
+        "Todas pagan $70"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "A compensa $40 a cobrar con $100 a pagar y entrega $60. B recibe $100 y debe $70, por lo que cobra $30. C recibe $70 y debe $40, cobrando los otros $30.",
+        "Los signos están invertidos. A debe $100 y tiene derecho a $40, por lo que paga $60 netos. B y C son acreedoras netas por $30 cada una.",
+        "Esta propuesta omite dos relaciones comerciales. La compensación incorpora todos los créditos y obligaciones. Las posiciones finales deben sumar cero.",
+        "No existe una razón para distribuir pagos iguales. Cada saldo depende de créditos menos deudas de la subsidiaria. Sólo A presenta una posición neta pagadora."
+      ]
+    },
+    {
+      "id": "c30-q059",
+      "tema": "Mercado de dinero",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza al mercado de dinero y sus fondos de inversión?",
+      "opciones": [
+        "Es únicamente una bolsa física de acciones",
+        "Todo fondo garantiza su capital",
+        "Negocia instrumentos de corto plazo; un fondo facilita gestionarlos pero conserva riesgos de cartera",
+        "Sólo admite bancos centrales"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El mercado funciona mediante redes de bancos e intermediarios y no necesita un recinto único. Se concentra en financiación e inversiones de corto plazo. Las acciones ordinarias no definen este mercado.",
+        "Invertir en activos de bajo riesgo no equivale a garantizar capital universalmente. Deben revisarse cartera, liquidez y condiciones del fondo. Su nombre no elimina los riesgos subyacentes.",
+        "El mercado reúne instrumentos de corto plazo negociados por bancos e intermediarios. Un fondo permite delegar selección y administración, especialmente cuando falta escala propia. Su conveniencia depende de costos, disponibilidad y riesgos de las inversiones.",
+        "Las empresas también colocan sus excedentes temporales en este mercado. Los bancos centrales no son participantes exclusivos. La escala puede influir en elegir inversión directa o un fondo."
+      ]
+    },
+    {
+      "id": "c30-q060",
+      "tema": "Precio a descuento",
+      "dificultad": "intermedia",
+      "pregunta": "Un título paga $100.000 dentro de 90 días y cotiza a descuento bancario anual de 8%, con base 360. ¿Cuál es su precio?",
+      "opciones": [
+        "$98.000",
+        "$98.039,22",
+        "$100.000",
+        "$92.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El descuento monetario es nominal × tasa × tiempo. Al sustituir se obtiene 100.000 × 0,08 × 90/360 = $2.000. El precio es entonces $98.000.",
+        "Esta cifra trata el 8% como rendimiento sobre el precio. La cotización dada aplica el descuento al nominal. Hay que restar 100.000 × 0,08 × 90/360.",
+        "Pagar el nominal completo produciría retorno nulo sin otros flujos. Un descuento positivo implica precio inferior al nominal. Aquí la diferencia es $2.000.",
+        "$92.000 descuenta un año completo. Sólo restan 90 días, equivalentes a un cuarto del año indicado. El descuento monetario correcto es $2.000."
+      ]
+    },
+    {
+      "id": "c30-q061",
+      "tema": "Rendimiento del período",
+      "dificultad": "intermedia",
+      "pregunta": "Un título sin cupones cuesta $98.000 y paga $100.000 en 90 días. ¿Cuál es el rendimiento de esos 90 días?",
+      "opciones": [
+        "Aproximadamente 2,0408%",
+        "2,00%",
+        "8,00%",
+        "Aproximadamente 0,50%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La ganancia es $2.000. Se divide por el desembolso de $98.000, no por el nominal. El retorno es 2.000/98.000 = 2,0408%, sin anualizar.",
+        "El 2% divide por los $100.000 recibidos al final. El rendimiento se mide sobre el capital invertido. Usar $98.000 como base da 2,0408%.",
+        "Una cotización anual no representa el retorno de sólo 90 días. Primero se divide la ganancia por el precio. Después se anualiza únicamente si se solicita.",
+        "Esta cifra reduce indebidamente el retorno del período. $2.000 representan algo más de 2% de $98.000. No corresponde dividir nuevamente por cuatro."
+      ]
+    },
+    {
+      "id": "c30-q062",
+      "tema": "Anualización de rendimientos",
+      "dificultad": "avanzada",
+      "pregunta": "Un título de 90 días cuesta $98 y paga $100. Con año de 360 días y reinversión a igual tasa, ¿cuáles son sus rendimientos anual simple y efectivo?",
+      "opciones": [
+        "8% y 8%",
+        "Aproximadamente 2,04% y 8,16%",
+        "Aproximadamente 8,16% y 8,42%",
+        "Aproximadamente 8,42% y 8,16%"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 8% toma como base el nominal y no el precio. Además, capitalizar cuatro períodos produce más que multiplicar la tasa por cuatro. Deben distinguirse descuento, retorno simple y retorno efectivo.",
+        "El primer valor es el retorno de 90 días. El segundo es su anualización simple. Para obtener el efectivo anual hay que elevar el factor 100/98 a la cuarta potencia y restar uno.",
+        "El retorno de 90 días es 2/98 = 2,0408%. Multiplicarlo por cuatro da 8,1633% anual simple. Capitalizarlo da (100/98)^4 − 1 = 8,4166%, aproximadamente 8,42% efectivo.",
+        "Los valores están intercambiados. Con tasa positiva y varios períodos, la capitalización supera a la anualización simple. La simple es 8,16% y la efectiva 8,42%."
+      ]
+    },
+    {
+      "id": "c30-q063",
+      "tema": "Convenciones de días",
+      "dificultad": "avanzada",
+      "pregunta": "Un pagaré de $10.000 nominales vence en 180 días y cotiza al 10% de descuento sobre base 360. ¿Cómo se obtiene su rendimiento efectivo anual sobre base 365?",
+      "opciones": [
+        "Restando 10% al nominal y dividiendo por 365",
+        "Calculando precio $9.500 y luego (10.000/9.500)^(365/180) − 1",
+        "Usando directamente 10% como rendimiento efectivo",
+        "Calculando precio $10.500 y luego (9.500/10.000)^2 − 1"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El descuento anual debe prorratearse por 180/360. Dividir un precio por 365 no genera una tasa de retorno. Después se anualiza el factor de crecimiento usando la base solicitada.",
+        "El precio es 10.000 × (1 − 0,10 × 180/360) = $9.500. El factor de retorno de 180 días es 10.000/9.500. Elevarlo a 365/180 y restar uno da aproximadamente 10,96% anual efectivo.",
+        "La cotización usa nominal y descuento simple sobre 360 días. El rendimiento efectivo usa precio, capitalización y aquí base 365. Esas diferencias impiden igualar ambas tasas.",
+        "Con descuento positivo el precio es inferior al nominal. Además, el crecimiento se calcula como cobro dividido por precio. La anualización debe respetar los 365 días pedidos."
+      ]
+    },
+    {
+      "id": "c30-q064",
+      "tema": "Riesgo y liquidez",
+      "dificultad": "intermedia",
+      "pregunta": "Durante una crisis aumenta el diferencial entre papel corporativo y títulos del Tesoro de corto plazo. ¿Qué interpretación es razonable?",
+      "opciones": [
+        "El plazo corto hace idénticos todos los instrumentos",
+        "La tasa mayor garantiza mayor ganancia realizada",
+        "Se exige más compensación por incumplimiento y dificultad de venta",
+        "Los menos líquidos siempre se venden sin descuento"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El plazo corto reduce incertidumbre, pero no iguala solvencia y liquidez. Emisores e instrumentos conservan diferencias. Esas diferencias influyen en los rendimientos exigidos.",
+        "Un rendimiento prometido mayor puede compensar riesgo adicional. El incumplimiento o una venta con pérdidas pueden reducir el resultado realizado. No basta elegir la tasa más alta.",
+        "La deuda corta también puede incumplirse y no todos los títulos se venden igual de fácilmente. En una crisis aumenta el valor de acceder inmediatamente al efectivo. El movimiento hacia activos de mayor calidad y liquidez puede ampliar los diferenciales.",
+        "La iliquidez implica que vender rápido puede ser difícil o costoso. En crisis esa dificultad puede agravarse. Por eso suele exigirse una prima adicional."
+      ]
+    },
+    {
+      "id": "c30-q065",
+      "tema": "Eurodivisas",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál de estas situaciones constituye un depósito en eurodólares?",
+      "opciones": [
+        "Una empresa convierte dólares a euros y los guarda en caja",
+        "Una empresa deposita dólares en una sucursal bancaria de Londres",
+        "Un banco de Nueva York recibe un depósito doméstico ordinario en dólares",
+        "Un inversor compra acciones europeas en euros"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cambiar a euros produce una tenencia denominada en euros. El prefijo de eurodólar no cambia la moneda del depósito. Debe seguir tratándose de dólares.",
+        "El nombre designa depósitos en dólares fuera del mercado bancario doméstico estadounidense. No exige denominación en euros ni una nacionalidad determinada del banco. Un depósito en dólares en Londres encaja en el concepto.",
+        "La moneda coincide, pero no el ámbito de depósito. Un depósito doméstico ordinario no es el caso internacional descrito. El concepto separa denominación monetaria de localización bancaria.",
+        "Una acción es capital societario y no un depósito bancario en dólares. Que el emisor sea europeo no la transforma en eurodólares. Importan la moneda y el tipo de instrumento."
+      ]
+    },
+    {
+      "id": "c30-q066",
+      "tema": "Referencias interbancarias históricas",
+      "dificultad": "intermedia",
+      "pregunta": "En el marco histórico estudiado, ¿cómo se relacionaban LIBOR/Euribor, la regulación y los servicios de banca internacional en Estados Unidos?",
+      "opciones": [
+        "Las referencias orientaban precios de préstamos; diferencias regulatorias impulsaban mercados internacionales y servicios con régimen especial",
+        "Las referencias garantizaban todo depósito y los servicios admitían cualquier cliente",
+        "LIBOR era un impuesto y esos servicios eran fondos accionarios",
+        "Los servicios obligaban a toda empresa estadounidense a depositar allí"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las referencias interbancarias históricas permitían pactar tasas de préstamos y notas flotantes por moneda. Las diferencias regulatorias ayudaban a explicar la intermediación internacional, mientras su reducción favorecía la convergencia de tasas comparables. Los servicios de banca internacional estudiados ofrecían un régimen especial, pero restringían depósitos y préstamos de corporaciones estadounidenses.",
+        "Una referencia de interés no garantiza la solvencia de quien recibe un depósito. Los servicios de banca internacional también tenían restricciones de operaciones y clientes. No eran cuentas universales sin límites.",
+        "LIBOR era una referencia de interés y no un tributo. Los servicios eran arreglos bancarios, no carteras de acciones. Su función se entiende por la regulación de depósitos y préstamos internacionales.",
+        "El esquema no imponía esa obligación doméstica. Por el contrario, restringía determinadas operaciones con corporaciones estadounidenses. Buscaba atraer negocios internacionales bajo condiciones específicas."
+      ]
+    },
+    {
+      "id": "c30-q067",
+      "tema": "Tesoro y agencias",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue a las letras del Tesoro de muchos pagarés de agencias o entidades patrocinadas por el gobierno?",
+      "opciones": [
+        "Toda deuda de agencia tiene garantía soberana idéntica",
+        "Las letras no pueden venderse antes de vencer",
+        "En una subasta de precio único cada adjudicatario paga un precio diferente",
+        "Las letras son deuda del Tesoro muy líquida; muchos pagarés de agencias no tienen garantía soberana plena"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El patrocinio o una expectativa de apoyo no equivalen a garantía soberana plena. Debe revisarse el respaldo de cada emisor. Esa diferencia ayuda a explicar tasas superiores de algunas agencias.",
+        "Las letras tienen un mercado secundario muy activo. No es indispensable conservarlas hasta vencer ni participar directamente en la emisión. La facilidad de venta contribuye a su atractivo.",
+        "En una subasta de precio único los adjudicatarios pagan el mismo precio de adjudicación. No se asignan necesariamente precios individuales distintos. También puede haber ofertas no competitivas al precio resultante y negociación secundaria posterior.",
+        "Las letras son obligaciones del Tesoro y cuentan con gran liquidez secundaria. Muchos pagarés de agencias dependen de la entidad y no de una garantía soberana plena, aunque existen excepciones. Por eso los instrumentos no son idénticos y pueden ofrecer rendimientos diferentes."
+      ]
+    },
+    {
+      "id": "c30-q068",
+      "tema": "Rendimiento exento y gravado",
+      "dificultad": "intermedia",
+      "pregunta": "Un pagaré exento del impuesto considerado rinde 4,5% y otro comparable rinde 6% gravado. Con tasa marginal de 30%, ¿cuál rinde más después de ese impuesto?",
+      "opciones": [
+        "El exento, con 4,5% frente a 4,2%",
+        "Ambos rinden igual",
+        "El gravado, con 5,7%",
+        "El gravado, porque 6% supera 4,5%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El exento conserva 4,5% bajo el impuesto supuesto. El gravado deja 6% × (1 − 0,30) = 4,2%. La ventaja es de 0,3 puntos, aunque en una decisión real también importan liquidez, riesgo y otros tributos.",
+        "El impuesto reduce lo que retiene el inversor. Una tasa nominal mayor no asegura igualdad o superioridad neta. Hay que ajustar el gravado y conservar el rendimiento exento.",
+        "El 30% se aplica al interés, no se resta como 0,3 puntos del rendimiento. Sobre 6% representa 1,8 puntos porcentuales de impuesto. Quedan 4,2%.",
+        "La comparación debe hacerse después de impuestos. El rendimiento gravado cae a 6% × 0,70 = 4,2%. El exento mantiene una ventaja de 0,3 puntos porcentuales."
+      ]
+    },
+    {
+      "id": "c30-q069",
+      "tema": "Tasa fiscal de indiferencia",
+      "dificultad": "intermedia",
+      "pregunta": "Instrumentos comparables rinden 4% exento y 5% gravado. ¿Qué tasa marginal produce indiferencia respecto de ese impuesto?",
+      "opciones": [
+        "20%",
+        "25%",
+        "80%",
+        "1%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La igualdad es 0,04 = 0,05 × (1 − t). El cociente 0,04/0,05 es 0,80, por lo que t = 0,20. Con tasas mayores, el exento resulta más atractivo en esta comparación.",
+        "El 25% divide la diferencia por el rendimiento exento. El impuesto se aplica al rendimiento gravado, que es la base pertinente. Un punto sobre cinco corresponde a 20%.",
+        "El 80% es la fracción del rendimiento gravado que debe conservarse. La tasa fiscal es su complemento. El resultado es 100% − 80% = 20%.",
+        "Un punto de diferencia entre rendimientos no equivale a una tasa fiscal de 1%. Ese impuesto reduciría cinco puntos de rendimiento en sólo 0,05 puntos. Para reducirlos en un punto se necesita 20%."
+      ]
+    },
+    {
+      "id": "c30-q070",
+      "tema": "Arbitraje fiscal hipotético",
+      "dificultad": "avanzada",
+      "pregunta": "Si se permitiera deducir intereses de deuda usada para comprar valores exentos, una empresa toma $100.000 al 8% e invierte al 6% exento. Con impuesto de 30%, sin riesgos ni otros costos, ¿cuál sería el resultado anual neto?",
+      "opciones": [
+        "Pérdida de $2.000",
+        "Ganancia de $400",
+        "Ganancia de $2.400",
+        "Pérdida de $400"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La pérdida de $2.000 ignora la deducción hipotética. El costo de intereses después del impuesto sería $8.000 × 0,70 = $5.600. Frente a $6.000 exentos, el saldo sería positivo.",
+        "La inversión genera $6.000 exentos. Los intereses de $8.000 producirían un ahorro fiscal de $2.400, quedando un costo neto de $5.600. La ganancia sería $400 y muestra el incentivo que buscan impedir restricciones a esa deducción.",
+        "$2.400 es sólo el ahorro fiscal. Antes de impuestos la operación pierde $2.000. Combinar esa pérdida con el ahorro deja $400.",
+        "La magnitud es correcta pero el signo está invertido. Los $6.000 recibidos superan los $5.600 de costo neto. El resultado depende expresamente de permitir la deducción hipotética."
+      ]
+    },
+    {
+      "id": "c30-q071",
+      "tema": "Riesgo de precio y vencimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera debe pagar impuestos dentro de tres meses y propone comprar bonos a veinte años para venderlos entonces. ¿Cuál es la objeción principal?",
+      "opciones": [
+        "Siempre está prohibido vender bonos anticipadamente",
+        "Los bonos largos nunca pagan intereses",
+        "El vencimiento tributario cambia con el precio del bono",
+        "Su precio puede caer antes de la venta y dejar fondos insuficientes"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La objeción no es una prohibición general de venta. Muchos bonos se negocian antes de vencer. El problema es el precio incierto al que podrá liquidarse la inversión.",
+        "Los bonos largos pueden pagar cupones. Esos ingresos no eliminan el riesgo de que suban tasas o primas de riesgo y baje el precio. La reserva debe considerar la posibilidad de un faltante.",
+        "La obligación tributaria no se modifica para absorber pérdidas financieras. Si el bono cae, habrá que conseguir fondos adicionales. Es necesario alinear disponibilidad y riesgo con el pago previsto.",
+        "La obligación es cercana y su importe necesita cobertura suficiente. Un bono largo puede perder valor durante esos tres meses. El horizonte corto del inversor no vuelve estable el precio de un activo largo."
+      ]
+    },
+    {
+      "id": "c30-q072",
+      "tema": "Bonos a la vista variables",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué permite que un bono municipal largo a la vista y de tasa variable tenga un precio relativamente estable?",
+      "opciones": [
+        "Cupón fijo y prohibición de vender",
+        "La promesa de que ninguna tasa cambiará",
+        "Rendimiento superior a todos los activos",
+        "Ajuste de tasa y derecho contractual de venta a la par en fechas previstas, sujeto a cumplimiento"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El cupón fijo deja al precio expuesto a cambios de tasas. No poder vender empeora la disponibilidad de fondos. Esa combinación no aporta la estabilidad buscada.",
+        "El mecanismo no requiere tasas invariables. Busca adaptarse cuando cambian. La revisión de pagos y el derecho de salida son sus elementos relevantes.",
+        "No se promete un rendimiento máximo sin riesgo. La ventaja se vincula con estabilidad, disponibilidad y tratamiento fiscal. Esas características pueden justificar una tasa menor.",
+        "El ajuste de interés acerca los pagos a las condiciones de corto plazo. La venta a nominal en fechas pactadas limita la exposición de precio si se cumple el compromiso. Todavía deben revisarse emisor, respaldo de liquidez y condiciones para ejercer el derecho."
+      ]
+    },
+    {
+      "id": "c30-q073",
+      "tema": "Depósitos y certificados",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia importa si se necesita dinero antes del vencimiento de una colocación bancaria?",
+      "opciones": [
+        "Un plazo fijo no tiene fecha de vencimiento",
+        "Todo depósito se negocia libremente en bolsa",
+        "Un certificado negociable elimina el riesgo del banco",
+        "El retiro de un depósito a plazo puede penalizarse; un certificado negociable puede venderse a otro inversor"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El plazo fijo establece una duración. La posible salida anticipada no lo convierte en depósito a la vista. Sus condiciones y penalizaciones deben revisarse.",
+        "La negociabilidad no es automática para todos los depósitos. Incluso existen certificados no negociables. Retirar fondos ante el banco y vender un título a un tercero son operaciones distintas.",
+        "El banco sigue obligado a pagar al vencimiento. La posibilidad de transferir el certificado no elimina su riesgo de crédito. Su solvencia también influye en el precio que ofrecerán otros inversores.",
+        "El depósito compromete fondos por un período y puede penalizar el retiro anticipado. El certificado negociable permite vender el derecho a otro inversor. Esa venta puede tener costos o riesgo de precio y no elimina la exposición al banco."
+      ]
+    },
+    {
+      "id": "c30-q074",
+      "tema": "Papel comercial y mediano plazo",
+      "dificultad": "basica",
+      "pregunta": "En el esquema histórico estudiado, ¿qué descripción del papel comercial y los pagarés de mediano plazo es correcta?",
+      "opciones": [
+        "El Tesoro garantiza todo papel comercial",
+        "Sólo individuos compran papel comercial",
+        "Los pagarés son acciones con voto",
+        "El papel comercial es deuda corporativa corta generalmente sin garantía específica; los pagarés de mediano plazo amplían el horizonte"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El plazo corto no convierte al emisor en el Tesoro. El papel comercial depende normalmente de su solvencia. Su riesgo debe evaluarse aunque el vencimiento sea cercano.",
+        "Las empresas también compran papel comercial para invertir excedentes. Los montos mínimos y la escala influyen en la vía de acceso. No existe exclusividad conceptual para individuos.",
+        "Un pagaré es un instrumento de deuda. No representa por sí mismo participación en el capital ni derecho de voto. Cambiar el plazo no altera esa naturaleza.",
+        "El papel comercial suele ser deuda quirografaria de corto plazo. El esquema presenta un máximo de 270 días y plazos habituales más breves, mientras los pagarés de mediano plazo cubren horizontes mayores. Las compañías financieras pueden colocar directamente y otros emisores recurrir a intermediarios."
+      ]
+    },
+    {
+      "id": "c30-q075",
+      "tema": "Acuerdos de recompra",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa compra títulos a un intermediario por $500.000 y acuerda revenderlos mañana por $500.100. ¿Qué operación y retorno diario describe?",
+      "opciones": [
+        "Compra definitiva de acciones al 2%",
+        "Depósito sin garantía al 0,2%",
+        "Repo inverso para la prestamista, con retorno de 0,02%",
+        "Venta de inventarios con pérdida de $100"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El acuerdo vincula compra y recompra de títulos y funciona como financiación garantizada. No es una compra definitiva de acciones. El retorno es $100/$500.000 = 0,02%.",
+        "Los títulos constituyen respaldo de la operación. Además, 0,2% sobre $500.000 produciría $1.000. La ganancia indicada es $100 y equivale a 0,02%.",
+        "La empresa entrega dinero y recibe títulos con un compromiso de reversión. Desde su posición de prestamista se denomina repo inverso. La ganancia de $100 sobre $500.000 representa 0,0002, es decir, 0,02% diario.",
+        "La empresa recupera más dinero del que desembolsó. No está vendiendo inventarios productivos ni pierde $100. Es una colocación de fondos respaldada por valores."
+      ]
+    },
+    {
+      "id": "c30-q076",
+      "tema": "Haircut y repo abierto",
+      "dificultad": "avanzada",
+      "pregunta": "Se prestan $95.000 contra títulos de valor de mercado $100.000 en un repo. ¿Cómo se interpreta ese margen y qué distingue un repo abierto?",
+      "opciones": [
+        "El prestamista gana automáticamente $5.000",
+        "El repo abierto nunca termina",
+        "La garantía elimina todos los riesgos",
+        "Hay un margen de protección de $5.000; el abierto continúa sin fecha fija hasta el aviso de terminación pactado"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El margen no es rendimiento cobrado. El interés depende del precio de recompra convenido. La diferencia protege frente a variaciones del respaldo.",
+        "Abierto no significa irrevocable o perpetuo. El esquema descrito admite terminarlo con aviso de un día. Permite continuidad sin renegociar un vencimiento diario.",
+        "Los títulos pueden perder valor o ser difíciles de realizar. También puede incumplir la contraparte y haber demoras de liquidación. El respaldo reduce riesgo, pero no lo elimina.",
+        "Los $5.000 representan 5% del valor de mercado del respaldo. Ese haircut deja un colchón frente a caídas de precio. El repo abierto no fija un vencimiento único y finaliza mediante el aviso establecido en el contrato."
+      ]
+    },
+    {
+      "id": "c30-q077",
+      "tema": "Dividendos: supuesto fiscal histórico",
+      "dificultad": "intermedia",
+      "pregunta": "Una sociedad tributa al 35% sobre sólo 30% de los dividendos recibidos, según el supuesto histórico adoptado. Una preferente rinde 8% antes de impuestos. ¿Cuánto queda después de ese impuesto?",
+      "opciones": [
+        "5,20%",
+        "7,16%",
+        "2,40%",
+        "7,72%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 5,20% grava todo el dividendo al 35%. El enunciado sólo incluye 30% en la base imponible. Por eso el impuesto efectivo es 10,5%.",
+        "La tasa efectiva sobre el dividendo es 0,35 × 0,30 = 10,5%. La sociedad conserva 89,5% de lo recibido. El rendimiento neto es 8% × 0,895 = 7,16%, bajo el régimen supuesto.",
+        "El 2,40% es la parte del rendimiento incluida en la base fiscal. No es el retorno neto. Hay que calcular el impuesto sobre esa parte y descontarlo del dividendo total.",
+        "Esta cifra no aplica correctamente ambos porcentajes. Primero se calcula 30% × 35% = 10,5%. Luego se conserva el 89,5% del rendimiento del 8%."
+      ]
+    },
+    {
+      "id": "c30-q078",
+      "tema": "Preferentes flotantes y subastas",
+      "dificultad": "avanzada",
+      "pregunta": "Una sociedad considera preferentes flotantes para invertir excedentes. ¿Qué análisis reconoce sus ventajas y límites?",
+      "opciones": [
+        "La tasa flotante elimina cualquier riesgo",
+        "Todo dividendo es deducible para el emisor como interés",
+        "El ajuste reduce sensibilidad a tasas, pero persisten riesgos; la subasta necesita compradores y no garantiza salida incondicional",
+        "La ventaja fiscal del comprador obliga a todo emisor a preferirlas a deuda"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La flotación puede moderar el efecto de las tasas sobre el precio. No impide cambios de solvencia o primas de riesgo. La inversión no se convierte en efectivo sin riesgo.",
+        "Los dividendos se pagan con utilidades después de impuestos bajo el esquema analizado. No reciben automáticamente el tratamiento de intereses deducibles. Esa diferencia influye en la elección del emisor.",
+        "El ajuste adapta el dividendo a condiciones de mercado y puede reducir sensibilidad a tasas. El precio sigue dependiendo de solvencia y liquidez. La subasta periódica procura facilitar intercambios a un rendimiento actualizado, pero requiere demanda y no equivale a una promesa universal de recompra.",
+        "La posición fiscal del comprador y la del emisor son distintas. Un emisor capaz de aprovechar el escudo de intereses puede preferir deuda. Emisores sin ese beneficio pueden encontrar más atractivas las preferentes."
+      ]
+    },
+    {
+      "id": "c30-q079",
+      "tema": "Venta antes del vencimiento",
+      "dificultad": "avanzada",
+      "pregunta": "Un título sin cupones cuesta $9.800 y se vende un mes después a $9.900, sin otros flujos ni costos. ¿Cuál es el rendimiento efectivamente obtenido durante ese mes?",
+      "opciones": [
+        "2,0408%, usando el nominal final de $10.000",
+        "Aproximadamente 1,0204%, usando ganancia de $100 sobre $9.800",
+        "1%, usando el precio de venta como base",
+        "0%, porque todavía no venció"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El nominal de $10.000 no fue cobrado por quien vendió al mes. El flujo recibido fue $9.900. La ganancia realizada es sólo $100 y no $200.",
+        "El desembolso inicial es $9.800 y el cobro por venta es $9.900. La ganancia realizada de $100 dividida por $9.800 da 1,0204%. No hace falta llegar al vencimiento para obtener un rendimiento por variación de precio.",
+        "El rendimiento se mide sobre el desembolso inicial. Dividir $100 por $9.900 usa una base incorrecta y tampoco produce exactamente 1%. El cálculo pertinente es 100/9.800.",
+        "Un título puede generar un resultado al venderse anticipadamente. La ausencia de cupón no implica ausencia de rendimiento. En este caso la diferencia entre compra y venta produce una ganancia positiva."
+      ]
+    },
+    {
+      "id": "c30-q080",
+      "tema": "Cambio de política y costos incrementales",
+      "dificultad": "avanzada",
+      "pregunta": "Un plan de crédito agrega ventas por $100.000 al año y costos variables por $75.000. También añade $4.000 de incobrables esperados y exige $50.000 de capital adicional al 10% anual. No cambia costos fijos ni otras ventas. ¿Cuál es el beneficio anual incremental?",
+      "opciones": [
+        "$25.000",
+        "$21.000",
+        "$16.000",
+        "$11.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$25.000 es el margen de contribución de ventas nuevas. Todavía hay que deducir incobrables y financiación adicional. Omitirlos sobrevalora el plan.",
+        "$21.000 descuenta los incobrables al margen comercial. Falta el costo anual del capital adicional, de $5.000. El beneficio completo es $16.000.",
+        "Las nuevas ventas dejan $100.000 − $75.000 = $25.000 de contribución. Se restan $4.000 de impagos esperados y $50.000 × 10% = $5.000 de financiación. El beneficio anual incremental es $16.000 sin cargar costos fijos que no cambian.",
+        "Este valor descuenta costos que no se desprenden de los datos. Los costos fijos no cambian y no deben asignarse nuevamente a la decisión. Sólo corresponden $75.000 variables, $4.000 de pérdidas y $5.000 de financiación."
+      ]
+    }
+  ]
+}

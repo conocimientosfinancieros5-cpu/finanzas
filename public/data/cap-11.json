@@ -1331,6 +1331,120 @@
         "Eso anticipa un ahorro fiscal incompatible con el supuesto. Si cambia el inicio de operaciones, debe revisarse el comienzo de depreciación. El calendario fiscal debe ser consistente con el escenario.",
         "La tasa no es una variable para forzar aceptación. Debe representar el costo de oportunidad y el riesgo aplicable. Los problemas de costos y fechas se reflejan en los flujos correspondientes."
       ]
+    },
+    {
+      "id": "c11-q071",
+      "tema": "Costos de cierre y valor de abandono",
+      "dificultad": "intermedia",
+      "pregunta": "Una mina puede vender equipos hoy por $60, pero cerrarla exige pagar $90 de restauración ambiental inmediatamente. Continuar tiene un valor actual neto de −$20, que ya incluye todos los costos futuros, incluso la restauración. ¿Qué decisión tiene mayor valor económico?",
+      "opciones": [
+        "Cerrar porque el valor de abandono es $60.",
+        "Continuar, porque −$20 supera el valor neto de cierre de −$30.",
+        "Cerrar porque cualquier valor de continuación negativo obliga a abandonar.",
+        "Continuar porque las obligaciones ambientales pueden ignorarse."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El precio de los equipos es un ingreso bruto. Para abandonar también hay que desembolsar 90 y el saldo es −30. Comparar solamente 60 con −20 omite una obligación relevante.",
+        "Cerrar genera 60 − 90 = −30 hoy. Continuar vale −20 después de incluir todas sus obligaciones, por lo que pierde 10 menos en valor presente. Un valor de abandono negativo es posible y obliga a comparar alternativas netas completas.",
+        "Un valor negativo no identifica por sí solo la mejor alternativa disponible. Abandonar puede ser todavía más costoso por las obligaciones de cierre. Aquí −20 es superior a −30, de modo que continuar minimiza la pérdida económica.",
+        "La conclusión coincide, pero la justificación es incorrecta. Las obligaciones ambientales son flujos económicos y deben incluirse en ambas estrategias cuando corresponda. En este caso ya están incluidas en el valor de continuar y se pagan inmediatamente si se cierra."
+      ]
+    },
+    {
+      "id": "c11-q072",
+      "tema": "Valor terminal y fecha de los flujos",
+      "dificultad": "avanzada",
+      "pregunta": "En una rama de un árbol, $242 al final del año 2 representan el valor en esa fecha de todos los cobros desde el año 2 en adelante. Además se cobran $22 al final del año 1. Con inversión inicial de $150 y tasa del 10%, sin otros ajustes de riesgo pendientes, ¿cuál es el VPN de esa rama?",
+      "opciones": [
+        "$92.",
+        "$114.",
+        "$70.",
+        "$50."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado trata los 242 como disponibles al final del año 1. Sin embargo, el valor terminal está fechado al final del año 2. Debe descontarse dos períodos, además de descontar un período los 22.",
+        "Esta cifra suma 22 y 242 y resta 150 sin descontar. Los importes pertenecen a fechas diferentes y no pueden agregarse directamente para calcular valor actual. Sus valores presentes son 20 y 200.",
+        "El cobro del año 1 vale 22 / 1,10 = 20 hoy. El valor terminal vale 242 / 1,10² = 200. Restar la inversión inicial da 20 + 200 − 150 = 70, sin agregar otra vez los cobros ya incluidos en el terminal.",
+        "Esta cifra descuenta correctamente el terminal y resta la inversión, pero omite el cobro del año 1. Ese cobro agrega 20 de valor actual. El VPN completo es 70."
+      ]
+    },
+    {
+      "id": "c11-q073",
+      "tema": "Sensibilidad de una inversión de reemplazo",
+      "dificultad": "intermedia",
+      "pregunta": "Una máquina nueva cuesta $600 hoy y reduce el costo por unidad de $8 a $5. Se producirán 100 unidades anuales durante tres años; la máquina vieja no tiene valor de venta. Sin impuestos, rescate ni otros cambios, el factor de anualidad es 2,4. Si el costo nuevo resulta ser $6 en vez de $5, ¿cómo cambia el VPN del reemplazo?",
+      "opciones": [
+        "Pasa de $120 a −$120.",
+        "Pasa de $720 a $480.",
+        "Cae solamente $100.",
+        "No cambia porque los ingresos de ventas son iguales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Con costo nuevo de 5, el ahorro anual es (8 − 5) × 100 = 300 y el VPN es −600 + 300 × 2,4 = 120. Con costo de 6, el ahorro es 200 y el VPN baja a −600 + 200 × 2,4 = −120. La sensibilidad al desempeño técnico cambia la recomendación de inversión.",
+        "Estas cifras son los valores presentes de los ahorros operativos. No descuentan el precio de compra de 600 en el período cero. Para obtener los VPN hay que restar ese desembolso en ambos casos.",
+        "Los 100 son la reducción del ahorro de un solo año. La diferencia se repite durante los tres años de vida y debe valorarse con el factor de anualidad. La caída del VPN es 100 × 2,4 = 240.",
+        "Una inversión de reemplazo puede crear valor sin cambiar las ventas. Su beneficio incremental proviene del ahorro de costos. Si ese ahorro disminuye, también disminuye el VPN."
+      ]
+    },
+    {
+      "id": "c11-q074",
+      "tema": "Crecimiento del valor y momento de invertir",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo certeza, el valor neto de explotar un recurso sería $200 hoy y $216 dentro de un año, medidos cada uno en su propia fecha. Esas son las únicas fechas disponibles y los valores incluyen todas las consecuencias de esperar. Con costo de capital del 10%, ¿qué conviene?",
+      "opciones": [
+        "Esperar porque el valor nominal aumenta $16.",
+        "Esperar porque todo crecimiento positivo compensa el costo de capital.",
+        "Es indiferente porque el recurso sigue siendo el mismo.",
+        "Explotar hoy porque el crecimiento del 8% es inferior al costo de capital."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El aumento nominal no basta para justificar la espera. Durante ese año también existe un costo de oportunidad del capital. Los 216 futuros valen aproximadamente 196,36 hoy, menos que los 200 inmediatos.",
+        "La comparación pertinente es entre la tasa de crecimiento del valor neto y el costo de capital. Aquí el crecimiento es 16 / 200 = 8%. Al ser menor que 10%, esperar reduce el valor actual.",
+        "Poseer el mismo recurso no hace equivalentes todas las fechas. El valor temporal del dinero cambia el aporte actual de cada alternativa. Con los datos dados, explotar hoy agrega aproximadamente 3,64 más de valor.",
+        "El valor neto crece 8%, de 200 a 216. Para compensar un costo de capital del 10% debería llegar al menos a 220 al año siguiente. Como 216 / 1,10 = 196,36, conviene obtener 200 hoy."
+      ]
+    },
+    {
+      "id": "c11-q075",
+      "tema": "Precio de la flexibilidad y doble contabilización",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora recibe un VPN que ya incorpora las decisiones óptimas de expandir o abandonar en cada estado. Un asesor propone sumarle nuevamente una estimación del valor de esas mismas opciones. ¿Qué corresponde hacer?",
+      "opciones": [
+        "Sumarla porque toda opción debe agregarse a cualquier VPN.",
+        "Evitar duplicarla y verificar también que se hayan incluido los costos de adquirir la flexibilidad.",
+        "Restar todas las opciones porque amplían los resultados posibles.",
+        "Aceptar el ajuste solo si las opciones no figuran como activos contables."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La suma separada sirve cuando el valor de partida corresponde a una estrategia sin esa flexibilidad. Si los flujos ya reflejan su ejercicio óptimo, el beneficio está incorporado. Agregarlo otra vez exagera la creación de valor.",
+        "El valor de las opciones puede incorporarse en los flujos adaptados o agregarse a un caso pasivo consistente. Usar ambos procedimientos a la vez para la misma flexibilidad la contabiliza dos veces. Además, una reserva de capacidad o un diseño flexible pueden exigir pagos que deben incluirse en la evaluación.",
+        "Una facultad que puede dejarse sin ejercer no reduce por sí misma el valor bruto de las alternativas disponibles. Otra cuestión es que obtener esa facultad cueste más que su beneficio. Deben compararse beneficios y costos sin descontar arbitrariamente todas las opciones.",
+        "El registro contable no determina si un beneficio económico ya está incluido en los flujos. Una opción no reconocida en el balance puede estar plenamente reflejada en el VPN. La revisión debe seguir el modelo de decisión y sus flujos."
+      ]
+    },
+    {
+      "id": "c11-q076",
+      "tema": "Comparación integral de estrategias flexibles",
+      "dificultad": "avanzada",
+      "pregunta": "Dos plantas cuestan $100 hoy. Al final del año 1, A vale $160 con demanda alta y $40 con baja; B vale $150 y $30 si continúa, pero puede venderse por $70 en cualquier estado. Cada estado tiene probabilidad del 50%; la tasa es 0% y no queda ningún ajuste por riesgo pendiente. ¿Cuál es la mejor elección inicial?",
+      "opciones": [
+        "A, porque su valor de continuación supera al de B en ambos estados.",
+        "Son equivalentes porque requieren la misma inversión.",
+        "B, con VPN de $10 al continuar en alta y vender en baja.",
+        "B, con VPN de $40 al sumar rescate y continuación en baja."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La comparación omite una decisión que B permite tomar después de observar la demanda. En el estado malo, B puede reemplazar un valor de continuación de 30 por un rescate de 70. Esa protección compensa su menor valor operativo en el estado bueno.",
+        "La misma inversión inicial no implica los mismos beneficios futuros. A tiene un valor esperado de 100, mientras que la política óptima de B tiene un valor esperado de 110. Sus VPN son respectivamente 0 y 10.",
+        "Para A, el VPN es −100 + 0,50 × 160 + 0,50 × 40 = 0. Para B, se continúa en alta porque 150 supera 70 y se vende en baja porque 70 supera 30. El VPN es −100 + 0,50 × 150 + 0,50 × 70 = 10, de modo que conviene B.",
+        "Vender y continuar son alternativas excluyentes. Al vender se renuncia al valor de operar, por lo que no se suman 70 y 30 en el estado malo. Además, la estrategia correcta debe ponderar ambos estados antes de restar la inversión."
+      ]
     }
   ]
 }

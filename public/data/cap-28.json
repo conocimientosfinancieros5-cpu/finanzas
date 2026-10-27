@@ -1,0 +1,1374 @@
+{
+  "capitulo": 28,
+  "titulo": "Administración de riesgos internacionales",
+  "preguntas": [
+    {
+      "id": "c28-q001",
+      "tema": "Organización del mercado de divisas",
+      "dificultad": "basica",
+      "pregunta": "¿Cómo accede normalmente una empresa al mercado de divisas?",
+      "opciones": [
+        "Sólo puede operar divisas si exporta bienes.",
+        "Opera mediante un banco en un mercado descentralizado con negociación electrónica.",
+        "Debe acudir físicamente a una única bolsa mundial.",
+        "Sólo puede cambiar monedas mediante el banco central."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las necesidades de divisas también surgen de importaciones, inversiones y financiamiento. Exportar es sólo una fuente posible de demanda u oferta de monedas. El acceso no está condicionado a vender bienes al exterior.",
+        "Los bancos comerciales y de inversión son intermediarios centrales del mercado. Las operaciones se realizan entre participantes conectados electrónicamente. No hace falta un recinto único para negociar.",
+        "Confunde el mercado de divisas con una bolsa centralizada. Los operadores negocian electrónicamente en distintos centros financieros. La empresa suele acceder a través de su banco.",
+        "El banco central puede participar, pero no monopoliza las operaciones. Los bancos comerciales atienden las compras y ventas de sus clientes. La intermediación privada permite realizar pagos internacionales."
+      ]
+    },
+    {
+      "id": "c28-q002",
+      "tema": "Cotizaciones directas e indirectas",
+      "dificultad": "basica",
+      "pregunta": "Desde la perspectiva de una empresa estadounidense, ¿qué representa una cotización de 1,25 USD por EUR?",
+      "opciones": [
+        "Una cotización directa: cada euro cuesta 1,25 dólares.",
+        "Una cotización indirecta: cada dólar compra 1,25 euros.",
+        "Una tasa de interés del euro de 25%.",
+        "Un compromiso de entregar euros dentro de un año."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La cotización directa expresa dólares por unidad de moneda extranjera. Por eso 1 EUR equivale a 1,25 USD. La convención debe leerse antes de multiplicar o dividir.",
+        "La cotización indirecta expresa moneda extranjera por dólar. Para obtenerla hay que invertir 1,25 USD/EUR. El resultado sería 0,80 EUR/USD.",
+        "El tipo de cambio relaciona cantidades de dos monedas. Una tasa de interés relaciona dinero presente con dinero futuro de una misma moneda. El número 1,25 no informa por sí mismo un rendimiento.",
+        "La unidad USD/EUR no determina el vencimiento. Puede describir un precio spot o forward según el contrato. Para identificar una entrega futura hace falta indicar una fecha."
+      ]
+    },
+    {
+      "id": "c28-q003",
+      "tema": "Inversión de cotizaciones",
+      "dificultad": "basica",
+      "pregunta": "Si el spot es 1,25 USD/EUR, ¿cuántos euros se obtienen con USD 8.000, sin comisiones?",
+      "opciones": [
+        "EUR 8.000",
+        "EUR 1.600",
+        "EUR 6.400",
+        "EUR 10.000"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Supone una paridad de uno a uno que no figura en los datos. El euro cuesta más que un dólar. Por eso la cantidad de euros recibida es menor que 8.000.",
+        "Confunde el excedente del precio sobre uno con el precio completo. La conversión utiliza 1,25, no una fracción elegida del tipo de cambio. El importe correcto es 8.000/1,25.",
+        "Cada euro exige pagar 1,25 dólares. Se divide 8.000 por 1,25 y se obtienen 6.400 euros. La comprobación es 6.400 × 1,25 = 8.000 dólares.",
+        "Multiplicar los dólares por USD/EUR invierte el sentido de la conversión. Ese cálculo produce 10.000, pero las unidades no corresponden a euros. Hay que dividir por el precio de cada euro."
+      ]
+    },
+    {
+      "id": "c28-q004",
+      "tema": "Tipo de cambio cruzado",
+      "dificultad": "intermedia",
+      "pregunta": "Un dólar compra 8 coronas o 4 pesos. Sin costos, ¿qué cotización cruzada evita arbitraje?",
+      "opciones": [
+        "4 coronas por peso",
+        "2 coronas por peso",
+        "0,5 coronas por peso",
+        "32 coronas por peso"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Traslada sin conversión la cantidad de pesos por dólar. Una cotización cruzada relaciona directamente las dos monedas extranjeras. Hay que comparar lo que compra un mismo dólar de cada una.",
+        "Con 4 pesos se puede comprar un dólar y luego 8 coronas. Por lo tanto, cada peso equivale a 8/4 = 2 coronas. Una cotización incompatible permitiría triangular monedas para ganar sin riesgo.",
+        "Es el recíproco del tipo pedido. Medio peso por corona sí resulta consistente con los datos. Pero expresado en coronas por peso corresponde usar 2.",
+        "Multiplica cotizaciones que comparten al dólar como denominador. Para obtener coronas por peso se divide 8 coronas/USD por 4 pesos/USD. La división elimina la unidad dólar."
+      ]
+    },
+    {
+      "id": "c28-q005",
+      "tema": "Spot y forward",
+      "dificultad": "basica",
+      "pregunta": "Una empresa pacta hoy comprar euros mediante un forward simple a tres meses. ¿Qué queda fijado y cuándo se intercambian las monedas?",
+      "opciones": [
+        "El precio se fija hoy y las monedas se intercambian al vencimiento.",
+        "El precio se fija dentro de tres meses y las monedas se entregan hoy.",
+        "Hoy se pagan necesariamente todos los euros y se reciben al vencimiento.",
+        "La empresa puede cancelar gratis si el spot resulta más favorable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El forward fija hoy las condiciones de una operación futura. En el contrato simple, la entrega y el pago se realizan al vencimiento. Así se elimina la incertidumbre sobre el precio acordado.",
+        "Invierte la secuencia contractual. Si el precio se fijara recién al vencimiento, no habría protección frente a su variación. La entrega futura distingue al forward de la operación spot.",
+        "Confunde el forward con una compra anticipada financiada. El contrato simple no exige desembolsar hoy el precio completo de la moneda. Pueden existir garantías, pero son diferentes del pago de la compra.",
+        "Confunde una obligación con una opción. Un forward compromete a ambas partes aunque el spot posterior sea mejor. La posibilidad de elegir requiere un instrumento con derecho de ejercicio."
+      ]
+    },
+    {
+      "id": "c28-q006",
+      "tema": "Prima y descuento forward",
+      "dificultad": "intermedia",
+      "pregunta": "El spot es 10 pesos/USD y el forward a tres meses es 10,20 pesos/USD. ¿Cuál es la prima o descuento anualizado simple del peso, usando su precio en dólares?",
+      "opciones": [
+        "Descuento aproximado de 7,84%.",
+        "Prima de 8%.",
+        "Descuento de 2%.",
+        "Prima de 7,84%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio del peso en dólares pasa de 1/10 a 1/10,20. La variación trimestral es 10/10,20 − 1 = −1,9608%. Al multiplicar por cuatro se obtiene un descuento anualizado simple de 7,8431%.",
+        "Calcula el aumento de pesos por dólar y lo atribuye al peso. Que el dólar compre más pesos significa que el peso vale menos. Además, al invertir la cotización la variación porcentual no es exactamente simétrica.",
+        "Aproxima la variación del trimestre pero omite anualizarla. El enunciado pide una tasa anualizada simple. También exige usar el precio en dólares del peso, que cae 1,9608% en el trimestre.",
+        "La magnitud coincide con la anualización, pero el signo está invertido. Cada peso compra menos dólares en el forward que en el spot. Por eso se trata de un descuento del peso."
+      ]
+    },
+    {
+      "id": "c28-q007",
+      "tema": "Forward y futuros",
+      "dificultad": "basica",
+      "pregunta": "Una empresa necesita cubrir un importe y una fecha poco habituales. ¿Qué característica favorece un forward frente a un futuro estandarizado?",
+      "opciones": [
+        "Permite acordar monto, moneda y vencimiento con una contraparte dispuesta.",
+        "Siempre puede cancelarse sin costo antes de vencer.",
+        "Garantiza un tipo mejor que cualquier futuro.",
+        "Obliga a usar exclusivamente importes y fechas definidos por una bolsa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El forward se negocia a medida entre las partes. Esa flexibilidad permite aproximar el contrato a la exposición concreta. Su disponibilidad depende de encontrar una contraparte dispuesta a asumirlo.",
+        "La personalización no elimina el compromiso contractual. Deshacer la posición puede tener un valor favorable o desfavorable. La cancelación gratuita no define a los forwards.",
+        "No existe una superioridad universal de precios por tipo de contrato. Hay que considerar condiciones, vencimientos y costos comparables. La ventaja descrita es la flexibilidad de diseño.",
+        "Describe la estandarización típica de los futuros. Un forward puede adaptarse a una obligación particular. No necesita coincidir con los tamaños y calendarios de una bolsa."
+      ]
+    },
+    {
+      "id": "c28-q008",
+      "tema": "Opciones de divisas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia esencial tiene una opción comprada respecto de un forward?",
+      "opciones": [
+        "Elimina todos los costos sin limitar la ganancia.",
+        "Sólo puede negociarse con condiciones estandarizadas en una bolsa.",
+        "Otorga un derecho de comprar o vender al precio pactado, a cambio de una prima.",
+        "Obliga siempre a entregar la moneda al vencimiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La flexibilidad tiene un costo explícito: la prima. Una opción puede mantener un resultado favorable ante movimientos de la moneda. Eso no significa que la protección sea gratuita.",
+        "También existen opciones de divisas negociadas a medida con bancos. La estandarización corresponde a ciertas opciones bursátiles. La diferencia esencial frente al forward es el derecho de ejercicio.",
+        "El comprador puede ejercer si le conviene según las condiciones contratadas. La prima remunera ese derecho y se paga aunque luego no ejerza. El forward, en cambio, establece una obligación bilateral.",
+        "La obligación de ejecutar el intercambio caracteriza al forward. El comprador de una opción dispone de un derecho de ejercicio. Puede dejarla vencer cuando no resulte conveniente usarla."
+      ]
+    },
+    {
+      "id": "c28-q009",
+      "tema": "Swaps de divisas",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía debe recibir moneda extranjera durante ocho años y no encuentra un forward único apropiado. ¿Qué alternativa contractual puede cubrir una secuencia de flujos?",
+      "opciones": [
+        "Una opción de compra de acciones domésticas asegura la moneda.",
+        "Un swap de divisas que acuerde intercambios a lo largo del tiempo.",
+        "Una compra spot única elimina por sí sola todos los riesgos futuros.",
+        "Un futuro corto sin renovaciones cubre automáticamente los ocho años."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La acción doméstica no entrega por contrato la moneda necesaria. Su precio depende de riesgos diferentes al tipo de cambio que interesa. No constituye una cobertura contractual de esos cobros.",
+        "Un swap de divisas puede entenderse como una combinación de intercambios forward. Permite organizar pagos en distintas monedas durante varios períodos. Deben compatibilizarse sus montos y fechas con los flujos que se quieren cubrir.",
+        "Una compra spot convierte dinero disponible hoy. No fija automáticamente la conversión de cobros futuros aún no recibidos. Para lograr cobertura se necesita además estructurar financiamiento o contratos futuros adecuados.",
+        "Un contrato de vencimiento corto sólo determina sus propios intercambios. Extenderlo exige nuevas operaciones con precios todavía desconocidos. Por eso no asegura automáticamente una tasa para ocho años."
+      ]
+    },
+    {
+      "id": "c28-q010",
+      "tema": "Cuadrilátero de relaciones internacionales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Bajo qué conjunto de supuestos pueden coincidir las relaciones exactas entre tasas nominales, inflación esperada, forward y spot esperado?",
+      "opciones": [
+        "Sólo con que todas las monedas tengan el mismo nombre.",
+        "Siempre, aunque haya controles de capital y primas de riesgo variables.",
+        "Sólo si las inflaciones realizadas son necesariamente cero.",
+        "Mercados integrados sin barreras ni costos relevantes y sin primas por riesgo cambiario, junto con paridad de poder adquisitivo esperada."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El nombre de una moneda no determina su rendimiento ni su poder de compra. Las relaciones requieren hipótesis económicas sobre mercados y riesgos. Cambiar denominaciones no elimina barreras ni primas.",
+        "Los controles pueden impedir arbitrajes y la prima de riesgo separa forward de spot esperado. Por eso las igualdades no son identidades universales. Deben verificarse los supuestos de cada relación.",
+        "Las relaciones admiten tasas positivas o negativas de inflación. Lo relevante es comparar los factores de crecimiento de precios entre países. No exigen una inflación realizada nula.",
+        "La ausencia de arbitraje vincula tasas y forward. Para igualar además el forward al spot esperado se necesita excluir una prima por riesgo. La paridad adquisitiva esperada conecta los tipos de cambio con las inflaciones y permite cerrar el sistema."
+      ]
+    },
+    {
+      "id": "c28-q011",
+      "tema": "Paridad cubierta de tasas",
+      "dificultad": "intermedia",
+      "pregunta": "Definí S y F como pesos por dólar, y rP y rD como tasas del mismo plazo. Sin fricciones, ¿qué igualdad expresa la paridad cubierta?",
+      "opciones": [
+        "F/S = rP/rD.",
+        "F/S = (1 + rP)/(1 + rD).",
+        "F/S = (1 + rD)/(1 + rP).",
+        "F = S + rP + rD."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Omite el principal de ambas inversiones. Los rendimientos totales son uno más la tasa correspondiente. Dividir sólo las tasas produciría resultados absurdos incluso cuando una de ellas fuera cero.",
+        "Un dólar invertido localmente produce 1 + rD dólares. Convertido a pesos e invertido produce S(1 + rP), que al venderse forward entrega S(1 + rP)/F dólares. Igualar ambos resultados lleva a la relación indicada.",
+        "Invierte el diferencial de tasas para la cotización definida. Si la tasa del peso es mayor, el forward debe indicar más pesos por dólar. El cociente correcto coloca el factor de pesos en el numerador.",
+        "Suma magnitudes con unidades incompatibles. Los tipos de cambio se relacionan mediante factores de capitalización, no mediante una suma de tasas. La igualdad debe surgir de comparar estrategias con el mismo desembolso."
+      ]
+    },
+    {
+      "id": "c28-q012",
+      "tema": "Cálculo del forward de equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "S = 20 pesos/USD, rP = 8% y rD = 4%, ambas efectivas anuales. ¿Cuál es F a un año por paridad cubierta?",
+      "opciones": [
+        "20,8000 pesos/USD",
+        "21,6000 pesos/USD",
+        "20,7692 pesos/USD",
+        "19,2593 pesos/USD"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Usa la diferencia de tasas como si fuera exacta. El 4% es una aproximación al diferencial entre factores. La relación exacta divide por 1,04 y da un aumento de 3,8462%.",
+        "Capitaliza únicamente a la tasa del peso. Omite el rendimiento alternativo de invertir dólares. La comparación de estrategias exige incluir las dos tasas.",
+        "Se calcula F = 20 × 1,08/1,04. El resultado es 20,7692308 pesos por dólar. La tasa mayor en pesos queda compensada por su descuento forward.",
+        "Invierte los factores de interés. Ese cálculo daría una apreciación forward del peso pese a su mayor tasa. Con la cotización pesos/USD corresponde multiplicar por 1,08/1,04."
+      ]
+    },
+    {
+      "id": "c28-q013",
+      "tema": "Rendimiento extranjero cubierto",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten USD 10.000 en pesos con S = 10 pesos/USD, tasa del peso de 10% anual y F = 11 pesos/USD a un año. ¿Cuántos dólares se reciben si se venden forward todos los pesos finales?",
+      "opciones": [
+        "USD 11.000",
+        "USD 12.100",
+        "USD 9.090,91",
+        "USD 10.000"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sólo aplica el interés extranjero al capital en dólares. Ignora que el peso se vende a un precio menor en dólares. El rendimiento debe incorporar ambos movimientos.",
+        "Multiplica dos factores que deberían compensarse mediante una división. La inversión gana pesos, pero el forward exige más pesos por dólar. La conversión final se realiza dividiendo 110.000 por 11.",
+        "Convierte los pesos iniciales al forward y olvida sus intereses. La cantidad final es 110.000 pesos, no 100.000. La cobertura se contrata sobre el valor al vencimiento.",
+        "Los 10.000 dólares compran 100.000 pesos. Al 10% se transforman en 110.000 pesos al vencimiento. Venderlos a 11 pesos por dólar entrega 110.000/11 = 10.000 dólares."
+      ]
+    },
+    {
+      "id": "c28-q014",
+      "tema": "Arbitraje cubierto",
+      "dificultad": "avanzada",
+      "pregunta": "S = 10 pesos/USD, rP = 10%, rD = 5% y F = 10 pesos/USD a un año. Se pueden prestar y tomar prestado a esas tasas sin costos. ¿Qué estrategia produce ganancia segura por cada USD 100 prestados?",
+      "opciones": [
+        "Comprar pesos sin cobertura garantiza USD 5.",
+        "Invertir dólares sin endeudarse genera una ganancia de arbitraje de USD 10.",
+        "Pedir USD 100, invertir los pesos obtenidos y vender forward los 1.100 pesos finales: quedan USD 5.",
+        "Pedir pesos, invertir en dólares y comprar pesos forward: quedan USD 5."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sin venta forward se desconoce el valor final en dólares. Una depreciación del peso puede absorber la diferencia de intereses. El arbitraje exige eliminar ese riesgo.",
+        "Una inversión con capital propio no es la estrategia autofinanciada descrita. Además, USD 100 al 5% generan USD 5 de interés. El arbitraje surge de la inconsistencia entre ambas tasas y el forward.",
+        "El préstamo de USD 100 se convierte en 1.000 pesos. La inversión produce 1.100 pesos y el forward los transforma en USD 110. Al cancelar USD 105 de deuda quedan USD 5 sin desembolso inicial neto.",
+        "La dirección está invertida. Pedir 1.000 pesos exige devolver 1.100, mientras los USD 100 invertidos sólo producen USD 105 y compran 1.050 pesos forward. Esa estrategia pierde 50 pesos."
+      ]
+    },
+    {
+      "id": "c28-q015",
+      "tema": "Tasas por períodos y capitalización",
+      "dificultad": "avanzada",
+      "pregunta": "S = 12 pesos/USD; las tasas efectivas anuales son 21% en pesos y 10,25% en dólares. ¿Qué F a seis meses es consistente con capitalización compuesta?",
+      "opciones": [
+        "11,4545 pesos/USD",
+        "12,5714 pesos/USD",
+        "13,1701 pesos/USD",
+        "12,6450 pesos/USD"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Invierte la razón de factores semestrales. La mayor tasa en pesos implica más pesos por dólar forward. El valor debe ser superior a 12 bajo estos datos.",
+        "Los factores semestrales son raíz de 1,21 = 1,10 y raíz de 1,1025 = 1,05. Por paridad, F = 12 × 1,10/1,05. Se obtiene 12,5714286 pesos por dólar.",
+        "Usa los factores de todo un año para un contrato semestral. El plazo de las tasas debe coincidir con el del forward. Hay que obtener primero las raíces cuadradas de los factores anuales.",
+        "Divide aproximadamente las tasas anuales por dos y luego usa una diferencia lineal. Eso no respeta que las tasas dadas son efectivas anuales. Los factores exactos semestrales son 1,10 y 1,05."
+      ]
+    },
+    {
+      "id": "c28-q016",
+      "tema": "Solidez de las relaciones y fricciones",
+      "dificultad": "intermedia",
+      "pregunta": "Un director observa una pequeña diferencia entre el rendimiento local y el extranjero cubierto. ¿Qué conviene comprobar antes de llamarla arbitraje aprovechable?",
+      "opciones": [
+        "Que el tipo de cambio real nunca haya variado.",
+        "Que coincidan plazos y riesgos, y que el margen sobreviva a spreads, costos y restricciones de capital.",
+        "Que el país extranjero tenga inflación histórica más alta.",
+        "Que el forward coincida exactamente con el spot futuro realizado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La estabilidad del cambio real pertenece a la discusión de poder adquisitivo. La paridad cubierta se apoya en transacciones financieras replicables. No requiere que los precios relativos de bienes permanezcan constantes.",
+        "La paridad cubierta compara estrategias realmente equivalentes. Los precios de compra y venta, el financiamiento y las restricciones pueden consumir una aparente ganancia. Sólo un margen ejecutable después de esos ajustes sería una oportunidad.",
+        "La inflación histórica no demuestra que una estrategia cubierta sea ejecutable. El arbitraje se evalúa con precios y tasas disponibles para el mismo plazo. También deben considerarse los costos efectivos de operar.",
+        "La cobertura fija el intercambio futuro sin depender del spot realizado. Una diferencia entre forward y spot futuro no invalida por sí sola la paridad de tasas. Exigir esa coincidencia confunde arbitraje con pronóstico."
+      ]
+    },
+    {
+      "id": "c28-q017",
+      "tema": "Teoría de las expectativas",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirma la teoría de las expectativas del tipo de cambio forward cuando no hay prima por riesgo?",
+      "opciones": [
+        "El forward es igual al spot esperado para su vencimiento.",
+        "El forward será necesariamente el spot que se observe al vencimiento.",
+        "El forward siempre coincide con el spot de hoy.",
+        "La moneda con mayor tasa se apreciará con certeza."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La teoría iguala el precio forward al valor esperado del spot futuro. Se trata de una expectativa, no de una certeza sobre el resultado. Con prima por riesgo, esa igualdad puede dejar de cumplirse.",
+        "Confunde una esperanza con una realización. El spot futuro puede quedar por encima o por debajo del valor esperado. La incertidumbre cambiaria no desaparece porque exista un pronóstico.",
+        "El spot actual y el forward pueden diferir por el diferencial de tasas. La teoría se refiere al spot esperado a la fecha de entrega. No impone que el tipo de cambio esperado permanezca constante.",
+        "Una tasa nominal alta no garantiza apreciación. Bajo las relaciones simplificadas suele asociarse con una depreciación esperada que compensa ese mayor interés. Ninguno de esos movimientos futuros es seguro."
+      ]
+    },
+    {
+      "id": "c28-q018",
+      "tema": "Spot esperado bajo expectativas",
+      "dificultad": "basica",
+      "pregunta": "El spot es 15 pesos/USD y el forward anual es 15,60 pesos/USD. Bajo la teoría de las expectativas, ¿cuál es el aumento esperado de la cotización pesos/USD?",
+      "opciones": [
+        "−4%",
+        "0,60%",
+        "15,60%",
+        "4%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El signo contradice el aumento de la cotización. Si se necesitan más pesos para comprar un dólar, la cifra pesos/USD sube. La caída del valor del peso en dólares es un porcentaje distinto.",
+        "Confunde una diferencia de 0,60 pesos/USD con un porcentaje. Para calcular una variación relativa hay que dividirla por el valor inicial de 15. El resultado es 4%.",
+        "Usa el nivel de la cotización como si fuera una tasa. Una cantidad de pesos por dólar no es un porcentaje. La variación depende de la relación entre el valor futuro y el inicial.",
+        "Se toma el forward como spot esperado al vencimiento. La variación es 15,60/15 − 1 = 0,04. Eso representa un aumento de 4% de pesos por dólar, no una apreciación del peso."
+      ]
+    },
+    {
+      "id": "c28-q019",
+      "tema": "Prima de riesgo cambiario",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué pueden diferir el forward y el spot esperado aun cuando se cumpla la paridad cubierta de tasas?",
+      "opciones": [
+        "Porque todo forward es una predicción infalible.",
+        "Porque el interés del depósito extranjero deja de existir al cubrirlo.",
+        "Porque asumir exposición cambiaria puede requerir una compensación por riesgo.",
+        "Porque la paridad cubierta obliga a que todas las monedas se negocien uno a uno."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un forward es un precio contractual y no una certeza sobre el mercado futuro. La aversión al riesgo puede desplazarlo respecto del spot esperado. No se necesita una falla de arbitraje para que difieran.",
+        "El depósito extranjero sigue devengando su interés. La cobertura fija la conversión de su resultado a otra moneda. Confundir ambos mecanismos impide distinguir retorno local y riesgo cambiario.",
+        "La paridad cubierta compara rendimientos con conversión futura asegurada. El spot esperado corresponde a una posición cuyo resultado cambiario sigue siendo incierto. Una prima por ese riesgo puede separar ambos precios sin generar arbitraje cubierto.",
+        "La paridad se refiere a factores de rendimiento, no a igualar unidades monetarias. Los niveles del tipo de cambio pueden ser muy distintos de uno. Esa diversidad no explica por sí sola la prima de riesgo."
+      ]
+    },
+    {
+      "id": "c28-q020",
+      "tema": "Evidencia sobre forwards",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué lectura prudente permite la evidencia histórica sobre forward y spot futuro presentada en el capítulo?",
+      "opciones": [
+        "Si hubo un error el año pasado, el próximo debe tener signo opuesto.",
+        "Los forwards pueden exagerar movimientos y sus errores cambian de signo; no son pronósticos seguros.",
+        "Todo descuento forward termina en una depreciación exactamente igual.",
+        "Un error promedio pequeño implica errores individuales pequeños."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No existe una compensación obligatoria período por período. Que una serie contenga errores de ambos signos no determina el próximo. Esa regla de alternancia no surge de la evidencia.",
+        "Un promedio puede ocultar desviaciones importantes en cada período. La evidencia permite primas variables y errores tanto positivos como negativos. Por eso no se debe tratar al forward como una garantía sobre el spot futuro.",
+        "Traslada una relación contractual a una predicción cierta. El spot realizado puede diferir sustancialmente del forward. La evidencia cuestiona precisamente esa interpretación mecánica.",
+        "Los errores positivos y negativos grandes pueden cancelarse en el promedio. La dispersión sigue generando riesgo para una empresa en una fecha determinada. Hay que distinguir sesgo promedio y precisión de cada pronóstico."
+      ]
+    },
+    {
+      "id": "c28-q021",
+      "tema": "Ley de un solo precio",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue la ley de un solo precio de la paridad del poder adquisitivo?",
+      "opciones": [
+        "La primera requiere dos monedas y la segunda prohíbe compararlas.",
+        "La primera se aplica a un bien comparable y la segunda al poder de compra de una canasta o nivel de precios.",
+        "La primera trata sólo tasas de interés y la segunda sólo bonos.",
+        "Ambas garantizan precios idénticos sin importar transporte o barreras."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ambas relaciones permiten comparar precios entre monedas. La conversión cambiaria es parte del análisis. La diferencia está en comparar un bien o un agregado de bienes.",
+        "La ley de un solo precio analiza un artículo homogéneo convertido a una moneda común. La paridad adquisitiva extiende la idea al nivel de precios de los bienes. Las fricciones y los bienes no transables limitan su cumplimiento estricto.",
+        "Las tasas de interés pertenecen a otra relación de paridad. Aquí se comparan precios de bienes y poder de compra. No se trata de una teoría restringida a bonos.",
+        "El transporte, los aranceles y otras barreras pueden impedir arbitrar diferencias. La igualdad estricta depende de supuestos exigentes. No corresponde afirmar que se cumple cualquiera sea el costo."
+      ]
+    },
+    {
+      "id": "c28-q022",
+      "tema": "Arbitraje de bienes",
+      "dificultad": "intermedia",
+      "pregunta": "Un metal homogéneo cuesta 180 pesos por unidad en A y USD 20 en B; S = 10 pesos/USD. Transportarlo de A a B cuesta USD 1 por unidad y no hay otros costos. ¿Qué margen deja comprar en A y vender en B?",
+      "opciones": [
+        "USD 2 por unidad",
+        "USD 19 por unidad",
+        "Pérdida de USD 1 por unidad",
+        "USD 1 por unidad"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Resta el precio convertido del precio de venta, pero omite el transporte. La diferencia bruta es USD 2. El margen neto debe descontar el costo adicional de USD 1.",
+        "Confunde costo total con ganancia. USD 19 es lo que cuesta adquirir y llevar el metal. La utilidad se obtiene restándolo de los USD 20 cobrados.",
+        "Invierte el signo del margen. Comprar y transportar cuesta menos que el precio de venta. Con los supuestos dados, el resultado es positivo y tendería a atraer arbitrajistas.",
+        "El costo en A convertido a dólares es 180/10 = 18. Al agregar USD 1 de transporte, el costo total llega a USD 19. La venta a USD 20 deja USD 1 por unidad."
+      ]
+    },
+    {
+      "id": "c28-q023",
+      "tema": "Límites de la paridad adquisitiva",
+      "dificultad": "basica",
+      "pregunta": "Una hamburguesa cuesta mucho más en dólares en un país que en otro. ¿Por qué eso no demuestra una ganancia de arbitraje sencilla?",
+      "opciones": [
+        "Las diferencias de precios prueban que no existe ningún mercado de divisas.",
+        "La cotización debe ajustarse instantáneamente hasta igualar cualquier precio minorista.",
+        "Siempre se puede importar el servicio de preparación sin costo.",
+        "El producto incluye servicios locales y trasladarlo puede ser caro o inviable."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un mercado de divisas puede coexistir con precios minoristas distintos. Las fricciones del comercio de bienes permiten esas diferencias. El dato no prueba que falte negociación de monedas.",
+        "Los tipos de cambio no garantizan la igualdad de todos los precios individuales. Los costos locales y las restricciones importan. La paridad adquisitiva es una referencia más útil a largo plazo que una identidad de cada precio.",
+        "Los servicios locales no se trasladan del mismo modo que un metal homogéneo. Preparación, ubicación y consumo inmediato forman parte del producto. Ignorarlos crea una ganancia aparente que puede no ser realizable.",
+        "El precio incorpora alquileres, trabajo y otros componentes locales. Además, transportar un producto preparado puede deteriorarlo o resultar costoso. Por eso la comparación es ilustrativa, pero no garantiza una operación rentable."
+      ]
+    },
+    {
+      "id": "c28-q024",
+      "tema": "Paridad adquisitiva relativa",
+      "dificultad": "intermedia",
+      "pregunta": "S = 20 pesos/USD. La inflación esperada anual es 10% en pesos y 5% en dólares. Según la paridad adquisitiva relativa, ¿cuál es el spot esperado dentro de un año?",
+      "opciones": [
+        "21 pesos/USD",
+        "22 pesos/USD",
+        "20,9524 pesos/USD",
+        "19,0909 pesos/USD"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Usa la resta de inflaciones como igualdad exacta. Cinco puntos porcentuales sirven como aproximación cuando las tasas son pequeñas. La fórmula exacta produce un aumento de 4,7619% de la cotización.",
+        "Considera sólo la inflación en pesos. El poder de compra del dólar también cambia con su inflación de 5%. La comparación requiere ambos factores.",
+        "El factor esperado de cambio es 1,10/1,05. Multiplicar 20 por ese cociente da 20,952381 pesos por dólar. La inflación mayor en pesos se compensa con una depreciación esperada del peso.",
+        "Invierte el cociente de inflaciones. Eso implicaría que el peso se fortalece pese a su mayor pérdida de poder adquisitivo. Para una cotización pesos/USD, la inflación del peso va en el numerador."
+      ]
+    },
+    {
+      "id": "c28-q025",
+      "tema": "Tipo de cambio real",
+      "dificultad": "intermedia",
+      "pregunta": "El precio del euro cae de 1,20 a 1,10 USD/EUR; los precios europeos suben 10% y los estadounidenses no cambian. Tomando el período inicial como base, ¿cuál es la variación del valor real del euro?",
+      "opciones": [
+        "Caída de aproximadamente 8,33%.",
+        "Aumento de 10%.",
+        "Caída de aproximadamente 16,67%.",
+        "Aumento de aproximadamente 0,83%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sólo calcula 1,10/1,20 − 1. Esa es la depreciación nominal. Para el cambio real hay que incorporar los precios relativos europeos y estadounidenses.",
+        "Toma la inflación europea como si fuera todo el cambio real. Omite que el euro perdió valor nominal frente al dólar. Los dos efectos se combinan multiplicativamente.",
+        "Ajusta los precios en el sentido equivocado y sobredimensiona la pérdida. Con USD/EUR se multiplica por el factor de precios europeos relativo al estadounidense. La inflación europea casi compensa la caída nominal del euro.",
+        "El precio final ajustado es 1,10 × 1,10/1 = 1,21. Comparado con el valor inicial de 1,20, el cociente es 1,008333. El euro se deprecia nominalmente, pero se aprecia en términos reales alrededor de 0,83%."
+      ]
+    },
+    {
+      "id": "c28-q026",
+      "tema": "Evidencia de largo plazo sobre inflación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conclusión es compatible con observar grandes depreciaciones nominales en países con mucha inflación?",
+      "opciones": [
+        "Una moneda que pierde poder de compra siempre mantiene fijo su precio externo.",
+        "Las diferencias persistentes de inflación suelen reflejarse en el cambio nominal, aunque el cambio real puede variar.",
+        "La paridad adquisitiva se cumple exactamente todos los días.",
+        "El tipo de cambio real nunca puede sufrir saltos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Mantener fijo el cambio nominal frente a inflación diferencial altera precios relativos. Eso puede erosionar la competitividad de los productores locales. La experiencia muestra que el ajuste nominal suele acompañar diferencias grandes de inflación.",
+        "Una inflación relativamente alta tiende a acompañarse de pérdida de valor externo de la moneda. La relación es útil para horizontes largos sin ser exacta. Desajustes reales pueden afectar competitividad durante períodos importantes.",
+        "Una relación de largo plazo no implica igualdad diaria. La evidencia admite desvíos y movimientos reales relevantes. Los precios de bienes y los mercados financieros no se ajustan con idéntica velocidad.",
+        "El capítulo destaca que los tipos reales pueden cambiar incluso bruscamente. Ajustar por inflación no elimina toda variación económica. La estabilidad aproximada de largo plazo no garantiza una trayectoria plana."
+      ]
+    },
+    {
+      "id": "c28-q027",
+      "tema": "Tasa real y efecto Fisher",
+      "dificultad": "basica",
+      "pregunta": "La tasa nominal anual es 8,12% y la inflación esperada es 6%. ¿Cuál es la tasa real esperada usando la relación exacta de Fisher?",
+      "opciones": [
+        "7,66%",
+        "2%",
+        "2,12%",
+        "14,12%"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Divide únicamente la tasa nominal por el factor de inflación. La relación exacta debe dividir todo el factor 1 + r. Después de esa división se resta uno.",
+        "El factor real es 1,0812/1,06 = 1,02. Restar uno da una tasa real de 2%. El cálculo mide cuánto aumenta el poder de compra, no sólo el saldo monetario.",
+        "Resta directamente inflación de interés nominal. Esa resta es una aproximación que omite el término compuesto. Con estos datos, el cociente exacto produce 2%.",
+        "Suma tasas que deben compensarse para medir poder de compra. La inflación reduce el valor real del rendimiento nominal. Por eso se divide por el factor de precios."
+      ]
+    },
+    {
+      "id": "c28-q028",
+      "tema": "Efecto internacional Fisher",
+      "dificultad": "intermedia",
+      "pregunta": "Si ambos países tienen una tasa real esperada de 3%, con inflación esperada de 10% en A y 2% en B, ¿qué tasas nominales son coherentes con Fisher?",
+      "opciones": [
+        "7% en A y 1% en B.",
+        "13,30% en A y 5,06% en B.",
+        "13% en A y 5% en B, exactamente.",
+        "3% en ambos países."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Resta la tasa real de la inflación en vez de capitalizar ambos factores. El rendimiento nominal debe compensar inflación y además aportar retorno real. La fórmula correcta multiplica 1,03 por el factor de precios.",
+        "Se usa 1 + r nominal = (1 + r real)(1 + inflación esperada). En A, 1,03 × 1,10 − 1 = 13,30%. En B, 1,03 × 1,02 − 1 = 5,06%.",
+        "Suma tasa real e inflación y omite su producto. Esa aproximación puede ser útil, pero no es exacta. Los factores compuestos dan 13,30% y 5,06%.",
+        "Iguala tasas nominales porque las reales son iguales. Una inflación diferente exige compensación monetaria diferente. Lo igualado es el aumento esperado del poder de compra."
+      ]
+    },
+    {
+      "id": "c28-q029",
+      "tema": "Comparación de tasas reales",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera observa tasas nominales muy diferentes entre países. ¿Qué precaución corresponde al evaluar si también difieren los rendimientos reales esperados?",
+      "opciones": [
+        "Restar siempre la inflación del último año como si fuera conocida para el próximo.",
+        "Suponer que integración financiera elimina cualquier diferencia real posible.",
+        "Estimar inflación esperada y considerar impuestos y regulación; la inflación realizada no es idéntica a la esperada.",
+        "Comparar únicamente las tasas nominales publicadas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La inflación pasada es información, pero no equivale automáticamente a la expectativa futura. Usarla sin análisis puede distorsionar la comparación real. Las decisiones actuales dependen de lo esperado para el plazo de inversión.",
+        "La igualdad real es una referencia bajo supuestos de integración. Regulación, impuestos y otras fricciones pueden impedirla. No corresponde convertir una hipótesis simplificada en una garantía universal.",
+        "El retorno real esperado depende de la inflación futura que los inversores anticipan. Esa expectativa no se observa directamente y puede diferir de la inflación realizada. Los impuestos y las restricciones también pueden sostener diferencias entre países.",
+        "Una tasa nominal alta puede limitarse a compensar inflación alta. Comparar sólo esas tasas confunde aumento del dinero con aumento del poder de compra. Hace falta ajustar por inflación esperada y condiciones de mercado."
+      ]
+    },
+    {
+      "id": "c28-q030",
+      "tema": "Cobertura de cuentas por cobrar",
+      "dificultad": "basica",
+      "pregunta": "Una exportadora estadounidense cobrará EUR 200.000 dentro de seis meses y quiere fijar los dólares que recibirá. ¿Qué operación directa corresponde?",
+      "opciones": [
+        "Comprar EUR 200.000 forward a seis meses.",
+        "Vender dólares spot sin tener una posición compensatoria.",
+        "Comprar más euros sin vender los cobros futuros.",
+        "Vender EUR 200.000 forward a seis meses."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Comprar euros suma una obligación de adquirir la moneda que ya se recibirá. Eso aumenta la posición larga en euros en lugar de neutralizarla. La cobertura del cobro consiste en venderlos forward.",
+        "Vender dólares spot no asegura por sí solo la conversión del cobro futuro. Falta estructurar la posición completa y su financiamiento. El forward de venta vincula directamente los euros a cobrar con los dólares a recibir.",
+        "Acumular más euros amplía la exposición a su caída. La cobertura busca una posición que gane cuando el cobro pierde valor en dólares. Una venta forward ofrece esa compensación.",
+        "La exportadora ya tiene una entrada futura de euros. Vender esa misma cantidad forward fija su conversión a dólares. Las fechas y los importes deben coincidir con el cobro previsto."
+      ]
+    },
+    {
+      "id": "c28-q031",
+      "tema": "Cobertura de pagos futuros",
+      "dificultad": "basica",
+      "pregunta": "Una importadora estadounidense debe pagar EUR 300.000 en un año. ¿Qué operación fija el costo en dólares sin comprar hoy los euros?",
+      "opciones": [
+        "Pedir euros prestados y venderlos spot, sin conservar euros ni otra cobertura.",
+        "Comprar EUR 300.000 forward a un año.",
+        "Vender EUR 300.000 forward a un año.",
+        "Vender una opción de compra de euros y asumir su obligación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deuda financiera en euros añade otro pago futuro en la misma moneda. Si los euros prestados se venden y no se establece otra compensación, la obligación queda mayor. Una cobertura monetaria del pago requiere comprar e invertir euros, no venderlos.",
+        "La empresa necesita recibir euros cuando venza su deuda comercial. Comprarlos forward fija desde hoy cuántos dólares entregará entonces. De ese modo se protege de una apreciación del euro.",
+        "Vender euros agrega una entrega futura a la obligación comercial existente. La compañía necesitaría todavía más euros al vencimiento. Esa posición aumenta el riesgo que se pretende cubrir.",
+        "La opción vendida puede obligar a entregar euros precisamente cuando se encarecen. La prima cobrada no asegura disponer del importe necesario a costo fijo. Para cubrir un pago se necesita una posición que aporte euros o compense su apreciación."
+      ]
+    },
+    {
+      "id": "c28-q032",
+      "tema": "Ingreso forward asegurado",
+      "dificultad": "intermedia",
+      "pregunta": "Una exportadora cobrará EUR 500.000 y los vende forward a 1,16 USD/EUR. Al vencimiento el spot es 1,10 USD/EUR. ¿Cuál es su ingreso total en dólares por el cobro y la cobertura, sin costos?",
+      "opciones": [
+        "USD 550.000",
+        "USD 610.000",
+        "USD 30.000",
+        "USD 580.000"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Calcula sólo el valor del cobro al spot. Omite el efecto de la venta forward. Al sumar la cobertura, el resultado queda fijado en USD 580.000.",
+        "Agrega la ganancia del forward a un ingreso ya calculado al precio forward. Eso cuenta dos veces la compensación. Se puede usar el valor spot más la ganancia o directamente el importe forward.",
+        "Es únicamente el beneficio del derivado frente al spot. El enunciado pide también incluir el cobro de la exportación. El resultado conjunto es USD 550.000 + USD 30.000.",
+        "El importe queda fijado en 500.000 × 1,16 = USD 580.000. Sin cobertura, el cobro valdría USD 550.000 al spot. La ganancia de USD 30.000 del forward compensa esa diferencia, sin duplicar el ingreso."
+      ]
+    },
+    {
+      "id": "c28-q033",
+      "tema": "Cobertura monetaria de un cobro",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa cobrará EUR 110.000 en un año. La tasa de endeudamiento en euros es 10%, el spot es 1,20 USD/EUR y la tasa de inversión en dólares es 5%. ¿Qué monto final asegura tomando prestado hoy el valor presente del cobro, convirtiéndolo e invirtiéndolo?",
+      "opciones": [
+        "USD 120.000",
+        "USD 126.000",
+        "USD 132.000",
+        "USD 138.600"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Es el dinero disponible hoy después de convertir el préstamo. Falta capitalizarlo al 5% en dólares durante un año. El monto final asegurado es USD 126.000.",
+        "Pide prestados 110.000/1,10 = EUR 100.000, cuya deuda final coincide con el cobro. Los vende hoy por USD 120.000. Al invertirlos al 5% obtiene USD 126.000 dentro de un año.",
+        "Convierte el cobro futuro al spot actual sin ajustar el momento. Para construir la cobertura se pueden pedir hoy sólo EUR 100.000 contra ese cobro. Luego debe incorporarse el interés que generan los dólares.",
+        "Pide el importe nominal futuro completo y olvida que generaría una deuda superior al cobro. La cobertura debe partir del valor presente en euros. De otro modo quedarían EUR 11.000 adicionales por devolver."
+      ]
+    },
+    {
+      "id": "c28-q034",
+      "tema": "Cobertura monetaria de un pago",
+      "dificultad": "intermedia",
+      "pregunta": "Se deben pagar EUR 105.000 en un año. La tasa de inversión en euros es 5% y el spot es 1,20 USD/EUR. ¿Cuántos dólares hacen falta hoy para comprar e invertir los euros que cubrirán exactamente el pago?",
+      "opciones": [
+        "USD 120.000",
+        "USD 126.000",
+        "USD 132.300",
+        "USD 100.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor presente del pago es 105.000/1,05 = EUR 100.000. Comprarlos hoy cuesta 100.000 × 1,20 = USD 120.000. La inversión en euros crecerá hasta el importe exacto del pasivo.",
+        "Compra hoy todos los euros nominales del vencimiento. Al invertirlos quedarían más euros que los necesarios. Se debe descontar primero el pago a la tasa en euros.",
+        "Capitaliza el pago futuro en lugar de descontarlo. Para financiar un importe conocido a un año se necesita su valor presente. Después se convierte ese valor al spot actual.",
+        "Obtiene correctamente el valor presente numérico en euros, pero cambia la etiqueta a dólares. El spot exige USD 1,20 por cada euro. Por eso el desembolso en dólares es 120.000."
+      ]
+    },
+    {
+      "id": "c28-q035",
+      "tema": "Equivalencia de coberturas",
+      "dificultad": "intermedia",
+      "pregunta": "Si rEUR = 10%, rUSD = 5% y S = 1,20 USD/EUR, ¿qué forward anual vuelve equivalente cubrir un cobro con préstamo en euros o con venta forward?",
+      "opciones": [
+        "1,20 USD/EUR",
+        "1,26 USD/EUR",
+        "1,14545 USD/EUR",
+        "1,25714 USD/EUR"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ignora el diferencial de tasas. Spot y forward coincidirían con factores de interés iguales, no con 10% y 5%. La cobertura monetaria permite comprobar el precio consistente.",
+        "Capitaliza sólo el precio spot con la tasa del dólar. También debe descontarse por el interés del euro. Ambas estrategias comparan el mismo cobro futuro y requieren los dos factores.",
+        "En cotización USD/EUR, F = S × (1 + rUSD)/(1 + rEUR). Se obtiene 1,20 × 1,05/1,10 = 1,1454545. Un cobro de EUR 110.000 vendido a ese precio entrega los mismos USD 126.000 que la cobertura monetaria.",
+        "Invierte el cociente de factores para esta cotización. El euro paga más interés y debe estar a descuento en dólares bajo paridad. El forward correcto resulta menor que 1,20."
+      ]
+    },
+    {
+      "id": "c28-q036",
+      "tema": "Costo económico de cubrirse",
+      "dificultad": "intermedia",
+      "pregunta": "Para vender euros a un año, F = 1,18 USD/EUR, el spot actual es 1,25 y el spot esperado al vencimiento es 1,19. ¿Cuál es el sacrificio esperado de ingreso por euro al cubrirse, antes de costos?",
+      "opciones": [
+        "USD 0,06 por euro",
+        "USD 1,18 por euro",
+        "USD 0,01 por euro",
+        "USD 0,07 por euro"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Resta el spot esperado del spot actual. Esa cifra describe una depreciación esperada, no el costo de la cobertura frente a la alternativa sin cubrir. El precio relevante para comparar es el forward.",
+        "Confunde el ingreso asegurado con un costo. El forward paga USD 1,18 por cada euro entregado. El sacrificio esperado se obtiene comparando ese cobro con el esperado sin protección.",
+        "Sin cubrirse se espera recibir USD 1,19 por euro. Con la venta forward se aseguran USD 1,18. La diferencia esperada es USD 0,01, mientras que la reducción del riesgo es un beneficio separado.",
+        "Compara el forward con el spot actual. La alternativa a vender forward es cambiar el cobro al spot futuro, no al de hoy. Para medir el sacrificio esperado corresponde usar 1,19."
+      ]
+    },
+    {
+      "id": "c28-q037",
+      "tema": "Precio comercial y gestión de divisas",
+      "dificultad": "intermedia",
+      "pregunta": "Una exportadora quiere cotizar en la moneda del cliente sin convertir a su equipo comercial en especulador. ¿Qué política resulta coherente?",
+      "opciones": [
+        "Obligar a ventas a pronosticar diariamente el spot del vencimiento.",
+        "Rechazar toda venta que no pueda facturarse en moneda doméstica.",
+        "Cotizar siempre al spot actual porque el plazo no afecta el valor.",
+        "Usar el forward del plazo de cobro para calcular el precio equivalente y dejar la decisión de cobertura a tesorería."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Exige una capacidad de pronóstico que no es necesaria para fijar una equivalencia contractual. La referencia forward permite separar riesgo cambiario y negociación comercial. Especular debe ser una decisión explícita, no una consecuencia de la cotización.",
+        "Facturar sólo en moneda doméstica puede perder ventas sin necesidad. Es posible cotizar en la moneda del cliente y cubrir luego el cobro. La gestión financiera amplía las alternativas comerciales.",
+        "Ignora el diferencial de tasas y el momento del pago. El precio de conversión asegurado a futuro puede diferir del spot. Para un cobro diferido corresponde mirar el forward de ese plazo.",
+        "El forward permite calcular una equivalencia cambiaria disponible para el plazo pactado. Ventas puede negociar el negocio comercial usando esa referencia. Tesorería decide y ejecuta la gestión de la exposición de manera separada."
+      ]
+    },
+    {
+      "id": "c28-q038",
+      "tema": "Evaluación de una cobertura después del resultado",
+      "dificultad": "intermedia",
+      "pregunta": "Un director quiere abandonar las coberturas porque el euro subió después de haber vendido a plazo los cobros. ¿Cuál es la respuesta más sólida?",
+      "opciones": [
+        "Duplicar ahora la posición forward siempre recupera el resultado perdido.",
+        "Evaluar el cobro y la cobertura juntos y juzgar la política por el riesgo que reduce, no sólo por la ganancia que se dejó de obtener.",
+        "Toda cobertura que pierde frente al spot demuestra mala administración.",
+        "La empresa debe cubrir sólo cuando una moneda parezca cara, sin evaluar su capacidad de pronóstico."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una posición mayor puede crear una exposición nueva y aumentar pérdidas. El mercado no garantiza reversión para compensar decisiones pasadas. El tamaño de la cobertura debe responder al riesgo pendiente.",
+        "La venta forward fijó un ingreso antes de conocerse el tipo de cambio. La pérdida de oportunidad frente a un euro más caro es la contrapartida de quedar protegido si el euro caía. La evaluación debe considerar la exposición original y el objetivo de estabilidad.",
+        "Un derivado de cobertura puede perder cuando el negocio subyacente gana. Observarlo de forma aislada confunde seguro con apuesta. La política se juzga con información y objetivos disponibles al contratar.",
+        "Esa política incorpora una apuesta sobre valuación cambiaria. Para justificarla hace falta una ventaja de pronóstico, no sólo una impresión. Dejar de cubrir en ciertos momentos modifica el riesgo asumido por la empresa."
+      ]
+    },
+    {
+      "id": "c28-q039",
+      "tema": "Rendimiento total de una posición extranjera",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión en moneda extranjera rinde 2% anual y esa moneda se aprecia 5% en dólares. La alternativa en dólares rinde 8%. ¿Qué comparación es correcta, sin costos?",
+      "opciones": [
+        "El rendimiento en dólares es 7,10%, inferior al 8% local.",
+        "El rendimiento es 5%, porque el interés extranjero no cuenta.",
+        "El rendimiento es 10%, porque se suman 2%, 5% y su diferencia.",
+        "La apreciación de la moneda garantiza superar cualquier depósito doméstico."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento total combina capitalización y conversión: 1,02 × 1,05 − 1 = 7,10%. La ganancia cambiaria por sí sola no mide el resultado de la estrategia. Frente al 8% local, la inversión extranjera rindió 0,90 puntos porcentuales menos.",
+        "Omite los intereses que también se convierten a dólares. El capital final en moneda extranjera es 1,02 veces el inicial. Ese factor debe multiplicarse por el de apreciación de 1,05.",
+        "Agrega un término sin fundamento económico. Los dos factores de rendimiento se multiplican y el término cruzado es 0,10 puntos porcentuales. El resultado correcto es 7,10%, no 10%.",
+        "Una moneda puede apreciarse y aun así ofrecer un retorno total menor. Hay que incorporar el interés local y el costo de oportunidad en dólares. La comparación depende de ambos componentes."
+      ]
+    },
+    {
+      "id": "c28-q040",
+      "tema": "Exposición de transacción",
+      "dificultad": "basica",
+      "pregunta": "¿Qué situación representa con mayor claridad exposición de transacción?",
+      "opciones": [
+        "Un cobro contractual en yenes pendiente de conversión a moneda doméstica.",
+        "Una caída potencial de ventas por competidores extranjeros más baratos, sin contratos en divisas.",
+        "Un cambio de presentación de balances por traducción contable exclusivamente.",
+        "Una variación del volumen vendido causada sólo por una huelga local."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Existe un flujo contractual denominado en otra moneda. Su valor doméstico varía mientras no se fije el tipo de conversión. Es una exposición identificable por importe y fecha.",
+        "Describe exposición económica por competencia. Puede existir sin un cobro ni un pago contractual en moneda extranjera. Su medición suele ser menos directa que la de una transacción.",
+        "Describe exposición de conversión contable. Cambiar la moneda de presentación puede alterar cifras sin modificar un cobro contractual. Esa distinción evita confundir estados financieros y flujos de caja.",
+        "La huelga puede crear riesgo operativo. Sin un vínculo con movimientos cambiarios, no es exposición de transacción en divisas. El concepto exige un flujo contractual cuyo valor doméstico dependa de la moneda."
+      ]
+    },
+    {
+      "id": "c28-q041",
+      "tema": "Cobertura uno a uno",
+      "dificultad": "basica",
+      "pregunta": "Una empresa tiene un único cobro cierto de EUR 80.000 dentro de tres meses y ningún pago en euros. ¿Qué venta forward neutraliza exactamente la sensibilidad cambiaria de ese cobro?",
+      "opciones": [
+        "EUR 40.000 a tres meses.",
+        "EUR 80.000 a un año.",
+        "EUR 80.000 a tres meses.",
+        "EUR 160.000 a tres meses."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sólo cubre la mitad del importe. Los EUR 40.000 restantes siguen expuestos al spot del vencimiento. No cumple el objetivo de neutralizar exactamente todo el cobro.",
+        "El importe coincide, pero la fecha no. Entre el cobro y la entrega del forward aparecen decisiones de inversión o financiamiento. Sin especificarlas, no se asegura una compensación exacta a tres meses.",
+        "El valor del cobro varía en proporción directa al precio del euro. Vender la misma cantidad para la misma fecha compensa esa sensibilidad. La razón de cobertura de la transacción cierta es uno.",
+        "La venta duplica el cobro disponible. Después de compensar EUR 80.000 queda una posición vendida adicional. Esa porción sería una apuesta contra el euro."
+      ]
+    },
+    {
+      "id": "c28-q042",
+      "tema": "Exposición económica por competencia",
+      "dificultad": "avanzada",
+      "pregunta": "Una fabricante estadounidense vende sólo en dólares, pero compite con firmas suecas. Si la corona se deprecia en términos reales, ¿qué riesgo persiste y qué dirección de cobertura financiera podría ayudar?",
+      "opciones": [
+        "Debe comprar coronas forward porque la depreciación vuelve más caras las importaciones suecas.",
+        "La mera traducción de su balance a coronas elimina el riesgo comercial.",
+        "Puede perder margen por competidores más baratos; vender coronas forward puede compensar parte de esa pérdida.",
+        "No existe riesgo cambiario porque no hay facturas en coronas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Invierte tanto el efecto competitivo como la cobertura. La depreciación abarata los costos suecos en dólares y una posición comprada en coronas también pierde. Para compensar ese riesgo se considera una posición vendida.",
+        "Una modificación contable no altera precios, costos ni competencia. La exposición económica se refiere al valor de los flujos futuros. Reducirla requiere decisiones operativas o financieras que cambien esa sensibilidad.",
+        "La moneda de facturación no elimina los efectos sobre precios y participación de mercado. Una corona real más barata puede reducir los costos suecos medidos en dólares. Una venta forward de coronas gana ante esa depreciación, aunque dimensionarla exige estimar la exposición económica.",
+        "Confunde la ausencia de exposición contractual con ausencia de exposición económica. Los tipos reales afectan los costos de los competidores. La empresa puede perder valor aun sin cobrar una sola corona."
+      ]
+    },
+    {
+      "id": "c28-q043",
+      "tema": "Tamaño de una cobertura económica",
+      "dificultad": "avanzada",
+      "pregunta": "El valor operativo de una empresa cae USD 200.000 si el yen pierde 1% de su precio en dólares. Se busca una cobertura lineal local mediante venta forward de yenes; S = 0,01 USD/JPY y se ignoran descuento y otros efectos. ¿Qué nocional aproxima la compensación?",
+      "opciones": [
+        "JPY 2.000 millones vendidos forward.",
+        "JPY 20 millones vendidos forward.",
+        "JPY 2.000 millones comprados forward.",
+        "JPY 200.000 vendidos forward."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una caída de 1% desde 0,01 equivale a USD 0,0001 por yen. Cada yen vendido forward gana aproximadamente ese importe ante la caída. Dividir USD 200.000 por 0,0001 da JPY 2.000 millones, con validez local bajo los supuestos indicados.",
+        "Confunde la pérdida total con una sensibilidad por unidad monetaria. JPY 20 millones ganarían sólo USD 2.000 ante el movimiento dado. El nocional debe ser cien veces mayor para compensar USD 200.000.",
+        "El importe es compatible con la sensibilidad, pero el sentido es incorrecto. Una compra forward pierde si el yen cae. Para compensar una pérdida operativa ante esa caída corresponde vender yenes.",
+        "Equipara dólares de pérdida con yenes de nocional. Cada yen sólo aporta USD 0,0001 ante ese cambio de precio. Por eso deben convertirse las unidades antes de dimensionar la cobertura."
+      ]
+    },
+    {
+      "id": "c28-q044",
+      "tema": "Exposición de conversión",
+      "dificultad": "basica",
+      "pregunta": "¿Qué mide principalmente la exposición de conversión?",
+      "opciones": [
+        "El efecto de traducir estados financieros de una moneda a otra.",
+        "Exclusivamente los pagos contractuales en divisas del próximo mes.",
+        "La sensibilidad competitiva de todos los negocios futuros.",
+        "La probabilidad de que un gobierno expropie una planta."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La conversión contable expresa activos, pasivos y resultados en una moneda de presentación. Los tipos de cambio pueden modificar esas cifras traducidas. Ese efecto no equivale necesariamente a un cambio inmediato de caja.",
+        "Los pagos y cobros contractuales corresponden a exposición de transacción. La conversión tiene un objetivo de presentación contable más amplio. Conviene distinguir qué cifra cambia y por qué.",
+        "La sensibilidad competitiva pertenece a la exposición económica. Se relaciona con el valor de flujos futuros, incluso sin transacciones ya pactadas. La conversión puede registrar variaciones sin capturar toda esa sensibilidad.",
+        "La expropiación es una manifestación de riesgo político. No es un procedimiento de traducción de balances. Puede afectar flujos y propiedad, con independencia de la moneda de presentación."
+      ]
+    },
+    {
+      "id": "c28-q045",
+      "tema": "Cobertura operativa y geografía",
+      "dificultad": "intermedia",
+      "pregunta": "Dos automotrices venden mucho en el exterior. Una también produce cerca de esos clientes y la otra concentra producción en su país. ¿Cuál tiene, en principio, mayor cobertura operativa?",
+      "opciones": [
+        "Ambas tienen idéntica cobertura sólo por vender afuera.",
+        "La que evita medir sus costos por moneda.",
+        "La que aproxima sus costos productivos a las monedas de sus ventas.",
+        "La que concentra toda la producción en una sola moneda, cualquiera sea su mercado."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Tener ventas internacionales no informa dónde se generan los costos. Dos empresas con igual distribución de ventas pueden tener exposiciones distintas. La comparación exige mirar producción y abastecimiento además de ingresos.",
+        "No medir la exposición no la reduce. Identificar monedas de costos e ingresos es necesario para reconocer compensaciones. La cobertura operativa surge del diseño de actividades, no de omitir información.",
+        "Generar ingresos y costos en una misma moneda reduce la sensibilidad del margen neto. La localización productiva puede contribuir a ese equilibrio. Deben revisarse además componentes importados y moneda efectiva de fijación de precios.",
+        "La concentración puede aumentar el desajuste entre costos domésticos y ventas extranjeras. No garantiza compensación cuando se mueven las monedas. La cobertura operativa busca aproximar ambos lados del margen."
+      ]
+    },
+    {
+      "id": "c28-q046",
+      "tema": "Diversificación y traslado a precios",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación describe mejor los límites de las coberturas operativas en una empresa multinacional?",
+      "opciones": [
+        "Todos los aumentos de costos importados pueden trasladarse a precios sin perder ventas.",
+        "La reducción estimada en una industria es una proporción fija aplicable a toda empresa.",
+        "Diversificar países y ajustar precios puede reducir exposición, pero la competencia y los descalces residuales impiden asegurar una eliminación total.",
+        "Producir en dos países garantiza que cualquier fluctuación se anule."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La demanda y la competencia restringen la capacidad de aumentar precios. Si una empresa enfrenta rivales con costos más bajos, absorber parte del cambio puede ser inevitable. Eso deja un riesgo de margen aun con cierta flexibilidad comercial.",
+        "Las estimaciones empíricas dependen de muestra, período y estructura industrial. No constituyen una regla contractual ni una constante financiera. Cada compañía necesita medir su propia exposición.",
+        "Tener varias monedas puede compensar parte de sus movimientos, pero no asegura que siempre se compensen. Trasladar costos depende de clientes y competidores. Por eso suelen combinarse medidas operativas y financieras para tratar la exposición restante.",
+        "Las monedas pueden moverse juntas o los importes pueden ser muy distintos. La cantidad de países no basta para probar una neutralización. Hay que estimar la sensibilidad neta de los flujos."
+      ]
+    },
+    {
+      "id": "c28-q047",
+      "tema": "Calce financiero de monedas",
+      "dificultad": "intermedia",
+      "pregunta": "Una financiera tiene cuentas por cobrar en reales y deuda en dólares. ¿Qué decisión reduce directamente ese descalce cambiario?",
+      "opciones": [
+        "Convertir sólo la presentación contable de los reales a dólares.",
+        "Tomar deuda en una tercera moneda porque su tasa nominal es menor.",
+        "Financiar las cuentas con deuda en reales o convertir los pagos de la deuda a reales mediante derivados.",
+        "Añadir más deuda en dólares sin modificar las cuentas por cobrar."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Traducir cifras no cambia las monedas efectivas de cobro y pago. El desajuste contractual permanece. La cobertura requiere modificar la estructura financiera o añadir una posición compensatoria.",
+        "Una tercera moneda añade una relación cambiaria que también puede fluctuar. La tasa nominal baja no demuestra menor costo total ni mejor calce. Conviene comparar las obligaciones con la moneda de los activos financiados.",
+        "Los cobros en reales pueden atender pagos de deuda en reales. Así, una depreciación afecta ambos lados en lugar de dejar fijo el pasivo en dólares. Si la deuda original tiene otra moneda, un derivado puede modificar sustancialmente la moneda de sus pagos.",
+        "Aumenta un pasivo cuya moneda no coincide con la de los cobros. Una caída del real deja relativamente más costosa la deuda en dólares. Por sí sola esa decisión no reduce la sensibilidad."
+      ]
+    },
+    {
+      "id": "c28-q048",
+      "tema": "Endeudamiento en moneda de baja tasa",
+      "dificultad": "intermedia",
+      "pregunta": "Un director propone endeudarse en francos sólo porque su tasa nominal es menor que la de los dólares, aunque todos los ingresos son en dólares. ¿Cuál es la objeción central?",
+      "opciones": [
+        "La tasa nominal menor garantiza una ganancia sin riesgo.",
+        "La deuda en francos se paga automáticamente en dólares al spot inicial.",
+        "La inflación baja del país prestamista impide que su moneda se aprecie.",
+        "Una apreciación del franco puede compensar o superar el ahorro de intereses y encarecer la deuda en dólares."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ignora el costo de convertir los dólares necesarios para pagar la deuda. La ventaja de tasa puede compensarse con el cambio de moneda. Un ahorro nominal no es una oportunidad de arbitraje por sí solo.",
+        "El spot inicial no fija la conversión futura de una deuda sin cobertura. Haría falta un contrato o una estrategia financiera que la asegure. De lo contrario el costo final en dólares es incierto.",
+        "La baja inflación puede relacionarse justamente con una moneda que conserva o gana valor. No prohíbe una apreciación. Esa apreciación vuelve más costoso el pago para un deudor con ingresos en dólares.",
+        "El servicio de la deuda exige comprar francos al vencimiento. Una tasa nominal baja puede estar asociada con baja inflación esperada y una moneda relativamente fuerte. Si no hay calce ni cobertura, la empresa agrega una apuesta cambiaria a su financiamiento."
+      ]
+    },
+    {
+      "id": "c28-q049",
+      "tema": "Moneda de flujos y tasa de descuento",
+      "dificultad": "basica",
+      "pregunta": "Para valuar una planta con flujos proyectados en dólares, ¿qué tasa corresponde usar antes de convertir su VPN a la moneda de la matriz?",
+      "opciones": [
+        "La tasa libre de riesgo de la moneda de la matriz, cualquiera sea el riesgo del proyecto.",
+        "El costo de capital de la matriz en su propia moneda, sin convertirlo.",
+        "La inflación de Estados Unidos, porque los flujos están en dólares.",
+        "El costo de capital del proyecto expresado en dólares y ajustado a su riesgo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Estar en otro país no transforma los flujos del proyecto en seguros. Usar una tasa libre de riesgo doméstica mezcla moneda y riesgo. Se necesita un costo de capital apropiado para ambos.",
+        "Una tasa en otra moneda incorpora condiciones nominales diferentes. Aplicarla directamente a dólares puede distorsionar el valor. Primero hay que expresar el costo de capital en la moneda de los flujos.",
+        "La inflación no remunera por sí sola tiempo y riesgo de inversión. Su función es distinta de la del costo de capital. Los flujos nominales deben descontarse a una tasa nominal de rendimiento requerido apropiada.",
+        "La moneda de la tasa debe coincidir con la de los flujos descontados. Además, el costo de capital debe reflejar el riesgo operativo del proyecto. El VPN resultante en dólares puede convertirse después al spot actual."
+      ]
+    },
+    {
+      "id": "c28-q050",
+      "tema": "VPN extranjero y conversión spot",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversión requiere hoy EUR 100.000 y entrega EUR 121.000 dentro de un año. Su costo de capital en euros es 10% y S = 1,20 USD/EUR. ¿Cuál es el VPN expresado hoy en dólares?",
+      "opciones": [
+        "USD 10.000",
+        "USD 132.000",
+        "USD 12.000",
+        "USD 25.200"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Es el VPN numérico en euros presentado como si fueran dólares. La unidad monetaria requiere una conversión adicional. A USD 1,20 por euro, el VPN vale USD 12.000.",
+        "Convierte el valor presente del cobro, pero olvida restar la inversión inicial. El VPN considera todos los flujos, incluido el período cero. La inversión inicial equivale a USD 120.000.",
+        "El valor presente del cobro es 121.000/1,10 = EUR 110.000. Restar EUR 100.000 da un VPN de EUR 10.000. Al convertir ese valor actual al spot se obtienen USD 12.000.",
+        "Convierte la diferencia sin descontar de EUR 21.000. El dinero del próximo año vale menos que el disponible hoy. Antes de convertir el VPN hay que descontar el cobro."
+      ]
+    },
+    {
+      "id": "c28-q051",
+      "tema": "Conversión del costo de capital",
+      "dificultad": "avanzada",
+      "pregunta": "El costo de capital de un proyecto en dólares es 12%. Las tasas libres de riesgo son 5% en dólares y 2% en francos. ¿Qué costo en francos corresponde a los flujos convertidos mediante forwards de paridad?",
+      "opciones": [
+        "9%, exactamente.",
+        "15,29%",
+        "8,80%",
+        "12%"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Resta tres puntos porcentuales como si la relación fuera aditiva exacta. La conversión correcta es multiplicativa. En este caso el resultado es 8,80%, no 9%.",
+        "Invierte el ajuste por tasas libres de riesgo. Con tasas menores en francos, el costo equivalente en francos debe ser menor bajo esta conversión. El cociente correcto es 1,02/1,05.",
+        "Se usa 1 + kCHF = (1 + kUSD)(1 + rCHF)/(1 + rUSD). Entonces 1,12 × 1,02/1,05 = 1,088. El costo de capital en francos es 8,80%, manteniendo coherencia con la conversión forward.",
+        "Mantiene la tasa en dólares pese al cambio de moneda. Las diferencias nominales de tasas afectan también el rendimiento requerido expresado en francos. El costo convertido debe calcularse con los factores de ambas tasas libres de riesgo."
+      ]
+    },
+    {
+      "id": "c28-q052",
+      "tema": "Equivalencia de métodos de valuación",
+      "dificultad": "avanzada",
+      "pregunta": "Un proyecto cuesta hoy USD 100 y paga USD 112 esperados en un año, con kUSD = 12%. S = 2 CHF/USD; rCHF = 2% y rUSD = 5%. Se convierte el flujo esperado al forward de paridad y se usa el costo en CHF de 8,80%. ¿Qué VPN en francos resulta?",
+      "opciones": [
+        "CHF 0",
+        "CHF 24",
+        "CHF −5,71",
+        "CHF 17,60"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El forward es 2 × 1,02/1,05 = 1,942857 CHF/USD. El flujo convertido es 112 × 1,942857 = CHF 217,60, cuyo valor presente a 8,80% es CHF 200. Restar el costo inicial de CHF 200 produce VPN cero, igual que convertir el VPN nulo en dólares.",
+        "Convierte al spot la diferencia de USD 12 sin descontar. Esa diferencia es el rendimiento requerido del proyecto, no un VPN. El cobro debe descontarse y la inversión inicial debe incluirse.",
+        "Descuenta el flujo convertido al 12% en lugar de 8,80%. Mezclar la tasa en dólares con flujos en francos rompe la equivalencia. La tasa correcta en francos lleva el valor presente a CHF 200.",
+        "Resta la inversión del flujo futuro convertido sin descontarlo. CHF 17,60 es una diferencia entre importes de fechas distintas. El descuento a 8,80% elimina esa aparente ganancia de valor presente."
+      ]
+    },
+    {
+      "id": "c28-q053",
+      "tema": "Separación de inversión y apuesta cambiaria",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa rechazaría un proyecto de VPN positivo sólo porque espera una caída de la moneda del país. Puede cubrirse sin restricciones y los flujos operativos están bien estimados. ¿Qué decisión es coherente con el análisis del capítulo?",
+      "opciones": [
+        "Evaluar el proyecto por su VPN y gestionar por separado la exposición cambiaria.",
+        "Rechazarlo siempre que exista una depreciación esperada.",
+        "Aceptar cualquier proyecto de VPN negativo si se espera una apreciación.",
+        "Cambiar el signo de todos los flujos para reflejar el pesimismo cambiario."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La posibilidad de cubrirse permite separar la actividad productiva de la apuesta sobre la moneda. Un proyecto rentable no debe descartarse sólo por una opinión cambiaria. La empresa puede aceptar la inversión y vender a plazo los flujos que corresponda cubrir.",
+        "Una depreciación esperada puede estar incorporada en tasas y precios forward. No demuestra por sí sola que el proyecto destruya valor. Lo relevante es una valuación coherente y la gestión separada del riesgo que puede cubrirse.",
+        "Una apuesta favorable sobre una moneda no convierte automáticamente una mala inversión en buena. Si se desea esa exposición, puede obtenerse de manera más directa en el mercado cambiario. La decisión productiva debe superar su propio análisis de valor.",
+        "El pesimismo no transforma entradas en salidas ni costos en ingresos. Los flujos deben reflejar operaciones reales y sus riesgos. Las conversiones y tasas deben tratarse de manera consistente."
+      ]
+    },
+    {
+      "id": "c28-q054",
+      "tema": "Riesgo operativo versus riesgo cambiario",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa vende forward el importe esperado de los ingresos de una planta cuya producción es incierta. ¿Qué afirmación es correcta?",
+      "opciones": [
+        "El forward cancela automáticamente su nocional si la planta produce menos.",
+        "Fija la conversión de un importe, pero si los ingresos efectivos difieren quedará exposición residual y seguirá existiendo riesgo operativo.",
+        "El forward vuelve ciertos todos los ingresos operativos.",
+        "Cubrir la moneda permite descontar cualquier flujo de la planta a la tasa libre de riesgo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un forward simple tiene nocional pactado y obligación bilateral. La caída de producción no reduce automáticamente la cantidad a entregar. Para tratar contingencias pueden ser más adecuados otros instrumentos o un nocional menor.",
+        "El derivado cubre la moneda por una cantidad contratada. No garantiza ventas, producción ni márgenes del proyecto. Si el flujo efectivo resulta menor, la obligación forward puede superar las divisas disponibles.",
+        "El contrato no obliga a los clientes a comprar ni evita fallas productivas. Sólo determina un intercambio de monedas. La incertidumbre del negocio permanece y debe reflejarse en la valuación.",
+        "Eliminar una fuente de riesgo no elimina todas las demás. Una planta incierta conserva riesgo que puede exigir una prima sobre la tasa libre de riesgo. Debe usarse el costo de capital apropiado a los flujos considerados."
+      ]
+    },
+    {
+      "id": "c28-q055",
+      "tema": "CAPM para un proyecto internacional",
+      "dificultad": "intermedia",
+      "pregunta": "Para un inversor de referencia, la tasa libre de riesgo en su moneda es 4%, la beta de un proyecto frente a su cartera de mercado es 0,8 y la prima de mercado es 5%. ¿Qué rendimiento requerido en esa moneda da el CAPM?",
+      "opciones": [
+        "8%",
+        "9%",
+        "4,8%",
+        "7,2%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El CAPM suma la tasa libre de riesgo y beta por prima de mercado. El cálculo es 4% + 0,8 × 5% = 8%. La beta debe medirse respecto del mercado pertinente para el inversor considerado.",
+        "Suma toda la prima de mercado y omite la beta de 0,8. Eso equivaldría a usar beta uno. El proyecto sólo carga 80% de esa prima bajo los datos dados.",
+        "Suma el valor numérico de beta a una tasa porcentual. Beta no es una prima de rendimiento. Se necesita multiplicarla por la prima de mercado de 5%.",
+        "Multiplica por beta tanto la prima como la tasa libre de riesgo. El CAPM no reduce el componente libre de riesgo de esa forma. La fórmula es 4% + 0,8 × 5%."
+      ]
+    },
+    {
+      "id": "c28-q056",
+      "tema": "Mercado de referencia y selección de proyectos",
+      "dificultad": "avanzada",
+      "pregunta": "Una matriz compara proyectos extranjeros con distintas TIR nominales. ¿Qué enfoque evita una comparación engañosa?",
+      "opciones": [
+        "Elegir siempre la mayor TIR nominal, aunque las monedas y riesgos difieran.",
+        "Medir beta contra cualquier índice sin considerar qué cartera representa para los inversores.",
+        "Usar el interés bancario más bajo de todos los países como tasa para todos los proyectos.",
+        "Estimar el riesgo con un mercado de referencia apropiado, usar costos de capital coherentes por moneda y comparar VPN en una moneda común."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una TIR más alta puede reflejar inflación o riesgo mayores. También puede corresponder a una inversión pequeña que crea menos valor total. La comparación exige rendimientos requeridos apropiados y VPN coherentes.",
+        "La beta mide covariación con una cartera particular. Usar un índice supone que es un referente adecuado para el inversor analizado. Cambiarlo arbitrariamente puede alterar el riesgo estimado sin fundamento.",
+        "El interés nominal más bajo no representa necesariamente el costo de capital de cada actividad. Omite riesgo operativo y diferencias de moneda. Esos elementos deben incorporarse antes de descontar los flujos.",
+        "La TIR nominal depende de la moneda y no incorpora por sí sola diferencias de escala o riesgo. El costo de capital exige un supuesto sobre el mercado relevante para los inversores. Convertir VPN calculados consistentemente permite comparar creación de valor."
+      ]
+    },
+    {
+      "id": "c28-q057",
+      "tema": "Definición y alcance del riesgo político",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es un ejemplo de riesgo político para una inversión ya realizada?",
+      "opciones": [
+        "Que el gobierno cambie unilateralmente el régimen pactado o limite la repatriación de utilidades.",
+        "Que el tipo de cambio fluctúe en un mercado libre sin intervención adicional.",
+        "Que una máquina falle por desgaste normal.",
+        "Que un cliente compre menos por un cambio de gustos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El riesgo político incluye modificaciones gubernamentales inesperadas que afectan los derechos o flujos del inversor. Puede abarcar expropiación, nuevos gravámenes o restricciones de transferencias. No se limita a países extranjeros, aunque allí el inversor pueda ser más vulnerable.",
+        "Describe riesgo cambiario de mercado. Puede coexistir con riesgo político, pero la fluctuación por sí sola no es una ruptura gubernamental de condiciones. Conviene identificar la fuente concreta del riesgo.",
+        "El desgaste pertenece al riesgo técnico y operativo. No implica una decisión de gobierno o tribunal que altere las reglas. Debe gestionarse con mantenimiento y diseño de operaciones.",
+        "Los cambios de demanda son riesgos comerciales. No constituyen por sí mismos una intervención política. La clasificación depende del mecanismo que modifica el flujo esperado."
+      ]
+    },
+    {
+      "id": "c28-q058",
+      "tema": "Evaluaciones de riesgo país",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa recibe una calificación agregada de riesgo político. ¿Cómo debería usarla?",
+      "opciones": [
+        "Como sustituto del análisis contractual y operativo de la inversión.",
+        "Como insumo que debe desagregarse en estabilidad, condiciones sociales, perfil de inversión, conflictos, corrupción e instituciones.",
+        "Como garantía de que nunca habrá cambios regulatorios.",
+        "Como una probabilidad exacta de expropiación aplicable a cualquier proyecto."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El diseño del proyecto determina su capacidad de adaptación y negociación. Una calificación no reemplaza el análisis de contratos, activos y financiamiento. Es un punto de partida para profundizar el diagnóstico.",
+        "La calificación sintetiza dimensiones distintas del entorno político. Entre ellas también importan militares en política, tensiones religiosas y étnicas, ley y orden, rendición de cuentas y calidad burocrática. La exposición concreta depende de cómo esas dimensiones afectan el proyecto.",
+        "Una nota favorable no impide decisiones futuras adversas. Los indicadores resumen información y juicios, no ofrecen una garantía contractual. Siguen haciendo falta escenarios y medidas de mitigación.",
+        "Un puntaje agregado no equivale necesariamente a una probabilidad calibrada de un evento específico. Diferentes sectores pueden sufrir riesgos distintos en el mismo país. No corresponde asignar una frecuencia exacta sin un modelo adicional."
+      ]
+    },
+    {
+      "id": "c28-q059",
+      "tema": "Dependencia tecnológica y expropiación",
+      "dificultad": "intermedia",
+      "pregunta": "Dos subsidiarias tienen activos físicos similares, pero una depende de conocimientos y asistencia continuos de su matriz. ¿Por qué esa dependencia puede reducir el incentivo a expropiarla?",
+      "opciones": [
+        "Porque el conocimiento técnico garantiza que todos los impuestos futuros sean nulos.",
+        "Porque cualquier expropiación mejora la productividad de la planta dependiente.",
+        "Porque el valor del negocio separado de la matriz puede ser mucho menor.",
+        "Porque una subsidiaria dependiente queda jurídicamente fuera del alcance del gobierno."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La tecnología no fija por sí misma el sistema tributario. Su relevancia consiste en cuánto valor se pierde al cortar la relación con la matriz. No garantiza ausencia de gravámenes ni cambios de reglas.",
+        "Si se corta un insumo técnico esencial, la productividad puede disminuir. Eso reduce el atractivo de apropiarse de la planta aislada. La protección funciona justamente por el costo de perder la cooperación de la matriz.",
+        "El gobierno obtiene menos si el activo no puede funcionar bien sin tecnología o apoyo externo. Mantener vínculos esenciales puede fortalecer la capacidad de negociación de la matriz. Es una reducción de incentivos, no una inmunidad frente al poder soberano.",
+        "La dependencia operativa no elimina la jurisdicción del país. El gobierno puede intervenir aunque el negocio pierda valor. El mecanismo de protección es económico y negociador, no una excepción legal automática."
+      ]
+    },
+    {
+      "id": "c28-q060",
+      "tema": "Red internacional de producción",
+      "dificultad": "intermedia",
+      "pregunta": "Una multinacional puede repartir componentes y ensamblaje entre países y trasladar parte de la producción si cambian las condiciones políticas. ¿Qué ventaja ofrece ese diseño?",
+      "opciones": [
+        "Hace innecesario analizar costos de coordinación y continuidad productiva.",
+        "Reduce la autonomía de cada planta aislada y mejora las alternativas de la empresa ante una intervención local.",
+        "Elimina toda exposición cambiaria y política de manera automática.",
+        "Asegura que cada país pueda operar la cadena completa sin la matriz."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La flexibilidad puede ser valiosa, pero debe compararse con sus costos. Coordinar operaciones y mantener capacidad alternativa requiere recursos. La reducción de riesgo no vuelve irrelevante la eficiencia productiva.",
+        "Una instalación integrada en una red puede valer menos fuera de ella. La posibilidad de sustituir producción entre plantas también reduce la dependencia de un solo país. Estas características pueden desincentivar intervenciones, aunque tienen costos y no eliminan el riesgo.",
+        "La dispersión geográfica no neutraliza automáticamente todas las monedas ni las decisiones soberanas. Pueden persistir descalces y riesgos conjuntos. Se trata de una medida de mitigación dentro de un análisis más amplio.",
+        "Describe el resultado contrario al mecanismo buscado. Si cada país pudiera operar todo por sí solo, apropiarse de una planta sería más atractivo. La integración distribuye funciones y mantiene vínculos entre instalaciones."
+      ]
+    },
+    {
+      "id": "c28-q061",
+      "tema": "Financiamiento y garantías condicionadas",
+      "dificultad": "avanzada",
+      "pregunta": "Una minera financia una subsidiaria con bancos internacionales. Quiere que ese financiamiento desincentive una ruptura del acuerdo fiscal por el gobierno anfitrión. ¿Qué diseño responde a ese objetivo?",
+      "opciones": [
+        "Usar exclusivamente capital de la matriz para evitar que terceros tengan interés en el contrato.",
+        "Asegurar por contrato privado que el gobierno pierde para siempre su poder soberano.",
+        "Condicionar la garantía de la matriz al cumplimiento gubernamental, de modo que una ruptura también exponga a los acreedores al conflicto.",
+        "Garantizar irrevocablemente toda deuda incluso si el gobierno incumple, porque así éste asume más costo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Financiar sólo con recursos propios concentra el riesgo en la matriz. No incorpora acreedores internacionales que puedan ejercer presión por el cumplimiento. Puede ser válido por otras razones, pero no logra el incentivo descrito.",
+        "Un contrato no elimina completamente el poder soberano. El financiamiento puede modificar incentivos y consecuencias de su ejercicio. Prometer una prohibición absoluta confunde protección contractual con imposibilidad de intervención.",
+        "La garantía condicionada vincula el servicio de la deuda con el respeto del acuerdo. Si el gobierno rompe las condiciones, puede perjudicar a bancos cuyo crédito importa al país. Esto aumenta el costo político y financiero del incumplimiento, sin hacerlo imposible.",
+        "Una garantía incondicional protege a los bancos aun cuando el gobierno incumpla. Por eso puede reducir la presión de esos acreedores sobre el país. El mecanismo buscado requiere que la ruptura tenga consecuencias para terceros relevantes."
+      ]
+    },
+    {
+      "id": "c28-q062",
+      "tema": "Participación de instituciones multilaterales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué puede ayudar que una institución multilateral financie o garantice parte de un proyecto extranjero?",
+      "opciones": [
+        "Porque convierte todo flujo comercial en un pago sin riesgo.",
+        "Porque asegura que no habrá inflación ni depreciación en el país.",
+        "Porque permite a la empresa desatender las condiciones de la garantía.",
+        "Porque una intervención adversa puede deteriorar relaciones de financiamiento que el gobierno valora."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un apoyo contra ciertos riesgos políticos no cubre automáticamente demanda, producción o todos los riesgos de crédito. Las condiciones del instrumento importan. No debe tratarse como una garantía universal de rentabilidad.",
+        "El financiamiento multilateral no fija todos los precios macroeconómicos. Inflación y tipo de cambio pueden seguir variando. Su aporte aquí es modificar el incentivo a incumplir o cubrir eventos políticos específicos.",
+        "Las garantías tienen condiciones que determinan cuándo responden. Ignorarlas puede dejar al proyecto sin la protección esperada. La participación institucional debe integrarse al análisis contractual.",
+        "La participación de un acreedor multilateral agrega un interlocutor importante. El gobierno puede ser más reticente a incumplir si compromete esa relación. El efecto depende del diseño y del alcance de la participación o garantía."
+      ]
+    },
+    {
+      "id": "c28-q063",
+      "tema": "Préstamo mediante una agencia pública",
+      "dificultad": "avanzada",
+      "pregunta": "Una agencia del país anfitrión se endeuda en el exterior y presta esos fondos a una subsidiaria. La empresa responde mientras el gobierno cumpla el acuerdo; ante ruptura, la obligación exterior queda a cargo de la agencia. ¿Cuál es la lógica?",
+      "opciones": [
+        "Hacer que el gobierno soporte una consecuencia financiera de su propio incumplimiento.",
+        "Eliminar cualquier obligación de la empresa aun cuando el gobierno cumpla.",
+        "Garantizar que los acreedores no podrán reclamarle nunca a la agencia.",
+        "Transformar una obligación en divisas en un ingreso operativo sin riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La estructura busca alinear el incentivo soberano con el respeto de lo pactado. Mientras se cumple, la empresa atiende el financiamiento convenido. Si el gobierno rompe el acuerdo, la carga exterior recae en su agencia y aumenta el costo de esa decisión.",
+        "La empresa conserva la obligación bajo cumplimiento gubernamental. La condición se activa frente al evento pactado de ruptura. No es una financiación gratuita ni una exención permanente.",
+        "La agencia es justamente el deudor frente al exterior en el diseño descrito. Esa responsabilidad crea una consecuencia para el gobierno. Suprimirla eliminaría el incentivo que busca el esquema.",
+        "El préstamo sigue siendo un pasivo y no una venta o ingreso productivo. Su estructura distribuye consecuencias ante un evento político. No elimina por sí misma el riesgo de negocio ni el de moneda."
+      ]
+    },
+    {
+      "id": "c28-q064",
+      "tema": "Fondos bloqueados y repatriación",
+      "dificultad": "intermedia",
+      "pregunta": "Un país restringe dividendos, pero permite ciertos pagos genuinos de deuda y servicios. ¿Qué enfoque puede reducir el riesgo de fondos bloqueados?",
+      "opciones": [
+        "Asumir que una utilidad contable siempre puede transferirse de inmediato a la matriz.",
+        "Inventar regalías o precios arbitrarios para retirar fondos sin restricciones.",
+        "Cubrir sólo el tipo de cambio con un forward y dar por resuelto el bloqueo.",
+        "Planificar financiamiento y pagos intragrupo permitidos, respetando límites y sustancia económica."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una ganancia local no equivale a efectivo libremente disponible para la matriz. El gobierno puede restringir la conversión o la remisión. La evaluación debe distinguir generación de caja y posibilidad de repatriación.",
+        "Los pagos intragrupo están sujetos a límites y justificación económica. El análisis no autoriza crear cargos ficticios ni precios sin fundamento. La mitigación exige estructuras permitidas y consistentes con las operaciones reales.",
+        "El forward fija un precio de intercambio, pero no obliga al gobierno a autorizar la transferencia. Si los fondos quedan bloqueados, puede faltar el dinero para cumplir el derivado. El riesgo de convertibilidad o remisión requiere un análisis separado.",
+        "Las restricciones pueden diferir entre dividendos, intereses, principal y servicios. Diseñar pagos genuinos y condiciones intragrupo dentro de los límites aplicables puede diversificar vías de transferencia. Eso mitiga el riesgo sin garantizar que todas las remesas futuras sean autorizadas."
+      ]
+    },
+    {
+      "id": "c28-q065",
+      "tema": "Minicaso: flujo neto y riesgo de facturación",
+      "dificultad": "avanzada",
+      "pregunta": "Una matriz europea analiza una planta estadounidense con ventas en dólares, costos mayormente en dólares y componentes provistos desde Europa. ¿Qué diagnóstico es más adecuado?",
+      "opciones": [
+        "Toda la venta bruta en dólares constituye exposición neta, aunque existan costos en dólares.",
+        "Facturar los componentes en dólares elimina siempre el riesgo económico de todo el grupo.",
+        "La exposición es igual al desembolso inicial, sin importar los flujos posteriores.",
+        "La producción local crea calce parcial, pero deben medirse el flujo neto, los componentes europeos y los efectos competitivos; cambiar la moneda de facturación intragrupo no elimina por sí solo el riesgo consolidado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Ignora la cobertura natural de pagar costos con los ingresos en la misma moneda. Cubrir ventas brutas podría exceder el flujo disponible. La exposición relevante requiere estimar entradas y salidas conjuntamente.",
+        "La factura cambia qué entidad registra el efecto inmediato. Si los costos reales del grupo siguen en euros y las ventas externas en dólares, el riesgo económico puede persistir. Hay que mirar operaciones externas y capacidad de ajustar precios.",
+        "El desembolso es sólo un componente del proyecto. El valor depende también de flujos netos futuros y su respuesta a los tipos reales. Un nocional basado únicamente en la inversión puede resultar insuficiente o excesivo.",
+        "Los costos en dólares compensan parte de los ingresos en esa moneda. Los componentes europeos y la competencia mantienen sensibilidades que deben analizarse a nivel consolidado. La moneda de una factura interna distribuye riesgo entre filiales, pero no borra automáticamente la exposición del grupo."
+      ]
+    },
+    {
+      "id": "c28-q066",
+      "tema": "Minicaso: sobrecobertura de ingresos brutos",
+      "dificultad": "avanzada",
+      "pregunta": "Una filial cobra USD 150 millones por año y paga USD 110 millones de costos locales en las mismas fechas. No hay otros pagos en dólares y esos flujos son ciertos. Para cubrir la remesa neta a la matriz, ¿qué nocional de venta forward corresponde?",
+      "opciones": [
+        "USD 40 millones.",
+        "USD 150 millones.",
+        "USD 260 millones.",
+        "USD 110 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los cobros y costos locales se compensan por USD 110 millones. El remanente que debe convertirse es 150 − 110 = USD 40 millones. Vender esa cantidad forward cubre la remesa neta bajo los supuestos dados.",
+        "Cubre la venta bruta y no descuenta los dólares necesarios para operar. Después de pagar costos sólo quedan USD 40 millones para entregar. Vender USD 150 millones generaría una posición vendida excedente de USD 110 millones.",
+        "Suma cobros y pagos que deben netearse. Ambos tienen signos opuestos en la caja de la filial. La exposición neta es la diferencia y no el volumen total de movimientos.",
+        "Usa el costo local como si fuera el flujo a remitir. Esos dólares ya se consumen en la operación. La matriz recibe el excedente de USD 40 millones."
+      ]
+    },
+    {
+      "id": "c28-q067",
+      "tema": "Minicaso: deuda y exposición económica",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa propone financiar toda una planta extranjera con deuda en la moneda local y afirma que así cubre exactamente todo el riesgo de cambio. ¿Qué conviene responder?",
+      "opciones": [
+        "Igualar deuda e inversión inicial garantiza cobertura perfecta para siempre.",
+        "La deuda local nunca puede contribuir a una cobertura.",
+        "Si los ingresos están en moneda local, toda la deuda debe estar en la moneda de la matriz.",
+        "La deuda puede compensar parte de la exposición, pero debe compararse su servicio y sensibilidad con los flujos netos del proyecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor de la planta no depende sólo de cuánto costó construirla. Su sensibilidad incluye márgenes, crecimiento y flujos de muchos períodos. Igualar dos importes iniciales no demuestra un calce de riesgos.",
+        "La deuda en moneda local es una herramienta posible de cobertura financiera. Puede alinear pagos con ingresos y reducir sensibilidad neta. El punto es comprobar su tamaño y calendario, no descartarla siempre.",
+        "La deuda en moneda de la matriz puede crear un descalce con el flujo local. No hay una regla que la vuelva obligatoria. La selección debe basarse en la exposición conjunta del activo y del pasivo.",
+        "Un pasivo local puede perder valor en moneda de la matriz cuando también lo pierde el activo. Sin embargo, intereses y amortizaciones tienen importes y fechas que pueden diferir de los flujos operativos. Hay que dimensionar la cobertura con esa exposición, evitando cargas financieras excesivas."
+      ]
+    },
+    {
+      "id": "c28-q068",
+      "tema": "Cobro contingente y opciones",
+      "dificultad": "avanzada",
+      "pregunta": "Una exportadora todavía no sabe si ganará una licitación pagadera en euros. Quiere protección contra una caída del euro sin quedar obligada a entregarlo si pierde la licitación. ¿Qué alternativa se ajusta mejor?",
+      "opciones": [
+        "Comprar euros forward para multiplicar la exposición del pedido.",
+        "Comprar una opción de venta de euros por el importe previsto, considerando el costo de la prima.",
+        "Vender ese importe forward y asumir que el contrato se anula si no gana.",
+        "Vender una opción de venta de euros."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una compra forward gana ante la apreciación y pierde ante la caída del euro. El cobro del pedido también pierde valor si el euro cae. Por lo tanto, no ofrece la protección buscada y puede sumar riesgo.",
+        "La opción comprada permite vender euros al precio de ejercicio si conviene. Si el pedido no se concreta, la empresa no queda obligada a entregar los euros por ese derecho comprado. La prima sigue siendo un costo y el resultado final depende también de si ejerce o vende la opción.",
+        "El forward no queda condicionado automáticamente al resultado de la licitación. Si no hay cobro, la empresa sigue comprometida a entregar euros o cerrar la posición a su valor de mercado. Eso crea una exposición independiente del pedido.",
+        "El vendedor de la opción asume una obligación cuando el comprador ejerce. No adquiere un derecho de vender su futuro cobro. La posición adecuada para proteger una entrada contingente es comprar la opción de venta."
+      ]
+    },
+    {
+      "id": "c28-q069",
+      "tema": "Rendimiento de bonos y moneda del inversor",
+      "dificultad": "avanzada",
+      "pregunta": "Un bono cupón cero paga USD 110,25 en dos años y se compra a una tasa anual de 5%. Un año después su tasa a un año es 2% y se vende. En ese lapso el dólar pasa de 100 a 95 yenes/USD. Sin costos, ¿cuál es el rendimiento en yenes del inversor japonés sin cobertura?",
+      "opciones": [
+        "Aproximadamente 2,68%.",
+        "Aproximadamente 8,09%.",
+        "−5%.",
+        "Aproximadamente 13,50%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio inicial es 110,25/1,05² = USD 100 y el de venta es 110,25/1,02 = USD 108,0882. En yenes se invierten 10.000 y se reciben 108,0882 × 95 = 10.268,3824. El rendimiento es 2,6838%, porque la pérdida cambiaria reduce la ganancia del bono.",
+        "Es el rendimiento aproximado del bono en dólares. Omite que cada dólar final compra menos yenes. Para el inversor japonés hay que multiplicar el factor 1,080882 por 0,95.",
+        "Sólo mide la caída del dólar en yenes. Ignora que el bono aumenta de precio al bajar la tasa y acercarse su vencimiento. Ambos factores deben combinarse para medir la riqueza final.",
+        "Suma aproximadamente la ganancia del bono y una apreciación del dólar que no ocurrió. El dólar se depreció 5% en yenes. Además, la combinación correcta de factores es multiplicativa."
+      ]
+    },
+    {
+      "id": "c28-q070",
+      "tema": "Rendimiento de acciones en moneda extranjera",
+      "dificultad": "intermedia",
+      "pregunta": "Una inversora compra una acción a 200 pesos con S inicial = 10 pesos/USD. La vende a 220 pesos, sin dividendos, cuando S = 11 pesos/USD. ¿Cuáles son sus rendimientos en pesos y dólares?",
+      "opciones": [
+        "10% en ambas monedas.",
+        "0% en pesos y 10% en dólares.",
+        "10% en pesos y −10% en dólares.",
+        "10% en pesos y 0% en dólares."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Olvida convertir ambos precios con las cotizaciones de sus fechas. El peso pierde valor frente al dólar durante el período. Por eso el rendimiento en dólares no coincide necesariamente con el local.",
+        "Invierte los resultados de ambas mediciones. La cotización de la acción sí aumenta 10% en pesos. Convertida a dólares, la riqueza inicial y la final son iguales.",
+        "Interpreta el aumento de pesos por dólar como una pérdida porcentual directa sobre la inversión. El cálculo exacto requiere comparar 220/11 con 200/10. En este caso el resultado en dólares es cero.",
+        "El precio en pesos crece 220/200 − 1 = 10%. La compra cuesta 200/10 = USD 20 y la venta entrega 220/11 = USD 20. La depreciación del peso compensa exactamente la suba de la acción en moneda local."
+      ]
+    },
+    {
+      "id": "c28-q071",
+      "tema": "Resultado de una opción protectora",
+      "dificultad": "intermedia",
+      "pregunta": "Una exportadora cobra EUR 100.000 y posee una opción de venta sobre ese importe con ejercicio de 1,20 USD/EUR. Pagó una prima total de USD 2.000. Si el spot final es 1,10 USD/EUR, ¿cuál es el ingreso combinado neto de prima, sin considerar valor tiempo de esa prima?",
+      "opciones": [
+        "USD 118.000",
+        "USD 108.000",
+        "USD 120.000",
+        "USD 128.000"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Conviene ejercer y vender EUR 100.000 por USD 120.000. Descontar la prima de USD 2.000 deja USD 118.000. Equivalentemente, el cobro al spot de USD 110.000 más USD 10.000 de valor de ejercicio menos la prima produce el mismo total.",
+        "Valúa el cobro al spot y resta la prima, pero no reconoce la protección. La opción tiene un valor de ejercicio de USD 0,10 por euro. Ese beneficio agrega USD 10.000 al cobro convertido al spot.",
+        "Es el ingreso protegido antes de pagar la prima. La pregunta pide el resultado neto de ese costo. Como se ignora su valor tiempo, basta restar USD 2.000.",
+        "Suma el beneficio de la opción a un cobro ya valuado al ejercicio. Eso duplica la protección de USD 10.000. Debe sumarse al cobro spot o usarse directamente el ingreso por ejercicio, pero no ambos."
+      ]
+    },
+    {
+      "id": "c28-q072",
+      "tema": "Exposiciones opuestas y apreciación real",
+      "dificultad": "avanzada",
+      "pregunta": "Dos filiales alemanas pertenecen a matrices estadounidenses. Alfa importa componentes de Estados Unidos y vende en Alemania; Omega compra insumos alemanes y exporta a Estados Unidos. Los precios están rígidos en las monedas de esos mercados y el euro cae en términos reales. ¿Qué efecto inicial sobre márgenes es más probable?",
+      "opciones": [
+        "Ambas mejoran necesariamente porque el euro cae.",
+        "Alfa mejora por sus importaciones y Omega empeora por sus insumos locales.",
+        "No hay efecto económico si las matrices cubren únicamente partidas monetarias ya registradas.",
+        "Alfa se perjudica por costos importados más caros en euros; Omega se beneficia por costos alemanes más baratos medidos en dólares."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las estructuras de costos e ingresos son opuestas. Un movimiento favorable a un exportador puede perjudicar a quien importa componentes. No se puede asignar el mismo efecto sólo por compartir país de operación.",
+        "Invierte el impacto de la conversión de costos. Un euro más débil encarece dólares para Alfa y abarata costos en euros medidos en dólares para Omega. El análisis debe mantener explícitas las monedas de ingresos y gastos.",
+        "Cubrir saldos monetarios trata exposiciones contractuales identificadas. No elimina automáticamente cambios futuros en márgenes por costos y competencia. La exposición económica puede seguir presente aun cuando la tesorería cubra cada saldo registrado.",
+        "La caída del euro hace que Alfa necesite más euros para comprar componentes cotizados en dólares. Para Omega, los costos alemanes en euros se abaratan medidos contra sus ingresos en dólares. La dirección final también depende de ajustes de precios y demanda, por lo que el supuesto de rigidez es relevante."
+      ]
+    }
+  ]
+}

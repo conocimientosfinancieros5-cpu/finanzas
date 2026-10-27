@@ -1,202 +1,202 @@
 {
   "capitulo": 27,
-  "titulo": "Administraci?n del riesgo",
+  "titulo": "Administración del riesgo",
   "preguntas": [
     {
       "id": "c27-q001",
       "tema": "Mercados perfectos",
       "dificultad": "basica",
-      "pregunta": "En mercados de capitales perfectos, ?por qu? una cobertura financiera pactada a condiciones justas no aumenta por s? sola el valor de una empresa?",
+      "pregunta": "En mercados de capitales perfectos, ¿por qué una cobertura financiera pactada a condiciones justas no aumenta por sí sola el valor de una empresa?",
       "opciones": [
-        "Toda reducci?n de volatilidad aumenta autom?ticamente el valor.",
-        "Transfiere riesgo sin crear valor y los accionistas pueden ajustar su exposici?n por su cuenta.",
-        "La cobertura elimina el riesgo de la econom?a.",
+        "Toda reducción de volatilidad aumenta automáticamente el valor.",
+        "Transfiere riesgo sin crear valor y los accionistas pueden ajustar su exposición por su cuenta.",
+        "La cobertura elimina el riesgo de la economía.",
         "La contraparte acepta siempre un VPN negativo."
       ],
       "correcta": 1,
       "explicaciones": [
-        "Esta respuesta confunde estabilidad con creaci?n de riqueza. En mercados perfectos, los inversores pueden modificar su propia exposici?n al riesgo. Para justificar un mayor valor hace falta un beneficio adicional, como evitar costos de dificultades financieras.",
-        "El riesgo pasa a otra contraparte y los pagos del contrato se compensan entre las partes. Adem?s, los accionistas pueden reproducir la reducci?n de riesgo con sus propias inversiones. Sin fricciones ni efectos sobre las decisiones reales, esa transferencia no genera un VPN positivo.",
-        "El contrato asigna el riesgo a otra parte, pero no lo hace desaparecer. Lo que gana una contraparte en el derivado lo pierde la otra. La eliminaci?n del riesgo agregado no es la explicaci?n de una cobertura.",
-        "Una contraparte que negocia en condiciones competitivas no regala valor sistem?ticamente. El precio inicial se fija para equilibrar el valor de los compromisos. Los pagos posteriores pueden ser positivos o negativos sin alterar ese VPN inicial."
+        "Esta respuesta confunde estabilidad con creación de riqueza. En mercados perfectos, los inversores pueden modificar su propia exposición al riesgo. Para justificar un mayor valor hace falta un beneficio adicional, como evitar costos de dificultades financieras.",
+        "El riesgo pasa a otra contraparte y los pagos del contrato se compensan entre las partes. Además, los accionistas pueden reproducir la reducción de riesgo con sus propias inversiones. Sin fricciones ni efectos sobre las decisiones reales, esa transferencia no genera un VPN positivo.",
+        "El contrato asigna el riesgo a otra parte, pero no lo hace desaparecer. Lo que gana una contraparte en el derivado lo pierde la otra. La eliminación del riesgo agregado no es la explicación de una cobertura.",
+        "Una contraparte que negocia en condiciones competitivas no regala valor sistemáticamente. El precio inicial se fija para equilibrar el valor de los compromisos. Los pagos posteriores pueden ser positivos o negativos sin alterar ese VPN inicial."
       ]
     },
     {
       "id": "c27-q002",
-      "tema": "Informaci?n, diversificaci?n y apalancamiento",
+      "tema": "Información, diversificación y apalancamiento",
       "dificultad": "intermedia",
-      "pregunta": "Una minera informa que fij? con forwards casi todo su precio de venta. ?Qu? necesita comprender un accionista que buscaba exposici?n al precio del metal?",
+      "pregunta": "Una minera informa que fijó con forwards casi todo su precio de venta. ¿Qué necesita comprender un accionista que buscaba exposición al precio del metal?",
       "opciones": [
-        "Que conservar? necesariamente toda la ganancia de una suba del metal.",
-        "Que una adquisici?n en una industria ajena siempre agregar?a valor por diversificaci?n.",
+        "Que conservará necesariamente toda la ganancia de una suba del metal.",
+        "Que una adquisición en una industria ajena siempre agregaría valor por diversificación.",
         "Que reducir la deuda siempre aumenta la riqueza de los accionistas.",
-        "Que su exposici?n efectiva cambi? y debe evaluar la posici?n conjunta de la minera y sus coberturas."
+        "Que su exposición efectiva cambió y debe evaluar la posición conjunta de la minera y sus coberturas."
       ],
       "correcta": 3,
       "explicaciones": [
-        "Esta conclusi?n ignora la posici?n corta en forwards. La ganancia operativa por una suba puede compensarse con una p?rdida contractual. Hay que analizar ambos componentes para medir la exposici?n.",
-        "La diversificaci?n empresarial no crea valor autom?ticamente. Los accionistas pueden diversificar sus carteras directamente. En mercados perfectos, duplicar esa operaci?n dentro de la empresa resulta redundante.",
-        "Menos deuda puede reducir riesgo financiero, pero no garantiza mayor riqueza. En el marco de mercados perfectos, los inversores pueden ajustar su endeudamiento personal. Las ventajas reales de una pol?tica financiera requieren considerar las fricciones pertinentes.",
-        "El rendimiento de la acci?n depende del negocio y de los contratos financieros. Una venta forward reduce el beneficio de una suba del metal. La informaci?n sobre coberturas permite al inversor ajustar su cartera, igual que puede diversificar o cambiar su apalancamiento personal."
+        "Esta conclusión ignora la posición corta en forwards. La ganancia operativa por una suba puede compensarse con una pérdida contractual. Hay que analizar ambos componentes para medir la exposición.",
+        "La diversificación empresarial no crea valor automáticamente. Los accionistas pueden diversificar sus carteras directamente. En mercados perfectos, duplicar esa operación dentro de la empresa resulta redundante.",
+        "Menos deuda puede reducir riesgo financiero, pero no garantiza mayor riqueza. En el marco de mercados perfectos, los inversores pueden ajustar su endeudamiento personal. Las ventajas reales de una política financiera requieren considerar las fricciones pertinentes.",
+        "El rendimiento de la acción depende del negocio y de los contratos financieros. Una venta forward reduce el beneficio de una suba del metal. La información sobre coberturas permite al inversor ajustar su cartera, igual que puede diversificar o cambiar su apalancamiento personal."
       ]
     },
     {
       "id": "c27-q003",
       "tema": "Cobertura y financiamiento",
       "dificultad": "basica",
-      "pregunta": "?Qu? beneficio puede justificar una cobertura en una empresa con proyectos de VPN positivo y acceso costoso al cr?dito?",
+      "pregunta": "¿Qué beneficio puede justificar una cobertura en una empresa con proyectos de VPN positivo y acceso costoso al crédito?",
       "opciones": [
-        "Evitar que un d?ficit de caja obligue a abandonar inversiones valiosas.",
+        "Evitar que un déficit de caja obligue a abandonar inversiones valiosas.",
         "Garantizar que cada derivado genere una utilidad.",
-        "Reemplazar toda evaluaci?n de los proyectos.",
+        "Reemplazar toda evaluación de los proyectos.",
         "Hacer complementarias, en todos los casos, la cobertura y una menor deuda."
       ],
       "correcta": 0,
       "explicaciones": [
-        "Un shock puede dejar sin fondos a una empresa aun cuando sus proyectos sean rentables. La cobertura puede aportar recursos precisamente cuando se necesitan. El valor proviene de preservar inversiones y evitar costos financieros, no de estabilizar resultados por s? mismo.",
-        "Una cobertura puede perder dinero mientras protege el negocio. Su objetivo es mejorar la situaci?n conjunta de caja e inversi?n. Exigir ganancias en cada contrato confunde cobertura con una apuesta ganadora.",
-        "La cobertura no determina si un proyecto crea valor. La empresa todav?a debe estimar flujos y descontarlos correctamente. Su funci?n es reducir el riesgo de no poder financiar proyectos que ya resultan convenientes.",
-        "La cobertura puede permitir sostener una mayor deuda con un riesgo tolerable. En ese sentido, puede sustituir parte del conservadurismo financiero. No existe una obligaci?n general de cubrirse y reducir simult?neamente el endeudamiento."
+        "Un shock puede dejar sin fondos a una empresa aun cuando sus proyectos sean rentables. La cobertura puede aportar recursos precisamente cuando se necesitan. El valor proviene de preservar inversiones y evitar costos financieros, no de estabilizar resultados por sí mismo.",
+        "Una cobertura puede perder dinero mientras protege el negocio. Su objetivo es mejorar la situación conjunta de caja e inversión. Exigir ganancias en cada contrato confunde cobertura con una apuesta ganadora.",
+        "La cobertura no determina si un proyecto crea valor. La empresa todavía debe estimar flujos y descontarlos correctamente. Su función es reducir el riesgo de no poder financiar proyectos que ya resultan convenientes.",
+        "La cobertura puede permitir sostener una mayor deuda con un riesgo tolerable. En ese sentido, puede sustituir parte del conservadurismo financiero. No existe una obligación general de cubrirse y reducir simultáneamente el endeudamiento."
       ]
     },
     {
       "id": "c27-q004",
-      "tema": "Caja y oportunidades de inversi?n",
+      "tema": "Caja y oportunidades de inversión",
       "dificultad": "intermedia",
-      "pregunta": "Una petrolera tiene m?s caja cuando sube el crudo, justamente cuando aparecen sus mejores proyectos de exploraci?n. ?Qu? deber?a evaluar antes de fijar todos sus ingresos?",
+      "pregunta": "Una petrolera tiene más caja cuando sube el crudo, justamente cuando aparecen sus mejores proyectos de exploración. ¿Qué debería evaluar antes de fijar todos sus ingresos?",
       "opciones": [
         "Solamente si el precio forward supera el precio spot actual.",
-        "Si puede eliminar por completo el riesgo geol?gico con futuros de crudo.",
-        "Si la cobertura rompe el acompa?amiento natural entre caja y oportunidades de inversi?n.",
-        "Si los accionistas prefieren ganancias contables id?nticas todos los a?os."
+        "Si puede eliminar por completo el riesgo geológico con futuros de crudo.",
+        "Si la cobertura rompe el acompañamiento natural entre caja y oportunidades de inversión.",
+        "Si los accionistas prefieren ganancias contables idénticas todos los años."
       ],
       "correcta": 2,
       "explicaciones": [
-        "La diferencia entre spot y forward tambi?n refleja costos de tenencia. No basta para determinar si la cobertura conviene a la empresa. El an?lisis central es c?mo se relacionan los fondos disponibles con las oportunidades de inversi?n.",
-        "Los futuros de crudo cubren cambios del precio de referencia. No eliminan la incertidumbre sobre reservas o ?xito de una perforaci?n. Confundir estas fuentes de riesgo lleva a sobreestimar la protecci?n.",
-        "La caja sin cobertura ya aumenta en los estados en que conviene invertir m?s. Fijarla puede quitar recursos en esos estados y dejar excedentes cuando hay pocos proyectos. La pol?tica debe considerar las necesidades de inversi?n, adem?s de la volatilidad de ingresos.",
-        "La estabilidad contable no es el objetivo financiero final. Una empresa puede necesitar m?s recursos en ciertos estados que en otros. Corresponde evaluar el efecto de la cobertura sobre inversi?n y valor."
+        "La diferencia entre spot y forward también refleja costos de tenencia. No basta para determinar si la cobertura conviene a la empresa. El análisis central es cómo se relacionan los fondos disponibles con las oportunidades de inversión.",
+        "Los futuros de crudo cubren cambios del precio de referencia. No eliminan la incertidumbre sobre reservas o éxito de una perforación. Confundir estas fuentes de riesgo lleva a sobreestimar la protección.",
+        "La caja sin cobertura ya aumenta en los estados en que conviene invertir más. Fijarla puede quitar recursos en esos estados y dejar excedentes cuando hay pocos proyectos. La política debe considerar las necesidades de inversión, además de la volatilidad de ingresos.",
+        "La estabilidad contable no es el objetivo financiero final. Una empresa puede necesitar más recursos en ciertos estados que en otros. Corresponde evaluar el efecto de la cobertura sobre inversión y valor."
       ]
     },
     {
       "id": "c27-q005",
-      "tema": "Exposici?n cambiaria e inversi?n",
+      "tema": "Exposición cambiaria e inversión",
       "dificultad": "intermedia",
-      "pregunta": "Una farmac?utica cobra gran parte de sus ventas en moneda extranjera, pero paga investigaci?n de largo plazo en moneda local. ?Qu? fundamento tiene cubrir parte de sus cobros?",
+      "pregunta": "Una farmacéutica cobra gran parte de sus ventas en moneda extranjera, pero paga investigación de largo plazo en moneda local. ¿Qué fundamento tiene cubrir parte de sus cobros?",
       "opciones": [
         "Asegurar que la moneda extranjera se aprecie.",
         "Eliminar el riesgo de que fracase un medicamento.",
-        "Proteger la continuidad de la investigaci?n frente a una ca?da del valor local de las cobranzas.",
+        "Proteger la continuidad de la investigación frente a una caída del valor local de las cobranzas.",
         "Obtener necesariamente un rendimiento superior al de sus competidores."
       ],
       "correcta": 2,
       "explicaciones": [
-        "Un derivado no determina el movimiento del tipo de cambio. Permite redistribuir sus consecuencias financieras. La protecci?n surge de compensar una ca?da de las cobranzas con los pagos del contrato.",
-        "El riesgo cient?fico es distinto del riesgo cambiario. Una cobertura de moneda no modifica la eficacia de una mol?cula. La empresa conserva los riesgos propios de investigaci?n aunque estabilice sus fondos.",
-        "Los compromisos de investigaci?n no suelen poder suspenderse sin costo. Una depreciaci?n de la moneda cobrada puede reducir los fondos disponibles para sostenerlos. Cubrir parte de esa exposici?n puede evitar interrupciones y financiamiento de emergencia.",
-        "La cobertura no garantiza una ventaja de rentabilidad en todos los escenarios. Puede implicar renunciar a beneficios de un movimiento cambiario favorable. Su justificaci?n es sostener inversiones y reducir costos de estados desfavorables."
+        "Un derivado no determina el movimiento del tipo de cambio. Permite redistribuir sus consecuencias financieras. La protección surge de compensar una caída de las cobranzas con los pagos del contrato.",
+        "El riesgo científico es distinto del riesgo cambiario. Una cobertura de moneda no modifica la eficacia de una molécula. La empresa conserva los riesgos propios de investigación aunque estabilice sus fondos.",
+        "Los compromisos de investigación no suelen poder suspenderse sin costo. Una depreciación de la moneda cobrada puede reducir los fondos disponibles para sostenerlos. Cubrir parte de esa exposición puede evitar interrupciones y financiamiento de emergencia.",
+        "La cobertura no garantiza una ventaja de rentabilidad en todos los escenarios. Puede implicar renunciar a beneficios de un movimiento cambiario favorable. Su justificación es sostener inversiones y reducir costos de estados desfavorables."
       ]
     },
     {
       "id": "c27-q006",
       "tema": "Agencia y mercado interno",
       "dificultad": "intermedia",
-      "pregunta": "Dos divisiones tienen exposiciones opuestas al mismo insumo y sus gerentes son evaluados por resultados. ?Qu? organizaci?n resulta razonable?",
+      "pregunta": "Dos divisiones tienen exposiciones opuestas al mismo insumo y sus gerentes son evaluados por resultados. ¿Qué organización resulta razonable?",
       "opciones": [
-        "Usar coberturas internas a precios de mercado y decidir centralmente sobre la exposici?n neta.",
-        "Exigir que cada divisi?n cubra externamente su exposici?n bruta completa.",
+        "Usar coberturas internas a precios de mercado y decidir centralmente sobre la exposición neta.",
+        "Exigir que cada división cubra externamente su exposición bruta completa.",
         "Premiar toda mejora de utilidades como si reflejara habilidad gerencial.",
         "Permitir apuestas de futuros para recuperar un bono anual perdido."
       ],
       "correcta": 0,
       "explicaciones": [
-        "Las coberturas internas ayudan a separar desempe?o operativo de shocks externos. La tesorer?a puede compensar exposiciones entre divisiones antes de contratar derivados reales. As? evita costos innecesarios y limita apuestas financieras de gerentes operativos.",
-        "Esta pol?tica ignora las compensaciones dentro del grupo. Puede generar dos contratos externos que se cancelan econ?micamente. Centralizar la exposici?n neta permite alcanzar el objetivo con menos operaciones.",
-        "Una mejora puede provenir de una ca?da fortuita del precio del insumo. Si se atribuye todo al gerente, se distorsionan los incentivos. La evaluaci?n debe distinguir riesgos controlables de shocks externos.",
-        "Esa pr?ctica incentiva asumir m?s riesgo cuando el desempe?o ya es malo. El gerente puede apostar recursos de la empresa para proteger su remuneraci?n. La supervisi?n y la centralizaci?n buscan evitar ese conflicto de agencia."
+        "Las coberturas internas ayudan a separar desempeño operativo de shocks externos. La tesorería puede compensar exposiciones entre divisiones antes de contratar derivados reales. Así evita costos innecesarios y limita apuestas financieras de gerentes operativos.",
+        "Esta política ignora las compensaciones dentro del grupo. Puede generar dos contratos externos que se cancelan económicamente. Centralizar la exposición neta permite alcanzar el objetivo con menos operaciones.",
+        "Una mejora puede provenir de una caída fortuita del precio del insumo. Si se atribuye todo al gerente, se distorsionan los incentivos. La evaluación debe distinguir riesgos controlables de shocks externos.",
+        "Esa práctica incentiva asumir más riesgo cuando el desempeño ya es malo. El gerente puede apostar recursos de la empresa para proteger su remuneración. La supervisión y la centralización buscan evitar ese conflicto de agencia."
       ]
     },
     {
       "id": "c27-q007",
       "tema": "Mapa de riesgos y flexibilidad",
       "dificultad": "basica",
-      "pregunta": "?Cu?l es un enfoque completo para decidir c?mo administrar un riesgo importante?",
+      "pregunta": "¿Cuál es un enfoque completo para decidir cómo administrar un riesgo importante?",
       "opciones": [
         "Eliminar cualquier incertidumbre, aunque desaparezca una oportunidad rentable.",
-        "Elegir siempre el derivado m?s complejo disponible.",
-        "Mirar ?nicamente la volatilidad pasada de la acci?n.",
-        "Medir sus consecuencias, evaluar si tiene una compensaci?n y comparar flexibilidad operativa, financiamiento y coberturas."
+        "Elegir siempre el derivado más complejo disponible.",
+        "Mirar únicamente la volatilidad pasada de la acción.",
+        "Medir sus consecuencias, evaluar si tiene una compensación y comparar flexibilidad operativa, financiamiento y coberturas."
       ],
       "correcta": 3,
       "explicaciones": [
-        "Los administradores deben asumir ciertos riesgos para crear valor. Reducir toda incertidumbre puede destruir oportunidades. La decisi?n depende de la compensaci?n y de las consecuencias de cada exposici?n.",
-        "La complejidad del instrumento no mide su utilidad. A veces una modificaci?n operativa o financiera cubre mejor la exposici?n. La herramienta debe responder al riesgo identificado y a sus costos.",
-        "La volatilidad hist?rica puede aportar informaci?n, pero no identifica todas las consecuencias futuras. Hay que considerar flujos de caja, inversi?n y escenarios extremos. Una medida agregada de precios no reemplaza el an?lisis de las exposiciones.",
-        "Primero hay que identificar los riesgos que pueden comprometer a la empresa. Despu?s corresponde distinguir los que conviene asumir de los que no ofrecen una retribuci?n adecuada. Las opciones reales, como cambiar de insumo o abandonar con menor costo, tambi?n forman parte de las herramientas disponibles."
+        "Los administradores deben asumir ciertos riesgos para crear valor. Reducir toda incertidumbre puede destruir oportunidades. La decisión depende de la compensación y de las consecuencias de cada exposición.",
+        "La complejidad del instrumento no mide su utilidad. A veces una modificación operativa o financiera cubre mejor la exposición. La herramienta debe responder al riesgo identificado y a sus costos.",
+        "La volatilidad histórica puede aportar información, pero no identifica todas las consecuencias futuras. Hay que considerar flujos de caja, inversión y escenarios extremos. Una medida agregada de precios no reemplaza el análisis de las exposiciones.",
+        "Primero hay que identificar los riesgos que pueden comprometer a la empresa. Después corresponde distinguir los que conviene asumir de los que no ofrecen una retribución adecuada. Las opciones reales, como cambiar de insumo o abandonar con menor costo, también forman parte de las herramientas disponibles."
       ]
     },
     {
       "id": "c27-q008",
       "tema": "Evidencia e incentivos gerenciales",
       "dificultad": "avanzada",
-      "pregunta": "?Qu? interpretaci?n es consistente con que algunos estudios encuentren m?s cobertura cuando los gerentes tienen muchas acciones y menos cuando tienen muchas opciones?",
+      "pregunta": "¿Qué interpretación es consistente con que algunos estudios encuentren más cobertura cuando los gerentes tienen muchas acciones y menos cuando tienen muchas opciones?",
       "opciones": [
         "Que tener opciones vuelve irrelevante cualquier riesgo de quiebra.",
-        "La aversi?n al riesgo personal y los incentivos de las opciones pueden influir en la pol?tica de cobertura.",
+        "La aversión al riesgo personal y los incentivos de las opciones pueden influir en la política de cobertura.",
         "Que la cobertura siempre maximiza el valor cuando aumenta la riqueza personal del gerente.",
         "Que las empresas endeudadas nunca tienen motivos para cubrirse."
       ],
       "correcta": 1,
       "explicaciones": [
-        "Las opciones no eliminan los compromisos de la empresa ni los costos de dificultades financieras. S?lo modifican una parte de los incentivos personales. La pol?tica debe seguir evaluando las consecuencias para toda la compa??a.",
-        "Una tenencia accionaria concentrada expone la riqueza personal del gerente a p?rdidas. En cambio, el valor de una opci?n suele aumentar con la volatilidad del subyacente. La asociaci?n observada es compatible con esos incentivos, pero no prueba por s? sola una relaci?n causal.",
-        "El inter?s personal del gerente puede diferir del de accionistas diversificados. Una preferencia por menor riesgo no demuestra creaci?n de valor corporativo. La decisi?n requiere identificar beneficios para la empresa y costos de la cobertura.",
-        "El endeudamiento puede intensificar los costos de un d?ficit de caja. Por eso puede aumentar el incentivo a cubrir exposiciones. La evidencia sobre acceso al cr?dito y dificultades financieras es consistente con ese motivo."
+        "Las opciones no eliminan los compromisos de la empresa ni los costos de dificultades financieras. Sólo modifican una parte de los incentivos personales. La política debe seguir evaluando las consecuencias para toda la compañía.",
+        "Una tenencia accionaria concentrada expone la riqueza personal del gerente a pérdidas. En cambio, el valor de una opción suele aumentar con la volatilidad del subyacente. La asociación observada es compatible con esos incentivos, pero no prueba por sí sola una relación causal.",
+        "El interés personal del gerente puede diferir del de accionistas diversificados. Una preferencia por menor riesgo no demuestra creación de valor corporativo. La decisión requiere identificar beneficios para la empresa y costos de la cobertura.",
+        "El endeudamiento puede intensificar los costos de un déficit de caja. Por eso puede aumentar el incentivo a cubrir exposiciones. La evidencia sobre acceso al crédito y dificultades financieras es consistente con ese motivo."
       ]
     },
     {
       "id": "c27-q009",
       "tema": "Impuestos y volatilidad",
       "dificultad": "avanzada",
-      "pregunta": "Supongamos que las utilidades pagan impuestos hoy, pero las p?rdidas s?lo permiten deducciones futuras de valor presente menor. ?C?mo podr?a crear valor una cobertura?",
+      "pregunta": "Supongamos que las utilidades pagan impuestos hoy, pero las pérdidas sólo permiten deducciones futuras de valor presente menor. ¿Cómo podría crear valor una cobertura?",
       "opciones": [
-        "Al convertir toda prima de cobertura en una devoluci?n inmediata de impuestos.",
-        "Al reducir la asimetr?a fiscal efectiva que sufre una empresa con resultados muy vol?tiles.",
+        "Al convertir toda prima de cobertura en una devolución inmediata de impuestos.",
+        "Al reducir la asimetría fiscal efectiva que sufre una empresa con resultados muy volátiles.",
         "Al garantizar una tasa de impuesto cero.",
-        "Al aumentar deliberadamente la frecuencia de p?rdidas sin cr?dito fiscal inmediato."
+        "Al aumentar deliberadamente la frecuencia de pérdidas sin crédito fiscal inmediato."
       ],
       "correcta": 1,
       "explicaciones": [
-        "No hay tal consecuencia general. El tratamiento fiscal depende del contrato y de las reglas supuestas. El argumento econ?mico relevante es la asimetr?a entre gravar ganancias y reconocer p?rdidas.",
-        "La empresa paga inmediatamente en los estados rentables, pero no obtiene un reintegro equivalente al perder. Esa asimetr?a puede hacer costosa la volatilidad. Una cobertura que suavice resultados puede reducir la carga fiscal esperada, aunque su importancia depende del r?gimen aplicable.",
-        "Reducir la variabilidad de resultados no elimina necesariamente la base imponible. La empresa puede seguir obteniendo utilidades gravadas. El beneficio posible es una menor carga esperada, no una exenci?n autom?tica.",
-        "Eso agrava la asimetr?a planteada. Las p?rdidas con deducciones demoradas tienen menor valor fiscal presente. La cobertura puede ayudar justamente evitando algunos estados extremos de p?rdida."
+        "No hay tal consecuencia general. El tratamiento fiscal depende del contrato y de las reglas supuestas. El argumento económico relevante es la asimetría entre gravar ganancias y reconocer pérdidas.",
+        "La empresa paga inmediatamente en los estados rentables, pero no obtiene un reintegro equivalente al perder. Esa asimetría puede hacer costosa la volatilidad. Una cobertura que suavice resultados puede reducir la carga fiscal esperada, aunque su importancia depende del régimen aplicable.",
+        "Reducir la variabilidad de resultados no elimina necesariamente la base imponible. La empresa puede seguir obteniendo utilidades gravadas. El beneficio posible es una menor carga esperada, no una exención automática.",
+        "Eso agrava la asimetría planteada. Las pérdidas con deducciones demoradas tienen menor valor fiscal presente. La cobertura puede ayudar justamente evitando algunos estados extremos de pérdida."
       ]
     },
     {
       "id": "c27-q010",
       "tema": "Ventajas de las aseguradoras",
       "dificultad": "basica",
-      "pregunta": "?Qu? ventaja econ?mica puede aportar una aseguradora a una empresa?",
+      "pregunta": "¿Qué ventaja económica puede aportar una aseguradora a una empresa?",
       "opciones": [
-        "Eliminar todo riesgo macroecon?mico por aumentar el n?mero de p?lizas.",
+        "Eliminar todo riesgo macroeconómico por aumentar el número de pólizas.",
         "Conocer con certeza la fecha y el importe de cada siniestro.",
-        "Garantizar que sus primas sean inferiores a las p?rdidas esperadas.",
-        "Experiencia para evaluar siniestros, asesoramiento preventivo y diversificaci?n de riesgos espec?ficos."
+        "Garantizar que sus primas sean inferiores a las pérdidas esperadas.",
+        "Experiencia para evaluar siniestros, asesoramiento preventivo y diversificación de riesgos específicos."
       ],
       "correcta": 3,
       "explicaciones": [
-        "La diversificaci?n funciona mejor con riesgos que no se mueven juntos. Un shock agregado puede afectar muchas p?lizas simult?neamente. Aumentar la cantidad no elimina esa exposici?n com?n.",
-        "La experiencia permite estimar probabilidades, no adivinar resultados individuales. Una p?liza particular sigue siendo incierta. La estabilidad surge del conjunto de exposiciones y de una adecuada gesti?n del riesgo.",
-        "Una prima persistentemente inferior a las p?rdidas esperadas no cubrir?a los costos. Adem?s de siniestros, la aseguradora soporta gastos de administraci?n y evaluaci?n. Sus ventajas no implican regalar cobertura.",
-        "Una aseguradora puede reunir informaci?n de numerosos riesgos semejantes. Tambi?n puede recomendar medidas que reduzcan p?rdidas y agrupar p?lizas con siniestros poco correlacionados. Esa diversificaci?n no elimina shocks macroecon?micos que afecten simult?neamente a muchas p?lizas."
+        "La diversificación funciona mejor con riesgos que no se mueven juntos. Un shock agregado puede afectar muchas pólizas simultáneamente. Aumentar la cantidad no elimina esa exposición común.",
+        "La experiencia permite estimar probabilidades, no adivinar resultados individuales. Una póliza particular sigue siendo incierta. La estabilidad surge del conjunto de exposiciones y de una adecuada gestión del riesgo.",
+        "Una prima persistentemente inferior a las pérdidas esperadas no cubriría los costos. Además de siniestros, la aseguradora soporta gastos de administración y evaluación. Sus ventajas no implican regalar cobertura.",
+        "Una aseguradora puede reunir información de numerosos riesgos semejantes. También puede recomendar medidas que reduzcan pérdidas y agrupar pólizas con siniestros poco correlacionados. Esa diversificación no elimina shocks macroeconómicos que afecten simultáneamente a muchas pólizas."
       ]
     },
     {
       "id": "c27-q011",
       "tema": "Prima actuarial y descuento",
       "dificultad": "intermedia",
-      "pregunta": "Una instalaci?n puede sufrir una p?rdida de $5.000.000 al final del a?o con probabilidad del 2%. El riesgo es diversificable y la tasa anual es 5%. Sin gastos ni fricciones, ?qu? prima hoy da VPN cero?",
+      "pregunta": "Una instalación puede sufrir una pérdida de $5.000.000 al final del año con probabilidad del 2%. El riesgo es diversificable y la tasa anual es 5%. Sin gastos ni fricciones, ¿qué prima hoy da VPN cero?",
       "opciones": [
         "$95.238,10.",
         "$100.000.",
@@ -205,105 +205,1131 @@
       ],
       "correcta": 0,
       "explicaciones": [
-        "La p?rdida esperada al final del a?o es 0,02 ? 5.000.000 = $100.000. Como la prima se paga hoy, se descuenta: 100.000 / 1,05 = $95.238,10. Bajo los supuestos indicados, ese es el valor presente de la indemnizaci?n esperada.",
-        "Este importe es la indemnizaci?n esperada al final del a?o. Cobrarlo hoy ignora que la aseguradora puede invertir la prima durante el per?odo. Para obtener VPN cero hay que descontar ese flujo esperado al 5%.",
-        "Este c?lculo capitaliza la p?rdida esperada en vez de descontarla. La indemnizaci?n ocurre despu?s de cobrar la prima. Por eso el importe de hoy debe ser menor que $100.000 bajo una tasa positiva.",
-        "Este valor descuenta la p?rdida m?xima como si fuera segura. La probabilidad del siniestro es solamente 2%. Primero se calcula la p?rdida esperada y despu?s se descuenta."
+        "La pérdida esperada al final del año es 0,02 × 5.000.000 = $100.000. Como la prima se paga hoy, se descuenta: 100.000 / 1,05 = $95.238,10. Bajo los supuestos indicados, ese es el valor presente de la indemnización esperada.",
+        "Este importe es la indemnización esperada al final del año. Cobrarlo hoy ignora que la aseguradora puede invertir la prima durante el período. Para obtener VPN cero hay que descontar ese flujo esperado al 5%.",
+        "Este cálculo capitaliza la pérdida esperada en vez de descontarla. La indemnización ocurre después de cobrar la prima. Por eso el importe de hoy debe ser menor que $100.000 bajo una tasa positiva.",
+        "Este valor descuenta la pérdida máxima como si fuera segura. La probabilidad del siniestro es solamente 2%. Primero se calcula la pérdida esperada y después se descuenta."
       ]
     },
     {
       "id": "c27-q012",
-      "tema": "Selecci?n adversa",
+      "tema": "Selección adversa",
       "dificultad": "basica",
-      "pregunta": "Una aseguradora no distingue instalaciones seguras de otras con defectos ocultos. A una prima uniforme, las de mayor riesgo contratan m?s cobertura. ?Qu? problema aparece?",
+      "pregunta": "Una aseguradora no distingue instalaciones seguras de otras con defectos ocultos. A una prima uniforme, las de mayor riesgo contratan más cobertura. ¿Qué problema aparece?",
       "opciones": [
         "Riesgo moral exclusivamente.",
         "Arbitraje sin riesgo.",
-        "Selecci?n adversa.",
+        "Selección adversa.",
         "Riesgo de la base de un futuro."
       ],
       "correcta": 2,
       "explicaciones": [
-        "El riesgo moral se refiere a cambios de conducta asociados con estar asegurado. Aqu? el problema existe antes de contratar y surge de informaci?n privada. Por eso corresponde identificar selecci?n adversa.",
-        "No se describe una combinaci?n de operaciones que garantice una ganancia. Hay un problema de informaci?n entre asegurados y aseguradora. Esa informaci?n desigual altera qui?n decide comprar la p?liza.",
-        "Los solicitantes conocen mejor su riesgo antes de contratar. A un mismo precio, la cobertura resulta m?s atractiva para quienes esperan m?s p?rdidas. La composici?n de la cartera empeora y puede obligar a elevar primas.",
-        "No hay aqu? dos precios de mercado que evolucionen de manera diferente. La dificultad es distinguir calidades de riesgo entre clientes. El riesgo de la base pertenece a una falta de correspondencia entre exposici?n y cobertura."
+        "El riesgo moral se refiere a cambios de conducta asociados con estar asegurado. Aquí el problema existe antes de contratar y surge de información privada. Por eso corresponde identificar selección adversa.",
+        "No se describe una combinación de operaciones que garantice una ganancia. Hay un problema de información entre asegurados y aseguradora. Esa información desigual altera quién decide comprar la póliza.",
+        "Los solicitantes conocen mejor su riesgo antes de contratar. A un mismo precio, la cobertura resulta más atractiva para quienes esperan más pérdidas. La composición de la cartera empeora y puede obligar a elevar primas.",
+        "No hay aquí dos precios de mercado que evolucionen de manera diferente. La dificultad es distinguir calidades de riesgo entre clientes. El riesgo de la base pertenece a una falta de correspondencia entre exposición y cobertura."
       ]
     },
     {
       "id": "c27-q013",
       "tema": "Riesgo moral y costos del seguro",
       "dificultad": "basica",
-      "pregunta": "Despu?s de asegurar una planta, su due?o reduce el mantenimiento porque la aseguradora absorber? gran parte de los da?os. ?Qu? explica este comportamiento?",
+      "pregunta": "Después de asegurar una planta, su dueño reduce el mantenimiento porque la aseguradora absorberá gran parte de los daños. ¿Qué explica este comportamiento?",
       "opciones": [
-        "Selecci?n adversa, porque cambi? la conducta despu?s del contrato.",
-        "Diversificaci?n, porque toda reducci?n del mantenimiento disminuye el riesgo agregado.",
+        "Selección adversa, porque cambió la conducta después del contrato.",
+        "Diversificación, porque toda reducción del mantenimiento disminuye el riesgo agregado.",
         "Riesgo moral, que puede requerir inspecciones y elevar el costo de asegurar.",
         "Una oportunidad de arbitraje que abarata necesariamente las primas."
       ],
       "correcta": 2,
       "explicaciones": [
-        "La selecci?n adversa trata sobre informaci?n o tipos de riesgo previos a contratar. El dato decisivo aqu? es el cambio de mantenimiento tras obtener cobertura. Ese cambio corresponde al riesgo moral.",
-        "Menos mantenimiento puede aumentar la probabilidad o gravedad de da?os. Diversificar no consiste en empeorar la prevenci?n individual. Consiste en combinar exposiciones para reducir la variabilidad conjunta.",
-        "La cobertura modifica el incentivo para prevenir p?rdidas. La aseguradora puede necesitar controles para limitar esa conducta. Esos controles, junto con los gastos de gesti?n y de reclamaciones, ayudan a explicar primas superiores a la p?rdida esperada.",
+        "La selección adversa trata sobre información o tipos de riesgo previos a contratar. El dato decisivo aquí es el cambio de mantenimiento tras obtener cobertura. Ese cambio corresponde al riesgo moral.",
+        "Menos mantenimiento puede aumentar la probabilidad o gravedad de daños. Diversificar no consiste en empeorar la prevención individual. Consiste en combinar exposiciones para reducir la variabilidad conjunta.",
+        "La cobertura modifica el incentivo para prevenir pérdidas. La aseguradora puede necesitar controles para limitar esa conducta. Esos controles, junto con los gastos de gestión y de reclamaciones, ayudan a explicar primas superiores a la pérdida esperada.",
         "El ahorro privado en mantenimiento puede trasladar costos a la aseguradora. No crea una ganancia social segura ni obliga a bajar las primas. La respuesta probable incluye controles y mayor precio por el riesgo adicional."
       ]
     },
     {
       "id": "c27-q014",
-      "tema": "Bonos de cat?strofe",
+      "tema": "Bonos de catástrofe",
       "dificultad": "basica",
-      "pregunta": "?C?mo distribuye el riesgo un bono de cat?strofe?",
+      "pregunta": "¿Cómo distribuye el riesgo un bono de catástrofe?",
       "opciones": [
-        "Sus inversores pueden perder pagos o capital si ocurre el evento definido, absorbiendo parte de la p?rdida asegurada.",
-        "Obliga al asegurador a aumentar los pagos cuando ocurre la cat?strofe.",
+        "Sus inversores pueden perder pagos o capital si ocurre el evento definido, absorbiendo parte de la pérdida asegurada.",
+        "Obliga al asegurador a aumentar los pagos cuando ocurre la catástrofe.",
         "Garantiza el capital del inversor frente a cualquier desastre.",
         "Elimina la necesidad de definir un disparador contractual."
       ],
       "correcta": 0,
       "explicaciones": [
-        "El contrato vincula los pagos del bono con una cat?strofe especificada. Si se activa la condici?n, el inversor recibe menos de lo prometido en ausencia del evento. As? parte del riesgo pasa del asegurador a los mercados de capitales.",
-        "Esto invertir?a el mecanismo de protecci?n del emisor. En un bono de cat?strofe, la activaci?n reduce o cancela pagos previstos. Esa reducci?n libera recursos para afrontar las p?rdidas aseguradas.",
-        "El inversor asume precisamente un riesgo de p?rdida ligado al evento. Si el capital estuviera garantizado en todos los casos, no se transferir?a ese riesgo de la misma manera. Hay que leer el disparador y las condiciones de pago.",
-        "La transferencia requiere precisar cu?ndo cambian los pagos. Sin una condici?n verificable surgir?an disputas sobre la obligaci?n. El disparador es esencial para determinar qui?n soporta la p?rdida."
+        "El contrato vincula los pagos del bono con una catástrofe especificada. Si se activa la condición, el inversor recibe menos de lo prometido en ausencia del evento. Así parte del riesgo pasa del asegurador a los mercados de capitales.",
+        "Esto invertiría el mecanismo de protección del emisor. En un bono de catástrofe, la activación reduce o cancela pagos previstos. Esa reducción libera recursos para afrontar las pérdidas aseguradas.",
+        "El inversor asume precisamente un riesgo de pérdida ligado al evento. Si el capital estuviera garantizado en todos los casos, no se transferiría ese riesgo de la misma manera. Hay que leer el disparador y las condiciones de pago.",
+        "La transferencia requiere precisar cuándo cambian los pagos. Sin una condición verificable surgirían disputas sobre la obligación. El disparador es esencial para determinar quién soporta la pérdida."
       ]
     },
     {
       "id": "c27-q015",
       "tema": "Disparadores de bonos Cat",
       "dificultad": "avanzada",
-      "pregunta": "Un asegurador compara un bono Cat activado por sus propias reclamaciones con otro activado por p?rdidas de toda la industria. ?Qu? intercambio enfrenta?",
+      "pregunta": "Un asegurador compara un bono Cat activado por sus propias reclamaciones con otro activado por pérdidas de toda la industria. ¿Qué intercambio enfrenta?",
       "opciones": [
-        "El disparador sectorial elimina toda diferencia entre p?rdidas propias y pagos del bono.",
+        "El disparador sectorial elimina toda diferencia entre pérdidas propias y pagos del bono.",
         "El disparador propio elimina todo incentivo de riesgo moral.",
-        "Ambos disparadores aseguran siempre la misma indemnizaci?n en cada escenario.",
-        "El disparador sectorial suele reducir el incentivo a inflar p?rdidas propias, pero puede aumentar el riesgo de la base."
+        "Ambos disparadores aseguran siempre la misma indemnización en cada escenario.",
+        "El disparador sectorial suele reducir el incentivo a inflar pérdidas propias, pero puede aumentar el riesgo de la base."
       ],
       "correcta": 3,
       "explicaciones": [
-        "Las p?rdidas sectoriales pueden ser grandes en regiones donde el emisor tiene poca exposici?n. Tambi?n puede ocurrir lo contrario. Por eso el v?nculo sectorial puede dejar una cobertura imperfecta.",
-        "Vincular el alivio financiero a reclamaciones propias puede afectar incentivos. El emisor podr?a tener menor inter?s en contener p?rdidas o discutir reclamaciones. Se necesitan mecanismos contractuales y de control que limiten ese problema.",
-        "Cada disparador observa una variable diferente. S?lo coincidir?an necesariamente si las p?rdidas propias y sectoriales estuvieran ligadas de manera exacta. La elecci?n altera tanto incentivos como precisi?n de la cobertura.",
-        "Las p?rdidas de la industria no coinciden necesariamente con las del emisor. Por eso puede sufrir da?os sin recibir alivio contractual suficiente. Un disparador basado en sus propias reclamaciones ajusta mejor la cobertura, pero puede generar incentivos a influir en esas reclamaciones."
+        "Las pérdidas sectoriales pueden ser grandes en regiones donde el emisor tiene poca exposición. También puede ocurrir lo contrario. Por eso el vínculo sectorial puede dejar una cobertura imperfecta.",
+        "Vincular el alivio financiero a reclamaciones propias puede afectar incentivos. El emisor podría tener menor interés en contener pérdidas o discutir reclamaciones. Se necesitan mecanismos contractuales y de control que limiten ese problema.",
+        "Cada disparador observa una variable diferente. Sólo coincidirían necesariamente si las pérdidas propias y sectoriales estuvieran ligadas de manera exacta. La elección altera tanto incentivos como precisión de la cobertura.",
+        "Las pérdidas de la industria no coinciden necesariamente con las del emisor. Por eso puede sufrir daños sin recibir alivio contractual suficiente. Un disparador basado en sus propias reclamaciones ajusta mejor la cobertura, pero puede generar incentivos a influir en esas reclamaciones."
       ]
     },
     {
       "id": "c27-q016",
       "tema": "Autoaseguro y estrategia de BP",
       "dificultad": "intermedia",
-      "pregunta": "Una empresa muy grande eval?a retener p?rdidas excepcionales que puede absorber, pero asegurar riesgos rutinarios donde las aseguradoras tienen informaci?n y precios competitivos. ?Cu?l es la l?gica?",
+      "pregunta": "Una empresa muy grande evalúa retener pérdidas excepcionales que puede absorber, pero asegurar riesgos rutinarios donde las aseguradoras tienen información y precios competitivos. ¿Cuál es la lógica?",
       "opciones": [
-        "Asegurar siempre lo grande y retener siempre lo peque?o, sin analizar costos.",
-        "Comparar la ventaja del asegurador y el costo de la prima con la capacidad propia de absorber cada p?rdida.",
+        "Asegurar siempre lo grande y retener siempre lo pequeño, sin analizar costos.",
+        "Comparar la ventaja del asegurador y el costo de la prima con la capacidad propia de absorber cada pérdida.",
         "Retener riesgos elimina la probabilidad de siniestro.",
-        "Elegir s?lo seg?n la diferencia hist?rica entre primas y reclamaciones."
+        "Elegir sólo según la diferencia histórica entre primas y reclamaciones."
       ],
       "correcta": 1,
       "explicaciones": [
-        "Esa regla es una orientaci?n frecuente, pero no una ley econ?mica. La escala financiera y la eficiencia relativa del asegurador pueden cambiar la decisi?n. Lo relevante es el efecto de cada p?liza sobre costos y dificultades financieras.",
-        "Una p?rdida grande en t?rminos absolutos puede ser peque?a respecto del capital de una empresa enorme. Si el seguro especializado resulta caro y aporta poca informaci?n adicional, retenerla puede ser razonable. Los riesgos rutinarios pueden asegurarse cuando el proveedor externo los eval?a y administra con mayor eficiencia.",
-        "Autoasegurarse significa asumir financieramente las p?rdidas. No modifica por s? mismo la probabilidad de un accidente. La prevenci?n y la capacidad de absorber da?os deben evaluarse por separado.",
-        "Un per?odo con pocas reclamaciones no demuestra que una p?liza fuera in?til. El seguro protege frente a escenarios que pueden no haber ocurrido en la muestra. Hay que analizar p?rdidas posibles, precios, informaci?n y capacidad financiera."
+        "Esa regla es una orientación frecuente, pero no una ley económica. La escala financiera y la eficiencia relativa del asegurador pueden cambiar la decisión. Lo relevante es el efecto de cada póliza sobre costos y dificultades financieras.",
+        "Una pérdida grande en términos absolutos puede ser pequeña respecto del capital de una empresa enorme. Si el seguro especializado resulta caro y aporta poca información adicional, retenerla puede ser razonable. Los riesgos rutinarios pueden asegurarse cuando el proveedor externo los evalúa y administra con mayor eficiencia.",
+        "Autoasegurarse significa asumir financieramente las pérdidas. No modifica por sí mismo la probabilidad de un accidente. La prevención y la capacidad de absorber daños deben evaluarse por separado.",
+        "Un período con pocas reclamaciones no demuestra que una póliza fuera inútil. El seguro protege frente a escenarios que pueden no haber ocurrido en la muestra. Hay que analizar pérdidas posibles, precios, información y capacidad financiera."
+      ]
+    },
+    {
+      "id": "c27-q017",
+      "tema": "Forward, spot y opciones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a un forward de compra de una materia prima?",
+      "opciones": [
+        "Concede el derecho a comprar sin obligación.",
+        "Fija hoy el precio de una compra futura obligatoria, a diferencia de una opción de compra.",
+        "Exige siempre pagar hoy el precio total de la mercancía.",
+        "Deja el precio sin determinar hasta la entrega."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa descripción corresponde a una opción de compra. En un forward ambas partes asumen compromisos. La posición larga debe cumplir aunque el precio pactado resulte desfavorable al vencimiento.",
+        "El precio spot corresponde a entrega inmediata y el forward a una operación futura. La posición larga se compromete a comprar al precio acordado. No puede simplemente renunciar al contrato porque el mercado haya bajado, como podría hacer con una opción.",
+        "En el forward estándar el precio se pacta hoy, pero se paga en la fecha futura acordada. Puede haber garantías u otras condiciones particulares. No debe confundirse el compromiso con una compra spot pagada al inicio.",
+        "El propósito del forward es fijar por anticipado el precio contractual. Si se usara simplemente el spot futuro, no se aseguraría ese precio. La incertidumbre permanece en el valor de mercado del contrato, no en el precio de entrega pactado."
+      ]
+    },
+    {
+      "id": "c27-q018",
+      "tema": "Productor con posición corta",
+      "dificultad": "intermedia",
+      "pregunta": "Un productor venderá 2.000 unidades y vende forwards a $80 por unidad. Al vencimiento, el spot es $65. Sin costos ni incumplimientos, ¿cuánto cobra en total combinando venta spot y liquidación del forward?",
+      "opciones": [
+        "$130.000.",
+        "$100.000.",
+        "$190.000.",
+        "$160.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe considera únicamente la venta física. Omite los $30.000 ganados por la posición corta al caer el precio. La cobertura se evalúa sumando ambos flujos.",
+        "Esta cifra resta la diferencia de precios cuando debería sumarla. El vendedor forward gana si el spot termina por debajo del precio pactado. El ingreso físico de $130.000 se complementa con $30.000 del contrato.",
+        "El contrato aporta $30.000, no $60.000. No corresponde sumar la diferencia de precios dos veces. El ingreso total se fija en 2.000 × $80.",
+        "La venta spot genera 2.000 × 65 = $130.000. La posición corta gana 2.000 × (80 − 65) = $30.000. El ingreso conjunto es $160.000, igual al precio asegurado multiplicado por la cantidad."
+      ]
+    },
+    {
+      "id": "c27-q019",
+      "tema": "Comprador con posición larga",
+      "dificultad": "intermedia",
+      "pregunta": "Una fábrica necesita 500 toneladas y compra futuros a $200 por tonelada. Al vencimiento spot y futuro convergen en $240. Ignorá intereses sobre márgenes y costos: ¿cuál es el costo neto de compra?",
+      "opciones": [
+        "$100.000.",
+        "$120.000.",
+        "$140.000.",
+        "$20.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La compra física cuesta 500 × 240 = $120.000. La posición larga gana 500 × (240 − 200) = $20.000. Al restar esa ganancia, el costo neto es $100.000.",
+        "Ese es sólo el pago en el mercado físico. La suba genera además una ganancia en los futuros comprados. El costo conjunto requiere descontar esa ganancia del desembolso físico.",
+        "Esta opción suma la ganancia del futuro como si fuera una pérdida. Una posición larga se beneficia de una suba del precio. Por eso los $20.000 reducen el costo efectivo de la materia prima.",
+        "Esta cifra representa la ganancia del derivado. No es el costo de adquirir las toneladas. La fábrica sigue pagando la compra física y luego considera la compensación financiera."
+      ]
+    },
+    {
+      "id": "c27-q020",
+      "tema": "Futuros y forwards a medida",
+      "dificultad": "basica",
+      "pregunta": "¿Qué comparación describe mejor a futuros y forwards bilaterales?",
+      "opciones": [
+        "Los futuros siempre permiten cualquier fecha y cantidad sin restricciones.",
+        "Un forward bilateral elimina por definición el riesgo de incumplimiento.",
+        "Los futuros suelen ser estandarizados, negociados en bolsa y liquidados diariamente; los forwards permiten adaptar las condiciones.",
+        "El valor de un derivado es independiente del activo subyacente."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esa flexibilidad caracteriza mejor a un contrato negociado a medida. Los futuros emplean especificaciones comunes para facilitar su negociación. La empresa puede necesitar varios contratos o aceptar un desajuste.",
+        "La contraparte puede no cumplir su compromiso. Negociar un contrato privado no elimina ese riesgo. Hay que evaluar su crédito y las garantías acordadas.",
+        "La estandarización facilita negociar grandes volúmenes con vencimientos definidos. El forward bilateral puede ajustarse a cantidades, fechas y necesidades particulares. Esa flexibilidad debe evaluarse junto con la liquidez y la exposición a la contraparte.",
+        "El derivado obtiene su valor de precios, tasas u otras variables de referencia. Un forward sobre cobre depende del precio del cobre. La independencia del subyacente contradice la naturaleza del instrumento."
+      ]
+    },
+    {
+      "id": "c27-q021",
+      "tema": "Liquidación diaria y margen",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa compra tres futuros, cada uno por 100 unidades, a $50. El ajuste del día siguiente es $53. ¿Qué movimiento produce la liquidación diaria, sin considerar otros cargos?",
+      "opciones": [
+        "Un débito de $900.",
+        "Un crédito de $300.",
+        "Un crédito de $900 en su cuenta de margen.",
+        "Ningún movimiento hasta la entrega."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este signo correspondería a una posición corta. El comprador se beneficia cuando sube el precio del futuro. Por eso recibe el ajuste, en lugar de pagarlo.",
+        "Esta cifra considera sólo uno de los tres contratos. La exposición total es de 300 unidades. Cada una gana $3, de modo que el crédito es $900.",
+        "La posición es larga y el futuro subió $3 por unidad. La ganancia es 3 contratos × 100 unidades × $3 = $900. La cámara acredita ese importe mediante el ajuste diario.",
+        "Eso ignora la liquidación diaria propia de los futuros. Las ganancias y pérdidas se cobran o pagan durante la vida del contrato. La entrega final no es el único momento con flujos de efectivo."
+      ]
+    },
+    {
+      "id": "c27-q022",
+      "tema": "Posición corta y precio relevante",
+      "dificultad": "intermedia",
+      "pregunta": "Ayer una empresa vendió cuatro futuros de índice a 2.000 puntos, con multiplicador de $10 por punto. Hoy el futuro vale 2.015 y el índice spot 1.990. ¿Cuál es el ajuste diario?",
+      "opciones": [
+        "Paga $600.",
+        "Cobra $400.",
+        "Cobra $600.",
+        "Paga $60."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La liquidación se calcula con el cambio del futuro, que subió 15 puntos. La posición corta pierde 4 × 10 × 15 = $600. La caída del índice spot no reemplaza el precio de ajuste del contrato.",
+        "Esta cifra usa la caída de 10 puntos del spot. El ajuste diario depende de la cotización del futuro contratado. Como éste aumentó 15 puntos, la posición corta pierde dinero.",
+        "El importe usa correctamente los puntos y el multiplicador, pero invierte el signo. Quien vendió futuros pierde ante una suba. Debe aportar $600 a la liquidación.",
+        "Este cálculo omite el multiplicador de $10 por punto. Cuatro contratos por 15 puntos representan 60 puntos-contracto. Convertidos a dinero equivalen a $600."
+      ]
+    },
+    {
+      "id": "c27-q023",
+      "tema": "Cámara de compensación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué función cumplen el margen y la liquidación diaria en un mercado de futuros?",
+      "opciones": [
+        "Convierten el margen inicial en la pérdida máxima posible.",
+        "Impiden que el precio del futuro cambie.",
+        "Hacen innecesario planificar necesidades de efectivo.",
+        "Respaldan el cumplimiento y limitan la acumulación de pérdidas impagas frente a la cámara."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las pérdidas pueden superar el margen inicial. En ese caso se exigen fondos adicionales para mantener la posición. Confundir garantía con límite de pérdida subestima el apalancamiento.",
+        "Los precios siguen cambiando con el mercado. Justamente por eso se calculan ajustes diarios. La garantía ayuda a cumplir pagos, pero no estabiliza la cotización.",
+        "Los llamados de margen pueden exigir efectivo inmediato. Una cobertura económicamente útil puede generar pagos antes de compensarse en el negocio. Por eso sigue siendo esencial planificar liquidez.",
+        "El margen es una garantía, no el precio total de compra del activo. Los ajustes diarios hacen que las pérdidas se atiendan a medida que aparecen. La cámara se interpone entre operadores y reduce fuertemente la exposición bilateral al incumplimiento."
+      ]
+    },
+    {
+      "id": "c27-q024",
+      "tema": "Convergencia y cierre de posición",
+      "dificultad": "basica",
+      "pregunta": "¿Qué permite cubrir una compra física local con futuros sin recibir mercadería a través de la bolsa?",
+      "opciones": [
+        "Cerrar el futuro borra todas las ganancias o pérdidas ya liquidadas.",
+        "Cerrar los futuros con una operación opuesta y comprar físicamente al proveedor, aceptando posibles diferencias de base.",
+        "El futuro al vencimiento puede diferir arbitrariamente del spot del mismo activo entregable.",
+        "Todos los futuros requieren que cada comprador reciba físicamente el subyacente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cerrar la posición detiene la exposición futura, pero no borra los ajustes acumulados. Esos flujos forman parte del resultado de la cobertura. La compra física debe evaluarse junto con ellos.",
+        "La posición puede cancelarse antes de la entrega mediante una operación contraria. Los resultados acumulados compensan los cambios del precio de referencia. Si el precio local difiere del activo entregable, la protección conserva riesgo de la base aunque futuro y spot del entregable converjan al vencimiento.",
+        "Al vencimiento ambas operaciones se refieren a entrega inmediata equivalente. Una diferencia persistente permitiría operaciones de arbitraje bajo condiciones ideales. La convergencia no garantiza que otro producto o lugar tenga exactamente el mismo precio.",
+        "Muchos operadores cierran antes del vencimiento. Algunos contratos se liquidan directamente en efectivo. La cobertura financiera no exige necesariamente recibir el bien por medio de la bolsa."
+      ]
+    },
+    {
+      "id": "c27-q025",
+      "tema": "Precio de futuro financiero",
+      "dificultad": "intermedia",
+      "pregunta": "Un índice vale 1.000. Para los próximos seis meses, la tasa libre de riesgo efectiva es 4% y el dividendo pagadero al final equivale al 1% del valor inicial. Con tasas deterministas y sin fricciones, ¿cuál es el precio forward justo?",
+      "opciones": [
+        "1.050.",
+        "1.030.",
+        "1.040.",
+        "990."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esta cifra suma el dividendo al costo financiero. El dividendo beneficia a quien mantiene el activo físico y reduce el costo de replicar la entrega. Debe restarse, no sumarse.",
+        "Financiar la compra de contado requiere devolver 1.000 × 1,04 = 1.040. El tenedor del índice cobra un dividendo de 1.000 × 0,01 = 10 al final. El costo neto de replicación es 1.040 − 10 = 1.030.",
+        "Este valor sólo incorpora el costo de financiamiento. Ignora el dividendo recibido por la compra spot. Al descontar ese beneficio de 10, el forward justo resulta 1.030.",
+        "Esta cifra descuenta el dividendo, pero omite los intereses. Comprar para entrega futura permite conservar inicialmente el dinero. La relación de arbitraje incluye tanto el financiamiento como los ingresos del activo."
+      ]
+    },
+    {
+      "id": "c27-q026",
+      "tema": "Cupones y precio forward",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono cuesta $100 y paga un cupón de $5 justo antes de la entrega dentro de un año. La tasa efectiva anual es 10%. Ignorá interés entre cupón y entrega: ¿cuál es el precio forward justo?",
+      "opciones": [
+        "$110.",
+        "$115.",
+        "$95.",
+        "$105."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este cálculo omite el cupón que recibe el dueño del bono. El comprador forward no recibe ese pago previo a la entrega. Por eso el precio contractual debe restarlo del costo financiero de la compra spot.",
+        "El cupón no es un costo adicional para el tenedor del bono. Es un ingreso que reduce el costo de mantenerlo. Sumárselo al monto financiado invierte el efecto económico correcto.",
+        "Esta cifra resta el cupón al spot sin financiar la compra. El desembolso inicial tiene un costo de oportunidad durante un año. Hay que llevarlo a $110 antes de deducir el cupón final.",
+        "Comprar y financiar el bono cuesta $110 al final del año. El cupón de $5 lo recibe quien mantiene el bono hasta la entrega. Por lo tanto, el precio de entrega que evita arbitraje es 110 − 5 = $105."
+      ]
+    },
+    {
+      "id": "c27-q027",
+      "tema": "Arbitraje de futuros financieros",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción sin dividendos vale $100, la tasa anual efectiva es 5% y el forward a un año cotiza a $110. Se puede prestar, tomar prestado y operar sin costos. ¿Qué arbitraje corresponde?",
+      "opciones": [
+        "Tomar prestados $100, comprar la acción y vender el forward; ganar $5 al vencimiento.",
+        "Comprar el forward y vender la acción en corto.",
+        "Comprar simultáneamente la acción y el forward.",
+        "Vender el forward y conservar los $100 sin comprar la acción."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda exige pagar $105 dentro de un año. La acción comprada permite cumplir el forward y cobrar $110. La diferencia de $5 queda asegurada sin depender del precio spot final.",
+        "Esta es la dirección apropiada cuando el forward está demasiado barato. Aquí obliga a pagar $110, frente a un valor de replicación de $105. La operación invierte el arbitraje y pierde $5 bajo los supuestos.",
+        "Ambas posiciones aumentan la exposición al precio de la acción. No se compensan para asegurar una ganancia. El arbitraje requiere comprar el activo barato y vender la entrega sobrevaluada.",
+        "Esta estrategia deja sin cubrir la obligación de entrega. Su resultado depende del precio futuro de la acción. La compra spot financiada es lo que convierte la diferencia de precios en una ganancia segura."
+      ]
+    },
+    {
+      "id": "c27-q028",
+      "tema": "Dividendos conocidos y variación del spot",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción cae de $100 a $90. La tasa para un año sigue en 5% y el dividendo cierto de $4 se paga justo al vencimiento del forward. ¿Qué pasa con el precio forward justo?",
+      "opciones": [
+        "Cae exactamente $10, de $101 a $91.",
+        "Permanece en $101 porque el dividendo no cambió.",
+        "Cae de $101 a $90,50, una baja de $10,50.",
+        "Sube a $111,50 porque aumenta el rendimiento porcentual del dividendo."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta respuesta olvida el costo de financiar los $10 de diferencia durante un año. La fórmula utiliza el spot multiplicado por 1,05. Con dividendo fijo, la caída correcta del forward es $10,50.",
+        "El dividendo es sólo uno de los componentes del precio. También cambia el costo de comprar y financiar la acción. Una caída del spot reduce el precio forward aunque el dividendo permanezca fijo.",
+        "Antes de la caída, el forward vale 100 × 1,05 − 4 = $101. Después vale 90 × 1,05 − 4 = $90,50. Al mantenerse el dividendo en dinero, la variación es 1,05 veces la caída del spot.",
+        "El aumento del rendimiento porcentual no convierte la baja del spot en una suba del forward. Con dividendo monetario fijo se aplica F = S × 1,05 − 4. Esa relación entrega $90,50 después del cambio."
+      ]
+    },
+    {
+      "id": "c27-q029",
+      "tema": "Costo de tenencia de mercancías",
+      "dificultad": "intermedia",
+      "pregunta": "Una mercancía vale $100. Durante un año, el financiamiento cuesta 5% del spot, el almacenamiento pagadero al final 3% y el beneficio de conveniencia equivale a 2%. Usá el modelo de costo de tenencia de un período: ¿cuál es el futuro teórico?",
+      "opciones": [
+        "$110.",
+        "$100.",
+        "$106.",
+        "$104."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra suma el beneficio de conveniencia como si fuera un costo. Tener físicamente la mercancía aporta un servicio que el futuro no ofrece. Ese servicio debe restarse en la relación de costo de tenencia.",
+        "Que exista almacenamiento no implica que los otros efectos se cancelen. En este caso, el costo neto de tenencia es 6%. El precio teórico queda por encima del spot en $6.",
+        "El financiamiento suma $5 y el almacenamiento agrega $3. La conveniencia de disponer del bien físico resta $2 al costo neto de llevarlo. Así, F = 100 × (1 + 0,05 + 0,03 − 0,02) = $106.",
+        "Esta cifra intercambia el papel de almacenamiento y conveniencia. El almacenamiento encarece mantener inventarios, mientras la conveniencia los vuelve más útiles. Con los datos indicados, el ajuste neto es de 5 + 3 − 2 = 6%."
+      ]
+    },
+    {
+      "id": "c27-q030",
+      "tema": "Conveniencia neta implícita",
+      "dificultad": "intermedia",
+      "pregunta": "Una mercancía vale $200 al contado y su futuro a un año $206. La tasa efectiva anual es 8%. Usando F = S × (1 + r − c neta), ¿qué conveniencia neta anual se infiere?",
+      "opciones": [
+        "5%.",
+        "3%.",
+        "11%.",
+        "−5%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La razón F/S es 206/200 = 1,03. Entonces 1,03 = 1,08 − c neta, de donde c neta = 0,05. La conveniencia supera al almacenamiento en 5% del precio spot.",
+        "El 3% es la prima del futuro sobre el spot. No es la conveniencia neta porque todavía debe separarse el financiamiento. La diferencia entre la tasa del 8% y esa prima del 3% es 5%.",
+        "Esta respuesta suma la prima del futuro a la tasa de interés. En la ecuación, la conveniencia neta se resta. Al despejarla corresponde calcular 8% − 3%.",
+        "El signo queda invertido. Una conveniencia neta positiva reduce el futuro respecto del spot capitalizado. Aquí el futuro de $206 es menor que los $216 de capitalizar $200 al 8%."
+      ]
+    },
+    {
+      "id": "c27-q031",
+      "tema": "Conveniencia bruta y almacenamiento",
+      "dificultad": "intermedia",
+      "pregunta": "El spot es $500 y el futuro a un año $520. La tasa anual es 6% y el almacenamiento cuesta $20, pagaderos al final. En F = S(1 + r) + almacenamiento − conveniencia, ¿cuál es la conveniencia bruta anual en dinero?",
+      "opciones": [
+        "$10.",
+        "$50.",
+        "−$30.",
+        "$30."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los $10 son la conveniencia neta: 530 − 520. Para pasar a la conveniencia bruta hay que sumar el almacenamiento de $20. Así se obtiene un beneficio bruto de $30.",
+        "Este importe suma los intereses de $30 y el almacenamiento de $20 sin considerar la prima observada del futuro. El futuro ya está $20 por encima del spot. Sólo se requiere una conveniencia de $30 para conciliar todos los componentes.",
+        "El signo negativo elevaría el futuro en lugar de reducirlo. La conveniencia es el beneficio de tener físicamente la mercancía. En este caso debe restar $30 del costo total de tenencia de $550.",
+        "El spot financiado al final del año es 500 × 1,06 = $530. Agregar almacenamiento lleva el costo a $550. Para que el futuro sea $520, la conveniencia debe compensar $30."
+      ]
+    },
+    {
+      "id": "c27-q032",
+      "tema": "Escasez, inventarios y límites del modelo",
+      "dificultad": "intermedia",
+      "pregunta": "Una ola de frío inesperada reduce inventarios de combustible; meses después, una cosecha récord satura los silos de granos. ¿Qué lectura es razonable, manteniendo lo demás constante?",
+      "opciones": [
+        "Ambos hechos obligan a que todos los futuros sean iguales al spot.",
+        "La escasez puede elevar la conveniencia neta del combustible; el almacenamiento saturado puede reducir la de los granos.",
+        "La escasez reduce necesariamente el valor de tener combustible físico.",
+        "Los silos saturados garantizan almacenamiento gratuito y conveniencia neta mayor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La igualdad está ligada a la convergencia al vencimiento para el mismo entregable. Antes del vencimiento importan tasas, almacenamiento y conveniencia. Estos shocks pueden cambiar justamente esos componentes.",
+        "Tener combustible disponible resulta especialmente valioso cuando hay riesgo de desabastecimiento. Con silos llenos puede encarecerse almacenar granos y disminuir la urgencia de poseer unidades adicionales. La conveniencia neta es conveniencia menos almacenamiento, y su estimación es menos confiable cuando no hay inventarios disponibles para sostener el arbitraje.",
+        "La posibilidad de usar el combustible de inmediato suele volverse más valiosa ante escasez. El futuro no sirve para satisfacer una necesidad presente. Por eso el beneficio de conveniencia puede aumentar, en vez de disminuir.",
+        "La saturación puede hacer escaso y caro el espacio disponible. Además, la abundancia reduce el temor a quedarse sin producto. Ambos efectos pueden reducir la conveniencia neta."
+      ]
+    },
+    {
+      "id": "c27-q033",
+      "tema": "Mercancías no almacenables",
+      "dificultad": "basica",
+      "pregunta": "En un mercado eléctrico sin capacidad de almacenar energía ni trasladarla entre fechas, ¿por qué no alcanza con capitalizar el precio spot para calcular el forward a seis meses?",
+      "opciones": [
+        "Porque la electricidad no tiene ningún precio de contado.",
+        "Porque el forward siempre debe ser igual a cero.",
+        "Porque no se puede comprar hoy y guardar el mismo bien para replicar su entrega futura.",
+        "Porque la tasa de interés debe reemplazarse por la inflación."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La electricidad puede tener un precio para entrega inmediata. La dificultad no es la ausencia de una cotización. Es la imposibilidad supuesta de conservar esa energía hasta la fecha del contrato.",
+        "Un compromiso de entrega futura puede tener un precio positivo aun cuando no sea almacenable el producto. Ese precio refleja condiciones de oferta y demanda de la fecha futura. No hay una regla que lo lleve automáticamente a cero.",
+        "La relación de costo de tenencia requiere poder trasladar el bien entre fechas. Sin almacenamiento, comprar energía hoy no asegura energía disponible dentro de seis meses. Por eso se rompe la replicación sencilla que conecta spot y forward en los bienes almacenables.",
+        "El interés sigue siendo un costo de oportunidad del dinero. Cambiarlo por inflación no crea la posibilidad física de guardar energía. El problema fundamental es la falta de una operación de almacenamiento que permita arbitrar entre fechas."
+      ]
+    },
+    {
+      "id": "c27-q034",
+      "tema": "Información contenida en los futuros",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora interpreta que un futuro de una acción por encima del spot demuestra que el mercado espera que la acción suba. Con dividendos conocidos y sin fricciones, ¿qué objeción corresponde?",
+      "opciones": [
+        "La diferencia puede explicarse por financiamiento y dividendos, sin ser una predicción directa del spot futuro.",
+        "Un futuro superior al spot garantiza una ganancia para quien lo compra.",
+        "El precio del futuro es independiente del spot.",
+        "La cotización del futuro sólo incorpora los pronósticos del comprador."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El precio de entrega queda vinculado al costo de replicar la compra futura. Financiar el activo aumenta ese costo y cobrar dividendos lo reduce. Por eso una prima sobre el spot no basta para inferir una suba esperada de igual magnitud.",
+        "La ganancia del comprador depende del spot que efectivamente se observe al vencimiento frente al precio pactado. Pagar un precio de entrega mayor no asegura un resultado favorable. El costo financiero puede explicar esa prima sin ofrecer una utilidad extraordinaria.",
+        "El arbitraje conecta ambos precios cuando es posible comprar y mantener el activo. Si el futuro se aparta de su costo de replicación, pueden aparecer operaciones compensatorias. No se trata de cotizaciones independientes.",
+        "El contrato se negocia entre compradores y vendedores. Su precio no representa exclusivamente la opinión de una parte. Bajo estos supuestos, la replicación también restringe la cotización."
+      ]
+    },
+    {
+      "id": "c27-q035",
+      "tema": "Tasas y períodos del forward",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción sin dividendos vale $100. La tasa efectiva anual libre de riesgo es 21%. ¿Cuál es el precio forward justo a seis meses, sin fricciones?",
+      "opciones": [
+        "$121.",
+        "$110.",
+        "$110,50.",
+        "$100."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe capitaliza durante un año completo. La entrega ocurre dentro de seis meses y requiere la tasa de ese plazo. Usar todo el 21% sobreestima el costo de financiamiento.",
+        "La tasa efectiva semestral satisface (1 + r semestral)² = 1,21. Entonces r semestral = 10% y el precio es 100 × 1,10 = $110. También se obtiene directamente como 100 × 1,21 elevado a 0,5.",
+        "Dividir una tasa efectiva anual por dos no conserva la equivalencia compuesta. Dos semestres al 10,5% producirían una tasa anual superior al 21%. Hay que extraer la raíz cuadrada del factor anual.",
+        "Esta respuesta omite el costo de financiar la compra durante seis meses. La ausencia de dividendos no elimina el interés. Con una tasa positiva, el precio de entrega excede al spot bajo estos supuestos."
+      ]
+    },
+    {
+      "id": "c27-q036",
+      "tema": "Acuerdos de tasa forward",
+      "dificultad": "basica",
+      "pregunta": "Una empresa necesitará endeudarse durante seis meses a partir de dentro de tres meses. ¿Qué significa comprar un FRA 3 contra 9 para protegerse de una suba de tasas?",
+      "opciones": [
+        "Tomar hoy un préstamo que dura nueve años.",
+        "Adquirir una opción que sólo se cumple si conviene.",
+        "Contratar una cobertura sobre un préstamo de nueve meses que empieza dentro de tres.",
+        "Fijar una tasa para el tramo entre los meses 3 y 9, cobrando compensación si la referencia supera la pactada."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los números identifican meses desde la fecha actual, no años. El inicio es el mes 3 y la terminación el mes 9. El plazo cubierto es la diferencia de seis meses.",
+        "El FRA establece obligaciones para ambas partes. Si la referencia queda por debajo de la tasa pactada, el comprador debe pagar la diferencia según el contrato. No puede descartarlo gratuitamente como una opción.",
+        "El mes 9 es la fecha final, no la duración del préstamo. Desde el mes 3 hasta el mes 9 transcurren seis meses. Confundir fecha final con plazo exagera la exposición cubierta.",
+        "El FRA fija hoy la referencia de un período futuro determinado. El comprador que teme una suba recibe una compensación cuando la tasa observada supera la pactada. El contrato cubre la tasa y no implica por sí mismo recibir el capital del préstamo."
+      ]
+    },
+    {
+      "id": "c27-q037",
+      "tema": "Liquidación de un FRA",
+      "dificultad": "intermedia",
+      "pregunta": "Un FRA cubre $1.000.000 durante seis meses a una tasa anual simple de 6%. Al inicio del tramo, la referencia resulta 8%. Si la diferencia se paga al final del tramo, ¿cuánto cobra el comprador?",
+      "opciones": [
+        "$20.000.",
+        "$40.000.",
+        "$10.000.",
+        "Paga $10.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esta cifra aplica la diferencia de dos puntos durante un año completo. El período cubierto dura medio año. La diferencia anual debe multiplicarse por 0,5.",
+        "Este importe usa el interés de referencia de medio año sin restar el interés pactado. El FRA compensa la diferencia entre ambas tasas. El interés al 8% es $40.000 y el pactado al 6% es $30.000.",
+        "La diferencia anual de tasas es 0,08 − 0,06 = 0,02. Para medio año, la compensación es 1.000.000 × 0,02 × 0,5 = $10.000. Como la referencia subió, el comprador cobra; no se descuenta porque se estipuló pago al final.",
+        "El importe absoluto es correcto, pero el signo está invertido. El comprador busca proteger el costo de endeudarse frente a tasas mayores. Por eso recibe la diferencia cuando la referencia supera el 6%."
+      ]
+    },
+    {
+      "id": "c27-q038",
+      "tema": "Tasa forward implícita",
+      "dificultad": "avanzada",
+      "pregunta": "Las tasas spot efectivas son 10% a un año y 21% anual a dos años. Sin fricciones, ¿qué tasa efectiva queda implícita para prestar durante el segundo año?",
+      "opciones": [
+        "33,10%.",
+        "11%.",
+        "21%.",
+        "32%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Invertir dos años al 21% anual transforma $1 en 1,21² = $1,4641. Para replicarlo, el factor del primer año, 1,10, debe multiplicarse por el factor forward. Así, f = 1,4641 / 1,10 − 1 = 0,331, es decir, 33,10%.",
+        "Restar las tasas spot no entrega la tasa forward. La tasa a dos años se aplica de forma compuesta durante dos períodos. Hay que dividir los factores acumulados, no restar rendimientos anuales.",
+        "El 21% es el rendimiento anual de una inversión que empieza hoy y dura dos años. No es necesariamente el rendimiento de un solo año que comienza dentro de un año. La estructura temporal permite que ambos difieran.",
+        "Esta cifra resulta de una aproximación que combina dos veces el 21% y resta el 10%. Esa operación omite el efecto de capitalización. La relación exacta entre factores da 33,10%."
+      ]
+    },
+    {
+      "id": "c27-q039",
+      "tema": "Préstamo forward sintético",
+      "dificultad": "intermedia",
+      "pregunta": "Un director quiere fijar hoy el costo de tomar dinero dentro de un año y devolverlo dentro de dos años. ¿Qué combinación sintética corresponde, con capitales iniciales iguales?",
+      "opciones": [
+        "Pedir prestado a un año e invertir a dos años.",
+        "Pedir prestado a dos años e invertir a un año.",
+        "Pedir prestado a ambos plazos y gastar todo hoy.",
+        "Invertir a ambos plazos sin conseguir fondos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa combinación produce un pago al año y un cobro al segundo año. Equivale a prestar dinero durante el segundo año. El director busca los signos opuestos: recibir fondos al año y devolverlos después.",
+        "Los fondos del préstamo largo financian inicialmente la inversión corta. Al año vence la inversión y queda efectivo disponible para usar. Al segundo año se cancela la deuda larga, de modo que la combinación fija un endeudamiento que comienza en una fecha futura.",
+        "Esta estrategia entrega efectivo hoy y genera dos obligaciones futuras. No aísla el financiamiento del segundo año. Para lograrlo hay que compensar el flujo inicial y reservar un cobro al año.",
+        "Invertir sin una operación compensatoria exige un desembolso inicial. El objetivo es recibir fondos en el año 1 y pagarlos en el año 2. La inversión corta debe combinarse con una deuda más larga."
+      ]
+    },
+    {
+      "id": "c27-q040",
+      "tema": "Naturaleza y principal de un swap",
+      "dificultad": "basica",
+      "pregunta": "¿Qué describe mejor un swap ordinario de tasas en una sola moneda?",
+      "opciones": [
+        "Una compraventa definitiva del capital nocional entre las partes.",
+        "Un seguro que paga solamente si quiebra un deudor.",
+        "Una opción gratuita de cancelar todos los pagos desfavorables.",
+        "Un intercambio de flujos calculados sobre un principal nocional, equivalente económicamente a un conjunto de forwards."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El principal nocional sirve para calcular intereses. En el swap ordinario de tasas no hace falta transferirlo entre las contrapartes. Confundirlo con un desembolso exagera los flujos del contrato.",
+        "La protección específica frente al incumplimiento corresponde a otro tipo de derivado. Un swap de tasas intercambia, por ejemplo, una pata fija y una variable. Sus pagos dependen de tasas aunque ningún deudor quiebre.",
+        "Las obligaciones futuras forman parte de un contrato vinculante. Que una pata se vuelva desfavorable no da derecho a ignorarla. Cancelar un swap con valor distinto de cero puede requerir una compensación.",
+        "Cada fecha de pago intercambia dos flujos vinculados a reglas acordadas. El nocional determina la escala de esos flujos sin tener que entregarse en un swap ordinario de tasas. La sucesión de intercambios puede entenderse como un paquete de compromisos forward."
+      ]
+    },
+    {
+      "id": "c27-q041",
+      "tema": "Pago neto de un swap",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa paga 5% fijo y recibe una referencia flotante sobre $20.000.000. En un período anual, la tasa flotante fijada al inicio fue 7%. ¿Cuál es su flujo neto al final de ese período?",
+      "opciones": [
+        "Paga $400.000.",
+        "Cobra $1.400.000.",
+        "Cobra $400.000.",
+        "Cobra $20.400.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cálculo de la diferencia es correcto en magnitud, pero invierte los signos. La empresa recibe la tasa mayor y paga la menor. Por eso el resultado del swap es un cobro.",
+        "$1.400.000 es el ingreso bruto de la pata flotante. También debe pagarse el 5% fijo, equivalente a $1.000.000. El flujo neto resta ambos importes.",
+        "La pata flotante paga 20.000.000 × 0,07 = $1.400.000. La pata fija exige 20.000.000 × 0,05 = $1.000.000. La diferencia es un cobro neto de $400.000 y usa la referencia fijada para ese período.",
+        "El nocional no se entrega en este swap ordinario de tasas. Sólo se intercambian los intereses establecidos. Sumar $20.000.000 al saldo de intereses crea un flujo que el contrato no contempla."
+      ]
+    },
+    {
+      "id": "c27-q042",
+      "tema": "Transformación de deuda con swaps",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa debe referencia flotante más 2% sobre $10.000.000. Contrata, por el mismo capital y fechas, un swap donde recibe esa referencia y paga 4% fijo. ¿Qué costo anual combinado obtiene, sin comisiones ni incumplimiento?",
+      "opciones": [
+        "6%, equivalente a $600.000.",
+        "2%, equivalente a $200.000.",
+        "4%, equivalente a $400.000.",
+        "La referencia más 6%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda exige referencia + 2%. El swap agrega un pago de 4% y un cobro de la misma referencia. Las patas variables se cancelan y queda 2% + 4% = 6%, que sobre $10.000.000 equivale a $600.000.",
+        "El margen de la deuda no es el costo total después del swap. También permanece el pago fijo de 4%. Sólo se cancela la referencia variable que se paga y se recibe en condiciones idénticas.",
+        "La tasa del swap no reemplaza por sí sola todo el costo del préstamo. El margen crediticio de 2% sigue perteneciendo a la deuda. Por eso el costo total supera al 4%.",
+        "Esta expresión omite el cobro variable del swap. Con fechas y referencia coincidentes, ese ingreso cancela el pago variable de la deuda. La empresa queda con un costo fijo del 6%."
+      ]
+    },
+    {
+      "id": "c27-q043",
+      "tema": "Escala de un swap sobre ingresos",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco recibe $3.000.000 fijos anuales de un activo y quiere transformarlos íntegramente en ingresos flotantes. La pata fija disponible de un swap es 5% anual. ¿Qué nocional necesita si paga fijo y recibe variable?",
+      "opciones": [
+        "$3.000.000.",
+        "$60.000.000.",
+        "$150.000.",
+        "$15.000.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Igualar el nocional al cupón confunde capital de referencia con pago anual. Un swap por $3.000.000 al 5% sólo exigiría $150.000 fijos. No compensaría los $3.000.000 que cobra el banco.",
+        "La pata fija debe pagar exactamente los $3.000.000 que ingresa el activo. Se resuelve N × 0,05 = 3.000.000 y resulta N = $60.000.000. El activo y esa pata se cancelan, dejando el ingreso flotante calculado sobre ese nocional.",
+        "Esta cifra multiplica el cupón por 5% en lugar de dividirlo. El objetivo es hallar el capital cuyo 5% produce el cupón observado. El cálculo correcto es 3.000.000 / 0,05.",
+        "Un nocional de $15.000.000 genera sólo $750.000 anuales de pagos fijos al 5%. Quedarían sin compensar $2.250.000 del ingreso original. La escala debe determinarse por igualdad de los flujos, no por una proporción arbitraria."
+      ]
+    },
+    {
+      "id": "c27-q044",
+      "tema": "Cotización y curva de swaps",
+      "dificultad": "basica",
+      "pregunta": "Un analista observa tasas fijas de swaps de diferentes vencimientos cotizadas contra la misma referencia flotante. ¿Qué información organiza esa curva?",
+      "opciones": [
+        "Las pérdidas máximas posibles de cada contrato.",
+        "La probabilidad exacta de quiebra de cada contraparte.",
+        "El monto de capital que se entrega al contratar cada swap.",
+        "La relación entre plazo y tasa fija de intercambio; su diferencia con un rendimiento soberano comparable es el spread del swap."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una tasa cotizada no es una pérdida máxima. El valor del contrato cambia con las condiciones de mercado y la exposición depende también del nocional. La curva ordena precios de intercambio por vencimiento.",
+        "La curva no ofrece directamente una probabilidad exacta de incumplimiento. Las cotizaciones incorporan condiciones de financiamiento y otras características del mercado. Debe distinguirse la estructura de tasas de una medida específica de riesgo crediticio.",
+        "En un swap ordinario de tasas no se entrega el nocional al inicio. La cotización fija el porcentaje de una pata. La curva muestra cómo cambia ese porcentaje con el plazo.",
+        "La curva asocia a cada vencimiento la tasa fija de un swap comparable. Permite estudiar la estructura temporal en un mercado líquido. El spread se obtiene restando un rendimiento soberano de plazo comparable, sin confundirlo con la tasa flotante de un período."
+      ]
+    },
+    {
+      "id": "c27-q045",
+      "tema": "Valuación posterior de un swap",
+      "dificultad": "avanzada",
+      "pregunta": "Un swap paga 4% fijo y recibe variable sobre $10.000.000. Justo después de un ajuste quedan dos pagos anuales y un swap nuevo equivalente paga 6% fijo. Si los diferenciales se descuentan al 6% anual, ¿cuánto vale el swap original para quien paga fijo?",
+      "opciones": [
+        "−$366.678,53.",
+        "$200.000.",
+        "$366.678,53.",
+        "$10.000.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor absoluto coincide con el cálculo, pero el signo es incorrecto. Pagar 4% cuando los nuevos contratos exigen 6% es ventajoso para el pagador fijo. Su posición tiene valor positivo bajo las condiciones dadas.",
+        "$200.000 es la ventaja anual de pagar dos puntos menos sobre el nocional. Quedan dos pagos y ambos deben llevarse a valor presente. Usar sólo uno omite un flujo relevante.",
+        "Se puede agregar un swap nuevo que reciba 6% fijo y pague la misma referencia variable. Las patas variables se cancelan y quedan $200.000 anuales durante dos años. El valor es 200.000 / 1,06 + 200.000 / 1,06² = $366.678,53, positivo para quien paga el 4%.",
+        "El principal nocional no es el valor económico del swap. La ventaja corresponde a diferencias de intereses pendientes. Hay que descontar esos flujos y no asignarle el capital de referencia completo."
+      ]
+    },
+    {
+      "id": "c27-q046",
+      "tema": "Valor inicial y pagos del swap",
+      "dificultad": "basica",
+      "pregunta": "Un swap nuevo, pactado a condiciones justas y sin pago inicial, tiene una pata fija y otra flotante. ¿Qué implica que su valor inicial sea cero?",
+      "opciones": [
+        "Que los valores presentes de ambas patas se igualan, aunque el primer pago neto no sea cero.",
+        "Que cada pago fijo debe igualar la tasa flotante efectivamente observada.",
+        "Que el contrato nunca adquirirá valor positivo o negativo.",
+        "Que los pagos futuros se pueden sumar sin descontarlos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La igualdad relevante es entre valores presentes de compromisos futuros. La estructura de tasas puede justificar una tasa fija distinta de la referencia inicial. Por eso un primer pago neto desfavorable no demuestra que el contrato estuviera mal valuado al inicio.",
+        "La referencia flotante se reajusta y la pata fija permanece pactada. No hay obligación de que coincidan en todas las fechas. Exigir esa igualdad convertiría el intercambio en algo distinto de un swap fijo contra variable.",
+        "Los cambios en las tasas pueden alterar el valor de las obligaciones remanentes. Una posición inicialmente justa puede volverse favorable para una parte y desfavorable para la otra. El valor cero inicial no es una garantía permanente.",
+        "Los flujos de fechas diferentes tienen costos de oportunidad distintos. La valuación compara valores presentes y no simples sumas nominales. Un equilibrio nominal no asegura un equilibrio económico."
+      ]
+    },
+    {
+      "id": "c27-q047",
+      "tema": "Intermediario y riesgo de contraparte",
+      "dificultad": "intermedia",
+      "pregunta": "Un intermediario tiene dos swaps que compensan exactamente sus flujos de mercado. Una contraparte incumple y la otra exige que siga pagando. ¿Qué demuestra este caso?",
+      "opciones": [
+        "Que una cobertura de mercado siempre elimina cualquier riesgo de crédito.",
+        "Que el nocional debe pagarse dos veces.",
+        "Que ningún contrato válido puede quedar sin compensación.",
+        "Que la compensación económica depende del cumplimiento y puede romperse por riesgo de contraparte."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los flujos opuestos neutralizan movimientos de tasas si ambos se cumplen. No garantizan que todas las contrapartes paguen. El crédito y el riesgo de mercado son dimensiones diferentes.",
+        "La pérdida no consiste automáticamente en dos nocionales completos. Depende del valor de los compromisos que dejaron de cumplirse y de los que siguen vigentes. La escala de referencia no reemplaza una valuación de la exposición.",
+        "Un contrato puede continuar siendo exigible aunque falle otro contrato independiente. La compensación económica entre ambos no asegura compensación jurídica ni cumplimiento simultáneo. El intermediario debe analizar esas condiciones.",
+        "El intermediario pierde la pata que debía compensar su obligación pendiente. Puede quedar expuesto a tasas o necesitar reemplazar el contrato incumplido a un costo. Por eso una cartera neutral frente al mercado todavía requiere control crediticio."
+      ]
+    },
+    {
+      "id": "c27-q048",
+      "tema": "Flujos de un swap de divisas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa emite USD 12.000.000 al 6% y, mediante un swap, entrega esos dólares por EUR 10.000.000. El swap le permite recibir exactamente el servicio de su deuda en dólares a cambio de pagar 4% anual en euros y devolver los euros al año 5. ¿Qué obligación neta tiene en el año 5?",
+      "opciones": [
+        "USD 12.720.000 más EUR 400.000.",
+        "EUR 10.400.000 y ningún pago neto en dólares.",
+        "EUR 10.000.000 sin intereses.",
+        "USD 720.000 y EUR 10.000.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La empresa efectivamente debe USD 12.720.000 al prestamista. Sin embargo, recibe ese mismo importe por el swap. Contar la deuda sin la pata compensatoria exagera su obligación neta en dólares.",
+        "El swap aporta los dólares que cancelan capital e interés de la deuda original. En euros, la empresa paga 10.000.000 de principal más 10.000.000 × 0,04 = 400.000 de interés. La combinación equivale a financiarse en euros y deja EUR 10.400.000 como salida neta final.",
+        "La devolución del principal no reemplaza el último interés. El quinto año también genera el cupón de EUR 400.000. Debe sumarse al capital que se devuelve.",
+        "Los USD 720.000 de interés se compensan con el cobro en dólares del swap. En cambio, falta incluir el interés final en euros. El análisis debe hacerse sumando flujos en cada moneda antes de identificar la obligación neta."
+      ]
+    },
+    {
+      "id": "c27-q049",
+      "tema": "Swap de rendimiento total",
+      "dificultad": "intermedia",
+      "pregunta": "Sobre un nocional de $4.000.000, A recibe el rendimiento total de una cartera y paga una tasa de 8% nominal anual, liquidada como 2% trimestral. En el trimestre la cartera sube 3% y distribuye dividendos equivalentes a 1% del nocional inicial. ¿Cuál es el cobro neto de A?",
+      "opciones": [
+        "$160.000.",
+        "$40.000.",
+        "$80.000.",
+        "Paga $80.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "$160.000 es el rendimiento total bruto: 4% del nocional. A también debe pagar 2% trimestral por la pata de financiamiento. El flujo neto resta ese costo de $80.000.",
+        "Este importe cuenta la suba de 3% y resta 2%, pero omite el dividendo de 1%. El rendimiento total incluye cambio de precio y distribuciones. Al incorporar ambos, el cobro neto se duplica.",
+        "La cartera entrega 3% por apreciación más 1% por dividendos, en total 4%. La pata de financiamiento exige 2% en ese trimestre. A cobra (0,04 − 0,02) × 4.000.000 = $80.000 sin necesitar ser titular de los activos.",
+        "El signo está invertido. El rendimiento recibido supera al financiamiento pagado. Si el rendimiento fuera negativo, A podría tener que pagar también por esa caída, pero no es el escenario planteado."
+      ]
+    },
+    {
+      "id": "c27-q050",
+      "tema": "Rendimiento total e incumplimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué un swap de rendimiento total sobre un bono no equivale a un swap de incumplimiento crediticio sobre ese bono?",
+      "opciones": [
+        "Porque transfiere variaciones de precio e ingresos del bono, mientras la protección crediticia se activa conforme a los eventos de crédito pactados.",
+        "Porque el rendimiento total excluye los cupones.",
+        "Porque ambos contratos obligan siempre a comprar físicamente el bono al inicio.",
+        "Porque un swap de incumplimiento cubre cualquier baja de precio, aunque no ocurra un evento crediticio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El rendimiento total incluye cupones y ganancias o pérdidas de precio. El precio puede caer por tasas de interés sin que exista incumplimiento. La protección crediticia, en cambio, se define por los eventos y pagos especificados en su contrato.",
+        "Los cupones forman parte de los ingresos del activo. Excluirlos convertiría el rendimiento total en una medida incompleta. Deben agregarse a la variación del precio para determinar la pata correspondiente.",
+        "La exposición económica puede transferirse sin cambiar la propiedad del bono al inicio. Ésa es precisamente una utilidad de estos contratos. Las condiciones de liquidación no deben confundirse con una compraventa inicial obligatoria.",
+        "Una caída por aumento de tasas libres de riesgo no activa necesariamente una protección crediticia. Debe ocurrir el evento definido en el contrato. Confundir riesgo de mercado con evento de crédito sobreestima la protección."
+      ]
+    },
+    {
+      "id": "c27-q051",
+      "tema": "Comparación del riesgo de la base",
+      "dificultad": "intermedia",
+      "pregunta": "¿En cuál de estas coberturas es más evidente que puede quedar un riesgo específico importante, aun con ejecución perfecta?",
+      "opciones": [
+        "Una deuda cierta en euros cubierta por un forward de euros con la misma fecha y cantidad.",
+        "Una entrega de trigo cubierta con un contrato que coincide exactamente en calidad, lugar, fecha y cantidad.",
+        "Una obligación fija en moneda extranjera cubierta mediante la compra y depósito de esa moneda hasta su vencimiento.",
+        "Una tenencia concentrada en una sola acción cubierta vendiendo futuros de un índice amplio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La moneda, la fecha y la cantidad coinciden con la obligación. Bajo el supuesto de cumplimiento y ejecución perfecta, la cobertura puede fijar el costo cambiario. El desajuste específico es menor que al cubrir una acción con un índice.",
+        "La correspondencia de todas las características elimina el desajuste que normalmente genera riesgo de base. Los problemas de otra calidad o lugar no aparecen en el supuesto planteado. Es una cobertura mucho más precisa que la alternativa con una sola acción.",
+        "Comprar y reservar el importe necesario permite disponer de la moneda requerida. Subsisten los riesgos de custodia o crédito que correspondan, pero no el desajuste de precios planteado en la cobertura con índice. La ejecución perfecta evita confundir esas dimensiones.",
+        "La acción puede moverse por noticias propias aunque el mercado no cambie. Los futuros del índice compensan la exposición común al mercado, pero no esas novedades específicas. Una correlación positiva no implica que ambas variaciones coincidan exactamente."
+      ]
+    },
+    {
+      "id": "c27-q052",
+      "tema": "Razón de cobertura y unidades",
+      "dificultad": "avanzada",
+      "pregunta": "Los rendimientos de A siguen aproximadamente rA = 0,001 + 0,6 rB + error. Se tienen $2.000.000 en A y cada contrato de futuros sobre B representa $100.000 de exposición. ¿Qué posición minimiza la exposición lineal a B?",
+      "opciones": [
+        "Comprar 12 contratos.",
+        "Vender 12 contratos.",
+        "Vender 20 contratos.",
+        "Vender 6 contratos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El tamaño coincide con la sensibilidad estimada, pero la dirección es incorrecta. A y B se mueven en el mismo sentido en la relación planteada. Comprar B agregaría exposición en lugar de compensarla.",
+        "La exposición a compensar es 0,6 × 2.000.000 = $1.200.000. Al dividir por $100.000 por contrato resultan 12 contratos que deben venderse. El intercepto no cambia la sensibilidad a B y la cobertura deja el riesgo del término de error.",
+        "Esta posición cubre el valor total sin ajustar por la sensibilidad de 0,6. Vender $2.000.000 de B sobrecompensaría el componente lineal estimado. La cantidad depende de la pendiente, no sólo del valor de A.",
+        "La razón de cobertura no se convierte directamente en seis contratos. Primero se multiplica por el valor monetario de la exposición y luego se divide por el tamaño contractual. Ese procedimiento entrega 12 contratos."
+      ]
+    },
+    {
+      "id": "c27-q053",
+      "tema": "Correlación, R cuadrado y riesgo residual",
+      "dificultad": "avanzada",
+      "pregunta": "Para cubrir la misma posición, una regresión con B tiene pendiente 0,8 y R² de 0,70; otra con C tiene pendiente 1,5 y R² de 0,50. Con costos comparables y relaciones estables, ¿cuál deja menos varianza residual tras ajustar correctamente su tamaño?",
+      "opciones": [
+        "C, porque su pendiente es mayor.",
+        "Ambas eliminan todo el riesgo por tener pendiente positiva.",
+        "B, porque explica una proporción mayor de la variación de la exposición.",
+        "C, porque una pendiente mayor exige siempre menos exposición monetaria."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La pendiente determina cuánta posición compensatoria se necesita. No mide por sí sola la calidad del ajuste. Una pendiente mayor puede coexistir con mayor riesgo residual.",
+        "Una relación positiva sólo indica dirección de comovimiento. Si R² es menor que uno, quedan movimientos que la variable de cobertura no explica. Ajustar el tamaño no elimina ese componente.",
+        "Con B queda sin explicar 30% de la varianza de A; con C queda 50%. Bajo los supuestos dados, el ajuste de mínima varianza con B deja menos riesgo. Las pendientes sirven para dimensionar cada posición y no sustituyen la comparación del ajuste.",
+        "Una mayor pendiente requiere mayor exposición monetaria compensatoria por cada peso en A. Además, el tamaño no determina por sí mismo la varianza residual. Para esa comparación resulta relevante el R² de cada relación."
+      ]
+    },
+    {
+      "id": "c27-q054",
+      "tema": "Exposición económica de una aerolínea",
+      "dificultad": "intermedia",
+      "pregunta": "Una aerolínea calcula su cobertura de combustible usando sólo el gasto del último año. ¿Qué revisión es necesaria antes de convertir ese gasto en una posición de futuros?",
+      "opciones": [
+        "Considerar el traslado a tarifas, el efecto sobre pasajeros y la duración probable del shock.",
+        "Suponer que todo aumento de combustible reduce exactamente en igual monto el valor de la empresa.",
+        "Ignorar el consumo futuro porque el gasto histórico ya fija la exposición.",
+        "Comprar futuros por el valor total de mercado de la empresa."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El gasto directo es apenas un componente del impacto económico. Una suba puede trasladarse parcialmente a precios o reducir la demanda de vuelos. Su persistencia también afecta el valor presente de los costos, de modo que la sensibilidad exige juicio y escenarios.",
+        "Un flujo de gasto anual y el valor de la empresa son magnitudes distintas. El valor depende de los flujos futuros, su duración y las respuestas operativas. No corresponde aplicar una equivalencia automática de uno a uno.",
+        "Las rutas, el consumo y las condiciones comerciales pueden cambiar. El dato histórico ayuda a estimar, pero no determina una exposición futura inmutable. La cobertura debe corresponder al riesgo que efectivamente se espera asumir.",
+        "La capitalización bursátil no mide directamente la cantidad de combustible expuesta. Usarla sin una sensibilidad económica puede producir una apuesta enorme. El tamaño debe vincularse al efecto del precio del combustible sobre la empresa."
+      ]
+    },
+    {
+      "id": "c27-q055",
+      "tema": "Definición y cálculo de duración",
+      "dificultad": "intermedia",
+      "pregunta": "Un activo paga $110 al final del año 1 y $121 al final del año 2. Si la tasa efectiva anual es 10%, ¿cuál es su duración de Macaulay?",
+      "opciones": [
+        "1 año.",
+        "2 años.",
+        "1,5238 años.",
+        "1,5 años."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta respuesta asigna todo el peso al primer cobro. El segundo pago también aporta valor presente. La duración debe ponderar ambas fechas.",
+        "Dos años es el vencimiento del último flujo. La duración no coincide necesariamente con el vencimiento cuando existen pagos previos. El cobro del primer año adelanta parte de la recuperación económica.",
+        "Este resultado pondera las fechas con los importes nominales de $110 y $121. La duración usa valores presentes. Una vez descontados, ambos flujos pesan lo mismo.",
+        "El valor presente del primer cobro es 110 / 1,10 = $100. El del segundo es 121 / 1,10² = $100 y el total es $200. La duración es (1 × 100 + 2 × 100) / 200 = 1,5 años."
+      ]
+    },
+    {
+      "id": "c27-q056",
+      "tema": "Inmunización y duración monetaria",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene activos por $12.000.000 con duración de Macaulay de 4 años. Quiere financiarlos con pasivos del mismo valor presente combinando instrumentos de duración 1 y 7 años. Con tasas comparables y ante pequeños movimientos paralelos, ¿qué distribución inmuniza aproximadamente el patrimonio?",
+      "opciones": [
+        "$8.000.000 en duración 1 y $4.000.000 en duración 7.",
+        "$6.000.000 en cada instrumento.",
+        "$4.000.000 en duración 1 y $8.000.000 en duración 7.",
+        "Todo en duración 4 nominal de vencimiento, sin mirar sus flujos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Esa mezcla tiene duración (8 × 1 + 4 × 7) / 12 = 3 años. El pasivo respondería menos a las tasas que el activo. La igualdad de valores presentes no corrige esa diferencia de sensibilidad.",
+        "Con la mitad del valor en cada instrumento, la duración del pasivo es 0,5 × 1 + 0,5 × 7 = 4 años. Como también coinciden los valores presentes, coinciden aproximadamente las sensibilidades monetarias ante la variación planteada. Se trata de inmunización local, que requiere revisar la posición cuando cambian las condiciones.",
+        "Esa combinación tiene duración (4 × 1 + 8 × 7) / 12 = 5 años. El pasivo tendría una sensibilidad mayor que la requerida. Hay que igualar la duración ponderada a cuatro años.",
+        "Igualar el vencimiento nominal no asegura igual duración. Los pagos intermedios y sus valores presentes determinan la sensibilidad. Debe analizarse la corriente de flujos, no sólo la fecha del último pago."
+      ]
+    },
+    {
+      "id": "c27-q057",
+      "tema": "Límites de la inmunización",
+      "dificultad": "intermedia",
+      "pregunta": "Un director igualó hoy el valor presente y la duración de activos y pasivos. ¿Qué debe prever para mantener una cobertura de tasas?",
+      "opciones": [
+        "Que nunca será necesario modificar la deuda.",
+        "Que la igualdad protege exactamente contra cualquier desplazamiento de cualquier tamaño.",
+        "Recalcular sensibilidades y rebalancear, porque el tiempo y las tasas pueden cambiar las duraciones de modo diferente.",
+        "Que una duración igual elimina también el riesgo de incumplimiento de los clientes."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La duración cambia a medida que se acercan y se cobran los flujos. También responde a cambios en las tasas de descuento. Una igualdad inicial no garantiza que siga vigente.",
+        "La duración ofrece una aproximación local a la sensibilidad. Movimientos grandes o no paralelos pueden generar diferencias por convexidad y estructura temporal. No es una garantía exacta para cualquier escenario.",
+        "Activos y pasivos pueden tener flujos diferentes aun con igual duración inicial. Por eso el paso del tiempo y nuevas tasas alteran sus ponderaciones de distinta manera. Mantener la protección exige seguimiento y ajustes, sobre todo si aparecen movimientos grandes o no paralelos.",
+        "La duración mide sensibilidad a tasas, no la capacidad de los clientes para pagar. Un flujo prometido puede incumplirse aunque su duración coincida con la de la deuda. El riesgo crediticio requiere un análisis adicional."
+      ]
+    },
+    {
+      "id": "c27-q058",
+      "tema": "Delta de una opción y cobertura dinámica",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera contiene 2.000 opciones de compra, cada una sobre una acción, con delta de 0,4. ¿Qué operación compensa aproximadamente su sensibilidad inmediata al precio de la acción?",
+      "opciones": [
+        "Vender 800 acciones.",
+        "Comprar 800 acciones.",
+        "Vender 2.000 acciones.",
+        "Comprar 5.000 acciones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada opción cambia aproximadamente $0,40 por una suba de $1 en la acción. Las 2.000 opciones equivalen localmente a 800 acciones largas. Vender 800 acciones compensa esa sensibilidad, aunque habrá que ajustar la cobertura si cambia la delta.",
+        "Comprar acciones suma sensibilidad positiva a la de las opciones de compra. La combinación aumentaría la exposición a una suba o baja del subyacente. Para compensarla se necesita una posición corta.",
+        "Una opción no equivale necesariamente a una acción completa. Con delta de 0,4, la exposición inmediata es sólo 40% de esa cantidad. Vender 2.000 acciones sobrecubriría la cartera.",
+        "Esta cantidad divide por la delta e invierte el sentido de la cobertura. La exposición equivalente se obtiene multiplicando opciones por delta. Luego se toma la posición opuesta en acciones."
+      ]
+    },
+    {
+      "id": "c27-q059",
+      "tema": "Ingreso protegido con una opción de venta",
+      "dificultad": "intermedia",
+      "pregunta": "Una productora venderá 1.000 unidades y compra puts por esa cantidad, con ejercicio de $50 y prima de $3 por unidad. Al vencimiento el spot es $40. Ignorando intereses y otros costos, ¿qué ingreso neto obtiene incluyendo la prima?",
+      "opciones": [
+        "$40.000.",
+        "$50.000.",
+        "$53.000.",
+        "$47.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este monto sólo cuenta la venta física y deja afuera la opción. Con un precio de mercado menor al ejercicio, la put tiene un pago positivo. También hay que restar la prima pagada.",
+        "El precio de ejercicio establece un ingreso bruto protegido de $50 por unidad. La cobertura no es gratuita y costó $3 por unidad. Restar esa prima reduce el ingreso neto a $47.000.",
+        "La prima es un costo para quien compra la put. No debe sumarse al precio protegido. La opción aporta $10.000 y cuesta $3.000, además de los $40.000 de la venta física.",
+        "La venta física genera 1.000 × 40 = $40.000. Las puts pagan 1.000 × (50 − 40) = $10.000 y la prima total fue $3.000. El ingreso neto es 40.000 + 10.000 − 3.000 = $47.000; con una suba conservaría la mejora de precio, descontando la prima."
+      ]
+    },
+    {
+      "id": "c27-q060",
+      "tema": "Opción o futuro para cubrir un insumo",
+      "dificultad": "basica",
+      "pregunta": "Una empresa quiere limitar el costo de un insumo y beneficiarse si su precio baja. ¿Qué diferencia favorece comprar una call frente a comprar un futuro, considerando ambos por la misma cantidad?",
+      "opciones": [
+        "La call obliga a comprar caro aunque el mercado baje.",
+        "La call permite no ejercer ante una baja, a cambio de pagar una prima.",
+        "El futuro permite ignorar gratuitamente sus pérdidas.",
+        "La call elimina también cualquier riesgo de falta de entrega del proveedor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La call otorga un derecho, no una obligación de comprar. Si el mercado baja del ejercicio, puede dejarse vencer. La prima sigue siendo un costo aunque no se ejerza.",
+        "Una call establece un techo de compra asociado al ejercicio, al que se agrega la prima. Si el spot baja, la empresa compra más barato en el mercado sin ejercer. El futuro fija un precio económico en ambas direcciones y no conserva ese beneficio de la baja.",
+        "El futuro genera obligaciones de pago cuando su precio se mueve contra la posición. No se puede descartar sólo porque resulte desfavorable. Esa diferencia contractual explica parte del costo de la flexibilidad de una opción.",
+        "La cobertura de precio no asegura por sí sola el suministro físico. Un proveedor puede incumplir aunque la opción tenga valor. Hay que separar el riesgo del precio del riesgo operativo de abastecimiento."
+      ]
+    },
+    {
+      "id": "c27-q061",
+      "tema": "Beta y futuros de índice",
+      "dificultad": "avanzada",
+      "pregunta": "Una cartera sectorial vale $3.000.000 y tiene beta de 1,2 respecto de un índice. Cada futuro del índice representa $150.000 de exposición. ¿Qué posición elimina aproximadamente el componente de mercado, conservando el riesgo sectorial específico?",
+      "opciones": [
+        "Comprar 24 contratos.",
+        "Vender 20 contratos.",
+        "Vender 24 contratos.",
+        "Vender 3 contratos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La magnitud se obtiene correctamente, pero la dirección agrega riesgo de mercado. Una cartera de beta positiva ya se beneficia de subas del índice. Debe venderse exposición al índice para neutralizarla.",
+        "Veinte contratos cubren $3.000.000 sin ajustar por beta. La cartera responde al mercado como una inversión de $3.600.000 en el índice. Ignorar la beta deja una parte de la sensibilidad sin compensar.",
+        "La exposición de mercado es 3.000.000 × 1,2 = $3.600.000. Dividirla por $150.000 por contrato da 24 contratos que deben venderse. La operación puede neutralizar aproximadamente la beta, pero no elimina noticias particulares del sector ni cambios futuros en la relación.",
+        "Esta cantidad no corresponde a dividir la exposición ajustada por el tamaño del futuro. El nocional del contrato es $150.000, no $1.200.000. Hay que calcular primero la exposición de mercado total y después convertirla a contratos."
+      ]
+    },
+    {
+      "id": "c27-q062",
+      "tema": "Cobertura con futuros de bonos",
+      "dificultad": "intermedia",
+      "pregunta": "Una tesorera posee bonos a tasa fija y otra planea emitir deuda a tasa fija dentro de tres meses. Ambas temen una suba de tasas. ¿Qué dirección de futuros de bonos suele compensar ese riesgo, ajustando correctamente el tamaño?",
+      "opciones": [
+        "Ambas venden futuros de bonos.",
+        "La tenedora compra y la futura emisora vende.",
+        "Ambas compran futuros de bonos.",
+        "La tenedora vende y la futura emisora compra."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una suba de tasas reduce el precio de los bonos y perjudica a la tenedora. También puede reducir el precio al que la emisora colocará títulos con cupones dados. Vender futuros permite ganar ante esa caída, aunque deben alinearse duración, fecha y características de los bonos.",
+        "La dirección de la futura emisora es coherente con el riesgo planteado. En cambio, comprar futuros aumenta la exposición de quien ya posee bonos. La tenedora necesita una ganancia cuando bajan los precios.",
+        "Comprar futuros gana si suben los precios de los bonos. El escenario temido es el opuesto: tasas mayores y precios menores. Ambas posiciones largas perderían ante el movimiento que se quiere cubrir.",
+        "La tenedora queda orientada correctamente, pero la emisora no. Para un título con cupón dado, una suba de tasas reduce los fondos obtenidos por su venta. La cobertura debe ganar con la caída del precio del bono."
+      ]
+    },
+    {
+      "id": "c27-q063",
+      "tema": "Especulación y función de los mercados",
+      "dificultad": "basica",
+      "pregunta": "Dos operadores venden futuros de trigo por igual cantidad. Uno tiene una cosecha comprometida para vender; el otro no tiene exposición previa. ¿Qué distingue sus posiciones?",
+      "opciones": [
+        "Los dos necesariamente reducen su riesgo porque venden el mismo contrato.",
+        "El segundo está cubierto por el mero hecho de operar en bolsa.",
+        "El primero especula y el segundo asegura un ingreso físico.",
+        "La venta puede cubrir al productor y crear exposición especulativa en el segundo; los especuladores pueden aportar liquidez y asumir riesgo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El contrato aislado no determina si existe cobertura. Hay que sumar la exposición previa y la nueva posición. La misma venta puede reducir un riesgo existente o crear uno nuevo.",
+        "La bolsa organiza la negociación y exige garantías, pero no aporta una cosecha compensatoria. El operador sin exposición previa pierde si el precio sube. La infraestructura de negociación no convierte una apuesta en cobertura.",
+        "El productor ya tiene un ingreso vinculado al precio del trigo. Vender futuros puede compensar esa exposición. Quien no tiene trigo conserva una posición corta sin el ingreso físico que la contrarreste.",
+        "La función económica depende de la posición conjunta de cada operador. El productor compensa su exposición larga y el otro asume riesgo de precio. Esa disposición a asumir riesgo puede facilitar la cobertura de productores o compradores sin justificar apuestas ajenas al negocio de cualquier empresa."
+      ]
+    },
+    {
+      "id": "c27-q064",
+      "tema": "Apalancamiento y llamados de margen",
+      "dificultad": "intermedia",
+      "pregunta": "Un operador vende un futuro sobre 1.000 unidades a $100 y deposita $5.000 de margen inicial. Al día siguiente el precio sube a $110. Sin otros cargos, ¿cuál es su pérdida y qué muestra respecto del margen?",
+      "opciones": [
+        "Pierde $5.000 como máximo porque ésa fue su garantía.",
+        "Pierde $10.000, equivalente al doble del margen inicial.",
+        "Gana $10.000 porque vendió antes de la suba.",
+        "Pierde $100.000, igual al nocional inicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El margen no es una prima de opción ni un límite de pérdida. Una posición en futuros mantiene obligaciones que pueden superar la garantía inicial. El operador debe afrontar el ajuste correspondiente.",
+        "La posición corta pierde 110 − 100 = $10 por unidad. En 1.000 unidades, la pérdida es $10.000, dos veces los $5.000 inicialmente depositados. Esto muestra el apalancamiento y puede exigir aportes adicionales de efectivo.",
+        "Vender futuros obliga a entregar o liquidar al precio pactado. Una suba hace desfavorable ese compromiso para el vendedor. La ganancia ante una suba corresponde a la posición larga.",
+        "El nocional inicial es $100.000, pero la pérdida se calcula sobre el cambio de precio. Ese cambio fue $10 por unidad. Confundir nivel de exposición con variación del valor exagera el ajuste."
+      ]
+    },
+    {
+      "id": "c27-q065",
+      "tema": "Descalce de liquidez: Metallgesellschaft",
+      "dificultad": "avanzada",
+      "pregunta": "Una comercializadora vende combustible a precios fijos para varios años y se cubre comprando futuros cortos que renueva. El precio cae y los futuros exigen pagos diarios, mientras la mejora de los contratos de venta se cobrará mucho después. ¿Cuál es el diagnóstico más preciso?",
+      "opciones": [
+        "La caída demuestra que la cobertura tenía necesariamente el signo equivocado.",
+        "La ganancia económica de los forwards paga automáticamente los márgenes del día.",
+        "Una compensación económica puede coexistir con una crisis de liquidez y con riesgo de renovar la cobertura.",
+        "Como ambas posiciones tratan de combustible, no puede haber descalces."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La posición larga en futuros puede ser adecuada para proteger ventas físicas a precio fijo frente a una suba de costos. Que pierda cuando el precio baja no prueba por sí solo un error de dirección. El problema también depende de cuándo se cobran y pagan los flujos.",
+        "Una mejora de valor en un contrato de largo plazo no implica un cobro inmediato. Los futuros pueden requerir efectivo antes de que esa mejora se materialice. Financiar la diferencia temporal es parte esencial del diseño.",
+        "Los pagos diarios deben financiarse aunque la posición total tenga ganancias compensatorias futuras. Además, renovar contratos cortos expone a cambios en la estructura de precios entre vencimientos. El caso exige evaluar conjuntamente liquidez, base y condiciones de renovación, sin confundir pérdida de una pata con resultado total.",
+        "La coincidencia del producto no iguala fechas ni mecanismos de liquidación. Un forward largo y un futuro corto pueden tener flujos muy diferentes en el tiempo. La cobertura requiere analizar esos desajustes explícitamente."
+      ]
+    },
+    {
+      "id": "c27-q066",
+      "tema": "Costo de renovar futuros",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa mantiene una cobertura larga de 1.000 unidades. Al renovar, vende el futuro cercano a $70 y compra el siguiente a $74. Si los contratos no tienen desembolso inicial de precio, ¿qué representa la diferencia de $4.000?",
+      "opciones": [
+        "Una prima de renovación en precios de exposición equivalente; no es por sí sola un pago inicial de $4.000 por comprar el nuevo futuro.",
+        "Una ganancia asegurada de $4.000 por vender el contrato cercano.",
+        "El margen inicial obligatorio de cualquier bolsa.",
+        "El precio total de 1.000 unidades físicas que se reciben al renovar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El nuevo compromiso de compra se fija $4 por unidad por encima de la cotización del que se cierra. Para 1.000 unidades, esa diferencia de precios equivale a $4.000 y hace menos favorable la renovación de la posición larga. Los futuros no se compran pagando todo su precio al inicio, por lo que hay que distinguir esa comparación de los márgenes y ajustes efectivamente exigibles.",
+        "Vender el contrato cercano cierra la posición a su cotización vigente. La ganancia o pérdida de ese cierre depende de la cotización a la que se abrió. Comprar el siguiente más caro no asegura una ganancia.",
+        "El margen depende de reglas y riesgos del contrato, no de igualar automáticamente dos precios de vencimientos distintos. La diferencia dada describe la estructura temporal de cotizaciones. No permite inferir el depósito que exigirá la bolsa.",
+        "La renovación reemplaza un compromiso por otro. No implica recibir en ese momento todas las unidades físicas. Confundir cotización de futuros con pago spot mezcla operaciones diferentes."
+      ]
+    },
+    {
+      "id": "c27-q067",
+      "tema": "Gobierno y control de derivados",
+      "dificultad": "intermedia",
+      "pregunta": "La tesorería de una industria presenta ganancias grandes y recurrentes por derivados que no se explican por sus exposiciones operativas. ¿Qué debería hacer el directorio?",
+      "opciones": [
+        "Aumentar automáticamente el límite para repetir las ganancias.",
+        "Evaluar sólo los resultados realizados y omitir las posiciones abiertas.",
+        "Prohibir permanentemente todo derivado sin revisar su función.",
+        "Revisar posiciones y escenarios adversos, identificar apuestas y exigir una justificación basada en el negocio y la capacidad para asumir riesgo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las utilidades observadas pueden provenir de riesgos que todavía no se materializaron. Aumentar límites por ese único motivo recompensa una exposición posiblemente mal comprendida. Antes hay que conocer posiciones, escenarios y relación con el negocio.",
+        "Las posiciones abiertas pueden contener pérdidas o riesgos que aún no se realizaron. Medir sólo cobros pasados produce una imagen incompleta. La supervisión requiere valores actuales y sensibilidad a cambios adversos.",
+        "Los derivados pueden cumplir funciones legítimas de cobertura. Una prohibición general puede dejar riesgos operativos sin administrar. Lo adecuado es controlar su uso, límites y correspondencia con las necesidades de la empresa.",
+        "La administración necesita saber qué posiciones están abiertas y qué pasa ante movimientos adversos. Las ganancias elevadas también pueden ser una señal de riesgo elevado. Las apuestas ajenas al negocio requieren examinar si existe una ventaja comparativa real y si se justifican los recursos comprometidos."
+      ]
+    },
+    {
+      "id": "c27-q068",
+      "tema": "Exposición crediticia y costo de reemplazo",
+      "dificultad": "avanzada",
+      "pregunta": "Un swap de tasas tiene nocional de $50.000.000 y valor de mercado positivo de $800.000 para una empresa. La contraparte incumple hoy, sin garantías ni recupero, y reemplazar la posición cuesta ese valor. ¿Cuál es la pérdida inmediata por reemplazo bajo estos supuestos?",
+      "opciones": [
+        "$50.000.000.",
+        "$800.000.",
+        "$50.800.000.",
+        "Cero, porque el swap empezó con valor cero."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El nocional escala los intereses, pero no representa el capital entregado en un swap ordinario. La exposición positiva de mercado es mucho menor en este caso. La pérdida de reemplazo se mide por el valor del contrato que deja de cumplirse.",
+        "La empresa pierde el derecho a una posición que hoy le aporta un valor de $800.000. Sin garantías ni recupero, debe pagar ese importe para reemplazarla. El nocional de $50.000.000 no se suma, y esta medida puntual no equivale a la máxima exposición potencial futura.",
+        "Esta suma cuenta el nocional como si fuera una inversión perdida además del valor del swap. El contrato ordinario no exige prestar ese capital a la contraparte. La pérdida inmediata dada corresponde únicamente al costo de reemplazo de $800.000.",
+        "El valor inicial describe las condiciones al contratar. Las tasas cambiaron y el swap ahora vale $800.000 a favor de la empresa. El incumplimiento destruye ese activo aunque no haya habido pago inicial."
+      ]
+    },
+    {
+      "id": "c27-q069",
+      "tema": "Cobertura cambiaria sintética",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa debe pagar una suma cierta en euros dentro de seis meses. ¿Qué alternativa a comprar euros forward permite fijar hoy la disponibilidad de esa moneda, sin considerar impuestos ni fricciones?",
+      "opciones": [
+        "Esperar hasta el vencimiento y comprar euros al spot que resulte.",
+        "Comprar acciones de una empresa europea por el mismo importe actual.",
+        "Comprar hoy el valor presente de los euros e invertirlos hasta reunir la suma debida, financiando la compra si hace falta.",
+        "Pedir hoy un préstamo en euros y gastarlo, sin reservar fondos para el pago."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Esperar deja el costo expuesto a la cotización futura. La empresa todavía no sabe cuánta moneda local necesitará. Ésa es justamente la incertidumbre que busca eliminar.",
+        "Una acción no promete devolver una cantidad cierta de euros al vencimiento. Su precio puede variar por riesgos de negocio y mercado. La coincidencia geográfica no replica un depósito en la moneda requerida.",
+        "La compra spot y el depósito en euros aseguran la cantidad futura mediante la capitalización del saldo. El desembolso inicial se determina descontando la obligación a la tasa en euros. Si se financia en moneda local, la combinación fija los flujos del pago futuro y permite comparar su costo con el de un forward equivalente.",
+        "Gastar los euros deja sin respaldo la obligación comercial y agrega la deuda del préstamo. La operación no reserva la suma necesaria. Una cobertura sintética necesita alinear activos disponibles y pasivos en la fecha de pago."
+      ]
+    },
+    {
+      "id": "c27-q070",
+      "tema": "Tasas y precio forward de un bono",
+      "dificultad": "avanzada",
+      "pregunta": "Un bono a varios años paga un cupón conocido antes de la entrega forward a seis meses. La curva baja de manera paralela. ¿Por qué no alcanza con decir que el precio forward baja porque disminuye el costo de financiamiento?",
+      "opciones": [
+        "Porque también sube el precio spot del bono; hay que recalcular el spot y el valor presente de los cupones antes de llevar el costo neto a la entrega.",
+        "Porque el spot del bono permanece fijo por definición.",
+        "Porque los cupones anteriores a la entrega pertenecen siempre al comprador forward.",
+        "Porque una tasa menor obliga a que el forward sea cero."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La baja de tasas afecta tanto el costo de llevar la posición como el precio actual del bono. La replicación exige F = (spot − valor presente de cupones previos a la entrega) capitalizado hasta la entrega. Evaluar un solo componente puede dar una conclusión equivocada sobre la variación total y sobre la ganancia de una posición corta.",
+        "El cupón pactado puede ser fijo, pero el precio de mercado del bono cambia. Una baja de tasas suele elevar el valor presente de sus pagos. Confundir cupón fijo con precio fijo omite la principal fuente de sensibilidad.",
+        "Quien mantiene el bono antes de entregarlo cobra los cupones de ese tramo. El comprador forward recibe el activo en la fecha futura y no esos pagos previos. Por eso se descuentan del costo de replicar la entrega.",
+        "Una tasa menor no elimina los derechos económicos del bono. Cambian sus valores presentes y el costo de financiamiento. No hay una regla que anule el precio de entrega."
       ]
     }
   ]

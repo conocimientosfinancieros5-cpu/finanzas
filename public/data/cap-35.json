@@ -1,0 +1,1146 @@
+{
+  "capitulo": 35,
+  "titulo": "Conclusión: lo que sabemos y lo que no sabemos sobre las finanzas",
+  "preguntas": [
+    {
+      "id": "c35-q001",
+      "tema": "VPN y costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "¿Qué compara el valor presente neto de un proyecto?",
+      "opciones": [
+        "La utilidad contable con los dividendos",
+        "El valor de sus flujos futuros con su inversión inicial",
+        "La suma nominal de cobros con el patrimonio",
+        "Su tasa de interés con la inflación"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La utilidad contable no equivale al efectivo disponible. Los dividendos son una decisión de distribución. El VPN evalúa flujos incrementales y su costo de oportunidad.",
+        "El VPN resta la inversión inicial al valor presente de los flujos futuros. El descuento refleja alternativas de riesgo comparable. Un resultado positivo representa creación de valor.",
+        "Sumar importes de fechas diferentes ignora el valor del tiempo. El patrimonio tampoco sustituye al desembolso del proyecto. Primero se descuentan los flujos y luego se resta la inversión.",
+        "Comparar interés e inflación permite estudiar tasas reales. Esa comparación no mide por sí sola el valor de un proyecto. También hacen falta sus flujos y el desembolso inicial."
+      ]
+    },
+    {
+      "id": "c35-q002",
+      "tema": "VPN de un período",
+      "dificultad": "basica",
+      "pregunta": "Un proyecto requiere $100 hoy y genera $121 dentro de un año. Su costo de oportunidad anual es 10%. ¿Cuál es su VPN?",
+      "opciones": [
+        "$0",
+        "$21",
+        "$110",
+        "$10"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Un VPN nulo requeriría que el valor presente fuera exactamente 100. Aquí el cobro descontado vale 110. El proyecto ofrece 10 adicionales sobre la compensación exigida por el mercado.",
+        "El resultado 21 surge de restar 100 a 121 sin descontar. Los dos importes corresponden a fechas distintas. El cobro futuro vale 110 hoy y el excedente es 10.",
+        "El importe 110 es el valor presente del cobro. Todavía falta descontar del resultado la inversión inicial. El VPN es 110 menos 100, igual a 10.",
+        "El valor presente es 121/1,10 = 110. Se resta la inversión de 100 en el período inicial. El VPN es 10 y justifica aceptar el proyecto si no hay restricciones adicionales."
+      ]
+    },
+    {
+      "id": "c35-q003",
+      "tema": "VPN de varios períodos",
+      "dificultad": "intermedia",
+      "pregunta": "Se invierten $150 hoy y se cobran $88 al final del año 1 y $96,80 al final del año 2. Con una tasa anual efectiva del 10%, ¿cuál es el VPN?",
+      "opciones": [
+        "$10",
+        "$34,80",
+        "$18",
+        "$160"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer cobro vale 88/1,10 = 80. El segundo vale 96,80/1,10² = 80. El VPN es 80 + 80 - 150 = 10.",
+        "Este resultado suma los cobros sin descontarlos y resta 150. Así se ignora que el dinero futuro vale menos hoy. Los valores presentes suman 160 y el VPN es 10.",
+        "Este valor aparece al descontar ambos cobros un solo año. El segundo flujo está a dos años y exige dividir por 1,10². Al respetar cada fecha, el VPN resulta 10.",
+        "Los 160 representan el valor presente de los ingresos. El desembolso inicial sigue siendo un costo del proyecto. Al restar 150 se obtiene un VPN de 10."
+      ]
+    },
+    {
+      "id": "c35-q004",
+      "tema": "Tasa apropiada y delegación",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora evalúa una inversión riesgosa y propone descontarla a la tasa de un préstamo garantizado, porque es baja. ¿Qué debería hacer?",
+      "opciones": [
+        "Usar el rendimiento que prefiera el accionista más rico",
+        "Usar siempre la tasa libre de riesgo",
+        "Usar el rendimiento esperado de inversiones con riesgo comparable al proyecto",
+        "Evitar el descuento porque los accionistas discrepan"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La riqueza de un accionista no fija el precio de mercado del riesgo. Otros propietarios pueden tener preferencias diferentes. La referencia común es el rendimiento de oportunidades comparables.",
+        "La tasa libre de riesgo corresponde a flujos sin riesgo relevante. Aplicarla automáticamente a una inversión riesgosa puede inflar su valor. Hay que buscar alternativas de riesgo equivalente.",
+        "El costo de oportunidad se determina por el riesgo de los flujos. Un préstamo garantizado puede tener un riesgo muy distinto. Esta regla permite delegar la creación de valor aunque los accionistas tengan distintas preferencias.",
+        "Las diferencias personales no eliminan el valor temporal del dinero. En mercados que funcionan bien, los accionistas pueden ajustar sus carteras individualmente. La administración puede concentrarse en maximizar el VPN."
+      ]
+    },
+    {
+      "id": "c35-q005",
+      "tema": "CAPM y diversificación",
+      "dificultad": "basica",
+      "pregunta": "¿Qué riesgo remunera el CAPM mediante una prima de rendimiento?",
+      "opciones": [
+        "La variabilidad contable sin relación con el mercado",
+        "Todo riesgo específico de una empresa",
+        "El riesgo sistemático medido por beta",
+        "Solo el riesgo que tiene seguro contratado"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La variabilidad contable no mide necesariamente la exposición al mercado. Beta considera cómo se mueve el rendimiento con el mercado. El riesgo relevante se refiere al valor económico de los flujos.",
+        "El riesgo específico puede reducirse combinando inversiones. En el CAPM no genera una prima separada. Confundirlo con riesgo sistemático sobreestima el rendimiento exigido.",
+        "La diversificación permite reducir riesgos particulares. La exposición a movimientos generales del mercado permanece. El CAPM vincula la prima exigida con esa exposición, medida por beta.",
+        "Contratar un seguro es una decisión de administración del riesgo. No define por sí mismo qué riesgo remunera el mercado. La prima del CAPM depende de beta."
+      ]
+    },
+    {
+      "id": "c35-q006",
+      "tema": "Aplicación del CAPM",
+      "dificultad": "basica",
+      "pregunta": "La tasa libre de riesgo es 4%, el rendimiento esperado del mercado 10% y beta es 1,5. ¿Qué rendimiento anual exige el CAPM?",
+      "opciones": [
+        "13%",
+        "19%",
+        "9%",
+        "10%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La prima de mercado es 10% - 4% = 6%. Se multiplica por beta: 1,5 × 6% = 9%. Sumando la tasa libre de riesgo se obtiene 13%.",
+        "Este resultado suma 4% a 1,5 × 10%. Así trata todo el rendimiento del mercado como prima. Primero debe restarse la tasa libre de riesgo y el resultado correcto es 13%.",
+        "El 9% es únicamente la compensación por riesgo sistemático. También corresponde cobrar el 4% libre de riesgo. El rendimiento total exigido es 13%.",
+        "El 10% es el rendimiento esperado del mercado, cuya beta es uno. El activo tiene beta 1,5 y requiere una prima mayor. Con los datos dados, la tasa total es 13%."
+      ]
+    },
+    {
+      "id": "c35-q007",
+      "tema": "Comparación de riesgos",
+      "dificultad": "intermedia",
+      "pregunta": "Dos proyectos tienen beta 0,8; uno presenta mucha más incertidumbre específica. Con inversores diversificados y bajo el CAPM, ¿cómo se comparan sus tasas exigidas?",
+      "opciones": [
+        "La del proyecto con menos incertidumbre específica debe igualar la tasa libre de riesgo",
+        "La del proyecto con más incertidumbre específica siempre es mayor",
+        "Ambas deben ser cero",
+        "Son iguales si comparten tasa libre de riesgo y prima de mercado"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El proyecto menos volátil sigue teniendo beta positiva. Por eso no es equivalente a un activo libre de riesgo. Corresponde agregar 0,8 veces la prima de mercado.",
+        "La respuesta confunde volatilidad total con exposición sistemática. El riesgo específico no se remunera separadamente bajo el CAPM. Con beta idéntica, las tasas exigidas coinciden.",
+        "Una beta de 0,8 no significa ausencia de costo de oportunidad. Existe remuneración por tiempo y por riesgo sistemático. La tasa se obtiene sumando ambas partes.",
+        "La beta es igual para ambos proyectos. Con los mismos parámetros de mercado, la fórmula produce la misma tasa. La incertidumbre diversificable no añade otra prima en este modelo."
+      ]
+    },
+    {
+      "id": "c35-q008",
+      "tema": "Beta de una cartera",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera destina 60% a un activo de beta 1,5 y 40% a otro de beta 0,5. ¿Cuál es su beta?",
+      "opciones": [
+        "1,0",
+        "1,1",
+        "2,0",
+        "0,9"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El promedio simple de 1,5 y 0,5 es uno. Pero los pesos no son iguales. Al considerar 60% y 40%, la beta resulta 1,1.",
+        "La beta de la cartera es el promedio ponderado por valores invertidos. Se calcula 0,60 × 1,5 + 0,40 × 0,5. La suma es 0,9 + 0,2 = 1,1.",
+        "Sumar las betas ignora las proporciones invertidas. La exposición total depende del peso de cada activo. El promedio ponderado correcto es 1,1.",
+        "El 0,9 corresponde solo al aporte del primer activo. El segundo también contribuye con 0,2. Sumando las dos exposiciones se obtiene 1,1."
+      ]
+    },
+    {
+      "id": "c35-q009",
+      "tema": "Formas de eficiencia informativa",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conjunto de correspondencias es correcto?",
+      "opciones": [
+        "Débil: información privada; semifuerte: precios pasados; fuerte: información pública",
+        "Débil: precios pasados; semifuerte: información pública; fuerte: también información privada",
+        "Débil: información pública; semifuerte: información privada; fuerte: precios pasados",
+        "Las tres formas usan únicamente precios pasados"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La forma débil no supone incorporación de información privada. La semifuerte tampoco se limita al historial de precios. Los conjuntos correctos crecen desde precios pasados hasta información pública y privada.",
+        "Cada forma amplía el conjunto de información incorporado en precios. La débil incluye el historial y la semifuerte agrega información pública. La fuerte incluye además información no pública.",
+        "Esta secuencia invierte la amplitud de las hipótesis. La forma fuerte es la más exigente, no la más restringida. La semifuerte se refiere a toda información pública.",
+        "Las tres formas no son equivalentes. Si solo se consideran precios pasados, se describe la forma débil. Las otras dos imponen exigencias informativas adicionales."
+      ]
+    },
+    {
+      "id": "c35-q010",
+      "tema": "Alcance de la eficiencia",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirmación es compatible con un mercado informativamente eficiente?",
+      "opciones": [
+        "Cualquier análisis público produce ganancias extraordinarias seguras",
+        "Cada inversor interpreta siempre todo correctamente",
+        "Los precios nunca cambian bruscamente",
+        "Puede haber impuestos y costos de transacción"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Si la información pública ya está incorporada, analizarla no garantiza una ventaja. Además existen riesgo y costos. La eficiencia cuestiona las recetas de ganancias extraordinarias seguras.",
+        "La competencia puede disciplinar precios aunque existan errores individuales. No es necesario que todos sean igualmente hábiles. La afirmación impone una condición mucho más fuerte que la eficiencia.",
+        "Una noticia importante puede cambiar mucho el valor presente esperado. Una reacción brusca puede ser precisamente una incorporación rápida de información. La eficiencia no exige precios constantes.",
+        "La eficiencia trata sobre incorporación de información en precios. No requiere eliminar impuestos ni costos de negociación. Estos costos también ayudan a explicar por qué una anomalía estadística no es una ganancia explotable."
+      ]
+    },
+    {
+      "id": "c35-q011",
+      "tema": "Información pública y precios",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa anuncia una mejora inesperada y pública de sus flujos. Un director supone que podrá comprar barato varios días después solo por haber leído el anuncio. Bajo eficiencia semifuerte, ¿qué evaluación corresponde?",
+      "opciones": [
+        "La noticia debería incorporarse rápidamente y no garantiza una ventaja posterior",
+        "La noticia solo se incorpora cuando se paga un dividendo",
+        "La eficiencia semifuerte ignora los anuncios públicos",
+        "El precio debe permanecer fijo porque el anuncio ya ocurrió"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La forma semifuerte incorpora información pública con rapidez. Una sorpresa favorable puede elevar el precio al difundirse. Leerla después no garantiza comprar por debajo del valor actualizado.",
+        "El valor depende de flujos futuros esperados, no solo de pagos realizados. El anuncio puede modificar esas expectativas inmediatamente. No hace falta esperar al dividendo para que cambie el precio.",
+        "La información pública es justamente el centro de esta hipótesis. Los anuncios de resultados o proyecciones pertenecen a ese conjunto. Ignorarlos describe incorrectamente la forma semifuerte.",
+        "Que un anuncio sea pasado no elimina su efecto económico. Si altera los flujos esperados, puede cambiar el nivel del precio. La eficiencia exige incorporación rápida, no inmovilidad."
+      ]
+    },
+    {
+      "id": "c35-q012",
+      "tema": "Aditividad del valor",
+      "dificultad": "basica",
+      "pregunta": "¿Cuándo corresponde sumar los valores presentes de dos proyectos para valorar su combinación?",
+      "opciones": [
+        "Solo si ambos tienen la misma inversión inicial",
+        "Siempre, aunque la integración destruya flujos",
+        "Cuando la combinación conserva sus flujos y estos se valúan consistentemente con su riesgo",
+        "Solo si sus cobros se producen el mismo día"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El desembolso inicial puede ser diferente en cada proyecto. Eso no impide sumar valores presentes. Lo relevante es identificar correctamente los flujos y evitar duplicaciones.",
+        "Una integración que destruye flujos cambia el objeto valuado. No corresponde ignorar esa pérdida. Debe restarse su valor presente al sumar los valores independientes.",
+        "La aditividad relaciona el valor del conjunto con los derechos sobre sus flujos. Si los flujos no cambian, sus valores pueden sumarse. Si aparecen sinergias o costos, hay que valorar también esos cambios.",
+        "Los valores presentes ya llevan los flujos a una fecha común. Por eso pueden sumarse aunque los cobros ocurran en fechas distintas. No se exige coincidencia de vencimientos."
+      ]
+    },
+    {
+      "id": "c35-q013",
+      "tema": "Fusión sin sinergias",
+      "dificultad": "basica",
+      "pregunta": "Dos empresas valen $240 y $160 por separado. Se fusionan sin alterar flujos, riesgos ni costos, en un mercado perfecto. ¿Cuánto vale el conjunto?",
+      "opciones": [
+        "$320",
+        "$480",
+        "$400",
+        "$240"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El importe supone una pérdida de 80 sin fundamento en los datos. No se mencionan costos ni destrucción de flujos. Por aditividad corresponde un valor de 400.",
+        "Este valor introduce una ganancia de 80 que no está respaldada por flujos adicionales. La combinación no cambia los activos económicos. El valor sigue siendo 400.",
+        "La aditividad permite sumar los valores de ambas empresas. El cálculo es 240 + 160 = 400. La diversificación corporativa por sí sola no agrega valor en este supuesto.",
+        "Tomar solo la empresa mayor elimina el valor de la otra. Los accionistas conservan derechos sobre ambos conjuntos de activos. El valor total es la suma de 240 y 160."
+      ]
+    },
+    {
+      "id": "c35-q014",
+      "tema": "Sinergias y costos de integración",
+      "dificultad": "intermedia",
+      "pregunta": "A vale $300 y B $200. Una fusión agrega sinergias con VP de $70 y costos de integración con VP de $25. ¿Cuál es el valor conjunto, antes de distribuirlo entre accionistas?",
+      "opciones": [
+        "$545",
+        "$570",
+        "$595",
+        "$475"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor independiente total es 300 + 200 = 500. El beneficio neto de integración es 70 - 25 = 45. Por eso el valor combinado es 545.",
+        "Este cálculo suma las sinergias pero omite los costos. Los costos de integración son salidas de efectivo relevantes. El incremento neto es 45 y el total es 545.",
+        "Este resultado suma los costos como si fueran beneficios. Una salida de efectivo reduce el valor, no lo aumenta. Debe hacerse 500 + 70 - 25 = 545.",
+        "Restar solamente los costos ignora las sinergias explícitas. Hay cambios favorables y desfavorables en los flujos. El valor final debe incorporar ambos y resulta 545."
+      ]
+    },
+    {
+      "id": "c35-q015",
+      "tema": "Proposición I de Modigliani y Miller",
+      "dificultad": "basica",
+      "pregunta": "¿Qué establece la Proposición I de MM bajo mercados perfectos y flujos operativos inalterados?",
+      "opciones": [
+        "El valor del patrimonio permanece fijo al aumentar la deuda",
+        "Cuanta más deuda, mayor valor sin límite",
+        "La deuda no tiene riesgo en ninguna circunstancia",
+        "El valor de la empresa no depende de cómo se divide entre deuda y patrimonio"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El valor total puede permanecer fijo mientras cambia su reparto. Si aumenta el valor de la deuda, disminuye el patrimonio residual. Confundir valor total con valor accionario es el error.",
+        "Esta conclusión introduce beneficios de deuda ausentes en los supuestos. En mercados perfectos no se crea valor solo cambiando títulos. Los impuestos o costos financieros deben analizarse por separado.",
+        "MM no afirma que toda deuda sea segura. La proposición se refiere al valor total de la empresa. El riesgo puede redistribuirse entre deuda y acciones.",
+        "La financiación reparte los flujos entre distintos titulares. Si no cambia los flujos totales ni genera fricciones, no crea valor adicional. El valor agregado permanece independiente de la mezcla financiera."
+      ]
+    },
+    {
+      "id": "c35-q016",
+      "tema": "Reparto entre deuda y acciones",
+      "dificultad": "basica",
+      "pregunta": "Una empresa vale $900 bajo los supuestos de MM. Luego de una recapitalización tiene deuda con valor de mercado de $350, sin otros derechos. ¿Cuánto vale su patrimonio?",
+      "opciones": [
+        "$900",
+        "$550",
+        "$1.250",
+        "$350"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 900 corresponden a todos los proveedores de capital. Una parte de ese valor pertenece ahora a acreedores. El patrimonio es el remanente de 550.",
+        "El valor total es la suma de deuda y patrimonio. Entonces el patrimonio vale 900 - 350 = 550. La recapitalización no cambia el total bajo los supuestos indicados.",
+        "Sumar la deuda al valor empresarial la cuenta dos veces. La deuda ya forma parte de los derechos sobre los activos. El patrimonio se calcula restando 350 a 900.",
+        "Los 350 son el valor de la deuda, no de las acciones. Los dos derechos tienen valores distintos en este caso. El patrimonio residual vale 550."
+      ]
+    },
+    {
+      "id": "c35-q017",
+      "tema": "Escudo fiscal de intereses",
+      "dificultad": "intermedia",
+      "pregunta": "Una deuda genera intereses deducibles de $40 al año. La tasa corporativa es 30% y hay ganancias imponibles suficientes. ¿Cuál es el ahorro fiscal anual atribuible a los intereses?",
+      "opciones": [
+        "$40",
+        "$12",
+        "$28",
+        "$133,33"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los intereses no se recuperan íntegramente vía impuestos. Solo se evita pagar la alícuota aplicada a la deducción. El ahorro es 12 y el costo restante es 28.",
+        "La deducción reduce la base imponible en 40. El impuesto evitado es 40 × 0,30 = 12. Es un flujo anual, no el valor presente de todos los ahorros futuros.",
+        "Los 28 son el interés neto del ahorro fiscal. La pregunta pide el impuesto evitado. Ese ahorro se calcula multiplicando 40 por 30% y da 12.",
+        "Dividir el interés por la alícuota no mide la deducción. La tasa se aplica a la base que deja de tributar. El cálculo correcto es 40 × 30% = 12."
+      ]
+    },
+    {
+      "id": "c35-q018",
+      "tema": "Beneficios y costos de la deuda",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora propone endeudarse al máximo porque los intereses son deducibles. ¿Cuál es la objeción más completa?",
+      "opciones": [
+        "Los costos de dificultades financieras importan únicamente después de la quiebra",
+        "El escudo fiscal elimina cualquier posibilidad de insolvencia",
+        "La deuda solo redistribuye flujos incluso si cambia los impuestos",
+        "Hay que considerar impuestos personales, incentivos y costos esperados de dificultades financieras"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los clientes, proveedores y empleados pueden reaccionar antes de una quiebra formal. También pueden perderse inversiones durante una crisis. El valor incorpora esos costos esperados desde antes.",
+        "Una deducción reduce impuestos pero no garantiza fondos para pagar. El endeudamiento puede aumentar la probabilidad de dificultades. El escudo fiscal no convierte la deuda en una obligación sin riesgo.",
+        "Si cambian los impuestos, cambian los flujos disponibles para inversores. Ya no se trata de una mera división neutral. Esa es una razón por la que MM sirve de referencia y no de respuesta universal.",
+        "La deducción corporativa es un beneficio potencial. Pero los impuestos personales y las dificultades financieras pueden compensarlo, mientras la disciplina de la deuda también cambia incentivos. El efecto neto requiere evaluar todos esos canales."
+      ]
+    },
+    {
+      "id": "c35-q019",
+      "tema": "Derecho de opción",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue una opción financiera de una obligación contractual de compra?",
+      "opciones": [
+        "Otorga el derecho a operar en términos fijados, sin exigir ejercerlo",
+        "Obliga a comprar aunque el precio sea desfavorable",
+        "Permite cambiar unilateralmente cualquier precio pactado",
+        "Garantiza que el activo subyacente subirá"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El titular decide si le conviene ejercer el derecho. Las condiciones relevantes se pactan antes de esa decisión. Esa posibilidad de rechazar una operación desfavorable explica parte de su valor.",
+        "Una obligación de comprar no tiene la misma flexibilidad. El titular de una opción puede dejarla vencer. Confundirla con un compromiso elimina la asimetría de sus pagos.",
+        "La opción no permite reescribir libremente el contrato. El ejercicio se realiza según condiciones pactadas. Su valor surge de elegir si operar bajo esas condiciones.",
+        "La opción puede valer aun cuando el precio futuro sea incierto. No garantiza una subida del subyacente. Protege la facultad de participar en resultados favorables sin obligar a ejercer."
+      ]
+    },
+    {
+      "id": "c35-q020",
+      "tema": "Pago de una opción de compra",
+      "dificultad": "basica",
+      "pregunta": "Una opción de compra vence hoy con precio de ejercicio de $80 y un activo que cotiza a $110. Si se pagó una prima de $8, ¿cuál es la ganancia neta al vencimiento, sin intereses ni otros costos?",
+      "opciones": [
+        "$38",
+        "$30",
+        "$22",
+        "-$8"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar la prima convierte un costo en un ingreso. El titular pagó 8 para obtener el derecho. La ganancia neta es 30 - 8 = 22.",
+        "Los 30 son el pago bruto de la opción. La inversión inicial en la prima también es un costo. Después de restar 8, la ganancia neta es 22.",
+        "El pago por ejercicio es máximo entre 110 - 80 y cero, igual a 30. Para calcular la ganancia neta se resta la prima de 8. El resultado es 22.",
+        "La pérdida de la prima sería el resultado si la opción venciera sin valor. Aquí conviene comprar a 80 un activo que vale 110. El ejercicio produce 30 y la ganancia neta es 22."
+      ]
+    },
+    {
+      "id": "c35-q021",
+      "tema": "Black-Scholes y opciones reales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué afirmación describe mejor el alcance de la teoría de opciones en finanzas corporativas?",
+      "opciones": [
+        "Solo el precio de ejercicio importa para valorar una opción",
+        "La fórmula simple valía exactamente cualquier opción real sin ajustes",
+        "La fórmula simple no sirve para todo contrato, pero sus principios de valuación pueden extenderse",
+        "Las opciones reales carecen de relación con los métodos neutrales al riesgo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El ejercicio es una variable relevante pero no suficiente. También influyen el valor del activo, la incertidumbre, el vencimiento y las tasas. Dos opciones con igual ejercicio pueden tener valores muy distintos.",
+        "Una fórmula exige que se cumplan sus supuestos. Las opciones reales pueden tener decisiones sucesivas o restricciones diferentes. Hay que adaptar el método en vez de aplicar mecánicamente la fórmula simple.",
+        "Las condiciones de una opción corporativa pueden ser más complejas que las de una compra simple. Importan el subyacente, el ejercicio, el plazo, el riesgo y las tasas. La replicación y la valuación neutral al riesgo permiten abordar estructuras más complejas.",
+        "Las opciones reales comparten el valor de la flexibilidad contingente. Los principios neutrales al riesgo pueden aplicarse cuando existe un marco adecuado de valuación. La complejidad del cálculo no elimina esa conexión conceptual."
+      ]
+    },
+    {
+      "id": "c35-q022",
+      "tema": "Valuación neutral al riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Un activo vale $100 y dentro de un año valdrá $120 o $80. La tasa libre de riesgo es 0% y se puede replicar una opción sin fricciones. ¿Cuánto vale una opción de compra con ejercicio de $100?",
+      "opciones": [
+        "$10",
+        "$20",
+        "$0",
+        "$50"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La probabilidad neutral al riesgo satisface 100 = p × 120 + (1 - p) × 80, por lo que p = 0,5. Los pagos de la opción son 20 y cero. Su valor es (0,5 × 20 + 0,5 × 0)/1 = 10.",
+        "Los 20 son el pago solamente en el estado favorable. No se reciben con certeza. La ponderación neutral al riesgo y el descuento dan un valor actual de 10.",
+        "Que el ejercicio coincida hoy con el precio no elimina el valor de esperar. Dentro de un año puede haber un pago positivo y nunca se exige un ejercicio desfavorable. El valor replicado es 10.",
+        "La probabilidad neutral al riesgo de 50% no es un importe monetario. Debe aplicarse a los pagos de la opción. Ese promedio de pagos vale 10 con tasa cero."
+      ]
+    },
+    {
+      "id": "c35-q023",
+      "tema": "Teoría de agencia",
+      "dificultad": "basica",
+      "pregunta": "En la relación entre accionistas y administradores, ¿cuál es el problema de agencia central?",
+      "opciones": [
+        "Todo conflicto desaparece si la empresa obtiene utilidades",
+        "Los accionistas y administradores tienen por definición intereses idénticos",
+        "La contabilidad impide delegar decisiones",
+        "Los administradores pueden perseguir objetivos distintos de los de los propietarios"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una empresa puede ganar dinero y aun así destruir valor mediante malas decisiones. Las utilidades tampoco muestran todos los beneficios privados. La existencia de ganancias no prueba una alineación completa.",
+        "La coincidencia de intereses no puede darse por supuesta. El control imperfecto permite conductas que perjudican a los propietarios. La teoría de agencia estudia justamente esos conflictos.",
+        "La delegación existe aun con sistemas contables desarrollados. La información y el monitoreo pueden ser incompletos. El problema surge de incentivos y control, no de una prohibición contable.",
+        "Los propietarios delegan decisiones que no pueden observar completamente. Los administradores pueden favorecer beneficios privados o proyectos convenientes para ellos. Los incentivos y controles buscan reducir esa divergencia."
+      ]
+    },
+    {
+      "id": "c35-q024",
+      "tema": "Propiedad y mecanismos de control",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa con propiedad dispersa quiere mejorar la alineación de sus gerentes. ¿Qué combinación de mecanismos tiene más fundamento?",
+      "opciones": [
+        "Eliminar toda supervisión porque hay muchos accionistas",
+        "Remuneración ligada al valor y posibilidad de reemplazo mediante el control corporativo",
+        "Pagar solo según el tamaño de los activos, cualquiera sea su rentabilidad",
+        "Suponer que cada pequeño accionista vigilará toda la gestión"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Muchos accionistas pequeños pueden tener incentivos débiles para costear la vigilancia. La dispersión no garantiza supervisión eficaz. Conviene diseñar mecanismos de incentivos y control.",
+        "Los incentivos ligados a creación de valor buscan acercar objetivos. La amenaza creíble de reemplazo complementa ese mecanismo. Con propietarios concentrados también puede haber supervisión directa, de modo que el control depende de la estructura de propiedad.",
+        "Premiar tamaño puede incentivar expansión aunque tenga VPN negativo. El indicador debe considerar el valor creado, no solo recursos controlados. De lo contrario, la remuneración puede profundizar el problema de agencia.",
+        "El beneficio de vigilar se reparte entre todos los accionistas. Cada pequeño propietario puede preferir que otro asuma el costo. Por eso no alcanza con esperar vigilancia individual exhaustiva."
+      ]
+    },
+    {
+      "id": "c35-q025",
+      "tema": "Accionistas y acreedores",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora quiere reducir conflictos con tenedores de bonos antes de emitir deuda. ¿Qué herramienta responde directamente a ese objetivo?",
+      "opciones": [
+        "Prometer que no habrá ningún riesgo empresarial",
+        "Cláusulas contractuales que limiten conductas perjudiciales para los acreedores",
+        "Permitir retiros ilimitados de efectivo sin condiciones",
+        "Eliminar toda información financiera para evitar desacuerdos"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La actividad empresarial conserva incertidumbre. Una promesa absoluta no reemplaza garantías ni condiciones verificables. Los contratos deben abordar conductas e incentivos concretos.",
+        "Los contratos pueden anticipar conflictos sobre inversión, endeudamiento o distribución. Las cláusulas fijan restricciones y derechos de control. No eliminan todo riesgo, pero pueden reducir transferencias oportunistas entre accionistas y acreedores.",
+        "Retiros ilimitados pueden vaciar activos que respaldan la deuda. Eso agrava el conflicto entre propietarios y acreedores. Las restricciones contractuales buscan evitar precisamente ese tipo de transferencia.",
+        "La opacidad dificulta evaluar el cumplimiento y los riesgos. No resuelve los incentivos divergentes. La información y las cláusulas verificables ayudan más que suprimirla."
+      ]
+    },
+    {
+      "id": "c35-q026",
+      "tema": "Rentas económicas",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué encontrar proyectos con VPN positivo es más difícil que aplicar la fórmula del VPN?",
+      "opciones": [
+        "Los proyectos del mismo sector necesariamente tienen igual VPN",
+        "Cualquier utilidad contable positiva garantiza VPN positivo",
+        "La competencia aumenta indefinidamente todas las rentas",
+        "Hay que identificar ventajas que generen rentas y estimar cuánto resistirán a la competencia"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las empresas difieren en capacidades, costos y activos. Estar en el mismo sector no iguala sus oportunidades. El VPN debe estimarse para cada inversión y contexto.",
+        "La utilidad contable no descuenta necesariamente todos los costos económicos. Un negocio rentable contablemente puede rendir menos que una alternativa comparable. El VPN depende de flujos, inversión y costo de capital.",
+        "La entrada y la imitación pueden reducir beneficios extraordinarios. Suponer crecimiento indefinido de las rentas exagera el valor. Hay que justificar por qué una ventaja persistiría.",
+        "La fórmula organiza flujos y descuento, pero no descubre oportunidades por sí sola. El VPN positivo requiere beneficios superiores al costo de oportunidad de los recursos. El origen y la duración de esa ventaja necesitan análisis económico."
+      ]
+    },
+    {
+      "id": "c35-q027",
+      "tema": "Duración de las rentas",
+      "dificultad": "intermedia",
+      "pregunta": "Una ventaja competitiva genera flujos incrementales de $12 al final de cada uno de los próximos dos años y luego desaparece. Con tasa anual de 20% y sin inversión adicional, ¿cuál es el VP de esa ventaja?",
+      "opciones": [
+        "$18,33",
+        "$24",
+        "$60",
+        "$20"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer flujo vale 12/1,20 = 10. El segundo vale 12/1,20² = 8,33 aproximadamente. El valor total es 18,33, porque no hay rentas después del segundo año.",
+        "Sumar 12 + 12 omite el descuento. Ambos importes se reciben en el futuro. Al traerlos a hoy, su valor conjunto es 18,33.",
+        "Dividir 12 por 20% valía una perpetuidad. La ventaja dura solo dos años. Suponer rentas eternas sobrestima fuertemente su valor.",
+        "Dividir 24 por 1,20 trata ambos cobros como si llegaran al final del primer año. El segundo llega un año más tarde. Descontando cada uno según su fecha se obtiene 18,33."
+      ]
+    },
+    {
+      "id": "c35-q028",
+      "tema": "Determinantes de beta del proyecto",
+      "dificultad": "intermedia",
+      "pregunta": "Dos plantas atienden una demanda igualmente cíclica, pero una tiene costos fijos mucho mayores. ¿Cuál es la evaluación más prudente de su riesgo?",
+      "opciones": [
+        "El riesgo del proyecto depende únicamente del nombre de la industria",
+        "Los costos fijos permiten calcular automáticamente beta como uno",
+        "El mayor apalancamiento operativo puede aumentar la sensibilidad de sus flujos, pero no permite determinar una beta exacta por sí solo",
+        "Los costos fijos nunca afectan la sensibilidad económica"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La industria aporta información, pero no resume todas las diferencias. Importan exposición macroeconómica y apalancamiento operativo, entre otros factores. Usar solo una etiqueta sectorial puede ocultar riesgos relevantes.",
+        "No existe una identidad que iguale beta a uno por tener costos fijos. Beta mide covariación con el mercado. Su estimación requiere más información que la estructura de costos.",
+        "Con costos fijos altos, las variaciones de ventas pueden amplificarse en el resultado operativo. Eso es una pista sobre exposición al ciclo. Para estimar beta todavía hacen falta datos, comparables y juicio sobre los flujos.",
+        "Los costos fijos deben pagarse aun cuando caen las ventas. Por eso pueden amplificar la sensibilidad del flujo operativo. Negar ese efecto elimina una fuente importante de riesgo del negocio."
+      ]
+    },
+    {
+      "id": "c35-q029",
+      "tema": "Apalancamiento operativo",
+      "dificultad": "intermedia",
+      "pregunta": "Una planta vende $200, incurre en costos variables de $100 y costos fijos de $60. Las ventas aumentan 10% y los variables mantienen su proporción, sin otros cambios. ¿Cuánto aumenta el resultado operativo?",
+      "opciones": [
+        "50%",
+        "10%",
+        "25%",
+        "5%"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El resultado final de 50 no significa un aumento de 50%. Debe compararse el incremento de 10 con la base de 40. Esa razón es 25%.",
+        "El 10% corresponde al crecimiento de ventas. Los costos fijos no crecen con ellas en este caso. Por eso el resultado operativo aumenta proporcionalmente más, un 25%.",
+        "El resultado inicial es 200 - 100 - 60 = 40. Luego las ventas son 220 y los costos variables 110, por lo que el resultado es 50. El aumento de 10 sobre 40 equivale a 25%.",
+        "Dividir el incremento de 10 por las ventas iniciales de 200 da 5%. Pero se pregunta por la variación del resultado operativo. La base correcta es 40 y el aumento es 25%."
+      ]
+    },
+    {
+      "id": "c35-q030",
+      "tema": "Pruebas y límites del CAPM",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué conclusión corresponde ante rendimientos promedio que parecen relacionarse con tamaño y valor en libros/valor de mercado, además de beta?",
+      "opciones": [
+        "Son desafíos empíricos y posibles señales de otros riesgos, sin resolver por sí solos qué modelo es correcto",
+        "Demuestran que todos los riesgos específicos deben remunerarse",
+        "Prueban que ningún precio incorpora información",
+        "Garantizan ganancias sin riesgo comprando empresas pequeñas"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las asociaciones pueden reflejar factores de riesgo omitidos o problemas de prueba. Las dificultades empíricas del CAPM no identifican automáticamente una explicación única. La exposición al ciclo es una interpretación posible, no una certeza universal.",
+        "Un factor común omitido no es lo mismo que riesgo específico diversificable. El hallazgo no obliga a pagar una prima por cualquier incertidumbre individual. Hay que distinguir riesgos comunes y particulares.",
+        "Los resultados se refieren a modelos de riesgo y rendimientos. No prueban que el mercado ignore toda información. Una mala medición del rendimiento exigido puede parecer una anomalía de precios.",
+        "Una rentabilidad promedio mayor puede ser compensación por riesgo. Además los resultados históricos no garantizan repetición ni ausencia de costos. La correlación no constituye una estrategia de arbitraje segura."
+      ]
+    },
+    {
+      "id": "c35-q031",
+      "tema": "Cobertura de necesidades de consumo",
+      "dificultad": "avanzada",
+      "pregunta": "Una inversora gasta mucho en un insumo cuyo precio puede subir y compra acciones de un productor que tiende a beneficiarse con esas subas. ¿Qué explica esa decisión?",
+      "opciones": [
+        "Hace que el CAPM básico incluya automáticamente cualquier preferencia de consumo",
+        "Necesariamente desconoce el concepto de riesgo",
+        "Demuestra que todos deben tener las mismas acciones",
+        "Puede buscar cobertura de su consumo, aunque su cartera financiera quede menos diversificada"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El CAPM básico no describe toda heterogeneidad de consumos y oportunidades futuras. Ese es uno de sus límites teóricos. Las extensiones de cobertura requieren especificar qué riesgo se intenta compensar.",
+        "Una concentración aparente puede proteger un riesgo situado fuera de la cartera financiera. Hay que evaluar activos y necesidades de consumo juntos. No toda desviación de una cartera común es irracional.",
+        "Las necesidades de consumo pueden variar entre personas. Por eso también pueden variar las coberturas convenientes. La decisión no implica una cartera idéntica para todos.",
+        "El encarecimiento del consumo puede coincidir con ganancias de la inversión. Esa compensación puede ser útil al evaluar su situación económica total. Modelos intertemporales más amplios permiten considerar motivos de cobertura que el CAPM básico simplifica."
+      ]
+    },
+    {
+      "id": "c35-q032",
+      "tema": "Cobertura económica personal",
+      "dificultad": "intermedia",
+      "pregunta": "Ante una suba del precio de un bien, el gasto anual de una inversora aumenta $600. En el mismo escenario su posición en un productor gana $450, sin otros cambios. ¿Cuál es el deterioro neto de su riqueza disponible para consumo?",
+      "opciones": [
+        "$600",
+        "$150",
+        "$1.050",
+        "Una mejora de $450"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este valor ignora la ganancia de la posición financiera. La evaluación económica conjunta debe incorporar ambas variaciones. La pérdida neta es de 150.",
+        "El gasto adicional reduce sus recursos en 600. La inversión compensa 450 de esa pérdida. El deterioro neto es 600 - 450 = 150, de modo que la cobertura es parcial.",
+        "Sumar las magnitudes ignora que tienen signos contrarios para la inversora. Una es un mayor gasto y la otra una ganancia. La compensación deja una pérdida neta de 150.",
+        "Mirar solo la inversión omite el encarecimiento del consumo. La ganancia financiera no alcanza para cubrirlo íntegramente. Su posición conjunta empeora en 150."
+      ]
+    },
+    {
+      "id": "c35-q033",
+      "tema": "Anomalías y búsqueda estadística",
+      "dificultad": "intermedia",
+      "pregunta": "Un investigador prueba miles de patrones y encuentra uno significativo asociado con una fecha del calendario. ¿Qué interpretación es más sólida?",
+      "opciones": [
+        "Toda significación estadística demuestra arbitraje",
+        "Puede ser una coincidencia y requiere validación independiente y evaluación de costos y riesgo",
+        "La cantidad de patrones probados no afecta la interpretación",
+        "El patrón garantiza el mismo resultado futuro"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La significación no equivale a una ganancia segura. Puede haber selección de resultados, riesgo mal medido o costos altos. El arbitraje exige condiciones mucho más estrictas.",
+        "La búsqueda de muchas relaciones aumenta la posibilidad de falsos hallazgos. Una prueba independiente ayuda a separar señal de coincidencia. La utilidad económica también depende de riesgo y costos de implementación.",
+        "Probar muchas hipótesis cambia la probabilidad de encontrar alguna por azar. Ignorar esa búsqueda sobreestima la evidencia. Conviene considerar pruebas múltiples y resultados fuera de muestra.",
+        "Un resultado histórico no garantiza estabilidad futura. Puede desaparecer por azar, aprendizaje o competencia. La validez y la posibilidad de explotarlo deben verificarse por separado."
+      ]
+    },
+    {
+      "id": "c35-q034",
+      "tema": "Anomalía y resultado realizable",
+      "dificultad": "intermedia",
+      "pregunta": "Una estrategia obtiene un exceso bruto esperado de 2% anual frente a una referencia de riesgo adecuada. Sus costos anuales son 1,2% de negociación y 1% de administración. ¿Cuál es el exceso neto esperado?",
+      "opciones": [
+        "4,2%",
+        "2%",
+        "0,8%",
+        "-0,2%"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los costos no se suman como rentabilidad para el inversor. Son pagos que reducen el rendimiento disponible. Hay que restar 2,2% a 2%, obteniendo -0,2%.",
+        "El 2% omite los gastos para implementar la estrategia. El inversor recibe el resultado después de esos costos. El exceso neto es negativo en 0,2%.",
+        "El 0,8% surge de restar solo el costo de negociación. También hay un 1% de administración. Incorporando ambos costos, el exceso es -0,2%.",
+        "Los costos totales son 1,2% + 1% = 2,2%. Se restan al exceso bruto de 2%. El resultado neto esperado es -0,2%, aun cuando el patrón bruto parezca atractivo."
+      ]
+    },
+    {
+      "id": "c35-q035",
+      "tema": "Subreacción, sobrerreacción y burbujas",
+      "dificultad": "avanzada",
+      "pregunta": "Después de anuncios favorables inesperados, los precios siguen ajustándose por meses. Además, algunos inversores extrapolan demasiado noticias recientes. ¿Qué lectura es correcta?",
+      "opciones": [
+        "El primer patrón sugiere subreacción y el segundo puede generar sobrerreacción; ninguno resuelve por sí solo la explicación de toda burbuja",
+        "Ambos fenómenos son necesariamente eficiencia fuerte",
+        "La subreacción significa que el precio inicial subió demasiado",
+        "La extrapolación reciente demuestra que los profesionales siempre corrigen de inmediato todo desvío"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un ajuste persistente tras información pública puede indicar reacción inicial insuficiente. Dar peso excesivo a hechos recientes puede empujar expectativas en exceso. Los incentivos profesionales y las dificultades de valuación impiden reducir todos los episodios a una explicación única.",
+        "La eficiencia fuerte exige incorporación incluso de información no pública. Estos patrones se discuten como desafíos a ajustes eficientes. No son una definición de eficiencia fuerte.",
+        "Si la noticia es favorable y el ajuste positivo continúa, se plantea que el cambio inicial fue insuficiente. Un aumento inicial excesivo sería una posible sobrerreacción. Los dos conceptos describen errores distintos.",
+        "Los profesionales también enfrentan incentivos y evaluaciones relativos a otros gestores. Pueden tener motivos para acompañar una tendencia. Su presencia no demuestra corrección instantánea de cualquier desalineamiento."
+      ]
+    },
+    {
+      "id": "c35-q036",
+      "tema": "Subas y caídas porcentuales",
+      "dificultad": "basica",
+      "pregunta": "Un índice comienza en 100, sube 200% y luego pierde 60% desde su máximo. ¿Cuál es su nivel final y su cambio respecto del inicio?",
+      "opciones": [
+        "40 y una pérdida de 60%",
+        "140 y una ganancia de 40%",
+        "120 y una ganancia de 20%",
+        "240 y una ganancia de 140%"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Aplicar directamente la caída a 100 ignora la suba previa. La base de la caída es 300. El índice termina en 120, no en 40.",
+        "Restar 60 a 200 confunde porcentajes calculados sobre bases diferentes. La caída se aplica al máximo de 300. El valor final es 120 y la ganancia acumulada es 20%.",
+        "Subir 200% lleva el índice de 100 a 300. Perder 60% de 300 deja 300 × 0,40 = 120. Respecto de 100, todavía hay una ganancia de 20%.",
+        "Restar 60 puntos al máximo confunde puntos con porcentajes. La pérdida es 60% de 300, es decir 180. Luego del ajuste quedan 120."
+      ]
+    },
+    {
+      "id": "c35-q037",
+      "tema": "Fondos cerrados y abiertos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia ayuda a entender el descuento de un fondo cerrado respecto de su valor neto de activos?",
+      "opciones": [
+        "En un fondo abierto el inversor siempre cobra el doble del valor neto",
+        "El fondo cerrado nunca posee activos negociables",
+        "Sus participaciones cotizan sin un mecanismo ordinario de rescate al valor neto como el de un fondo abierto",
+        "El descuento prueba que las acciones subyacentes carecen de valor"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor neto no se multiplica automáticamente al rescatar. En el esquema básico del fondo abierto es la referencia para suscripción y rescate. La opción confunde valor de activos con una ganancia garantizada.",
+        "Un fondo cerrado puede poseer acciones con precios observables. Justamente esa observación permite comparar cartera y participaciones. El descuento no requiere activos imposibles de negociar.",
+        "El fondo cerrado puede negociarse a un precio distinto del valor de su cartera por participación. El fondo abierto permite normalmente suscribir o rescatar al valor neto bajo sus reglas. Esa diferencia institucional importa para analizar el descuento.",
+        "El descuento compara dos valores positivos que pueden diferir. No elimina el valor de la cartera. La pregunta es qué costos, restricciones u otros factores explican esa diferencia."
+      ]
+    },
+    {
+      "id": "c35-q038",
+      "tema": "Descuento de un fondo cerrado",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo cerrado posee activos netos por $120 millones y tiene 10 millones de participaciones. Cada participación cotiza a $9. ¿Qué descuento presenta respecto del valor neto por participación?",
+      "opciones": [
+        "25%",
+        "33,33%",
+        "75%",
+        "3%"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El valor neto por participación es 120/10 = 12. El descuento monetario es 12 - 9 = 3. Como proporción del valor neto, 3/12 = 25%.",
+        "Dividir 3 por el precio de 9 da 33,33%. Esa es la suba necesaria desde la cotización para llegar al valor neto. El descuento respecto del valor neto se calcula sobre 12 y es 25%.",
+        "El cociente 9/12 = 75% indica qué fracción del valor neto se paga. El descuento es la parte que falta hasta 100%. Por eso equivale a 25%.",
+        "La diferencia de 3 se expresa en pesos por participación. No es directamente una tasa porcentual. Para obtenerla se divide 3 por 12, lo que da 25%."
+      ]
+    },
+    {
+      "id": "c35-q039",
+      "tema": "Administración y valor de crecimiento",
+      "dificultad": "avanzada",
+      "pregunta": "Los activos existentes valen $500 millones. Los inversores esperan que decisiones futuras de la administración destruyan valor por un VP de $80 millones, sin otros efectos. ¿Qué valor empresarial resulta?",
+      "opciones": [
+        "$80 millones",
+        "$580 millones",
+        "$500 millones",
+        "$420 millones"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 80 miden el efecto negativo, no el valor total. Los activos existentes siguen aportando 500. El saldo luego de la destrucción esperada es 420.",
+        "Sumar 80 trata decisiones destructivas como oportunidades beneficiosas. El dato expresa una pérdida de valor. Corresponde restarla a 500 y obtener 420.",
+        "Los activos actuales no son el único componente de la valuación. También importan los usos futuros esperados de sus flujos. Ignorar la destrucción anticipada sobreestima el valor en 80.",
+        "Las oportunidades futuras no siempre agregan valor. Aquí su contribución es negativa en 80. El valor total es 500 - 80 = 420, una forma de interpretar a la administración como un costo económico esperado."
+      ]
+    },
+    {
+      "id": "c35-q040",
+      "tema": "Capital humano y coinversión",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora propone extraer todo el excedente para inversores y reducir al mínimo cualquier recompensa futura al personal clave. ¿Qué riesgo conceptual está ignorando?",
+      "opciones": [
+        "El capital humano no requiere incentivos porque no figura como deuda",
+        "Puede desalentar inversiones de capital humano necesarias para el valor de largo plazo",
+        "Toda remuneración a empleados destruye valor por definición",
+        "El descuento observado de una empresa demuestra siempre mala fe gerencial"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La falta de registro como deuda no vuelve gratuito al capital humano. Las personas pueden reducir esfuerzo, capacitación o permanencia. Sus incentivos afectan los flujos futuros de la empresa.",
+        "Administradores y empleados también comprometen conocimientos y esfuerzo específicos. Si no esperan una compensación razonable, pueden invertir menos en esas capacidades. La disciplina de agencia debe convivir con incentivos a esa coinversión.",
+        "Una remuneración puede ser necesaria para producir y preservar valor. Debe compararse con el aporte económico que incentiva. No todo pago al personal es una pérdida para accionistas.",
+        "Un descuento admite varias explicaciones y no prueba intención fraudulenta. La administración puede aportar valor y también generar costos. Hay que evaluar decisiones e incentivos en vez de inferir automáticamente mala fe."
+      ]
+    },
+    {
+      "id": "c35-q041",
+      "tema": "Innovación financiera",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es una explicación económica plausible del surgimiento de nuevos títulos y mercados?",
+      "opciones": [
+        "La complejidad del contrato garantiza creación de valor",
+        "Permitir nuevas coberturas o responder a cambios fiscales, regulatorios y de costos de negociación",
+        "Todo instrumento nuevo elimina el riesgo agregado de la economía",
+        "La novedad asegura que el emisor cobre menos por financiarse"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La complejidad puede aumentar costos y dificultar la valuación. No demuestra que el contrato satisfaga una necesidad económica. La creación de valor exige beneficios que superen esos costos.",
+        "Un instrumento puede cubrir necesidades antes insatisfechas. También puede volverse viable por cambios de impuestos, reglas o costos. Esos motivos ayudan a entender innovaciones, aunque no explican el éxito de todas.",
+        "Muchos instrumentos redistribuyen riesgos entre participantes. Eso no implica que desaparezca toda incertidumbre económica. Hay que identificar quién termina asumiendo cada exposición.",
+        "Un título nuevo puede tener costos y riesgos adicionales. No existe una reducción automática del costo de financiación. Hay que comparar sus flujos y condiciones con alternativas equivalentes."
+      ]
+    },
+    {
+      "id": "c35-q042",
+      "tema": "éxito comercial de nuevos valores",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco coloca con éxito un título muy complejo y afirma que la demanda demuestra que su precio es correcto. ¿Cómo debería evaluarlo una tesorera?",
+      "opciones": [
+        "Suponer que todos los títulos complejos satisfacen exactamente la misma necesidad",
+        "Comprar porque una colocación exitosa prueba que no puede haber pérdidas",
+        "Rechazarlo solo por ser nuevo, sin mirar sus flujos",
+        "Separar éxito comercial de valuación y analizar pagos, riesgos, cobertura y costos"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los contratos pueden repartir riesgos de maneras muy diferentes. Sus nombres o complejidad no los vuelven equivalentes. Es necesario examinar las condiciones específicas y sus beneficiarios.",
+        "La demanda no garantiza pagos ni precio justo. Compradores numerosos pueden compartir errores o incentivos. Una tesorera debe evaluar la operación respecto de sus propios riesgos y alternativas.",
+        "La novedad tampoco demuestra ausencia de utilidad. Una innovación puede resolver una cobertura o reducir costos. La decisión necesita análisis económico, no una regla automática de rechazo.",
+        "La aceptación comercial muestra demanda, pero no valida por sí sola el precio. Hay que entender estados de pago, costos y exposiciones. El éxito desigual de las innovaciones sigue siendo un problema distinto de saber valorar una operación concreta."
+      ]
+    },
+    {
+      "id": "c35-q043",
+      "tema": "Controversia de dividendos",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál es la conclusión más cuidadosa sobre dividendos y recompras?",
+      "opciones": [
+        "La irrelevancia es una referencia bajo supuestos restrictivos; impuestos e impactos sobre inversión pueden cambiar el resultado",
+        "Los dividendos siempre aumentan el valor por el monto pagado",
+        "Las recompras siempre superan a los dividendos en cualquier contexto",
+        "La política de pagos puede estudiarse ignorando la inversión"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En un marco sin fricciones, distribuir de una forma u otra puede ser neutral. En la práctica importan impuestos y consecuencias sobre las inversiones. No se deriva una regla universal a favor de dividendos o recompras.",
+        "Pagar efectivo reduce los recursos dentro de la empresa. El accionista recibe dinero, pero su acción pasa a representar menos activos. No se crea automáticamente un valor igual al pago.",
+        "Las ventajas relativas dependen del contexto y de los impuestos, entre otros factores. Una recompra no garantiza un aumento del valor total. La comparación requiere explicitar supuestos y consecuencias.",
+        "Si un pago obliga a abandonar proyectos valiosos, afecta los flujos futuros. La separación entre inversión y distribución es una condición que debe verificarse. Ignorarla puede ocultar destrucción de valor."
+      ]
+    },
+    {
+      "id": "c35-q044",
+      "tema": "Distribución y riqueza del accionista",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos, noticias ni otros efectos, una acción vale $50 inmediatamente antes de distribuir un dividendo de $4. ¿Qué combinación representa el ajuste teórico inmediato después del pago?",
+      "opciones": [
+        "Acción de $46 sin efectivo: riqueza total de $46",
+        "Acción de $50 y efectivo de $4: riqueza total de $54",
+        "Acción de $46 y efectivo de $4: riqueza total de $50",
+        "Acción de $54 y efectivo de $4: riqueza total de $58"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La acción baja a 46, pero el accionista también recibe 4. Ignorar ese cobro confunde precio de la acción con riqueza total. La suma de ambos componentes sigue siendo 50.",
+        "Mantener la acción en 50 después de retirar efectivo duplica el valor distribuido. El pago reduce activos corporativos. La riqueza total permanece en 50, no en 54.",
+        "La sociedad entrega 4 de activos por acción. Su valor residual baja de 50 a 46 bajo los supuestos dados. El propietario conserva 50 en total, divididos entre la acción y el efectivo recibido.",
+        "El pago no aporta activos nuevos a la sociedad. Por eso no justifica una suba automática del precio residual. Debe restarse el efectivo entregado y sumar ese cobro a la riqueza del accionista."
+      ]
+    },
+    {
+      "id": "c35-q045",
+      "tema": "Cambios fiscales y evidencia",
+      "dificultad": "avanzada",
+      "pregunta": "Un país reduce el impuesto a dividendos hasta igualarlo con el de ganancias de capital y luego aumentan los dividendos. ¿Qué inferencia es defendible?",
+      "opciones": [
+        "Se prueba que toda empresa debe abandonar las recompras",
+        "Queda demostrado que los impuestos nunca importaron",
+        "El cambio aporta evidencia sobre incentivos fiscales, pero no aísla por sí solo todos los determinantes de la política de pagos",
+        "El aumento demuestra que cada dividendo crea valor sin costo"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Igualar alícuotas no elimina todas las diferencias entre dividendos y recompras. También influyen necesidades, restricciones y decisiones de inversión. La evidencia agregada no prescribe una única política a todas las firmas.",
+        "Si la conducta cambia tras una reforma, es razonable investigar el canal fiscal. No corresponde concluir automáticamente que los impuestos son irrelevantes. La comparación requiere distinguirlos de otros cambios simultáneos.",
+        "La reducción cambia el rendimiento neto relativo de las formas de pago. La respuesta observada puede ayudar a investigar las decisiones corporativas. También pueden cambiar ganancias, oportunidades de inversión y otros factores, por lo que la causalidad exige cuidado.",
+        "Una distribución sigue retirando recursos de la empresa. Un menor impuesto puede mejorar el resultado neto para ciertos inversores, pero no vuelve gratuito el pago. Hay que evaluar riqueza total y alternativas de uso del efectivo."
+      ]
+    },
+    {
+      "id": "c35-q046",
+      "tema": "Objetivo de administrar riesgos",
+      "dificultad": "basica",
+      "pregunta": "¿Cuál debe ser el objetivo financiero de una estrategia de administración de riesgos?",
+      "opciones": [
+        "Agregar valor considerando beneficios y costos de reducir o asumir exposiciones",
+        "Minimizar toda variabilidad a cualquier precio",
+        "Asegurar que nunca se use deuda",
+        "Eliminar únicamente riesgos que aparecen en la contabilidad"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Reducir riesgo puede evitar dificultades o sostener inversiones valiosas. Pero las coberturas y otras medidas también cuestan. La decisión se justifica si mejora el valor económico neto.",
+        "Una cobertura puede costar más que el beneficio que genera. Minimizar variabilidad sin comparar costos puede destruir valor. El objetivo financiero requiere una evaluación neta.",
+        "La deuda puede aportar beneficios fiscales y disciplina. La administración de riesgos puede incluso permitir un endeudamiento sostenible mayor. No existe una prohibición general de financiarse con deuda.",
+        "Los riesgos económicos pueden existir antes de su reconocimiento contable. También importan flujos futuros y opciones operativas. Limitarse al balance deja exposiciones relevantes sin analizar."
+      ]
+    },
+    {
+      "id": "c35-q047",
+      "tema": "Instrumentos y decisiones de riesgo",
+      "dificultad": "intermedia",
+      "pregunta": "Una fabricante quiere enfrentar incertidumbre de demanda, incendios y tipo de cambio. ¿Qué combinación vincula correctamente herramientas y exposiciones?",
+      "opciones": [
+        "Abandonar cualquier proyecto antes de iniciarlo es la única estrategia coherente",
+        "Derivados cambiarios eliminan por sí solos todos los riesgos de demanda e incendio",
+        "Mayor deuda reduce siempre el riesgo soportado por accionistas",
+        "Flexibilidad productiva o abandono para demanda; seguro para incendio; derivados para tipo de cambio"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una opción de abandono tiene valor por poder usarse cuando conviene. Ejercerla siempre elimina también resultados favorables. La flexibilidad exige decisiones contingentes, no renunciar de antemano a toda inversión.",
+        "Un contrato cambiario atiende una exposición definida al tipo de cambio. No sustituye automáticamente decisiones productivas ni seguros. Confundir coberturas genera una protección aparente e incompleta.",
+        "Más deuda concentra el riesgo operativo residual en una base accionaria menor. Reducir deuda puede distribuir ese riesgo sobre más patrimonio. El efecto no es una reducción automática del riesgo para accionistas.",
+        "La flexibilidad permite ajustar decisiones a la demanda. Un seguro puede trasladar pérdidas específicas por incendio y los derivados pueden cubrir exposición cambiaria. La estrategia debe integrar las herramientas y comparar sus costos con el valor que aportan."
+      ]
+    },
+    {
+      "id": "c35-q048",
+      "tema": "Cobertura y capacidad de deuda",
+      "dificultad": "avanzada",
+      "pregunta": "Una cobertura tiene un costo con VP de $9 millones. Permite obtener escudos fiscales adicionales con VP de $15 millones y reduce costos esperados de dificultades en $4 millones; no hay otros efectos. ¿Cuál es su aporte neto de valor?",
+      "opciones": [
+        "$19 millones",
+        "$10 millones",
+        "$6 millones",
+        "-$9 millones"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 19 son beneficios brutos y omiten el costo. La decisión requiere un saldo neto. Al restar 9, la creación de valor es 10.",
+        "Los beneficios conjuntos valen 15 + 4 = 19. El costo de la cobertura vale 9. El aporte neto es 19 - 9 = 10, lo que muestra la interacción entre cobertura y financiación.",
+        "El resultado 6 resta el costo al beneficio fiscal pero ignora la reducción de dificultades. Ese ahorro también cambia flujos esperados. Sumándolo se llega a un aporte neto de 10.",
+        "Considerar únicamente el costo supone que la cobertura no aporta beneficios. Los datos identifican dos efectos favorables relevantes. El saldo neto es positivo en 10."
+      ]
+    },
+    {
+      "id": "c35-q049",
+      "tema": "Liquidez y costo de oportunidad",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué conservar efectivo sin interés no es necesariamente una inversión de VPN negativo?",
+      "opciones": [
+        "Porque el efectivo no tiene ningún costo de oportunidad",
+        "Porque su disponibilidad inmediata puede aportar servicios de liquidez que compensen el interés perdido",
+        "Porque cada peso adicional siempre tiene el mismo beneficio de liquidez",
+        "Porque la tasa de los títulos del Tesoro debe ser cero"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Si existe una inversión alternativa remunerada, mantener efectivo sacrifica interés. Ese costo no desaparece por necesitar liquidez. La cuestión es si el servicio obtenido lo compensa.",
+        "El efectivo permite atender pagos y contingencias rápidamente. Ese servicio tiene valor aunque no produzca intereses explícitos. Debe compararse el beneficio marginal de liquidez con el rendimiento alternativo sacrificado.",
+        "El valor de disponer de una unidad adicional suele disminuir cuando la reserva crece. Por eso no es indiferente cuánto efectivo se guarda. La decisión depende de beneficios y costos marginales.",
+        "La liquidez puede ser valiosa precisamente cuando la alternativa paga interés. Una tasa positiva permite cuantificar parte del costo de mantener efectivo. No es necesario suponer tasa cero para justificar una reserva."
+      ]
+    },
+    {
+      "id": "c35-q050",
+      "tema": "Costo anual de efectivo",
+      "dificultad": "basica",
+      "pregunta": "Una empresa mantiene $500.000 sin remuneración durante un año en vez de invertirlos al 6% anual, sin comisiones ni impuestos. ¿Qué interés sacrifica y qué falta evaluar para decidir si conviene?",
+      "opciones": [
+        "$30.000; eso prueba que toda reserva es perjudicial",
+        "$500.000; falta sumar el patrimonio",
+        "$3.000; la liquidez no tiene valor",
+        "$30.000; falta comparar el servicio de liquidez obtenido"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El costo está bien calculado, pero falta el otro lado de la comparación. Evitar faltantes o ventas urgentes puede generar beneficios. Una reserva es perjudicial solo si sus costos superan sus aportes.",
+        "El capital de 500.000 no desaparece al conservarse en efectivo. Lo que se sacrifica es el rendimiento alternativo. El costo anual relevante es 30.000 y debe confrontarse con beneficios de liquidez.",
+        "Aplicar 6% a 500.000 produce 30.000, no 3.000. Además, poder cubrir pagos puede tener valor económico. La decisión no se resuelve negando ese servicio.",
+        "El interés alternativo es 500.000 × 0,06 = 30.000. Ese es el costo anual explícito de oportunidad. Para decidir hace falta compararlo con el valor de la liquidez disponible."
+      ]
+    },
+    {
+      "id": "c35-q051",
+      "tema": "Beneficio marginal de liquidez",
+      "dificultad": "intermedia",
+      "pregunta": "Un tramo adicional de efectivo cuesta $8.000 anuales de interés perdido y aporta un beneficio marginal estimado de $11.000. El tramo siguiente cuesta lo mismo y aporta $5.000. Sin otros efectos, ¿qué decisión maximiza valor entre estas alternativas?",
+      "opciones": [
+        "Incorporar el primer tramo y no el segundo",
+        "Incorporar ambos porque cualquier liquidez agrega valor",
+        "Rechazar ambos porque el efectivo no paga interés",
+        "Incorporar solo el segundo porque tiene menor beneficio"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El primer tramo aporta 11.000 - 8.000 = 3.000 netos. El segundo aportaría 5.000 - 8.000 = -3.000. Conviene ampliar hasta el primer tramo, respetando la caída del beneficio marginal.",
+        "El segundo tramo tiene un costo mayor que su beneficio. Que el efectivo sea útil no significa que toda cantidad adicional convenga. Agregarlo eliminaría los 3.000 de valor creados por el primer tramo.",
+        "La falta de interés no elimina el servicio de liquidez. El primer tramo compensa su costo y genera 3.000 adicionales. Rechazarlo ignora un beneficio marginal cuantificado.",
+        "Un beneficio menor no es una ventaja si el costo es igual. El segundo tramo destruye 3.000 y el primero crea 3.000. Debe compararse el saldo de cada incremento, no preferir el menor beneficio."
+      ]
+    },
+    {
+      "id": "c35-q052",
+      "tema": "Reservas y fuentes alternativas",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora considera una línea de crédito no utilizada como sustituto parcial de efectivo. ¿Qué evaluación corresponde?",
+      "opciones": [
+        "No aporta liquidez porque todavía no se tomó el préstamo",
+        "Es idéntica al efectivo aun si el banco puede cancelarla en una crisis",
+        "Puede aportar liquidez, pero hay que revisar disponibilidad efectiva, condiciones y costos",
+        "Obliga a mantener menos activos operativos independientemente del negocio"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una facultad de obtener fondos puede ser valiosa antes de ejercerse. Lo importante es el acceso oportuno a recursos. No hace falta que el préstamo está ya desembolsado para que la línea aporte liquidez.",
+        "El efectivo propio y una promesa cancelable no ofrecen la misma seguridad. La necesidad puede coincidir con restricciones del prestamista. La comparación debe considerar disponibilidad en escenarios adversos.",
+        "La liquidez puede provenir de reservas, préstamos, emisiones o ventas de activos. Una línea disponible puede cubrir necesidades sin mantener toda la reserva en caja. Su utilidad depende de que pueda utilizarse cuando se la necesite y de sus condiciones.",
+        "La financiación no fija por sí sola el volumen óptimo de activos operativos. Este depende de las inversiones y del negocio. La línea es una fuente posible de fondos, no una orden automática de vender activos."
+      ]
+    },
+    {
+      "id": "c35-q053",
+      "tema": "Liquidez en precios de bonos",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué no conviene atribuir toda diferencia de rendimiento entre un bono corporativo y uno del Tesoro al incumplimiento?",
+      "opciones": [
+        "Porque un bono menos líquido necesariamente tiene mayor precio",
+        "Porque los bonos corporativos nunca incumplen",
+        "La menor liquidez del bono corporativo también puede exigir compensación, además de otros factores",
+        "Porque igual vencimiento garantiza idéntico rendimiento"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Si los flujos fueran comparables, una desventaja de liquidez suele requerir un menor precio. Ese menor precio eleva el rendimiento exigido. Afirmar un precio necesariamente mayor invierte esa lógica.",
+        "Las empresas pueden incumplir y ese riesgo sí importa. El error es considerar que explica necesariamente todo el diferencial. La liquidez puede aportar otra parte de la compensación exigida.",
+        "Vender un bono poco líquido puede implicar demora o descuento. Los inversores pueden exigir una prima por esa dificultad, además del riesgo crediticio. Separar componentes del diferencial requiere más que observar un único rendimiento.",
+        "Un mismo vencimiento no iguala calidad crediticia ni facilidad de negociación. Los rendimientos incorporan esas diferencias. Por eso se requieren comparaciones más cuidadosas que una coincidencia de fechas."
+      ]
+    },
+    {
+      "id": "c35-q054",
+      "tema": "Diferencial de rendimiento y atribución",
+      "dificultad": "intermedia",
+      "pregunta": "Un bono corporativo rinde 7% anual y un título del Tesoro comparable 4%. Un análisis atribuye 1,8 puntos porcentuales del diferencial a crédito. Si solo hubiera crédito y liquidez, ¿qué componente de liquidez quedaría implícito?",
+      "opciones": [
+        "1,2 puntos porcentuales",
+        "3 puntos porcentuales",
+        "5,2 puntos porcentuales",
+        "0,018 puntos porcentuales"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El diferencial total es 7% - 4% = 3 puntos porcentuales. Al restar los 1,8 puntos atribuidos a crédito, quedan 1,2. La atribución depende de la hipótesis de que no hay otros componentes.",
+        "Los 3 puntos son el diferencial completo. Una parte ya fue atribuida al crédito. El residuo de liquidez es 3 - 1,8 = 1,2 puntos porcentuales.",
+        "Sumar 1,8 al rendimiento del Tesoro no identifica el residuo solicitado. Primero se calcula el diferencial total de 3 puntos. Luego se resta la parte crediticia y quedan 1,2 puntos.",
+        "Se mezclan puntos porcentuales con su representación decimal. Los 1,8 puntos crediticios no equivalen a 0,018 puntos. En unidades homogéneas el residuo es 1,2 puntos porcentuales."
+      ]
+    },
+    {
+      "id": "c35-q055",
+      "tema": "LTCM y espirales de iliquidez",
+      "dificultad": "avanzada",
+      "pregunta": "Un fondo compra activos ilíquidos y vende activos líquidos relacionados para cubrirse. En una crisis caen sus posiciones, le exigen garantías y debe vender. ¿Qué mecanismo ilustra el caso de LTCM?",
+      "opciones": [
+        "La caída de precios vuelve automáticamente más fácil financiar posiciones ilíquidas",
+        "La existencia de una cobertura elimina cualquier necesidad de efectivo",
+        "Los llamados de garantía solo ocurren cuando el fondo ya quebró legalmente",
+        "La cobertura puede coexistir con riesgo de financiación y ventas forzadas que amplifican pérdidas"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los prestamistas pueden exigir más garantías al caer los precios. Al mismo tiempo, vender activos ilíquidos puede resultar más costoso. La financiación puede deteriorarse justo cuando más se necesita.",
+        "Cubrir una exposición no garantiza sincronía de cobros y pagos. Las garantías pueden exigirse antes de que se cierre la operación. Por eso un fondo necesita capacidad de financiación aun con cobertura.",
+        "Las garantías se ajustan conforme cambian riesgos y valores. La exigencia puede aparecer mucho antes de una quiebra. Precisamente puede desencadenar liquidaciones y agravar la situación financiera.",
+        "Una posición relativamente cubierta puede requerir garantías durante movimientos adversos. Si faltan fondos, hay ventas forzadas en mercados ya debilitados. Ese circuito puede amplificar caídas y muestra la interacción entre liquidez de mercado y de financiación."
+      ]
+    },
+    {
+      "id": "c35-q056",
+      "tema": "Olas de fusiones y emisiones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia hay entre justificar una fusión particular y explicar una ola de fusiones?",
+      "opciones": [
+        "Una fusión rentable demuestra que todas las de esa época lo son",
+        "La segunda exige entender por qué muchas operaciones se concentran en ciertos períodos",
+        "Una ola solo puede existir si todas las empresas son idénticas",
+        "Explicar una operación vuelve innecesario estudiar ciclos de emisiones"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La calidad de una operación no se extrapola a las demás. Pueden variar precio, sinergias y conflictos de agencia. La concentración temporal necesita una explicación adicional.",
+        "Puede haber motivos específicos razonables para una adquisición. Una ola plantea además un patrón agregado de tiempos y participación. Una teoría general debe explicar auge y retroceso, no solo ofrecer motivos distintos para cada operación.",
+        "Empresas diferentes pueden responder a condiciones o señales comunes. No necesitan ser idénticas para concentrar decisiones en el tiempo. La heterogeneidad no elimina la existencia de una ola.",
+        "Las emisiones también pueden mostrar períodos de auge y retracción. Esos patrones tienen preguntas propias sobre oferta, demanda e imitación. Explicar una fusión no resuelve automáticamente esos fenómenos."
+      ]
+    },
+    {
+      "id": "c35-q057",
+      "tema": "Cascadas informativas",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora imita adquisiciones de competidores porque supone que ellos saben más; otros luego la imitan sin observar la información original. ¿Qué caracteriza una cascada informativa?",
+      "opciones": [
+        "Cada participante necesariamente dispone de información independiente que confirma la decisión",
+        "Decisiones individualmente razonables pueden generar una tendencia frágil basada en señales iniciales poco informativas",
+        "La imitación prueba que el valor económico de todas las compras es positivo",
+        "El fenómeno exige que todos actúen de manera conscientemente irracional"
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las decisiones visibles no siempre revelan señales nuevas. Varios participantes pueden estar siguiendo al mismo primero. Contar imitadores como confirmaciones independientes exagera la evidencia.",
+        "Observar decisiones ajenas puede parecer una forma razonable de aprender. Pero las acciones sucesivas pueden repetir una misma señal sin aportar información nueva. El resultado colectivo puede depender mucho del orden de llegada y cambiar si se comparte la información original.",
+        "La popularidad no demuestra que los flujos justifiquen los precios. Una secuencia de imitaciones puede reproducir un error inicial. Cada adquisición sigue necesitando una evaluación de valor.",
+        "La cascada puede surgir aun con personas que razonan sobre lo observado. El problema es cómo se agrega o se pierde información. No requiere que todos decidan deliberadamente contra sus intereses."
+      ]
+    },
+    {
+      "id": "c35-q058",
+      "tema": "Arquitectura financiera internacional",
+      "dificultad": "basica",
+      "pregunta": "¿Qué dimensiones incluye el concepto de arquitectura financiera de un país?",
+      "opciones": [
+        "Exclusivamente el número de sucursales bancarias",
+        "Únicamente las tasas de cambio",
+        "Solo el método contable para registrar dividendos",
+        "Formas legales, propiedad, gobierno corporativo y fuentes de financiación"
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los bancos pueden tener un papel relevante en crédito y supervisión. Pero su número de sucursales no resume ese papel ni el resto del sistema. También importan mercados, propiedad y reglas de gobierno.",
+        "El tipo de cambio es una variable financiera importante. Pero no describe por sí solo propiedad, gobierno o financiación empresarial. La arquitectura abarca esas relaciones institucionales.",
+        "El registro de dividendos es un asunto contable puntual. La arquitectura cubre estructuras de organización y control más amplias. Limitarla a ese asiento omite sus dimensiones centrales.",
+        "La arquitectura describe cómo se organizan, financian y controlan las empresas. Incluye propietarios, reglas y acceso a capital. Las instituciones legales y políticas pueden ayudar a explicar diferencias entre países."
+      ]
+    },
+    {
+      "id": "c35-q059",
+      "tema": "Bancos, conglomerados y mercados internos",
+      "dificultad": "intermedia",
+      "pregunta": "En un país predominan grupos familiares, bancos que supervisan a sus deudores y conglomerados que transfieren fondos entre divisiones. ¿Qué interpretación es correcta?",
+      "opciones": [
+        "El control concentrado y los mercados internos de capital son alternativas institucionales cuyo desempeño debe evaluarse",
+        "No puede existir supervisión porque hay pocos propietarios",
+        "Transferir recursos dentro del grupo garantiza que cada inversión tiene VPN positivo",
+        "La ausencia de propiedad dispersa impide toda financiación empresarial"
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los propietarios concentrados pueden ejercer control directo. Los conglomerados pueden canalizar excedentes hacia unidades con necesidades de capital. Esa organización puede tener ventajas y problemas de disciplina, sin garantizar eficiencia universal.",
+        "Pocos propietarios con participaciones importantes pueden tener incentivos fuertes para vigilar. La dispersión no es requisito de supervisión. Hay que estudiar qué facultades e información tienen los controlantes.",
+        "Disponer de fondos internos no vuelve rentable un proyecto. También puede facilitar subsidios a unidades poco eficientes. Cada inversión requiere evaluar flujos y costo de oportunidad.",
+        "Las empresas pueden financiarse con bancos, socios o recursos internos. La propiedad dispersa y los mercados bursátiles son una configuración posible. No constituyen la única forma viable de obtener capital."
+      ]
+    },
+    {
+      "id": "c35-q060",
+      "tema": "Límites del conocimiento y juicio profesional",
+      "dificultad": "avanzada",
+      "pregunta": "Un director concluye que, como hay problemas financieros no resueltos y sistemas de gobierno distintos, ninguna regla financiera es útil y ya existe prueba de que un país tiene el mejor sistema. ¿Qué respuesta es consistente?",
+      "opciones": [
+        "Dar por óptima la presión por ganancias de corto plazo en cualquier sistema",
+        "Abandonar el VPN porque todavía no se conoce una teoría completa de liquidez",
+        "Aplicar las herramientas consolidadas con sus supuestos, estudiar las preguntas abiertas y evaluar las instituciones sin proclamar un ganador universal",
+        "Suponer que relaciones estables con bancos siempre garantizan máxima disciplina"
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La presión de mercado puede disciplinar, pero también suscitar preocupación por el cortoplacismo. Esa tensión requiere evaluar incentivos y resultados. No se resuelve declarando óptima toda presión por utilidades inmediatas.",
+        "El VPN sigue siendo una referencia para valorar decisiones. Una teoría incompleta de liquidez obliga a mejorar estimaciones, no a ignorar flujos y costos de oportunidad. Las preguntas abiertas invitan a investigar mientras se usan las herramientas disponibles.",
+        "La existencia de incógnitas no invalida herramientas útiles como el VPN y la distinción entre riesgos. Tampoco establece un sistema institucional universalmente superior. El trabajo profesional combina aplicación, reconocimiento de límites y aprendizaje sobre los problemas abiertos.",
+        "Las relaciones estables pueden favorecer información y apoyo financiero. También pueden reducir la presión sobre administradores deficientes. Sus efectos dependen de instituciones e incentivos y no admiten una garantía general."
+      ]
+    }
+  ]
+}

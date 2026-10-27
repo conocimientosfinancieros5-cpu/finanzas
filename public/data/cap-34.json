@@ -1,0 +1,1336 @@
+{
+  "capitulo": 34,
+  "titulo": "Gobierno y control corporativos alrededor del mundo",
+  "preguntas": [
+    {
+      "id": "c34-q001",
+      "tema": "Sistemas financieros",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza a un sistema financiero basado en el mercado, según la comparación internacional del capítulo?",
+      "opciones": [
+        "Ausencia de bancos comerciales.",
+        "Financiamiento exclusivo mediante utilidades retenidas.",
+        "Mercados de acciones y bonos relevantes para el financiamiento y el control empresarial.",
+        "Garantía estatal del rendimiento de las acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Confunde importancia relativa con exclusividad. Una economía basada en mercados también utiliza préstamos y depósitos bancarios. Lo distintivo es que las empresas cuentan con mercados de valores desarrollados.",
+        "Las utilidades retenidas son financiamiento interno de la empresa. No constituyen un mercado de acciones o bonos. La clasificación se refiere a los canales externos y a su importancia institucional.",
+        "La clasificación destaca el papel de los mercados de valores en la asignación de fondos. Los bancos pueden seguir siendo grandes e importantes. No se trata de una separación absoluta entre instituciones y mercados.",
+        "Una acción expone al inversor al riesgo del negocio. El desarrollo bursátil no requiere garantizar su rendimiento. La protección del inversor busca limitar abusos y mejorar información, sin eliminar el riesgo económico."
+      ]
+    },
+    {
+      "id": "c34-q002",
+      "tema": "Comparación internacional",
+      "dificultad": "basica",
+      "pregunta": "En la caracterización histórica del capítulo, ¿qué combinación describe mejor a Estados Unidos, Reino Unido, Alemania y Japón?",
+      "opciones": [
+        "Los dos primeros se orientan más al mercado; los dos últimos, más a la banca.",
+        "Estados Unidos y Japón se orientan más a la banca; los otros dos, al mercado.",
+        "Los cuatro tienen sistemas sin mercados accionarios relevantes.",
+        "Alemania y Japón financian toda su deuda mediante bonos públicos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Estados Unidos combina mercados importantes de acciones y bonos corporativos. El Reino Unido tiene un mercado accionario central aunque sus bonos corporativos pesan menos. Alemania y Japón dependen relativamente más de relaciones bancarias.",
+        "Invierte la ubicación de Estados Unidos y Japón en la comparación. El primero presenta mercados de valores muy desarrollados. En Japón se destaca la intermediación bancaria y la relación con el banco principal.",
+        "Exagera la diferencia entre sistemas. Las economías orientadas a la banca también tienen bolsas y acciones negociables. Lo que cambia es su peso relativo y la estructura del control.",
+        "Confunde bonos públicos con deuda corporativa y reemplaza préstamos por bonos. En la caracterización analizada, los préstamos bancarios son centrales en Alemania y Japón. Ningún sistema se define por financiar toda la deuda empresarial con títulos estatales."
+      ]
+    },
+    {
+      "id": "c34-q003",
+      "tema": "Criterios de inversión",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué principio sigue siendo válido para una empresa que obtiene casi todo su financiamiento de un banco?",
+      "opciones": [
+        "Puede aceptar cualquier proyecto que genere una utilidad contable positiva.",
+        "Debe usar una tasa de descuento nula porque no cotiza activamente.",
+        "Pierde toda posibilidad de cubrir riesgos en mercados internacionales.",
+        "Debe reconocer el costo de oportunidad del capital y evaluar las oportunidades de inversión."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una ganancia contable no demuestra creación de valor. El proyecto puede rendir menos que el costo de oportunidad de su capital. La relación bancaria no elimina esa exigencia económica.",
+        "La ausencia de cotización puede dificultar estimar la tasa apropiada. No vuelve gratuito al capital ni elimina el valor temporal del dinero. Debe buscarse una estimación coherente con el riesgo.",
+        "La estructura doméstica no impide operar con divisas o futuros. Las empresas de sistemas bancarios también participan en mercados mundiales. Financiamiento y cobertura son decisiones relacionadas, pero distintas.",
+        "El origen de los fondos no elimina la rentabilidad exigida por quienes los aportan. Las decisiones siguen requiriendo comparar valor y costo de los recursos. También pueden existir opciones reales y operaciones de cobertura en mercados internacionales."
+      ]
+    },
+    {
+      "id": "c34-q004",
+      "tema": "Riqueza financiera de las familias",
+      "dificultad": "basica",
+      "pregunta": "Un país tiene menos activos financieros de las familias en relación con el PIB que otro. ¿Qué conclusión es válida?",
+      "opciones": [
+        "Sus familias necesariamente tienen menor patrimonio total.",
+        "No alcanza para afirmar que sus familias tienen menor riqueza total.",
+        "Sus viviendas deben computarse como depósitos bancarios.",
+        "Sus derechos jubilatorios estatales ya están incluidos automáticamente."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Confunde una categoría de activos con la riqueza completa. Dos familias pueden tener patrimonios similares distribuidos de manera diferente. También importan los pasivos y los activos no financieros.",
+        "La medición financiera no incluye necesariamente inmuebles ni negocios no cotizados. Tampoco incorpora automáticamente el valor de las pensiones públicas. Por eso describe una parte de la riqueza y no permite ordenar por sí sola el patrimonio total.",
+        "Una vivienda es un activo real y no un depósito. Reclasificarla alteraría artificialmente la comparación de carteras financieras. Debe analizarse por separado al estudiar riqueza total.",
+        "Las estadísticas consideradas excluyen las pensiones gubernamentales. Su valor puede ser importante aunque no aparezca como una tenencia financiera de la familia. Suponer inclusión automática lleva a conclusiones equivocadas sobre ahorro y riqueza."
+      ]
+    },
+    {
+      "id": "c34-q005",
+      "tema": "Pensiones e intermediación",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un sistema de pensiones empresariales pagadas con ingresos corrientes puede reducir las tenencias institucionales de valores?",
+      "opciones": [
+        "Porque transforma las obligaciones jubilatorias en acciones negociables.",
+        "Porque obliga a todas las familias a comprar bonos corporativos directamente.",
+        "Porque no exige acumular una cartera previa de activos para respaldar esos pagos.",
+        "Porque elimina los compromisos futuros con los jubilados."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La promesa de pagar una pensión no se convierte automáticamente en una acción. Es necesario distinguir obligaciones futuras de carteras efectivamente acumuladas. La reducción de activos institucionales proviene de la ausencia de prefinanciamiento.",
+        "No existe esa obligación de compra directa. El sistema describe cómo se financian las prestaciones empresariales. La composición de la cartera de cada familia es una decisión distinta.",
+        "El pago corriente puede sustituir la acumulación de un fondo separado. Al no formarse esa cartera, hay menos inversión institucional en títulos por ese canal. La obligación económica con los beneficiarios puede seguir existiendo.",
+        "La falta de un fondo no extingue el compromiso. La empresa puede continuar debiendo pagos futuros. Confundir ausencia de activos separados con ausencia de pasivos subestima sus obligaciones."
+      ]
+    },
+    {
+      "id": "c34-q006",
+      "tema": "Propiedad directa e indirecta",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia es central entre las familias estadounidenses y británicas en la comparación histórica del capítulo?",
+      "opciones": [
+        "En Estados Unidos pesa más la tenencia directa de acciones; en el Reino Unido es importante la intermediación por seguros y pensiones.",
+        "Las familias británicas no tienen exposición alguna al mercado accionario.",
+        "Toda la riqueza estadounidense está depositada en bancos.",
+        "Los fondos de pensiones británicos sólo prestan al gobierno."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La exposición al capital puede surgir por acciones propias o mediante instituciones. En el Reino Unido, aseguradoras y fondos de pensiones tienen un papel destacado. Una baja tenencia directa no implica ausencia de riesgo accionario indirecto.",
+        "Confunde el canal de tenencia con el activo final. Los fondos y seguros pueden vincular el patrimonio familiar con el mercado de acciones. Deben examinarse sus inversiones y los términos de sus prestaciones.",
+        "Es incompatible con la importancia de las acciones directas en esa comparación. Las familias distribuyen sus activos entre varias categorías. No debe reducirse una cartera nacional a un único instrumento.",
+        "Los fondos pueden invertir en acciones y otros activos. Su papel no se limita al financiamiento estatal. La comparación precisamente destaca su relevancia como accionistas institucionales."
+      ]
+    },
+    {
+      "id": "c34-q007",
+      "tema": "Crédito comercial",
+      "dificultad": "basica",
+      "pregunta": "Cuando un proveedor entrega mercadería y permite pagar dentro de dos meses, ¿cómo se refleja ese financiamiento?",
+      "opciones": [
+        "Como capital accionario del proveedor en el cliente.",
+        "Como un depósito bancario del cliente en el proveedor.",
+        "Como ingreso financiero cobrado en efectivo de inmediato.",
+        "Como una cuenta por cobrar del proveedor y una cuenta por pagar del cliente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El crédito no otorga por sí mismo participación accionaria. El proveedor mantiene un derecho contractual de cobro. Ser acreedor no equivale a ser propietario del capital.",
+        "No se constituye un depósito bancario. El saldo surge de una compraventa con pago diferido. La naturaleza comercial de la operación explica las cuentas por cobrar y pagar.",
+        "La entrega no implica cobro inmediato en efectivo. Puede existir una venta registrada aunque el dinero llegue después. Confundir devengamiento y cobro oculta la financiación concedida al cliente.",
+        "El proveedor financia temporalmente al comprador mediante crédito comercial. Para uno existe un derecho de cobro y para el otro una obligación. Este canal puede ser importante incluso sin un préstamo bancario directo."
+      ]
+    },
+    {
+      "id": "c34-q008",
+      "tema": "Protección del inversor",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué combinación favorece el desarrollo de mercados financieros para inversores externos?",
+      "opciones": [
+        "Derechos escritos sin posibilidad práctica de hacerlos cumplir.",
+        "Derechos de accionistas y acreedores respaldados por cumplimiento efectivo de la ley.",
+        "Ausencia de información para evitar oscilaciones de precios.",
+        "Libertad ilimitada del controlador para contratar consigo mismo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una norma sin aplicación no garantiza protección real. El inversor evalúa tanto los derechos formales como la calidad de su ejecución. Ignorar esta diferencia sobreestima la seguridad de su aporte.",
+        "Los derechos deben poder ejercerse y defenderse. Una protección creíble reduce el temor de que los internos se apropien de los recursos. Esto facilita la disposición a aportar fondos y el desarrollo de acciones y deuda.",
+        "La falta de información dificulta valorar y vigilar a la empresa. Puede retrasar la detección de pérdidas y abusos. La transparencia contribuye a que los mercados asignen recursos con mejor fundamento.",
+        "Los contratos con partes relacionadas pueden perjudicar a minoritarios si no existen límites. La apropiación de valor desalienta el financiamiento externo. Proteger al inversor requiere controlar esos conflictos."
+      ]
+    },
+    {
+      "id": "c34-q009",
+      "tema": "Tradición legal y política",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuál es la lectura más cuidadosa de las explicaciones jurídicas y políticas sobre el desarrollo financiero?",
+      "opciones": [
+        "El origen legal determina para siempre el tamaño de cada mercado.",
+        "Todo país de derecho civil careció siempre de mercados desarrollados.",
+        "La tradición legal se asocia con la protección, pero los cambios políticos e históricos también influyen.",
+        "La crisis de 1929 y la intervención estatal no pueden afectar la estructura financiera."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Transforma una asociación en una ley determinista. Los mercados de un mismo país pueden expandirse o retroceder con cambios institucionales. Deben considerarse la historia y los incentivos políticos.",
+        "La historia europea ofrece casos contrarios a esa afirmación. Algunos países de derecho civil tuvieron mercados importantes antes de posteriores cambios. Una comparación de un solo momento no explica toda la evolución.",
+        "La evidencia comparativa relaciona el derecho consuetudinario con mayor protección del inversor. La experiencia histórica de países de derecho civil impide tratar esa relación como destino inmutable. Las políticas y la intervención estatal también pueden modificar el desarrollo de mercados.",
+        "Las crisis y las respuestas regulatorias pueden modificar propiedad, financiamiento y acceso al mercado. El análisis histórico las considera relevantes. Excluirlas deja sin explicar cambios dentro de una misma tradición jurídica."
+      ]
+    },
+    {
+      "id": "c34-q010",
+      "tema": "Propiedad dispersa y deber fiduciario",
+      "dificultad": "basica",
+      "pregunta": "En el modelo anglosajón estilizado del capítulo, ¿qué vínculo une acciones, votos y deber de los administradores?",
+      "opciones": [
+        "Una acción suele otorgar un voto y los administradores tienen un deber fiduciario hacia los accionistas.",
+        "Cada persona tiene un voto sin importar cuántas acciones posea.",
+        "Los acreedores nombran automáticamente a todo el consejo aun sin incumplimiento.",
+        "El director puede utilizar el patrimonio empresarial como si fuera propio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La propiedad dispersa suele organizarse alrededor de una clase ordinaria de acciones. El poder de voto depende de la cantidad poseída. El deber fiduciario limita el uso de ese poder por la administración en perjuicio de los accionistas.",
+        "Confunde una votación por personas con una votación por acciones. En el modelo descrito, una mayor tenencia generalmente implica más votos. Hay excepciones con clases especiales, pero no constituyen esta regla estilizada.",
+        "La deuda no concede automáticamente ese control ordinario. Los acreedores tienen derechos contractuales y pueden adquirir influencia en dificultades financieras. No deben confundirse esos mecanismos con los derechos del accionista.",
+        "El patrimonio pertenece a la sociedad y no personalmente al director. La discrecionalidad administrativa está sujeta a deberes y controles. El deber fiduciario precisamente busca limitar decisiones en beneficio privado."
+      ]
+    },
+    {
+      "id": "c34-q011",
+      "tema": "Keiretsu",
+      "dificultad": "basica",
+      "pregunta": "¿Qué es un keiretsu en la descripción histórica de Japón?",
+      "opciones": [
+        "Una bolsa en la que sólo se negocian títulos públicos.",
+        "Una empresa sin relaciones financieras con otras compañías.",
+        "Un organismo que asegura la rentabilidad de cada accionista minoritario.",
+        "Una red de empresas vinculadas por un banco principal, relaciones duraderas y participaciones cruzadas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "No es un mercado organizado de títulos. Es una estructura de relaciones entre empresas e instituciones. Reducirla a una bolsa pierde sus mecanismos de financiamiento y control.",
+        "La conexión entre compañías es justamente una característica central. Puede incluir compras, ventas, crédito y directores relacionados. Una empresa aislada no describe esta red.",
+        "La red no garantiza beneficios al accionista externo. Su estabilidad puede coexistir con poca influencia de los minoritarios. Tampoco elimina el riesgo de pérdidas de las empresas integrantes.",
+        "La red combina lazos financieros, comerciales y de gobierno. El banco principal y las empresas del grupo pueden aportar fondos y supervisión. Las participaciones cruzadas refuerzan la estabilidad del vínculo."
+      ]
+    },
+    {
+      "id": "c34-q012",
+      "tema": "Financiamiento interno del grupo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué ventaja financiera puede ofrecer un keiretsu a una empresa con un proyecto valioso y escasez transitoria de caja?",
+      "opciones": [
+        "Eliminar para siempre el costo de oportunidad de los fondos.",
+        "Obtener fondos del grupo y sostener inversión sin depender de una emisión pública inmediata.",
+        "Convertir automáticamente cualquier proyecto en rentable.",
+        "Suprimir la necesidad de devolver los préstamos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los recursos internos del grupo también tienen usos alternativos. Por eso conservan un costo económico aunque el acceso sea más fácil. La disponibilidad de fondos no equivale a gratuidad.",
+        "El grupo puede movilizar recursos mediante el banco principal y otras compañías. Así reduce la sensibilidad de la inversión a fluctuaciones temporales de caja. También puede evitar costos de información o señales asociados a una emisión externa.",
+        "El apoyo financiero no modifica por sí solo los flujos económicos del proyecto. Debe verificarse que el rendimiento compense el riesgo y el costo del capital. Financiar un mal proyecto puede destruir valor.",
+        "La relación duradera puede facilitar una reestructuración. No extingue automáticamente las obligaciones contractuales. Un rescate puede modificar plazos, administradores o aportes, pero debe analizarse su contenido."
+      ]
+    },
+    {
+      "id": "c34-q013",
+      "tema": "Gobierno japonés",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué mayores derechos formales para nominar directores no aseguran influencia efectiva de los accionistas externos en el Japón descrito?",
+      "opciones": [
+        "Porque los accionistas externos son legalmente acreedores.",
+        "Porque todo consejo japonés es elegido directamente por el gobierno.",
+        "Porque las nominaciones, consejos poco independientes y tenencias cruzadas pueden mantener el control de los internos.",
+        "Porque la aprobación de remuneraciones elimina cualquier conflicto de agencia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un accionista sigue siendo propietario de capital. No pasa a ser acreedor por tener poca influencia. El problema es la eficacia de sus derechos de gobierno, no la clasificación de su título.",
+        "La explicación no se basa en un nombramiento estatal general. Se refiere al poder de la administración y de la red corporativa. Introducir un elector estatal único cambia el mecanismo analizado.",
+        "El ejercicio real del poder depende de más elementos que el texto legal. La administración puede dominar las nominaciones y contar con accionistas estables del grupo. Esto ayuda a explicar adquisiciones poco frecuentes y baja presión externa sobre dividendos.",
+        "Una votación formal no garantiza supervisión independiente. La misma coalición puede dominar esa aprobación. Los conflictos deben evaluarse por la distribución efectiva del control."
+      ]
+    },
+    {
+      "id": "c34-q014",
+      "tema": "Hausbank y banca universal",
+      "dificultad": "basica",
+      "pregunta": "¿Qué distingue al sistema alemán de hausbank y banca universal presentado en el capítulo?",
+      "opciones": [
+        "Vínculos duraderos de crédito y supervisión, con posibles acciones propias y votos delegados de clientes.",
+        "Prohibición absoluta de toda relación entre bancos y empresas.",
+        "Un banco que sólo vende acciones pero nunca presta.",
+        "Control bancario basado exclusivamente en depósitos garantizados."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El vínculo puede integrar préstamos, participación accionaria y representación de otros accionistas. Esa combinación amplía la capacidad de supervisión del banco. También puede concentrar poder y generar conflictos propios de agencia.",
+        "La relación estrecha es una característica del modelo. El banco no aparece separado de la industria por una prohibición absoluta. Deben analizarse tanto sus beneficios informativos como sus riesgos de concentración.",
+        "El crédito es una parte importante de la relación. La banca universal permite combinar diversas actividades. Definirla sólo como venta de acciones elimina su función de prestamista.",
+        "Los depósitos son una fuente de fondos para el banco. No explican por sí solos sus votos en una empresa cliente. El control proviene de acciones, delegaciones y relaciones de financiamiento."
+      ]
+    },
+    {
+      "id": "c34-q015",
+      "tema": "Agencia bancaria",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué problema plantea que un banco pueda votar una gran parte de sus propias acciones mediante delegaciones?",
+      "opciones": [
+        "Asegura que desaparezcan todos los conflictos entre administradores y propietarios.",
+        "Transforma a los depositantes en accionistas con voto directo.",
+        "Obliga a distribuir todas las utilidades como dividendos.",
+        "Puede debilitar la vigilancia sobre sus administradores y favorecer su permanencia en el control."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Confunde un mecanismo de control con una solución automática. El poder delegado puede servir para sostener a los administradores. Es necesario examinar quién vigila al intermediario.",
+        "Un depósito no se convierte en capital accionario por esta práctica. Las delegaciones proceden de titulares de acciones. Acreedores y propietarios conservan derechos distintos.",
+        "No existe esa consecuencia necesaria para la política de dividendos. El asunto es la distribución del poder de voto. Las decisiones sobre utilidades requieren un análisis adicional de incentivos y oportunidades.",
+        "El supervisor de otras empresas también necesita supervisión. Si sus administradores influyen en los votos de su propio banco, la disciplina externa puede debilitarse. Concentrar vigilancia en un intermediario no elimina los problemas de agencia dentro de él."
+      ]
+    },
+    {
+      "id": "c34-q016",
+      "tema": "Codeterminación alemana",
+      "dificultad": "intermedia",
+      "pregunta": "En el esquema alemán de grandes empresas descripto en el capítulo, ¿cómo se distribuyen las funciones?",
+      "opciones": [
+        "Los trabajadores administran solos y los accionistas no tienen representación.",
+        "El consejo de supervisión vigila y designa al consejo que administra; trabajadores y accionistas participan en la supervisión.",
+        "El consejo de administración nombra a sus supervisores sin intervención externa.",
+        "Un único consejo representa exclusivamente a los acreedores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La representación laboral no significa exclusión del capital. La codeterminación combina intereses en el consejo de supervisión. Debe distinguirse esa participación de una administración exclusivamente obrera.",
+        "Se separan la gestión cotidiana y la vigilancia superior. En la supervisión participan representantes de trabajadores y accionistas. El presidente designado por los accionistas puede dirimir empates en el esquema presentado.",
+        "Invierte la relación de nombramiento y vigilancia. El consejo de supervisión designa y controla al órgano de gestión. Esa separación busca evitar que los administradores se supervisen sólo a sí mismos.",
+        "El modelo analizado tiene dos órganos con tareas distintas. Tampoco se basa en representación exclusiva de acreedores. Incorpora tanto trabajo como capital en la supervisión."
+      ]
+    },
+    {
+      "id": "c34-q017",
+      "tema": "Consejos franceses",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué rasgo del gobierno corporativo francés histórico evita confundirlo con una copia exacta del alemán?",
+      "opciones": [
+        "Obliga a todas las empresas a tener dos consejos idénticos a los alemanes.",
+        "Impide que el consejo de supervisión nombre al órgano de gestión.",
+        "Permite elegir entre uno y dos consejos; en el esquema de dos niveles no replica la representación laboral directa alemana.",
+        "Elimina toda posibilidad de que representantes laborales observen reuniones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Convierte una posibilidad en obligación universal. El modelo de consejo único es también relevante en Francia. Comparar países exige distinguir opciones institucionales y estructuras efectivamente utilizadas.",
+        "La designación de la gestión es una función del órgano de supervisión. Negarla elimina la relación básica del modelo de dos niveles. La diferencia con Alemania está en otros aspectos, incluida la representación laboral.",
+        "La elección entre estructuras es parte de la diferencia institucional. El órgano de supervisión del esquema de dos niveles designa al de gestión. La asistencia laboral como observadores en empresas alcanzadas no equivale a ocupar la mitad de los puestos.",
+        "La descripción contempla observadores laborales en empresas de cierto tamaño. Observar no es idéntico a votar como miembro del consejo. Negar ambas formas impide entender esa diferencia."
+      ]
+    },
+    {
+      "id": "c34-q018",
+      "tema": "Control último internacional",
+      "dificultad": "basica",
+      "pregunta": "¿Qué patrón aparece con frecuencia fuera del modelo de gran empresa anglosajona de propiedad dispersa?",
+      "opciones": [
+        "Control último por familias o por el Estado, incluso sin mayoría de los derechos económicos.",
+        "Propiedad siempre atomizada entre millones de accionistas iguales.",
+        "Control universal por bancos alemanes.",
+        "Ausencia de cotización de cualquier empresa familiar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Puede existir una cadena de sociedades y clases de votos entre la empresa y su controlador final. Esa estructura separa poder y participación económica. Cotizar en bolsa no impide conservar control familiar o estatal.",
+        "Generaliza un patrón particular a todo el mundo. Muchas empresas cotizadas tienen bloques de control estables. Debe rastrearse la propiedad hasta el controlador último.",
+        "El control bancario alemán no es el patrón universal. En numerosos países predominan familias y gobiernos. La diversidad institucional es parte central de la comparación.",
+        "Una familia puede conservar el control y vender participaciones a terceros. Las acciones de una empresa controlada pueden cotizar activamente. La cotización no exige dispersión completa del poder."
+      ]
+    },
+    {
+      "id": "c34-q019",
+      "tema": "Pirámides de control",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo permite una pirámide controlar una empresa con una participación económica final relativamente pequeña?",
+      "opciones": [
+        "Suma las participaciones de cada nivel para calcular dividendos finales.",
+        "Asigna al controlador el total de los dividendos de todas las sociedades.",
+        "Exige siempre ser dueño directo del 100% de la empresa operativa.",
+        "Encadena participaciones controladoras y multiplica las fracciones para medir el interés económico indirecto."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sumar porcentajes de sociedades diferentes no mide una participación final. Cada nivel sólo recibe una fracción de lo que distribuye el siguiente. El procedimiento correcto para una cadena simple es multiplicar.",
+        "Los minoritarios de cada nivel conservan sus derechos económicos. El controlador no recibe legalmente todos los dividendos sólo por decidir. La brecha entre votos y flujos no elimina las participaciones ajenas.",
+        "La pirámide permite precisamente controlar sin adquirir todo el capital operativo. Puede bastar una participación que asegure control en cada nivel. El umbral efectivo depende de la dispersión y de los derechos de voto.",
+        "El control puede transmitirse por cada sociedad de la cadena. La participación económica indirecta se reduce al multiplicar las fracciones de propiedad. Por eso poder de decisión y derecho proporcional a los flujos pueden diferir mucho."
+      ]
+    },
+    {
+      "id": "c34-q020",
+      "tema": "Acciones de dos clases",
+      "dificultad": "basica",
+      "pregunta": "¿Qué define al capital de dos clases utilizado para mantener el control?",
+      "opciones": [
+        "Bonos con dos fechas de vencimiento.",
+        "Clases de acciones con derechos de voto diferentes que pueden separar poder y participación económica.",
+        "Acciones cuyo dividendo siempre duplica su poder de voto.",
+        "Dos sociedades que necesariamente poseen la mitad de las acciones de la otra."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los bonos son deuda y no una clase de capital accionario. Su vencimiento no define los votos de los propietarios. La estructura considerada pertenece al gobierno de las acciones.",
+        "Una clase puede tener más votos por acción que otra. Si los derechos económicos son iguales, una minoría del capital puede concentrar una mayoría de votos. Esta estructura no garantiza ni buena gestión ni abuso, pero cambia los incentivos de control.",
+        "No existe esa proporcionalidad obligatoria entre dividendos y votos. El punto central es que ambos derechos pueden diseñarse de manera diferente. Deben leerse las condiciones de cada clase.",
+        "Eso describe una forma específica de participación cruzada, no dos clases de acciones. Una sola empresa puede emitir clases diferentes sin poseer acciones de otra. No deben confundirse los mecanismos de separación de propiedad y control."
+      ]
+    },
+    {
+      "id": "c34-q021",
+      "tema": "Valor del control",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué interpretación admite una prima elevada por acciones con mayor poder de voto?",
+      "opciones": [
+        "Demuestra necesariamente que todos los accionistas recibirán la misma mejora.",
+        "Demuestra necesariamente que todo controlador comete fraude.",
+        "Puede reflejar supervisión creadora de valor o beneficios privados del controlador; no identifica por sí sola cuál predomina.",
+        "Sólo puede provenir de una mayor tasa de dividendo contractual."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una parte del valor puede ser exclusiva de quien controla. Los minoritarios podrían no participar de esos beneficios. Una prima no equivale automáticamente a una ganancia distribuida de forma uniforme.",
+        "El control tiene una función legítima de supervisión. Una diferencia de precios no prueba por sí sola una conducta ilícita. Debe investigarse el mecanismo que produce ese valor.",
+        "El control puede servir para corregir malas decisiones y mejorar la empresa. También puede permitir capturar ventajas a costa de los minoritarios. El precio relativo de los votos debe interpretarse junto con los derechos y la protección existentes.",
+        "Aunque los derechos económicos pueden variar, el análisis de votos busca aislar su valor. Incluso con iguales dividendos puede haber diferencias de precio. Atribuirlas siempre al dividendo omite el poder de decisión."
+      ]
+    },
+    {
+      "id": "c34-q022",
+      "tema": "Conglomerados y mercados internos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un conglomerado puede tener mayor justificación económica donde los mercados externos funcionan mal?",
+      "opciones": [
+        "Puede movilizar fondos internamente y diversificar negocios cuando el financiamiento y la información externos son deficientes.",
+        "Porque la diversificación interna elimina todo riesgo empresarial.",
+        "Porque un mercado interno garantiza que todos los proyectos tengan VAN positivo.",
+        "Porque una empresa enfocada nunca puede ser rentable."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El grupo puede suplir parcialmente carencias de intermediación e información. Para una familia, diversificar dentro del grupo permite mantener control sin depender tanto de títulos externos poco protegidos. Estos beneficios deben compararse con los costos de agencia y de asignación interna.",
+        "Diversificar no elimina riesgos comunes ni errores de gestión. Además, sumar negocios puede introducir nuevos conflictos. La ventaja depende de qué restricciones externas logra superar el grupo.",
+        "La asignación interna también puede favorecer proyectos deficientes. Tener fondos disponibles no prueba creación de valor. Deben evaluarse rentabilidad, riesgo y usos alternativos.",
+        "El argumento depende del entorno institucional y del tamaño del mercado. No niega la viabilidad de las empresas especializadas. En mercados desarrollados, la diversificación financiera externa puede ser más sencilla y eficiente."
+      ]
+    },
+    {
+      "id": "c34-q023",
+      "tema": "Túneles y minoritarios",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál de estas operaciones constituye un ejemplo de construcción de túneles?",
+      "opciones": [
+        "Vender un activo a un tercero independiente al mejor precio disponible.",
+        "Pagar un dividendo proporcional a todos los accionistas de la misma clase.",
+        "Rechazar un proyecto cuyo rendimiento no cubre el costo de capital.",
+        "Vender un activo de una sociedad a otra del controlador por debajo de su valor, perjudicando a los minoritarios de la vendedora."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una venta independiente en condiciones de mercado no implica ese desvío. Puede ser una decisión eficiente de inversión o desinversión. Debe existir una transferencia perjudicial vinculada al conflicto de control.",
+        "Una distribución proporcional respeta los derechos económicos de esa clase. No desplaza selectivamente riqueza hacia otra empresa del controlador. El túnel exige examinar quién gana a costa de quién.",
+        "Rechazar una inversión destructora de valor protege al capital. No transfiere recursos a una sociedad relacionada. Confundirlo con un túnel mezcla disciplina de inversión y apropiación privada.",
+        "El recurso se desplaza hacia otra empresa vinculada en condiciones desfavorables para quien lo entrega. El controlador puede ganar porque sus participaciones en ambas sociedades son diferentes. Los minoritarios de la sociedad perjudicada soportan una parte de la pérdida."
+      ]
+    },
+    {
+      "id": "c34-q024",
+      "tema": "Límites de la protección",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué maximizar sin límite el poder de los inversores financieros no garantiza la mejor organización empresarial?",
+      "opciones": [
+        "Porque el capital humano se puede observar y contratar perfectamente en todos los casos.",
+        "Porque empleados y administradores aportan capital humano y necesitan incentivos y discrecionalidad para invertirlo.",
+        "Porque la protección jurídica debe reemplazarse por ausencia total de controles.",
+        "Porque toda intervención de accionistas destruye valor."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Precisamente existen dificultades para medir esfuerzo y aportes humanos. Esa incompletitud contractual exige dejar cierto margen de decisión. Suponer observación perfecta elimina el problema que se busca resolver.",
+        "La empresa requiere aportes conjuntos de recursos financieros y humanos. El esfuerzo y el conocimiento no pueden especificarse completamente por contrato. La protección debe limitar abusos sin eliminar la iniciativa y los incentivos de quienes operan la empresa.",
+        "Reconocer límites no equivale a abandonar controles. Leyes, información y supervisión siguen siendo necesarios. El desafío consiste en equilibrar protección e incentivos.",
+        "La supervisión accionaria puede corregir malas inversiones y abusos. Su utilidad depende de la forma y la intensidad. Una afirmación universal de daño es tan injustificada como una defensa de intervención ilimitada."
+      ]
+    },
+    {
+      "id": "c34-q025",
+      "tema": "Tamaño financiero relativo al PIB",
+      "dificultad": "basica",
+      "pregunta": "En un país hipotético, el PIB anual es 800 y el valor de las acciones cotizadas es 1.000, en la misma unidad monetaria. ¿Cuál es la capitalización bursátil como porcentaje del PIB?",
+      "opciones": [
+        "80%.",
+        "25%.",
+        "125%.",
+        "180%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Se invierte el cociente al calcular 800 / 1.000. La base solicitada es el PIB, no el mercado accionario. El resultado correcto surge de dividir 1.000 por 800.",
+        "El 25% representa cuánto excede la capitalización al PIB respecto de este último. Se pidió el valor total relativo y no solamente el exceso. Debe incluirse también el 100% correspondiente a la base.",
+        "Se divide el valor de las acciones por el PIB: 1.000 / 800 = 1,25. Al multiplicar por 100 se obtiene 125%. Es una comparación entre un stock financiero y un flujo anual, por lo que puede superar el 100%.",
+        "Sumar las dos magnitudes no produce el indicador solicitado. El tamaño relativo se obtiene mediante un cociente. Usar como base el PIB conduce a 125%."
+      ]
+    },
+    {
+      "id": "c34-q026",
+      "tema": "Comparación de mercados de bonos",
+      "dificultad": "intermedia",
+      "pregunta": "A tiene bonos corporativos por 300 y PIB de 600; B tiene bonos por 400 y PIB de 1.000. ¿Dónde es mayor el mercado de bonos en relación con el PIB?",
+      "opciones": [
+        "En A: 50%, frente a 40% en B.",
+        "En B: 400 es mayor que 300.",
+        "Son iguales porque ambos cocientes son inferiores a uno.",
+        "En A: 200%, frente a 250% en B."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "En A, 300 / 600 = 0,50. En B, 400 / 1.000 = 0,40. A tiene menor monto absoluto, pero mayor peso de bonos corporativos respecto de su economía.",
+        "Compara montos sin ajustar por el tamaño económico. La pregunta pide importancia relativa al PIB. Una economía más grande puede tener más bonos y una proporción menor.",
+        "Estar por debajo de uno no hace iguales a dos cocientes. Los resultados difieren en diez puntos porcentuales. La comparación debe conservar las magnitudes de cada razón.",
+        "Se han invertido numerador y denominador. Los porcentajes indicados corresponden al PIB relativo al monto de bonos. El indicador financiero solicitado usa bonos divididos por PIB."
+      ]
+    },
+    {
+      "id": "c34-q027",
+      "tema": "Carteras familiares",
+      "dificultad": "basica",
+      "pregunta": "Las familias tienen depósitos por 240, seguros y fondos por 180, acciones directas por 120 y otros activos financieros por 60. Si el PIB es 300, ¿cuánto representan sus activos financieros totales?",
+      "opciones": [
+        "80% del PIB.",
+        "160% del PIB.",
+        "50% del PIB.",
+        "200% del PIB."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 80% corresponde sólo a los depósitos respecto del PIB. Omite las otras tres categorías. Para medir el total hay que agregar todos los activos financieros indicados.",
+        "El 160% surge de excluir las acciones directas del total. Esas acciones también forman parte de los activos financieros familiares. La suma completa es 600 y no 480.",
+        "El 50% invierte la razón entre PIB y activos. La base pedida es el PIB. Con activos de 600 sobre PIB de 300, el resultado es 200%.",
+        "Se suman las categorías sin superposición: 240 + 180 + 120 + 60 = 600. Luego se calcula 600 / 300 = 2. El total equivale a 200% del PIB y no mide por sí solo la riqueza no financiera."
+      ]
+    },
+    {
+      "id": "c34-q028",
+      "tema": "Exposición accionaria indirecta",
+      "dificultad": "intermedia",
+      "pregunta": "Una familia tiene 100 en acciones directas, 200 en un fondo con 60% en acciones y 200 en depósitos. Suponé que sólo las primeras dos posiciones transmiten riesgo accionario. ¿Qué proporción de su cartera está expuesta a acciones?",
+      "opciones": [
+        "20%.",
+        "44%.",
+        "60%.",
+        "64%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sólo cuenta los 100 invertidos directamente. Omite que el fondo transmite exposición por sus acciones subyacentes. La tenencia indirecta agrega otros 120 al numerador.",
+        "La exposición directa es 100 y la indirecta es 200 × 0,60 = 120. El total expuesto es 220 sobre una cartera de 500. Por lo tanto, la proporción es 44%.",
+        "Trata al fondo completo como si invirtiera en acciones. Sólo el 60% de sus 200 corresponde a ese activo. La exposición total no es 300 sino 220.",
+        "Suma indebidamente porcentajes de bases distintas. El 60% se aplica al fondo y no a toda la cartera familiar. Primero deben calcularse los montos expuestos y luego dividirlos por 500."
+      ]
+    },
+    {
+      "id": "c34-q029",
+      "tema": "Financiamiento comercial",
+      "dificultad": "basica",
+      "pregunta": "Una empresa compra insumos por 90, paga 30 al contado y queda debiendo el resto a su proveedor. Sin intereses ni otros saldos, ¿cuánto crédito comercial recibió?",
+      "opciones": [
+        "90.",
+        "30.",
+        "60.",
+        "120."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Incluye la parte ya pagada en efectivo. Sólo el importe pendiente representa financiación del proveedor. La compra total y el crédito recibido no son lo mismo.",
+        "Confunde el pago inicial con el importe financiado. Los 30 reducen la deuda en lugar de constituirla. El saldo pendiente asciende a 60.",
+        "El financiamiento es la parte de la compra cuyo pago se difiere. Se calcula 90 − 30 = 60. Ese saldo es cuenta por pagar para el comprador y cuenta por cobrar para el proveedor.",
+        "Suma la compra y el pago cuando el pago debe restarse. No se recibe crédito por una cantidad mayor al importe impago. La obligación remanente es de 60."
+      ]
+    },
+    {
+      "id": "c34-q030",
+      "tema": "Acciones disponibles fuera del grupo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene 10 millones de acciones. Tres integrantes de su grupo poseen bloques distintos de 18%, 12% y 10%, que no negocian. Si no hay otras restricciones, ¿cuántas acciones quedan fuera de esos bloques?",
+      "opciones": [
+        "6 millones.",
+        "4 millones.",
+        "8,2 millones.",
+        "10 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los bloques estables suman 18% + 12% + 10% = 40%. Queda fuera el 60% de las acciones emitidas. El cálculo es 10 millones × 0,60 = 6 millones.",
+        "Ese es el total inmovilizado por las tres participaciones. La pregunta pide el complemento disponible fuera de ellas. Debe restarse 40% del total.",
+        "Sólo descuenta el primer bloque de 18%. Las otras dos tenencias también reducen las acciones externas. Al ser bloques distintos, corresponde agregarlos antes de restar.",
+        "Confunde acciones emitidas con acciones fuera de participaciones estables. Las tenencias cruzadas no cancelan acciones, pero sí pueden inmovilizarlas. Aquí sólo quedan 6 millones fuera de esos bloques."
+      ]
+    },
+    {
+      "id": "c34-q031",
+      "tema": "Presupuesto y apoyo del grupo",
+      "dificultad": "intermedia",
+      "pregunta": "Una firma tiene una inversión aprobada de 150, genera caja por 90 y desea mantener intacta su caja inicial. El banco principal aporta 35 y otra empresa del grupo presta 15. ¿Qué financiamiento adicional falta?",
+      "opciones": [
+        "60.",
+        "50.",
+        "0.",
+        "10."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Calcula correctamente la brecha antes del apoyo del grupo. Sin embargo, omite los 50 ya comprometidos. La necesidad remanente es sólo 10.",
+        "Confunde los fondos obtenidos con los fondos faltantes. Los 50 reducen una necesidad de 60. No constituyen una nueva necesidad adicional.",
+        "El apoyo del grupo no cubre toda la brecha. Hay 140 disponibles entre caja generada y préstamos. Frente a una inversión de 150, todavía faltan 10.",
+        "La inversión requiere 150 − 90 = 60 de fondos adicionales. Los aportes del grupo suman 35 + 15 = 50. Quedan 10 por cubrir sin usar la caja inicial."
+      ]
+    },
+    {
+      "id": "c34-q032",
+      "tema": "Votos propios y delegados",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco posee 22% de las acciones con un voto cada una y puede votar otro 17% por delegación de terceros, sin superposición. ¿Qué porcentaje vota y qué porcentaje económico posee directamente?",
+      "opciones": [
+        "Vota 22% y posee directamente 39%.",
+        "Vota 39% y posee directamente 22%.",
+        "Vota 39% y posee directamente 39%.",
+        "Vota 3,74% y posee directamente 22%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Intercambia poder de voto y propiedad. Los derechos delegados amplían los votos ejercidos por el banco. Los beneficios económicos de esas acciones siguen perteneciendo a sus titulares.",
+        "Los votos se agregan porque corresponden a acciones distintas: 22% + 17% = 39%. La delegación no transfiere automáticamente la propiedad económica. Su participación directa sigue siendo 22%.",
+        "Asume que votar una acción equivale a ser su dueño. La delegación puede limitarse al ejercicio del voto. Sin una transferencia de capital, el banco no adquiere el 17% económico adicional.",
+        "Multiplica porcentajes que deben sumarse. No hay una cadena de sociedades para calcular propiedad indirecta. Se trata de dos conjuntos separados de votos de una misma compañía."
+      ]
+    },
+    {
+      "id": "c34-q033",
+      "tema": "Control con asistencia parcial",
+      "dificultad": "avanzada",
+      "pregunta": "Un accionista tiene 30 votos sobre 100 emitidos. En una asamblea se representan 50 votos en total, incluidos sus 30, y las resoluciones ordinarias requieren más de la mitad de los presentes. ¿Qué puede lograr si vota unido?",
+      "opciones": [
+        "No aprobar nada porque siempre necesita 51 votos emitidos.",
+        "Ejercer 30% de los presentes.",
+        "Aprobar por sí solo una resolución ordinaria en esa asamblea, con 60% de los votos presentes.",
+        "Recibir automáticamente 60% de todos los dividendos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ignora la regla de mayoría indicada en el enunciado. La base relevante es la asistencia de 50 votos. No se estableció una exigencia de mayoría absoluta del capital emitido.",
+        "Usa como denominador las 100 acciones emitidas. Para medir el peso en esa asamblea deben utilizarse los 50 votos representados. La propiedad total y el peso entre presentes tienen bases distintas.",
+        "Sus 30 votos representan 30 / 50 = 60% de los presentes. Superan la mitad requerida para esa resolución. Esto no aumenta su 30% económico ni garantiza igual control con otra asistencia o reglas diferentes.",
+        "El resultado de la votación no altera los derechos económicos. Los dividendos siguen la participación y los derechos de cada clase. Controlar una resolución no duplica la propiedad accionaria."
+      ]
+    },
+    {
+      "id": "c34-q034",
+      "tema": "Codeterminación y representación",
+      "dificultad": "basica",
+      "pregunta": "En un consejo de supervisión hipotético con 20 puestos ordinarios, la mitad corresponde a representantes laborales y la otra a accionistas. Sin contar votos de desempate, ¿cuántos puestos tiene cada grupo?",
+      "opciones": [
+        "10 y 10.",
+        "20 y 0.",
+        "11 y 9.",
+        "5 y 15."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La mitad de 20 es 10. Por lo tanto, ambos grupos tienen diez puestos ordinarios. Un mecanismo de desempate no modifica esta distribución de asientos.",
+        "Confunde participación laboral con exclusión de los accionistas. El enunciado establece mitades iguales. La representación del capital también ocupa diez lugares.",
+        "Traslada el voto de desempate a un puesto adicional. La pregunta excluye expresamente ese voto del conteo. Los asientos ordinarios siguen divididos en partes iguales.",
+        "Asigna sólo una cuarta parte a los trabajadores. La proporción indicada es la mitad. Para obtener los lugares debe calcularse 20 × 0,50."
+      ]
+    },
+    {
+      "id": "c34-q035",
+      "tema": "Participación económica en una pirámide",
+      "dificultad": "intermedia",
+      "pregunta": "Una familia posee 60% de H y H posee 60% de O. Todas las acciones tienen iguales derechos económicos, no hay deuda ni otras rutas de propiedad. ¿Cuál es la participación económica indirecta de la familia en O?",
+      "opciones": [
+        "60%.",
+        "120%.",
+        "40%.",
+        "36%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Usa únicamente uno de los eslabones de la cadena. H no pertenece enteramente a la familia. Debe aplicarse también el 60% de propiedad familiar sobre H.",
+        "Suma porcentajes que se refieren a sociedades distintas. El resultado económico indirecto nunca se obtiene sumando esos eslabones. La multiplicación da 36%.",
+        "Ese porcentaje es el complemento de un solo eslabón. No representa la participación indirecta final. Deben combinarse ambas fracciones de propiedad mediante su producto.",
+        "La familia participa en el 60% de lo que H recibe de O. Se calcula 0,60 × 0,60 = 0,36. Puede controlar ambos niveles por mayoría y tener sólo 36% del interés económico final."
+      ]
+    },
+    {
+      "id": "c34-q036",
+      "tema": "Pirámide de tres eslabones",
+      "dificultad": "avanzada",
+      "pregunta": "La familia tiene 50% de A, A tiene 50% de B y B tiene 50% de O. Suponé control efectivo con 50% en cada nivel, sin deuda ni otros activos. Si O vale 800, ¿qué valor proporcional de O corresponde a la familia?",
+      "opciones": [
+        "400.",
+        "100.",
+        "200.",
+        "0."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sólo aplica uno de los tres eslabones de propiedad. Los minoritarios de A y B también participan de los flujos. La familia recibe una octava parte del valor económico de O.",
+        "La participación económica final es 0,50 × 0,50 × 0,50 = 0,125. Aplicada al valor de O, da 800 × 0,125 = 100. El supuesto de control efectivo no convierte esa fracción en propiedad total.",
+        "Omite el eslabón entre la familia y A o alguno equivalente. Dos mitades producen un cuarto, pero aquí hay tres. La fracción completa es un octavo y vale 100.",
+        "El enunciado establece control efectivo con 50%. Además, aun sin control, una participación económica podría tener valor. No hay fundamento para asignar valor cero al interés de la familia."
+      ]
+    },
+    {
+      "id": "c34-q037",
+      "tema": "Rutas múltiples de propiedad",
+      "dificultad": "avanzada",
+      "pregunta": "Una familia tiene 40% de H; H tiene 30% de O. La familia posee además 8% de O directamente. Sin participaciones cruzadas ni otras rutas, ¿qué porcentaje económico total de O le corresponde?",
+      "opciones": [
+        "78%.",
+        "12%.",
+        "20%.",
+        "38%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Suma todas las participaciones sin distinguir sus bases. El 40% corresponde a H y no directamente a O. Primero debe multiplicarse la cadena indirecta y luego agregarse el bloque directo.",
+        "Calcula bien la ruta a través de H, pero omite la participación directa. El enunciado especifica otro 8% de O en manos de la familia. Ambas rutas juntas producen 20%.",
+        "La ruta indirecta aporta 0,40 × 0,30 = 12%. Se suma el 8% directo porque es una ruta separada hacia O. La participación económica total es 20%.",
+        "Suma la participación de H en O con la directa de la familia. Eso supone que toda H pertenece a la familia. Como sólo tiene 40% de H, la ruta indirecta aporta 12% y no 30%."
+      ]
+    },
+    {
+      "id": "c34-q038",
+      "tema": "Votos de dos clases",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene 100 acciones con iguales derechos económicos: 20 de clase A con 10 votos cada una y 80 de clase B con un voto cada una. Una familia posee todas las A y ninguna B. ¿Qué proporción de votos controla?",
+      "opciones": [
+        "71,43% aproximadamente.",
+        "20%.",
+        "200%.",
+        "80%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Las A aportan 20 × 10 = 200 votos y las B aportan 80. La familia controla 200 / 280 = 71,43% aproximadamente. Su participación económica sigue siendo 20% si todas las acciones tienen iguales derechos de flujos.",
+        "Mide la proporción de acciones y no de votos. Las A tienen diez veces el voto por unidad. Debe usarse el total de 280 votos como denominador.",
+        "Divide los 200 votos familiares por las 100 acciones emitidas. Mezcla unidades distintas en la misma razón. La fracción correcta compara votos familiares con votos totales.",
+        "Confunde la cantidad de acciones B con el poder de la familia. La familia posee las A, cuyos votos son 200. La concentración de votos debe calcularse con los derechos de cada clase."
+      ]
+    },
+    {
+      "id": "c34-q039",
+      "tema": "Prima de derechos de voto",
+      "dificultad": "intermedia",
+      "pregunta": "Dos clases tienen idénticos dividendos y riesgos económicos, pero distinta capacidad de voto. Una acción de voto reforzado vale 27 y la ordinaria 25. ¿Cuál es la prima relativa a la ordinaria?",
+      "opciones": [
+        "7,41% aproximadamente.",
+        "2%.",
+        "108%.",
+        "8%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Utiliza como base el precio de la acción reforzada. Ese cociente mide la diferencia respecto de 27. La prima solicitada está definida sobre la acción ordinaria de 25.",
+        "Confunde una diferencia de dos unidades monetarias con dos puntos porcentuales. Para expresar una prima relativa hay que dividir por el precio base. El resultado es 8%.",
+        "El 108% es el precio relativo completo de 27 frente a 25. La prima mide sólo el exceso sobre el 100% de la base. Por eso corresponde informar 8%.",
+        "La diferencia de precio es 27 − 25 = 2. Se divide por el precio de referencia de 25: 2 / 25 = 0,08. La prima es 8%, suponiendo que la diferencia relevante sea el derecho de voto."
+      ]
+    },
+    {
+      "id": "c34-q040",
+      "tema": "Bloque de control y minoritarios",
+      "dificultad": "intermedia",
+      "pregunta": "Antes de una venta de control, la acción vale 40. El comprador paga 15% de prima por cada acción del bloque; las demás suben 5% en bolsa. ¿Cuánto recibe por acción el vendedor del bloque y cuánto vale una acción minoritaria después?",
+      "opciones": [
+        "42 y 46.",
+        "46 y 42.",
+        "55 y 45.",
+        "46 y 46."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Intercambia los dos porcentajes de aumento. El mayor corresponde expresamente al bloque de control. Cada precio debe calcularse sobre la misma base de 40 con su tasa respectiva.",
+        "El precio del bloque es 40 × 1,15 = 46. El precio bursátil de las demás es 40 × 1,05 = 42. La prima negociada por el control no se distribuye automáticamente a los accionistas que no venden ese bloque.",
+        "Suma los porcentajes como si fueran unidades monetarias. Un aumento del 15% de 40 equivale a 6 y no a 15. El incremento del 5% equivale a 2 y no a 5.",
+        "Supone que todos reciben la prima del bloque. El enunciado diferencia el precio privado de control del precio de bolsa posterior. Los minoritarios conservan acciones que valen 42."
+      ]
+    },
+    {
+      "id": "c34-q041",
+      "tema": "Túnel mediante venta de activos",
+      "dificultad": "avanzada",
+      "pregunta": "X vende a Y por 60 un activo cuyo valor de mercado es 100. La familia controla ambas y posee 30% de X y 80% de Y. Sin impuestos ni otros efectos, ¿cuál es el cambio neto de riqueza familiar?",
+      "opciones": [
+        "Pierde 40.",
+        "Gana 32.",
+        "Gana 20.",
+        "Pierde 12."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor no desaparece íntegramente, sino que se traslada entre sociedades. La familia tiene participaciones diferentes en ambas. Debe combinarse su pérdida en X con su ganancia en Y.",
+        "Sólo reconoce la participación familiar en la ganancia de Y. La familia también pierde valor como accionista de X. Restar esos 12 reduce el beneficio neto a 20.",
+        "X transfiere 100 − 60 = 40 de valor a Y. La familia pierde 30% de 40 en X, es decir 12, y gana 80% de 40 en Y, es decir 32. Su efecto neto es 32 − 12 = 20, a costa del reparto entre otros accionistas.",
+        "Sólo registra la caída de la participación en X. Omite la ganancia de 32 en Y. El incentivo al túnel surge precisamente de tener más interés económico en la receptora."
+      ]
+    },
+    {
+      "id": "c34-q042",
+      "tema": "Túnel mediante préstamo barato",
+      "dificultad": "intermedia",
+      "pregunta": "X presta 200 a Y durante un año al 2%, cuando un préstamo comparable entre independientes cobraría 7%. El capital se devuelve íntegro al final y no hay otros costos. ¿Qué ingreso por intereses deja de recibir X, sin descontar?",
+      "opciones": [
+        "10.",
+        "14.",
+        "4.",
+        "200."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El interés comparable sería 200 × 0,07 = 14. X cobra 200 × 0,02 = 4. La diferencia de 10 es el ingreso de intereses sacrificado en favor de Y durante ese año.",
+        "Ese es el interés total a tasa de mercado. No descuenta los 4 que X sí recibe. La transferencia medida como ingreso perdido es la diferencia entre ambos intereses.",
+        "Ese es el interés efectivamente cobrado. La pregunta pide lo que X deja de percibir respecto de condiciones comparables. Debe restarse 4 de los 14 de referencia.",
+        "Confunde el principal con el beneficio de la tasa subsidiada. El principal se devuelve íntegramente por supuesto. La transferencia analizada se limita al menor ingreso de intereses."
+      ]
+    },
+    {
+      "id": "c34-q043",
+      "tema": "Capital y costo de oportunidad",
+      "dificultad": "intermedia",
+      "pregunta": "Una unidad madura utiliza capital económico de 500 y genera cada año 30 de flujo operativo perpetuo, sin crecimiento ni inversiones adicionales. Si la tasa apropiada es 10%, ¿qué valor presente tienen esos flujos y qué sugieren frente a los 500 de capital utilizado?",
+      "opciones": [
+        "Valen 500 porque el capital utilizado fija su valor.",
+        "Valen 30 porque sólo debe contarse un año.",
+        "Valen 3.000 porque se divide por 0,01.",
+        "Valen 300; mantener 500 en ese uso genera una brecha de valor de 200."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El capital empleado no garantiza que los flujos lo justifiquen. Debe valorarse el rendimiento que efectivamente genera. Con los supuestos dados, el valor económico es 300.",
+        "El enunciado describe una corriente perpetua y no un único cobro. Todos los flujos futuros deben descontarse. La fórmula de perpetuidad resume esa suma en 300.",
+        "Usa una tasa de 1% en lugar de 10%. La conversión correcta de 10% a decimal es 0,10. Un error de ese tipo multiplica indebidamente el valor por diez.",
+        "Una perpetuidad de 30 al 10% vale 30 / 0,10 = 300. Frente a 500 de capital utilizado, la brecha es 200 y el flujo representa sólo 6% de ese capital. La decisión concreta de liberar recursos dependerá también del valor realizable y de los costos de salida."
+      ]
+    },
+    {
+      "id": "c34-q044",
+      "tema": "Pérdidas y respaldo público",
+      "dificultad": "intermedia",
+      "pregunta": "Un banco tiene activos por 1.000, depósitos por 900 y capital propio por 100. Sus activos pierden 160; no hay otras deudas y el Estado cubre sólo el faltante necesario para pagar íntegramente los depósitos. ¿Cuánto aporta el Estado?",
+      "opciones": [
+        "160.",
+        "60.",
+        "100.",
+        "900."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Atribuye al Estado toda la pérdida de activos. Antes de recurrir a la garantía, el capital propio absorbe 100. El costo público necesario para completar los depósitos es 60.",
+        "Después de la pérdida quedan activos por 840. El capital absorbe los primeros 100 de pérdida y los depósitos de 900 quedan sin respaldo por 60. Ese faltante es el aporte estatal bajo los supuestos indicados.",
+        "Confunde el capital previo con el faltante final. Ese capital protege inicialmente a los depositantes, pero queda agotado. La pérdida adicional de 60 es la que requiere cobertura pública.",
+        "El Estado no necesita reemplazar todos los depósitos. Los activos remanentes cubren 840 de los 900 adeudados. La garantía sólo completa la diferencia."
+      ]
+    },
+    {
+      "id": "c34-q045",
+      "tema": "Opacidad y deuda oculta",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa informa deuda de 120 y efectivo de 50. Una revisión incorpora deuda omitida por 80 y confirma que 30 del efectivo declarado no existe. ¿Cuál es su deuda neta corregida?",
+      "opciones": [
+        "70.",
+        "150.",
+        "180.",
+        "230."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Es la deuda neta inicialmente informada: 120 − 50. Ignora ambos ajustes de la revisión. La deuda omitida y la inexistencia de efectivo empeoran la posición financiera.",
+        "Agrega la deuda oculta, pero conserva los 50 de efectivo reportado. La revisión confirma que sólo hay 20 reales. Deben corregirse ambos lados antes de calcular la deuda neta.",
+        "La deuda corregida es 120 + 80 = 200. El efectivo real es 50 − 30 = 20. La deuda neta resulta 200 − 20 = 180, lo que muestra cómo la opacidad puede ocultar el apalancamiento.",
+        "Suma el efectivo inexistente a la deuda bruta corregida. Ese ajuste debe reducir el efectivo informado, no crear una nueva obligación por sí mismo. La deuda neta correcta resta los 20 de caja real a los 200 de deuda."
+      ]
+    },
+    {
+      "id": "c34-q046",
+      "tema": "Información crediticia y crecimiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una red de pequeñas empresas sólo consigue crédito de intermediarios que conocen personalmente a cada dueño. Se crea una base confiable de balances e historial de pagos accesible a varios prestamistas. ¿Qué efecto es más consistente con el análisis del capítulo?",
+      "opciones": [
+        "Puede aumentar la competencia y disponibilidad de crédito al reducir costos y monopolios de información.",
+        "Hace innecesario evaluar el riesgo de cada deudor.",
+        "Reduce necesariamente la competencia porque todos acceden a información similar.",
+        "Sólo beneficia a empresas que ya cuentan con abundante capital propio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los potenciales prestamistas pueden evaluar deudores sin construir desde cero toda la información. Eso reduce una barrera de entrada al mercado de crédito. También puede mejorar las condiciones de empresas productivas que antes dependían de un único intermediario.",
+        "Una mejor base permite evaluar riesgo con más fundamento. No asegura que todos los deudores paguen ni vuelve innecesario el análisis. Deben seguir considerándose capacidad de pago y condiciones del préstamo.",
+        "La información compartida puede debilitar la ventaja exclusiva del prestamista establecido. Al bajar el costo de conocer al cliente, facilita que otros compitan. El efecto propuesto invierte ese mecanismo.",
+        "Las empresas con pocos recursos pueden beneficiarse especialmente del acceso a crédito. El desarrollo financiero permite separar una buena oportunidad de la riqueza inicial del emprendedor. No se limita a quienes pueden financiarse solos."
+      ]
+    },
+    {
+      "id": "c34-q047",
+      "tema": "Innovación y diversidad de opiniones",
+      "dificultad": "intermedia",
+      "pregunta": "Una emprendedora desarrolla una tecnología cuya viabilidad divide fuertemente a los expertos. Los grandes bancos coinciden en rechazarla, pero algunos inversores especializados creen en ella. ¿Qué ventaja potencial ofrece un sistema de mercados desarrollado?",
+      "opciones": [
+        "Garantiza que la tecnología tendrá éxito comercial.",
+        "Elimina la necesidad de presentar información a quienes aportan capital.",
+        "Obliga a que toda empresa madura financie la tecnología.",
+        "Permite buscar inversores con una evaluación favorable sin requerir consenso de unos pocos bancos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Financiar una idea no demuestra que el producto funcionará o encontrará compradores. Los mercados también pueden equivocarse y sobreinvertir. La evaluación del riesgo sigue siendo necesaria.",
+        "Los inversores necesitan información para valorar la oportunidad. La apertura del mercado no reemplaza la transparencia. Sin datos, el financiamiento puede volverse más caro o desaparecer.",
+        "La ventaja no depende de imponer aportes obligatorios a otras empresas. Surge de acuerdos voluntarios con inversores interesados. Confundir mercado con asignación forzosa cambia el mecanismo.",
+        "La diversidad de participantes permite reunir fondos de quienes comparten una visión del proyecto. Esto puede favorecer nuevas industrias aun cuando no exista acuerdo general. La ventaja es de acceso y variedad de opiniones, sin garantía de éxito."
+      ]
+    },
+    {
+      "id": "c34-q048",
+      "tema": "Banca e industrias establecidas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa manufacturera con tecnología conocida necesita renovar plantas gradualmente. Su banco conoce hace años sus procesos y clientes. ¿Qué argumento respalda una relación bancaria duradera?",
+      "opciones": [
+        "El banco debe prestarle aunque cada renovación destruya valor.",
+        "La información acumulada y la coordinación pueden facilitar financiamiento y supervisión de una actividad establecida.",
+        "Las industrias conocidas carecen de riesgo y no requieren control.",
+        "La relación prueba que cotizar acciones sería siempre perjudicial."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una relación valiosa no justifica sostener toda inversión. Financiar pérdidas permanentes puede inmovilizar recursos y crear empresas inviables. La supervisión debería distinguir continuidad eficiente de apoyo indiscriminado.",
+        "Las relaciones de largo plazo pueden reducir costos de información y permitir seguimiento cercano. Ese mecanismo puede ser útil en industrias establecidas con inversiones sucesivas. La ventaja no exime de analizar la rentabilidad de cada renovación.",
+        "La madurez tecnológica no elimina riesgos competitivos, operativos o financieros. Precisamente el conocimiento del banco ayuda a evaluarlos. Suponer ausencia de riesgo haría innecesaria la ventaja informativa invocada.",
+        "Ambos canales pueden coexistir y ser útiles. El caso muestra una ventaja potencial del banco para esta actividad. No permite una conclusión universal contra el financiamiento accionario."
+      ]
+    },
+    {
+      "id": "c34-q049",
+      "tema": "Declinación y empresas zombies",
+      "dificultad": "avanzada",
+      "pregunta": "Un director financiero pide renovar préstamos de una unidad que no puede cubrir su costo de capital ni tiene perspectivas creíbles de recuperación. El banco acepta para evitar reconocer pérdidas pasadas. ¿Cuál es la principal objeción económica?",
+      "opciones": [
+        "Siempre mejora el valor porque evita una quiebra inmediata.",
+        "El costo de capital deja de importar cuando existe un préstamo anterior.",
+        "Mantiene recursos en un uso inviable y posterga su reasignación a actividades de mayor valor.",
+        "La renovación convierte las pérdidas históricas en nuevos ingresos operativos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Evitar la quiebra puede ser útil ante problemas transitorios. El enunciado excluye una recuperación creíble. Continuar sólo para ocultar pérdidas puede aumentar el daño.",
+        "Los fondos nuevos y los activos existentes tienen usos alternativos. El préstamo anterior no elimina esa exigencia. La decisión debe basarse en perspectivas futuras y no en defender una decisión pasada.",
+        "El apoyo puede sostener una empresa zombie si no existe una recuperación económica plausible. Evitar reconocer pérdidas no vuelve productivos los recursos ya comprometidos. La disciplina exige comparar continuidad, reestructuración y salida según su valor futuro.",
+        "Refinanciar cambia el calendario o las condiciones de la deuda. No genera por sí solo ventas, productividad ni caja operativa. Confundir financiamiento con recuperación económica oculta la inviabilidad."
+      ]
+    },
+    {
+      "id": "c34-q050",
+      "tema": "Rescate y relaciones duraderas",
+      "dificultad": "avanzada",
+      "pregunta": "Una firma del grupo sufre una crisis transitoria y el banco principal coordina una reestructuración, cambia la gerencia y aporta fondos. Espera conservar al cliente cuando se recupere. ¿Cuál es la interpretación más equilibrada?",
+      "opciones": [
+        "Puede preservar inversiones valiosas, pero debe distinguirse de sostener pérdidas permanentes para proteger relaciones.",
+        "Todo rescate dentro de un grupo es una construcción de túneles.",
+        "El beneficio futuro del banco garantiza que el rescate maximiza el valor total.",
+        "La reestructuración demuestra que el proyecto nunca tuvo riesgo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La coordinación puede reducir costos de dificultades financieras y evitar abandonar proyectos recuperables. La relación futura da al banco un incentivo para participar. Ese mismo vínculo exige vigilar que no se mantengan empresas sin viabilidad.",
+        "El apoyo intragrupo no implica necesariamente apropiación de minoritarios. Puede hacerse en condiciones justificadas y crear valor. Para identificar un túnel deben examinarse términos, precios y beneficiarios.",
+        "El interés del banco no coincide siempre con el de todos los afectados. Puede buscar recuperar préstamos o preservar negocios a costa de terceros. La evaluación debe considerar el valor económico y la distribución de riesgos.",
+        "La necesidad de reestructurar confirma que existen riesgos y problemas. Un proyecto recuperable puede atravesar una crisis. La intervención cambia su manejo, pero no prueba que el riesgo haya sido inexistente."
+      ]
+    },
+    {
+      "id": "c34-q051",
+      "tema": "Riesgo y cortoplacismo",
+      "dificultad": "avanzada",
+      "pregunta": "Un director sostiene que las empresas de bolsa siempre sacrifican el futuro, mientras que las vinculadas a bancos siempre invierten bien a largo plazo. ¿Cómo debería evaluarse esa afirmación?",
+      "opciones": [
+        "Como una identidad financiera que se cumple por definición.",
+        "Como prueba de que todo precio bursátil ignora los flujos futuros.",
+        "Como una razón para aceptar cualquier inversión sin importar su valor.",
+        "Como una generalización no demostrada: relaciones estables pueden ayudar, pero ningún sistema garantiza buenas decisiones de largo plazo."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La clasificación de un sistema no impone un horizonte óptimo por definición. Es una cuestión empírica e institucional. Convertir una hipótesis en identidad impide analizar evidencia contraria.",
+        "Un precio puede incorporar expectativas sobre flujos de muchos años. También puede contener errores o reaccionar a información incompleta. Ninguna de esas posibilidades demuestra que siempre ignore el futuro.",
+        "Invertir a largo plazo no equivale a crear valor. Una inversión prolongada puede rendir menos que su costo de oportunidad. El horizonte debe acompañar una evaluación económica y no reemplazarla.",
+        "El debate sobre cortoplacismo no permite una superioridad universal de la banca. Las experiencias comparadas cambian y los bancos también pueden sostener malas inversiones. Deben evaluarse incentivos, información y calidad de proyectos en cada caso."
+      ]
+    },
+    {
+      "id": "c34-q052",
+      "tema": "Riesgo e instituciones",
+      "dificultad": "intermedia",
+      "pregunta": "Las familias de un país concentran sus ahorros en depósitos garantizados y seguros de prestación fija. Un funcionario concluye que el riesgo de los negocios desapareció. ¿Qué corrección corresponde?",
+      "opciones": [
+        "La garantía de depósitos vuelve seguro todo activo comprado por los bancos.",
+        "El riesgo se traslada a intermediarios y, si las garantías se activan, puede recaer finalmente sobre la sociedad.",
+        "La baja tenencia directa de acciones prueba que las empresas no usan capital.",
+        "Sólo las familias con acciones directas pueden sufrir consecuencias económicas de una crisis."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La garantía protege una obligación del banco bajo ciertas reglas. No modifica automáticamente el riesgo de sus activos. Las pérdidas pueden agotar el capital y exigir recursos públicos.",
+        "Los préstamos y las acciones de las empresas siguen expuestos a resultados inciertos. Las instituciones absorben parte de ese riesgo frente a ahorristas con promesas fijas. Si no pueden cumplir y existe respaldo público, el costo puede pasar a contribuyentes u otros miembros de la sociedad.",
+        "El capital empresarial puede estar en manos de intermediarios y otras compañías. La cartera directa de las familias no agota las fuentes de fondos. Debe seguirse la cadena de propiedad y exposición.",
+        "Una crisis puede afectar crédito, impuestos, empleo y prestaciones. Esos canales alcanzan también a quienes no tienen acciones directas. La exposición bursátil es sólo una parte del riesgo económico."
+      ]
+    },
+    {
+      "id": "c34-q053",
+      "tema": "Suavización intergeneracional",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco estable retiene parte de los buenos resultados para compensar años malos y estabilizar pagos entre generaciones. Los ahorristas pueden mudarse sin costo a fondos que distribuyen todo el rendimiento actual. ¿Qué tensión aparece?",
+      "opciones": [
+        "La competencia obliga automáticamente a todas las generaciones a compartir riesgos por igual.",
+        "Retener reservas elimina cualquier pérdida futura de los activos.",
+        "La competencia puede dificultar acumular reservas porque quienes reciben buenos rendimientos prefieren cobrarlos completos.",
+        "La suavización demuestra que el banco carece de costo de capital."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La movilidad permite evitar el aporte a reservas comunes. No impone una distribución equitativa entre generaciones. La tensión surge precisamente de esa posibilidad de salida.",
+        "Las reservas absorben pérdidas hasta cierto límite. No vuelven seguros los préstamos ni aseguran protección ilimitada. La calidad y magnitud del riesgo de los activos siguen importando.",
+        "Compartir riesgo entre períodos requiere que en años favorables alguien acepte no recibir todo el resultado. Una alternativa que distribuye más hoy puede atraer a esos ahorristas. Por eso la competencia puede debilitar este mecanismo, aunque también tenga otros beneficios.",
+        "Retener utilidades no vuelve gratuitos los recursos. Los propietarios y ahorristas tienen oportunidades alternativas. La suavización describe una distribución temporal del riesgo, no la desaparición de su costo."
+      ]
+    },
+    {
+      "id": "c34-q054",
+      "tema": "Transparencia y disciplina del mercado",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa oculta pasivos mediante entidades de propósito especial que deberían incorporarse a sus cuentas. Sus acciones siguen caras. ¿Qué enseñanza ilustra el mecanismo asociado a Enron?",
+      "opciones": [
+        "La opacidad puede retrasar la caída del precio y la disciplina de analistas, acreedores y posibles compradores.",
+        "Un precio alto demuestra que no existen pasivos omitidos.",
+        "Crear una entidad separada permite excluir cualquier deuda sin considerar los requisitos contables.",
+        "La revelación sólo importa después de la quiebra."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El mercado necesita información para valorar riesgos y perspectivas. Si se ocultan obligaciones, el precio puede sostenerse sobre una imagen falsa y demorar acciones correctivas. La forma jurídica de una entidad no basta para justificar su exclusión contable.",
+        "El precio refleja la información y las expectativas disponibles. Puede estar equivocado si los datos relevantes se ocultan. No es una auditoría ni una garantía de solvencia.",
+        "La exclusión depende de condiciones económicas y contables. Una entidad separada no permite esconder automáticamente obligaciones. Debe analizarse qué riesgos conserva realmente la empresa.",
+        "La información oportuna permite reaccionar antes del incumplimiento. Puede activar vigilancia, cambios de gestión o una adquisición. Revelar sólo al final reduce la posibilidad de corregir problemas."
+      ]
+    },
+    {
+      "id": "c34-q055",
+      "tema": "Coberturas y acciones propias",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa anuncia una cobertura realizada con una entidad cuyo respaldo depende principalmente de acciones de la propia empresa. ¿Qué riesgo recuerda este diseño del caso Enron?",
+      "opciones": [
+        "Las acciones propias siempre tienen valor fijo y garantizan cualquier obligación.",
+        "La existencia de una contraparte elimina la necesidad de analizar su solvencia.",
+        "Una cobertura vuelve imposible que aparezcan pérdidas en el negocio cubierto.",
+        "Si cae la acción, puede debilitarse el respaldo de la cobertura justo cuando la empresa está en dificultades."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las acciones fluctúan y pueden perder gran parte de su valor. Usarlas como garantía introduce riesgo ligado a su emisor. No constituyen un respaldo de valor fijo.",
+        "Un contrato sólo protege si la contraparte puede cumplir. Analizar garantías y correlaciones es parte de evaluar esa capacidad. La separación formal no asegura independencia económica.",
+        "Una cobertura puede compensar ciertos riesgos si funciona según lo previsto. No elimina todos los riesgos operativos ni los de contraparte. Afirmar imposibilidad de pérdidas excede cualquier protección razonable.",
+        "El respaldo depende de la misma empresa que busca protección. Una caída de su valor puede deteriorar simultáneamente su situación y la capacidad de la contraparte para cumplir. Debe evaluarse la calidad económica de la cobertura y no sólo su existencia contractual."
+      ]
+    },
+    {
+      "id": "c34-q056",
+      "tema": "Fraude y límites de los sistemas",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa industrial declara grandes depósitos inexistentes y minimiza sus deudas, aunque opera en una economía con banca relevante. ¿Qué conclusión, coherente con Parmalat, corresponde?",
+      "opciones": [
+        "Un sistema bancario hace imposible falsificar activos.",
+        "Las relaciones bancarias pueden facilitar vigilancia, pero no garantizan detectar todo fraude ni evitan todo desastre.",
+        "La existencia de efectivo informado basta para ignorar el monto de deuda.",
+        "El fraude demuestra que todos los sistemas de mercado son siempre superiores."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ninguna organización elimina automáticamente la posibilidad de engaño. La documentación y los saldos deben verificarse. La relación bancaria es un mecanismo de control, no una garantía absoluta.",
+        "Los bancos pueden contar con información privada y vínculos duraderos. Esa ventaja no asegura una supervisión perfecta frente a falsificaciones y ocultamiento. El caso exige verificar activos, obligaciones y controles sin atribuir infalibilidad a una estructura financiera.",
+        "La liquidez declarada debe existir y estar disponible. Además, las obligaciones pueden ser mucho mayores que lo informado. Ignorar la deuda sobre la base de un saldo no verificado puede ocultar insolvencia.",
+        "Un desastre individual no establece una clasificación universal de sistemas. Los mercados también han sufrido fallas graves de transparencia. La comparación requiere analizar mecanismos y límites de ambos."
+      ]
+    },
+    {
+      "id": "c34-q057",
+      "tema": "Conglomerados, escala y política",
+      "dificultad": "intermedia",
+      "pregunta": "Una familia controla un grupo diversificado en una economía pequeña, cerrada y con crédito sujeto a decisiones oficiales. ¿Qué explicación puede justificar parte de esa estructura sin probar su eficiencia?",
+      "opciones": [
+        "El tamaño asegura que nunca habrá abuso contra los minoritarios.",
+        "La influencia política prueba que cada inversión tiene VAN positivo.",
+        "Expandirse a varios sectores puede aumentar escala, acceso internacional y poder de negociación política.",
+        "Una economía pequeña permite crecimiento ilimitado dentro de cualquier único sector."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El tamaño puede concentrar poder y aumentar conflictos. La protección de minoritarios depende de reglas, incentivos y cumplimiento. No puede deducirse del volumen del grupo.",
+        "Un acceso preferente al crédito no demuestra rentabilidad económica. Puede sostener proyectos eficientes o subsidiar decisiones deficientes. Debe distinguirse ventaja política de creación de valor total.",
+        "El mercado local puede limitar la escala de una empresa enfocada. Un grupo mayor puede acceder mejor a fondos internacionales y negociar en un entorno intervenido, como ilustra el análisis de los chaebols. Esas ventajas posibles no excluyen mala asignación o apropiación de recursos.",
+        "El supuesto de economía pequeña y cerrada restringe la demanda accesible. Esa limitación ayuda a explicar la diversificación sectorial. Negarla elimina una condición central del caso."
+      ]
+    },
+    {
+      "id": "c34-q058",
+      "tema": "Protección y estructuras de control",
+      "dificultad": "avanzada",
+      "pregunta": "Dos países permiten legalmente estructuras piramidales. En uno, los minoritarios confían en información y tribunales; en el otro temen desvíos y el mercado externo es débil. ¿Qué análisis es más adecuado?",
+      "opciones": [
+        "La necesidad de concentrar control y el costo de captar fondos pueden diferir; la ley que permite pirámides no explica por sí sola su frecuencia.",
+        "Las pirámides deben ser igual de frecuentes porque la autorización jurídica es idéntica.",
+        "Una empresa cotizada nunca puede formar parte de una pirámide.",
+        "Una protección fuerte implica prohibición universal de control familiar."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La estructura de control responde también al acceso a capital y a los incentivos de propietarios e inversores. La debilidad del mercado puede favorecer grupos y mercados internos de fondos. Por eso las diferencias internacionales no se explican sólo por una autorización formal compartida.",
+        "Confunde posibilidad jurídica con uso efectivo. Dos entornos pueden generar costos y beneficios muy distintos para la misma estructura. La confianza y el financiamiento disponible afectan la decisión.",
+        "Las empresas de una pirámide pueden cotizar y tener minoritarios. La cadena de bloques controladores convive con acciones en el mercado. Precisamente esa convivencia crea una brecha posible entre control y derechos económicos.",
+        "La protección limita abusos, no necesariamente la identidad del controlador. Una familia puede respetar a minoritarios y supervisar eficazmente. No hay equivalencia entre protección fuerte y prohibición de control familiar."
+      ]
+    },
+    {
+      "id": "c34-q059",
+      "tema": "Mecanismos de gobierno",
+      "dificultad": "intermedia",
+      "pregunta": "Tras detectar contratos desfavorables con empresas del director, el consejo debe proponer un paquete de controles. ¿Cuál combina mejor los mecanismos de gobierno analizados?",
+      "opciones": [
+        "Premiar al director sólo por aumentar el tamaño del grupo y eliminar la auditoría.",
+        "Sustituir todo control por la expectativa de que una adquisición será inmediata en cualquier país.",
+        "Mantener los contratos ocultos y pagar mayores bonos para evitar preguntas.",
+        "Aplicar reglas sobre conflictos, mejorar revelación, reforzar supervisión independiente y alinear remuneración con resultados."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El tamaño no equivale a creación de valor y puede incentivar expansión destructiva. Eliminar auditoría reduce la capacidad de detectar abusos. Deben vincularse incentivos con desempeño y conservar controles informativos.",
+        "Las adquisiciones no son igualmente frecuentes ni posibles en todas las estructuras. Bloques estables o participaciones cruzadas pueden dificultarlas. Su amenaza complementa otros controles y no los reemplaza por completo.",
+        "El ocultamiento impide evaluar los conflictos y retrasa la corrección. Pagar más sin condiciones no alinea necesariamente intereses. La remuneración necesita un diseño coherente con supervisión y transparencia.",
+        "Las normas reducen el margen para operar en beneficio propio y la información permite verificar su cumplimiento. La vigilancia del consejo y de intermediarios puede complementarlas. Las remuneraciones ligadas a resultados y la amenaza de adquisición son mecanismos adicionales, con eficacia dependiente del contexto."
+      ]
+    },
+    {
+      "id": "c34-q060",
+      "tema": "Discrecionalidad y capital humano",
+      "dificultad": "avanzada",
+      "pregunta": "Un grupo de accionistas propone aprobar previamente cada decisión operativa, incluso ante oportunidades imprevistas, para eliminar cualquier beneficio privado gerencial. ¿Cuál es la objeción más sólida?",
+      "opciones": [
+        "Toda libertad gerencial debe aceptarse aun si permite apropiarse de activos.",
+        "La intervención total es impracticable y puede desalentar la iniciativa y la inversión en capital humano, aunque los abusos deban controlarse.",
+        "El conocimiento de empleados y administradores puede contratarse perfectamente antes de comenzar.",
+        "La cotización en bolsa garantiza que ningún administrador tenga incentivos propios."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La discrecionalidad no equivale a permiso para desviar recursos. La protección jurídica y la vigilancia siguen siendo necesarias. El problema consiste en equilibrar capacidad de decisión e intereses de quienes aportan fondos.",
+        "Los inversores externos no conocen de antemano todas las decisiones necesarias. La gestión requiere margen de respuesta e incentivos para aportar esfuerzo y conocimientos. Un buen gobierno busca limitar la expropiación sin anular esas contribuciones ni prometer eliminar toda agencia.",
+        "El esfuerzo y las oportunidades futuras son difíciles de especificar por completo. Por eso no basta con un contrato exhaustivo previo. La incompletitud justifica incentivos y cierta libertad de gestión.",
+        "Cotizar no elimina los intereses personales ni la información privada. La dispersión puede incluso dificultar la intervención directa de accionistas. Son necesarios controles razonables y mecanismos de alineación."
+      ]
+    },
+    {
+      "id": "c34-q061",
+      "tema": "Poder gerencial y remuneración",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué conclusión evita un error al interpretar el poder de los directores generales japoneses en la comparación histórica?",
+      "opciones": [
+        "Una remuneración baja garantiza que no existen costos de agencia.",
+        "Todo director poderoso necesariamente recibe el mayor salario internacional.",
+        "El control interno fuerte puede coexistir con remuneraciones personales relativamente bajas y poca influencia externa.",
+        "La baja influencia externa demuestra que no hay accionistas ordinarios."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los costos de agencia no se limitan al sueldo. También incluyen decisiones que favorecen objetivos internos sobre el valor para accionistas. Un salario bajo no prueba alineación completa de intereses.",
+        "No existe una relación necesaria de ese tipo. Las prácticas institucionales y laborales influyen sobre la remuneración. Deben examinarse poder y pago por separado.",
+        "El poder para decidir y el salario personal son dimensiones distintas. La comparación japonesa muestra que un director puede dominar la gestión sin cobrar como sus pares extranjeros. Los conflictos también pueden aparecer en inversiones, dividendos o preservación del control.",
+        "Puede haber accionistas ordinarios con escasa capacidad efectiva de intervención. Las participaciones cruzadas y las nominaciones internas pueden reducir su influencia. Su existencia jurídica no garantiza control efectivo."
+      ]
+    },
+    {
+      "id": "c34-q062",
+      "tema": "Diversidad de derechos de voto",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo debe interpretarse la diversidad internacional de reglas sobre acciones de voto reforzado presentada para el período del capítulo?",
+      "opciones": [
+        "Su admisión varía entre países y puede combinarse con pirámides; no constituye una regla universal ni una descripción jurídica necesariamente actual.",
+        "Todo país con bolsa exige siempre un voto por acción sin excepciones.",
+        "Las pirámides y las clases de voto reforzado son mecanismos incompatibles.",
+        "Si existen dos clases, los accionistas de voto inferior pierden automáticamente todos sus dividendos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los derechos de voto dependen del diseño institucional y de las reglas de cada jurisdicción. La estructura de control puede combinar varios mecanismos, como ilustra el grupo Wallenberg. Una comparación histórica no debe convertirse en asesoramiento sobre legislación vigente.",
+        "El capítulo considera acciones con votos diferentes en diversas jurisdicciones. Tener un mercado accionario no exige uniformidad universal de votos. La estructura concreta debe comprobarse en sus términos y contexto.",
+        "Una misma cadena puede incluir sociedades con clases de acciones distintas. La pirámide transmite control entre niveles y las clases refuerzan votos dentro de uno de ellos. Sus efectos pueden acumularse.",
+        "Los derechos políticos y económicos son distintos. Una clase con menos votos puede conservar derechos a dividendos. No debe inferirse pérdida de ingresos sólo a partir de una desigualdad de voto."
+      ]
+    },
+    {
+      "id": "c34-q063",
+      "tema": "Acceso financiero y emprendimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Qué enseñanza común dejan una artesana dependiente de un intermediario y unos emprendedores capaces de reunir capital para buscar y comprar una empresa?",
+      "opciones": [
+        "La capacidad productiva basta siempre para financiar compras y crecimiento.",
+        "El financiamiento sólo sirve a grandes sociedades ya cotizadas.",
+        "Todo crédito recibido garantiza salir definitivamente de la pobreza.",
+        "El acceso a financiamiento puede permitir explotar oportunidades aun cuando los emprendedores no tengan suficiente riqueza inicial."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La productividad no elimina la necesidad de pagar insumos antes de cobrar ventas. Tampoco aporta automáticamente fondos para una adquisición. La restricción financiera puede impedir aprovechar capacidad existente.",
+        "Las pequeñas actividades y los nuevos empresarios también necesitan fondos. El mercado de capital privado puede financiar operaciones fuera de bolsa. El desarrollo financiero abarca más que grandes emisores cotizados.",
+        "El resultado depende de las condiciones del crédito y de la rentabilidad de la actividad. Una financiación cara o restrictiva puede perpetuar dependencia. Mejorar el acceso no equivale a garantizar un resultado individual.",
+        "Una buena oportunidad puede quedar restringida por falta de capital de trabajo o de fondos para adquirir activos. Los intermediarios y el capital privado pueden movilizar ahorro de terceros hacia ella. Esto ayuda a entender la relación entre desarrollo financiero y crecimiento."
+      ]
+    },
+    {
+      "id": "c34-q064",
+      "tema": "Diversificación según el entorno",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué el retroceso de conglomerados en Estados Unidos no demuestra que todo grupo diversificado de un país emergente deba desarmarse?",
+      "opciones": [
+        "Porque todos los conglomerados emergentes crean valor sin importar su gestión.",
+        "Porque el beneficio de un mercado interno depende de la calidad de las alternativas externas y de las restricciones locales.",
+        "Porque diversificar negocios garantiza un rendimiento superior al costo de capital.",
+        "Porque un inversor externo nunca puede diversificar comprando acciones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las ventajas institucionales son potenciales y no universales. Un grupo puede asignar mal capital o transferir recursos contra minoritarios. Debe evaluarse su funcionamiento efectivo.",
+        "En mercados desarrollados, los inversores pueden diversificar sus carteras sin que una empresa reúna negocios distintos. En otros entornos, la información, el financiamiento y la escala pueden hacer útil la coordinación interna. La evaluación debe comparar esos beneficios con ineficiencias y costos de agencia.",
+        "Reducir ciertos riesgos no asegura rentabilidad suficiente. Una cartera de negocios puede destruir valor si paga demasiado o mantiene actividades inviables. Diversificación y creación de valor son preguntas distintas.",
+        "Comprar títulos diversos es una forma habitual de diversificación financiera. Su atractivo depende de la profundidad del mercado y de la protección del inversor. El argumento de los grupos surge cuando esas alternativas son deficientes."
+      ]
+    },
+    {
+      "id": "c34-q065",
+      "tema": "Límite histórico de participación bancaria",
+      "dificultad": "basica",
+      "pregunta": "Usá exclusivamente el límite histórico de 5% por compañía atribuido a un banco comercial japonés en el capítulo. Si una empresa emite 40 millones de acciones, ¿cuántas podría poseer ese banco bajo ese límite?",
+      "opciones": [
+        "8 millones.",
+        "20 millones.",
+        "2 millones.",
+        "0,2 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Ocho millones equivalen a 20% de 40 millones. Ese porcentaje excede el límite dado. El cálculo debe usar 5% y no una quinta parte.",
+        "Veinte millones representan la mitad de la empresa. Confunde 5% con 50%. La conversión decimal correcta es 0,05.",
+        "Se aplica el límite a las acciones de la compañía: 40 millones × 0,05 = 2 millones. El porcentaje se refiere a esa empresa y no al patrimonio del banco. Es un ejercicio sobre el supuesto histórico, sin afirmar que sea una regla vigente.",
+        "Ese resultado equivale a 0,5% del total. Introduce un decimal adicional al aplicar el porcentaje. Cinco por ciento de 40 millones es 2 millones."
+      ]
+    },
+    {
+      "id": "c34-q066",
+      "tema": "Concentración de activos controlados",
+      "dificultad": "intermedia",
+      "pregunta": "En una muestra de empresas cotizadas, los activos totales suman 2.000. Las empresas controladas por las diez principales familias tienen activos por 900. ¿Qué indica correctamente esta información?",
+      "opciones": [
+        "Esas familias controlan empresas con 45% de los activos de la muestra, sin que eso mida su riqueza económica personal.",
+        "Las familias son dueñas económicas directas del 45% de todos los activos del país.",
+        "Las familias controlan exactamente 45% del número de empresas de la muestra.",
+        "El 45% de los activos es necesariamente efectivo distribuible a las familias."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El indicador es 900 / 2.000 = 45%. Su denominador son los activos de la muestra, no todos los activos nacionales. Controlar una empresa no equivale a poseer personalmente el total de sus activos ni toda su participación económica.",
+        "Amplía indebidamente el universo de la muestra a todo el país. Además, confunde control con propiedad económica directa. Las empresas pueden tener deuda y accionistas minoritarios.",
+        "La proporción de activos no determina la proporción de compañías. Pocas empresas grandes pueden concentrar muchos activos. Hace falta contar firmas para medir esa otra dimensión.",
+        "Los activos incluyen instalaciones, créditos y otros bienes además de efectivo. Tampoco pertenecen íntegramente a los controladores como riqueza distribuible. Se necesita analizar pasivos y derechos económicos."
+      ]
+    },
+    {
+      "id": "c34-q067",
+      "tema": "Control con participaciones minoritarias",
+      "dificultad": "avanzada",
+      "pregunta": "Suponé que 30% basta para controlar cada sociedad por la dispersión del resto. Una familia posee 30% de A, A posee 30% de B y B posee 30% de O. Sin otras rutas y con derechos económicos proporcionales, ¿qué fracción económica de O tiene la familia?",
+      "opciones": [
+        "30%, porque controla todos los niveles.",
+        "90%, porque se suman los tres bloques.",
+        "9%, porque sólo se multiplican dos participaciones.",
+        "2,7%, aunque puede ejercer control a través de la cadena."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Confunde el umbral de control de cada sociedad con la exposición económica final. La familia no posee el 100% de A ni A el 100% de B. Deben multiplicarse los tres porcentajes.",
+        "Los tres porcentajes tienen bases distintas. Sumarlos no calcula el derecho económico sobre O. La cadena requiere un producto de fracciones.",
+        "Ese cálculo omite uno de los tres eslabones. La propiedad familiar de A también reduce el flujo final que le corresponde. Incluirla lleva de 9% a 2,7%.",
+        "El interés económico indirecto es 0,30 × 0,30 × 0,30 = 0,027. Eso equivale a 2,7% de los flujos de O bajo los supuestos. El control se transmite por cada eslabón, pero no transforma las participaciones minoritarias en propiedad total."
+      ]
+    },
+    {
+      "id": "c34-q068",
+      "tema": "Globalización y gobierno corporativo",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa industrial alemana, como en la trayectoria histórica de Daimler, busca fondos internacionales, cotiza en Nueva York y presenta estados bajo normas exigidas allí. ¿Qué interpretación resulta más fundada?",
+      "opciones": [
+        "La cotización extranjera extingue automáticamente toda participación bancaria.",
+        "El acceso a otros mercados puede aumentar exigencias de información y presión accionaria sin borrar de inmediato todos los bloques de control.",
+        "La presentación de nuevos estados garantiza el éxito de cualquier fusión posterior.",
+        "El origen nacional de una empresa impide modificar sus prácticas de financiamiento."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un listado no transfiere por sí solo las acciones existentes. Los bancos deben vender o modificar efectivamente sus participaciones para reducirlas. Acceso internacional y cambio de propiedad son procesos relacionados, pero distintos.",
+        "Los mercados internacionales pueden exigir información comparable y compromisos con inversores externos. La estructura de propiedad también puede evolucionar, aunque no necesariamente se atomice de inmediato. Cambiar prácticas de gobierno no garantiza que una adquisición produzca sus beneficios esperados.",
+        "La información mejora la evaluación y la vigilancia, no la integración de negocios por sí sola. Una fusión puede fracasar por razones estratégicas u operativas. No existe garantía derivada de la norma contable.",
+        "Las empresas pueden emitir en otros países y adoptar nuevas exigencias de información. Las instituciones nacionales influyen, pero no inmovilizan toda decisión. La globalización es justamente un canal de cambio considerado."
+      ]
+    },
+    {
+      "id": "c34-q069",
+      "tema": "Innovación y sobreinversión",
+      "dificultad": "intermedia",
+      "pregunta": "Durante un auge tecnológico, una bolsa permite financiar numerosos proyectos nuevos, pero luego muchos fracasan y se revelan expectativas exageradas. ¿Qué conclusión es consistente con la comparación entre sistemas?",
+      "opciones": [
+        "Los fracasos prueban que nunca debe financiarse una industria nueva.",
+        "La financiación por mercado asegura que cada precio coincide siempre con el valor real.",
+        "La capacidad de financiar innovación puede coexistir con sobreinversión y errores de valoración.",
+        "Las pérdidas demuestran que los bancos habrían evitado cualquier error."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La innovación es incierta y algunos proyectos fracasan aun con evaluación razonable. El fracaso no implica que toda financiación inicial carezca de sentido. Deben valorarse probabilidades, retornos y costos antes de invertir.",
+        "El precio depende de información y expectativas que pueden equivocarse. La disciplina del mercado necesita datos confiables y puede operar tarde. No hay una identidad automática entre precio y valor económico verdadero.",
+        "Los mercados pueden reunir capital para ideas muy distintas y favorecer nuevas industrias. Esa apertura también permite financiar modas y expectativas demasiado optimistas, como ocurrió en telecomunicaciones e internet. Una ventaja de asignación potencial no elimina errores ni necesidad de transparencia.",
+        "Los bancos también pueden evaluar mal o sostener proyectos inviables. Un resultado negativo en un canal no prueba infalibilidad del otro. La comparación requiere reconocer las fallas posibles de ambos."
+      ]
+    },
+    {
+      "id": "c34-q070",
+      "tema": "Autorización y revelación",
+      "dificultad": "intermedia",
+      "pregunta": "Compará dos entornos hipotéticos: en uno se exige permiso discrecional para emitir acciones; en otro, el regulador controla la información pero no decide si el negocio merece financiamiento. ¿Cuál es la diferencia relevante?",
+      "opciones": [
+        "El primero puede restringir el acceso por autorización; el segundo centra la protección en que el inversor tenga información adecuada.",
+        "Ambos garantizan que todo título autorizado será rentable.",
+        "El segundo permite omitir riesgos porque no juzga el mérito del negocio.",
+        "El primero asegura que nunca serán necesarios mercados internos de capital."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La aprobación discrecional puede convertirse en una restricción al financiamiento externo. Un régimen centrado en revelación deja la evaluación económica a los inversores con información suficiente. Esta distinción ayuda a entender por qué regulaciones e información afectan el atractivo de los mercados internos de los grupos.",
+        "La autorización o el cumplimiento informativo no garantizan rendimientos. El proyecto conserva riesgos operativos y de mercado. Protección del inversor no significa seguro contra pérdidas empresariales.",
+        "No juzgar el mérito de la inversión no elimina la obligación de informar. Los riesgos son precisamente relevantes para que el inversor decida. Confundir ambas funciones debilita la protección basada en transparencia.",
+        "Una aprobación oficial no asegura acceso eficiente ni asignación óptima de fondos. Puede incluso generar barreras que favorezcan grupos con recursos propios. La necesidad de un mercado interno depende del conjunto de restricciones externas."
+      ]
+    }
+  ]
+}

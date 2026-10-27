@@ -1331,6 +1331,120 @@
         "La contribución a la prima es sensibilidad multiplicada por prima factorial. Si esta última es cero, el aporte esperado es cero aunque el factor genere variación de rendimientos. La relación de valoración puede ser válida y aun así resultar poco útil si las exposiciones no se pueden estimar de forma estable.",
         "La ausencia de arbitraje restringe relaciones de precios y rendimientos para exposiciones dadas. No obliga a que las empresas mantengan siempre el mismo negocio o sensibilidad. Una aplicación práctica debe revisar cambios de parámetros."
       ]
+    },
+    {
+      "id": "c09-q071",
+      "tema": "Frontera eficiente y dominancia",
+      "dificultad": "basica",
+      "pregunta": "¿Qué condición define una cartera eficiente dentro de un conjunto de inversiones y restricciones dado?",
+      "opciones": [
+        "Tener más acciones que cualquier otra cartera.",
+        "Ofrecer la mayor media posible para su desviación y la menor desviación posible para su media.",
+        "Tener la mayor rentabilidad realizada durante el último mes.",
+        "Estar formada exclusivamente por acciones que individualmente tengan baja volatilidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La cantidad de títulos no basta para definir eficiencia. Una cartera numerosa puede estar dominada por otra con mejor combinación de media y riesgo. Deben evaluarse las ponderaciones y los movimientos conjuntos.",
+        "La eficiencia compara oportunidades factibles según media y desviación. No debe existir otra cartera que mejore una dimensión sin empeorar la otra. Por eso los puntos interiores dominados quedan fuera de la frontera eficiente.",
+        "Un buen resultado pasado es una realización y puede deberse a una sorpresa favorable. La eficiencia se define usando rendimientos esperados y riesgos de las alternativas. Ganar más un mes no demuestra una combinación eficiente hacia adelante.",
+        "Seleccionar únicamente bajas volatilidades ignora las covarianzas. Una acción más volátil puede reducir el riesgo del conjunto si aporta diversificación. La eficiencia corresponde a la cartera completa y a las restricciones disponibles."
+      ]
+    },
+    {
+      "id": "c09-q072",
+      "tema": "Varianza con covarianza positiva",
+      "dificultad": "intermedia",
+      "pregunta": "Una cartera coloca 50% en A y 50% en B. Ambas acciones tienen desviación de 20% y la correlación entre sus rendimientos es 0,5. ¿Cuál es la desviación de la cartera?",
+      "opciones": [
+        "20%.",
+        "14,14%, aproximadamente.",
+        "3%.",
+        "17,32%, aproximadamente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El 20% sería correcto con correlación positiva perfecta. Una correlación de 0,5 permite que parte de las fluctuaciones se compense. La varianza conjunta es 0,03 y su raíz es aproximadamente 17,32%.",
+        "El 14,14% corresponde a omitir la covarianza. Ese cálculo supone correlación cero y exagera el beneficio de diversificación en este caso. Debe agregarse el término cruzado de 0,01 a la varianza de 0,02.",
+        "El 0,03 es la varianza cuando los rendimientos se expresan como decimales. Una varianza no se convierte en desviación leyendo su valor como porcentaje. Primero se extrae la raíz cuadrada, que da aproximadamente 0,1732.",
+        "La varianza es 0,5²×0,20²+0,5²×0,20²+2×0,5×0,5×0,5×0,20×0,20=0,03. La raíz cuadrada de 0,03 es aproximadamente 0,1732. La desviación queda en 17,32%, entre el caso de correlación cero y el de correlación perfecta positiva."
+      ]
+    },
+    {
+      "id": "c09-q073",
+      "tema": "Dominancia individual y valoración",
+      "dificultad": "avanzada",
+      "pregunta": "Una directora observa que A ofrece menor rendimiento esperado y mayor desviación individual que B. Sin conocer sus betas ni cómo covarían con las demás inversiones, ¿puede concluir que A está sobrevaluada?",
+      "opciones": [
+        "No; A puede aportar una cobertura que su desviación individual no muestra.",
+        "Sí; cualquier dominancia individual demuestra un precio incorrecto para todos los inversores.",
+        "Sí; la desviación individual determina por sí sola el rendimiento requerido en CAPM.",
+        "No; los precios nunca pueden estar desajustados respecto de los riesgos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Para un inversor diversificado importa el aporte de A al riesgo conjunto. Una acción con alta desviación puede tener baja exposición sistemática o compensar otras posiciones. Sin betas y covarianzas, la comparación individual no alcanza para diagnosticar sobrevaluación.",
+        "La dominancia entre inversiones aisladas no implica dominancia dentro de todas las carteras. Incorporar A puede aportar diversificación que B no ofrece. Debe compararse el rendimiento con el riesgo relevante para la cartera.",
+        "CAPM remunera beta de mercado y no toda la desviación individual. Parte de esa desviación puede ser específica y diversificable. Usarla como único criterio puede confundir una acción volátil con una de alto rendimiento requerido.",
+        "Los modelos permiten identificar posibles desajustes frente a pronósticos y riesgos estimados. El problema aquí es la información insuficiente para hacerlo. No se deduce que todos los precios sean necesariamente correctos."
+      ]
+    },
+    {
+      "id": "c09-q074",
+      "tema": "Réplica de un factor con letras",
+      "dificultad": "avanzada",
+      "pregunta": "A es una cartera diversificada expuesta solo al factor 1, con sensibilidad 2 y rendimiento esperado de 12%. Las letras rinden 4%. ¿Qué combinación replica una sensibilidad de 0,5 y qué rendimiento debe ofrecer bajo ausencia de arbitraje?",
+      "opciones": [
+        "50% en A y 50% en letras; 8%.",
+        "25% en A y 75% en letras; 2%.",
+        "25% en A y 75% en letras; 6%.",
+        "75% en A y 25% en letras; 10%."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Colocar la mitad en A produce sensibilidad 0,5×2=1. La expectativa de 8% corresponde a esos pesos, pero la exposición duplica el objetivo. Para llegar a 0,5 alcanza invertir un cuarto en A.",
+        "Los pesos propuestos sí producen la exposición buscada. El 2% es solamente la prima, igual a un cuarto de la prima de A de ocho puntos. Debe agregarse la tasa libre de riesgo de 4% para obtener 6%.",
+        "Las letras no tienen exposición factorial y el peso w debe cumplir 2w=0,5. Así, w=0,25 y la media es 0,25×12%+0,75×4%=6%. Otra cartera diversificada con las mismas exposiciones y riesgo residual despreciable debe ofrecer ese rendimiento en la idealización sin arbitraje.",
+        "Estos pesos generan sensibilidad 0,75×2=1,5. Aunque su rendimiento esperado es efectivamente 10%, no replica la exposición requerida. La réplica debe igualar riesgos antes de comparar rendimientos."
+      ]
+    },
+    {
+      "id": "c09-q075",
+      "tema": "Evaluación mediante Sharpe",
+      "dificultad": "intermedia",
+      "pregunta": "Dos fondos diversificados se evalúan como única inversión riesgosa combinable con letras al 4%. A ofrece 12% esperado y desviación de 20%; B ofrece 10% y desviación de 12%. Sin costos y con préstamos y deuda a la misma tasa, ¿cuál ofrece mejor rendimiento esperado por unidad de riesgo total?",
+      "opciones": [
+        "A, porque su rendimiento esperado total es mayor.",
+        "B, porque su Sharpe es 0,50 frente a 0,40 de A.",
+        "A, porque 12/20 supera a 10/12.",
+        "Ambos, porque tener carteras diversificadas iguala sus razones de Sharpe."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La media mayor de A viene acompañada de más riesgo. Para comparar oportunidades escalables debe restarse la tasa libre de riesgo y dividir por desviación. A ofrece 8/20=0,40 y B ofrece 6/12=0,50.",
+        "B tiene prima de seis puntos y desviación de doce puntos, por lo que su Sharpe es 0,50. A tiene prima de ocho puntos y desviación de veinte puntos, con Sharpe de 0,40. Dentro de estas alternativas, combinar B con letras o deuda permite más expectativa para un mismo riesgo.",
+        "La comparación usa rendimientos totales y omite el interés disponible sin riesgo. Además, 12/20=0,60 es menor que 10/12, aproximadamente 0,83. El criterio pertinente usa primas y favorece a B.",
+        "Diversificar reduce el componente específico, pero no obliga a igualar toda relación entre media y riesgo. Los fondos pueden conservar exposiciones y expectativas distintas. Hay que calcular sus primas por unidad de desviación."
+      ]
+    },
+    {
+      "id": "c09-q076",
+      "tema": "Beta como pendiente de regresión",
+      "dificultad": "intermedia",
+      "pregunta": "Una analista estima beta con una regresión de rendimientos mensuales de una acción sobre rendimientos mensuales del mercado. ¿Qué interpretación corresponde al coeficiente de pendiente obtenido?",
+      "opciones": [
+        "Es el promedio de los rendimientos mensuales de la acción.",
+        "Es su desviación estándar anual y se multiplica necesariamente por doce.",
+        "Es la probabilidad de que la acción pierda dinero el mes siguiente.",
+        "Es la variación estimada del rendimiento de la acción por cada punto de variación del mercado."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La media de los rendimientos es una medida de nivel, no de sensibilidad. La pendiente usa la covariación de la acción con el mercado. Se obtiene como covarianza dividida por varianza del mercado.",
+        "La pendiente beta no es una desviación estándar. Cuando ambos rendimientos usan el mismo intervalo, beta es una razón de sensibilidad sin unidades de tiempo. No se anualiza multiplicándola por doce.",
+        "Una probabilidad exige especificar una distribución y un evento. La beta describe una relación lineal estimada entre rendimientos. No proporciona por sí sola la probabilidad de una pérdida futura.",
+        "La pendiente estima cuánto cambia el rendimiento asociado a un punto adicional de rendimiento del mercado. Se calcula como Cov(rᵢ,rₘ)/Var(rₘ), usando observaciones de períodos comparables. Las sorpresas específicas generan desvíos alrededor de la recta, por lo que beta no es una predicción exacta de cada mes."
+      ]
     }
   ]
 }

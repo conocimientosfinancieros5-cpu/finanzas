@@ -1,0 +1,1526 @@
+{
+  "capitulo": 33,
+  "titulo": "La reestructuración corporativa",
+  "preguntas": [
+    {
+      "id": "c33-q001",
+      "tema": "Características de una CAP",
+      "dificultad": "basica",
+      "pregunta": "¿Qué combinación caracteriza a una compra apalancada (CAP)?",
+      "opciones": [
+        "Distribución gratuita de acciones de una subsidiaria a los accionistas.",
+        "Financiamiento exclusivo con acciones y mantenimiento de la cotización.",
+        "Venta de activos sin cambio de propietarios ni deuda.",
+        "Financiamiento mayormente con deuda y retiro de las acciones de la negociación pública."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La entrega de acciones de una subsidiaria a los accionistas caracteriza una escisión. Esa distribución no exige financiar una compra con deuda. Una CAP implica adquisición y propiedad privada.",
+        "Esta descripción elimina los dos rasgos distintivos de la CAP. Una adquisición financiada con acciones puede ser una operación ordinaria. La CAP combina endeudamiento elevado con propiedad privada.",
+        "Una venta de activos puede acompañar una CAP, pero no la define. La CAP supone adquirir el negocio con una proporción importante de deuda. También cambia la forma de propiedad de la empresa adquirida.",
+        "La adquisición se financia en gran medida con deuda. Luego, la empresa queda en manos de inversores privados y sus acciones dejan de negociarse públicamente. Parte de esa deuda puede tener una calificación inferior al grado de inversión."
+      ]
+    },
+    {
+      "id": "c33-q002",
+      "tema": "Compra por la administración",
+      "dificultad": "basica",
+      "pregunta": "La gerencia de una división encabeza un grupo que la compra con deuda y capital propio. ¿Cómo se clasifica la operación?",
+      "opciones": [
+        "Escisión proporcional.",
+        "Compra apalancada por la administración (CAPA).",
+        "Privatización estatal.",
+        "Separación mediante oferta pública."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Una escisión distribuye las acciones del negocio separado entre los accionistas de la matriz. Aquí existe una compra encabezada por la gerencia. La identidad del comprador permite clasificarla como CAPA.",
+        "La CAPA es una compra apalancada liderada por los administradores existentes. La deuda financia una parte sustancial de la adquisición. La participación patrimonial de los gerentes refuerza sus incentivos para mejorar el negocio.",
+        "La privatización estatal exige que el vendedor sea el Estado. El caso describe una división y a sus administradores, sin propiedad estatal. Lo distintivo es que la gerencia lidera la compra apalancada.",
+        "En una separación se venden acciones al público mediante una oferta. Aquí la gerencia organiza la adquisición del negocio. No se describe una colocación pública de acciones de la división."
+      ]
+    },
+    {
+      "id": "c33-q003",
+      "tema": "Selección de objetivos para CAP",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo compara cuatro objetivos. ¿Cuál presenta, en principio, mejores condiciones para soportar una CAP?",
+      "opciones": [
+        "Una empresa preoperativa con ingresos inciertos y fuerte investigación pendiente.",
+        "Una firma cíclica sin liquidez y con inversiones obligatorias muy grandes.",
+        "Un negocio maduro con flujos relativamente estables y activos prescindibles.",
+        "Una empresa cuyo único ingreso depende de ganar un juicio remoto."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La deuda exige pagos aun cuando el proyecto todavía no produzca ingresos. Una empresa preoperativa puede necesitar capital paciente para financiar investigación. Su incertidumbre dificulta sostener el apalancamiento de una CAP.",
+        "La combinación de volatilidad, falta de liquidez e inversión obligatoria reduce la capacidad de servicio de la deuda. El apalancamiento agrega compromisos fijos a un negocio frágil. Una CAP suele requerir flujos disponibles más previsibles.",
+        "Los flujos estables permiten atender intereses y amortizaciones. Los activos prescindibles pueden venderse para reducir deuda sin destruir el negocio central. Estas condiciones favorecen la operación, aunque no eliminan el riesgo de pagar demasiado.",
+        "Una expectativa judicial remota no ofrece efectivo operativo previsible. La obligación de pagar deuda no espera a que se resuelva el litigio. El objetivo necesita capacidad de generación de caja más sólida."
+      ]
+    },
+    {
+      "id": "c33-q004",
+      "tema": "Financiamiento inicial de una CAP",
+      "dificultad": "basica",
+      "pregunta": "Una compra cuesta $800 millones, sin gastos de transacción. Se financia con $600 millones de deuda y el resto con capital propio. ¿Cuál es el aporte de capital y qué porcentaje del precio representa la deuda?",
+      "opciones": [
+        "$200 millones y 25%.",
+        "$200 millones y 75%.",
+        "$200 millones y 80%.",
+        "$600 millones y 75%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El aporte de capital sí es 800 menos 600, es decir, 200. Pero 25% corresponde al capital propio sobre el precio. La deuda representa 600/800 = 75%.",
+        "El capital requerido es 800−600 = 200 millones. La deuda financia 600/800 = 0,75 del precio. El caso ilustra una adquisición con predominio de financiamiento ajeno.",
+        "La resta para calcular el capital es correcta. El porcentaje debe usar el precio total de 800 como denominador. Por eso la deuda es 75%, no 80%.",
+        "Los 600 millones son el financiamiento ajeno, no el aporte de los propietarios. El capital cubre la diferencia entre precio y deuda. La proporción de deuda de 75% es correcta, pero el aporte indicado no lo es."
+      ]
+    },
+    {
+      "id": "c33-q005",
+      "tema": "Prima de adquisición",
+      "dificultad": "basica",
+      "pregunta": "Una acción cotizaba a $40 antes de una oferta de compra de $54 en efectivo. ¿Cuál es la prima sobre el precio previo?",
+      "opciones": [
+        "25,93%.",
+        "35%.",
+        "14%.",
+        "135%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El 25,93% surge aproximadamente de dividir 14 por 54. Ese denominador mide la diferencia respecto del precio final. La prima de adquisición utiliza el precio anterior de 40.",
+        "La ganancia por acción es 54−40 = 14. La prima se mide respecto del precio previo, por lo que es 14/40 = 35%. El precio ofrecido equivale a 135% del precio inicial, pero la prima es solo el incremento.",
+        "La diferencia de 14 es un importe monetario por acción. Para expresarla como porcentaje hay que dividirla por la cotización previa. Ese cociente es 35%.",
+        "El 135% es el precio final como proporción del inicial. La prima excluye el 100% que ya valía la acción. Por eso el aumento relevante es 35%."
+      ]
+    },
+    {
+      "id": "c33-q006",
+      "tema": "Ofertas mixtas y pago en especie",
+      "dificultad": "intermedia",
+      "pregunta": "En una puja similar a la de RJR, un oferente propone $70 en efectivo y títulos valuados razonablemente en $25. Otro anuncia $100, pero $40 corresponden a títulos cuyo valor razonable es solo $20. ¿Qué oferta vale más por acción?",
+      "opciones": [
+        "La segunda, porque anuncia $100.",
+        "La segunda: $100 frente a $70.",
+        "Ambas: $100 porque los títulos valen su importe anunciado.",
+        "La primera: $95 frente a $80."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El total anunciado no reemplaza la valuación de los instrumentos entregados. En la segunda propuesta hay 60 en efectivo y títulos que valen 20. Su valor económico es 80, inferior a 95.",
+        "Esta comparación ignora los títulos de la primera oferta y sobrevalora los de la segunda. El efectivo no es el único componente con valor. Hay que sumar cada instrumento a su valor razonable.",
+        "Los títulos no necesariamente valen lo que afirma el oferente. Su riesgo, sus derechos y sus flujos determinan el valor económico. Con las valuaciones dadas, las ofertas valen 95 y 80.",
+        "La primera vale 70 + 25 = 95 por acción. La segunda contiene 100−40 = 60 en efectivo, más títulos cuyo valor es 20. Comparar valores razonables evita aceptar una oferta nominalmente mayor pero económicamente inferior."
+      ]
+    },
+    {
+      "id": "c33-q007",
+      "tema": "Preferentes con pago en especie",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa emite $100 millones de preferentes con dividendo anual de 10%, pagadero íntegramente con nuevas preferentes al mismo valor de emisión. Sin rescates, ¿cuál será el saldo tras dos años?",
+      "opciones": [
+        "$100 millones.",
+        "$121 millones.",
+        "$120 millones.",
+        "$110 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "No hay salida de efectivo, pero sí emisión de nuevos títulos. El saldo aumenta por los dividendos pagados en especie. No pagar efectivo no significa que la obligación económica desaparezca.",
+        "El primer año el saldo sube de 100 a 110. El segundo dividendo es 10% de 110, es decir, 11. El total es 121, aunque no se haya utilizado efectivo para esos dividendos.",
+        "El resultado de 120 suma dos dividendos de 10 sobre el saldo inicial. En el segundo año también devengan dividendo las preferentes emitidas el primero. Hay capitalización, por lo que el saldo llega a 121.",
+        "El saldo de 110 corresponde solo al cierre del primer año. Falta incorporar el dividendo del segundo período. Al calcularlo sobre 110, se agregan otros 11."
+      ]
+    },
+    {
+      "id": "c33-q008",
+      "tema": "Bonistas y redistribución de riqueza",
+      "dificultad": "intermedia",
+      "pregunta": "Una CAP aumenta en $180 millones la riqueza de los accionistas vendedores y reduce en $30 millones el valor de los bonos existentes. Ignorando impuestos y otros participantes, ¿cuánto aumenta la riqueza conjunta?",
+      "opciones": [
+        "$210 millones.",
+        "$180 millones.",
+        "$150 millones.",
+        "$30 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Sumar la pérdida como si fuera una ganancia invierte su signo. Los bonistas pierden 30 mientras los accionistas ganan 180. El cambio conjunto es la suma algebraica, 150.",
+        "Los 180 reflejan solo a los accionistas. La evaluación conjunta también incluye el deterioro de los bonos existentes. Parte de la ganancia accionaria puede ser transferencia desde los acreedores.",
+        "El cambio conjunto es 180−30 = 150 millones. La pérdida de los bonistas explica una parte de la ganancia de los accionistas como transferencia. El resto no puede atribuirse a esa transferencia bajo los supuestos del ejercicio.",
+        "Los 30 corresponden a la pérdida de los bonistas, no al efecto total. Debe combinarse esa pérdida con la ganancia accionaria de 180. La riqueza conjunta aumenta 150 bajo los supuestos indicados."
+      ]
+    },
+    {
+      "id": "c33-q009",
+      "tema": "Escudo fiscal de intereses",
+      "dificultad": "intermedia",
+      "pregunta": "Una CAP mantiene durante el próximo año una deuda de $400 millones al 8%. Con tasa de impuesto corporativo de 25% y utilidad gravable suficiente, ¿cuál es el ahorro fiscal anual por intereses?",
+      "opciones": [
+        "$100 millones.",
+        "$32 millones.",
+        "$8 millones.",
+        "$24 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 100 millones surgen de aplicar 25% al principal de la deuda. Lo deducible en el supuesto es el interés, no el dinero prestado. Primero deben calcularse los 32 millones de intereses.",
+        "Los 32 millones son el gasto de intereses antes del efecto fiscal. El Estado no devuelve todo ese gasto. El ahorro es la deducción multiplicada por la tasa impositiva, 8 millones.",
+        "Los intereses anuales son 400×0,08 = 32 millones. Su deducción reduce impuestos en 32×0,25 = 8 millones. Este cálculo supone que la deducción puede aprovecharse íntegramente ese año.",
+        "Los 24 millones son el costo de intereses después de impuestos: 32×8. La pregunta pide el ahorro fiscal, no el costo neto. Ese ahorro asciende a 8 millones."
+      ]
+    },
+    {
+      "id": "c33-q010",
+      "tema": "Fuentes de valor de una CAP",
+      "dificultad": "avanzada",
+      "pregunta": "Una adquisición produce una ganancia accionaria de $500 millones. El valor presente de los nuevos escudos fiscales es $120 millones y la pérdida de bonistas existentes es $40 millones. Si estas son las únicas transferencias identificadas, ¿qué parte de la ganancia requiere otras explicaciones?",
+      "opciones": [
+        "$380 millones.",
+        "$460 millones.",
+        "$340 millones.",
+        "$660 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 380 descuentan únicamente el escudo fiscal de la ganancia accionaria. Todavía falta considerar los 40 transferidos desde bonistas. Al descontar ambos componentes quedan 340.",
+        "Los 460 descuentan la pérdida de bonistas pero ignoran el escudo fiscal. El ejercicio exige considerar ambos componentes identificados. El residuo correcto es 500−120−40 = 340.",
+        "Los componentes identificados explican 120 + 40 = 160 millones. Restarlos de 500 deja 340 millones que requieren otras fuentes. Mejoras operativas o eliminación de gastos pueden contribuir, pero el residuo no prueba por sí solo una causa específica.",
+        "La suma de 660 agrega los componentes a una ganancia que ya los incluye. Se busca una descomposición, no un valor adicional acumulado. Por eso corresponde restarlos de los 500 millones."
+      ]
+    },
+    {
+      "id": "c33-q011",
+      "tema": "Resultado operativo y pérdida neta",
+      "dificultad": "intermedia",
+      "pregunta": "Después de una CAP, el resultado operativo sube de $80 a $100 millones, pero los intereses pasan de $20 a $130 millones. Sin impuestos ni otros rubros, ¿qué conclusión corresponde?",
+      "opciones": [
+        "La operación empeoró porque el resultado neto es negativo.",
+        "La empresa ganó $100 millones netos.",
+        "Los intereses no afectan el resultado neto.",
+        "La operación mejoró, aunque el resultado neto pasó de $60 a −$30 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una pérdida neta no demuestra por sí sola deterioro operativo. El resultado operativo aumentó 20 millones. La pérdida surge de una carga financiera que creció todavía más.",
+        "Los 100 millones se calculan antes de restar los intereses. El resultado neto del supuesto es 100−130 = −30. Confundir ambos niveles oculta el costo del apalancamiento.",
+        "Los intereses son un costo financiero que se resta para obtener el resultado neto. No forman parte del resultado operativo utilizado aquí. Su aumento explica que una operación más rentable termine con pérdida neta.",
+        "Antes de la CAP el resultado neto era 80−20 = 60. Después es 100−130 = −30, pese a la mejora operativa. El caso separa desempeño del negocio y efecto de su financiamiento."
+      ]
+    },
+    {
+      "id": "c33-q012",
+      "tema": "Riesgo de refinanciamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un director observa que la empresa adquirida mejora sus operaciones, pero se cierra el mercado de bonos de alto rendimiento. ¿Cuál es el riesgo más directo?",
+      "opciones": [
+        "Que desaparezca automáticamente toda obligación de pago.",
+        "Que la utilidad operativa deba caer a cero por definición.",
+        "Que renovar vencimientos sea más caro o imposible, obligando a aportar capital o vender activos.",
+        "Que los bonos existentes se conviertan necesariamente en acciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cierre del mercado no cancela contratos vigentes. Los intereses y vencimientos siguen existiendo. La dificultad consiste en conseguir fondos para atenderlos o refinanciarlos.",
+        "La actividad operativa y el acceso al crédito son dimensiones diferentes. Puede mejorar el negocio y, al mismo tiempo, deteriorarse la disponibilidad de financiamiento. La presión surge al renovar deuda o cubrir necesidades de caja.",
+        "Los vencimientos pueden llegar cuando el mercado exige tasas mucho mayores o deja de prestar. Esto puede comprometer una CAP aun con mejoras operativas. Un aporte de capital y el retiro de deuda reducen esa exposición.",
+        "La conversión requiere derechos contractuales o una negociación específica. La iliquidez del mercado no convierte por sí sola los bonos. Sí puede impulsar una recapitalización para evitar incumplimientos."
+      ]
+    },
+    {
+      "id": "c33-q013",
+      "tema": "Deuda e incentivos",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué la deuda elevada y la participación accionaria de los gerentes pueden reforzar la disciplina en una CAP?",
+      "opciones": [
+        "La deuda garantiza que cualquier inversión tendrá VPN positivo.",
+        "Los pagos obligatorios presionan sobre la caja y los gerentes participan del valor creado.",
+        "La propiedad gerencial elimina todo riesgo de conflicto de intereses.",
+        "Los intereses permiten dejar de controlar los costos operativos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La deuda no transforma proyectos malos en buenos. Puede desalentar gastos improductivos, pero también restringir inversiones convenientes. Cada proyecto debe seguir evaluándose por su valor económico.",
+        "El servicio de la deuda obliga a generar efectivo y revisar gastos e inversiones. La propiedad gerencial vincula parte de la riqueza personal con el éxito del negocio. Ambos mecanismos pueden mejorar incentivos, aunque no garantizan una buena operación.",
+        "La propiedad gerencial alinea algunos intereses, pero no elimina todos los conflictos. La gerencia puede asumir riesgos excesivos o buscar beneficios particulares. La supervisión de propietarios y acreedores sigue siendo relevante.",
+        "La presión financiera aumenta la necesidad de controlar costos. Los intereses consumen caja y no sustituyen una gestión eficiente. La disciplina aparece precisamente porque hay compromisos que cumplir."
+      ]
+    },
+    {
+      "id": "c33-q014",
+      "tema": "Evidencia y límites de las CAP",
+      "dificultad": "intermedia",
+      "pregunta": "Un analista encuentra mejoras operativas promedio después de varias CAPA. ¿Cuál es la interpretación más sólida?",
+      "opciones": [
+        "Todas las CAPA crean valor con seguridad.",
+        "La única causa posible es la reducción de impuestos.",
+        "La evidencia es compatible con mejores incentivos, pero no elimina errores de compra ni riesgo de quiebra.",
+        "Las mejoras prueban que todos los beneficios provienen de despidos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un promedio favorable no convierte cada operación en exitosa. Algunas compras pagan demasiado o acumulan deuda insostenible. Hay que distinguir evidencia agregada de una garantía individual.",
+        "Los impuestos afectan el valor financiero, pero no explican por sí solos mejoras en eficiencia operativa. Cambios de organización y de incentivos pueden elevar la productividad. Atribuir todo al escudo fiscal confunde mecanismos distintos.",
+        "La participación patrimonial y la disciplina financiera pueden contribuir a mejorar la operación. Sin embargo, la deuda elevada también incrementa la fragilidad ante resultados adversos. La evidencia favorable debe convivir con una evaluación específica de precio y riesgo.",
+        "Los despidos no son la única vía para mejorar resultados. También pueden reducirse activos improductivos, burocracia y capital de trabajo. La evidencia descrita no permite imponer una explicación única."
+      ]
+    },
+    {
+      "id": "c33-q015",
+      "tema": "Reestructuración apalancada",
+      "dificultad": "basica",
+      "pregunta": "Una empresa que sigue cotizando emite mucha deuda, paga un dividendo extraordinario y refuerza los incentivos accionarios de su gerencia. ¿Qué operación realiza?",
+      "opciones": [
+        "Una reestructuración apalancada.",
+        "Una escisión de subsidiarias.",
+        "Una CAP que exige retirar las acciones de bolsa.",
+        "Una liquidación judicial."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La empresa aumenta su deuda y entrega los fondos a sus accionistas. Así introduce disciplina financiera sin abandonar la bolsa. El refuerzo de incentivos acompaña el cambio de estructura de capital.",
+        "Una escisión crea una compañía independiente y distribuye sus acciones. El caso solo modifica financiamiento, distribución de efectivo e incentivos. No separa un negocio.",
+        "La CAP supone una compra y el paso a propiedad privada. En este caso la empresa conserva la cotización. Comparte la presión de la deuda, pero no la misma transformación de propiedad.",
+        "La liquidación vende activos para cerrar el negocio y pagar obligaciones. Aquí la empresa continúa operando y cambia su financiamiento. No se describe un proceso judicial de cierre."
+      ]
+    },
+    {
+      "id": "c33-q016",
+      "tema": "Dividendo apalancado y patrimonio contable",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa tiene activos contables de $300 millones, deuda de $100 millones y patrimonio de $200 millones. Toma $240 millones de deuda y distribuye inmediatamente ese efectivo como dividendo. Sin otros cambios, ¿cómo queda el balance?",
+      "opciones": [
+        "Activos $300; deuda $340; patrimonio −$40 millones.",
+        "Activos $300; deuda $100; patrimonio $200 millones.",
+        "Activos $300; deuda $340; patrimonio $40 millones.",
+        "Activos $540; deuda $340; patrimonio $200 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El préstamo aumenta temporalmente activos y deuda en 240. El dividendo retira ese efectivo y reduce patrimonio de 200 a −40. El balance final cumple 300 = 340−40, sin que el patrimonio contable negativo pruebe por sí solo valor económico negativo.",
+        "Este resultado ignora tanto el préstamo como la distribución. Aunque los activos finales vuelven al nivel inicial, la deuda aumenta. El patrimonio absorbe la disminución causada por el dividendo.",
+        "El patrimonio inicial de 200 se reduce en 240. El resultado es negativo, no positivo. Además, 340 + 40 no iguala los activos de 300.",
+        "Ese balance corresponde al momento posterior al préstamo y anterior al dividendo. La distribución de 240 reduce efectivo y patrimonio por ese importe. Después del pago los activos vuelven a 300."
+      ]
+    },
+    {
+      "id": "c33-q017",
+      "tema": "Capital de trabajo y desapalancamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Una reestructuración reduce el capital de trabajo neto operativo de $90 a $50 millones sin perjudicar ventas ni operaciones. Todo el efectivo liberado amortiza una deuda inicial de $200 millones. ¿Cuál es la deuda final?",
+      "opciones": [
+        "$160 millones.",
+        "$240 millones.",
+        "$110 millones.",
+        "$150 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La caída del capital de trabajo libera 90−50 = 40 millones. Aplicarlos a amortización reduce la deuda a 200−40 = 160. Se supone que la reducción es sostenible y no daña el negocio.",
+        "Los 240 resultarían de sumar la caja liberada a la deuda. La empresa utiliza esa caja para pagar, no para endeudarse más. La amortización disminuye el pasivo financiero.",
+        "Esta cifra supone liberar los 90 millones completos. El negocio todavía mantiene 50 de capital de trabajo operativo. Solo la diferencia de 40 queda disponible para amortizar.",
+        "Restar el saldo final de capital de trabajo confunde un stock necesario con el efectivo liberado. Lo que se convierte en caja es la disminución de 90 a 50. Esa caída es 40, no 50."
+      ]
+    },
+    {
+      "id": "c33-q018",
+      "tema": "Salida de una CAP y deuda temporal",
+      "dificultad": "basica",
+      "pregunta": "¿Qué trayectoria es coherente con una CAP exitosa?",
+      "opciones": [
+        "Mantener necesariamente para siempre la máxima deuda y la propiedad privada.",
+        "Volver a bolsa únicamente si fracasa el negocio.",
+        "Distribuir todos los activos y suspender indefinidamente los pagos a acreedores.",
+        "Mejorar operaciones, amortizar deuda y eventualmente vender o volver a cotizar."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deuda inicial elevada suele estar pensada como una presión temporal. Generar caja para amortizarla es una tarea central. La propiedad privada también puede terminar con una venta o una nueva cotización.",
+        "Una oferta pública puede ser una salida de una inversión exitosa. Permite realizar valor después de las mejoras y el desapalancamiento. No está reservada a empresas que fracasaron.",
+        "Liquidar activos indiscriminadamente puede destruir la capacidad de generar caja. La CAP necesita atender las obligaciones asumidas. Vender activos prescindibles es diferente de desmantelar todo el negocio.",
+        "La CAP busca mejorar el negocio y generar efectivo para reducir compromisos. Una vez demostrado el desempeño y moderada la deuda, puede producirse una salida. Volver al mercado público no significa que el proceso haya fracasado."
+      ]
+    },
+    {
+      "id": "c33-q019",
+      "tema": "Fusión y fisión corporativa",
+      "dificultad": "basica",
+      "pregunta": "¿Qué enseñanza deja una empresa que primero adquiere negocios y luego vende o escinde varios de ellos, como ocurrió con AT&T?",
+      "opciones": [
+        "Toda adquisición debe conservarse para siempre.",
+        "Una desinversión siempre demuestra fraude en la adquisición previa.",
+        "El perímetro corporativo puede cambiar cuando evolucionan tecnologías, mercados y necesidades de enfoque.",
+        "Una escisión y una adquisición son operaciones económicamente idénticas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Conservar un negocio solo porque se lo compró ignora los cambios posteriores. Las sinergias y las ventajas de pertenecer a una matriz pueden debilitarse. La decisión relevante compara alternativas actuales de propiedad y uso.",
+        "Una desinversión puede corregir una decisión mala, pero también responder a un entorno nuevo. El solo hecho de vender no prueba engaño. La evaluación debe atender a los motivos y al valor de las alternativas.",
+        "Las empresas pueden incorporar o desprender negocios para adaptarse. La fisión complementa a las adquisiciones como mecanismo de reorganización. Los cambios tecnológicos y la especialización pueden volver conveniente una separación.",
+        "La adquisición integra activos o negocios bajo un nuevo control. La escisión separa un negocio y distribuye acciones a los propietarios existentes. Son movimientos distintos del perímetro corporativo."
+      ]
+    },
+    {
+      "id": "c33-q020",
+      "tema": "Escisión y destinatarios de acciones",
+      "dificultad": "basica",
+      "pregunta": "¿Qué ocurre en una escisión o spin-off?",
+      "opciones": [
+        "La matriz vende necesariamente todos sus activos al Estado.",
+        "Se crea una empresa independiente y sus acciones se distribuyen a los accionistas de la matriz.",
+        "La matriz capta efectivo vendiendo las acciones al público.",
+        "La nueva empresa entrega deuda a los acreedores de la matriz."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El Estado no es un comprador necesario en una escisión. La operación separa un negocio de su matriz. Sus acciones se entregan a los accionistas existentes.",
+        "Parte de los activos y operaciones pasa a una compañía independiente. Los accionistas de la matriz reciben acciones de esa compañía. Luego pueden conservar o vender por separado ambas inversiones.",
+        "La colocación de acciones a cambio de efectivo caracteriza una separación o carve-out. En el spin-off la distribución se dirige a los accionistas existentes. Por sí sola, esa distribución no genera efectivo para la matriz.",
+        "Una escisión no se define por canjear deuda de la matriz. Lo característico es distribuir acciones de la compañía separada. Los acreedores pueden verse afectados, pero no son los destinatarios que definen el mecanismo."
+      ]
+    },
+    {
+      "id": "c33-q021",
+      "tema": "Proporción de una escisión",
+      "dificultad": "basica",
+      "pregunta": "Una matriz distribuye una acción de la nueva compañía por cada cuatro acciones propias. Un inversor tiene 1.200 acciones de la matriz. ¿Cuántas acciones nuevas recibe y qué pasa con las de la matriz?",
+      "opciones": [
+        "Recibe 300 y entrega sus 1.200 acciones de la matriz.",
+        "Recibe 4.800 y conserva sus 1.200 acciones.",
+        "Recibe 300 y conserva sus 1.200 acciones de la matriz.",
+        "Recibe 1.200 y conserva 300 acciones de la matriz."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado confunde la distribución con un canje que exige entregar las acciones originales. El caso no establece semejante entrega. El accionista conserva la matriz y recibe 300 acciones nuevas.",
+        "Multiplicar por cuatro invierte la proporción anunciada. Se recibe una acción nueva por cada grupo de cuatro antiguas. El resultado es 300, no 4.800.",
+        "La relación de distribución es 1/4. Por eso 1.200/4 = 300 acciones de la nueva empresa. Al tratarse de una distribución, conserva también sus acciones de la matriz, cuyo negocio y valor ya excluyen los activos separados.",
+        "La proporción se aplica para calcular las nuevas acciones, no para reducir la cantidad de acciones originales. Las 1.200 de la matriz siguen en poder del inversor. La distribución adicional es de 300."
+      ]
+    },
+    {
+      "id": "c33-q022",
+      "tema": "Escisión sin creación automática de riqueza",
+      "dificultad": "intermedia",
+      "pregunta": "Una acción de la matriz vale $60 antes de una escisión. Por cada acción entrega una acción de la nueva empresa valuada en $18. Sin impuestos, noticias ni creación de valor, ¿cuánto debería valer después la acción de la matriz?",
+      "opciones": [
+        "$60.",
+        "$42.",
+        "$78.",
+        "$18."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Mantener 60 en la matriz y agregar 18 en la nueva empresa crearía riqueza sin fuente económica. El supuesto excluye mejoras o novedades. El valor separado debe descontarse del valor de la matriz.",
+        "El valor conjunto debe seguir siendo 60. Como el accionista recibe un título que vale 18, la matriz remanente vale 60 − 18 = 42. La escisión redistribuye derechos sobre activos sin crear valor automáticamente.",
+        "Sumar 18 al precio previo cuenta dos veces el negocio separado. Antes de la escisión ese negocio ya estaba incluido en la matriz. Sin mejoras adicionales, el total permanece en 60.",
+        "Los 18 corresponden a la nueva empresa, no a la matriz remanente. El negocio que permanece representa la diferencia. Esa diferencia es 42 por acción de la matriz."
+      ]
+    },
+    {
+      "id": "c33-q023",
+      "tema": "Enfoque e incentivos tras una escisión",
+      "dificultad": "intermedia",
+      "pregunta": "Una división rentable subsidia proyectos malos de otras áreas y sus gerentes cobran según el resultado global. ¿Cómo podría ayudar una escisión?",
+      "opciones": [
+        "Garantizando que todos los proyectos futuros serán rentables.",
+        "Eliminando la necesidad de información financiera.",
+        "Imponiendo necesariamente una deuda superior a la de una CAP.",
+        "Separando la asignación de fondos y vinculando incentivos con el desempeño del negocio propio."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La independencia no elimina la incertidumbre ni los errores de inversión. Puede mejorar responsabilidad y transparencia. Cada proyecto sigue necesitando una evaluación económica.",
+        "La empresa independiente necesita información para inversores y administradores. La separación puede hacer su desempeño más observable. No sustituye los estados financieros ni el control de gestión.",
+        "La escisión no exige un nivel extremo de endeudamiento. La estructura de capital puede adaptarse a la industria del negocio separado. Su mecanismo central es la independencia, no la deuda elevada.",
+        "La escisión dificulta usar sus fondos para sostener inversiones ajenas improductivas. Además, permite observar su valor y remunerar gerentes con acciones del negocio que gestionan. El beneficio depende de que esas mejoras superen los costos de separación."
+      ]
+    },
+    {
+      "id": "c33-q024",
+      "tema": "Separación o carve-out",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia central tiene una separación mediante oferta pública respecto de una escisión?",
+      "opciones": [
+        "Vende acciones de la subsidiaria al público y permite captar efectivo.",
+        "Obliga a vender el 100% del negocio.",
+        "Distribuye siempre las acciones gratuitamente a ciudadanos.",
+        "No permite que las acciones se negocien públicamente."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La separación coloca acciones de la subsidiaria a cambio de efectivo. En una escisión las acciones se entregan a los accionistas existentes. La matriz puede conservar control tras la separación y escindir el resto posteriormente.",
+        "La matriz puede conservar una participación de control después de la oferta. Es frecuente que solo coloque una porción minoritaria. No existe en la definición una venta obligatoria del 100%.",
+        "La distribución a ciudadanos se relaciona con ciertos programas de privatización por vales. En el carve-out los compradores pagan por acciones. La distinción relevante frente al spin-off es venta frente a distribución.",
+        "Una oferta pública busca precisamente colocar acciones entre inversores. Puede establecer una cotización propia para la subsidiaria. No supone impedir su negociación."
+      ]
+    },
+    {
+      "id": "c33-q025",
+      "tema": "Ingresos de un carve-out",
+      "dificultad": "intermedia",
+      "pregunta": "Una matriz vende al público 20% de una subsidiaria con valor patrimonial total de $500 millones. Se venden acciones existentes y no hay costos ni descuentos. ¿Cuánto cobra la matriz y qué valor conserva?",
+      "opciones": [
+        "Cobra $100 millones y conserva una participación valuada en $400 millones.",
+        "Cobra $500 millones y conserva $400 millones.",
+        "Cobra $100 millones y conserva $500 millones.",
+        "Cobra $400 millones y conserva $100 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La venta del 20% genera 500 × 0,20 = 100 millones. La matriz conserva 80%, valuado en 500 × 0,80 = 400. Como vende acciones existentes, el efectivo corresponde a la matriz y no a una emisión nueva de la subsidiaria.",
+        "Cobrar 500 supondría vender el 100% al valor indicado. El ejercicio solo coloca una quinta parte de las acciones. El ingreso correcto es 100 y la participación restante vale 400.",
+        "Los 500 eran el valor de la participación completa antes de vender. Después de desprenderse de 20%, la matriz conserva 80%. Mantener 500 como valor retenido contaría también las acciones vendidas.",
+        "Los porcentajes están intercambiados. La venta corresponde a 20% y la retención a 80%. Por eso el efectivo es 100 y el valor conservado es 400."
+      ]
+    },
+    {
+      "id": "c33-q026",
+      "tema": "Carve-out seguido de spin-off",
+      "dificultad": "intermedia",
+      "pregunta": "Una matriz quiere obtener primero una cotización observable de su subsidiaria y luego distribuir su participación remanente. ¿Qué secuencia responde a ese propósito?",
+      "opciones": [
+        "Separación minoritaria por oferta pública y luego escisión del remanente.",
+        "Liquidación y luego emisión de deuda.",
+        "Escisión total y luego venta por la matriz de acciones que ya no tiene.",
+        "Privatización por vales y posterior nacionalización."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Una colocación minoritaria crea un mercado para las acciones de la subsidiaria. La matriz conserva el resto durante esa primera etapa. Después puede distribuirlo mediante una escisión, como en la lógica de la separación de Palm.",
+        "La liquidación termina el negocio y no establece una cotización accionaria de continuidad. Emitir deuda tampoco distribuye acciones entre los propietarios. La secuencia propuesta no cumple los objetivos.",
+        "Tras una escisión total, la matriz ya no retiene las acciones distribuidas. No podría venderlas como propias en una etapa posterior. Para mantener una participación que luego distribuye, debe colocar primero solo una parte.",
+        "Los vales son un mecanismo de transferencia de propiedad estatal a ciudadanos. El caso describe una matriz privada que busca cotización e independencia gradual. La nacionalización posterior tampoco responde al propósito."
+      ]
+    },
+    {
+      "id": "c33-q027",
+      "tema": "Acciones de rastreo",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué una acción de rastreo vinculada a una división no equivale necesariamente a una escisión?",
+      "opciones": [
+        "Porque nunca puede negociarse en bolsa.",
+        "Porque obliga a que el Estado controle la división.",
+        "Porque transfiere automáticamente todos los activos a los acreedores.",
+        "Porque puede vincular rendimientos con la división sin convertirla en una compañía independiente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La negociación bursátil no es la distinción decisiva. Una acción de rastreo puede tener un precio de mercado. La cuestión es si existe una separación efectiva del negocio en una empresa independiente.",
+        "La intervención estatal no forma parte de la definición. El instrumento pertenece al diseño de derechos de los accionistas de una empresa. No requiere nacionalizar la división.",
+        "El instrumento es accionario y no ejecuta una garantía sobre activos. No implica transferir el negocio a acreedores. Su objetivo es vincular derechos económicos con un segmento de la compañía.",
+        "El título puede reflejar el desempeño de una parte del grupo manteniendo la estructura corporativa conjunta. En una escisión, el negocio pasa a una compañía independiente y se distribuyen sus acciones. Tener una referencia separada de rendimiento no equivale por sí solo a independencia."
+      ]
+    },
+    {
+      "id": "c33-q028",
+      "tema": "Valuación implícita y límites al arbitraje",
+      "dificultad": "avanzada",
+      "pregunta": "Una acción de una matriz cotiza a $50 y dará derecho a recibir dos acciones de una subsidiaria, hoy a $30 cada una. Sin otros ajustes, ¿qué valor implícito tiene el resto de la matriz y qué cautela corresponde?",
+      "opciones": [
+        "$10; demuestra que no hay ninguna inconsistencia.",
+        "$110; deben sumarse los dos precios a la matriz.",
+        "−$10; la inconsistencia aparente no garantiza arbitraje ejecutable si faltan acciones para vender en corto.",
+        "$0; un valor implícito negativo se reemplaza automáticamente por cero."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El cálculo correcto resta el valor de las acciones a recibir. Ese valor es 2 × 30 = 60, superior a la cotización de 50. El residuo resulta negativo y exige examinar condiciones y restricciones.",
+        "Sumar los valores duplica la participación en la subsidiaria ya contenida en la matriz. Para aislar el negocio restante hay que restarla. El residuo implícito es 50 − 60 = −10.",
+        "Las acciones a recibir valen 2 × 30 = 60, por lo que el residuo es 50 − 60 = −10. Comprar la matriz y vender en corto la subsidiaria parecería capturar la diferencia. Sin disponibilidad de préstamo de acciones, o con costos y riesgos de ejecución, la operación puede no ser realizable.",
+        "Un cálculo implícito puede arrojar un residuo negativo como señal de precios difíciles de reconciliar. No se corrige el dato simplemente reemplazándolo por cero. Hay que estudiar restricciones de negociación y certeza de la distribución."
+      ]
+    },
+    {
+      "id": "c33-q029",
+      "tema": "Límites de estructuras con subsidiarias cotizantes",
+      "dificultad": "intermedia",
+      "pregunta": "Un grupo crea muchas subsidiarias y subsubsidiarias cotizantes para mejorar incentivos, pero aumenta la complejidad y aparecen ineficiencias. ¿Qué conclusión es razonable?",
+      "opciones": [
+        "Toda subsidiaria cotizante mejora el valor sin límite.",
+        "La cotización separada puede ayudar, pero su beneficio puede ser superado por los costos de una estructura demasiado compleja.",
+        "Recomprar una subsidiaria prueba que toda separación es inútil.",
+        "La complejidad elimina los conflictos entre matriz y minoritarios."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los beneficios de transparencia no crecen sin límite con el número de sociedades. También aumentan costos, coordinación y posibles conflictos. Hace falta comparar beneficios marginales con costos marginales.",
+        "Las cotizaciones separadas pueden hacer visible el desempeño y mejorar responsabilidad. Sin embargo, muchas capas societarias generan coordinación y costos adicionales. La experiencia de Thermo Electron ilustra que una estructura inicialmente útil puede necesitar simplificarse.",
+        "Una recompra puede corregir una estructura particular que dejó de ser conveniente. No invalida el mecanismo en todos los contextos. Su utilidad depende del equilibrio entre incentivos y complejidad.",
+        "La complejidad puede dificultar identificar transferencias y responsabilidades. Los conflictos entre controlantes y minoritarios no desaparecen con más sociedades. La estructura debe evaluarse por sus efectos concretos."
+      ]
+    },
+    {
+      "id": "c33-q030",
+      "tema": "Venta de activos y mejor propietario",
+      "dificultad": "basica",
+      "pregunta": "¿Cuándo una venta de una división a otra empresa puede crear valor operativo?",
+      "opciones": [
+        "Cuando el comprador paga cualquier precio, sin importar su capacidad.",
+        "Cuando el vendedor reconoce como ingreso todo el precio sin descontar lo que entrega.",
+        "Cuando el comprador puede usar y administrar esos activos con más productividad que el vendedor.",
+        "Cuando la operación evita evaluar la utilidad futura de los activos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Una mejor gestión no justifica cualquier precio. El comprador puede destruir valor para sus accionistas si paga de más. Deben distinguirse la mejora productiva y el reparto del valor mediante el precio.",
+        "El vendedor entrega un activo que ya tenía valor. El cobro bruto no es equivalente a creación de riqueza. Para medir la ganancia debe compararlo con el valor de conservar el activo y con los costos aplicables.",
+        "La venta puede trasladar activos a un propietario con mejores capacidades o complementariedades. Eso eleva los flujos que generan los mismos recursos. El precio distribuye ese beneficio entre comprador y vendedor.",
+        "La decisión depende de los flujos futuros y de su valor bajo distintos propietarios. Vender no elimina la necesidad de estimarlos. Precisamente la diferencia entre usos puede justificar la transacción."
+      ]
+    },
+    {
+      "id": "c33-q031",
+      "tema": "Ganancia económica en una desinversión",
+      "dificultad": "avanzada",
+      "pregunta": "Una división vale $140 millones si permanece en la matriz. Otra empresa paga $170 millones y la venta genera $10 millones de costos e impuestos totales. ¿Cuál es la ganancia económica para la vendedora?",
+      "opciones": [
+        "$170 millones.",
+        "$20 millones.",
+        "$30 millones.",
+        "$160 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 170 son el precio bruto, no la ganancia económica. La vendedora renuncia a un activo que vale 140. Además, afronta 10 de costos e impuestos.",
+        "El ingreso neto es 170 − 10 = 160 millones. Conservar la división vale 140. La venta mejora la riqueza de la vendedora en 160 − 140 = 20 millones.",
+        "La diferencia de 30 compara precio con valor de retención, pero omite costos e impuestos. La ganancia neta debe descontar también los 10. Así quedan 20 millones.",
+        "Los 160 son el efectivo neto cobrado. Para medir creación de valor hay que restar el valor de la división que se entrega. El aumento patrimonial económico es 20."
+      ]
+    },
+    {
+      "id": "c33-q032",
+      "tema": "Motivos para privatizar",
+      "dificultad": "basica",
+      "pregunta": "¿Qué conjunto resume los principales motivos económicos y políticos de una privatización?",
+      "opciones": [
+        "Eliminar la competencia, concentrar la propiedad y suprimir ingresos estatales.",
+        "Mejorar eficiencia, ampliar la propiedad accionaria y obtener ingresos para el Estado.",
+        "Evitar que existan accionistas y reemplazarlos por acreedores.",
+        "Garantizar empleo constante y eliminar todo riesgo empresario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La privatización puede buscar mayor disciplina competitiva, no eliminarla. También puede promover la participación de pequeños inversores. La venta suele generar recursos para el Estado.",
+        "La propiedad privada puede reforzar incentivos y limitar interferencias políticas en decisiones económicas. Las ofertas a empleados y pequeños ahorristas pueden ampliar la base de propietarios. La venta también aporta ingresos al gobierno.",
+        "La venta a inversores privados crea o amplía propiedad accionaria privada. No exige convertir a todos los accionistas en acreedores. Es un cambio de propietario estatal a privado.",
+        "Ningún cambio de propiedad garantiza un nivel fijo de empleo ni elimina el riesgo. La mejora de eficiencia puede reducir puestos por unidad producida. El crecimiento posterior puede compensarlo, pero no hay garantía universal."
+      ]
+    },
+    {
+      "id": "c33-q033",
+      "tema": "Privatización por vales",
+      "dificultad": "intermedia",
+      "pregunta": "Un gobierno entrega vales a ciudadanos para que pujen por acciones de empresas estatales. ¿En qué se diferencia de vender esas acciones por efectivo?",
+      "opciones": [
+        "No puede transferir derechos de propiedad.",
+        "Transfiere propiedad sin recaudar necesariamente efectivo equivalente por las acciones adjudicadas con vales.",
+        "Es una CAP porque todos los ciudadanos contraen deuda.",
+        "Obliga a distribuir ganancias futuras exclusivamente al Estado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los vales pueden canjearse o utilizarse para obtener acciones. Esas acciones sí representan derechos de propiedad. El mecanismo de pago no impide la transferencia patrimonial.",
+        "Los ciudadanos usan un derecho distribuido por el gobierno para adquirir acciones. La adjudicación cambia la propiedad, aunque no cobre efectivo como una venta ordinaria. Por eso puede priorizar difusión de propiedad sobre recaudación inmediata.",
+        "La emisión de vales no implica que los ciudadanos pidan préstamos. Una CAP exige financiamiento predominantemente con deuda. Aquí lo distintivo es la forma de distribuir propiedad estatal.",
+        "Las ganancias corresponden a los derechos de las acciones luego transferidas. No quedan reservadas al Estado por el solo uso de vales. Mantener todos los beneficios estatales frustraría el cambio económico de propiedad descrito."
+      ]
+    },
+    {
+      "id": "c33-q034",
+      "tema": "Privatización, productividad y empleo",
+      "dificultad": "intermedia",
+      "pregunta": "Tras privatizarse, una empresa aumenta 25% su producción y 50% la producción por empleado. Partía de 1.200 empleados. ¿Cuántos necesita después, suponiendo esos cambios exactos?",
+      "opciones": [
+        "1.500.",
+        "1.000.",
+        "800.",
+        "1.200."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 1.500 surgen de aplicar solo el crecimiento de producción al empleo. Falta incorporar la mayor productividad por trabajador. Con productividad 50% mayor se requiere menos empleo por unidad de producto.",
+        "El empleo cambia en la proporción 1,25/1,50. Por eso necesita 1.200 × 1,25/1,50 = 1.000 empleados. El crecimiento compensa parcialmente el efecto ahorrador de trabajo de la productividad, pero aquí no lo supera.",
+        "Los 800 resultarían de aumentar la productividad sin crecimiento de producción. El caso también eleva el volumen producido 25%. Al incorporar ambos cambios, el empleo queda en 1.000.",
+        "El empleo permanecería constante si producción y productividad crecieran en la misma proporción. Aquí la productividad crece más. El cociente de ambos factores reduce la dotación a 1.000."
+      ]
+    },
+    {
+      "id": "c33-q035",
+      "tema": "Privatización y evidencia empírica",
+      "dificultad": "intermedia",
+      "pregunta": "Un ministro afirma que privatizar necesariamente provoca despidos masivos y empeora la inversión. ¿Qué evaluación recoge mejor las conclusiones empíricas discutidas en el capítulo?",
+      "opciones": [
+        "Es una identidad contable que no necesita evidencia.",
+        "La propiedad privada garantiza que nunca caerá el empleo.",
+        "La evidencia suele mostrar mejoras de eficiencia, rentabilidad e inversión; el empleo depende también del crecimiento.",
+        "Los ingresos de la venta prueban por sí solos mayor eficiencia posterior."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El efecto sobre empleo e inversión es una cuestión económica y empírica. No surge de una identidad contable. Productividad, crecimiento y condiciones del mercado influyen en los resultados.",
+        "La evidencia favorable no garantiza un resultado para cada empresa. La eficiencia puede reducir la dotación necesaria a un nivel dado de producción. El crecimiento puede compensar ese efecto, pero no siempre lo hace.",
+        "Los resultados generales favorecen mejoras de desempeño financiero y productivo. El empleo combina el efecto de mayor productividad con el de expansión de la actividad. Por eso no corresponde deducir despidos masivos como resultado inevitable.",
+        "La recaudación mide cuánto cobra el Estado por transferir la propiedad. No mide directamente la productividad futura. Para evaluar eficiencia hay que observar operación, inversión y resultados posteriores."
+      ]
+    },
+    {
+      "id": "c33-q036",
+      "tema": "Precio, pasivos asumidos y capital nuevo",
+      "dificultad": "avanzada",
+      "pregunta": "Un vendedor paga $20 millones al comprador para transferirle una empresa. El comprador asume pasivos exigibles de $180 millones y se compromete a inyectar $60 millones de capital nuevo. ¿Qué interpretación es correcta?",
+      "opciones": [
+        "El comprador cobra $20 y por eso no asume ningún compromiso económico.",
+        "El precio de transferencia debe analizarse junto con los pasivos y el capital comprometido; no equivale al costo total de hacerse cargo.",
+        "El vendedor recibe $240 millones en efectivo.",
+        "El precio negativo demuestra por sí solo una ganancia segura de $20."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El cobro inicial no elimina los pasivos asumidos ni la necesidad de aportar fondos. Esas obligaciones afectan el atractivo de la operación. Mirar solo el pago del vendedor oculta compromisos relevantes.",
+        "Los pasivos laborales o financieros pueden dominar el valor económico de una adquisición. El capital nuevo tampoco es simplemente un pago al vendedor. El análisis debe separar precio, obligaciones asumidas y fondos necesarios para sostener el negocio, como ilustra la lógica del caso Chrysler.",
+        "Los 180 son pasivos asumidos y los 60 se aportan a la empresa. Ninguno constituye un cobro en efectivo de 240 para el vendedor. En el supuesto, el vendedor desembolsa 20.",
+        "Una ganancia segura exigiría conocer activos, obligaciones y resultados futuros. El comprador puede recibir efectivo justamente porque debe afrontar cargas elevadas. El precio negativo no garantiza rentabilidad."
+      ]
+    },
+    {
+      "id": "c33-q037",
+      "tema": "Socios generales y limitados",
+      "dificultad": "basica",
+      "pregunta": "En la estructura de una sociedad de capital privado, ¿cómo se reparten normalmente las funciones?",
+      "opciones": [
+        "El socio general es siempre el Estado y los limitados son bancos comerciales.",
+        "Los socios limitados administran cada compra y el general solo presta dinero.",
+        "El socio general organiza y administra; los socios limitados aportan casi todo el capital y no gestionan las inversiones.",
+        "Todos los socios son accionistas bursátiles de las empresas adquiridas y votan diariamente su gestión."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los nombres describen funciones contractuales, no una división entre Estado y bancos. Pueden participar fondos de pensiones, aseguradoras y fundaciones como socios limitados. El socio general organiza y gestiona la sociedad.",
+        "La asignación de funciones está invertida. Los socios limitados financian el fondo y el socio general administra sus inversiones. El general no se define como un simple prestamista.",
+        "El socio general selecciona inversiones, organiza operaciones y supervisa las compañías. Los socios limitados suelen ser instituciones o personas de gran patrimonio que aportan la mayor parte de los recursos. Su responsabilidad es limitada y no dirigen cotidianamente el fondo.",
+        "El fondo es una sociedad de inversión, no una votación bursátil diaria de cada aportante. Los inversores delegan la gestión en el socio general. Las compañías de la cartera se supervisan mediante su estructura de control."
+      ]
+    },
+    {
+      "id": "c33-q038",
+      "tema": "Capital de riesgo frente a fondos de compra",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia de objetivos es habitual entre capital de riesgo y fondos de compras apalancadas?",
+      "opciones": [
+        "El capital de riesgo busca solo empresas estatales y el de compra solo bancos.",
+        "El capital de riesgo financia empresas jóvenes; los fondos de compra suelen buscar negocios maduros con caja disponible y margen de mejora.",
+        "Ambos exigen que la empresa ya no necesite capital ni gestión.",
+        "El capital de riesgo nunca asume incertidumbre tecnológica."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La distinción no depende de propiedad estatal ni de una industria obligatoria. Los fondos pueden especializarse, pero sus objetivos difieren sobre todo en etapa y necesidades del negocio. Las empresas jóvenes suelen requerir capital para crecer.",
+        "El capital de riesgo participa en emprendimientos y empresas jóvenes con incertidumbre elevada. Los fondos de compra suelen adquirir control de negocios más maduros y usar deuda. La capacidad de generar caja es especialmente importante en estos últimos.",
+        "Las inversiones buscan oportunidades de crecimiento o de mejora. Una empresa joven puede necesitar mucho capital y una madura puede requerir cambios de gestión. La ausencia de necesidades no define a ninguno de los dos tipos.",
+        "La incertidumbre tecnológica puede ser central en el capital de riesgo. Su financiamiento accionario permite absorber resultados muy variables. No se limita a negocios de tecnología ya probada."
+      ]
+    },
+    {
+      "id": "c33-q039",
+      "tema": "Aportes de socios",
+      "dificultad": "basica",
+      "pregunta": "Un fondo requiere $600 millones de capital. Si el socio general aporta 1% y los limitados 99%, ¿cuánto aporta cada grupo?",
+      "opciones": [
+        "General $60 millones; limitados $540 millones.",
+        "General $6 millones; limitados $594 millones.",
+        "General $594 millones; limitados $6 millones.",
+        "General $1 millón; limitados $599 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 60 millones representan 10% de 600, no 1%. El aporte del general es diez veces menor. La distribución correcta es 6 y 594.",
+        "El aporte general es 600 × 0,01 = 6 millones. Los limitados aportan 600 × 0,99 = 594. Ambos importes suman los 600 requeridos.",
+        "La respuesta intercambia los porcentajes de los dos grupos. Los limitados aportan la mayor parte del capital. Al general le corresponden 6 millones.",
+        "El porcentaje no es un monto fijo de un millón. Debe aplicarse a los 600 comprometidos. Uno por ciento equivale aquí a 6 millones."
+      ]
+    },
+    {
+      "id": "c33-q040",
+      "tema": "Honorarios sobre capital comprometido",
+      "dificultad": "intermedia",
+      "pregunta": "Un fondo tiene capital comprometido de $800 millones y cobra un honorario anual de administración de 1,5% sobre ese compromiso. Ya invirtió $500 millones. ¿Cuál es el honorario anual según este contrato?",
+      "opciones": [
+        "$7,5 millones.",
+        "$4,5 millones.",
+        "$12 millones.",
+        "$120 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Los 7,5 surgen de aplicar 1,5% a los 500 ya invertidos. El contrato utiliza el capital comprometido. La base correspondiente es 800 millones.",
+        "Los 4,5 resultan de aplicar la tasa solo al capital aún no invertido. El contrato no limita así la base. Debe cobrarse 1,5% de los 800 comprometidos.",
+        "El cálculo es 800 × 0,015 = 12 millones por año. La inversión efectivamente realizada no cambia la base que fija el contrato. Los honorarios se distinguen de la participación sobre las ganancias.",
+        "Los 120 corresponden a 15%, diez veces la tasa indicada. Convertir 1,5% a decimal da 0,015. El producto correcto es 12 millones."
+      ]
+    },
+    {
+      "id": "c33-q041",
+      "tema": "Participación en utilidades",
+      "dificultad": "intermedia",
+      "pregunta": "Para aislar la participación en ganancias, suponé que los limitados aportaron $400 millones, no hay otros aportes ni honorarios y el fondo distribuye $650 millones. Primero devuelve los $400 y luego asigna 20% de la utilidad al general. ¿Cuánto recibe cada grupo?",
+      "opciones": [
+        "General $50 millones; limitados $600 millones.",
+        "General $130 millones; limitados $520 millones.",
+        "General $250 millones; limitados $400 millones.",
+        "General $80 millones; limitados $570 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La utilidad es 650 − 400 = 250 millones. El general recibe 20% de 250, es decir, 50. Los limitados recuperan 400 y reciben 80% de 250, otros 200, para un total de 600.",
+        "Los 130 surgen de calcular 20% sobre todos los ingresos. El contrato establece la participación solo después de devolver el aporte. La base de la participación es la utilidad de 250.",
+        "Asignar toda la utilidad al general desconoce la proporción pactada. Los limitados conservan 80% del excedente además de recuperar su inversión. El general solo recibe 50.",
+        "Los 80 corresponden a 20% del capital aportado. La participación no se calcula sobre el aporte sino sobre la utilidad. Esa utilidad es 250, de modo que la participación es 50."
+      ]
+    },
+    {
+      "id": "c33-q042",
+      "tema": "Participación como opción e incentivos de riesgo",
+      "dificultad": "avanzada",
+      "pregunta": "Un general cobra 20% de max(distribución − $100 millones, 0), sin honorarios ni aporte propio. Puede elegir una estrategia segura que distribuye $120 millones o una riesgosa que distribuye $200 con probabilidad 50% y $0 con probabilidad 50%. ¿Qué comparación es correcta?",
+      "opciones": [
+        "La segura le paga $24 y la riesgosa $20 en promedio.",
+        "La riesgosa tiene distribución total esperada de $200.",
+        "Ambas le pagan $4 porque tienen idéntico riesgo.",
+        "La segura le paga $4 y la riesgosa $10 en promedio, aunque esta última tiene menor distribución total esperada."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La remuneración se calcula sobre el excedente por encima de 100. En la alternativa segura ese excedente es 20, no 120. El general cobra 4, mientras la riesgosa paga 10 en promedio.",
+        "Los 200 ocurren solo en la mitad de los casos. La distribución esperada es 0,5 × 200 + 0,5 × 0 = 100. Confundir el mejor resultado con el promedio oculta el riesgo para los aportantes.",
+        "Las alternativas no tienen el mismo riesgo ni la misma remuneración esperada. La participación no puede ser negativa cuando el fondo pierde. Esa asimetría hace atractiva la variabilidad para el general en este ejemplo.",
+        "Con seguridad cobra 0,20 × (120 − 100) = 4. Con riesgo cobra 20 si se distribuyen 200 y cero si se distribuye cero, para un promedio de 10. La distribución total esperada riesgosa es 100 frente a 120 segura, lo que muestra el incentivo de una remuneración convexa."
+      ]
+    },
+    {
+      "id": "c33-q043",
+      "tema": "Vida limitada y flujos de efectivo libres",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué problema de agencia ayuda a limitar la duración contractual de una sociedad de capital privado?",
+      "opciones": [
+        "Que los limitados reciban dividendos demasiado pronto para poder gastarlos.",
+        "Que las empresas nunca puedan invertir en proyectos largos.",
+        "Que los acreedores tengan derecho a cobrar intereses.",
+        "Que los gestores retengan indefinidamente los resultados de las primeras inversiones y los reinviertan en proyectos poco rentables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La finalidad no es impedir que los inversores gasten distribuciones. El problema es quién controla el efectivo generado y con qué incentivos. La devolución de fondos restringe la discrecionalidad del gestor.",
+        "La vida limitada establece un horizonte de salida, pero no prohíbe toda inversión de largo plazo. Un negocio puede venderse aun teniendo oportunidades futuras. El mecanismo busca disciplina y devolución del capital.",
+        "Los derechos de los acreedores dependen de sus contratos de deuda. La duración de la sociedad no elimina esos derechos. Su efecto central aquí es disciplinar la administración del capital de los socios.",
+        "La obligación de realizar inversiones y devolver fondos reduce el dinero que queda a discreción del gestor. Para captar un nuevo fondo, debe volver a convencer a los inversores. Esto limita la reinversión automática de efectivo en proyectos malos."
+      ]
+    },
+    {
+      "id": "c33-q044",
+      "tema": "Salidas y mercados públicos",
+      "dificultad": "basica",
+      "pregunta": "Un director quiere recurrir al capital privado para evitar presiones bursátiles para siempre. ¿Qué observación corresponde?",
+      "opciones": [
+        "La propiedad privada puede reducir ciertas presiones, pero el fondo necesita salir mediante una venta o una oferta pública dentro de su horizonte.",
+        "La vida del fondo es ilimitada y no requiere salidas.",
+        "Una OPI siempre destruye las mejoras logradas en la etapa privada.",
+        "Un fondo no puede vender ninguna compañía de su cartera."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La propiedad privada puede reducir costos regulatorios de cotización, incluidos los asociados históricamente con Sarbanes-Oxley, y algunas presiones de resultados inmediatos. Sin embargo, la inversión tiene un horizonte de salida. Los mercados públicos pueden ser necesarios para esa salida, por lo que el alejamiento suele ser temporal.",
+        "La sociedad tiene una duración contractual limitada. Sus socios esperan recuperar capital y resultados. Un nuevo fondo requiere una nueva captación, en vez de una permanencia automática del anterior.",
+        "La OPI puede permitir realizar el valor de una mejora exitosa. No existe una pérdida necesaria de productividad por volver a cotizar. Los resultados dependen del negocio y de sus incentivos posteriores.",
+        "La realización de inversiones es parte central del modelo. El fondo suele vender empresas o llevarlas al mercado público. No está diseñado para conservarlas indefinidamente."
+      ]
+    },
+    {
+      "id": "c33-q045",
+      "tema": "Expansión del capital privado y selección de fondos",
+      "dificultad": "intermedia",
+      "pregunta": "Un inversor sostiene que tasas bajas, crédito abundante y buenos rendimientos históricos garantizan ganancias al entrar en cualquier fondo nuevo. ¿Qué objeción es más sólida?",
+      "opciones": [
+        "Una fundación universitaria tiene por definición rentabilidad garantizada.",
+        "Los rendimientos históricos de todos los limitados fueron idénticos.",
+        "La tasa de interés no afecta el atractivo de una compra financiada con deuda.",
+        "El financiamiento fácil puede impulsar operaciones y precios altos; la experiencia y selección del fondo siguen importando."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La pertenencia a una categoría institucional no garantiza resultados. Ciertas fundaciones mostraron buen desempeño histórico, pero eso no crea un derecho a ganar. La selección y las condiciones de inversión siguen siendo decisivas.",
+        "Los resultados de socios limitados y fondos no fueron uniformes. Algunos inversores institucionales obtuvieron mejores resultados que otros. La entrada tardía sin selección puede llevar a fondos de desempeño inferior.",
+        "El costo y la disponibilidad de deuda influyen en una CAP. Afectan el servicio financiero y los precios que pueden ofrecerse. Ignorarlos elimina una variable central de la operación.",
+        "Las condiciones de financiamiento favorables pueden aumentar tanto la actividad como la competencia por objetivos. Un precio elevado puede absorber las mejoras futuras esperadas. La heterogeneidad de resultados históricos exige seleccionar gestores y evaluar riesgos, no extrapolar un promedio."
+      ]
+    },
+    {
+      "id": "c33-q046",
+      "tema": "Conglomerados y diversificación del accionista",
+      "dificultad": "basica",
+      "pregunta": "¿Por qué diversificar la empresa en industrias no relacionadas no crea valor automáticamente para sus accionistas?",
+      "opciones": [
+        "Porque los accionistas no pueden comprar más de una acción.",
+        "Porque toda diversificación aumenta el riesgo específico.",
+        "Porque los accionistas pueden diversificar directamente sus carteras sin asumir necesariamente los costos de un conglomerado.",
+        "Porque las empresas diversificadas tienen prohibido pagar dividendos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Un accionista puede distribuir sus inversiones entre diferentes empresas. Esa posibilidad es justamente parte del argumento. No necesita que una sola sociedad reúna todos los negocios.",
+        "La diversificación puede reducir variabilidad de resultados específicos. El problema es que esa reducción ya puede obtenerla el inversor por su cuenta. No hace falta afirmar que el riesgo específico siempre aumenta.",
+        "La diversificación de cartera puede reducir riesgo específico a bajo costo. Una diversificación empresarial debe justificar además sus costos y posibles problemas de gestión. Reducir la variabilidad contable del conjunto no basta para probar creación de valor.",
+        "No existe esa prohibición como rasgo de un conglomerado. La política de dividendos es una decisión financiera distinta. El argumento trata de costos y beneficios de diversificación corporativa."
+      ]
+    },
+    {
+      "id": "c33-q047",
+      "tema": "Mercados internos de capital: ventajas potenciales",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cuál es un argumento válido a favor de un mercado interno de capital?",
+      "opciones": [
+        "Permite financiar cualquier proyecto sin costo de oportunidad.",
+        "Elimina toda necesidad de evaluar el riesgo de cada división.",
+        "Garantiza que la división más grande tiene siempre el mejor proyecto.",
+        "Puede aprovechar información interna y ahorrar costos de emisión al dirigir caja de negocios maduros a proyectos de crecimiento rentables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los recursos internos también tienen costo de oportunidad. Podrían distribuirse a los accionistas o utilizarse en otras inversiones. No son gratuitos por no requerir una emisión nueva.",
+        "El riesgo y los flujos siguen determinando el valor de cada inversión. La financiación interna no convierte proyectos distintos en equivalentes. La información de la dirección puede ayudar a evaluarlos, pero no reemplaza el análisis.",
+        "El tamaño o la caja generada no garantizan oportunidades con VPN positivo. Una división madura puede tener pocas inversiones atractivas. Una división menor puede ofrecer proyectos superiores.",
+        "La dirección puede conocer oportunidades que los inversores externos observan con dificultad. Además, mover recursos dentro del grupo puede evitar costos de emisión. La ventaja requiere asignar los fondos según oportunidades económicas y no según poder interno."
+      ]
+    },
+    {
+      "id": "c33-q048",
+      "tema": "Mercados internos: política y contagio de recortes",
+      "dificultad": "intermedia",
+      "pregunta": "Tras una caída del petróleo, una petrolera recorta por igual las inversiones de todas sus divisiones, incluida química, cuyos insumos ahora cuestan menos. ¿Qué problema ilustra?",
+      "opciones": [
+        "La imposibilidad de que una empresa grande obtenga fondos externos.",
+        "La prueba de que todas las oportunidades químicas empeoraron.",
+        "Una asignación interna que puede seguir la caja global y la negociación política en vez del VPN de cada división.",
+        "La obligación económica de repartir toda caída de caja en porcentajes iguales."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El caso no demuestra imposibilidad de financiamiento externo. Empresas grandes pueden tener acceso al mercado y aun así recortar. El problema señalado es cómo se decide distribuir recursos entre divisiones.",
+        "El abaratamiento de insumos puede mejorar oportunidades químicas. No debe inferirse que toda división sufre el mismo deterioro que la extracción de petróleo. Sus flujos y proyectos requieren evaluación separada.",
+        "Una caída de caja en un área puede trasladarse a inversiones ajenas aun sin deterioro de sus oportunidades. Los presupuestos internos pueden responder a poder de negociación y criterios de reparto. Eso puede frenar proyectos valiosos y sostener otros peores.",
+        "No existe una regla de valor que exija recortar todo en igual proporción. La asignación eficiente considera oportunidades marginales y restricciones reales. La igualdad de recortes puede ser una regla administrativa costosa."
+      ]
+    },
+    {
+      "id": "c33-q049",
+      "tema": "Asignación de capital por VPN",
+      "dificultad": "avanzada",
+      "pregunta": "Un conglomerado dispone de $100 millones y solo puede financiar uno de dos proyectos excluyentes por la restricción de fondos. Cada uno cuesta $100 hoy: A tiene valor presente de flujos de $130 y B de $115, calculados con sus tasas adecuadas. ¿Qué pérdida de valor implica elegir B por presión política?",
+      "opciones": [
+        "$100 millones.",
+        "$115 millones.",
+        "$30 millones.",
+        "$15 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los 100 son el desembolso común a ambos proyectos. No miden la diferencia de valor entre decisiones. Como los costos iniciales coinciden, la pérdida coincide con 130 − 115.",
+        "Los 115 son el valor presente de los cobros de B, no la pérdida por elegirlo. Esos flujos deben compararse con su inversión y con A. La diferencia de VPN entre alternativas es 15.",
+        "Los 30 son el VPN total de A. B también crea 15 millones, por lo que no se pierde todo el valor de A. La pérdida relativa es la diferencia de 15.",
+        "El VPN de A es 130 − 100 = 30 millones. El VPN de B es 115 − 100 = 15. Elegir B sacrifica 30 − 15 = 15 millones de valor respecto de la mejor opción disponible."
+      ]
+    },
+    {
+      "id": "c33-q050",
+      "tema": "Descuento de conglomerado",
+      "dificultad": "intermedia",
+      "pregunta": "Las divisiones de un conglomerado valdrían juntas $1.000 millones como negocios separados. El conglomerado cotiza a $850 millones. ¿Cuál es su descuento respecto de la suma de partes?",
+      "opciones": [
+        "15%.",
+        "17,65%.",
+        "85%.",
+        "$1.850 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La diferencia es 1.000 − 850 = 150 millones. Dividirla por 1.000 da 0,15, es decir, 15%. El descuento observado no demuestra por sí solo causalidad, porque las estimaciones y la selección de empresas pueden influir.",
+        "El 17,65% divide la diferencia de 150 por la cotización de 850. El descuento respecto de la suma de partes utiliza 1.000 como base. El porcentaje pedido es 15%.",
+        "El 85% es el valor del conglomerado como proporción de la suma de partes. El descuento es la porción faltante respecto del 100%. Esa diferencia es 15%.",
+        "Sumar la cotización y la suma de partes no mide un descuento. Se necesita comparar ambos valores mediante una diferencia relativa. El resultado es un porcentaje de 15%."
+      ]
+    },
+    {
+      "id": "c33-q051",
+      "tema": "Conglomerado temporal y supervisión",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué distingue al fondo de capital privado del conglomerado público tradicional en la comparación organizativa del capítulo?",
+      "opciones": [
+        "El fondo transfiere automáticamente toda la caja de una compañía a otra.",
+        "Los administradores cobran únicamente según ganancias globales del conglomerado.",
+        "El fondo impide que propietarios y prestamistas supervisen a los gerentes.",
+        "El fondo compra, mejora y vende compañías separadas; sus gerentes tienen incentivos ligados al valor de salida de su propia empresa."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La comparación destaca la separación financiera de las compañías, no un mercado interno de transferencias permanentes. Los fondos deben devolver resultados a los aportantes. Así limitan los subsidios cruzados propios de ciertos conglomerados.",
+        "La remuneración de los gerentes de cartera puede vincularse a acciones u opciones de su propia compañía. Eso acerca su incentivo al valor creado en el negocio que controlan. Una remuneración global puede diluir esa relación.",
+        "La supervisión concentrada es una fortaleza del modelo, no algo prohibido. Los socios generales pueden intervenir si el desempeño cae. Los acreedores también controlan el cumplimiento de sus contratos.",
+        "La salida dentro de un plazo distingue al conglomerado temporal. Las compañías se administran separadamente y sus gerentes participan del valor que generan. Los socios generales y los prestamistas supervisan, en lugar de depender exclusivamente de una jerarquía divisional permanente."
+      ]
+    },
+    {
+      "id": "c33-q052",
+      "tema": "Límites de la crítica a conglomerados",
+      "dificultad": "intermedia",
+      "pregunta": "Un director concluye que ningún conglomerado puede crear valor y que cualquier gerente exitoso sirve igual para toda industria. ¿Qué corrección corresponde?",
+      "opciones": [
+        "Hay conglomerados exitosos, pero las capacidades no son perfectamente transferibles y la diversidad complica información e incentivos.",
+        "La diversidad de industrias garantiza capacidades gerenciales suficientes.",
+        "La dificultad de medir divisiones prueba que no pueden innovar.",
+        "Ambas afirmaciones son leyes financieras universales."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La crítica señala riesgos de asignación, medición e incentivos, sin negar todos los casos exitosos. Algunas habilidades generales ayudan a mejorar empresas mal administradas. Mantener muchos negocios distintos en el largo plazo exige capacidades adicionales y puede ser difícil.",
+        "Estar presente en muchos sectores no produce por sí solo experiencia suficiente en cada uno. La dirección debe evaluar oportunidades muy distintas. La complejidad puede superar sus capacidades de seguimiento.",
+        "La ausencia de una cotización divisional dificulta diseñar incentivos, pero no imposibilita innovar. Una división biotecnológica puede necesitar tolerancia al riesgo, paciencia y recompensas que reflejen sus propios resultados científicos y comerciales. Se trata de una dificultad organizativa especialmente importante en investigación y desarrollo, no de una prohibición económica.",
+        "Las dos afirmaciones son demasiado absolutas. Existen conglomerados con buen desempeño. Además, gestionar industrias diferentes requiere conocimientos y criterios que no se trasladan de manera automática."
+      ]
+    },
+    {
+      "id": "c33-q053",
+      "tema": "Liquidación y reorganización",
+      "dificultad": "basica",
+      "pregunta": "En el esquema estadounidense histórico analizado, ¿qué distingue al capítulo 7 del capítulo 11?",
+      "opciones": [
+        "El 7 exige mantener siempre a la gerencia; el 11 obliga a cerrar todas las plantas.",
+        "El 7 liquida la empresa; el 11 procura reorganizarla y conservar valor en funcionamiento.",
+        "Ambos garantizan pago íntegro a los accionistas.",
+        "El 11 prohíbe vender cualquier parte del negocio."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Las funciones están invertidas y formuladas de manera absoluta. En la liquidación un síndico administra el cierre. En la reorganización suele continuar la gestión existente, aunque puede haber sustituciones.",
+        "El capítulo 7 se orienta al cierre y venta de activos bajo un síndico. El capítulo 11 busca reorganizar las obligaciones y preservar una actividad viable. Si la rehabilitación fracasa, puede terminar en liquidación.",
+        "Los accionistas son titulares residuales y pueden perder toda su inversión. Ni la liquidación ni la reorganización garantizan un cobro. La capacidad de pago depende del valor disponible y de los derechos previos.",
+        "Una reorganización puede exigir vender o cerrar partes importantes del negocio. Conservar valor no significa mantener intacta toda la estructura. El objetivo es una empresa viable, no preservar cada activo."
+      ]
+    },
+    {
+      "id": "c33-q054",
+      "tema": "Inicio del procedimiento y síndico",
+      "dificultad": "basica",
+      "pregunta": "¿Qué descripción corresponde al inicio y a la administración de una liquidación en el esquema del capítulo?",
+      "opciones": [
+        "Los acreedores también pueden promover el procedimiento y un síndico designado supervisa el cierre y la venta.",
+        "Solo los accionistas pueden iniciarla y conservan control irrestricto.",
+        "Todo procedimiento de quiebra debe comenzar por una oferta pública de acciones.",
+        "Los acreedores individuales deben competir libremente por incautar primero todos los bienes."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La iniciativa no pertenece exclusivamente al deudor. En una liquidación el síndico realiza activos y administra su distribución según los derechos aplicables. También evita cobros desordenados o recupera bienes indebidamente capturados.",
+        "Los acreedores también pueden iniciar el procedimiento, particularmente cuando el deudor posterga el cierre. Los accionistas no conservan control irrestricto de una liquidación. La intervención judicial busca ordenar el proceso.",
+        "No existe una oferta pública obligatoria como paso inicial. La liquidación suele vender activos para pagar acreedores. Emitir acciones es una decisión distinta y puede ser inviable en dificultades severas.",
+        "La liquidación colectiva pretende evitar esa carrera desordenada. Los derechos de garantía y prioridad deben respetarse mediante un procedimiento. Cobrar primero por fuerza individual puede perjudicar a otros reclamantes."
+      ]
+    },
+    {
+      "id": "c33-q055",
+      "tema": "Prelación de pagos en liquidación",
+      "dificultad": "intermedia",
+      "pregunta": "Una liquidación produce $150 millones: $60 provienen de una garantía exclusiva que cubre exactamente deuda garantizada de $60; los otros $90 están libres. Hay $10 de costos del proceso, $20 de créditos prioritarios y $100 de deuda ordinaria sin garantía. Bajo ese orden y sin otros créditos, ¿cuánto cobra la deuda ordinaria y cuánto el capital?",
+      "opciones": [
+        "Ordinaria $90; capital $0 millones.",
+        "Ordinaria $60; capital $0 millones.",
+        "Ordinaria $100; capital $20 millones.",
+        "Ordinaria $100; capital $0 millones."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Los 90 libres no están íntegramente disponibles para acreedores ordinarios. Primero se pagan 10 de costos y 20 prioritarios. Solo quedan 60 para esa deuda.",
+        "Los 60 de garantía pagan exactamente la deuda garantizada. Del fondo libre quedan 90 − 10 − 20 = 60 para los acreedores ordinarios. Como estos aún tienen 40 impagos, el capital no recibe nada. Entre los derechos prioritarios del esquema histórico figuran salarios e impuestos, mientras los acreedores ordinarios cobran después de esas categorías.",
+        "La respuesta distribuye más valor del disponible después de atender los derechos anteriores. Los 60 garantizados se pagan con su garantía y los costos y prioridades consumen 30 adicionales. No queda ningún residuo para accionistas.",
+        "Pagar los 100 ordinarios exigiría disponer de 100 después de costos y prioridades. Solo quedan 60 en el fondo libre. La insuficiencia impide un pago íntegro aun cuando el capital no cobre."
+      ]
+    },
+    {
+      "id": "c33-q056",
+      "tema": "Suspensión de acciones y deudor en posesión",
+      "dificultad": "basica",
+      "pregunta": "¿Qué propósito económico tiene detener acciones individuales de cobro mientras una empresa se reorganiza bajo el capítulo 11?",
+      "opciones": [
+        "Eliminar definitivamente las deudas sin negociación.",
+        "Transferir automáticamente el control a cada acreedor por turno.",
+        "Evitar el desmembramiento por cobros aislados y preservar valor mientras se negocia un plan.",
+        "Impedir que la empresa siga vendiendo sus productos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La suspensión no es una cancelación automática de obligaciones. Los créditos se tratan en el plan de reorganización. Su función inmediata es dar un marco colectivo para negociar.",
+        "La empresa suele continuar funcionando bajo una administración definida por el procedimiento. No se reparte su control por turnos entre acreedores. La coordinación busca evitar decisiones individuales incompatibles.",
+        "La ejecución individual de activos esenciales puede destruir el valor de un negocio viable. La pausa permite evaluar y negociar una estructura sostenible. La administración existente suele continuar, aunque el tribunal puede designar un síndico.",
+        "La continuidad operativa es una finalidad de la reorganización. Detener cobros individuales puede permitir que producción y ventas sigan. No se trata de paralizar por definición la actividad comercial."
+      ]
+    },
+    {
+      "id": "c33-q057",
+      "tema": "Protección del acreedor garantizado",
+      "dificultad": "intermedia",
+      "pregunta": "Durante la reorganización se necesita usar una máquina dada en garantía, cuyo valor cae por depreciación económica. ¿Qué solución recoge el esquema expuesto?",
+      "opciones": [
+        "Exigir que la máquina permanezca parada aunque destruya el valor de continuidad.",
+        "Permitir su uso y eliminar el derecho del acreedor sin compensación.",
+        "Permitir su uso con protección del acreedor frente a esa pérdida de valor, por ejemplo mediante pagos compensatorios.",
+        "Entregar automáticamente nuevas acciones a todos los trabajadores."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Parar siempre el activo impediría muchas reorganizaciones útiles. La alternativa no se limita a inmovilizar o expropiar. Puede autorizarse el uso manteniendo protección para el acreedor.",
+        "La reorganización no vuelve irrelevante el derecho de garantía. Usar el activo puede perjudicar al acreedor si su respaldo pierde valor. El esquema contempla protección frente a esa caída.",
+        "La continuidad puede requerir activos que garantizan deuda anterior. La protección del acreedor busca compensar el deterioro del valor que respalda su crédito. Así se intenta conciliar funcionamiento y respeto de la garantía.",
+        "La entrega de acciones a trabajadores no compensa necesariamente al titular de la garantía. El problema es la reducción del valor que respalda una deuda concreta. La solución debe dirigirse a ese derecho afectado."
+      ]
+    },
+    {
+      "id": "c33-q058",
+      "tema": "Plan y estructura de capital sostenible",
+      "dificultad": "intermedia",
+      "pregunta": "Un plan reduce deuda y entrega nuevas acciones a acreedores, pero mantiene contratos operativos que hacen perder dinero aun antes de intereses. ¿Qué falla central presenta?",
+      "opciones": [
+        "Puede resolver el reparto financiero sin corregir las causas económicas de la crisis.",
+        "Usar acciones en lugar de efectivo está prohibido por definición.",
+        "Toda reducción de deuda destruye necesariamente valor.",
+        "Satisfacer a los acreedores vuelve innecesario evaluar el negocio."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un plan debe distribuir derechos de forma aceptable y dar una salida a los problemas del negocio. Reducir intereses no corrige contratos que producen pérdidas operativas persistentes. Si esas causas continúan, puede haber una nueva quiebra después de la reorganización.",
+        "Los planes pueden combinar efectivo y distintos valores. El instrumento utilizado no es el problema principal. La empresa necesita además una operación capaz de sostenerse.",
+        "La reducción de una carga financiera insostenible puede favorecer la recuperación. El efecto depende del valor preservado y de los derechos intercambiados. No existe destrucción necesaria por reducir deuda.",
+        "El acuerdo sobre cobros no garantiza viabilidad. Si la empresa sigue consumiendo recursos sin generar valor, los nuevos títulos también pueden fracasar. La reorganización necesita coherencia financiera y operativa."
+      ]
+    },
+    {
+      "id": "c33-q059",
+      "tema": "Votación por clases: doble umbral",
+      "dificultad": "avanzada",
+      "pregunta": "Usá esta regla simplificada del régimen histórico: una clase debe reunir al menos la mitad de sus votos y al menos dos tercios del valor total de sus créditos. Votan los 12 acreedores de una clase con créditos totales de $180 millones. Apoyan 7 acreedores que representan $110 millones. ¿Se cumplen ambos umbrales?",
+      "opciones": [
+        "Sí, porque siete supera la mitad de doce.",
+        "Sí, porque $110 millones supera la mitad de $180 millones.",
+        "No: se necesitan doce votos favorables.",
+        "No: alcanza el umbral de votos, pero necesita al menos $120 millones de créditos favorables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El número de votos es solo una de las dos condiciones. Siete de doce supera la mitad. El valor favorable también debe alcanzar dos tercios y aquí no lo hace.",
+        "El umbral de valor no es una mayoría simple. Dos tercios de 180 equivalen a 120. Los 110 favorables resultan insuficientes.",
+        "La regla del ejercicio no exige unanimidad. Bastaría cumplir ambos umbrales establecidos. Aquí el obstáculo es el monto de créditos representado, no la falta de doce votos.",
+        "Siete votos sobre doce cumplen el requisito numérico planteado. En valor, dos tercios de 180 son 120 millones y solo apoyan 110. Al ser condiciones conjuntas, la clase no aprueba según la regla del ejercicio."
+      ]
+    },
+    {
+      "id": "c33-q060",
+      "tema": "Información, ratificación y clases disidentes",
+      "dificultad": "avanzada",
+      "pregunta": "En el régimen histórico presentado, ¿qué afirmación combina correctamente el papel de la información y del tribunal en un plan?",
+      "opciones": [
+        "La SEC fija el precio de venta de cada activo y reemplaza todas las votaciones.",
+        "La aprobación de una clase elimina siempre la revisión judicial.",
+        "Todas las clases deben aceptar cualquier propuesta de la gerencia sin información.",
+        "La información relevante debe revelarse antes de votar y el tribunal ratifica el plan; bajo condiciones específicas puede confirmarlo pese a clases disidentes."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La función destacada de la SEC es promover información relevante para los acreedores en reorganizaciones importantes. No consiste en fijar todos los precios. Tampoco reemplaza automáticamente las decisiones de los participantes y del tribunal.",
+        "El apoyo de una clase no hace innecesaria la ratificación. La confirmación judicial verifica condiciones del procedimiento. La posibilidad de imponer un plan a disidentes tampoco es irrestricta.",
+        "La revelación de información es necesaria para evaluar lo que se recibe. Las clases tienen participación en la aceptación del plan. No existe una obligación general de aceptar sin conocer sus términos.",
+        "Los reclamantes necesitan conocer información pertinente antes de decidir. El tribunal revisa y ratifica el resultado bajo las condiciones del régimen. La confirmación frente a disidentes es una posibilidad condicionada, no una potestad automática e ilimitada."
+      ]
+    },
+    {
+      "id": "c33-q061",
+      "tema": "Continuidad frente a liquidación",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos, costos procesales ni diferencias de riesgo pendientes de incorporar, una empresa vale hoy $240 millones en funcionamiento y $190 millones si se venden sus activos para otros usos. ¿Qué decisión maximiza valor y por cuánto?",
+      "opciones": [
+        "Preservar el negocio; la ventaja es de $50 millones.",
+        "Liquidar; la ventaja es de $50 millones.",
+        "Preservar; la ventaja es de $240 millones.",
+        "Da lo mismo porque la deuda existente no cambia."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Los dos valores son comparables hoy bajo los supuestos indicados. Mantener la empresa conserva 240 frente a 190 de liquidación. La ventaja de continuidad es 240 − 190 = 50 millones, aunque todavía haya que negociar su reparto.",
+        "La liquidación produce menos valor en el supuesto. Sería preferible si el uso alternativo de activos superara al negocio en funcionamiento. Aquí ocurre lo contrario.",
+        "Los 240 representan el valor total de continuidad. La ventaja debe medirse contra la alternativa sacrificada de 190. El incremento relevante es 50.",
+        "El valor de los activos y la forma de repartirlo son cuestiones distintas. La deuda no vuelve equivalentes alternativas con valores diferentes. Elegir continuidad preserva 50 millones adicionales para el conjunto."
+      ]
+    },
+    {
+      "id": "c33-q062",
+      "tema": "Modelo simplificado de incumplimiento",
+      "dificultad": "intermedia",
+      "pregunta": "En el modelo financiero simplificado, una empresa no puede pagar una obligación y su capital deja de tener valor. Si el negocio vale más en marcha que liquidado, ¿qué solución económica es coherente?",
+      "opciones": [
+        "Transferir propiedad a los acreedores mediante una reorganización y conservar el negocio viable.",
+        "Cerrar siempre, aun destruyendo valor de continuidad.",
+        "Pagar primero a accionistas por haber sido los propietarios originales.",
+        "Borrar todas las deudas y devolver la empresa intacta a los antiguos accionistas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El incumplimiento puede hacer que los acreedores sustituyan a los accionistas como propietarios. La continuidad se justifica por el mayor valor del negocio funcionando. Si hay varios rangos de deuda, la asignación debe considerar las prioridades entre ellos.",
+        "La falta de valor del capital no implica que la actividad carezca de valor. Cerrar destruye riqueza si el negocio vale más operando. La estructura de derechos puede cambiar sin liquidar los activos.",
+        "Los accionistas son reclamantes residuales. No tienen prioridad económica sobre las obligaciones por haber aportado antes. Si el valor no cubre los derechos anteriores, su participación puede desaparecer.",
+        "La reorganización no se define como un regalo a los accionistas existentes. Los acreedores entregan derechos y reciben compensación en efectivo o valores. La prioridad y el valor disponible determinan la asignación."
+      ]
+    },
+    {
+      "id": "c33-q063",
+      "tema": "Quiebra con capital de valor positivo",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía conserva valor patrimonial positivo, pero enfrenta un litigio enorme y contratos difíciles de renegociar. ¿Por qué podría solicitar reorganización?",
+      "opciones": [
+        "Porque capital positivo significa necesariamente caja suficiente para cualquier pago.",
+        "Porque toda solicitud demuestra que los activos valen cero.",
+        "Porque puede buscar coordinación de reclamaciones y renegociación, aun sin haber agotado todo su valor patrimonial.",
+        "Porque la reorganización garantiza ganar todos los juicios."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El valor económico del capital no es lo mismo que efectivo inmediatamente disponible. Además, obligaciones contingentes pueden alterar la viabilidad. No puede deducirse liquidez ilimitada de un patrimonio positivo.",
+        "La solicitud puede responder a necesidades de coordinación y contratos onerosos. Un negocio puede conservar activos valiosos y aun así necesitar protección. El valor cero de los activos no es una condición general.",
+        "La reorganización puede servir para ordenar demandas o negociar obligaciones que amenazan al negocio. Los ejemplos de litigios y contratos laborales muestran motivos distintos del simple agotamiento de caja. Tener capital de valor positivo no excluye esas dificultades.",
+        "La protección concursal no resuelve automáticamente el fondo de todos los litigios. Puede detener acciones y facilitar un arreglo colectivo. El resultado sigue dependiendo de derechos, pruebas y negociación."
+      ]
+    },
+    {
+      "id": "c33-q064",
+      "tema": "Destrucción de valor por demora",
+      "dificultad": "intermedia",
+      "pregunta": "Una liquidación inmediata permitiría distribuir $300 millones. Dos años de intentos fallidos de rescate dejan solo $180 millones distribuibles, ambos importes expresados en valor de hoy e incluyendo todos los costos. ¿Cuánto valor se destruye por elegir el intento fallido?",
+      "opciones": [
+        "$480 millones.",
+        "$180 millones.",
+        "$60 millones.",
+        "$120 millones."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sumar ambas alternativas no mide lo perdido. Son opciones mutuamente excluyentes. La pérdida se calcula como valor de la mejor alternativa menos valor finalmente obtenido.",
+        "Los 180 son la recuperación final, no la destrucción de valor. Hay que compararlos con los 300 disponibles de inmediato. La diferencia es 120.",
+        "Dividir la pérdida entre dos años daría un promedio sin relevancia para la pregunta. Los importes ya están en valor de hoy. La destrucción total es 300 − 180 = 120.",
+        "La alternativa inmediata vale 300 y la seguida termina valiendo 180. Como ambos valores ya incorporan tiempo y costos, se restan directamente. La pérdida de 120 ilustra el riesgo de prolongar una empresa inviable, como en el caso económico de Eastern Airlines."
+      ]
+    },
+    {
+      "id": "c33-q065",
+      "tema": "Deducciones fiscales y continuidad ineficiente",
+      "dificultad": "avanzada",
+      "pregunta": "Para este ejercicio, una reorganización preserva pérdidas fiscales utilizables de $100 millones al final del próximo año, mientras la liquidación las elimina. La tasa impositiva es 30%, la tasa de descuento apropiada 20% y hay utilidades suficientes para usarlas. ¿Cuál es el valor presente de esa ventaja fiscal?",
+      "opciones": [
+        "$25 millones.",
+        "$100 millones.",
+        "$30 millones.",
+        "$83,33 millones."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El ahorro fiscal al final del año es 100 × 0,30 = 30 millones. Descontarlo a hoy da 30/1,20 = 25 millones. Esta ventaja puede sesgar la decisión de continuidad, pero debe compararse con cualquier pérdida de valor operativo.",
+        "La pérdida fiscal utilizable no es un cobro por su importe completo. Solo reduce impuestos según la tasa aplicable. Además, el beneficio llega al final del año y debe descontarse.",
+        "Los 30 son el ahorro nominal al final del año. El ejercicio pide valor presente y proporciona una tasa. Dividir por 1,20 reduce el valor a 25.",
+        "Los 83,33 surgen de descontar directamente la pérdida fiscal de 100. Primero debe calcularse cuánto impuesto ahorra esa deducción. El flujo relevante es 30, no 100."
+      ]
+    },
+    {
+      "id": "c33-q066",
+      "tema": "Valuación de títulos recibidos en un plan",
+      "dificultad": "avanzada",
+      "pregunta": "Un acreedor tiene un crédito de $100 millones. Un plan le ofrece $20 millones en efectivo y bonos con valor nominal de $90 millones, pero valor razonable de $60 millones. ¿Cuál es su recuperación económica y su quita económica?",
+      "opciones": [
+        "Recupera $110 millones y gana $10 millones.",
+        "Recupera $90 millones y soporta una quita de 10%.",
+        "Recupera $60 millones y soporta una quita de 40%.",
+        "Recupera $80 millones y soporta una quita de 20%."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sumar efectivo y nominal de los bonos sobrestima lo recibido. Los títulos prometen 90, pero su valor económico es 60. El total recuperado es 80.",
+        "Los 90 son el nominal de los bonos, no el valor del paquete completo. La recuperación económica utiliza su valor razonable y agrega el efectivo. Ese cálculo da 80.",
+        "Los 60 representan solo el valor de los bonos. El efectivo de 20 también integra la recuperación. Al incluirlo, la quita baja a 20%.",
+        "El valor recibido es 20 + 60 = 80 millones. La pérdida respecto del crédito de 100 es 20, equivalente a una quita económica de 20%. La mezcla de efectivo y valores hace necesario valorar las promesas, no sumar sus nominales."
+      ]
+    },
+    {
+      "id": "c33-q067",
+      "tema": "Conflictos entre acreedores y accionistas",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene valor insuficiente para pagar a todos. ¿Qué conflicto de preferencias puede aparecer durante la negociación?",
+      "opciones": [
+        "Todos los grupos prefieren necesariamente la alternativa más riesgosa.",
+        "Los accionistas buscan siempre liquidar de inmediato para cobrar antes que los acreedores.",
+        "Los acreedores superiores pueden preferir liquidar pronto, mientras subordinados y accionistas buscan continuidad y una posibilidad de recuperar algo.",
+        "La prioridad hace imposible cualquier negociación entre clases."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Quien está protegido por prioridad puede preferir preservar el valor disponible. Quien ya no tiene recuperación puede valorar una apuesta por mejora. Las preferencias dependen de cómo cada alternativa distribuye resultados.",
+        "Los accionistas cobran después de los acreedores, no antes. Si la liquidación no cubre la deuda, pueden no recibir nada. Por eso suelen tener incentivos para intentar continuidad o negociar una participación residual.",
+        "Los acreedores superiores pueden asegurar mejor su cobro con una venta temprana. Los subordinados y accionistas pueden ganar con una recuperación futura y tienen menos que perder si hoy no cobran. Esa divergencia dificulta acordar una solución que maximice valor conjunto.",
+        "La prioridad influye en la negociación, pero no la elimina. Las partes pueden hacer concesiones para ahorrar tiempo y costos. En la práctica pueden existir repartos que se aparten de una prelación estricta."
+      ]
+    },
+    {
+      "id": "c33-q068",
+      "tema": "Dilación y premios de negociación",
+      "dificultad": "avanzada",
+      "pregunta": "Accionistas sin recuperación bajo prioridad estricta amenazan con demorar un acuerdo. Los acreedores superiores les ofrecen una pequeña participación para cerrarlo pronto. ¿Qué explica esa concesión?",
+      "opciones": [
+        "Los accionistas adquirieron prioridad legal automática sobre toda deuda.",
+        "La empresa creó valor operativo solo por emitir más acciones.",
+        "Los acreedores superiores olvidaron que existe la liquidación.",
+        "Evitar demoras, costos y deterioro puede valer más que mantener una asignación estricta hasta el final."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La capacidad de demorar no convierte por sí sola al accionista en acreedor prioritario. Es una fuente de poder negociador. La concesión puede reflejar el costo de resistir, no un cambio automático de rango.",
+        "Emitir títulos no crea por sí solo activos productivos ni flujos adicionales. La ganancia del acuerdo viene de evitar fricciones. El reparto puede cambiar sin que aumente la operación subyacente.",
+        "Los superiores pueden conocer perfectamente la opción de liquidar. Aun así, litigar o imponerla puede consumir tiempo y recursos. Una concesión pequeña puede maximizar lo que finalmente reciben.",
+        "La demora puede consumir activos y honorarios, reduciendo la recuperación. Los superiores pueden preferir ceder una parte antes que perder más en una disputa. Esto explica pagos residuales a grupos que no cobrarían bajo una aplicación estricta de prioridades."
+      ]
+    },
+    {
+      "id": "c33-q069",
+      "tema": "Financiamiento del deudor en posesión",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué función y qué conflicto puede generar el financiamiento del deudor en posesión (DEP) durante una reorganización?",
+      "opciones": [
+        "Solo puede usarse después de cerrar definitivamente la empresa.",
+        "Aporta caja para operar, pero su prioridad puede reducir la recuperación de acreedores anteriores.",
+        "No genera ninguna obligación de repago.",
+        "Elimina por definición toda necesidad de controlar la viabilidad."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El financiamiento busca sostener la actividad mientras se prepara la reorganización. No se limita a una empresa ya cerrada. Su utilidad depende de que la continuidad tenga una justificación económica.",
+        "La empresa puede necesitar recursos para inventarios, salarios y continuidad. La prioridad de la nueva deuda facilita obtenerlos. Sin embargo, agrega derechos preferentes que pueden perjudicar a los acreedores anteriores y presionarlos a acordar.",
+        "Es una deuda y supone obligaciones de pago. La prioridad especial no equivale a una donación. Su costo y su rango deben considerarse en la recuperación de los demás.",
+        "Obtener crédito permite operar, pero no demuestra que convenga continuar. Si el negocio destruye valor, el financiamiento puede agravar las pérdidas de antiguos acreedores. La viabilidad sigue siendo esencial."
+      ]
+    },
+    {
+      "id": "c33-q070",
+      "tema": "Efecto distributivo de nueva deuda prioritaria",
+      "dificultad": "avanzada",
+      "pregunta": "Para aislar prioridades, suponé un fondo final distribuible fijo de $120 millones, sin costos adicionales. Antes había solo $150 millones de deuda ordinaria. Ahora existen además $30 millones de deuda DEP que cobra primero, sin aumentar ese fondo final. ¿Cómo cambia la recuperación porcentual de la deuda ordinaria?",
+      "opciones": [
+        "Baja de 80% a 60%.",
+        "Sube de 80% a 100%.",
+        "Se mantiene en 80% porque el fondo no cambia.",
+        "Baja de 100% a 80%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Antes los ordinarios cobraban 120/150 = 80%. Después quedan 120 − 30 = 90, por lo que cobran 90/150 = 60%. El supuesto de fondo fijo aísla la dilución de prioridad y no afirma que todo financiamiento DEP carezca de beneficio operativo.",
+        "La nueva deuda cobra antes y reduce el fondo de los acreedores ordinarios. No aumenta el valor distribuible por el supuesto del ejercicio. Por eso la recuperación ordinaria disminuye.",
+        "El fondo total no cambia, pero sí el orden de reparto y los créditos que cobran antes. Los 30 prioritarios se descuentan primero. El remanente ordinario baja de 120 a 90.",
+        "La recuperación inicial ya era inferior al total del crédito: 120 frente a 150. Por eso comenzaba en 80%, no en 100%. Con la nueva prioridad se reduce a 60%."
+      ]
+    },
+    {
+      "id": "c33-q071",
+      "tema": "Acuerdo extrajudicial de reestructuración",
+      "dificultad": "basica",
+      "pregunta": "¿Qué caracteriza un acuerdo de reestructuración o workout?",
+      "opciones": [
+        "Una negociación directa para modificar condiciones de deuda, como plazos o intereses, evitando inicialmente un proceso formal.",
+        "La conversión automática de todos los acreedores en empleados.",
+        "La venta obligatoria de toda la empresa en una subasta judicial.",
+        "Una oferta pública inicial de acciones de una subsidiaria sana."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La empresa y sus acreedores intentan resolver las dificultades mediante negociación. Pueden extender vencimientos o reducir la carga de intereses. Evitar el proceso judicial puede ahorrar costos, aunque exige coordinar intereses diversos.",
+        "Los acreedores negocian derechos financieros, no una transformación necesaria en trabajadores. Pueden aceptar nuevas condiciones o valores. El mecanismo depende del acuerdo alcanzado.",
+        "Una subasta judicial es una alternativa de realización de activos. El workout intenta alcanzar un arreglo entre las partes. Puede incluir pagos, extensiones y otras modificaciones sin liquidación obligatoria.",
+        "La oferta de una subsidiaria es una separación o carve-out. Un workout trata obligaciones de una empresa en dificultades. Son mecanismos distintos, aunque una venta de activos pueda ayudar a financiar un acuerdo."
+      ]
+    },
+    {
+      "id": "c33-q072",
+      "tema": "Acreedores renuentes y estructura compleja",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa negocia con muchas clases de deuda y algunos acreedores se niegan a aceptar una quita esperando cobrar íntegro si los demás ceden. ¿Qué obstáculo aparece?",
+      "opciones": [
+        "Un problema de coordinación y acreedores renuentes que puede impedir un acuerdo beneficioso para el conjunto.",
+        "Una garantía de que todos terminarán mejor cobrando por separado.",
+        "Una razón por la que los acreedores superiores nunca hacen concesiones.",
+        "Una imposibilidad matemática de valorar cualquier activo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Cada acreedor puede intentar beneficiarse de las concesiones ajenas sin participar. Con muchas clases y contratos es más difícil lograr adhesión suficiente. Este problema ayuda a explicar por qué un workout puede fracasar aun cuando parezca económicamente razonable.",
+        "La acción individual puede deteriorar el valor y frustrar una solución colectiva. La expectativa de que otros acepten pérdidas genera incentivos para resistirse. No garantiza una recuperación mayor para todos.",
+        "Los superiores pueden aceptar concesiones para evitar costos judiciales y demora. Los subordinados pueden aprovechar esa urgencia en la negociación. La complejidad de derechos aumenta las dificultades para acordar.",
+        "El obstáculo descrito es estratégico, no una imposibilidad de estimar activos. Las partes pueden conocer el valor y aun así discrepar sobre el reparto. La valoración tampoco obliga por sí sola a aceptar una quita."
+      ]
+    },
+    {
+      "id": "c33-q073",
+      "tema": "Quiebra preacordada",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa pacta previamente con sus acreedores un intercambio de deuda y luego solicita confirmación judicial mediante una reorganización. ¿Qué busca con esta secuencia?",
+      "opciones": [
+        "Demostrar que toda negociación anterior carecía de utilidad.",
+        "Combinar negociación previa con respaldo judicial, reduciendo disputas posteriores y accediendo a ventajas del procedimiento.",
+        "Evitar cualquier revisión del tribunal pese a solicitar su confirmación.",
+        "Garantizar que ningún acreedor sufrirá pérdidas económicas."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El acuerdo previo es la base que puede acelerar el proceso formal. No se vuelve inútil por acudir después al tribunal. La secuencia combina dos herramientas complementarias.",
+        "La negociación previa permite llegar al tribunal con gran parte del plan acordado. La confirmación puede reducir incertidumbre y litigios posteriores. También puede permitir aprovechar ventajas fiscales del régimen, sin eliminar toda revisión ni toda pérdida.",
+        "Pedir confirmación implica someter el plan a las condiciones judiciales correspondientes. La preparación previa no suprime ese control. Su ventaja es reducir puntos pendientes de conflicto.",
+        "Un intercambio de deuda puede incluir quitas o valores con riesgo. La aprobación del plan no garantiza recuperación íntegra. El objetivo es resolver ordenadamente una situación de insuficiencia o fragilidad."
+      ]
+    },
+    {
+      "id": "c33-q074",
+      "tema": "Subasta inmediata como alternativa",
+      "dificultad": "intermedia",
+      "pregunta": "Un reformador propone subastar de inmediato una compañía insolvente y distribuir el precio según prioridades. ¿Qué beneficio busca y qué riesgo debe considerar?",
+      "opciones": [
+        "Busca evitar todo uso de precios de mercado y garantiza conservar cada empleo.",
+        "Busca impedir la continuidad de cualquier negocio, incluso si se vende en marcha.",
+        "Busca dar siempre prioridad a accionistas y garantiza precios máximos.",
+        "Busca reducir demoras y conflictos de valuación, pero una subasta con compradores escasos puede sacrificar valor."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La subasta utiliza precisamente ofertas de mercado para revelar un precio. No garantiza mantener todos los puestos. La propuesta prioriza realización y reparto del valor.",
+        "Una empresa puede subastarse como negocio en marcha. Cambiar de propietario no exige desmantelarla. La discusión trata la rapidez y el modo de realizar valor, no necesariamente su cierre operativo.",
+        "La distribución propuesta respeta prioridades de derechos, no un privilegio general de accionistas. Ninguna subasta garantiza un precio máximo en cualquier mercado. La participación de compradores y las condiciones de venta importan.",
+        "La venta rápida puede acortar negociaciones costosas y convertir activos en efectivo observable. Sin embargo, iliquidez o competencia insuficiente pueden reducir el precio obtenido. Hay que comparar los costos del procedimiento prolongado con los de una venta apresurada."
+      ]
+    },
+    {
+      "id": "c33-q075",
+      "tema": "Sistemas favorables al deudor o al acreedor",
+      "dificultad": "intermedia",
+      "pregunta": "En la comparación histórica de Francia, Estados Unidos y Reino Unido, ¿qué tensión económica se destaca?",
+      "opciones": [
+        "Todos los sistemas maximizan exactamente el mismo objetivo con idénticos resultados.",
+        "Dar más control a acreedores garantiza que nunca cierre un negocio viable.",
+        "Proteger empleo siempre elimina toda pérdida de los bancos.",
+        "Proteger continuidad y empleo puede reducir recuperaciones; priorizar acreedores puede acelerar cobros pero arriesgar cierres de negocios recuperables."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Los regímenes comparados asignan distinto peso a continuidad, empleo y cobro. También distribuyen de manera diferente el control del proceso. Por eso pueden producir resultados distintos.",
+        "La protección de acreedores puede favorecer realizaciones rápidas. Sin embargo, también puede llevar a cerrar empresas que podrían recuperarse con tiempo y coordinación. La crítica al exceso de liquidación es parte de la comparación.",
+        "Preservar empleo y pagar a bancos no son siempre objetivos coincidentes. El tribunal puede elegir una continuidad o un comprador con menor precio pero mayor empleo. La diferencia puede recaer en las recuperaciones de los acreedores.",
+        "Los sistemas más orientados al deudor pueden conservar negocios y empleo, a costa de demoras o menor recuperación. Los más orientados al acreedor enfatizan control y cobro. Ningún extremo elimina automáticamente el riesgo de decisiones económicamente costosas."
+      ]
+    },
+    {
+      "id": "c33-q076",
+      "tema": "Recuperación esperada y condiciones del crédito",
+      "dificultad": "avanzada",
+      "pregunta": "Un banco presta $100 por un año. La probabilidad de incumplimiento es 10%; si no hay incumplimiento cobra $100(1+r), y si lo hay recupera un monto fijo de $40, sin intereses. Para igualar un cobro esperado de $105, sin otros costos ni primas de riesgo, ¿qué tasa r necesita aproximadamente y qué implica una menor recuperación?",
+      "opciones": [
+        "5%; la recuperación no afecta las condiciones.",
+        "10%; una menor recuperación permite bajar la tasa.",
+        "12,22%; con la misma probabilidad de incumplimiento, una menor recuperación exigiría una tasa mayor o alguna otra protección.",
+        "16,67%; una menor recuperación no exige ningún ajuste."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El 5% solo daría 105 si no hubiera riesgo de incumplimiento. Aquí el cobro esperado sería 0,9 × 105 + 0,1 × 40 = 98,5. La pérdida esperada exige ajustar las condiciones bajo el objetivo dado.",
+        "Con r de 10%, el cobro esperado es 0,9 × 110 + 4 = 103. No alcanza el objetivo de 105. Además, recuperar menos empeora el resultado esperado y no justifica bajar la tasa.",
+        "La ecuación es 0,9 × 100(1+r) + 0,1 × 40 = 105. Así, 90(1+r) = 101 y r = 101/90 − 1 = 12,22% aproximadamente. Una recuperación menor reduce el cobro esperado y lleva a ajustar tasa, garantías u otras condiciones, como respuesta a las diferencias entre regímenes concursales.",
+        "La tasa de 16,67% correspondería a otra recuperación o meta, no a los datos planteados. Con ella se cobrarían aproximadamente 109 en promedio. La recuperación en incumplimiento sí interviene en el precio del crédito."
+      ]
+    },
+    {
+      "id": "c33-q077",
+      "tema": "Bonos de alto rendimiento y riesgo subestimado",
+      "dificultad": "intermedia",
+      "pregunta": "Durante un auge de CAP, los compradores consiguen deuda de alto rendimiento con tasas que no compensan adecuadamente el riesgo de incumplimiento. ¿Qué consecuencia económica puede tener?",
+      "opciones": [
+        "Una tasa baja demuestra que la productividad del objetivo aumentó.",
+        "El nombre alto rendimiento garantiza que no habrá incumplimientos.",
+        "Los inversores en bonos quedan protegidos contra toda pérdida por cobrar un cupón alto.",
+        "El financiamiento parece barato para los compradores y puede estimular precios y endeudamiento excesivos."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una tasa de deuda puede reflejar condiciones de mercado y errores de valuación del riesgo. No prueba una mejora productiva en el negocio. Confundir acceso al crédito con eficiencia operativa puede justificar compras demasiado caras.",
+        "Alto rendimiento indica una categoría de mayor riesgo crediticio, no una garantía. Las tasas prometidas pueden ser elevadas y aun así no compensar las pérdidas por incumplimiento. La calidad de los flujos y las condiciones de deuda siguen siendo centrales.",
+        "El cupón prometido no equivale al rendimiento finalmente obtenido. Un incumplimiento puede reducir intereses y principal cobrados. La evaluación debe incorporar probabilidad de impago y recuperación, además de la tasa contractual.",
+        "Si los prestamistas subestiman el incumplimiento, exigen una compensación insuficiente. Los compradores pueden aprovechar ese costo aparente para ofrecer más y asumir más deuda. Cuando se corrige la percepción del riesgo, pueden caer los bonos y encarecerse la refinanciación."
+      ]
+    },
+    {
+      "id": "c33-q078",
+      "tema": "Escisión y conflictos comerciales",
+      "dificultad": "intermedia",
+      "pregunta": "Una compañía vende equipos y también licencia software a fabricantes que compiten con ella en equipos. Esos rivales evitan contratar su software. ¿Por qué escindir el software podría crear valor?",
+      "opciones": [
+        "Porque puede disminuir el conflicto comercial, especializar la gestión y permitir que inversores elijan por separado ambos negocios.",
+        "Porque la independencia elimina necesariamente cualquier costo operativo.",
+        "Porque obliga a los rivales a comprar licencias a cualquier precio.",
+        "Porque una escisión garantiza que el software obtendrá protección monopólica."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Un proveedor independiente puede resultar más aceptable para clientes que antes lo veían como competidor. Además, cada empresa puede definir su estrategia y ser valorada por separado. Esa combinación puede crear valor real, como sugiere la lógica comercial de separar software y dispositivos en el caso Palm.",
+        "La independencia puede traer costos nuevos de administración y coordinación. No los elimina automáticamente. La decisión debe comparar esos costos con mejoras comerciales y de enfoque.",
+        "Los rivales mantienen libertad de elegir proveedores según precio, calidad y otras condiciones. La escisión puede quitar un obstáculo comercial, pero no crea una obligación de compra. Los beneficios dependen de una demanda competitiva real.",
+        "La separación societaria no otorga por sí sola monopolios ni derechos de propiedad intelectual. El software conserva las ventajas y limitaciones de su tecnología y contratos. El motivo del caso es reducir conflictos de competencia con clientes."
+      ]
+    },
+    {
+      "id": "c33-q079",
+      "tema": "Umbral fiscal histórico de participación",
+      "dificultad": "avanzada",
+      "pregunta": "Para este ejercicio usá solo los supuestos fiscales históricos presentados: una matriz necesita conservar al menos 80% de una subsidiaria para consolidarla fiscalmente; una distribución de acciones en una escisión requiere entregar al menos 80% para evitar el gravamen como dividendo bajo la simplificación expuesta. ¿Qué par cumple los respectivos umbrales?",
+      "opciones": [
+        "Vender 20% reteniendo 80%; distribuir 85% en una escisión.",
+        "Vender 30% reteniendo 70%; distribuir 90% en una escisión.",
+        "Vender 25% reteniendo 75%; distribuir 75% en una escisión.",
+        "Vender 10% reteniendo 90%; distribuir 70% en una escisión."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Vender 20% deja 80% en la matriz y cumple el primer umbral. Distribuir 85% supera el mínimo de 80% del segundo supuesto. Son reglas simplificadas para estas operaciones históricas y no un criterio fiscal universal para cualquier país o fecha.",
+        "Distribuir 90% supera el umbral de la escisión. Sin embargo, retener 70% después de la venta no cumple el requisito de consolidación. Se necesitan ambas condiciones, cada una en su operación.",
+        "Retener 75% queda por debajo del umbral de consolidación de 80%. Distribuir 75% tampoco alcanza el requisito planteado para la escisión. La opción falla en las dos pruebas del ejercicio.",
+        "Retener 90% satisface el requisito de consolidación. La distribución de 70% queda por debajo del mínimo especificado para la escisión. Cumplir el primer umbral no reemplaza cumplir el segundo."
+      ]
+    },
+    {
+      "id": "c33-q080",
+      "tema": "Ratificación y protección frente a liquidación",
+      "dificultad": "avanzada",
+      "pregunta": "Para evaluar un plan usá el esquema histórico simplificado: votación separada por clases, apoyo accionarial de dos tercios y una protección según la cual el plan no debe dejar a los acreedores peor que la liquidación. ¿Qué conclusión es correcta?",
+      "opciones": [
+        "Una votación conjunta de todos los acreedores reemplaza siempre a la votación por clases.",
+        "La aprobación de los participantes y la comparación con la liquidación son controles diferentes que deben considerarse al confirmar el plan.",
+        "Si ninguna clase de acreedores apoya, el tribunal puede imponer sin condiciones cualquier reparto.",
+        "La aprobación accionarial permite ignorar la recuperación de liquidación."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El esquema separa clases porque sus rangos e intereses son distintos. Una mayoría agregada podría ocultar el perjuicio a una clase particular. La votación conjunta no sustituye automáticamente ese análisis.",
+        "La votación recoge preferencias de los grupos y la comparación con liquidación controla un piso económico. El tribunal revisa la confirmación dentro del régimen supuesto. Una mayoría favorable no debe confundirse con una autorización ilimitada para perjudicar a acreedores.",
+        "La confirmación frente a clases disidentes tiene condiciones. El esquema presentado exige al menos una clase de acreedores favorable para esa posibilidad. No permite imponer cualquier distribución sin apoyo ni protección.",
+        "El apoyo de los accionistas no elimina la protección de los acreedores. Los accionistas son residuales y pueden preferir apuestas que perjudican a otros. Por eso el criterio de liquidación cumple una función diferente de la votación."
+      ]
+    }
+  ]
+}

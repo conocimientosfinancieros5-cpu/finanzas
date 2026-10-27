@@ -1,0 +1,1222 @@
+{
+  "capitulo": 26,
+  "titulo": "Arrendamiento",
+  "preguntas": [
+    {
+      "id": "c26-q001",
+      "tema": "Participantes y mercado",
+      "dificultad": "basica",
+      "pregunta": "¿Qué roles cumplen el arrendador y el arrendatario en un contrato típico?",
+      "opciones": [
+        "El arrendador posee el activo y el arrendatario lo usa a cambio de pagos.",
+        "El arrendatario es siempre el fabricante del equipo.",
+        "El arrendador solo intermedia y nunca es propietario.",
+        "El arrendatario adquiere automáticamente la propiedad con el primer pago."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El arrendador conserva la propiedad legal del bien. El arrendatario obtiene su uso y asume los pagos pactados. Entre los oferentes pueden encontrarse fabricantes, bancos y compañías especializadas.",
+        "El rol depende de la función contractual, no de fabricar el equipo. El arrendatario es quien lo utiliza y paga por ese uso. Un fabricante puede actuar como arrendador o vender el bien a una arrendadora.",
+        "Un agente puede limitarse a organizar una operación. El arrendador, en cambio, es la parte propietaria que concede el uso del activo. Una misma compañía puede ofrecer intermediación y arrendamiento, pero son funciones distintas.",
+        "Pagar una renta no equivale a comprar el activo. La propiedad legal permanece en el arrendador durante el contrato típico. Una eventual compra requiere condiciones específicas, como el ejercicio de una opción."
+      ]
+    },
+    {
+      "id": "c26-q002",
+      "tema": "Operativo y financiero",
+      "dificultad": "basica",
+      "pregunta": "¿Qué característica identifica mejor un arrendamiento financiero frente a uno operativo?",
+      "opciones": [
+        "Siempre incluye mantenimiento gratuito.",
+        "Siempre dura menos que el ciclo de producción.",
+        "Su única obligación es devolver el activo si bajan las ventas.",
+        "Compromete pagos durante gran parte de la vida del activo y no permite salir sin compensar al arrendador."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La distribución del mantenimiento define un contrato neto o de servicio completo. No define por sí sola si el arrendamiento es financiero. Además, los servicios incluidos se recuperan mediante la tarifa y no son necesariamente gratuitos.",
+        "No existe esa condición general para un contrato financiero. La referencia relevante es la vida económica del activo y la permanencia del compromiso. Un contrato muy breve suele responder a necesidades operativas temporales.",
+        "La caída de ventas no libera automáticamente al usuario de un compromiso financiero. El arrendatario sigue debiendo las rentas contractuales. La posibilidad de devolver sin compensación es propia de una opción de cancelación expresamente pactada.",
+        "El compromiso económico se parece al servicio de una deuda. La falta de cancelación libre mantiene la obligación aunque el activo deje de ser conveniente. Un operativo suele ser corto o incluir una salida a elección del usuario."
+      ]
+    },
+    {
+      "id": "c26-q003",
+      "tema": "Servicios incluidos",
+      "dificultad": "basica",
+      "pregunta": "¿Qué diferencia un arrendamiento neto de uno de servicio completo?",
+      "opciones": [
+        "En el neto no existen impuestos para ninguna parte.",
+        "En el completo el usuario recibe la propiedad sin pagar.",
+        "En el neto el usuario asume mantenimiento, seguros y tributos del activo; en el completo los presta o cubre el arrendador.",
+        "En el neto no se pagan rentas durante la vida del contrato."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Neto no significa exento de impuestos. Describe la asignación de costos y responsabilidades operativas. El tratamiento tributario depende de las reglas fiscales y de las características del contrato.",
+        "El servicio completo agrega prestaciones al uso del activo. No implica una transferencia gratuita del dominio. El arrendador normalmente incorpora el costo de esas prestaciones en los pagos exigidos.",
+        "La clasificación indica quién se responsabiliza por esos conceptos. Los contratos financieros suelen ser netos, aunque las categorías no son idénticas. Para comparar tarifas hay que igualar los servicios incluidos y sus costos.",
+        "El arrendamiento neto sigue exigiendo los pagos pactados. La palabra neto no elimina la contraprestación financiera. Significa que ciertos gastos del activo quedan a cargo del usuario."
+      ]
+    },
+    {
+      "id": "c26-q004",
+      "tema": "Arrendamiento directo",
+      "dificultad": "basica",
+      "pregunta": "Una empresa elige una máquina nueva y una arrendadora la compra al fabricante para cedérsela en uso. ¿Cómo se llama este mecanismo?",
+      "opciones": [
+        "Venta con arrendamiento posterior.",
+        "Arrendamiento directo.",
+        "Préstamo sin garantía al fabricante.",
+        "Venta definitiva al usuario al contado."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Ese mecanismo requiere que el futuro arrendatario venda un activo que ya posee. En el caso planteado la compra se hace al fabricante. Por eso no existe una venta previa del usuario a la arrendadora.",
+        "La arrendadora adquiere el equipo al proveedor para arrendarlo al usuario que lo seleccionó. No necesita que el usuario haya sido antes propietario. Es una forma habitual de instrumentar el financiamiento de bienes nuevos.",
+        "La operación concede el uso de un bien identificado. No entrega simplemente dinero sin garantía al fabricante. El fabricante vende el activo y la relación de arrendamiento se establece con el usuario.",
+        "La compra inicial la realiza la arrendadora, no el usuario. El usuario obtiene el derecho de uso mediante un contrato. Confundir ambas operaciones oculta la propiedad legal y las obligaciones de renta."
+      ]
+    },
+    {
+      "id": "c26-q005",
+      "tema": "Venta con arrendamiento posterior",
+      "dificultad": "intermedia",
+      "pregunta": "Una directora financiera quiere liberar efectivo de un depósito propio sin interrumpir su utilización. ¿Qué operación responde directamente a esa necesidad?",
+      "opciones": [
+        "Vender el depósito y arrendarlo al comprador mediante un contrato simultáneo.",
+        "Vender el depósito y comprometerse a desocuparlo inmediatamente.",
+        "Depreciar más rápido el depósito en la contabilidad sin venderlo.",
+        "Comprar otro depósito financiado y mantener vacío el actual."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La venta transforma el inmueble propio en efectivo. El contrato posterior preserva el derecho de uso a cambio de rentas futuras. La operación aporta liquidez, pero incorpora un compromiso que debe valorarse junto con la venta.",
+        "La venta permite captar efectivo, pero esta condición elimina el uso continuado. Por eso no cumple la necesidad operativa planteada. Un arrendamiento posterior es el mecanismo que permite separar dominio y utilización.",
+        "Cambiar la depreciación contable no convierte directamente un inmueble en efectivo. Tampoco crea por sí mismo un contrato de uso con un tercero. La liquidez de una venta con arrendamiento posterior nace de la venta efectiva.",
+        "La compra adicional crea una nueva inversión y una deuda. No libera directamente los fondos inmovilizados en el depósito existente. Además, mantenerlo vacío contradice el objetivo de utilizarlo sin interrupciones."
+      ]
+    },
+    {
+      "id": "c26-q006",
+      "tema": "Calendario y vencimiento",
+      "dificultad": "basica",
+      "pregunta": "¿Qué afirmación describe correctamente los pagos y el cierre de un arrendamiento típico?",
+      "opciones": [
+        "Todo contrato exige rentas constantes pagadas únicamente al final de cada año.",
+        "La última renta convierte siempre al usuario en dueño.",
+        "La renovación es un derecho gratuito implícito en cualquier contrato.",
+        "El primer pago suele ser inmediato y al final puede haber devolución, renovación o una compra si el contrato la permite."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Las rentas uniformes son frecuentes, pero no obligatorias. Pueden acordarse pagos mensuales, anticipados o variables. La valuación debe respetar el calendario concreto, especialmente la existencia de un pago en el período cero.",
+        "Completar los pagos no equivale necesariamente a comprar el bien. La devolución puede ser el desenlace previsto. Para adquirirlo debe existir y ejercerse una cláusula de compra o transferencia aplicable.",
+        "Los derechos de renovación dependen del acuerdo. Pueden fijar una tarifa o exigir renegociarla según el mercado. Su valor debe analizarse a partir de las condiciones reales y no suponerse gratuito.",
+        "Es frecuente que las rentas se paguen por adelantado. El calendario puede adaptarse a una etapa inicial de puesta en marcha. Al vencimiento no hay una transferencia automática de propiedad: rigen las condiciones pactadas."
+      ]
+    },
+    {
+      "id": "c26-q007",
+      "tema": "Uso transitorio y costos de transacción",
+      "dificultad": "basica",
+      "pregunta": "Una constructora necesita una grúa durante un mes. ¿Qué argumento económico favorece un arrendamiento operativo?",
+      "opciones": [
+        "Elimina toda obligación de pago mientras la grúa esté en uso.",
+        "Garantiza una ganancia de capital por la venta futura de la grúa.",
+        "Evita comprar y revender para un uso breve, con sus costos de búsqueda y contratación.",
+        "Permite deducir simultáneamente renta y depreciación propia del mismo bien en un arrendamiento fiscal genuino."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El usuario debe pagar las rentas acordadas. Lo que puede evitar son los costos de adquirir y luego vender el activo. La conveniencia económica no surge de usar gratuitamente el equipo.",
+        "El usuario no es dueño de la grúa en un arrendamiento típico. Por eso no recibe automáticamente su precio de reventa. La ventaja buscada consiste en atender una necesidad temporal sin asumir toda la operación de compraventa.",
+        "La duración acotada vuelve importantes los costos de entrada y salida de la propiedad. Un arrendador puede repartir esos costos entre muchos usuarios. La ventaja debe compararse con la renta ofrecida y los servicios incluidos.",
+        "En el esquema fiscal considerado, la depreciación corresponde al propietario fiscal. El usuario deduce la renta cuando reúne los requisitos aplicables. Duplicar ambas deducciones en la misma parte confunde arrendamiento con compra."
+      ]
+    },
+    {
+      "id": "c26-q008",
+      "tema": "Maltrato y mercado de alquiler",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué puede ser caro o difícil alquilar por poco tiempo un equipo muy sensible al uso descuidado?",
+      "opciones": [
+        "El costo de los daños desaparece cuando cambia el usuario.",
+        "El usuario puede tener menos incentivos para cuidarlo y el propietario incorpora el daño esperado al precio.",
+        "Un plazo corto transfiere automáticamente el dominio al usuario.",
+        "La competencia obliga a cobrar cero por cualquier riesgo de deterioro."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Cambiar al usuario no repara el desgaste ni elimina el costo de reposición. El propietario debe anticipar esos costos al ofrecer el contrato. La rotación frecuente incluso puede dificultar identificar quién produjo un daño.",
+        "La separación entre uso y propiedad crea un problema de incentivos. Si es costoso observar o cobrar los daños, la renta necesaria aumenta. En casos extremos el oferente puede preferir no alquilar ese equipo.",
+        "La duración breve no convierte el alquiler en una venta. El arrendador conserva el activo y enfrenta su deterioro residual. Justamente esa exposición explica su interés por el cuidado durante el uso.",
+        "La competencia presiona hacia costos económicos competitivos, no hacia pérdidas permanentes. Un daño esperado es parte del costo de ofrecer el servicio. Si la renta no lo cubre, el mercado puede reducir la oferta o desaparecer."
+      ]
+    },
+    {
+      "id": "c26-q009",
+      "tema": "Especialización y estandarización",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo puede una arrendadora especializada reducir el costo de financiar equipos de pequeñas empresas?",
+      "opciones": [
+        "Usa contratos repetibles, conoce la garantía y compra, mantiene o revende con economías de escala.",
+        "Sustituye toda evaluación del riesgo por la promesa de que el equipo nunca pierde valor.",
+        "Obtiene una exención universal de impuestos por comprar muchos equipos.",
+        "Convierte todas las rentas en aportes de capital sin devolución económica."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La especialización reduce investigación, documentación y costos administrativos por operación. Conocer el mercado secundario facilita estimar lo recuperable si hay incumplimiento. Esto puede volver viable financiar montos pequeños sin los costos de una emisión de valores.",
+        "La estandarización no elimina el deterioro ni el riesgo de crédito. El valor de reventa sigue siendo relevante. La ventaja es evaluar y gestionar esos riesgos con mayor eficiencia, no declararlos inexistentes.",
+        "Las economías de escala no equivalen a una exención fiscal general. Pueden reducir precios de compra y costos de servicio. Las ventajas tributarias deben evaluarse separadamente según las reglas y la situación de cada parte.",
+        "Las rentas siguen siendo obligaciones contractuales del arrendatario. No se convierten en acciones ni eliminan el costo del financiamiento. El ahorro procede de costos de transacción más bajos y de una mejor gestión del activo."
+      ]
+    },
+    {
+      "id": "c26-q010",
+      "tema": "Aprovechamiento de escudos fiscales",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa acumula pérdidas y no prevé pagar impuestos durante la vida de una máquina. Otra tiene utilidades gravadas. ¿Qué fundamento puede hacer conveniente que la segunda compre la máquina y se la arriende?",
+      "opciones": [
+        "La empresa con pérdidas recibe necesariamente una devolución en efectivo por toda depreciación no utilizada.",
+        "La arrendadora deja de tributar por cualquier ingreso de renta.",
+        "Las diferencias de impuestos garantizan que cualquier renta beneficia al usuario.",
+        "La propietaria puede usar los escudos de depreciación y compartir parte del beneficio mediante rentas menores."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La deducción no equivale siempre a un crédito reembolsable. Pérdidas y restricciones fiscales pueden postergar o impedir su uso. El caso supone que el usuario no podrá aprovecharla durante la vida considerada.",
+        "La renta es ingreso gravable para el arrendador en el esquema analizado. La ventaja exige comparar ese impuesto con las deducciones disponibles y sus fechas. Ignorar el ingreso gravado exageraría el beneficio fiscal conjunto.",
+        "Una ventaja fiscal potencial no determina por sí sola el precio. Una renta excesiva puede trasladar todo el beneficio al arrendador o más. Se necesita valorar los flujos de cada parte y hallar condiciones aceptables para ambas.",
+        "Una deducción carece de ahorro inmediato si no hay impuesto que reducir. El propietario rentable puede convertir la depreciación fiscal en ahorro efectivo. El acuerdo será atractivo para ambas partes si los pagos distribuyen una ventaja neta suficiente."
+      ]
+    },
+    {
+      "id": "c26-q011",
+      "tema": "Quiebra y confirmación",
+      "dificultad": "intermedia",
+      "pregunta": "En el régimen de quiebra estadounidense considerado en la edición, el tribunal confirma el arrendamiento de un activo esencial. ¿Qué consecuencia se espera?",
+      "opciones": [
+        "El arrendador debe regalar el activo y renunciar a las rentas.",
+        "El arrendador retira inmediatamente el activo pese a la confirmación.",
+        "La empresa puede seguir usando el activo y debe continuar pagando las rentas.",
+        "Todas las deudas de la empresa se convierten en rentas prioritarias."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Confirmar no convierte al contrato en una donación. La continuidad del uso va acompañada de los pagos previstos. La protección del arrendador surge precisamente de conservar ese flujo mientras continúa la actividad.",
+        "El retiro inmediato contradice la continuidad que implica la confirmación. El uso puede mantenerse por ser esencial para el negocio. La recuperación del activo corresponde al escenario de rechazo del contrato, sujeto al procedimiento aplicable.",
+        "La confirmación preserva el uso del equipo para la actividad. A cambio, se mantiene la obligación de atender los pagos del arrendamiento. Esto puede proteger mejor al arrendador que a un acreedor cuyo cobro queda suspendido en el proceso.",
+        "El tratamiento del arrendamiento no reclasifica automáticamente otras obligaciones. Los acreedores mantienen derechos diferentes según sus contratos y el procedimiento. La comparación relevante es la posición específica del arrendador frente a otros financiadores."
+      ]
+    },
+    {
+      "id": "c26-q012",
+      "tema": "Quiebra y rechazo",
+      "dificultad": "intermedia",
+      "pregunta": "Bajo el régimen histórico de quiebra considerado, ¿qué ocurre si se rechaza un arrendamiento y el bien recuperado vale menos que el valor de las rentas pendientes?",
+      "opciones": [
+        "El Estado paga automáticamente toda la diferencia.",
+        "El arrendador recupera el bien y puede reclamar el faltante como acreedor sin garantía.",
+        "El arrendador pierde necesariamente el bien y toda posibilidad de reclamar.",
+        "El faltante tiene siempre garantía preferente sobre todos los activos ajenos al contrato."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La existencia de una pérdida no crea una garantía estatal. El arrendador conserva los derechos previstos sobre el bien y sobre su reclamación. La recuperación efectiva dependerá también del valor del activo y del patrimonio disponible.",
+        "La recuperación del activo no asegura cubrir todas las rentas comprometidas. Si queda una pérdida reclamable, esa parte compite con créditos no garantizados. Por eso la propiedad legal ofrece protección, pero no elimina el riesgo económico.",
+        "El rechazo permite recuperar el activo según el esquema analizado. Puede existir además una reclamación por la pérdida remanente. Confundir rechazo con extinción absoluta de derechos exagera el perjuicio del arrendador.",
+        "La garantía del bien no se extiende automáticamente al déficit restante. Esa reclamación puede quedar en la categoría sin garantía. Por ello importa distinguir el valor del activo recuperado del valor total de la obligación."
+      ]
+    },
+    {
+      "id": "c26-q013",
+      "tema": "Renegociación y valor de liquidación",
+      "dificultad": "avanzada",
+      "pregunta": "Una aerolínea en dificultades amenaza con devolver muchos aviones cuando el mercado de usados está deprimido. ¿Por qué podría el arrendador aceptar una rebaja de rentas?",
+      "opciones": [
+        "La devolución puede generar un valor recuperable menor que el valor de continuar con rentas reducidas.",
+        "La propiedad legal garantiza recolocar todos los aviones al precio original.",
+        "Aceptar una rebaja elimina automáticamente la deuda de todos los financiadores del arrendador.",
+        "Las rentas contractuales son flujos sin riesgo en cualquier situación."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El arrendador compara alternativas de recuperación, no solo los pagos originales. Muchos aviones devueltos a la vez pueden ser difíciles de recolocar. Una rebaja puede resultar la menor pérdida si la amenaza de rechazo es creíble.",
+        "Ser propietario no garantiza demanda ni precio de reventa. Un mercado débil reduce el valor de la alternativa de recuperar el bien. Esa menor recuperación fortalece la posición negociadora del usuario en dificultades.",
+        "Renegociar la renta no extingue por sí mismo la deuda del arrendador. Los acuerdos de financiamiento tienen condiciones propias. La decisión debe considerar cómo la nueva renta afecta su capacidad de atender esas obligaciones.",
+        "Una obligación fija puede incumplirse o renegociarse. La situación financiera y las alternativas de recuperación influyen en su valor. Tratar el importe pactado como cobro seguro ignora precisamente el riesgo del caso."
+      ]
+    },
+    {
+      "id": "c26-q014",
+      "tema": "Preservar efectivo",
+      "dificultad": "basica",
+      "pregunta": "Un vendedor sostiene que arrendar es siempre superior porque financia el 100% del activo y conserva la caja. ¿Cuál es la objeción central?",
+      "opciones": [
+        "Comprar con deuda exige siempre pagar dos veces el precio al contado en el momento inicial.",
+        "Arrendar no produce ningún pasivo económico.",
+        "Todo préstamo es más barato que todo arrendamiento.",
+        "Comprar con un préstamo suficiente también puede conservar la caja inicial y generar obligaciones futuras."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El préstamo puede aportar los fondos para cancelar la compra. No implica por definición duplicar el desembolso inicial. Lo relevante es el servicio posterior de la deuda y no una supuesta duplicación del precio.",
+        "Las rentas fijas de un contrato financiero son compromisos semejantes a una deuda. Que su presentación contable varíe no elimina esa obligación. Por eso conservar caja mediante arrendamiento no equivale a recibir capital sin costo.",
+        "La crítica no establece una superioridad universal del préstamo. Puede haber diferencias fiscales, de servicio o de costos de transacción favorables al arrendamiento. La decisión requiere valorar la oferta concreta frente al préstamo equivalente.",
+        "El efectivo conservado no es gratuito en ninguna de las dos alternativas. Tanto el préstamo como el arrendamiento comprometen pagos posteriores. Para elegir hay que comparar el costo económico de obligaciones equivalentes y sus efectos fiscales."
+      ]
+    },
+    {
+      "id": "c26-q015",
+      "tema": "Controles de inversión",
+      "dificultad": "basica",
+      "pregunta": "Un gerente propone arrendar una máquina solo para eludir la autorización interna exigida al comprarla. ¿Cómo debería evaluarse ese argumento?",
+      "opciones": [
+        "Demuestra que la máquina tiene VPN positivo.",
+        "Elimina las rentas futuras del cálculo financiero.",
+        "Es un motivo dudoso: el compromiso debe someterse a una evaluación económica comparable.",
+        "Vuelve innecesario comparar proveedores y alternativas."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Evitar un trámite no informa sobre ingresos, costos ni riesgo de la inversión. El VPN debe obtenerse de flujos relevantes descontados. Una decisión sin autorización puede ser tanto rentable como destructiva de valor.",
+        "La autorización interna no determina si una obligación existe económicamente. Las rentas deben incluirse con sus fechas e impuestos. Excluirlas por la clasificación administrativa subestimaría el costo del proyecto.",
+        "Cambiar la forma contractual no elimina el recurso comprometido ni su riesgo. Eludir un control puede permitir una inversión inconveniente para la empresa. La evaluación debe considerar el activo y el financiamiento, aunque los procedimientos internos difieran.",
+        "La selección contractual sigue requiriendo comparar precios y condiciones. Eludir un control no prueba que la oferta sea competitiva. La disciplina de evaluación debe aplicarse también a los compromisos de arrendamiento."
+      ]
+    },
+    {
+      "id": "c26-q016",
+      "tema": "Balance y apalancamiento",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué un financiamiento fuera del balance puede distorsionar los indicadores convencionales de endeudamiento?",
+      "opciones": [
+        "Elimina legalmente la obligación de pagar las rentas.",
+        "Omite obligaciones económicas que un analista debería incorporar al evaluar el riesgo financiero.",
+        "Reduce necesariamente el costo real del activo a cero.",
+        "Garantiza que ningún inversor pueda detectar los compromisos."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La presentación contable no modifica el contrato por sí misma. El usuario sigue debiendo las sumas pactadas. El problema es de medición del apalancamiento, no de desaparición de la obligación.",
+        "Las rentas fijas exigen efectivo aunque no figuren como deuda en el indicador usado. Ignorarlas subestima los compromisos y puede ocultar volatilidad para los accionistas. Los analistas pueden ajustar sus cálculos usando las revelaciones contractuales.",
+        "El equipo conserva su costo económico y exige pagos para ser utilizado. Una clasificación contable no vuelve gratuito ese uso. El análisis de valor debe reconstruir los flujos y compromisos relevantes.",
+        "Los compromisos pueden revelarse en notas y ser reconstruidos por analistas. Ocultarlos en un indicador simple no asegura que el mercado los ignore. Suponer un engaño permanente es una base débil para justificar el contrato."
+      ]
+    },
+    {
+      "id": "c26-q017",
+      "tema": "Utilidad contable y valor",
+      "dificultad": "intermedia",
+      "pregunta": "Con las reglas históricas de financiamiento fuera del balance, una directora elige arrendar porque al comienzo la renta es menor que depreciación más intereses. ¿Qué conclusión es válida?",
+      "opciones": [
+        "Puede aumentar la utilidad contable inicial sin aumentar por ese solo motivo el valor de la empresa.",
+        "Toda mejora de utilidad contable crea una entrada de caja del mismo importe.",
+        "La renta debe sumarse como ingreso para medir la ganancia.",
+        "Si baja el activo registrado, desaparece el riesgo operativo del equipo."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La diferencia cambia el momento y la forma de reconocer gastos. También puede elevar un rendimiento contable al excluir activos del denominador. El valor económico depende de flujos, impuestos y riesgo, no de mejorar aisladamente un indicador.",
+        "El reconocimiento de gastos no equivale automáticamente a cobros o pagos. La depreciación es un ejemplo de gasto sin desembolso contemporáneo. Para medir valor hay que identificar los flujos incrementales reales.",
+        "Para el arrendatario la renta es un costo, no un ingreso. La aparente mejora surge de compararla con otros gastos contables. Cambiarle el signo produciría una utilidad ficticia sin fundamento contractual.",
+        "La exposición al negocio no depende de registrar o no un activo. Un contrato financiero mantiene pagos aun si el equipo resulta poco útil. Los riesgos deben evaluarse por su sustancia económica y por las condiciones contractuales."
+      ]
+    },
+    {
+      "id": "c26-q018",
+      "tema": "Costo anual equivalente y competencia",
+      "dificultad": "intermedia",
+      "pregunta": "En un mercado competitivo de arrendamientos operativos, ¿qué representa la renta de equilibrio?",
+      "opciones": [
+        "Un pago que cubre solo el mantenimiento y deja sin recuperar la compra.",
+        "Un pago que garantiza ganancias extraordinarias perpetuas a cualquier oferente.",
+        "El precio de compra dividido por los años, sin descontar ni considerar impuestos.",
+        "Un pago cuyo valor presente después de impuestos cubre los costos netos del arrendador y remunera el capital al rendimiento requerido."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El arrendador también debe recuperar el capital invertido en el activo. Cubrir únicamente el mantenimiento suele dejar un VPN negativo. La tarifa competitiva debe financiar todos los costos netos pertinentes y el costo de oportunidad.",
+        "La entrada y competencia presionan las ganancias extraordinarias. La renta de equilibrio remunera el riesgo a una tasa competitiva. Eso es distinto de asegurar rentas económicas permanentes por encima del costo de capital.",
+        "Esa división omite el valor temporal del dinero y los costos adicionales. También puede ignorar depreciación fiscal y valor residual. El costo anual equivalente se obtiene igualando valores presentes con fechas consistentes.",
+        "El cálculo convierte el costo presente de poseer y operar el activo en una tarifa periódica. Incluye costos administrativos, mantenimiento y efectos fiscales pertinentes. Un VPN de cero ya incorpora la rentabilidad exigida por el riesgo asumido."
+      ]
+    },
+    {
+      "id": "c26-q019",
+      "tema": "Riesgo en arrendamientos operativos",
+      "dificultad": "intermedia",
+      "pregunta": "¿Quién soporta principalmente el riesgo de tarifas futuras y períodos sin clientes en un arrendamiento operativo renovable por plazos cortos?",
+      "opciones": [
+        "El arrendatario actual, aunque no renueve y haya cumplido su contrato.",
+        "El fabricante, por haber vendido inicialmente el bien.",
+        "El arrendador, que conserva el activo y debe recolocarlo al vencer cada período.",
+        "Nadie, porque descontar flujos elimina los riesgos económicos."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Si no existe obligación de renovar, el usuario no garantiza la ocupación posterior. Su responsabilidad se limita a las condiciones acordadas. La recolocación y el valor del activo continúan siendo problemas del arrendador.",
+        "Una venta no implica garantizar las futuras rentas del comprador. El fabricante solo responde por compromisos específicos, como una garantía pactada. El riesgo de mantener un activo destinado a alquiler recae en su propietario.",
+        "El usuario no garantiza todas las rentas de la vida económica del bien. El propietario enfrenta la posibilidad de cobrar menos o tener el activo ocioso. Su tarifa y costo de capital deben contemplar esa exposición.",
+        "Descontar permite valorar el riesgo mediante una tasa o un ajuste apropiado. No evita períodos sin clientes ni caídas de precios. Confundir una herramienta de valuación con un seguro lleva a subestimar los costos."
+      ]
+    },
+    {
+      "id": "c26-q020",
+      "tema": "Comprar o arrendar operativamente",
+      "dificultad": "intermedia",
+      "pregunta": "Una empresa prevé usar camiones durante muchos años. ¿Qué comparación debe orientar su decisión entre propiedad y arrendamiento operativo?",
+      "opciones": [
+        "Comparar solo el primer pago de renta con el precio total del camión.",
+        "Comparar su costo anual equivalente de propiedad y operación con la mejor renta externa para prestaciones comparables.",
+        "Comprar siempre, porque la especialización de la arrendadora no puede reducir costos.",
+        "Arrendar siempre que la renta tenga una cuota de mantenimiento separada."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Un pago periódico y un precio de compra corresponden a horizontes distintos. Esa comparación favorece artificialmente el arrendamiento. Se necesitan valores presentes o costos anuales equivalentes sobre servicios comparables.",
+        "La empresa debe estimar cuánto cuesta proveerse internamente el mismo servicio. Si ese costo es menor, la compra puede ser preferible. La comparación debe ajustar mantenimiento, impuestos, flexibilidad y diferencias relevantes de riesgo.",
+        "Una gran arrendadora puede negociar descuentos y operar servicios más eficientes. También puede obtener mejores precios de reventa. Esas economías pueden hacer competitivo el alquiler incluso para usuarios de largo plazo.",
+        "Separar una cuota no demuestra que el costo total sea menor. Hay que sumar las prestaciones y responsabilidades relevantes. La decisión surge de comparar costos económicos y opciones, no del formato de la factura."
+      ]
+    },
+    {
+      "id": "c26-q021",
+      "tema": "Valor presente anticipado",
+      "dificultad": "basica",
+      "pregunta": "Dos rentas de $110 vencen hoy y dentro de un año. Con descuento anual del 10% y sin impuestos, ¿cuál es su valor presente?",
+      "opciones": [
+        "$210.",
+        "$220.",
+        "$190,91.",
+        "$200."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La primera renta se paga hoy y vale $110. La segunda vale 110/1,10 = $100 en el momento inicial. El valor presente conjunto es 110 + 100 = $210.",
+        "Este importe suma las rentas sin descontar. La segunda se paga dentro de un año. Su valor presente es $100 y no $110.",
+        "Este valor corresponde a pagar al final de los años uno y dos. El primer pago real ocurre hoy. Desplazar ambos pagos un período reduce indebidamente su valor presente.",
+        "Este cálculo descuenta las dos rentas un año. Solo la segunda está diferida. La renta inmediata conserva su valor íntegro de $110."
+      ]
+    },
+    {
+      "id": "c26-q022",
+      "tema": "Renta de equilibrio",
+      "dificultad": "intermedia",
+      "pregunta": "El VP de los costos netos después de impuestos es $42.000 y el factor de VP de las rentas anticipadas es 3. La renta es gravable al 30%. ¿Qué renta bruta uniforme deja VPN cero al arrendador?",
+      "opciones": [
+        "$14.000.",
+        "$9.800.",
+        "$46.666,67.",
+        "$20.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe es la renta necesaria después de impuestos. Se obtiene dividiendo 42.000 por el factor 3. Para cobrar el bruto hay que dividir además por 0,70.",
+        "Este resultado multiplica la renta neta por 0,70. Para pasar de un neto requerido a un bruto debe dividirse por esa proporción. El bruto debe ser mayor que el neto, no menor.",
+        "Este cálculo supone que el arrendador conserva solo el 30% de la renta. Esa proporción es el impuesto. La fracción efectivamente conservada es el 70%.",
+        "El arrendador conserva el 70% de cada renta después de impuestos. Debe cumplirse R × 0,70 × 3 = 42.000. Por lo tanto, R = 42.000/2,10 = $20.000."
+      ]
+    },
+    {
+      "id": "c26-q023",
+      "tema": "Ociosidad",
+      "dificultad": "intermedia",
+      "pregunta": "Se necesitan $18.000 de ingresos por año calendario y se espera alquilar el equipo solo el 75% del tiempo. Con costos constantes y sin impuestos, ¿qué tarifa anualizada debe cobrarse durante el tiempo alquilado?",
+      "opciones": [
+        "$22.500.",
+        "$13.500.",
+        "$24.000.",
+        "$18.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Agregar 25% no compensa la ociosidad del 25%. El recargo también se cobra solo durante el tiempo ocupado. Debe dividirse por 0,75 para recuperar el objetivo anual.",
+        "Multiplicar por la ocupación reduce la tarifa cuando hay menos tiempo facturable. Eso agrava el faltante de ingresos. Con costos constantes corresponde aumentar la tarifa por tiempo alquilado.",
+        "Los ingresos esperados son la tarifa multiplicada por la ocupación. Se necesita R × 0,75 = 18.000. Así, R = $24.000 y el aumento requerido es 33,33%.",
+        "Esta tarifa produce solo $13.500 al año con la ocupación prevista. El costo objetivo sigue siendo $18.000. La renta debe compensar los períodos sin cliente."
+      ]
+    },
+    {
+      "id": "c26-q024",
+      "tema": "Inflación y descuento",
+      "dificultad": "intermedia",
+      "pregunta": "Las rentas nominales incluyen inflación del 4% anual y el costo real de capital es 5%. ¿Qué tasa nominal anual es exactamente consistente?",
+      "opciones": [
+        "9%.",
+        "9,2%.",
+        "5%.",
+        "1%."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Sumar 5% y 4% es una aproximación. Omite el producto cruzado de ambas tasas. Ese producto agrega 0,2 puntos porcentuales a la tasa nominal exacta.",
+        "La relación exacta multiplica los factores real e inflacionario. Se calcula 1,05 × 1,04 = 1,092. Por lo tanto, los flujos nominales deben descontarse al 9,2%.",
+        "El 5% es una tasa real. Aplicarla a flujos nominales mezcla poder adquisitivo constante con moneda corriente. Debe convertirse la tasa o quitar la inflación de los flujos.",
+        "Restar inflación a la tasa real no produce la tasa nominal. El rendimiento nominal debe compensar ambas cosas. La relación correcta utiliza el producto de los factores de crecimiento."
+      ]
+    },
+    {
+      "id": "c26-q025",
+      "tema": "Envejecimiento y rentas decrecientes",
+      "dificultad": "intermedia",
+      "pregunta": "Sin impuestos ni inflación, un equipo cobra $12.000 hoy y 10% menos dentro de un año por envejecimiento. Con descuento del 10%, ¿cuál es el VP de las rentas?",
+      "opciones": [
+        "$21.818,18.",
+        "$22.800.",
+        "$22.909,09.",
+        "$19.834,71."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La renta futura es 12.000 × 0,90 = $10.800. Descontada un año vale 10.800/1,10 = $9.818,18. Al sumar los $12.000 inmediatos se obtiene $21.818,18.",
+        "Este resultado suma las rentas sin descontarlas. El envejecimiento reduce el importe futuro, pero no reemplaza el descuento temporal. Los $10.800 deben dividirse por 1,10.",
+        "Este valor mantiene la segunda renta en $12.000. Reconoce el descuento, pero no la pérdida de servicios del equipo. La renta futura correcta es $10.800.",
+        "Este valor desplaza los dos cobros un año hacia adelante. El primer cobro se recibe hoy. Solo la segunda renta debe descontarse."
+      ]
+    },
+    {
+      "id": "c26-q026",
+      "tema": "Costo fiscal de la renta",
+      "dificultad": "basica",
+      "pregunta": "La renta deducible es $30.000 y la tasa marginal es 30%, con ahorro fiscal inmediato. ¿Cuál es su costo después de impuestos?",
+      "opciones": [
+        "$9.000.",
+        "$30.000.",
+        "$39.000.",
+        "$21.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este importe es el ahorro fiscal y no el costo neto. El usuario sigue pagando $30.000 al propietario. El escudo solo compensa una parte del pago.",
+        "Este es el desembolso bruto. El supuesto permite usar inmediatamente la deducción. Por eso deben restarse los $9.000 de ahorro tributario.",
+        "Este importe agrega el escudo al pago. Un ahorro tributario reduce el costo neto. Corresponde restarlo, no sumarlo.",
+        "El escudo fiscal es 30.000 × 0,30 = $9.000. Se paga la renta completa y se ahorran esos impuestos. El costo neto es 30.000 − 9.000 = $21.000."
+      ]
+    },
+    {
+      "id": "c26-q027",
+      "tema": "Financiamiento inicial",
+      "dificultad": "intermedia",
+      "pregunta": "Arrendar evita comprar una máquina por $120.000, pero exige pagar hoy una renta de $30.000 deducible al 30% también hoy. Sin otros flujos iniciales, ¿cuánto financiamiento inicial neto aporta?",
+      "opciones": [
+        "$120.000.",
+        "$90.000.",
+        "$99.000.",
+        "$129.000."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este valor omite la renta inmediata. No todo el precio evitado queda disponible hoy. Debe restarse el primer pago neto de impuestos.",
+        "Este resultado resta la renta bruta sin reconocer su deducción. El enunciado permite usar el escudo hoy. La salida inicial neta es $21.000 y no $30.000.",
+        "La compra evitada aporta $120.000 de caja relativa. La renta inmediata cuesta 30.000 × 0,70 = $21.000 netos. El financiamiento inicial es 120.000 − 21.000 = $99.000.",
+        "Este cálculo suma el ahorro fiscal pero olvida pagar la renta. El escudo de $9.000 proviene de un pago de $30.000. El efecto conjunto de ambos es una salida de $21.000."
+      ]
+    },
+    {
+      "id": "c26-q028",
+      "tema": "Depreciación perdida",
+      "dificultad": "intermedia",
+      "pregunta": "Comprar permitiría deducir $20.000 de depreciación en el año 1. Arrendar exige una renta deducible de $30.000 ese año. Con tasa fiscal del 30% y uso inmediato de los escudos, ¿cuál es el flujo incremental de arrendar frente a comprar en el año 1?",
+      "opciones": [
+        "−$21.000.",
+        "−$27.000.",
+        "−$15.000.",
+        "−$50.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este importe incluye solo la renta neta. Omite el beneficio fiscal que habría existido al comprar. Perder ese escudo agrega $6.000 de costo incremental.",
+        "La renta neta cuesta 30.000 × 0,70 = $21.000. Además se pierde el escudo de depreciación de 20.000 × 0,30 = $6.000. El flujo incremental es −21.000 − 6.000 = −$27.000.",
+        "Este resultado suma el escudo de depreciación como beneficio del arrendamiento. El usuario deja de depreciar cuando no es propietario fiscal. El escudo perdido debe empeorar el flujo y no mejorarlo.",
+        "Este cálculo trata la depreciación como pago de caja y usa renta bruta. La depreciación solo afecta el impuesto. Hay que incluir renta neta y ahorro tributario perdido."
+      ]
+    },
+    {
+      "id": "c26-q029",
+      "tema": "Tasa financiera neta",
+      "dificultad": "basica",
+      "pregunta": "La tasa anual de deuda es 12% y la deducción de intereses puede utilizarse al 25%. ¿Qué tasa corresponde a flujos equivalentes a deuda en el modelo simplificado?",
+      "opciones": [
+        "9%.",
+        "12%.",
+        "3%.",
+        "16%."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El costo de deuda neto es rD × (1 − Tc). Con los datos resulta 12% × 0,75 = 9%. Esa tasa permite trasladar en el tiempo flujos de riesgo equivalente bajo los supuestos establecidos.",
+        "Esta es la tasa bruta. No reconoce la deducción disponible sobre los intereses. El costo neto debe reducirse por el ahorro fiscal.",
+        "Este resultado mide la proporción de intereses ahorrada por impuestos. No mide el costo que queda a cargo de la empresa. Ese costo corresponde al 75% restante de la tasa bruta.",
+        "Dividir por 0,75 aumenta indebidamente el costo. La deducción utilizable lo reduce. El ajuste correcto multiplica por 1 menos la tasa fiscal."
+      ]
+    },
+    {
+      "id": "c26-q030",
+      "tema": "Préstamo equivalente",
+      "dificultad": "intermedia",
+      "pregunta": "Las salidas incrementales netas de un arrendamiento son $11.000 en el año 1 y $12.100 en el año 2. Con tasa de deuda neta del 10%, ¿qué importe inicial aporta un préstamo equivalente?",
+      "opciones": [
+        "$23.100.",
+        "$21.000.",
+        "$18.181,82.",
+        "$20.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este valor suma pagos de fechas diferentes. El principal de hoy debe incorporar el costo del tiempo hasta devolverlo. Hay que descontar cada salida según su vencimiento.",
+        "Este resultado descuenta los dos pagos un solo año. La segunda salida vence en el año 2. Debe dividirse por 1,10² y no por 1,10.",
+        "Este importe posterga todos los pagos un año adicional. La primera salida ocurre en el año 1. El desplazamiento subestima el financiamiento equivalente disponible hoy.",
+        "El préstamo debe replicar esas mismas salidas futuras después de impuestos. Su principal es 11.000/1,10 + 12.100/1,10². Cada término vale $10.000 y el total es $20.000."
+      ]
+    },
+    {
+      "id": "c26-q031",
+      "tema": "VPN del arrendamiento",
+      "dificultad": "intermedia",
+      "pregunta": "El arrendamiento aporta $19.500 netos hoy y un préstamo con iguales salidas futuras netas aporta $20.000. ¿Cuál es el VPN relativo de arrendar y qué conviene?",
+      "opciones": [
+        "+$500; conviene arrendar.",
+        "−$39.500; conviene el préstamo.",
+        "−$500; conviene el préstamo.",
+        "$0; existe indiferencia."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado invierte el signo de la diferencia. El contrato que entrega menos hoy con iguales salidas futuras vale menos. Esa desventaja corresponde al arrendamiento.",
+        "Los importes iniciales representan entradas alternativas. No son dos costos que deban sumarse. Se compara su diferencia porque comparten el mismo servicio futuro.",
+        "El valor relativo es financiamiento del arrendamiento menos préstamo equivalente. Se calcula 19.500 − 20.000 = −$500. Con pagos futuros iguales, el préstamo deja $500 más hoy.",
+        "Igualar las salidas futuras no iguala necesariamente el valor. También debe coincidir el financiamiento inicial. Aquí hay una diferencia de $500 a favor del préstamo."
+      ]
+    },
+    {
+      "id": "c26-q032",
+      "tema": "Amortización equivalente",
+      "dificultad": "avanzada",
+      "pregunta": "Un préstamo empieza el año con $40.000 de saldo. Devenga 10% bruto, con tasa fiscal de 25%, y exige $13.000 de servicio neto después del escudo de intereses al cierre. ¿Qué saldo queda?",
+      "opciones": [
+        "$31.000.",
+        "$30.000.",
+        "$27.000.",
+        "$29.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Este valor resta intereses brutos de un servicio expresado neto de impuestos. Se mezclan magnitudes incompatibles. El interés neto correcto es $3.000 y la amortización es $10.000.",
+        "El interés bruto es $4.000 y el escudo es $1.000. Del servicio neto, $3.000 cubren interés neto y $10.000 amortizan capital. El saldo baja a 40.000 − 10.000 = $30.000.",
+        "Este cálculo trata todo el servicio como devolución de principal. Una parte cubre intereses netos. Solo $10.000 de los $13.000 reducen la deuda.",
+        "Este resultado usa el escudo de $1.000 como costo de intereses. El escudo es un ahorro, no el interés neto. El costo neto resulta de restarlo a los $4.000 brutos."
+      ]
+    },
+    {
+      "id": "c26-q033",
+      "tema": "Valor presente ajustado",
+      "dificultad": "intermedia",
+      "pregunta": "Un proyecto tiene VPN de −$6.000 con financiamiento normal. Arrendar aporta una ventaja incremental de $9.000 ya calculada sin duplicaciones. ¿Cuál es el VPA del paquete?",
+      "opciones": [
+        "+$3.000.",
+        "−$15.000.",
+        "+$9.000.",
+        "−$6.000."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El VPA suma el VPN base y el efecto financiero incremental. Resulta −6.000 + 9.000 = +$3.000. La ventaja contractual alcanza para rescatar el proyecto y generar valor positivo.",
+        "Este cálculo trata una ventaja como costo adicional. Los $9.000 tienen signo positivo. Deben agregarse al VPN negativo del proyecto.",
+        "Este importe considera solo el financiamiento. El proyecto subyacente pierde $6.000 de valor bajo la alternativa normal. El paquete debe incorporar ambas contribuciones.",
+        "Este resultado ignora el efecto financiero indicado. El enfoque de VPA permite reconocerlo separadamente. Al incorporarlo, el valor cambia de negativo a positivo."
+      ]
+    },
+    {
+      "id": "c26-q034",
+      "tema": "Mantenimiento y rescate",
+      "dificultad": "avanzada",
+      "pregunta": "Un arrendamiento vale +$1.000 frente a endeudarse. Agrega ahorros netos de mantenimiento de $2.200 hoy y $2.200 en el año 1, pero hace perder un rescate neto de $12.100 en el año 2. Para esos flujos adicionales corresponde 10%. ¿Cuál es el valor revisado?",
+      "opciones": [
+        "+$15.200.",
+        "−$5.000.",
+        "−$6.900.",
+        "−$4.800."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Este resultado suma el rescate como si el usuario lo cobrara al arrendar. En realidad renuncia a ese valor. Debe restarse su VP de $10.000.",
+        "Este importe descuenta también el ahorro de hoy. El flujo del período cero no debe descontarse. Su inclusión correcta eleva el ahorro presente a $4.200.",
+        "Este valor usa el rescate nominal de $12.100 sin descontarlo. Los ahorros ya están expresados como valor presente. Para combinarlos hay que llevar también el rescate al momento cero.",
+        "El mantenimiento ahorrado vale 2.200 + 2.200/1,10 = $4.200. El rescate perdido vale 12.100/1,10² = $10.000. El resultado es 1.000 + 4.200 − 10.000 = −$4.800."
+      ]
+    },
+    {
+      "id": "c26-q035",
+      "tema": "Usuario sin impuestos",
+      "dificultad": "intermedia",
+      "pregunta": "Una institución sin impuestos puede comprar por $42.000 o pagar $22.000 hoy y $22.000 en un año. Su tasa de deuda es 10%, sin rescate ni otras diferencias. ¿Cuál es el VPN de arrendar frente a comprar con financiamiento equivalente?",
+      "opciones": [
+        "−$2.000.",
+        "+$3.818,18.",
+        "$0.",
+        "+$12.600."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este resultado compara el precio con la suma nominal de las rentas. La segunda renta debe descontarse. Su VP es $20.000 y elimina la aparente pérdida.",
+        "Este valor supone que los pagos vencen en los años uno y dos. El contrato exige el primero hoy. Reconocer la anticipación lleva el VP de las rentas a $42.000.",
+        "No hay escudos de renta ni de depreciación para esta institución. Las rentas valen hoy 22.000 + 22.000/1,10 = $42.000. Ese VP coincide con la compra evitada y deja valor incremental nulo.",
+        "Este cálculo aplica un ahorro fiscal del 30% a quien no paga impuestos. El enunciado excluye esa deducción efectiva. Deben compararse los pagos completos con la compra evitada."
+      ]
+    },
+    {
+      "id": "c26-q036",
+      "tema": "Renta máxima",
+      "dificultad": "intermedia",
+      "pregunta": "Una entidad sin impuestos evita comprar por $42.000 a cambio de dos rentas iguales, hoy y dentro de un año. Con descuento del 10% y sin otros flujos, ¿cuál es la renta máxima por pago que acepta con VPN no negativo?",
+      "opciones": [
+        "$21.000.",
+        "$22.000.",
+        "$24.200.",
+        "$42.000."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Dividir el precio por dos ignora que la segunda renta está diferida. Una renta de $21.000 sería aceptable, pero no es la máxima. El descuento permite subir hasta $22.000 por pago.",
+        "La indiferencia exige R + R/1,10 = 42.000. El factor anticipado es 21/11. Por tanto R = 42.000 × 11/21 = $22.000, y valores mayores destruyen valor.",
+        "Ese valor corresponde a rentas vencidas en los años uno y dos. Aquí la primera renta se paga hoy. La anticipación reduce el máximo compatible con el mismo precio de compra.",
+        "Este importe aplica el precio total como límite de cada pago. Hay dos rentas que deben considerarse juntas. Su VP conjunto, y no cada renta aisladamente, debe igualar la compra evitada."
+      ]
+    },
+    {
+      "id": "c26-q037",
+      "tema": "Renta mínima",
+      "dificultad": "avanzada",
+      "pregunta": "El arrendador compra por $23.100 y deprecia fiscalmente todo el costo en el año 1. Cobra rentas iguales hoy y en el año 1, gravadas al 50%, y usa todos los escudos inmediatamente. Con deuda bruta al 20%, descuento neto al 10% y sin rescate ni otros costos, ¿cuál es la renta bruta de VPN cero?",
+      "opciones": [
+        "$13.200.",
+        "$6.600.",
+        "$12.100.",
+        "$24.200."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El escudo de depreciación vale 23.100 × 0,50/1,10 = $10.500 hoy. Quedan $12.600 de costo presente a cubrir. Resolver 0,50 × R × (1 + 1/1,10) = 12.600 da R = $13.200.",
+        "Ese importe es la renta neta requerida por período. La mitad del bruto se destina a impuestos. Para retener $6.600 hay que cobrar $13.200.",
+        "Este valor trata el escudo futuro como ahorro inmediato. La depreciación se deduce en el año 1. Descontar ese escudo reduce su VP y eleva la renta mínima correcta.",
+        "Este resultado omite el escudo de depreciación. Recupera todo el precio a través de las rentas netas. La deducción fiscal reduce significativamente el costo que esas rentas deben cubrir."
+      ]
+    },
+    {
+      "id": "c26-q038",
+      "tema": "Ganancia conjunta",
+      "dificultad": "basica",
+      "pregunta": "La valuación correcta da VPN de +$1.800 al usuario y +$1.200 al arrendador. ¿Cuál es la ganancia conjunta del acuerdo?",
+      "opciones": [
+        "$600.",
+        "$0.",
+        "$1.800.",
+        "$3.000."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Restar los beneficios mide cuánto más gana una parte. No mide la creación conjunta de valor. Para esta última deben sumarse los dos VPN.",
+        "La suma cero requiere supuestos simétricos que no se imponen aquí. El caso informa dos VPN positivos correctamente calculados. No corresponde anularlos ignorando las diferencias de tratamiento que los permiten.",
+        "Este valor incluye solo al usuario. El arrendador también obtiene un beneficio. Debe añadirse su VPN de $1.200 para valorar el acuerdo conjunto.",
+        "La ganancia conjunta suma los valores de ambas posiciones. El resultado es 1.800 + 1.200 = $3.000. Una asimetría fiscal puede permitir beneficios simultáneos para ambas partes."
+      ]
+    },
+    {
+      "id": "c26-q039",
+      "tema": "IMA histórico",
+      "dificultad": "intermedia",
+      "pregunta": "En el régimen histórico supuesto, el ingreso gravable regular es $8 millones y la tasa regular 35%. El IMA agrega $8 millones de ajustes a esa base y aplica 20%. Sin créditos previos, ¿cuánto se paga y cuánto supera al impuesto regular?",
+      "opciones": [
+        "$2,8 millones; no hay exceso.",
+        "$1,6 millones; es $1,2 millones menor al regular.",
+        "$3,2 millones; supera al regular en $0,4 millones.",
+        "$6 millones; supera al regular en $3,2 millones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Este cálculo considera solo el impuesto regular. El régimen exige compararlo con el alternativo. Como el IMA es mayor, determina el pago de $3,2 millones.",
+        "Este valor aplica el 20% a la base sin ajustes. El IMA grava una base alternativa de $16 millones. La diferencia de base es esencial para comparar ambos impuestos.",
+        "El impuesto regular es 8 × 0,35 = $2,8 millones. El IMA es (8 + 8) × 0,20 = $3,2 millones. Se paga el mayor y su exceso es de $0,4 millones.",
+        "Este resultado suma los dos impuestos. El mecanismo exige pagar el mayor y no ambos acumulados. Por eso la obligación es $3,2 millones."
+      ]
+    },
+    {
+      "id": "c26-q040",
+      "tema": "Crédito de IMA histórico",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa tiene $0,4 millones de crédito de IMA previo. Ahora el impuesto regular es $4 millones y el IMA $3,1 millones. Si puede aplicar el crédito sin bajar del IMA, ¿cuánto paga y qué saldo de crédito conserva?",
+      "opciones": [
+        "Paga $3,1 millones y agota el crédito.",
+        "Paga $3,6 millones y agota el crédito.",
+        "Paga $4 millones y conserva el crédito completo.",
+        "Paga $3,6 millones y conserva $0,4 millones de crédito."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Para bajar a $3,1 millones se requerirían $0,9 millones de crédito. Solo hay $0,4 millones disponibles. La existencia de un piso no entrega crédito adicional para alcanzarlo.",
+        "El margen entre impuesto regular e IMA es $0,9 millones. Ese margen permite usar todo el crédito disponible de $0,4 millones. El pago queda en 4 − 0,4 = $3,6 millones.",
+        "Hay margen para utilizar el crédito según la condición indicada. No aplicarlo desconoce la compensación permitida. La deducción efectiva reduce el pago a $3,6 millones.",
+        "Usar el crédito consume su saldo disponible. No puede reducir impuestos y conservarse íntegro a la vez. La disminución de $0,4 millones en el pago agota el crédito."
+      ]
+    },
+    {
+      "id": "c26-q041",
+      "tema": "Apalancamiento y escudos",
+      "dificultad": "avanzada",
+      "pregunta": "Una EPE compra equipo por $5 millones: 80% con deuda y el resto con capital del arrendador. En el año 1 deduce $1 millón de depreciación y $0,4 millones de intereses. Con tasa fiscal de 30% y uso inmediato de las deducciones, ¿cuánto capital aporta y qué escudos obtiene ese año, sin descontar?",
+      "opciones": [
+        "$1 millón de capital y $0,42 millones de escudos.",
+        "$4 millones de capital y $0,42 millones de escudos.",
+        "$1 millón de capital y $0,084 millones de escudos.",
+        "$1 millón de capital y $1,4 millones de escudos."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La deuda aporta $4 millones y el capital los $1 millón restantes. Las deducciones suman $1,4 millones. Multiplicarlas por 30% da $0,42 millones de ahorro tributario.",
+        "Los $4 millones son la deuda y no el capital. El propietario aporta el 20% restante. La cuenta fiscal es correcta, pero las fuentes de fondos están invertidas.",
+        "Este cálculo limita los escudos al 20% del capital. La estructura asigna al arrendador las deducciones completas consideradas. La deuda no reduce proporcionalmente esa base fiscal.",
+        "Los $1,4 millones son deducciones de la base gravable. No equivalen a una devolución por ese importe. El ahorro fiscal se obtiene aplicando la tasa del 30%."
+      ]
+    },
+    {
+      "id": "c26-q042",
+      "tema": "Opciones de cancelación y renovación",
+      "dificultad": "intermedia",
+      "pregunta": "Un director compara una renta anual renovable a precio de mercado con un contrato más caro que fija la tarifa futura y permite cancelar sin penalidad después del primer año. ¿Qué aporta el segundo contrato?",
+      "opciones": [
+        "La obligación de pagar siempre la tarifa de mercado más alta.",
+        "La desaparición de cualquier costo por uso del activo.",
+        "El derecho automático a cobrar el valor de venta del activo.",
+        "Protección frente a subas y libertad de salir si bajan las tarifas."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "La posibilidad de continuar a tarifa pactada limita el efecto de las subas. La cancelación permite aprovechar bajas. La opción favorece al usuario y no lo obliga a elegir el resultado más caro.",
+        "La opción no vuelve gratuito el equipo. El usuario paga la tarifa mientras mantiene el contrato. El beneficio consiste en elegir entre continuar y salir según la evolución del mercado.",
+        "Cancelar o renovar se refiere al derecho de uso. No equivale a adquirir el dominio ni a recibir el precio de reventa. Un eventual derecho de compra debe pactarse por separado.",
+        "Si la tarifa de mercado sube, el usuario puede mantener la tarifa pactada. Si baja, puede cancelar y contratar más barato. Esa combinación es una opción valiosa que puede justificar una prima inicial o periódica."
+      ]
+    },
+    {
+      "id": "c26-q043",
+      "tema": "Demanda incierta y flota",
+      "dificultad": "avanzada",
+      "pregunta": "Una aerolínea no sabe si sostendrá una ruta. Puede arrendar aviones por períodos cortos cancelables o comprometerse por casi toda su vida útil. ¿Por qué podría pagar más por la primera alternativa?",
+      "opciones": [
+        "El contrato largo elimina el riesgo de demanda porque asegura la propiedad legal.",
+        "El contrato corto asegura que todas las rentas futuras serán iguales a cero.",
+        "La flexibilidad reduce el costo de quedar atada a capacidad que podría no necesitar.",
+        "La incertidumbre vuelve irrelevante comparar costos y condiciones."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "El riesgo de demanda depende de pasajeros e ingresos. Ni la propiedad legal ni un contrato largo garantizan ventas. La obligación prolongada puede aumentar el costo de tener capacidad innecesaria.",
+        "Cancelar puede evitar compromisos futuros dentro de los términos acordados. Mientras se usa el equipo, las rentas siguen siendo exigibles. La flexibilidad tiene valor, pero no equivale a usar aviones gratuitamente.",
+        "La ruta puede cerrar y volver excedente parte de la flota. Un contrato cancelable permite devolver aviones en las condiciones pactadas. Una arrendadora especializada puede recolocarlos mejor y cobrar por asumir ese riesgo.",
+        "La incertidumbre exige una comparación más cuidadosa. Deben valorarse escenarios de continuidad, devolución y eventualmente subarrendamiento. Ignorar las condiciones impediría medir cuánto vale la flexibilidad ofrecida."
+      ]
+    },
+    {
+      "id": "c26-q044",
+      "tema": "Capitalización contable histórica",
+      "dificultad": "basica",
+      "pregunta": "En las reglas contables estadounidenses históricas de la edición, ¿cuándo correspondía clasificar un contrato como arrendamiento de capital?",
+      "opciones": [
+        "Solo si se cumplían simultáneamente los cuatro criterios.",
+        "Al cumplir al menos uno: transferencia de dominio, compra ventajosa, plazo de al menos 75% de la vida o VP de pagos de al menos 90% del valor.",
+        "Siempre que el contrato durara más de un mes.",
+        "Solo cuando el activo tenía valor residual nulo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "Exigir los cuatro dejaría fuera contratos que ya satisfacen una condición suficiente. Las reglas históricas usaban criterios alternativos. Una transferencia de propiedad podía bastar aunque el plazo fuera menor al umbral indicado.",
+        "Los criterios funcionaban como condiciones alternativas. Bastaba uno para exigir capitalizar según ese esquema histórico. El importe presente se registraba como activo y obligación, sin confundir esta clasificación con la fiscal.",
+        "Ese plazo no era el criterio planteado. Importaban las condiciones económicas enumeradas, incluida la proporción de vida útil. Una duración aislada en meses no permite aplicar correctamente el esquema histórico.",
+        "El valor residual nulo no era una condición indispensable de esa lista. Podía existir capitalización con un rescate positivo. Lo determinante era cumplir al menos uno de los criterios establecidos."
+      ]
+    },
+    {
+      "id": "c26-q045",
+      "tema": "Umbrales y sustancia económica",
+      "dificultad": "avanzada",
+      "pregunta": "Bajo las reglas contables históricas, una directora ajusta el plazo y el VP de pagos apenas por debajo de los umbrales de capitalización, sin transferir dominio ni ofrecer compra ventajosa. ¿Qué debería advertir un analista?",
+      "opciones": [
+        "Aunque pudiera cambiar la clasificación, permanecen obligaciones fijas que deben incluirse al evaluar el apalancamiento.",
+        "El contrato ya no puede generar incumplimiento de pagos.",
+        "El riesgo financiero desaparece en cuanto el VP baja del umbral.",
+        "Todos los pagos futuros pasan a ser voluntarios."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "Evitar un umbral contable no elimina los pagos comprometidos. La exposición económica puede parecerse mucho a la de un contrato capitalizado. El analista debe reconstruir los compromisos y no limitarse al rótulo del balance.",
+        "El cumplimiento depende de la caja del usuario y de sus obligaciones. La clasificación contable no asegura solvencia. Los pagos fijos pueden producir dificultades aunque no se contabilicen como deuda bajo ese esquema.",
+        "Un pequeño cambio contractual no produce necesariamente un salto económico comparable. Los umbrales separan categorías contables. La evaluación financiera requiere medir las obligaciones reales y su relación con los recursos disponibles.",
+        "La ausencia de capitalización no introduce una opción de cancelación. Los derechos dependen de las cláusulas contractuales. Un compromiso firme sigue siendo exigible aunque su presentación contable sea diferente."
+      ]
+    },
+    {
+      "id": "c26-q046",
+      "tema": "Propiedad fiscal y arrendamiento genuino",
+      "dificultad": "intermedia",
+      "pregunta": "En el esquema fiscal estadounidense histórico considerado, ¿qué deducciones corresponden a un arrendamiento genuino?",
+      "opciones": [
+        "Ambas partes deducen siempre toda la depreciación dentro del mismo régimen nacional.",
+        "El usuario deduce el principal de un préstamo además de toda la renta.",
+        "El propietario deduce depreciación y excluye las rentas del ingreso gravable.",
+        "El usuario deduce rentas y el propietario fiscal deduce depreciación, mientras declara las rentas como ingreso."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "El esquema básico asigna la depreciación al propietario fiscal. No concede automáticamente dos deducciones del mismo activo. Las diferencias entre países pueden crear otras situaciones, pero no son la regla nacional supuesta.",
+        "La amortización de principal no es una deducción ordinaria equivalente a intereses. Además, el arrendamiento genuino se analiza con su propio tratamiento fiscal. Mezclar ambos esquemas duplica beneficios que no corresponden.",
+        "Las rentas son la contraprestación que recibe el propietario. En el esquema indicado forman parte de su ingreso gravable. Ignorarlas sobrestima la ventaja tributaria del arrendador.",
+        "La propiedad fiscal permite aprovechar la depreciación. El arrendatario deduce el pago cuando cumple las condiciones del esquema. La contraparte debe reconocer el ingreso gravado, por lo que no se trata de una deducción sin contrapartida."
+      ]
+    },
+    {
+      "id": "c26-q047",
+      "tema": "Compra disfrazada y opción simbólica",
+      "dificultad": "avanzada",
+      "pregunta": "Una empresa pacta rentas y la opción de adquirir al final una máquina valiosa por un importe simbólico. Bajo el tratamiento fiscal histórico supuesto, ¿qué riesgo debe revisar?",
+      "opciones": [
+        "Que deba deducir simultáneamente renta completa, depreciación e intereses por el mismo financiamiento.",
+        "Que el importe simbólico pruebe que la máquina carece de valor económico.",
+        "Que se trate fiscalmente como compra financiada, con depreciación e intereses para el comprador económico y sin deducción íntegra de rentas como alquiler.",
+        "Que toda opción de compra a cualquier precio invalide siempre el arrendamiento."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La reclasificación no habilita acumular todos los tratamientos. Cambia qué conceptos son deducibles y quién es el propietario fiscal. En una compra financiada se distinguen depreciación, intereses y devolución de principal.",
+        "El precio de la opción puede ser muy distinto del valor de mercado. Justamente una diferencia favorable vuelve casi segura su ejecución. No debe confundirse un precio contractual bajo con ausencia de utilidad o valor del equipo.",
+        "Un precio simbólico hace prácticamente segura la compra final. La autoridad puede entender que el acuerdo financia una adquisición desde el inicio. El nombre del contrato no garantiza el tratamiento de arrendamiento genuino.",
+        "La objeción se relaciona con una opción tan ventajosa que equivale a una compra predeterminada. No toda opción tiene ese efecto. Una opción a condiciones apropiadas requiere analizar su contenido económico y las reglas aplicables."
+      ]
+    },
+    {
+      "id": "c26-q048",
+      "tema": "Riesgo operativo y propiedad económica",
+      "dificultad": "intermedia",
+      "pregunta": "¿Por qué se dice que el usuario de un arrendamiento financiero se parece al propietario económico del activo?",
+      "opciones": [
+        "Porque siempre recibe automáticamente el activo gratis al vencimiento.",
+        "Recibe los resultados de utilizarlo y soporta sus riesgos de negocio mientras mantiene un compromiso no cancelable.",
+        "Porque puede dejar de pagar cuando el negocio no resulta rentable.",
+        "Porque el arrendador participa obligatoriamente en todas las ventas del usuario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La equivalencia económica no garantiza transferencia de dominio. El arrendador puede conservar el activo al terminar el contrato. Esa diferencia obliga a considerar el valor residual perdido frente a una compra con préstamo.",
+        "Si el equipo funciona mal para su negocio, el usuario normalmente sigue debiendo rentas. Si produce ingresos extraordinarios, esos ingresos operativos corresponden al usuario. La propiedad legal puede seguir en el arrendador y el rescate final requiere análisis separado.",
+        "La falta de rentabilidad no elimina un compromiso financiero no cancelable. Las rentas fijas siguen siendo exigibles según el contrato. Esa permanencia es justamente una razón para comparar el acuerdo con una deuda.",
+        "La renta pactada no convierte al propietario en socio de los ingresos operativos. En un contrato financiero típico su cobro es fijo. El usuario conserva la exposición al éxito o fracaso de explotar el activo."
+      ]
+    },
+    {
+      "id": "c26-q049",
+      "tema": "Descuento según riesgo de cada flujo",
+      "dificultad": "avanzada",
+      "pregunta": "¿Cuándo sería insuficiente descontar todos los componentes de un arrendamiento a una sola tasa de deuda después de impuestos?",
+      "opciones": [
+        "Cuando los escudos fiscales son inciertos o mantenimiento y rescate tienen riesgos distintos de los pagos contractuales.",
+        "Siempre que exista un pago en el momento cero.",
+        "Solo cuando el contrato está redactado en moneda extranjera, aunque todos los riesgos estén cubiertos.",
+        "Nunca, porque todos los flujos de cualquier arrendamiento son seguros."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La tasa única simplifica suponiendo flujos comparables a deuda y uso seguro de deducciones. Si un ahorro depende de utilidades inciertas, su riesgo cambia. El análisis más preciso separa componentes y los valora con tasas o ajustes coherentes con cada riesgo.",
+        "Un pago inmediato no requiere otra tasa de descuento. Su valor presente coincide con su importe. Lo importante es incluirlo en la fecha correcta y no desplazarlo al año siguiente.",
+        "La moneda exige coherencia entre flujos y tasa, pero no define por sí sola toda la cuestión. Incluso en una única moneda puede haber distintos riesgos de escudos y rescate. La separación debe basarse en la exposición económica de cada componente.",
+        "Un contrato no asegura la futura utilidad gravable ni el precio de reventa. Incluso los pagos pueden enfrentar incumplimiento. La tasa única es un supuesto de trabajo, no una garantía universal sobre todos los riesgos."
+      ]
+    },
+    {
+      "id": "c26-q050",
+      "tema": "Fórmula del valor incremental",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué expresión resume la valuación de un arrendamiento financiero neto con flujos equivalentes a deuda y beneficios fiscales utilizables?",
+      "opciones": [
+        "Precio del activo menos suma nominal de rentas brutas.",
+        "VP de ingresos operativos descontados siempre a la tasa de deuda neta.",
+        "Rentas brutas menos depreciación contable, sin considerar la compra evitada.",
+        "Financiamiento inicial neto menos VP de salidas incrementales futuras, descontadas a rD × (1 − Tc)."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Esta expresión ignora las fechas y los efectos fiscales. También puede omitir la depreciación perdida al no comprar. La comparación correcta usa flujos incrementales netos y descuento consistente.",
+        "Los ingresos del negocio pertenecen a la decisión de inversión. No tienen necesariamente riesgo equivalente al de un préstamo. La tasa de deuda neta se usa aquí para componentes financieros de riesgo comparable, no para cualquier ingreso operativo.",
+        "La depreciación contable no reemplaza el escudo fiscal relevante. Además, omitir la compra evitada elimina el financiamiento que origina el contrato. El modelo necesita tanto el flujo inicial como los efectos futuros incrementales.",
+        "El financiamiento inicial ya resta las salidas inmediatas atribuibles al contrato. Las salidas posteriores incorporan renta neta y depreciación fiscal perdida, entre otros efectos pertinentes. Su VP es el préstamo equivalente que se compara con la entrada inicial."
+      ]
+    },
+    {
+      "id": "c26-q051",
+      "tema": "Decisión de inversión y financiamiento",
+      "dificultad": "intermedia",
+      "pregunta": "Un director observa que arrendar tiene VPN positivo frente al préstamo equivalente y concluye que debe adquirir una máquina que todavía no evaluó. ¿Qué falta?",
+      "opciones": [
+        "Nada: cualquier ahorro financiero asegura que el proyecto total sea rentable.",
+        "Duplicar la ventaja del arrendamiento porque también conserva efectivo.",
+        "Evaluar el proyecto y combinar su VPN base con la ventaja financiera incremental.",
+        "Descartar automáticamente el contrato porque no transfiere el dominio."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La inversión puede destruir más valor que el ahorro del contrato. Un efecto financiero positivo no compensa necesariamente un VPN operativo muy negativo. Hay que evaluar ambos antes de decidir.",
+        "El efectivo inicial ya forma parte del VPN financiero calculado. Sumárselo otra vez contabilizaría dos veces el mismo beneficio. La integración con el proyecto debe incorporar solo efectos incrementales no duplicados.",
+        "Un arrendamiento favorable indica cómo financiar si conviene obtener el activo. No demuestra que los ingresos operativos compensen su costo. El VPA permite comprobar si el beneficio financiero alcanza para que el paquete completo cree valor.",
+        "La propiedad legal no es un requisito para obtener utilidad económica del activo. Un contrato puede ser conveniente pese a devolver el bien al final. La decisión requiere valorar uso, financiamiento y rescate, no exigir siempre dominio."
+      ]
+    },
+    {
+      "id": "c26-q052",
+      "tema": "Simetría entre las partes",
+      "dificultad": "intermedia",
+      "pregunta": "Si ambas partes tienen iguales tasas fiscales, idénticos criterios de descuento y no hay diferencias de costos ni otros efectos, ¿cómo se relacionan sus VPN financieros incrementales?",
+      "opciones": [
+        "Ambos deben ser positivos porque el activo se usa productivamente.",
+        "Son opuestos y su suma es cero.",
+        "El arrendador gana siempre porque conserva la propiedad legal.",
+        "La suma equivale necesariamente al precio total del activo."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La productividad del activo pertenece a la inversión subyacente. No crea por sí sola una ganancia en la transferencia financiera entre partes idénticas. Para el contrato incremental, los flujos opuestos se compensan.",
+        "Los flujos del arrendador son el reverso de los del usuario bajo esos supuestos. Aplicar el mismo descuento conserva esa simetría. Una ganancia puramente financiera de una parte se corresponde con una pérdida de la otra.",
+        "La propiedad también tiene un costo de adquisición y una exposición residual. Sus efectos ya deben estar incluidos en la valuación. No garantiza una ganancia bajo cualquier renta acordada.",
+        "El precio es un flujo que una parte paga y la otra evita frente a comprar. En la comparación simétrica sus efectos se compensan con signo opuesto. La suma de VPN no reproduce automáticamente el valor bruto del equipo."
+      ]
+    },
+    {
+      "id": "c26-q053",
+      "tema": "Fuentes de ganancia fiscal conjunta",
+      "dificultad": "avanzada",
+      "pregunta": "En igualdad de otras condiciones, ¿qué combinación favorece una mayor ganancia fiscal conjunta del arrendamiento en el modelo del capítulo?",
+      "opciones": [
+        "Arrendador con mayor tasa fiscal, depreciación temprana, pagos más tardíos y tasa de interés alta.",
+        "Tasas fiscales idénticas, depreciación tardía y tasa de interés cero.",
+        "Arrendador sin impuestos, usuario plenamente gravado y depreciación más tardía.",
+        "Pagos más tempranos y depreciación más lenta, sin importar las tasas."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El propietario aprovecha pronto deducciones que el usuario aprovecharía poco. Los impuestos sobre las rentas se desplazan hacia fechas posteriores. Una tasa positiva y mayor aumenta el valor de anticipar ahorros y diferir impuestos en este modelo.",
+        "Esta combinación elimina o debilita los mecanismos de ganancia fiscal descritos. Con iguales tasas y supuestos simétricos las posiciones se compensan. Sin interés tampoco existe valor temporal por posponer impuestos.",
+        "Ubicar las deducciones en quien no puede utilizarlas desaprovecha su beneficio. El mecanismo busca lo contrario: asignarlas a un contribuyente capaz de usarlas. La depreciación tardía también demora el ahorro tributario.",
+        "Anticipar rentas puede anticipar los impuestos que paga el arrendador. Demorar depreciación posterga sus ahorros fiscales. Además, las tasas de ambas partes son esenciales para estimar cualquier ventaja conjunta."
+      ]
+    },
+    {
+      "id": "c26-q054",
+      "tema": "Tasa cero y diferimiento fiscal",
+      "dificultad": "avanzada",
+      "pregunta": "Si la tasa de interés es cero y todas las deducciones e impuestos se aprovechan plenamente, ¿qué pasa con la ventaja puramente temporal de cobrar escudos antes y pagar impuestos después?",
+      "opciones": [
+        "Se vuelve infinita porque no hay costo financiero.",
+        "Se conserva intacta porque la depreciación siempre es una entrada de caja.",
+        "Obliga a usar el costo de capital operativo para crear una ventaja fiscal.",
+        "Desaparece porque un peso de distintas fechas tiene el mismo valor presente."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una tasa cero no transforma flujos finitos en valor infinito en un contrato finito. Solo iguala sus ponderaciones temporales. La ventaja de mover impuestos entre fechas se anula en lugar de multiplicarse.",
+        "La depreciación no es un cobro por sí misma. Su efecto es reducir impuestos cuando puede utilizarse. Con descuento cero, la fecha del ahorro deja de generar una ventaja temporal.",
+        "La tasa no debe cambiarse para obtener el resultado deseado. Se elige según el riesgo y los supuestos del flujo. Usar otra tasa arbitrariamente no restablece una ganancia temporal que el caso excluye.",
+        "Con descuento cero, adelantar un ahorro no eleva su valor. Tampoco posponer un impuesto reduce su costo presente. Esto elimina ese mecanismo temporal, aunque no afirma que desaparezcan otros beneficios de servicios o transacción."
+      ]
+    },
+    {
+      "id": "c26-q055",
+      "tema": "Arrendamiento estructurado",
+      "dificultad": "avanzada",
+      "pregunta": "Un usuario sin impuestos negocia rentas más concentradas al final con un arrendador gravado. Si se mantiene el VPN del arrendador y se respetan límites fiscales, ¿qué debe examinarse?",
+      "opciones": [
+        "Solo que la suma nominal de rentas no cambie.",
+        "Que la renta final más alta nunca aumenta riesgo de incumplimiento.",
+        "Si la distinta valoración temporal permite mejorar el VPN del usuario sin perjudicar al arrendador.",
+        "Que el nombre del contrato asegure automáticamente su aceptación fiscal."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "La suma nominal no conserva necesariamente el VPN. Mover pagos altera su valor y el momento de los impuestos. Para mantener al arrendador indiferente se requiere igualar valores presentes según su situación.",
+        "Concentrar pagos puede aumentar exigencias futuras de caja. Ese riesgo no desaparece por conservar un VPN bajo una tasa inicialmente supuesta. La nueva estructura debe evaluarse con su riesgo y viabilidad financiera.",
+        "El arrendador y el usuario pueden tener tasas netas de descuento diferentes. Por eso no son indiferentes al mismo cambio de calendario. Hay que recalcular ambas posiciones y comprobar las restricciones, no asumir que cualquier postergación sirve.",
+        "La autoridad puede atender al contenido económico y a límites de estructuración. Una denominación no garantiza deducibilidad. La ventaja solo es válida si el calendario cumple las condiciones aplicables al supuesto."
+      ]
+    },
+    {
+      "id": "c26-q056",
+      "tema": "Arrendamiento internacional",
+      "dificultad": "intermedia",
+      "pregunta": "¿Cómo puede surgir una doble deducción por depreciación en un arrendamiento transfronterizo bajo tratamientos históricos diferentes?",
+      "opciones": [
+        "Porque toda compra internacional autoriza a depreciar el activo dos veces en un mismo contribuyente.",
+        "Un país puede asignarla al propietario legal y otro al usuario, permitiendo que ambas partes la reclamen si no hay reglas que lo impidan.",
+        "Porque usar dos monedas duplica físicamente el valor del activo.",
+        "Porque la contabilidad es idéntica en todos los países y siempre ignora al usuario."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El hecho de cruzar una frontera no crea ese derecho general. La oportunidad nace de tratamientos fiscales diferentes entre partes y jurisdicciones. Las autoridades pueden establecer reglas para impedir el doble aprovechamiento.",
+        "Las jurisdicciones pueden identificar de manera distinta al propietario fiscal. Esa asimetría puede producir dos deducciones sobre un mismo activo. La viabilidad depende de normas específicas y no debe suponerse permitida en cualquier país o época.",
+        "La conversión monetaria cambia la unidad de medida y no la cantidad de activos. No crea una deducción adicional por sí misma. El mecanismo depende de quién tiene derecho fiscal a depreciar.",
+        "La oportunidad requiere precisamente diferencias de tratamiento. Algunos esquemas asignan depreciación al arrendador y otros al arrendatario. Suponer uniformidad impediría identificar el origen de la asimetría."
+      ]
+    },
+    {
+      "id": "c26-q057",
+      "tema": "Estructura apalancada y EPE",
+      "dificultad": "basica",
+      "pregunta": "¿Qué función cumple la entidad de propósito especial en un arrendamiento apalancado típico?",
+      "opciones": [
+        "Compra y arrienda el activo combinando deuda de prestamistas con capital aportado por la arrendadora.",
+        "Garantiza que el usuario nunca tenga que pagar rentas.",
+        "Sustituye toda la deuda por acciones emitidas al usuario.",
+        "Compra el activo sin desembolso ni aportes de ninguna parte."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "La operación incorpora un tercer grupo de participantes: los prestamistas. La EPE reúne el financiamiento y canaliza pagos y derechos sobre el activo. La deuda del arrendador no modifica por sí sola las rentas que debe el usuario.",
+        "La EPE no elimina el contrato con el usuario. Las rentas son una fuente central del servicio de deuda. Sin ellas, la estructura enfrenta riesgo de incumplimiento y recuperación del activo.",
+        "La estructura apalancada utiliza deuda de terceros además de capital del arrendador. No exige que el usuario se vuelva accionista. Confundir las fuentes de financiamiento impide identificar prioridades y riesgos.",
+        "El precio debe financiarse con fondos efectivos. La deuda cubre una parte y el capital cubre el resto. La EPE organiza esos aportes, pero no hace desaparecer el costo de compra."
+      ]
+    },
+    {
+      "id": "c26-q058",
+      "tema": "Deuda sin recurso",
+      "dificultad": "intermedia",
+      "pregunta": "¿Qué significa que la deuda de un arrendamiento apalancado sea sin recurso contra la compañía arrendadora?",
+      "opciones": [
+        "Que los prestamistas no pueden ejecutar ninguna garantía.",
+        "Que el préstamo no tiene intereses ni exige devolución.",
+        "Que el arrendador no puede perder ni siquiera el capital aportado a la EPE.",
+        "Los prestamistas cobran prioritariamente de las rentas y del activo, pero no pueden reclamar otros bienes de esa compañía por esa deuda."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Sin recurso no significa sin garantía. El activo y los pagos pueden respaldar prioritariamente la deuda. La limitación se refiere al acceso a otros bienes de la compañía arrendadora.",
+        "La ausencia de recurso no convierte la deuda en una donación. Se mantienen principal, intereses y condiciones de pago. El prestamista cobra un rendimiento por el riesgo que acepta.",
+        "Limitar reclamos sobre otros activos no protege el capital ya invertido. Ese aporte soporta pérdidas después de los derechos prioritarios de deuda. La protección consiste en limitar exposición adicional, no en asegurar la inversión inicial.",
+        "La ausencia de recurso limita las fuentes de recuperación del prestamista. No elimina las garantías sobre el activo ni sus derechos sobre las rentas. El capital invertido en la operación sigue expuesto a pérdidas."
+      ]
+    },
+    {
+      "id": "c26-q059",
+      "tema": "Precio de limitar el recurso",
+      "dificultad": "avanzada",
+      "pregunta": "Un director sostiene que endeudarse sin recurso crea valor gratis porque recibe el préstamo y protege todo su patrimonio externo. En un mercado eficiente, ¿qué debería responderse?",
+      "opciones": [
+        "Que el prestamista acepta necesariamente la misma tasa con cualquier garantía.",
+        "Que la ausencia de recurso vuelve más seguro al préstamo que una garantía total idéntica.",
+        "El prestamista cobra por asumir esa limitación, normalmente mediante mayor tasa o condiciones más exigentes.",
+        "Que la prima pagada demuestra que la estructura completa siempre destruye valor."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las garantías y el recurso afectan las pérdidas esperadas. Un prestamista racional incorpora esas diferencias al precio o a las condiciones. Mantener siempre la misma tasa supondría ignorar el riesgo transferido.",
+        "Limitar el reclamo reduce, no amplía, las fuentes de cobro. El valor del activo y el crédito del usuario siguen importando. Esa restricción puede exigir una compensación mayor.",
+        "Reducir las fuentes de recuperación transfiere riesgo al prestamista. Este debe recibir compensación por aceptarlo. En un mercado competitivo, esa transferencia aislada tiende a tener VPN cero y no constituye un regalo financiero.",
+        "Una prima remunera un riesgo y no demuestra por sí sola destrucción de valor. Puede coexistir con ventajas fiscales o de organización. Debe evaluarse la operación completa y no confundir un costo justo con una pérdida extraordinaria."
+      ]
+    },
+    {
+      "id": "c26-q060",
+      "tema": "Flujos de capital y TIR múltiples",
+      "dificultad": "avanzada",
+      "pregunta": "¿Por qué puede ser engañoso evaluar el capital de un arrendamiento apalancado usando solo la TIR?",
+      "opciones": [
+        "Porque la TIR siempre es igual a la tasa de interés de la deuda.",
+        "Los flujos netos pueden cambiar de signo varias veces y producir varias TIR, por lo que el VPN es un criterio más seguro.",
+        "Porque más de un cambio de signo garantiza exactamente dos TIR positivas.",
+        "Porque los escudos fiscales nunca forman parte de los flujos del accionista."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "La TIR se obtiene de los flujos de la inversión de capital. No es por definición el interés contractual del préstamo. Apalancamiento, impuestos y rescate pueden generar un perfil muy distinto.",
+        "Al principio puede haber aporte de capital y luego beneficios fiscales. Más adelante pueden aparecer impuestos o desembolsos antes del ingreso residual final. Esos cambios permiten múltiples raíces y una TIR aislada puede no indicar creación de valor.",
+        "Los cambios de signo permiten múltiples soluciones, pero no garantizan ese número ni su positividad. La estructura concreta de flujos determina las raíces. Por eso conviene verificar el VPN a tasas apropiadas en lugar de asumir una TIR única.",
+        "Los escudos utilizables sí afectan la caja atribuible al capital. Excluirlos puede distorsionar fuertemente la inversión. La dificultad surge de sus fechas y de los cambios de signo, no de que sean irrelevantes."
+      ]
+    },
+    {
+      "id": "c26-q061",
+      "tema": "Valuación del capital del arrendador",
+      "dificultad": "avanzada",
+      "pregunta": "¿Qué procedimiento es coherente para valorar la inversión de capital de un arrendador apalancado?",
+      "opciones": [
+        "Valorar los flujos y efectos fiscales de la operación con riesgos apropiados y descontar el valor de los derechos prioritarios de deuda, evitando contar dos veces sus escudos.",
+        "Descontar el precio de rescate e ignorar todos los impuestos y aportes iniciales.",
+        "Asignar al capital todas las rentas y sumar nuevamente la deuda recibida sin reconocer su devolución.",
+        "Aplicar la tasa de deuda sin impuestos a cualquier flujo porque todos tienen la misma garantía."
+      ],
+      "correcta": 0,
+      "explicaciones": [
+        "El capital es un derecho residual sobre los recursos de la estructura. Su valor depende del contrato, impuestos, rescate y obligaciones con prestamistas. Separar los derechos permite tratar sus riesgos y evita valorar todo con una TIR potencialmente ambigua.",
+        "El rescate es solo una parte de los flujos del capital. Los aportes y los beneficios o pagos fiscales también afectan su VPN. Omitirlos puede invertir la conclusión sobre la rentabilidad de la inversión.",
+        "Los prestamistas tienen prioridad sobre rentas destinadas al servicio de deuda. El préstamo recibido crea obligaciones posteriores. Atribuir las rentas completas al accionista sin esas cargas sobrestima el valor residual.",
+        "El rescate, los escudos y los derechos de capital no tienen necesariamente el riesgo de la deuda. La prioridad del préstamo también cambia la exposición residual. Se requiere un descuento consistente con cada componente o una valuación equivalente bien construida."
+      ]
+    },
+    {
+      "id": "c26-q062",
+      "tema": "IMA y diferimiento tributario",
+      "dificultad": "avanzada",
+      "pregunta": "En el esquema histórico supuesto, una empresa deprecia aceleradamente para impuestos y linealmente en sus estados contables. Está alcanzada por el IMA y evalúa arrendar a un propietario no alcanzado por él. ¿Qué razonamiento es correcto?",
+      "opciones": [
+        "La diferencia entre depreciación contable y fiscal prueba que todos los impuestos se perdonan definitivamente.",
+        "Arrendar siempre elimina el IMA, incluso si los demás ajustes y bases quedan intactos.",
+        "La empresa debe dejar de comparar impuestos porque la renta afecta únicamente resultados contables.",
+        "La renta puede evitar ajustes del IMA ligados a depreciación propia, mientras el arrendador usa las deducciones; hay que valorar ambos efectos y su calendario."
+      ],
+      "correcta": 3,
+      "explicaciones": [
+        "Una deducción acelerada adelanta ahorro tributario respecto de otra más lenta. En años posteriores puede revertirse esa diferencia. No equivale por sí sola a una exención definitiva y el IMA puede limitar el beneficio inicial.",
+        "El cambio contractual solo modifica los componentes relacionados con el activo y sus deducciones. Pueden persistir otros ajustes y una obligación de impuesto mínimo. Es necesario recalcular ambos regímenes, no prometer una eliminación automática.",
+        "La renta deducible puede modificar impuestos efectivamente pagados. El caso exige distinguir esos flujos de la mera presentación contable. Ignorar los efectos fiscales impediría estimar la ventaja real de la operación.",
+        "En ese esquema, las rentas no se agregan a la base alternativa como ciertos beneficios de depreciación acelerada. El propietario puede compartir su ventaja mediante una tarifa menor. La depreciación acelerada normalmente difiere impuestos y puede generar un pasivo por impuestos diferidos, sin eliminar para siempre el tributo."
+      ]
+    },
+    {
+      "id": "c26-q063",
+      "tema": "Cambio tecnológico y tarifa inicial",
+      "dificultad": "avanzada",
+      "pregunta": "Una arrendadora prevé que equipos nuevos cada vez más baratos harán caer las rentas de su equipo actual. Manteniendo costo inicial, riesgo y demás costos constantes, ¿qué exige el equilibrio frente a suponer rentas uniformes?",
+      "opciones": [
+        "Una renta inicial menor porque cualquier caída futura de tarifas aumenta el valor del activo actual.",
+        "La misma renta inicial porque solo importan las tarifas del primer año.",
+        "Una renta inicial mayor que compense el menor valor presente de las rentas posteriores.",
+        "Un valor residual garantizado igual al precio original."
+      ],
+      "correcta": 2,
+      "explicaciones": [
+        "Las rentas futuras menores reducen los ingresos presentes esperados. No elevan automáticamente el valor económico del equipo actual. Con costos constantes, reducir también la renta inicial profundizaría el faltante.",
+        "La compra financia un activo que genera servicios durante varios períodos. Su recuperación depende de todo el calendario de rentas. Ignorar la caída posterior sobrestima la capacidad del contrato para cubrir el costo.",
+        "La competencia de equipos nuevos baratos limita las tarifas futuras del activo actual. Si esas tarifas caen y nada más cambia, disminuye el valor presente de lo que se cobrará. Para recuperar el mismo costo, las primeras rentas deben ser mayores, si el mercado permite cobrarlas.",
+        "El cambio tecnológico puede reducir también el valor de reventa. No crea una garantía sobre el precio final. El análisis debe revisar tarifas y rescate esperados, manteniendo explícitos los supuestos del ejercicio."
+      ]
+    },
+    {
+      "id": "c26-q064",
+      "tema": "Caja del arrendador y servicio de deuda",
+      "dificultad": "intermedia",
+      "pregunta": "En una operación apalancada, casi todas las rentas iniciales se destinan al préstamo. ¿Cómo puede el arrendador obtener beneficios tempranos y qué recibe al final?",
+      "opciones": [
+        "Recibe todas las rentas libres y el prestamista se paga sin usar efectivo.",
+        "Puede usar pérdidas fiscales generadas por depreciación e intereses contra otros ingresos, y al final recibir el activo o el precio de una opción ejercida.",
+        "Deduce la devolución de principal como si fuera un interés adicional.",
+        "Pierde siempre toda posibilidad de recibir rescate porque financiar con deuda transfiere el dominio al prestamista."
+      ],
+      "correcta": 1,
+      "explicaciones": [
+        "El servicio de deuda requiere recursos efectivos. Las rentas se destinan prioritariamente a esos pagos en la estructura descrita. No pueden atribuirse simultáneamente completas al capital sin reconocer la obligación financiera.",
+        "No recibir rentas libres de deuda no implica carecer de beneficios de caja tributarios. Las deducciones pueden proteger otras utilidades si son utilizables. Una vez cancelada la deuda, el valor residual constituye otra fuente importante del rendimiento del capital.",
+        "El principal devuelve fondos recibidos y no es gasto deducible en el esquema supuesto. Los escudos provienen de intereses y depreciación. Confundir amortización financiera con gasto fiscal sobrestima el beneficio temprano.",
+        "Una garantía no equivale necesariamente a una transferencia definitiva del dominio. Si la deuda se paga, los derechos prioritarios del prestamista se extinguen según el contrato. El arrendador puede conservar el activo o cobrar su venta al usuario al vencimiento."
+      ]
+    }
+  ]
+}
