@@ -1,4 +1,4 @@
-const CACHE = 'finanzas-v2';
+const CACHE = 'finanzas-v3';
 const STATIC_FILES = ['/', '/app.js', '/styles.css', '/manifest.webmanifest', '/icons/icon-192.png', '/icons/icon-512.png', '/icons/apple-touch-icon.png'];
 const cacheable = response => response.ok && !response.redirected && response.type !== 'opaqueredirect';
 self.addEventListener('install', event => {

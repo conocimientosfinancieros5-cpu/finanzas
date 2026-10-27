@@ -30,7 +30,8 @@ class Node {
 }
 const app = new Node('main'), status = new Node('p');
 let saved = '{}', confirmation = false;
-const context = vm.createContext({ document: { querySelector: s => s === '#app' ? app : status, createElement: tag => new Node(tag) }, localStorage: { getItem: () => saved, setItem: (_, value) => { saved = value; } }, confirm: () => confirmation, fetch: async url => ({ ok: !url.includes('02'), json: async () => url.endsWith('capitulos.json') ? catalog : url.includes('01') ? data : { capitulo: 3, preguntas: [] } }), console });
+const themeMedia = { matches: false, addEventListener: (_, fn) => { themeMedia.change = fn; } };
+const context = vm.createContext({ matchMedia: () => themeMedia, document: { documentElement: new Node('html'), querySelector: s => s === '#app' ? app : status, createElement: tag => new Node(tag) }, localStorage: { getItem: () => saved, setItem: (_, value) => { saved = value; } }, confirm: () => confirmation, fetch: async url => ({ ok: !url.includes('02'), json: async () => url.endsWith('capitulos.json') ? catalog : url.includes('01') ? data : { capitulo: 3, preguntas: [] } }), console });
 const source = await readFile(new URL('../public/app.js', import.meta.url), 'utf8');
 const run = code => vm.runInContext(code, context);
 const all = node => [node, ...node.children.flatMap(all)];
@@ -39,12 +40,21 @@ const click = label => { const b = all(app).find(n => n.tag === 'button' && n.te
 vm.runInContext(source, context);
 await new Promise(resolve => setImmediate(resolve));
 assert.equal(all(app).filter(n => n.tag === 'button' && n.disabled).length, 2);
+assert.equal(context.document.documentElement.dataset.theme, 'light');
+themeMedia.matches = true; themeMedia.change();
+assert.equal(context.document.documentElement.dataset.theme, 'dark');
+const selector = all(app).find(n => n.tag === 'select');
+selector.value = 'light'; selector.click();
+assert.equal(context.document.documentElement.dataset.theme, 'light');
+assert.equal(saved, 'light'); saved = '{}';
+selector.value = 'auto'; selector.click(); saved = '{}';
+assert.equal(context.document.documentElement.dataset.theme, 'dark');
 all(app).find(n => n.tag === 'button' && !n.disabled).click(); await new Promise(resolve => setImmediate(resolve));
 assert.equal(run('queue[0].id'), 'c01-q001');
 click('100');
 assert(text(app).includes('Incorrecto')); assert(text(app).includes('No sumaste el interés.')); assert(text(app).includes('100 × 1,10 = 110.'));
 assert.equal(JSON.parse(saved)['c01-q001'].intentos, 1);
-const restored = vm.createContext({ ...context, document: { querySelector: () => new Node('main'), createElement: tag => new Node(tag) } });
+const restored = vm.createContext({ ...context, document: { documentElement: new Node('html'), querySelector: () => new Node('main'), createElement: tag => new Node(tag) } });
 vm.runInContext(source, restored);
 await new Promise(resolve => setImmediate(resolve));
 assert.equal(vm.runInContext("progress['c01-q001'].ultimoResultado", restored), false);

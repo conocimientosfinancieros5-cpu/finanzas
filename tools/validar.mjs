@@ -28,6 +28,8 @@ export async function validar(base = root) {
         else ids.add(q.id);
         for (const field of ['tema', 'pregunta']) if (!text(q[field])) fail(`${at}: ${field} vacío`);
         if (!['basica', 'intermedia', 'avanzada'].includes(q.dificultad)) fail(`${at}: dificultad inválida`);
+        // Codex once saved accents as "?" (e.g. "Administraci?n").
+        if (/[A-Za-z]\?[a-z]|�/.test(JSON.stringify([data.titulo, q]))) fail(`${at}: acentos rotos`);
         for (const field of ['opciones', 'explicaciones']) {
           if (!Array.isArray(q[field]) || q[field].length !== 4 || !q[field].every(text)) fail(`${at}: ${field} debe tener 4 textos no vacíos`);
         }

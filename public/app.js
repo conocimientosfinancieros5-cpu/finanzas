@@ -1,6 +1,16 @@
 'use strict';
 const app = document.querySelector('#app');
 const storageStatus = document.querySelector('#storage-status');
+const systemTheme = matchMedia('(prefers-color-scheme: dark)');
+let theme = 'auto';
+try { const savedTheme = localStorage.getItem('finanzas-tema'); if (['auto', 'light', 'dark'].includes(savedTheme)) theme = savedTheme; } catch {}
+function applyTheme() {
+  const active = theme === 'auto' ? (systemTheme.matches ? 'dark' : 'light') : theme;
+  document.documentElement.dataset.theme = active;
+  document.querySelector('meta[name="theme-color"]').setAttribute('content', active === 'dark' ? '#242d34' : '#f3efe6');
+}
+systemTheme.addEventListener('change', applyTheme);
+applyTheme();
 const STORAGE_KEY = 'finanzas-progreso-v1';
 let progress = Object.create(null);
 let chapters = [], chapter, queue = [], position = 0, filter = 'Todas';
@@ -42,6 +52,17 @@ function stats(chapterList) {
 function home() {
   chapter = null; app.replaceChildren(); heading('Practicá finanzas');
   app.append(element('p', 'Un capítulo, una pregunta, un paso más.'));
+  const appearance = element('label', 'Apariencia', 'appearance');
+  const selector = element('select'); selector.setAttribute('aria-label', 'Tema de la aplicación');
+  for (const [value, label] of [['auto', 'Automático'], ['light', 'Claro'], ['dark', 'Oscuro']]) {
+    const option = element('option', label); option.value = value; selector.append(option);
+  }
+  selector.value = theme;
+  selector.addEventListener('change', () => {
+    theme = selector.value; applyTheme();
+    try { localStorage.setItem('finanzas-tema', theme); } catch { storageStatus.textContent = 'El tema se conservará solo durante esta sesión.'; }
+  });
+  appearance.append(selector); app.append(appearance);
   const all = stats(chapters);
   const panel = element('section', undefined, 'panel');
   panel.append(element('h2', 'Tu progreso total'), element('p', all.text));
@@ -50,7 +71,14 @@ function home() {
   const list = element('div', undefined, 'chapters');
   for (const c of chapters) {
     const item = button('', () => open(c, item), 'chapter');
-    item.append(element('strong', `${c.n}. ${c.titulo}`), element('span', c.total ? stats([c]).text : 'Próximamente'));
+    const summary = stats([c]);
+    const copy = element('div', undefined, 'chapter-copy');
+    copy.append(element('strong', c.titulo), element('span', c.total ? summary.text : 'Próximamente', 'meta'));
+    if (c.total) {
+      const mini = element('progress'); mini.max = summary.total; mini.value = summary.answered;
+      mini.setAttribute('aria-label', 'Progreso del capítulo ' + c.n); copy.append(mini);
+    }
+    item.append(element('span', String(c.n).padStart(2, '0'), 'chapter-number'), copy);
     item.disabled = !c.total; list.append(item);
   }
   app.append(list);
@@ -90,7 +118,9 @@ function practice() {
     app.append(element('h2', '¡Ronda completada!'), element('p', stats([chapter]).text), button('Seguir practicando', start, 'primary')); return;
   }
   const q = queue[position];
-  app.append(element('p', `${position + 1} / ${queue.length} · ${q.tema} · ${q.dificultad}`, 'meta'), element('h2', q.pregunta));
+  const meta = element('div', undefined, 'question-meta');
+  meta.append(element('span', `${position + 1} / ${queue.length}`, 'meta'), element('span', q.tema, 'chip'), element('span', q.dificultad, 'chip difficulty-' + q.dificultad));
+  app.append(meta, element('h2', q.pregunta, 'question'));
   const options = element('div', undefined, 'options');
   const feedback = element('section'); feedback.id = 'feedback'; feedback.setAttribute('aria-live', 'polite'); feedback.setAttribute('aria-atomic', 'true');
   const next = button('Siguiente', () => { position++; practice(); }, 'primary'); next.hidden = true;
@@ -105,15 +135,16 @@ function practice() {
       progress[q.id] = { intentos: previous.intentos + 1, aciertos: previous.aciertos + Number(correct), ultimoResultado: correct }; save();
       for (const control of options.children) {
         control.disabled = true;
-        if (Number(control.dataset.index) === q.correcta) { control.classList.add('correct'); control.append(element('span', ' · Correcta')); }
+        if (Number(control.dataset.index) === q.correcta) { control.classList.add('correct'); control.append(element('span', ' ✓ Correcta')); }
       }
-      if (!correct) { option.classList.add('wrong'); option.append(element('span', ' · Tu respuesta: incorrecta')); }
-      feedback.className = 'panel'; feedback.append(element('h2', correct ? '¡Correcto!' : 'Incorrecto'));
+      if (!correct) { option.classList.add('wrong'); option.append(element('span', ' ✗ Tu respuesta: incorrecta')); }
+      feedback.className = 'panel ' + (correct ? 'correct' : 'wrong'); feedback.append(element('h2', correct ? '✓ ¡Correcto!' : '✗ Incorrecto'));
       if (!correct) feedback.append(element('h3', 'Tu respuesta'), element('p', q.explicaciones[index]));
       feedback.append(element('h3', 'Respuesta correcta'), element('p', q.explicaciones[q.correcta])); next.hidden = false;
     }); option.dataset.index = index; options.append(option);
   }
-  app.append(options, feedback, next);
+  const actions = element('div', undefined, 'next-action'); actions.append(next);
+  app.append(options, feedback, actions);
 }
 async function json(url) { const response = await fetch(url); if (!response.ok) throw new Error(url); return response.json(); }
 async function load() {
